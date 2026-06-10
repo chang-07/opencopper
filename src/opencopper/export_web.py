@@ -13,14 +13,30 @@ from dataclasses import asdict
 from pathlib import Path
 
 from .balance import BASELINE, run
+from .commodities import (
+    COMMODITY_SCENARIO_DIR,
+    list_commodity_names,
+    load_commodity,
+    load_commodity_scenario,
+    run_commodity,
+)
 from .ledger import load_assumptions, load_ledger
 from .minmod import DEFAULT_CACHE as MINMOD_CACHE
-from .minmod import load_sites, partition_plausible
+from .minmod import cache_path, load_sites, partition_plausible
 from .scenario import SCENARIO_DIR, load_scenario
 from .shocks import MineOutage, MineRestart, Scenario, SmelterClosure, Tariff
 
-DEPOSIT_MIN_KT = 1_000.0  # only major deposits on the map layer
+DEPOSIT_MIN_KT = 1_000.0  # copper default; per-commodity floors below
 DEPOSIT_MAX_POINTS = 300
+# Map-layer floors scale with each commodity's market size.
+DEPOSIT_MIN_BY_COMMODITY = {
+    "copper": 1_000.0,
+    "nickel": 300.0,
+    "zinc": 500.0,
+    "cobalt": 100.0,
+    "lithium": 100.0,
+    "rare-earths": 100.0,
+}
 
 YEARS = range(2024, 2031)
 
@@ -61,17 +77,19 @@ def _grasberg_scenario(severity_2026: float) -> Scenario:
     return Scenario(name=f"grasberg-sev-{severity_2026:.1f}", events=events)
 
 
-def _deposit_layer(minmod_cache: Path) -> list[dict]:
+def _deposit_layer(
+    minmod_cache: Path, commodity: str = "copper", min_kt: float = DEPOSIT_MIN_KT
+) -> list[dict]:
     """Major plausible MinMod deposits for the map. Empty when no cache —
     the demo never requires the MinMod fetch to have run."""
     if not minmod_cache.exists():
         return []
-    plausible, _ = partition_plausible(load_sites(minmod_cache))
+    plausible, _ = partition_plausible(load_sites(minmod_cache), commodity)
     majors = [
         s
         for s in plausible
         if s.contained_kt
-        and s.contained_kt >= DEPOSIT_MIN_KT
+        and s.contained_kt >= min_kt
         and s.lat is not None
         and s.lon is not None
         and abs(s.lat) <= 85
@@ -88,6 +106,59 @@ def _deposit_layer(minmod_cache: Path) -> list[dict]:
         }
         for s in majors[:DEPOSIT_MAX_POINTS]
     ]
+
+
+def _all_deposit_layers() -> dict[str, list[dict]]:
+    layers = {}
+    for commodity, min_kt in DEPOSIT_MIN_BY_COMMODITY.items():
+        layer = _deposit_layer(cache_path(commodity), commodity, min_kt)
+        if layer:
+            layers[commodity] = layer
+    return layers
+
+
+def _commodity_payloads() -> list[dict]:
+    """The multi-commodity tier for the web: concentration + drift runs."""
+    scenario_by_commodity = {}
+    for path in sorted(COMMODITY_SCENARIO_DIR.glob("*.yaml")):
+        scenario = load_commodity_scenario(path)
+        scenario_by_commodity[scenario.commodity] = scenario
+
+    out = []
+    for name in list_commodity_names():
+        seed = load_commodity(name)
+        world_year = seed.world.latest_year
+        world = seed.world.production_kt[world_year]
+        baseline = run_commodity(seed)
+        entry = {
+            "name": name,
+            "unit": seed.unit,
+            "world_year": world_year,
+            "world_production_kt": world,
+            "world_reserves_kt": seed.world.reserves_kt,
+            "concentration": seed.concentration(),
+            "producers": [
+                {
+                    "country": p.country,
+                    "production_kt": p.production_kt,
+                    "share": round(p.production_kt / world, 4),
+                }
+                for p in seed.top_producers[:8]
+            ],
+            "baseline": [asdict(r) for r in baseline.rows],
+            "scenario": None,
+            "notes": seed.notes,
+            "source": seed.source,
+        }
+        if name in scenario_by_commodity:
+            scenario = scenario_by_commodity[name]
+            entry["scenario"] = {
+                "name": scenario.name,
+                "description": scenario.description,
+                "rows": [asdict(r) for r in run_commodity(seed, scenario).rows],
+            }
+        out.append(entry)
+    return out
 
 
 def build_payload(minmod_cache: Path = MINMOD_CACHE) -> dict:
@@ -146,7 +217,10 @@ def build_payload(minmod_cache: Path = MINMOD_CACHE) -> dict:
             "grasberg": {"values": GRASBERG_SEVERITIES, "runs": grasberg_runs},
             "decision": {"runs": decision_runs},
         },
-        "deposits": _deposit_layer(minmod_cache),
+        "deposits": _all_deposit_layers() if minmod_cache == MINMOD_CACHE else (
+            {"copper": _deposit_layer(minmod_cache)} if _deposit_layer(minmod_cache) else {}
+        ),
+        "commodities": _commodity_payloads(),
         "mines": [
             {
                 "name": m.name,

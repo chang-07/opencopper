@@ -1,0 +1,33 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks
+# (Australia reserves "7100,000" = fn7 + 100,000 kt, verified against 980,000 kt total).
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+#
+# NOTE: copper also has the full mine-level model (data/seed/mines.yaml +
+# assumptions.yaml + the two-stage balance engine). This file is the
+# country-level view for the multi-commodity layer; the two are calibrated to
+# the same ICSG/USGS anchors but are independent representations.
+name: copper
+unit: kt contained copper
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-copper.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 23000, 2025: 23000}
+  reserves_kt: 980000
+  production_growth_pct: 1.8   # seed-estimate, matches the copper model's trend
+demand:
+  base_kt: 27600               # world refinery production 2024 (refined basis proxy)
+  base_year: 2024
+  growth_pct: 1.7              # seed-estimate, matches the copper model's sector blend
+  basis: "refined production as consumption proxy at this resolution (full model: assumptions.yaml)"
+top_producers:
+  - {country: Chile, production_kt: 5300, reserves_kt: 180000}
+  - {country: Congo (Kinshasa), production_kt: 3200, reserves_kt: 80000}
+  - {country: Peru, production_kt: 2700, reserves_kt: 85000}
+  - {country: China, production_kt: 1800, reserves_kt: 41000}
+  - {country: Russia, production_kt: 1300, reserves_kt: 80000}
+  - {country: United States, production_kt: 1000, reserves_kt: 47000}
+  - {country: Zambia, production_kt: 940, reserves_kt: 21000}
+  - {country: Australia, production_kt: 730, reserves_kt: 100000}
+notes: "Copper added to the US Critical Minerals List Nov 2025. COMEX projected record $4.80/lb 2025 average, attributed mainly to tariff uncertainty. DRC has overtaken Peru as #2 producer."
+price_note: "COMEX ~$4.80/lb 2025e (+14% yoy record); LME ~440 c/lb"
+caveats: "Country-level only; the mine-level engine is the primary copper model."

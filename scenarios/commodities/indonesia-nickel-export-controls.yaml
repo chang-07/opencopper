@@ -1,0 +1,15 @@
+# HYPOTHETICAL (with precedent): Indonesia has used ore-export bans as
+# industrial policy since 2014 and supplies ~67% of world mine nickel (2,600
+# of 3,900 kt, USGS MCS 2026). This models a 40% restriction of Indonesian
+# supply reaching the world market for two years — RKAB permit cuts, export
+# quotas, or a ban on intermediate products would all rhyme with it.
+name: indonesia-nickel-export-controls
+commodity: nickel
+description: "Hypothetical: Indonesia restricts 40% of nickel supply 2026-27 (1.0+ Mt off a 3.9 Mt market)"
+events:
+  - type: country_supply_shock
+    country: Indonesia
+    severity: 0.40
+    start_year: 2026
+    end_year: 2027
+    note: "precedent: 2014 + 2020 ore export bans; RKAB quota cuts"

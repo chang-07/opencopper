@@ -1,0 +1,28 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks
+# (Australia reserves footnote-fusion artifact resolved: "925,000,000" = fn9 + 25 Mt).
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+name: nickel
+unit: kt contained metal
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 3710, 2025: 3900}
+  reserves_kt: 140000          # stated ">140,000,000 t" — a floor
+  production_growth_pct: 4.0   # seed-estimate: Indonesian expansion continues
+demand:
+  base_kt: 3718                # 2024 production minus stated 182 kt surplus
+  base_year: 2024
+  growth_pct: 3.5              # seed-estimate: stainless + battery
+  basis: "production minus USGS-stated 2024 market surplus (182 kt)"
+top_producers:
+  - {country: Indonesia, production_kt: 2600, reserves_kt: 62000}
+  - {country: Philippines, production_kt: 270, reserves_kt: 4800}
+  - {country: Russia, production_kt: 200, reserves_kt: 8300}
+  - {country: Canada, production_kt: 140, reserves_kt: 2200}
+  - {country: New Caledonia, production_kt: 140, reserves_kt: 7100}
+  - {country: China, production_kt: 120, reserves_kt: 4400}
+  - {country: Brazil, production_kt: 70, reserves_kt: 16000}
+  - {country: Australia, production_kt: 45, reserves_kt: 25000}
+notes: "Stainless/alloy steel >85% of US use; market in surplus since 2022; Indonesia +13% in 2025 while Australia fell 54% (care & maintenance) — concentration is the story: Indonesia is ~67% of world mine supply."
+price_note: "LME cash avg $16,812/t (2024), ~$15,000/t (2025e), down ~11%"
+caveats: "2025 values are USGS estimates; Australia 25,000 kt reserves include non-JORC material (JORC-equivalent: 11,000 kt)."

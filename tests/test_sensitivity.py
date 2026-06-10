@@ -3,7 +3,7 @@ from opencopper.sensitivity import render_tornado, run_sensitivity
 
 def test_sensitivity_rows_cover_all_sweeps_and_sort_by_swing():
     rows = run_sensitivity(year=2026)
-    assert len(rows) == 10
+    assert len(rows) == 12
     swings = [r.swing for r in rows]
     assert swings == sorted(swings, reverse=True)
     assert all(r.swing >= 0 for r in rows)

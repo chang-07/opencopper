@@ -29,12 +29,27 @@ demand:
   # ICSG 2024 world refined usage was ~27.0Mt; the baseline uses 26.8Mt so the
   # counterfactual trend stays near balance over 2024-2030 (supply is also
   # docked by the disruption allowance). Scenario deltas are what matter.
+  #
+  # Growth is composed from END-USE SECTORS (shares ~ICA/Wood Mackenzie-style
+  # splits, rounded; growth rates are the explicit assumptions to dispute).
+  # Blended growth ~1.7%/yr. The composition makes sector hype testable:
+  # the datacenter slice is ~1.5% of demand, so at 12%/yr it adds ~50kt/yr —
+  # an order of magnitude below one Grasberg outage. Only a full doubling of
+  # the slice (scenarios/ai-datacenter-boom.yaml) reaches mine-accident scale.
   base_kt_2024: 26800
+  sectors:
+    construction:         {share: 0.270, growth_pct: 0.5}
+    electrical_grid:      {share: 0.280, growth_pct: 2.2}
+    transport:            {share: 0.130, growth_pct: 3.5}   # EV-driven
+    industrial_machinery: {share: 0.120, growth_pct: 1.0}
+    datacenters:          {share: 0.015, growth_pct: 12.0}
+    other:                {share: 0.185, growth_pct: 1.0}
+  # Trade geography (shares of consumption) — used by tariff/regional shocks.
   regions:
-    china:         {share: 0.570, growth_pct: 1.5}
-    north_america: {share: 0.085, growth_pct: 1.2}
-    europe:        {share: 0.140, growth_pct: 0.8}
-    rest_of_world: {share: 0.205, growth_pct: 3.2}
+    china: 0.570
+    north_america: 0.085
+    europe: 0.140
+    rest_of_world: 0.205
 
 refined:
   secondary_supply_kt_2024: 4500    # refined output from scrap

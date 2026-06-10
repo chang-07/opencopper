@@ -1,0 +1,28 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks
+# (Australia reserves "1091,000" = fn10 + 91,000 t, verified against 610,000 t total).
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+name: silver
+unit: kt contained silver
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-silver.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 25.3, 2025: 26.0}
+  reserves_kt: 610
+  production_growth_pct: 1.0   # seed-estimate: mostly byproduct supply, inelastic
+demand:
+  base_kt: 35.7                # USGS-stated 2025 global consumption estimate
+  base_year: 2025
+  growth_pct: 2.0              # seed-estimate: photovoltaics offset photography's death
+  basis: "USGS-stated global consumption (35.7 kt 2025) — note structural deficit vs 26 kt mine supply (recycling fills the gap)"
+top_producers:
+  - {country: Mexico, production_kt: 6.3, reserves_kt: 37}
+  - {country: Peru, production_kt: 3.6, reserves_kt: 110}
+  - {country: China, production_kt: 3.4, reserves_kt: 67}
+  - {country: Bolivia, production_kt: 1.5, reserves_kt: 22}
+  - {country: Chile, production_kt: 1.4, reserves_kt: 33}
+  - {country: Poland, production_kt: 1.3, reserves_kt: 59}
+  - {country: Russia, production_kt: 1.2, reserves_kt: 92}
+  - {country: United States, production_kt: 1.1, reserves_kt: 23}
+notes: "Mostly a BYPRODUCT of lead-zinc/copper/gold mines — supply barely responds to silver price. Added to the US Critical Minerals List Nov 2025. Mine supply 26 kt vs consumption ~35.7 kt: the gap is recycling + stock draw."
+price_note: "$38/oz average 2025e (+34% yoy); high $53.60 Nov 13, 2025"
+caveats: "Byproduct economics mean a supply-shock model needs the HOST commodity's shocks; photovoltaics (15% of US use) is the structural demand driver."

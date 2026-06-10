@@ -1,14 +1,18 @@
 # opencopper
 
-**An open world model of copper supply and demand.** An LLM-built, mine-level
-ledger of global copper production, plus a transparent simulator for the shocks
-that move the market: mine disasters, smelter closures, export blocks, tariffs,
-restarts.
+**An open supply/demand world model for mined commodities.** Copper gets the
+full treatment — an LLM-built, mine-level ledger plus a transparent simulator
+for the shocks that move the market (mine disasters, smelter closures, export
+blocks, tariffs). Ten more majors (nickel, cobalt, lithium, zinc, rare earths,
+aluminum, iron ore, gold, silver, tin) get a country-level tier built from
+USGS data: concentration metrics and dominant-producer shock scenarios —
+including the *real* DRC cobalt quotas and China REE export controls.
 
-Commercial copper models (Wood Mackenzie, CRU, S&P, Benchmark) are excellent —
-and enterprise-priced, black-box, output-only. opencopper takes the opposite
+Commercial models (Wood Mackenzie, CRU, S&P, Benchmark) are excellent — and
+enterprise-priced, black-box, output-only. opencopper takes the opposite
 position: **every assumption is a line in a YAML file you can read, dispute,
 and PR.** The model is wrong, like all models — but it shows its work.
+Full formal writeup: [docs/methodology.md](docs/methodology.md).
 
 ```
 $ opencopper simulate --scenario scenarios/world-2026.yaml
@@ -75,6 +79,26 @@ uv run opencopper simulate --scenario scenarios/us-refined-tariff-2026.yaml
 uv run opencopper sensitivity                                       # which assumption matters most
 uv run opencopper export-web && python3 -m http.server -d web      # the interactive demo
 ```
+
+### The multi-commodity tier
+
+```bash
+uv run opencopper commodity list                # 11 majors, concentration at a glance
+uv run opencopper commodity report cobalt --scenario scenarios/commodities/drc-cobalt-quota.yaml
+uv run opencopper minmod fetch --commodity nickel && uv run opencopper minmod report --commodity nickel
+```
+
+Country-level supply from USGS Mineral Commodity Summaries (extracted by
+LLM agents with world-total cross-checks — they catch the PDF footnote-fusion
+artifacts), HHI/concentration metrics, and dominant-producer shock scenarios.
+The tier reports balance **drift** (change vs its anchor year), never absolute
+balances — mine supply and consumption sit on different bases for several
+commodities, and only the copper engine has the secondary-supply structure to
+close that gap. What it's genuinely good at is the question of the moment:
+**what happens when Indonesia (67% of nickel), the DRC (74% of cobalt), or
+China (69% of rare earths) restricts supply.** Two of the three shipped
+scenarios are real 2025 policy events, parameterized from the USGS-stated
+facts.
 
 `sensitivity` runs the one-at-a-time tornado over every world assumption. A
 nice property of an explicit-constraint model: smelter utilization shows zero

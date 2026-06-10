@@ -1,0 +1,28 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks
+# (three footnote-fusion artifacts resolved by summing country rows to totals).
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+name: lithium
+unit: kt contained lithium (metal, NOT LCE)
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 222, 2025: 290}   # ex-US (US withheld); +31% yoy
+  reserves_kt: 37000
+  production_growth_pct: 10.0  # seed-estimate: rapid but decelerating from +31%
+demand:
+  base_kt: 263                 # USGS-stated 2025 global consumption estimate
+  base_year: 2025
+  growth_pct: 12.0             # seed-estimate: batteries are 88% of use
+  basis: "USGS-stated global consumption (263 kt in 2025)"
+top_producers:
+  - {country: Australia, production_kt: 92, reserves_kt: 8400}
+  - {country: China, production_kt: 62, reserves_kt: 4600}
+  - {country: Chile, production_kt: 56, reserves_kt: 9200}
+  - {country: Zimbabwe, production_kt: 28, reserves_kt: 500}
+  - {country: Argentina, production_kt: 23, reserves_kt: 4400}
+  - {country: Brazil, production_kt: 12, reserves_kt: 540}
+  - {country: Mali, production_kt: 9.4, reserves_kt: 370}
+  - {country: Canada, production_kt: 5.6, reserves_kt: 1600}
+notes: "Batteries 88% of end use. Production grew 31% in 2025 vs consumption +20% — the surplus that crushed prices is visible in the two columns. Resources ~150,000 kt."
+price_note: "US battery-grade carbonate $9,000/t (2025, -31% yoy); China spot recovered Jan->Nov 2025"
+caveats: "Contained lithium METAL basis (multiply by ~5.32 for LCE). World production excludes withheld US output; US reserves (4,400 kt) included in world reserves."

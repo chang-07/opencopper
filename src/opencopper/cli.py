@@ -154,20 +154,54 @@ def _cmd_export_web(args: argparse.Namespace) -> int:
 
 def _cmd_minmod(args: argparse.Namespace) -> int:
     from .minmod import (
-        DEFAULT_CACHE,
-        fetch_copper_sites,
+        COMMODITIES,
+        cache_path,
+        fetch_sites,
         load_sites,
         render_report,
         save_sites,
     )
 
+    if args.commodity not in COMMODITIES:
+        print(f"unknown commodity {args.commodity!r}; have: {', '.join(COMMODITIES)}")
+        return 1
     if args.minmod_command == "fetch":
-        sites = fetch_copper_sites(max_sites=args.max)
-        out = save_sites(sites, Path(args.out))
-        print(f"fetched {len(sites):,} copper sites -> {out}")
+        sites = fetch_sites(args.commodity, max_sites=args.max)
+        out = save_sites(sites, Path(args.out) if args.out else cache_path(args.commodity))
+        print(f"fetched {len(sites):,} {args.commodity} sites -> {out}")
     elif args.minmod_command == "report":
-        sites = load_sites(Path(args.cache))
-        print(render_report(sites, load_ledger()))
+        sites = load_sites(Path(args.cache) if args.cache else cache_path(args.commodity))
+        print(render_report(sites, load_ledger(), commodity=args.commodity))
+    return 0
+
+
+def _cmd_commodity(args: argparse.Namespace) -> int:
+    from .commodities import (
+        list_commodity_names,
+        load_commodity,
+        load_commodity_scenario,
+        render_commodity_report,
+        run_commodity,
+    )
+
+    if args.commodity_command == "list":
+        for name in list_commodity_names():
+            seed = load_commodity(name)
+            conc = seed.concentration()
+            world = seed.world.production_kt[seed.world.latest_year]
+            print(
+                f"{name:<12} {world:>12,.0f} kt  top1 {conc['top1']:>5.1%}"
+                f"  top3 {conc['top3']:>5.1%}  HHI≥{conc['hhi_lower_bound']:>5,}"
+            )
+    elif args.commodity_command == "report":
+        seed = load_commodity(args.name)
+        scenario = None
+        if args.scenario:
+            scenario = load_commodity_scenario(Path(args.scenario))
+            if scenario.commodity != seed.name:
+                print(f"scenario is for {scenario.commodity!r}, not {seed.name!r}")
+                return 1
+        print(render_commodity_report(seed, run_commodity(seed, scenario)))
     return 0
 
 
@@ -264,13 +298,23 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--scenario", default=None)
     p.set_defaults(func=_cmd_sensitivity)
 
-    p = sub.add_parser("minmod", help="DARPA MinMod copper-deposit KG (deposits, not production)")
+    p = sub.add_parser("commodity", help="multi-commodity tier: USGS country-level supply + concentration")
+    csub = p.add_subparsers(dest="commodity_command", required=True)
+    c = csub.add_parser("list", help="all commodities with concentration metrics")
+    c = csub.add_parser("report", help="one commodity: producers, HHI, balance drift")
+    c.add_argument("name")
+    c.add_argument("--scenario", default=None, help="scenarios/commodities/*.yaml")
+    p.set_defaults(func=_cmd_commodity)
+
+    p = sub.add_parser("minmod", help="DARPA MinMod deposit KG (deposits, not production)")
     msub = p.add_subparsers(dest="minmod_command", required=True)
-    m = msub.add_parser("fetch", help="download all copper sites with grade-tonnage models")
+    m = msub.add_parser("fetch", help="download all sites with grade-tonnage models")
+    m.add_argument("--commodity", default="copper")
     m.add_argument("--max", type=int, default=None)
-    m.add_argument("--out", default="data/minmod/copper-sites.json")
-    m = msub.add_parser("report", help="summary + ledger matches from the cached fetch")
-    m.add_argument("--cache", default="data/minmod/copper-sites.json")
+    m.add_argument("--out", default=None)
+    m = msub.add_parser("report", help="summary (+ ledger matches for copper) from the cached fetch")
+    m.add_argument("--commodity", default="copper")
+    m.add_argument("--cache", default=None)
     p.set_defaults(func=_cmd_minmod)
 
     args = parser.parse_args(argv)

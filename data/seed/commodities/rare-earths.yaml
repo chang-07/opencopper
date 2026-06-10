@@ -1,0 +1,28 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks
+# (footnote-fusion artifacts resolved, e.g. "136,300,000" = fn13 + 6.3 Mt).
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+name: rare-earths
+unit: kt REO-equivalent
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 380, 2025: 390}
+  reserves_kt: 75000           # stated ">75,000,000 t" — a floor
+  production_growth_pct: 6.0   # seed-estimate: ex-China buildout
+demand:
+  base_kt: 380                 # proxy — no stated world consumption
+  base_year: 2024
+  growth_pct: 7.0              # seed-estimate: magnets lead
+  basis: "production-anchored proxy (no stated world consumption in MCS)"
+top_producers:
+  - {country: China, production_kt: 270, reserves_kt: 44000}
+  - {country: United States, production_kt: 51, reserves_kt: 1900}
+  - {country: Australia, production_kt: 29, reserves_kt: 6300}
+  - {country: Burma (Myanmar), production_kt: 22, reserves_kt: null}
+  - {country: Thailand, production_kt: 4.8, reserves_kt: null}
+  - {country: India, production_kt: 2.9, reserves_kt: null}
+  - {country: Russia, production_kt: 2.6, reserves_kt: 3800}
+  - {country: Brazil, production_kt: 2.0, reserves_kt: 11000}
+notes: "China ~69% of mine production and dominant in processing (71% of US compound imports 2021-24). LIVE POLICY EVENTS: April 2025 export controls (Sm/Gd/Tb/Dy/Lu/Sc/Y), expanded Oct 2025, partially suspended Nov 2025 — scenarios/commodities models the controls. Burma/Thailand output estimated from Chinese import data."
+price_note: "NdPr oxide $69/kg (2025) vs $55 (2024); La/Ce remain ~$1-2/kg — the basket is NOT homogeneous"
+caveats: "REO-equivalent aggregates wildly different elements; magnet REEs (NdPr, Dy, Tb) carry the value. Mine production != separated supply; the processing bottleneck is the real chokepoint."

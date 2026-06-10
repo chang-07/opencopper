@@ -65,13 +65,18 @@ class SmelterClosure(BaseModel):
 
 
 class DemandShock(BaseModel):
-    """Multiplicative shift in refined demand over a window (e.g. recession,
-    substitution, an AI-datacenter buildout surprise)."""
+    """Multiplicative shift in refined demand over a window.
+
+    With `sector` set, the shock hits one end-use slice (e.g. a datacenter
+    buildout surprise, an EV slowdown); without it, the whole demand curve
+    moves (recession, broad substitution).
+    """
 
     type: Literal["demand_shock"] = "demand_shock"
-    pct: float  # +2.0 means +2% demand
+    pct: float  # +2.0 means +2% demand (for the targeted slice, if any)
     start_year: int
     end_year: int
+    sector: str | None = None
     note: str = ""
 
     def multiplier(self, year: int) -> float:

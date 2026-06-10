@@ -1,0 +1,28 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks
+# (Australia/Ukraine reserve footnote-fusions resolved; sums verified to 87,000 Mt).
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+name: iron-ore
+unit: kt contained iron
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-iron-ore.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 1600000, 2025: 1600000}
+  reserves_kt: 87000000
+  production_growth_pct: 0.3   # seed-estimate: mature market, China steel plateau
+demand:
+  base_kt: 1600000             # proxy — ore feeds steel 1:1 with production at this resolution
+  base_year: 2025
+  growth_pct: 0.5              # seed-estimate
+  basis: "production-anchored proxy (steel demand is the real driver)"
+top_producers:
+  - {country: Australia, production_kt: 600000, reserves_kt: 27000000}
+  - {country: Brazil, production_kt: 260000, reserves_kt: 15000000}
+  - {country: India, production_kt: 190000, reserves_kt: 3400000}
+  - {country: China, production_kt: 180000, reserves_kt: 3000000}
+  - {country: Iran, production_kt: 61000, reserves_kt: 1500000}
+  - {country: Russia, production_kt: 50000, reserves_kt: 14000000}
+  - {country: South Africa, production_kt: 42000, reserves_kt: 680000}
+  - {country: Canada, production_kt: 41000, reserves_kt: 2300000}
+notes: "IRON CONTENT basis (usable-ore world total is 2,600,000 kt). 98% of US usable ore goes to steel. Australia+Brazil = ~54% of contained-iron supply — seaborne concentration is the trade story."
+price_note: "62% Fe fines CIF Tianjin averaged $99/t Jan-Sep 2025 vs $112/t same period 2024"
+caveats: "US reserves print at an anomalous ~75% implied Fe grade — reported as stated by USGS; flagged, not corrected."

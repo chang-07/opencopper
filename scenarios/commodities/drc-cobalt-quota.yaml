@@ -1,0 +1,17 @@
+# REAL POLICY EVENT (per USGS MCS 2026): the DRC banned cobalt exports in
+# Feb 2025, then replaced the ban in Oct 2025 with export quotas — up to
+# 96.6 kt/yr for 2026-27 (incl. 9.6 kt/yr for national strategic reserves)
+# against ~230 kt of DRC production. Severity models the share of DRC output
+# withheld from the world market: 1 - 87/230 ≈ 0.62 (using the 87 kt that can
+# actually export). The DRC is ~74% of world supply, so the quota removes
+# roughly 46% of world cobalt from the market while it binds.
+name: drc-cobalt-quota
+commodity: cobalt
+description: "DRC export quotas (Oct 2025 decree): ~87 kt/yr exportable vs ~230 kt produced, 2026-27"
+events:
+  - type: country_supply_shock
+    country: Congo (Kinshasa)
+    severity: 0.62
+    start_year: 2026
+    end_year: 2027
+    note: "quota 96.6 kt/yr incl. 9.6 kt strategic reserve, vs 230 kt production"

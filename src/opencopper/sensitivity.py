@@ -18,8 +18,10 @@ from .shocks import Scenario
 # forecasting miss", not symmetric percentages of the value.
 SWEEPS: list[tuple[str, float, str]] = [
     ("demand.base_kt_2024", 268.0, "demand level (±1%)"),
-    ("demand.regions.china.growth_pct", 0.5, "China demand growth (±0.5pp)"),
-    ("demand.regions.rest_of_world.growth_pct", 1.0, "RoW demand growth (±1pp)"),
+    ("demand.sectors.electrical_grid.growth_pct", 0.5, "grid demand growth (±0.5pp)"),
+    ("demand.sectors.transport.growth_pct", 1.0, "EV/transport demand growth (±1pp)"),
+    ("demand.sectors.construction.growth_pct", 0.5, "construction demand growth (±0.5pp)"),
+    ("demand.sectors.datacenters.growth_pct", 5.0, "datacenter demand growth (±5pp)"),
     ("world.mine_supply_kt_2024", 229.0, "mine supply level (±1%)"),
     ("world.mine_supply_growth_pct", 0.5, "mine supply growth (±0.5pp)"),
     ("world.disruption_allowance_pct", 1.0, "disruption allowance (±1pp)"),

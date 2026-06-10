@@ -1,0 +1,28 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks
+# (country rows sum to 74,210 vs stated 74,000 — no fusion artifacts).
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+name: aluminum
+unit: kt primary aluminum (smelter production — not mine)
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-aluminum.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 72800, 2025: 74000}
+  reserves_kt: null            # metal has no "reserves"; bauxite resources 55-75 Bt (separate sheet)
+  production_growth_pct: 1.5   # seed-estimate: China capacity-capped near 45 Mt
+demand:
+  base_kt: 73500               # proxy — primary consumption ~ production
+  base_year: 2025
+  growth_pct: 2.0              # seed-estimate: transport + packaging + grid
+  basis: "production-anchored proxy (no stated world consumption in MCS)"
+top_producers:
+  - {country: China, production_kt: 45000, reserves_kt: null}
+  - {country: India, production_kt: 4200, reserves_kt: null}
+  - {country: Russia, production_kt: 3900, reserves_kt: null}
+  - {country: Canada, production_kt: 3300, reserves_kt: null}
+  - {country: United Arab Emirates, production_kt: 2700, reserves_kt: null}
+  - {country: Bahrain, production_kt: 1600, reserves_kt: null}
+  - {country: Australia, production_kt: 1500, reserves_kt: null}
+  - {country: Norway, production_kt: 1300, reserves_kt: null}
+notes: "SMELTER production (energy is the real input; this is an electricity market wearing a metals costume). China ~61% of world primary output. US Section 232 aluminum tariff went 25% -> 50% during 2025."
+price_note: "US spot ingot ~180 c/lb 2025e, +39% yoy — tariff-inflated vs LME"
+caveats: "Smelter basis, not mine; bauxite/alumina chain not modeled here. World smelter capacity 79,700 kt (2025e) implies ~93% utilization."

@@ -1,0 +1,28 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks
+# (two footnote-fusion artifacts in reserves resolved against the 12 Mt total).
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+name: cobalt
+unit: kt contained cobalt
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 302, 2025: 310}
+  reserves_kt: 12000
+  production_growth_pct: 3.0   # seed-estimate: DRC quotas cap upside; Indonesia grows
+demand:
+  base_kt: 295                 # proxy — no stated consumption; modest deficit vs supply pre-quota
+  base_year: 2024
+  growth_pct: 5.0              # seed-estimate: Li-ion batteries lead
+  basis: "production-anchored proxy (no stated world consumption in MCS)"
+top_producers:
+  - {country: Congo (Kinshasa), production_kt: 230, reserves_kt: 6000}
+  - {country: Indonesia, production_kt: 44, reserves_kt: 760}
+  - {country: Russia, production_kt: 7.7, reserves_kt: 800}
+  - {country: Madagascar, production_kt: 3.9, reserves_kt: 100}
+  - {country: Australia, production_kt: 3.7, reserves_kt: 1700}
+  - {country: Philippines, production_kt: 3.7, reserves_kt: 260}
+  - {country: Canada, production_kt: 3.5, reserves_kt: 220}
+  - {country: Cuba, production_kt: 2.0, reserves_kt: 500}
+notes: "DRC is ~74% of world mine supply and HALF of world reserves. LIVE POLICY EVENT: DRC banned cobalt exports Feb 2025, replaced Oct 2025 by quotas — 18.125 kt for rest-2025, up to 96.6 kt/yr for 2026-27 vs 230 kt of production. The quota IS the market now; scenarios/commodities models it."
+price_note: "US spot cathode $21/lb (2025) vs $16.77 (2024); LME $15/lb vs $11.84"
+caveats: "2025 values are USGS estimates; ~25,000 kt terrestrial resources plus seafloor nodules. Australia reserves footnote: JORC-equivalent only 680 kt of the 1,700 kt."

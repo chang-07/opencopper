@@ -1,0 +1,27 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks.
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+name: zinc
+unit: kt contained zinc
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-zinc.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 11900, 2025: 13000}
+  reserves_kt: 240000
+  production_growth_pct: 1.0   # seed-estimate; Red Dog depletion offsets new supply
+demand:
+  base_kt: 13700               # ILZSG 2025 refined consumption forecast (stated in MCS)
+  base_year: 2025
+  growth_pct: 1.5              # seed-estimate: galvanizing tracks construction/infra
+  basis: "ILZSG 2025 refined consumption forecast as stated in MCS"
+top_producers:
+  - {country: China, production_kt: 4100, reserves_kt: 60000}
+  - {country: Peru, production_kt: 1500, reserves_kt: 18000}
+  - {country: Australia, production_kt: 1100, reserves_kt: 64000}
+  - {country: India, production_kt: 870, reserves_kt: 10000}
+  - {country: Mexico, production_kt: 780, reserves_kt: 14000}
+  - {country: United States, production_kt: 670, reserves_kt: 9300}
+  - {country: Bolivia, production_kt: 500, reserves_kt: null}
+  - {country: Russia, production_kt: 430, reserves_kt: 29000}
+notes: "Galvanized steel dominates end use. US mine output -12% in 2025 on declining grades at Red Dog nearing end of mine life — a depletion story in the data."
+price_note: "LME cash 126 c/lb (2024) -> ~130 c/lb (2025e)"
+caveats: "2025 values are USGS estimates; refined vs mine basis differs (refined 2025: ~13.8 Mt production vs 13.7 Mt consumption per ILZSG); Australia JORC-equivalent reserves 19,000 kt of the 64,000 kt."

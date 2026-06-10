@@ -1,0 +1,28 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks
+# (Australia reserves "1113,000" = fn11 + 13,000 t, resolved against 66,000 t total).
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+name: gold
+unit: kt contained gold (1 kt = 1,000 t ~ 32.15 Moz)
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gold.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 3.28, 2025: 3.3}
+  reserves_kt: 66.0
+  production_growth_pct: 0.5   # seed-estimate: mature, grade-declining
+demand:
+  base_kt: 3.3                 # proxy — monetary demand makes "consumption" ill-defined
+  base_year: 2025
+  growth_pct: 1.0              # seed-estimate
+  basis: "production-anchored proxy (gold demand is monetary + jewelry, not industrial consumption)"
+top_producers:
+  - {country: China, production_kt: 0.38, reserves_kt: 3.2}
+  - {country: Russia, production_kt: 0.31, reserves_kt: 12.0}
+  - {country: Australia, production_kt: 0.28, reserves_kt: 13.0}
+  - {country: Canada, production_kt: 0.2, reserves_kt: 3.2}
+  - {country: United States, production_kt: 0.16, reserves_kt: 3.0}
+  - {country: Ghana, production_kt: 0.15, reserves_kt: 1.0}
+  - {country: Mexico, production_kt: 0.14, reserves_kt: 1.4}
+  - {country: Kazakhstan, production_kt: 0.13, reserves_kt: 2.3}
+notes: "Supply is geographically diversified (top producer is only ~12%) — gold's risk is monetary, not geological. Uses: jewelry 40%, bars 24%, central banks 21%."
+price_note: "Record $3,300/oz average estimated for 2025, +38% yoy"
+caveats: "A supply-shock model is the WRONG model for gold (price is set by monetary demand against a 200,000+ t above-ground stock, not annual flow) — included for completeness, modeled with humility."

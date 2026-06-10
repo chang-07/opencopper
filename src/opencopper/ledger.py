@@ -10,7 +10,7 @@ from __future__ import annotations
 from pathlib import Path
 
 import yaml
-from pydantic import BaseModel
+from pydantic import BaseModel, model_validator
 
 from .schema import MineRecord
 
@@ -42,14 +42,36 @@ class SmeltingAssumptions(BaseModel):
 
 
 class DemandAssumptions(BaseModel):
-    base_kt_2024: float
-    regions: dict[str, dict[str, float]]  # name -> {share, growth_pct}
+    """Demand = sector composition (what copper is used FOR) x trade regions
+    (WHERE it lands). Growth comes from sectors — construction stagnates while
+    grid/EV/datacenters compound — so the mix shift is explicit instead of
+    hidden in a blended regional growth rate. Regions carry shares only and
+    exist for trade-geometry shocks (tariffs)."""
 
-    def demand(self, year: int) -> float:
+    base_kt_2024: float
+    sectors: dict[str, dict[str, float]]  # name -> {share, growth_pct}
+    regions: dict[str, float]  # name -> share of consumption
+
+    @model_validator(mode="after")
+    def _shares_sum_to_one(self):
+        for label, shares in (
+            ("sectors", [s["share"] for s in self.sectors.values()]),
+            ("regions", list(self.regions.values())),
+        ):
+            total = sum(shares)
+            if abs(total - 1.0) > 0.01:
+                raise ValueError(f"{label} shares sum to {total:.3f}, expected 1.0")
+        return self
+
+    def demand(self, year: int, sector_multipliers: dict[str, float] | None = None) -> float:
+        """World refined demand for a year; optional per-sector multipliers let
+        shock events hit one end-use slice (e.g. a datacenter boom)."""
+        multipliers = sector_multipliers or {}
         total = 0.0
-        for cfg in self.regions.values():
-            regional_2024 = self.base_kt_2024 * cfg["share"]
-            total += regional_2024 * (1 + cfg["growth_pct"] / 100) ** (year - 2024)
+        for name, cfg in self.sectors.items():
+            slice_2024 = self.base_kt_2024 * cfg["share"]
+            grown = slice_2024 * (1 + cfg["growth_pct"] / 100) ** (year - 2024)
+            total += grown * multipliers.get(name, 1.0)
         return total
 
 

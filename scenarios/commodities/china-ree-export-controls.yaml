@@ -1,0 +1,16 @@
+# REAL POLICY EVENT (per USGS MCS 2026): China imposed export controls on
+# Sm/Gd/Tb/Dy/Lu/Sc/Y (Apr 2025), expanded them (Oct 2025), then suspended the
+# October expansion for one year (Nov 2025) while April controls remained.
+# Severity 0.25 models licensed-but-restricted flow on China's ~69% mine share
+# — and understates the true chokepoint, which is processing (China refines
+# most of everyone else's concentrate too; this tier only models mine supply).
+name: china-ree-export-controls
+commodity: rare-earths
+description: "China REE export controls (Apr 2025, partially suspended Nov 2025): restricted licensed flow through 2026"
+events:
+  - type: country_supply_shock
+    country: China
+    severity: 0.25
+    start_year: 2026
+    end_year: 2026
+    note: "licensed flow under April controls; processing dominance NOT modeled (would be worse)"

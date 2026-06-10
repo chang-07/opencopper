@@ -1,0 +1,16 @@
+# SECTOR SHOCK: the AI-datacenter buildout doubles its copper pull.
+# Mercuria put datacenter copper demand near 350kt in 2026; S&P's "Copper in
+# the Age of AI" projects multi-Mt by 2040. This scenario doubles the
+# datacenter slice from 2026. Composition insight (from running it): the
+# doubled slice adds ~500kt by 2026 — slightly MORE than the Grasberg mud
+# rush removed (~370kt). It takes a 100% surprise in the AI slice to out-move
+# one mine accident; smaller datacenter surprises stay supply-noise-sized.
+name: ai-datacenter-boom
+description: "Datacenter copper demand doubles from 2026 (sector-targeted shock vs ~400kt baseline slice)"
+events:
+  - type: demand_shock
+    sector: datacenters
+    pct: 100
+    start_year: 2026
+    end_year: 2030
+    note: "AI buildout surprise: 2x the datacenter slice"

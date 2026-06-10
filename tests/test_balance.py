@@ -4,7 +4,14 @@ import pytest
 
 from opencopper.balance import BASELINE, run
 from opencopper.ledger import load_assumptions, load_ledger
-from opencopper.shocks import MineOutage, MineRestart, Scenario, SmelterClosure, Tariff
+from opencopper.shocks import (
+    DemandShock,
+    MineOutage,
+    MineRestart,
+    Scenario,
+    SmelterClosure,
+    Tariff,
+)
 
 YEARS = range(2024, 2031)
 
@@ -115,6 +122,35 @@ def test_tariff_reduces_demand_and_creates_premium(world):
     assert hit.row(2026).refined_demand_kt < base.row(2026).refined_demand_kt
     assert hit.row(2026).us_premium_pct > 0
     assert hit.row(2025).us_premium_pct == 0
+
+
+def test_sector_demand_shock_scales_with_sector_share(world):
+    """Doubling the datacenter slice must add exactly that slice's kt to
+    demand — and a whole-demand shock of the same pct must hit far harder."""
+    ledger, assumptions = world
+    base = run(ledger, assumptions, BASELINE, YEARS)
+
+    sector = Scenario(
+        name="dc",
+        events=[DemandShock(sector="datacenters", pct=100, start_year=2026, end_year=2026)],
+    )
+    hit = run(ledger, assumptions, sector, YEARS)
+    dc_cfg = assumptions.demand.sectors["datacenters"]
+    slice_2026 = (
+        assumptions.demand.base_kt_2024 * dc_cfg["share"] * (1 + dc_cfg["growth_pct"] / 100) ** 2
+    )
+    added = hit.row(2026).refined_demand_kt - base.row(2026).refined_demand_kt
+    assert added == pytest.approx(slice_2026, rel=0.01)
+    # untargeted years unaffected
+    assert hit.row(2025).refined_demand_kt == pytest.approx(base.row(2025).refined_demand_kt)
+
+    broad = Scenario(
+        name="broad", events=[DemandShock(pct=100, start_year=2026, end_year=2026)]
+    )
+    crushed = run(ledger, assumptions, broad, YEARS)
+    assert crushed.row(2026).refined_demand_kt == pytest.approx(
+        2 * base.row(2026).refined_demand_kt, rel=0.01
+    )
 
 
 def test_smelter_constraint_binds(world):

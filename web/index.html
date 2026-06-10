@@ -242,26 +242,33 @@ const VIEWS = {
     init() {
       host.title.textContent = 'The tracked supply base';
       document.getElementById('stats').innerHTML = '';
-      const hasDeposits = (D.deposits || []).length > 0;
+      const depositLayers = D.deposits || {};
+      const layerNames = Object.keys(depositLayers);
+      const hasDeposits = layerNames.length > 0;
       host.controls.innerHTML = hasDeposits
-        ? `<label>deposit pipeline (${D.deposits.length} major deposits, DARPA MinMod):</label>
-           <div class="toggle"><button id="dep-off">HIDE</button><button id="dep-on" class="active">SHOW</button></div>`
+        ? `<label>deposit pipeline (DARPA MinMod):</label>
+           <div class="toggle"><button id="dep-off">HIDE</button><button id="dep-on" class="active">SHOW</button></div>
+           <select id="dep-commodity">` +
+          layerNames.map(c => `<option ${c === 'copper' ? 'selected' : ''}>${c}</option>`).join('') +
+          `</select><span class="value" id="dep-count"></span>`
         : '';
-      const render = showDeposits => {
-        host.sub.textContent = 'Bubble area = annual capacity (kt contained Cu). Copper = operating, blue = ramping, red = suspended.' +
-          (showDeposits ? ' Teal diamonds = major known deposits (≥1 Mt contained Cu, MinMod knowledge graph — deposits, not production; unit-error records quarantined).' : '') +
+      const render = (showDeposits, commodity) => {
+        const layer = depositLayers[commodity] || [];
+        if (hasDeposits) document.getElementById('dep-count').textContent = `${layer.length} sites`;
+        host.sub.textContent = 'Bubble area = annual capacity (kt contained Cu). Copper bubbles = the tracked copper mine ledger.' +
+          (showDeposits ? ` Teal diamonds = major known ${commodity} deposits (MinMod knowledge graph — deposits, not production; implausible records quarantined).` : '') +
           ' Locations are approximate; hover for details.';
         const located = D.mines.filter(m => m.lat != null);
         const color = s => s === 'suspended' ? '#c4604f' : s === 'ramping' ? '#5b8fb9' : '#c97a3d';
         const traces = [];
-        if (showDeposits) {
+        if (showDeposits && layer.length) {
           traces.push({
             type: 'scattergeo', mode: 'markers', name: 'deposits',
-            lat: D.deposits.map(d => d.lat), lon: D.deposits.map(d => d.lon),
-            text: D.deposits.map(d =>
-              `<b>${d.name}</b> — ${d.country}<br>${d.deposit_type}<br>contained ${fmt(d.contained_kt)} kt Cu (deposit, not production)`),
+            lat: layer.map(d => d.lat), lon: layer.map(d => d.lon),
+            text: layer.map(d =>
+              `<b>${d.name}</b> — ${d.country}<br>${d.deposit_type}<br>contained ${fmt(d.contained_kt)} kt (deposit, not production)`),
             hoverinfo: 'text',
-            marker: {symbol: 'diamond', size: D.deposits.map(d => 4 + Math.sqrt(d.contained_kt) / 28),
+            marker: {symbol: 'diamond', size: layer.map(d => 4 + Math.sqrt(d.contained_kt) / 28),
                      color: '#4fa8a0', opacity: 0.55, line: {color: '#0f1318', width: 0.5}},
           });
         }
@@ -289,17 +296,89 @@ const VIEWS = {
         }, {displayModeBar: false, responsive: true});
       };
       if (hasDeposits) {
+        let depositsOn = true;
+        const pick = document.getElementById('dep-commodity');
         const set = on => {
+          depositsOn = on;
           document.getElementById('dep-on').classList.toggle('active', on);
           document.getElementById('dep-off').classList.toggle('active', !on);
-          render(on);
+          render(on, pick.value);
         };
         document.getElementById('dep-on').onclick = () => set(true);
         document.getElementById('dep-off').onclick = () => set(false);
+        pick.onchange = () => render(depositsOn, pick.value);
         set(true);
       } else {
-        render(false);
+        render(false, 'copper');
       }
+    },
+  },
+  commodities: {
+    label: 'Commodities',
+    init() {
+      const C = D.commodities || [];
+      host.title.textContent = 'The concentration problem, by commodity';
+      host.controls.innerHTML = `<label>commodity</label><select id="com-pick">` +
+        C.map(c => `<option ${c.name === 'cobalt' ? 'selected' : ''}>${c.name}</option>`).join('') +
+        `</select><div class="toggle" id="com-toggle" style="display:none">
+          <button id="com-base">BASELINE</button><button id="com-shock" class="active">SHOCK</button></div>`;
+      const pick = document.getElementById('com-pick');
+      let showShock = true;
+      const update = () => {
+        const c = C.find(x => x.name === pick.value);
+        const conc = c.concentration;
+        host.sub.textContent = `${c.unit} — USGS MCS 2026, country-level. ` +
+          (c.scenario ? c.scenario.description : 'No shipped scenario for this commodity yet.') +
+          ' Drift = (supply − demand) change vs the anchor year — not an absolute balance.';
+        document.getElementById('com-toggle').style.display = c.scenario ? 'flex' : 'none';
+        const stats = [
+          [`world supply ${c.world_year}`, `${fmt(c.world_production_kt)} kt`, ''],
+          ['top producer', `${(conc.top1 * 100).toFixed(0)}%`, conc.top1 > 0.5 ? 'neg' : ''],
+          ['top 3', `${(conc.top3 * 100).toFixed(0)}%`, conc.top3 > 0.75 ? 'neg' : ''],
+          ['HHI (≥)', fmt(conc.hhi_lower_bound), conc.hhi_lower_bound > 2500 ? 'neg' : 'pos'],
+        ];
+        document.getElementById('stats').innerHTML = stats.map(([k, v, cls]) =>
+          `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
+
+        const producers = [...c.producers].reverse();
+        const years = c.baseline.map(r => r.year);
+        const traces = [
+          {type: 'bar', orientation: 'h', xaxis: 'x', yaxis: 'y',
+           y: producers.map(p => p.country), x: producers.map(p => p.share * 100),
+           marker: {color: producers.map(p => p.share > 0.5 ? '#c4604f' : '#b87333')},
+           text: producers.map(p => `${fmt(p.production_kt)} kt`), textposition: 'auto',
+           name: 'share %', hovertemplate: '%{y}: %{x:.1f}%<extra></extra>'},
+          {type: 'scatter', xaxis: 'x2', yaxis: 'y2', x: years,
+           y: c.baseline.map(r => r.drift_kt), name: 'baseline drift',
+           line: {color: '#8a94a0', dash: 'dash'}},
+        ];
+        if (c.scenario && showShock) {
+          traces.push({type: 'scatter', xaxis: 'x2', yaxis: 'y2',
+            x: c.scenario.rows.map(r => r.year), y: c.scenario.rows.map(r => r.drift_kt),
+            name: c.scenario.name, line: {color: '#e8954f'}});
+        }
+        Plotly.react('chart', traces, {
+          grid: {rows: 2, columns: 1, pattern: 'independent'},
+          paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)',
+          font: {color: '#c9c2b6', family: 'Georgia, serif', size: 12},
+          margin: {l: 120, r: 16, t: 30, b: 36}, showlegend: true,
+          legend: {orientation: 'h', y: -0.08},
+          annotations: [
+            {text: 'Mine-supply share by country (red = majority control)', xref: 'paper', yref: 'paper', x: 0, y: 1.05, showarrow: false, font: {size: 13, color: '#e8e3da'}},
+            {text: 'Supply-demand drift vs anchor year (kt)', xref: 'paper', yref: 'paper', x: 0, y: 0.42, showarrow: false, font: {size: 13, color: '#e8e3da'}},
+          ],
+          xaxis: {gridcolor: '#283342', ticksuffix: '%'}, yaxis: {gridcolor: '#283342'},
+          xaxis2: {gridcolor: '#283342', dtick: 1}, yaxis2: {gridcolor: '#283342', zerolinecolor: '#3a475a'},
+        }, {displayModeBar: false, responsive: true});
+      };
+      document.getElementById('com-base').onclick = () => { showShock = false;
+        document.getElementById('com-shock').classList.remove('active');
+        document.getElementById('com-base').classList.add('active'); update(); };
+      document.getElementById('com-shock').onclick = () => { showShock = true;
+        document.getElementById('com-base').classList.remove('active');
+        document.getElementById('com-shock').classList.add('active'); update(); };
+      pick.onchange = update;
+      update();
     },
   },
   mines: {

@@ -46,8 +46,11 @@ def test_normalize_record_handles_missing_everything():
     assert site.country is None
 
 
-def _site(name, contained_kt, lat=0.0, lon=0.0):
-    return MinModSite(minmod_id=name, name=name, contained_kt=contained_kt, lat=lat, lon=lon)
+def _site(name, contained_kt, lat=0.0, lon=0.0, tonnage_mt=None, grade_pct=None):
+    return MinModSite(
+        minmod_id=name, name=name, contained_kt=contained_kt, lat=lat, lon=lon,
+        tonnage_mt=tonnage_mt, grade_pct=grade_pct,
+    )
 
 
 def test_partition_quarantines_unit_errors():
@@ -55,6 +58,25 @@ def test_partition_quarantines_unit_errors():
     plausible, quarantined = partition_plausible(sites)
     assert [s.name for s in quarantined] == ["junk"]
     assert {s.name for s in plausible} == {"ok", "no-gt"}
+
+
+def test_quarantine_reasons_cover_all_failure_modes():
+    from opencopper.minmod import quarantine_reason
+
+    # consistent: 100 Mt @ 1% = 1 Mt = 1000 kt
+    assert quarantine_reason(_site("good", 1000.0, tonnage_mt=100.0, grade_pct=1.0)) is None
+    assert quarantine_reason(_site("ceiling", 9e6)) == "above unit ceiling"
+    assert (
+        quarantine_reason(_site("hot-grade", 1000.0, tonnage_mt=2.0, grade_pct=50.0))
+        == "implausible grade"
+    )
+    # claims 5000 kt but 100 Mt @ 1% implies 1000 kt -> inconsistent
+    assert (
+        quarantine_reason(_site("mismatch", 5000.0, tonnage_mt=100.0, grade_pct=1.0))
+        == "grade x tonnage inconsistent"
+    )
+    # no grade-tonnage at all: usable as a located site, nothing to quarantine
+    assert quarantine_reason(_site("bare", None)) is None
 
 
 def test_match_ledger_never_uses_quarantined_records():

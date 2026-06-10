@@ -142,10 +142,16 @@ def run(
 
         # --- refined balance
         refined_supply = smelted + sxew + assumptions.refined.secondary(year)
-        demand = assumptions.demand.demand(year)
+        sector_multipliers: dict[str, float] = {}
+        for e in events:
+            if isinstance(e, DemandShock) and e.sector:
+                sector_multipliers[e.sector] = (
+                    sector_multipliers.get(e.sector, 1.0) * e.multiplier(year)
+                )
+        demand = assumptions.demand.demand(year, sector_multipliers)
         us_premium = 0.0
         for e in events:
-            if isinstance(e, DemandShock):
+            if isinstance(e, DemandShock) and not e.sector:
                 demand *= e.multiplier(year)
             elif isinstance(e, Tariff):
                 demand *= e.demand_multiplier(year)

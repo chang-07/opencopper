@@ -1,0 +1,28 @@
+# Extracted from USGS MCS 2026 by an LLM agent with world-total cross-checks
+# (Australia reserves "7570,000" = fn7 + 570,000 t, verified against >6,000 kt total).
+# growth_pct values are SEED ESTIMATES (disputable), not USGS figures.
+name: tin
+unit: kt contained tin
+source: "USGS Mineral Commodity Summaries 2026, https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-tin.pdf"
+basis: usgs-mcs-2026
+world:
+  production_kt: {2024: 294, 2025: 290}
+  reserves_kt: 6000            # stated ">6,000,000 t" — a floor
+  production_growth_pct: 0.5   # seed-estimate
+demand:
+  base_kt: 295                 # proxy
+  base_year: 2024
+  growth_pct: 1.5              # seed-estimate: solder/electronics + AI server boards
+  basis: "production-anchored proxy (no stated world consumption in MCS)"
+top_producers:
+  - {country: China, production_kt: 71, reserves_kt: 1200}
+  - {country: Indonesia, production_kt: 61, reserves_kt: 1400}
+  - {country: Peru, production_kt: 33, reserves_kt: 150}
+  - {country: Brazil, production_kt: 28, reserves_kt: 700}
+  - {country: Congo (Kinshasa), production_kt: 27, reserves_kt: 91}
+  - {country: Bolivia, production_kt: 15, reserves_kt: 400}
+  - {country: Burma (Myanmar), production_kt: 12, reserves_kt: 700}
+  - {country: Australia, production_kt: 12, reserves_kt: 570}
+notes: "Myanmar output nearly halved 2024->2025 (20 -> 12 kt, Wa State suspension aftermath); Bolivia fell 21 -> 15 kt. US: no mining since 1993, no smelting since 1989, 77% import-reliant; first new US smelter under construction (VA, late 2026)."
+price_note: "LME cash ~1,500 c/lb 2025e (+10% yoy)"
+caveats: "Artisanal/conflict-adjacent supply (Myanmar, DRC) makes estimates softer than other commodities."
