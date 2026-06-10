@@ -81,10 +81,23 @@ def html_to_text(raw: str) -> str:
     return parser.text()
 
 
+def pdf_to_text(path: Path) -> str:
+    """Extract text from a PDF exhibit (most EX-96 filings are PDFs)."""
+    from pypdf import PdfReader
+
+    reader = PdfReader(path)
+    pages = []
+    for i, page in enumerate(reader.pages):
+        text = page.extract_text() or ""
+        if text.strip():
+            pages.append(f"[page {i + 1}]\n{text}")
+    return "\n\n".join(pages)
+
+
 def load_document_text(path: Path) -> str:
-    """Read an exhibit file and return plain text. PDFs are not supported in v1."""
+    """Read an exhibit file (HTML, PDF, or plain text) and return plain text."""
     if path.suffix.lower() == ".pdf":
-        raise ValueError(f"PDF exhibits not supported yet, skipping: {path.name}")
+        return pdf_to_text(path)[:MAX_DOC_CHARS]
     raw = path.read_text(errors="replace")
     text = html_to_text(raw) if "<" in raw[:1000] else raw
     return text[:MAX_DOC_CHARS]

@@ -8,6 +8,9 @@ dist/
 # Project
 out/
 .cache/
+data/raw/
+data/extracted/
+data/batch-manifest.json
 *.env
 .env
 

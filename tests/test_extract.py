@@ -22,11 +22,27 @@ def test_html_to_text_strips_markup():
     assert "color:red" not in text
 
 
-def test_load_document_rejects_pdf(tmp_path):
+def test_load_document_extracts_pdf(tmp_path, monkeypatch):
+    import pypdf
+
+    class _FakePage:
+        def __init__(self, text):
+            self._text = text
+
+        def extract_text(self):
+            return self._text
+
+    class _FakeReader:
+        def __init__(self, path):
+            self.pages = [_FakePage("Mineral Reserves: 1,000 kt"), _FakePage("  ")]
+
+    monkeypatch.setattr(pypdf, "PdfReader", _FakeReader)
     pdf = tmp_path / "exhibit.pdf"
-    pdf.write_bytes(b"%PDF-1.4")
-    with pytest.raises(ValueError, match="PDF"):
-        load_document_text(pdf)
+    pdf.write_bytes(b"%PDF-1.4 fake")
+    text = load_document_text(pdf)
+    assert "Mineral Reserves: 1,000 kt" in text
+    assert "[page 1]" in text
+    assert "[page 2]" not in text  # blank pages dropped
 
 
 class _FakeClient:

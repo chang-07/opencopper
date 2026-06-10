@@ -72,6 +72,52 @@ def _cmd_extract(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_batch(args: argparse.Namespace) -> int:
+    from .batch import batch_status, collect_results, submit_batch
+
+    if args.batch_command == "submit":
+        paths = sorted(
+            p for p in Path(args.dir).iterdir() if p.suffix.lower() in (".htm", ".html", ".pdf", ".txt")
+        )
+        if not paths:
+            print(f"no exhibits in {args.dir}")
+            return 1
+        manifest = Path(args.manifest)
+        batch_id = submit_batch(paths, model=args.model, manifest_path=manifest)
+        print(f"submitted {len(paths)} documents: batch {batch_id}")
+        print(f"manifest: {manifest}")
+        print(f"check:    opencopper batch status {batch_id}")
+    elif args.batch_command == "status":
+        print(json.dumps(batch_status(args.batch_id), indent=2))
+    elif args.batch_command == "collect":
+        ok, failed = collect_results(Path(args.manifest), Path(args.out))
+        print(f"collected {ok} extractions ({failed} failed) -> {args.out}")
+    return 0
+
+
+def _cmd_eval(args: argparse.Namespace) -> int:
+    from .evals import run_eval
+
+    print(run_eval(Path(args.extractions), Path(args.truth)))
+    return 0
+
+
+def _cmd_reconcile(args: argparse.Namespace) -> int:
+    from .reconcile import run_reconcile
+
+    print(run_reconcile(Path(args.extractions)))
+    return 0
+
+
+def _cmd_export_web(args: argparse.Namespace) -> int:
+    from .export_web import export_web
+
+    out = export_web(Path(args.out))
+    print(f"web data: {out}")
+    print("open web/index.html (or serve the web/ directory) to view the demo")
+    return 0
+
+
 def _cmd_ledger(args: argparse.Namespace) -> int:
     ledger = load_ledger()
     assumptions = load_assumptions()
@@ -112,6 +158,32 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("ledger", help="print the tracked mine ledger and world coverage")
     p.add_argument("--year", type=int, default=2026)
     p.set_defaults(func=_cmd_ledger)
+
+    p = sub.add_parser("batch", help="bulk extraction via the Batches API (50%% cheaper)")
+    bsub = p.add_subparsers(dest="batch_command", required=True)
+    b = bsub.add_parser("submit")
+    b.add_argument("dir", help="directory of exhibit files")
+    b.add_argument("--model", default="claude-opus-4-8")
+    b.add_argument("--manifest", default="data/batch-manifest.json")
+    b = bsub.add_parser("status")
+    b.add_argument("batch_id")
+    b = bsub.add_parser("collect")
+    b.add_argument("manifest", nargs="?", default="data/batch-manifest.json")
+    b.add_argument("--out", default="data/extracted")
+    p.set_defaults(func=_cmd_batch)
+
+    p = sub.add_parser("eval", help="score extractions against hand-verified ground truth")
+    p.add_argument("--extractions", default="data/extracted")
+    p.add_argument("--truth", default="evals/ground_truth.yaml")
+    p.set_defaults(func=_cmd_eval)
+
+    p = sub.add_parser("reconcile", help="diff extracted values against the seed ledger")
+    p.add_argument("--extractions", default="data/extracted")
+    p.set_defaults(func=_cmd_reconcile)
+
+    p = sub.add_parser("export-web", help="precompute scenario data for the static web demo")
+    p.add_argument("--out", default="web/data.js")
+    p.set_defaults(func=_cmd_export_web)
 
     args = parser.parse_args(argv)
     return args.func(args)

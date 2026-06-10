@@ -72,10 +72,24 @@ uv sync
 uv run opencopper ledger                                            # the mine ledger + world coverage
 uv run opencopper simulate --scenario scenarios/grasberg-2025.yaml  # backtest the mud rush
 uv run opencopper simulate --scenario scenarios/us-refined-tariff-2026.yaml
-uv run opencopper ingest --max 5 --dry-run                          # find EX-96 exhibits on EDGAR
-export ANTHROPIC_API_KEY=...                                        # then extract one:
-uv run opencopper extract data/raw/<exhibit>.htm
+uv run opencopper export-web && python3 -m http.server -d web      # the interactive demo
 ```
+
+### The extraction loop (needs `ANTHROPIC_API_KEY`)
+
+```bash
+uv run opencopper ingest --max 20                  # download EX-96 exhibits (HTML + PDF)
+uv run opencopper extract data/raw/<exhibit>.pdf   # one document, cited structured output
+uv run opencopper batch submit data/raw            # bulk via the Batches API (50% cheaper)
+uv run opencopper batch status <batch_id>
+uv run opencopper batch collect                    # validate -> data/extracted/*.json
+uv run opencopper reconcile                        # diff extractions against the seed ledger
+uv run opencopper eval                             # score against hand-verified ground truth
+```
+
+Extractions never overwrite the ledger silently: `reconcile` surfaces every
+discrepancy for review (two sources, diffed — the fintech way), and `eval`
+treats an uncited value as wrong even when the number is right.
 
 ## Data sources (all free)
 
@@ -96,7 +110,7 @@ uv run opencopper extract data/raw/<exhibit>.htm
   predict prices.** `price_pressure` is inventory-cover arithmetic, not alpha.
 - **v1 simplifications are documented in the code**: annual resolution, no
   rerouting lags or regional inventory splits for tariffs, stranded exports
-  treated as lost supply, PDFs not yet parsed.
+  treated as lost supply.
 
 ## Verification
 
@@ -107,13 +121,23 @@ uv run opencopper extract data/raw/<exhibit>.htm
 - Extraction accuracy is benchmarked against company-stated guidance
   (roadmap: published eval table).
 
+## Web demo
+
+`web/` is a zero-backend static site (GitHub Pages-ready — `pages.yml` deploys
+it on every push): scenario sliders for the tariff rate and Grasberg severity,
+a yes/no toggle on the Cobre Panamá decision, countdowns to both live June
+catalysts, and the full ledger with per-row provenance. All runs are
+precomputed by `opencopper export-web`; the "sliders" snap to a parameter grid.
+
 ## Roadmap
 
-- [ ] Batch extraction over all ~2,400 copper EX-96 exhibits (Batches API, 50% off)
-- [ ] Extraction eval table: model vs company guidance, published
-- [ ] PDF exhibit support; MinMod ingestion for the NI 43-101 universe
+- [x] PDF exhibit support (most EX-96s are PDFs)
+- [x] Batch extraction pipeline (Batches API) + reconcile + eval harness
+- [x] Web demo: scenario sliders, live catalyst countdowns, ledger browser
+- [ ] Run the batch over all ~2,400 copper EX-96 exhibits; publish the eval table
+- [ ] Fill `evals/ground_truth.yaml` from source documents (hand-verified)
+- [ ] MinMod ingestion for the NI 43-101 universe (SEDAR+ without scraping)
 - [ ] Quarterly resolution; regional trade flows (the COMEX-LME arb properly)
-- [ ] Web demo: world mine map, scenario sliders, live catalyst countdowns
 - [ ] Monthly "model vs ICSG" balance updates
 
 ## License

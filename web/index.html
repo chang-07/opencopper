@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>opencopper — an open world model of copper supply &amp; demand</title>
+<script src="https://cdn.plot.ly/plotly-3.6.0.min.js" charset="utf-8"></script>
+<script src="data.js"></script>
+<style>
+  :root {
+    --bg: #0f1318; --panel: #161c24; --panel2: #1b232e;
+    --text: #e8e3da; --muted: #8a94a0; --copper: #c97a3d; --copper-hot: #e8954f;
+    --green: #5fae7c; --red: #c4604f; --border: #283342;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { background: var(--bg); color: var(--text); font: 15px/1.55 Georgia, 'Times New Roman', serif; }
+  .wrap { max-width: 1060px; margin: 0 auto; padding: 28px 20px 80px; }
+  header h1 { font-size: 30px; letter-spacing: .5px; }
+  header h1 .cu { color: var(--copper-hot); font-style: italic; }
+  .tagline { color: var(--muted); margin-top: 4px; max-width: 70ch; }
+  .tagline em { color: var(--text); }
+  .catalysts { display: flex; gap: 10px; flex-wrap: wrap; margin: 18px 0 6px; }
+  .catalyst { background: var(--panel); border: 1px solid var(--border); border-left: 3px solid var(--copper);
+    border-radius: 8px; padding: 10px 14px; font-size: 13px; }
+  .catalyst b { display: block; font-size: 14px; }
+  .catalyst .days { color: var(--copper-hot); font-weight: bold; }
+  .catalyst .detail { color: var(--muted); }
+  nav { display: flex; gap: 6px; flex-wrap: wrap; margin: 22px 0 14px; }
+  nav button { background: var(--panel); color: var(--muted); border: 1px solid var(--border);
+    border-radius: 999px; padding: 7px 16px; cursor: pointer; font: inherit; font-size: 14px; }
+  nav button.active { background: var(--copper); color: #14100c; border-color: var(--copper); font-weight: bold; }
+  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 18px; }
+  .panel h2 { font-size: 19px; margin-bottom: 4px; }
+  .panel .sub { color: var(--muted); font-size: 13.5px; margin-bottom: 12px; max-width: 85ch; }
+  .controls { display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+    background: var(--panel2); border-radius: 8px; padding: 12px 16px; margin-bottom: 10px; }
+  .controls label { font-size: 14px; color: var(--muted); }
+  .controls .value { font-size: 20px; color: var(--copper-hot); font-weight: bold; min-width: 70px; }
+  input[type=range] { width: 260px; accent-color: var(--copper); }
+  .toggle { display: flex; gap: 0; }
+  .toggle button { font: inherit; padding: 7px 18px; border: 1px solid var(--border); background: var(--panel);
+    color: var(--muted); cursor: pointer; }
+  .toggle button:first-child { border-radius: 8px 0 0 8px; }
+  .toggle button:last-child { border-radius: 0 8px 8px 0; }
+  .toggle button.active { background: var(--copper); color: #14100c; font-weight: bold; }
+  select { font: inherit; background: var(--panel2); color: var(--text); border: 1px solid var(--border);
+    border-radius: 8px; padding: 7px 10px; }
+  .stat-row { display: flex; gap: 12px; flex-wrap: wrap; margin: 10px 0 4px; }
+  .stat { background: var(--panel2); border-radius: 8px; padding: 10px 16px; min-width: 150px; }
+  .stat .k { font-size: 12.5px; color: var(--muted); }
+  .stat .v { font-size: 21px; font-weight: bold; }
+  .stat .v.pos { color: var(--green); } .stat .v.neg { color: var(--red); }
+  #chart { width: 100%; height: 560px; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; }
+  th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--border); }
+  th { color: var(--muted); font-weight: normal; font-size: 12.5px; text-transform: uppercase; letter-spacing: .6px; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .pill { font-size: 11.5px; border: 1px solid var(--border); border-radius: 999px; padding: 1px 9px; color: var(--muted); }
+  footer { color: var(--muted); font-size: 13px; margin-top: 26px; max-width: 90ch; }
+  footer a { color: var(--copper-hot); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>open<span class="cu">copper</span></h1>
+    <p class="tagline">An open, mine-level world model of copper supply and demand.
+      Commercial models are black boxes behind enterprise paywalls — here, <em>every assumption is a
+      line in a YAML file you can read, dispute, and PR</em>. Built from public filings; shocks are
+      typed events; nothing here is a price forecast.</p>
+  </header>
+
+  <div class="catalysts" id="catalysts"></div>
+  <nav id="tabs"></nav>
+
+  <div class="panel">
+    <h2 id="view-title"></h2>
+    <p class="sub" id="view-sub"></p>
+    <div class="controls" id="controls"></div>
+    <div class="stat-row" id="stats"></div>
+    <div id="chart"></div>
+    <div id="table-host"></div>
+  </div>
+
+  <footer>
+    Tracked: <span id="meta-mines"></span> mines individually (~<span id="meta-cov"></span>% of world
+    supply), rest-of-world as an explicit aggregate. Two coupled balances: concentrate vs smelter
+    capacity (the TC/RC crisis lives here) and refined supply vs demand (inventory cover → price
+    pressure index). Seed data is estimate-grade by design — the LLM extraction pipeline replaces it
+    with cited values from EX-96 filings. Source, assumptions, tests:
+    <a href="https://github.com/changlearnstocode/opencopper">github.com/changlearnstocode/opencopper</a>
+  </footer>
+</div>
+
+<script>
+const D = window.OPENCOPPER_DATA;
+const YEARS = D.meta.years;
+const fmt = n => n.toLocaleString('en-US', {maximumFractionDigits: 0});
+
+// ---- catalysts ----
+const catHost = document.getElementById('catalysts');
+for (const c of D.meta.catalysts) {
+  const days = Math.ceil((new Date(c.date + 'T23:59:59Z') - Date.now()) / 86400000);
+  const when = days > 1 ? `${days} days` : days >= 0 ? 'TODAY' : `${-days} days ago`;
+  catHost.insertAdjacentHTML('beforeend',
+    `<div class="catalyst"><b>${c.name}</b>
+     <span class="days">${c.approx ? '~' : ''}${when}</span> · ${c.date}
+     <div class="detail">${c.detail}</div></div>`);
+}
+document.getElementById('meta-mines').textContent = D.meta.tracked_mines;
+document.getElementById('meta-cov').textContent = D.meta.coverage_pct;
+
+// ---- charting ----
+function traces(rows, name, color, dash) {
+  return [
+    {x: YEARS, y: rows.map(r => r.refined_balance_kt), type: 'bar', name: `${name} balance`,
+     marker: {color}, xaxis: 'x', yaxis: 'y', opacity: dash ? 0.45 : 0.95},
+    {x: YEARS, y: rows.map(r => r.inventory_days), type: 'scatter', name: `${name} cover`,
+     line: {color, dash: dash ? 'dash' : 'solid'}, xaxis: 'x2', yaxis: 'y2'},
+    {x: YEARS, y: rows.map(r => 100 * r.tc_pressure), type: 'scatter', name: `${name} TC pressure`,
+     line: {color, dash: dash ? 'dash' : 'solid'}, xaxis: 'x3', yaxis: 'y3'},
+  ];
+}
+
+const LAYOUT = {
+  grid: {rows: 3, columns: 1, pattern: 'independent', roworder: 'top to bottom'},
+  paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)',
+  font: {color: '#c9c2b6', family: 'Georgia, serif', size: 12},
+  barmode: 'group', margin: {l: 56, r: 16, t: 28, b: 36}, showlegend: true,
+  legend: {orientation: 'h', y: -0.08},
+  annotations: [
+    {text: 'Refined balance (kt) — surplus / deficit', xref: 'paper', yref: 'paper', x: 0, y: 1.04, showarrow: false, font: {size: 13, color: '#e8e3da'}},
+    {text: 'Inventory cover (days of consumption)', xref: 'paper', yref: 'paper', x: 0, y: 0.62, showarrow: false, font: {size: 13, color: '#e8e3da'}},
+    {text: 'Concentrate tightness — TC pressure (%, >0 = treatment charges falling)', xref: 'paper', yref: 'paper', x: 0, y: 0.27, showarrow: false, font: {size: 13, color: '#e8e3da'}},
+  ],
+};
+[['xaxis','yaxis'],['xaxis2','yaxis2'],['xaxis3','yaxis3']].forEach(([x, y]) => {
+  LAYOUT[x] = {gridcolor: '#283342', zerolinecolor: '#3a475a', dtick: 1};
+  LAYOUT[y] = {gridcolor: '#283342', zerolinecolor: '#3a475a'};
+});
+
+function draw(rows, label) {
+  Plotly.react('chart',
+    [...traces(D.baseline, 'baseline', '#8a94a0', true), ...traces(rows, label, '#e8954f', false)],
+    LAYOUT, {displayModeBar: false, responsive: true});
+  drawStats(rows);
+}
+
+function drawStats(rows) {
+  const y26 = rows.find(r => r.year === 2026), b26 = D.baseline.find(r => r.year === 2026);
+  const delta = y26.refined_balance_kt - b26.refined_balance_kt;
+  const stats = [
+    ['2026 balance', `${fmt(y26.refined_balance_kt)} kt`, y26.refined_balance_kt >= 0 ? 'pos' : 'neg'],
+    ['Δ vs baseline (2026)', `${delta >= 0 ? '+' : ''}${fmt(delta)} kt`, delta >= 0 ? 'pos' : 'neg'],
+    ['2026 inventory cover', `${y26.inventory_days.toFixed(1)} days`, y26.inventory_days < 8 ? 'neg' : ''],
+    ['US premium proxy', `${y26.us_premium_pct.toFixed(1)}%`, y26.us_premium_pct > 0 ? 'neg' : ''],
+  ];
+  document.getElementById('stats').innerHTML = stats.map(([k, v, cls]) =>
+    `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
+}
+
+// ---- views ----
+const host = {
+  title: document.getElementById('view-title'), sub: document.getElementById('view-sub'),
+  controls: document.getElementById('controls'), table: document.getElementById('table-host'),
+};
+
+const VIEWS = {
+  decision: {
+    label: 'The Panama Decision',
+    init() {
+      host.title.textContent = 'Cobre Panamá: what is the June decision worth?';
+      host.sub.textContent = 'The world as it is (Grasberg recovering, smelters closing) — with and without Panama approving the full restart. Toggle the decision.';
+      host.controls.innerHTML = `<label>Panama approves full restart:</label>
+        <div class="toggle"><button id="d-no">NO</button><button id="d-yes" class="active">YES</button></div>`;
+      const set = yes => {
+        document.getElementById('d-yes').classList.toggle('active', yes);
+        document.getElementById('d-no').classList.toggle('active', !yes);
+        draw(D.labs.decision.runs[yes ? 'yes' : 'no'], yes ? 'restart approved' : 'no restart');
+      };
+      document.getElementById('d-yes').onclick = () => set(true);
+      document.getElementById('d-no').onclick = () => set(false);
+      set(true);
+    },
+  },
+  tariff: {
+    label: 'Tariff Lab',
+    init() {
+      host.title.textContent = 'US refined-copper tariff (decision due June 30)';
+      host.sub.textContent = 'Section 232 left refined cathode exempt — the Commerce report decides whether that holds. Drag the rate; the model shows the US premium proxy and demand destruction. Rerouting lags are not modeled yet (v1 honesty).';
+      const vals = D.labs.tariff.values;
+      host.controls.innerHTML = `<label>tariff rate</label>
+        <input type="range" id="t-slider" min="0" max="${vals.length - 1}" value="${vals.indexOf(25)}" step="1">
+        <span class="value" id="t-value"></span>`;
+      const slider = document.getElementById('t-slider');
+      const update = () => {
+        const rate = vals[+slider.value];
+        document.getElementById('t-value').textContent = rate + '%';
+        draw(D.labs.tariff.runs[String(rate)], `${rate}% tariff`);
+      };
+      slider.oninput = update; update();
+    },
+  },
+  grasberg: {
+    label: 'Grasberg Lab',
+    init() {
+      host.title.textContent = 'Grasberg mud rush: how bad is 2026?';
+      host.sub.textContent = 'Freeport guided ~50% run rates for 2026 with full recovery in 2028. Drag the 2026 severity to see what each recovery path does to the world balance.';
+      const vals = D.labs.grasberg.values;
+      host.controls.innerHTML = `<label>2026 production lost</label>
+        <input type="range" id="g-slider" min="0" max="${vals.length - 1}" value="${vals.indexOf(0.5)}" step="1">
+        <span class="value" id="g-value"></span>`;
+      const slider = document.getElementById('g-slider');
+      const update = () => {
+        const sev = vals[+slider.value];
+        document.getElementById('g-value').textContent = Math.round(sev * 100) + '%';
+        draw(D.labs.grasberg.runs[sev.toFixed(1)], `−${Math.round(sev * 100)}% Grasberg`);
+      };
+      slider.oninput = update; update();
+    },
+  },
+  scenarios: {
+    label: 'Scenarios',
+    init() {
+      host.title.textContent = 'Shipped scenarios';
+      host.sub.textContent = 'Each scenario is a YAML file of typed events — backtests of what happened, and forwards of what might. Add your own with a PR.';
+      const names = Object.keys(D.scenarios);
+      host.controls.innerHTML = `<label>scenario</label><select id="s-pick">` +
+        names.map(n => `<option ${n === 'world-2026' ? 'selected' : ''}>${n}</option>`).join('') + `</select>`;
+      const pick = document.getElementById('s-pick');
+      const update = () => {
+        const s = D.scenarios[pick.value];
+        host.sub.textContent = s.description;
+        draw(s.rows, pick.value);
+      };
+      pick.onchange = update; update();
+    },
+  },
+  mines: {
+    label: 'The Ledger',
+    init() {
+      host.title.textContent = 'Tracked mine ledger';
+      host.sub.textContent = 'Every row is tagged with its basis. seed-estimate = hand-seeded from public reporting, awaiting replacement by cited LLM extraction from EX-96 filings.';
+      host.controls.innerHTML = '';
+      document.getElementById('stats').innerHTML = '';
+      Plotly.purge('chart');
+      document.getElementById('chart').style.height = '0px';
+      host.table.innerHTML = `<table><thead><tr>
+        <th>mine</th><th>country</th><th>owner</th><th>status</th>
+        <th class="num">capacity kt</th><th class="num">2026e kt</th><th>basis</th>
+        </tr></thead><tbody>` + D.mines.map(m => `<tr>
+        <td><b>${m.name}</b></td><td>${m.country}</td><td>${m.owner}</td>
+        <td><span class="pill">${m.status}</span></td>
+        <td class="num">${fmt(m.capacity_kt)}</td><td class="num">${fmt(m.production_2026_kt)}</td>
+        <td><span class="pill">${m.basis}</span></td></tr>`).join('') + '</tbody></table>';
+    },
+  },
+};
+
+const tabs = document.getElementById('tabs');
+for (const [key, view] of Object.entries(VIEWS)) {
+  const b = document.createElement('button');
+  b.textContent = view.label;
+  b.onclick = () => activate(key);
+  b.id = `tab-${key}`;
+  tabs.appendChild(b);
+}
+function activate(key) {
+  document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
+  document.getElementById(`tab-${key}`).classList.add('active');
+  host.table.innerHTML = '';
+  document.getElementById('chart').style.height = '560px';
+  VIEWS[key].init();
+}
+activate('decision');
+</script>
+</body>
+</html>

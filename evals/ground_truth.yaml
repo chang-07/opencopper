@@ -1,0 +1,20 @@
+# Extraction ground truth — values read BY HAND from the source documents
+# (the same EX-96 exhibits the model extracts from), so the eval measures
+# extraction fidelity, not data-source agreement.
+#
+# Workflow: download exhibits (opencopper ingest), open the production /
+# reserves tables, record the stated values here, then run:
+#   opencopper eval --extractions data/extracted --truth evals/ground_truth.yaml
+#
+# match: substring matched against the extracted mine_name.
+# tol_pct: tolerance band — keep tight (2-5%) for directly-stated figures,
+#          wider (10%) where the model must convert units.
+#
+# The entry below is a TEMPLATE pending hand-verification against
+# scco-20221231xex96d1.pdf — replace the values after reading the actual
+# reserve statement, then delete this comment.
+mines:
+  - match: "El Arco"
+    note: "TEMPLATE — fill from SCCO EX-96 (El Arco TRS, Dec 2021): verify before trusting"
+    fields:
+      reserves_kt: {value: 0, tol_pct: 5}

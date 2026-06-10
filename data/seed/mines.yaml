@@ -22,13 +22,13 @@ mines:
   - {name: Las Bambas, country: Peru, owner: MMG, capacity_kt: 400, production_kt: {2024: 323}, basis: seed-estimate, sources: ["MMG 2024 production report (approx)"]}
   - {name: Chuquicamata, country: Chile, owner: Codelco, capacity_kt: 350, production_kt: {2024: 310}, basis: seed-estimate, sources: ["Codelco 2024 results (approx)"]}
   - {name: Quellaveco, country: Peru, owner: Anglo American, capacity_kt: 330, production_kt: {2024: 306}, basis: seed-estimate, sources: ["Anglo American 2024 production report (approx)"]}
-  - {name: Oyu Tolgoi, country: Mongolia, owner: Rio Tinto / Erdenes, status: ramping, capacity_kt: 500, production_kt: {2024: 240}, basis: seed-estimate, sources: ["Rio Tinto 2024 production report (approx)"], notes: "Underground ramp to ~500kt avg by 2028"}
+  - {name: Oyu Tolgoi, country: Mongolia, owner: Rio Tinto / Erdenes, status: ramping, capacity_kt: 500, production_kt: {2024: 240, 2025: 300, 2026: 360, 2027: 430}, basis: seed-estimate, sources: ["Rio Tinto 2024 production report (approx)"], notes: "Underground ramp profile to ~500kt avg by 2028"}
   - {name: Tenke Fungurume, country: DR Congo, owner: CMOC, capacity_kt: 450, production_kt: {2024: 437}, basis: seed-estimate, sources: ["CMOC 2024 results (approx)"]}
   - {name: Kisanfu, country: DR Congo, owner: CMOC, capacity_kt: 220, production_kt: {2024: 213}, basis: seed-estimate, sources: ["CMOC 2024 results (approx)"]}
   - {name: Polar Division, country: Russia, owner: Norilsk Nickel, capacity_kt: 430, production_kt: {2024: 420}, basis: seed-estimate, sources: ["Nornickel 2024 results (approx)"], notes: "Sanctions affect marketing, not output, in v1"}
   - {name: Los Pelambres, country: Chile, owner: Antofagasta, capacity_kt: 350, production_kt: {2024: 320}, basis: seed-estimate, sources: ["Antofagasta 2024 production report (approx)"]}
   - {name: Spence, country: Chile, owner: BHP, capacity_kt: 250, production_kt: {2024: 249}, sxew_share: 0.30, basis: seed-estimate, sources: ["BHP FY2024 operational review (approx)"]}
-  - {name: Quebrada Blanca, country: Chile, owner: Teck, status: ramping, capacity_kt: 300, production_kt: {2024: 208}, basis: seed-estimate, sources: ["Teck 2024 production report (approx)"]}
+  - {name: Quebrada Blanca, country: Chile, owner: Teck, status: ramping, capacity_kt: 300, production_kt: {2024: 208, 2025: 235, 2026: 255, 2027: 280}, basis: seed-estimate, sources: ["Teck 2024 production report (approx)"], notes: "QB2 ramp profile"}
   - {name: Radomiro Tomic, country: Chile, owner: Codelco, capacity_kt: 320, production_kt: {2024: 300}, sxew_share: 0.60, basis: seed-estimate, sources: ["Codelco 2024 results (approx)"]}
   - {name: Sentinel, country: Zambia, owner: First Quantum, capacity_kt: 260, production_kt: {2024: 231}, basis: seed-estimate, sources: ["FQM 2024 results (approx)"]}
   - {name: Kansanshi, country: Zambia, owner: First Quantum, capacity_kt: 200, production_kt: {2024: 170}, sxew_share: 0.20, basis: seed-estimate, sources: ["FQM 2024 results (approx)"]}
@@ -36,3 +36,7 @@ mines:
   - {name: Olympic Dam, country: Australia, owner: BHP, capacity_kt: 220, production_kt: {2024: 215}, basis: seed-estimate, sources: ["BHP FY2024 operational review (approx)"]}
   - {name: Batu Hijau, country: Indonesia, owner: Amman Mineral, capacity_kt: 250, production_kt: {2024: 220}, basis: seed-estimate, sources: ["Amman 2024 results (approx)"], notes: "High-grade Phase 7; grades decline late decade"}
   - {name: Almalyk, country: Uzbekistan, owner: Almalyk MMC, capacity_kt: 180, production_kt: {2024: 150}, basis: seed-estimate, sources: ["trade press (approx)"], notes: "Major expansion underway"}
+  - {name: Toquepala, country: Peru, owner: Southern Copper (Grupo Mexico), capacity_kt: 240, production_kt: {2024: 210}, sxew_share: 0.10, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
+  - {name: Cuajone, country: Peru, owner: Southern Copper (Grupo Mexico), capacity_kt: 180, production_kt: {2024: 160}, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
+  - {name: La Caridad, country: Mexico, owner: Southern Copper (Grupo Mexico), capacity_kt: 130, production_kt: {2024: 125}, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
+  - {name: Salobo, country: Brazil, owner: Vale, capacity_kt: 230, production_kt: {2024: 200}, basis: seed-estimate, sources: ["Vale 2024 production report (approx)"]}
