@@ -118,6 +118,21 @@ def _cmd_export_web(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_sensitivity(args: argparse.Namespace) -> int:
+    from .sensitivity import render_tornado, run_sensitivity
+
+    scenario = None
+    name = "baseline"
+    if args.scenario:
+        from .scenario import load_scenario
+
+        scenario = load_scenario(Path(args.scenario))
+        name = scenario.name
+    rows = run_sensitivity(year=args.year, scenario=scenario)
+    print(render_tornado(rows, args.year, name))
+    return 0
+
+
 def _cmd_ledger(args: argparse.Namespace) -> int:
     ledger = load_ledger()
     assumptions = load_assumptions()
@@ -184,6 +199,11 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("export-web", help="precompute scenario data for the static web demo")
     p.add_argument("--out", default="web/data.js")
     p.set_defaults(func=_cmd_export_web)
+
+    p = sub.add_parser("sensitivity", help="tornado: which assumption moves the balance most")
+    p.add_argument("--year", type=int, default=2026)
+    p.add_argument("--scenario", default=None)
+    p.set_defaults(func=_cmd_sensitivity)
 
     args = parser.parse_args(argv)
     return args.func(args)

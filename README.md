@@ -72,8 +72,14 @@ uv sync
 uv run opencopper ledger                                            # the mine ledger + world coverage
 uv run opencopper simulate --scenario scenarios/grasberg-2025.yaml  # backtest the mud rush
 uv run opencopper simulate --scenario scenarios/us-refined-tariff-2026.yaml
+uv run opencopper sensitivity                                       # which assumption matters most
 uv run opencopper export-web && python3 -m http.server -d web      # the interactive demo
 ```
+
+`sensitivity` runs the one-at-a-time tornado over every world assumption. A
+nice property of an explicit-constraint model: smelter utilization shows zero
+swing in the baseline *because the market is concentrate-bound* — the tornado
+exposes which constraints bind, not just which numbers are big.
 
 ### The extraction loop (needs `ANTHROPIC_API_KEY`)
 
@@ -136,7 +142,9 @@ precomputed by `opencopper export-web`; the "sliders" snap to a parameter grid.
 - [x] Web demo: scenario sliders, live catalyst countdowns, ledger browser
 - [ ] Run the batch over all ~2,400 copper EX-96 exhibits; publish the eval table
 - [ ] Fill `evals/ground_truth.yaml` from source documents (hand-verified)
-- [ ] MinMod ingestion for the NI 43-101 universe (SEDAR+ without scraping)
+- [ ] MinMod ingestion for the NI 43-101 universe (SEDAR+ without scraping) —
+      API exists at `minmod.isi.edu/api/v1` (+ SPARQL at `/sparql`) but currently
+      serves an incomplete cert chain; bulk CDR endpoint needs a token. Parked.
 - [ ] Quarterly resolution; regional trade flows (the COMEX-LME arb properly)
 - [ ] Monthly "model vs ICSG" balance updates
 
