@@ -34,6 +34,7 @@
   .panel .sub { color: var(--muted); font-size: 13.5px; margin-bottom: 12px; max-width: 85ch; }
   .controls { display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
     background: var(--panel2); border-radius: 8px; padding: 12px 16px; margin-bottom: 10px; }
+  .controls:empty { display: none; }
   .controls label { font-size: 14px; color: var(--muted); }
   .controls .value { font-size: 20px; color: var(--copper-hot); font-weight: bold; min-width: 70px; }
   input[type=range] { width: 260px; accent-color: var(--copper); }
@@ -88,7 +89,7 @@
     capacity (the TC/RC crisis lives here) and refined supply vs demand (inventory cover → price
     pressure index). Seed data is estimate-grade by design — the LLM extraction pipeline replaces it
     with cited values from EX-96 filings. Source, assumptions, tests:
-    <a href="https://github.com/changlearnstocode/opencopper">github.com/changlearnstocode/opencopper</a>
+    <a href="https://github.com/chang-07/opencopper">github.com/chang-07/opencopper</a>
   </footer>
 </div>
 
@@ -234,6 +235,38 @@ const VIEWS = {
         draw(s.rows, pick.value);
       };
       pick.onchange = update; update();
+    },
+  },
+  map: {
+    label: 'World Map',
+    init() {
+      host.title.textContent = 'The tracked supply base';
+      host.sub.textContent = 'Bubble area = annual capacity (kt contained Cu). Copper = operating, blue = ramping, red = suspended. Locations are approximate; hover for details.';
+      host.controls.innerHTML = '';
+      document.getElementById('stats').innerHTML = '';
+      const located = D.mines.filter(m => m.lat != null);
+      const color = s => s === 'suspended' ? '#c4604f' : s === 'ramping' ? '#5b8fb9' : '#c97a3d';
+      Plotly.react('chart', [{
+        type: 'scattergeo', mode: 'markers',
+        lat: located.map(m => m.lat), lon: located.map(m => m.lon),
+        text: located.map(m =>
+          `<b>${m.name}</b> — ${m.country}<br>${m.owner}<br>capacity ${fmt(m.capacity_kt)} kt · 2026e ${fmt(m.production_2026_kt)} kt<br>` +
+          `<i>${m.status}</i>${m.notes ? '<br>' + m.notes : ''}`),
+        hoverinfo: 'text',
+        marker: {
+          size: located.map(m => 7 + Math.sqrt(m.capacity_kt) / 1.4),
+          color: located.map(m => color(m.status)),
+          line: {color: '#0f1318', width: 1}, opacity: 0.88,
+        },
+      }], {
+        paper_bgcolor: 'rgba(0,0,0,0)', margin: {l: 0, r: 0, t: 8, b: 0}, showlegend: false,
+        geo: {
+          projection: {type: 'natural earth'}, bgcolor: 'rgba(0,0,0,0)',
+          showland: true, landcolor: '#1b232e', showocean: true, oceancolor: '#11161d',
+          showcountries: true, countrycolor: '#283342', coastlinecolor: '#283342',
+          showframe: false,
+        },
+      }, {displayModeBar: false, responsive: true});
     },
   },
   mines: {

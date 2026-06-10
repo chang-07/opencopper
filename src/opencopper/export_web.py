@@ -123,6 +123,9 @@ def build_payload() -> dict:
                     m.production(2026, assumptions.world.tracked_utilization)
                 ),
                 "basis": m.basis.value,
+                "lat": m.lat,
+                "lon": m.lon,
+                "notes": m.notes or "",
             }
             for m in sorted(ledger.mines, key=lambda m: -m.capacity_kt)
         ],

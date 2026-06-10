@@ -5,38 +5,39 @@
 # basis: seed-estimate. The extraction pipeline (EDGAR EX-96 + MinMod) is the
 # mechanism for replacing these with cited, verifiable values — see README
 # roadmap. capacity_kt and production_kt are kt of CONTAINED COPPER per year.
-# production_kt holds 2024 actuals only: 2025-26 real-world events are
-# expressed as scenario files, so the engine's baseline stays a clean
-# counterfactual.
+# production_kt holds 2024 actuals plus ramp profiles for ramping mines;
+# 2025-26 real-world EVENTS are expressed as scenario files, so the engine's
+# baseline stays a clean counterfactual.
+# lat/lon are approximate (world-map display only).
 mines:
-  - {name: Escondida, country: Chile, owner: BHP, capacity_kt: 1300, production_kt: {2024: 1280}, sxew_share: 0.20, basis: seed-estimate, sources: ["BHP FY2024 operational review (approx)"]}
-  - {name: Collahuasi, country: Chile, owner: Anglo American / Glencore, capacity_kt: 600, production_kt: {2024: 558}, basis: seed-estimate, sources: ["Anglo American 2024 production report (approx)"]}
-  - {name: Grasberg, country: Indonesia, owner: Freeport-McMoRan / MIND ID, capacity_kt: 800, production_kt: {2024: 816}, basis: seed-estimate, sources: ["FCX 2024 10-K (approx)"], notes: "Sept 2025 mud rush -> recovery pushed to 2028; modeled in scenarios"}
-  - {name: Cerro Verde, country: Peru, owner: Freeport-McMoRan, capacity_kt: 470, production_kt: {2024: 437}, basis: seed-estimate, sources: ["FCX 2024 10-K (approx)"]}
-  - {name: Morenci, country: United States, owner: Freeport-McMoRan, capacity_kt: 450, production_kt: {2024: 405}, sxew_share: 0.65, basis: seed-estimate, sources: ["FCX 2024 10-K (approx)"]}
-  - {name: El Teniente, country: Chile, owner: Codelco, capacity_kt: 430, production_kt: {2024: 356}, basis: seed-estimate, sources: ["Codelco 2024 results (approx)"], notes: "2025 accident; -25kt carryover into 2026 (scenario)"}
-  - {name: Antamina, country: Peru, owner: BHP / Glencore / Teck / Mitsubishi, capacity_kt: 450, production_kt: {2024: 411}, basis: seed-estimate, sources: ["partner disclosures (approx)"]}
-  - {name: Buenavista, country: Mexico, owner: Southern Copper (Grupo Mexico), capacity_kt: 450, production_kt: {2024: 415}, sxew_share: 0.25, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
-  - {name: Kamoa-Kakula, country: DR Congo, owner: Ivanhoe Mines / Zijin, capacity_kt: 600, production_kt: {2024: 437}, basis: seed-estimate, sources: ["Ivanhoe 2024 production report (approx)"], notes: "May 2025 seismic event; recovery modeled in scenarios"}
-  - {name: Cobre Panama, country: Panama, owner: First Quantum, status: suspended, capacity_kt: 350, production_kt: {2024: 0}, basis: seed-estimate, sources: ["FQM disclosures"], notes: "Suspended Nov 2023. Stockpile processing approved 2026; full-restart decision expected June 2026 (scenario)"}
-  - {name: Las Bambas, country: Peru, owner: MMG, capacity_kt: 400, production_kt: {2024: 323}, basis: seed-estimate, sources: ["MMG 2024 production report (approx)"]}
-  - {name: Chuquicamata, country: Chile, owner: Codelco, capacity_kt: 350, production_kt: {2024: 310}, basis: seed-estimate, sources: ["Codelco 2024 results (approx)"]}
-  - {name: Quellaveco, country: Peru, owner: Anglo American, capacity_kt: 330, production_kt: {2024: 306}, basis: seed-estimate, sources: ["Anglo American 2024 production report (approx)"]}
-  - {name: Oyu Tolgoi, country: Mongolia, owner: Rio Tinto / Erdenes, status: ramping, capacity_kt: 500, production_kt: {2024: 240, 2025: 300, 2026: 360, 2027: 430}, basis: seed-estimate, sources: ["Rio Tinto 2024 production report (approx)"], notes: "Underground ramp profile to ~500kt avg by 2028"}
-  - {name: Tenke Fungurume, country: DR Congo, owner: CMOC, capacity_kt: 450, production_kt: {2024: 437}, basis: seed-estimate, sources: ["CMOC 2024 results (approx)"]}
-  - {name: Kisanfu, country: DR Congo, owner: CMOC, capacity_kt: 220, production_kt: {2024: 213}, basis: seed-estimate, sources: ["CMOC 2024 results (approx)"]}
-  - {name: Polar Division, country: Russia, owner: Norilsk Nickel, capacity_kt: 430, production_kt: {2024: 420}, basis: seed-estimate, sources: ["Nornickel 2024 results (approx)"], notes: "Sanctions affect marketing, not output, in v1"}
-  - {name: Los Pelambres, country: Chile, owner: Antofagasta, capacity_kt: 350, production_kt: {2024: 320}, basis: seed-estimate, sources: ["Antofagasta 2024 production report (approx)"]}
-  - {name: Spence, country: Chile, owner: BHP, capacity_kt: 250, production_kt: {2024: 249}, sxew_share: 0.30, basis: seed-estimate, sources: ["BHP FY2024 operational review (approx)"]}
-  - {name: Quebrada Blanca, country: Chile, owner: Teck, status: ramping, capacity_kt: 300, production_kt: {2024: 208, 2025: 235, 2026: 255, 2027: 280}, basis: seed-estimate, sources: ["Teck 2024 production report (approx)"], notes: "QB2 ramp profile"}
-  - {name: Radomiro Tomic, country: Chile, owner: Codelco, capacity_kt: 320, production_kt: {2024: 300}, sxew_share: 0.60, basis: seed-estimate, sources: ["Codelco 2024 results (approx)"]}
-  - {name: Sentinel, country: Zambia, owner: First Quantum, capacity_kt: 260, production_kt: {2024: 231}, basis: seed-estimate, sources: ["FQM 2024 results (approx)"]}
-  - {name: Kansanshi, country: Zambia, owner: First Quantum, capacity_kt: 200, production_kt: {2024: 170}, sxew_share: 0.20, basis: seed-estimate, sources: ["FQM 2024 results (approx)"]}
-  - {name: Toromocho, country: Peru, owner: Chinalco, capacity_kt: 230, production_kt: {2024: 220}, basis: seed-estimate, sources: ["trade press (approx)"]}
-  - {name: Olympic Dam, country: Australia, owner: BHP, capacity_kt: 220, production_kt: {2024: 215}, basis: seed-estimate, sources: ["BHP FY2024 operational review (approx)"]}
-  - {name: Batu Hijau, country: Indonesia, owner: Amman Mineral, capacity_kt: 250, production_kt: {2024: 220}, basis: seed-estimate, sources: ["Amman 2024 results (approx)"], notes: "High-grade Phase 7; grades decline late decade"}
-  - {name: Almalyk, country: Uzbekistan, owner: Almalyk MMC, capacity_kt: 180, production_kt: {2024: 150}, basis: seed-estimate, sources: ["trade press (approx)"], notes: "Major expansion underway"}
-  - {name: Toquepala, country: Peru, owner: Southern Copper (Grupo Mexico), capacity_kt: 240, production_kt: {2024: 210}, sxew_share: 0.10, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
-  - {name: Cuajone, country: Peru, owner: Southern Copper (Grupo Mexico), capacity_kt: 180, production_kt: {2024: 160}, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
-  - {name: La Caridad, country: Mexico, owner: Southern Copper (Grupo Mexico), capacity_kt: 130, production_kt: {2024: 125}, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
-  - {name: Salobo, country: Brazil, owner: Vale, capacity_kt: 230, production_kt: {2024: 200}, basis: seed-estimate, sources: ["Vale 2024 production report (approx)"]}
+  - {name: Escondida, country: Chile, owner: BHP, capacity_kt: 1300, production_kt: {2024: 1280}, sxew_share: 0.20, lat: -24.27, lon: -69.07, basis: seed-estimate, sources: ["BHP FY2024 operational review (approx)"]}
+  - {name: Collahuasi, country: Chile, owner: Anglo American / Glencore, capacity_kt: 600, production_kt: {2024: 558}, lat: -20.98, lon: -68.72, basis: seed-estimate, sources: ["Anglo American 2024 production report (approx)"]}
+  - {name: Grasberg, country: Indonesia, owner: Freeport-McMoRan / MIND ID, capacity_kt: 800, production_kt: {2024: 816}, lat: -4.06, lon: 137.11, basis: seed-estimate, sources: ["FCX 2024 10-K (approx)"], notes: "Sept 2025 mud rush -> recovery pushed to 2028; modeled in scenarios"}
+  - {name: Cerro Verde, country: Peru, owner: Freeport-McMoRan, capacity_kt: 470, production_kt: {2024: 437}, lat: -16.54, lon: -71.59, basis: seed-estimate, sources: ["FCX 2024 10-K (approx)"]}
+  - {name: Morenci, country: United States, owner: Freeport-McMoRan, capacity_kt: 450, production_kt: {2024: 405}, sxew_share: 0.65, lat: 33.05, lon: -109.36, basis: seed-estimate, sources: ["FCX 2024 10-K (approx)"]}
+  - {name: El Teniente, country: Chile, owner: Codelco, capacity_kt: 430, production_kt: {2024: 356}, lat: -34.09, lon: -70.35, basis: seed-estimate, sources: ["Codelco 2024 results (approx)"], notes: "2025 accident; -25kt carryover into 2026 (scenario)"}
+  - {name: Antamina, country: Peru, owner: BHP / Glencore / Teck / Mitsubishi, capacity_kt: 450, production_kt: {2024: 411}, lat: -9.54, lon: -77.05, basis: seed-estimate, sources: ["partner disclosures (approx)"]}
+  - {name: Buenavista, country: Mexico, owner: Southern Copper (Grupo Mexico), capacity_kt: 450, production_kt: {2024: 415}, sxew_share: 0.25, lat: 30.97, lon: -110.30, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
+  - {name: Kamoa-Kakula, country: DR Congo, owner: Ivanhoe Mines / Zijin, capacity_kt: 600, production_kt: {2024: 437}, lat: -10.77, lon: 25.17, basis: seed-estimate, sources: ["Ivanhoe 2024 production report (approx)"], notes: "May 2025 seismic event; recovery modeled in scenarios"}
+  - {name: Cobre Panama, country: Panama, owner: First Quantum, status: suspended, capacity_kt: 350, production_kt: {2024: 0}, lat: 8.83, lon: -80.67, basis: seed-estimate, sources: ["FQM disclosures"], notes: "Suspended Nov 2023. Stockpile processing approved 2026; full-restart decision expected June 2026 (scenario)"}
+  - {name: Las Bambas, country: Peru, owner: MMG, capacity_kt: 400, production_kt: {2024: 323}, lat: -14.03, lon: -72.33, basis: seed-estimate, sources: ["MMG 2024 production report (approx)"]}
+  - {name: Chuquicamata, country: Chile, owner: Codelco, capacity_kt: 350, production_kt: {2024: 310}, lat: -22.29, lon: -68.90, basis: seed-estimate, sources: ["Codelco 2024 results (approx)"]}
+  - {name: Quellaveco, country: Peru, owner: Anglo American, capacity_kt: 330, production_kt: {2024: 306}, lat: -17.07, lon: -70.62, basis: seed-estimate, sources: ["Anglo American 2024 production report (approx)"]}
+  - {name: Oyu Tolgoi, country: Mongolia, owner: Rio Tinto / Erdenes, status: ramping, capacity_kt: 500, production_kt: {2024: 240, 2025: 300, 2026: 360, 2027: 430}, lat: 43.01, lon: 106.87, basis: seed-estimate, sources: ["Rio Tinto 2024 production report (approx)"], notes: "Underground ramp profile to ~500kt avg by 2028"}
+  - {name: Tenke Fungurume, country: DR Congo, owner: CMOC, capacity_kt: 450, production_kt: {2024: 437}, lat: -10.62, lon: 26.13, basis: seed-estimate, sources: ["CMOC 2024 results (approx)"]}
+  - {name: Kisanfu, country: DR Congo, owner: CMOC, capacity_kt: 220, production_kt: {2024: 213}, lat: -10.74, lon: 25.73, basis: seed-estimate, sources: ["CMOC 2024 results (approx)"]}
+  - {name: Polar Division, country: Russia, owner: Norilsk Nickel, capacity_kt: 430, production_kt: {2024: 420}, lat: 69.34, lon: 88.21, basis: seed-estimate, sources: ["Nornickel 2024 results (approx)"], notes: "Sanctions affect marketing, not output, in v1"}
+  - {name: Los Pelambres, country: Chile, owner: Antofagasta, capacity_kt: 350, production_kt: {2024: 320}, lat: -31.72, lon: -70.49, basis: seed-estimate, sources: ["Antofagasta 2024 production report (approx)"]}
+  - {name: Spence, country: Chile, owner: BHP, capacity_kt: 250, production_kt: {2024: 249}, sxew_share: 0.30, lat: -22.75, lon: -69.31, basis: seed-estimate, sources: ["BHP FY2024 operational review (approx)"]}
+  - {name: Quebrada Blanca, country: Chile, owner: Teck, status: ramping, capacity_kt: 300, production_kt: {2024: 208, 2025: 235, 2026: 255, 2027: 280}, lat: -21.00, lon: -68.81, basis: seed-estimate, sources: ["Teck 2024 production report (approx)"], notes: "QB2 ramp profile"}
+  - {name: Radomiro Tomic, country: Chile, owner: Codelco, capacity_kt: 320, production_kt: {2024: 300}, sxew_share: 0.60, lat: -22.22, lon: -68.91, basis: seed-estimate, sources: ["Codelco 2024 results (approx)"]}
+  - {name: Sentinel, country: Zambia, owner: First Quantum, capacity_kt: 260, production_kt: {2024: 231}, lat: -12.23, lon: 25.32, basis: seed-estimate, sources: ["FQM 2024 results (approx)"]}
+  - {name: Kansanshi, country: Zambia, owner: First Quantum, capacity_kt: 200, production_kt: {2024: 170}, sxew_share: 0.20, lat: -12.10, lon: 26.43, basis: seed-estimate, sources: ["FQM 2024 results (approx)"]}
+  - {name: Toromocho, country: Peru, owner: Chinalco, capacity_kt: 230, production_kt: {2024: 220}, lat: -11.60, lon: -76.14, basis: seed-estimate, sources: ["trade press (approx)"]}
+  - {name: Olympic Dam, country: Australia, owner: BHP, capacity_kt: 220, production_kt: {2024: 215}, lat: -30.44, lon: 136.89, basis: seed-estimate, sources: ["BHP FY2024 operational review (approx)"]}
+  - {name: Batu Hijau, country: Indonesia, owner: Amman Mineral, capacity_kt: 250, production_kt: {2024: 220}, lat: -8.96, lon: 116.87, basis: seed-estimate, sources: ["Amman 2024 results (approx)"], notes: "High-grade Phase 7; grades decline late decade"}
+  - {name: Almalyk, country: Uzbekistan, owner: Almalyk MMC, capacity_kt: 180, production_kt: {2024: 150}, lat: 40.85, lon: 69.65, basis: seed-estimate, sources: ["trade press (approx)"], notes: "Major expansion underway"}
+  - {name: Toquepala, country: Peru, owner: Southern Copper (Grupo Mexico), capacity_kt: 240, production_kt: {2024: 210}, sxew_share: 0.10, lat: -17.27, lon: -70.65, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
+  - {name: Cuajone, country: Peru, owner: Southern Copper (Grupo Mexico), capacity_kt: 180, production_kt: {2024: 160}, lat: -17.04, lon: -70.70, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
+  - {name: La Caridad, country: Mexico, owner: Southern Copper (Grupo Mexico), capacity_kt: 130, production_kt: {2024: 125}, lat: 30.32, lon: -109.55, basis: seed-estimate, sources: ["SCCO 2024 10-K (approx)"]}
+  - {name: Salobo, country: Brazil, owner: Vale, capacity_kt: 230, production_kt: {2024: 200}, lat: -5.79, lon: -50.53, basis: seed-estimate, sources: ["Vale 2024 production report (approx)"]}

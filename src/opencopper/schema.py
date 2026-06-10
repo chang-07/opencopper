@@ -53,6 +53,8 @@ class MineRecord(BaseModel):
     basis: Basis = Basis.SEED_ESTIMATE
     sources: list[str] = Field(default_factory=list)
     notes: Optional[str] = None
+    lat: Optional[float] = Field(default=None, description="approximate, for map display only")
+    lon: Optional[float] = Field(default=None, description="approximate, for map display only")
 
     def production(self, year: int, utilization: float = 1.0) -> float:
         """Baseline production for a year before shocks are applied."""
