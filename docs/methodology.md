@@ -131,6 +131,54 @@ shock pricing: its price is set by monetary demand against a 200,000+ tonne
 above-ground stock, so a flow-shock model is the wrong tool, and the code says
 so rather than producing a confident wrong number.
 
+## From deterministic to stochastic: states, simulation, calibration
+
+A deterministic run answers "what does this exact scenario do." A world model
+must also answer "what is *likely*" — so three layers sit on top of the engine:
+
+**1. Historical states (history.py).** Thirty-four years of FRED monthly
+prices (1992–present) define empirical market regimes: every month is
+classified **glut / balanced / tight** by its price relative to a 36-month
+trailing trend (±15% thresholds). Copper has spent 17% of that time in glut,
+52% balanced, 32% tight — and is TIGHT today. Realized annual volatility
+(copper: 21.9%) becomes the calibration target. An internal-consistency check
+fell out for free: aluminum, the commodity with the most elastic supply (idle
+smelters), shows the lowest realized volatility (17.1%) — the elasticities and
+history agree without being told to.
+
+**2. Monte Carlo (montecarlo.py).** Each simulated year draws an aggregate
+mine-disruption fraction from a right-skewed Gamma (most years calm, some bad)
+and a Normal demand surprise, both applied through the full balance engine, for
+thousands of paths. Crucially the draws are **mean-zero surprises around the
+expected disruption** the baseline already carries — so the median path tracks
+the deterministic run and only the spread is stochastic. Outputs are
+distributions: P10/P50/P90 bands for balance, cover, and implied price, plus
+P(deficit) and P(price > 1.5× anchor) by year. Seeded, hence exactly
+reproducible.
+
+**3. Calibration (calibrate.py).** One dispersion knob (a single scale on
+disruption CV + demand sigma) is bisected until **simulated annual price
+volatility (22.2%) matches realized (21.9%)**. The disruption *mean* is held
+at its physical ~5%; only the surprise dispersion is tuned. A model whose
+generated world is as volatile as the real one — with a fat right tail, as
+commodity prices actually have — has earned its uncertainty bands.
+
+Two honest limits, found by trying: the implied price **clamps at 3× anchor**
+(beyond that the cover curve is extrapolating into air, and severe composite
+scenarios like world-2026 saturate it — the model says "very high" rather than
+inventing a number); and the **lagged price-feedback loop is cobweb-unstable**
+under Monte Carlo (thin inventory + convex cover curve give it loop gain > 1),
+so feedback ships as a stable deterministic opt-in (gradual partial-adjustment
+of demand destruction and scrap response) while MC volatility comes from the
+calibrated surprise draws alone.
+
+**The World Simulator** (web) composes the layers interactively: producer
+countries plotted by **criticality** (Σ share² across commodities — China 1.10,
+DRC 0.58, Indonesia 0.51), click-to-shock with a severity slider, and the
+predicted per-commodity price ripple via elasticity-incidence with a ±25%
+elasticity-uncertainty band, each card tagged with the commodity's *current
+historical regime*. The Forecasts tab shows the Monte Carlo fan per scenario.
+
 ## Data layers and the provenance ladder
 
 Every quantity carries a `basis` tag and can only move up the ladder with

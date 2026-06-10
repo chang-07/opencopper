@@ -23,6 +23,9 @@ from .commodities import (
 from .ledger import load_assumptions, load_ledger
 from .minmod import DEFAULT_CACHE as MINMOD_CACHE
 from .minmod import cache_path, load_sites, partition_plausible
+from .geo import centroid
+from .history import load_price_history
+from .montecarlo import simulate_copper
 from .pricing import cached_fred, load_pricebook, summarize
 from .scenario import SCENARIO_DIR, load_scenario
 from .shocks import MineOutage, MineRestart, Scenario, SmelterClosure, Tariff
@@ -194,7 +197,75 @@ def _commodity_payloads() -> list[dict]:
     return out
 
 
-def build_payload(minmod_cache: Path = MINMOD_CACHE, fetch_live_prices: bool = True) -> dict:
+def _history_payload() -> dict:
+    """Per-commodity market regime + realized volatility, where a series exists."""
+    out = {}
+    for name in list_commodity_names():
+        h = load_price_history(name)
+        if h:
+            out[name] = {
+                "regime_now": h.regime_now.value,
+                "annual_vol": h.annual_volatility,
+                "max_drawdown": h.max_drawdown,
+                "fractions": h.regime_fractions,
+                "start": h.start[:7],
+                "end": h.end[:7],
+            }
+    return out
+
+
+def _country_payload() -> list[dict]:
+    """Producer countries with centroid, per-commodity production+share, and an
+    aggregate criticality score (sum of share^2 across commodities — a country
+    is critical when it dominates something, anywhere)."""
+    by_country: dict[str, dict] = {}
+    for name in list_commodity_names():
+        seed = load_commodity(name)
+        world = seed.world.production_kt[seed.world.latest_year]
+        for p in seed.top_producers:
+            loc = centroid(p.country)
+            if not loc:
+                continue
+            entry = by_country.setdefault(
+                p.country,
+                {"country": p.country, "lat": loc[0], "lon": loc[1], "commodities": {}, "criticality": 0.0},
+            )
+            share = p.production_kt / world
+            entry["commodities"][name] = {"production_kt": p.production_kt, "share": round(share, 4)}
+            entry["criticality"] += share * share
+    for e in by_country.values():
+        e["criticality"] = round(e["criticality"], 3)
+    return sorted(by_country.values(), key=lambda e: -e["criticality"])
+
+
+def _mc_band_payload(scenario, n_paths: int, seed: int) -> dict:
+    mc = simulate_copper(scenario, n_paths=n_paths, seed=seed)
+    return {
+        "years": mc.years,
+        "price": {"p10": mc.price.p10, "p50": mc.price.p50, "p90": mc.price.p90},
+        "balance": {"p10": mc.balance.p10, "p50": mc.balance.p50, "p90": mc.balance.p90},
+        "prob_deficit": mc.prob_deficit,
+        "prob_spike": mc.prob_price_spike,
+        "sim_vol": mc.simulated_annual_vol,
+    }
+
+
+def _simulation_payload(n_paths: int = 2500) -> dict:
+    """Precomputed copper Monte Carlo: baseline + each shipped scenario."""
+    from .balance import BASELINE
+
+    runs = {"baseline": _mc_band_payload(BASELINE, n_paths, seed=42)}
+    for path in sorted(SCENARIO_DIR.glob("*.yaml")):
+        scenario = load_scenario(path)
+        runs[scenario.name] = _mc_band_payload(scenario, n_paths, seed=42)
+    return runs
+
+
+def build_payload(
+    minmod_cache: Path = MINMOD_CACHE,
+    fetch_live_prices: bool = True,
+    mc_paths: int = 2500,
+) -> dict:
     ledger = load_ledger()
     assumptions = load_assumptions()
 
@@ -255,6 +326,9 @@ def build_payload(minmod_cache: Path = MINMOD_CACHE, fetch_live_prices: bool = T
         ),
         "commodities": _commodity_payloads(),
         "prices": _pricing_payload(fetch_live=fetch_live_prices),
+        "history": _history_payload(),
+        "countries": _country_payload(),
+        "simulation": _simulation_payload(mc_paths),
         "mines": [
             {
                 "name": m.name,

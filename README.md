@@ -14,6 +14,14 @@ position: **every assumption is a line in a YAML file you can read, dispute,
 and PR.** The model is wrong, like all models — but it shows its work.
 Full formal writeup: [docs/methodology.md](docs/methodology.md).
 
+**It is a real stochastic world model, not a trend line.** Market states come
+from 34 years of price history (regimes: glut/balanced/tight); a Monte Carlo
+engine draws thousands of futures from disruption + demand-surprise
+distributions **calibrated so simulated volatility (22%) matches realized
+(22%)**; and the interactive World Simulator lets you click a producer country,
+shock its supply, and watch the predicted cross-commodity price ripple with
+uncertainty bands. `opencopper montecarlo`, `history`, `validate`.
+
 ```
 $ opencopper simulate --scenario scenarios/world-2026.yaml
 
@@ -80,6 +88,23 @@ uv run opencopper sensitivity                                       # which assu
 uv run opencopper export-web && python3 -m http.server -d web      # the interactive demo
 ```
 
+### The world model: history, simulation, validation
+
+```bash
+uv run opencopper history --commodity copper      # 34yr regimes + realized volatility
+uv run opencopper validate                         # calibrate the simulator to history (22% ≈ 22%)
+uv run opencopper montecarlo --scenario scenarios/grasberg-2025.yaml   # P10/P50/P90, P(deficit), P(spike)
+```
+
+The Monte Carlo engine wraps the balance model in stochastic mine-disruption
+and demand-surprise draws (mean-zero around the expected disruption, so the
+median tracks the deterministic baseline) and returns **distributions**: a
+price fan, probability of deficit, probability of a price spike — per year, per
+scenario. The dispersion is calibrated by bisection so simulated annual price
+volatility matches the 21.9% copper has realized since 1992. The Grasberg mud
+rush, for instance, raises the modeled probability of a 2026 copper deficit to
+~80%.
+
 ### The multi-commodity tier
 
 ```bash
@@ -89,6 +114,12 @@ uv run opencopper minmod fetch --commodity nickel && uv run opencopper minmod re
 uv run opencopper price                         # live FRED levels + anchors + elasticities
 uv run opencopper price --commodity cobalt --supply-loss 0.46   # the DRC quota, priced
 ```
+
+### The world model: history, simulation, calibration
+
+```bash
+uv run opencopper history                       # 34 years of regimes: glut/balanced/tight
+uv run opencopper montecarlo --scenario
 
 Country-level supply from USGS Mineral Commodity Summaries (extracted by
 LLM agents with world-total cross-checks — they catch the PDF footnote-fusion

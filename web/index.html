@@ -57,6 +57,17 @@
   th { color: var(--muted); font-weight: normal; font-size: 12.5px; text-transform: uppercase; letter-spacing: .6px; }
   td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
   .pill { font-size: 11.5px; border: 1px solid var(--border); border-radius: 999px; padding: 1px 9px; color: var(--muted); }
+  #sim-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 10px; margin-top: 14px; }
+  .sim-card { background: var(--panel2); border: 1px solid var(--border); border-left: 3px solid var(--copper);
+    border-radius: 8px; padding: 11px 14px; }
+  .sim-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .sim-head b { font-size: 15px; text-transform: capitalize; }
+  .sim-share { color: var(--muted); font-size: 12px; margin-left: auto; }
+  .sim-impact { font-size: 26px; font-weight: bold; color: var(--copper-hot); margin: 4px 0 2px; }
+  .sim-impact.hot { color: var(--red); }
+  .sim-band { font-size: 13px; color: var(--muted); font-weight: normal; }
+  .sim-price { font-size: 12.5px; color: var(--text); }
+  .sim-unit { color: var(--muted); }
   footer { color: var(--muted); font-size: 13px; margin-top: 26px; max-width: 90ch; }
   footer a { color: var(--copper-hot); }
 </style>
@@ -235,96 +246,208 @@ const VIEWS = {
     },
   },
   scenarios: {
-    label: 'Scenarios',
+    label: 'Forecasts',
     init() {
-      host.title.textContent = 'Shipped scenarios';
-      host.sub.textContent = 'Each scenario is a YAML file of typed events — backtests of what happened, and forwards of what might. Add your own with a PR.';
+      host.title.textContent = 'Probabilistic forecasts — 2,500 simulated futures per scenario';
       const names = Object.keys(D.scenarios);
       host.controls.innerHTML = `<label>scenario</label><select id="s-pick">` +
-        names.map(n => `<option ${n === 'world-2026' ? 'selected' : ''}>${n}</option>`).join('') + `</select>`;
+        names.map(n => `<option ${n === 'world-2026' ? 'selected' : ''}>${n}</option>`).join('') + `</select>
+        <div class="toggle"><button id="s-det">DETERMINISTIC</button><button id="s-mc" class="active">MONTE CARLO</button></div>`;
       const pick = document.getElementById('s-pick');
+      let mcMode = true;
+
+      const drawFan = name => {
+        const mc = D.simulation[name], base = D.simulation['baseline'];
+        const years = mc.years;
+        const y26i = years.indexOf(2026);
+        document.getElementById('stats').innerHTML = [
+          ['P(deficit) 2026', `${Math.round(mc.prob_deficit['2026'] * 100)}%`, mc.prob_deficit['2026'] > 0.6 ? 'neg' : ''],
+          ['P(price spike) 2026', `${Math.round(mc.prob_spike['2026'] * 100)}%`, mc.prob_spike['2026'] > 0.4 ? 'neg' : ''],
+          ['price P50 2026', `$${fmt(mc.price.p50[y26i])}`, ''],
+          ['P10–P90 2026', `$${fmt(mc.price.p10[y26i])} – $${fmt(mc.price.p90[y26i])}`, ''],
+          ['simulated vol', `${(mc.sim_vol * 100).toFixed(0)}%`, ''],
+        ].map(([k, v, cls]) => `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
+
+        const traces = [
+          // price fan: P90 invisible upper, P10 fills down to it
+          {x: years, y: mc.price.p90, type: 'scatter', line: {width: 0}, hoverinfo: 'skip',
+           showlegend: false, xaxis: 'x', yaxis: 'y'},
+          {x: years, y: mc.price.p10, type: 'scatter', line: {width: 0}, fill: 'tonexty',
+           fillcolor: 'rgba(232,149,79,0.18)', name: 'P10–P90', xaxis: 'x', yaxis: 'y'},
+          {x: years, y: mc.price.p50, type: 'scatter', name: `${name} P50`,
+           line: {color: '#e8954f', width: 2.5}, xaxis: 'x', yaxis: 'y'},
+          {x: years, y: base.price.p50, type: 'scatter', name: 'baseline P50',
+           line: {color: '#8a94a0', dash: 'dash'}, xaxis: 'x', yaxis: 'y'},
+          // probability panel
+          {x: years, y: years.map(y => mc.prob_deficit[String(y)] * 100), type: 'bar',
+           name: 'P(deficit) %', marker: {color: '#b87333'}, xaxis: 'x2', yaxis: 'y2'},
+          {x: years, y: years.map(y => mc.prob_spike[String(y)] * 100), type: 'scatter',
+           name: 'P(price >1.5x anchor) %', line: {color: '#c4604f'}, xaxis: 'x2', yaxis: 'y2'},
+        ];
+        Plotly.react('chart', traces, {
+          grid: {rows: 2, columns: 1, pattern: 'independent'},
+          paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)',
+          font: {color: '#c9c2b6', family: 'Georgia, serif', size: 12},
+          margin: {l: 64, r: 16, t: 30, b: 36}, showlegend: true,
+          legend: {orientation: 'h', y: -0.08},
+          annotations: [
+            {text: 'Implied copper price — P10/P50/P90 across 2,500 simulated futures (USD/t)', xref: 'paper', yref: 'paper', x: 0, y: 1.06, showarrow: false, font: {size: 13, color: '#e8e3da'}},
+            {text: 'Event probabilities by year', xref: 'paper', yref: 'paper', x: 0, y: 0.40, showarrow: false, font: {size: 13, color: '#e8e3da'}},
+          ],
+          xaxis: {gridcolor: '#283342', dtick: 1}, yaxis: {gridcolor: '#283342'},
+          xaxis2: {gridcolor: '#283342', dtick: 1}, yaxis2: {gridcolor: '#283342', range: [0, 105], ticksuffix: '%'},
+        }, {displayModeBar: false, responsive: true});
+      };
+
       const update = () => {
         const s = D.scenarios[pick.value];
-        host.sub.textContent = s.description;
-        draw(s.rows, pick.value);
+        const hasMC = !!(D.simulation || {})[pick.value];
+        document.getElementById('s-mc').style.display = hasMC ? '' : 'none';
+        if (mcMode && hasMC) {
+          host.sub.textContent = s.description + ' — fan shows P10–P90 across 2,500 stochastic futures (disruption + demand surprises calibrated to 34 years of realized volatility).';
+          drawFan(pick.value);
+        } else {
+          host.sub.textContent = s.description;
+          draw(s.rows, pick.value);
+        }
       };
+      document.getElementById('s-det').onclick = () => { mcMode = false;
+        document.getElementById('s-mc').classList.remove('active');
+        document.getElementById('s-det').classList.add('active'); update(); };
+      document.getElementById('s-mc').onclick = () => { mcMode = true;
+        document.getElementById('s-det').classList.remove('active');
+        document.getElementById('s-mc').classList.add('active'); update(); };
       pick.onchange = update; update();
     },
   },
   map: {
-    label: 'World Map',
+    label: 'World Simulator',
     init() {
-      host.title.textContent = 'The tracked supply base';
-      document.getElementById('stats').innerHTML = '';
-      const depositLayers = D.deposits || {};
-      const layerNames = Object.keys(depositLayers);
-      const hasDeposits = layerNames.length > 0;
-      host.controls.innerHTML = hasDeposits
-        ? `<label>deposit pipeline (DARPA MinMod):</label>
-           <div class="toggle"><button id="dep-off">HIDE</button><button id="dep-on" class="active">SHOW</button></div>
-           <select id="dep-commodity">` +
-          layerNames.map(c => `<option ${c === 'copper' ? 'selected' : ''}>${c}</option>`).join('') +
-          `</select><span class="value" id="dep-count"></span>`
-        : '';
-      const render = (showDeposits, commodity) => {
-        const layer = depositLayers[commodity] || [];
-        if (hasDeposits) document.getElementById('dep-count').textContent = `${layer.length} sites`;
-        host.sub.textContent = 'Bubble area = annual capacity (kt contained Cu). Copper bubbles = the tracked copper mine ledger.' +
-          (showDeposits ? ` Teal diamonds = major known ${commodity} deposits (MinMod knowledge graph — deposits, not production; implausible records quarantined).` : '') +
-          ' Locations are approximate; hover for details.';
-        const located = D.mines.filter(m => m.lat != null);
-        const color = s => s === 'suspended' ? '#c4604f' : s === 'ramping' ? '#5b8fb9' : '#c97a3d';
+      const countries = D.countries || [];
+      document.getElementById('chart').style.height = '440px';  // natural-earth fills a shorter frame
+      host.title.textContent = 'World simulator — shock a producer, predict the ripple';
+      const sevVals = [10, 20, 30, 40, 50, 60, 75, 90];
+      host.controls.innerHTML = `<label>shock</label>
+        <select id="sim-country">` +
+        countries.map(c => `<option>${c.country}</option>`).join('') + `</select>
+        <label>by</label>
+        <input type="range" id="sim-sev" min="0" max="${sevVals.length - 1}" value="4" step="1">
+        <span class="value" id="sim-sevval"></span>
+        <span style="color:var(--muted);font-size:13px">of its supply — click the map or pick a country</span>
+        <select id="sim-dep"><option value="">deposit overlay: off</option>` +
+        Object.keys(D.deposits || {}).map(c => `<option value="${c}">deposits: ${c}</option>`).join('') +
+        `</select>`;
+      host.table.innerHTML = `<div id="sim-cards"></div>`;
+
+      const incidence = (country, severity) => {
+        const c = countries.find(x => x.country === country);
+        if (!c) return [];
+        const out = [];
+        for (const [name, info] of Object.entries(c.commodities)) {
+          const px = (D.prices.commodities || {})[name];
+          if (!px || px.excluded) continue;
+          const loss = info.share * severity;
+          const denom = px.elasticity_demand + px.elasticity_supply;
+          const mid = loss / denom;
+          out.push({
+            commodity: name, share: info.share, loss,
+            pct: mid * 100,
+            lo: (loss / (denom * 1.25)) * 100,
+            hi: (loss / (denom * 0.75)) * 100,
+            anchor: px.anchor_usd, unit: px.unit,
+            implied: px.anchor_usd * (1 + mid),
+            regime: (D.history[name] || {}).regime_now,
+          });
+        }
+        return out.sort((a, b) => b.pct - a.pct);
+      };
+
+      const regimeBadge = r => r ? `<span class="pill" style="border-color:${
+        r === 'tight' ? '#c4604f' : r === 'glut' ? '#5b8fb9' : '#283342'}">${r}</span>` : '';
+
+      const drawMap = selected => {
+        const sel = countries.find(c => c.country === selected);
         const traces = [];
-        if (showDeposits && layer.length) {
+        const depCommodity = document.getElementById('sim-dep').value;
+        const depLayer = depCommodity ? (D.deposits[depCommodity] || []) : [];
+        if (depLayer.length) {
           traces.push({
-            type: 'scattergeo', mode: 'markers', name: 'deposits',
-            lat: layer.map(d => d.lat), lon: layer.map(d => d.lon),
-            text: layer.map(d =>
-              `<b>${d.name}</b> — ${d.country}<br>${d.deposit_type}<br>contained ${fmt(d.contained_kt)} kt (deposit, not production)`),
-            hoverinfo: 'text',
-            marker: {symbol: 'diamond', size: layer.map(d => 4 + Math.sqrt(d.contained_kt) / 28),
-                     color: '#4fa8a0', opacity: 0.55, line: {color: '#0f1318', width: 0.5}},
+            type: 'scattergeo', mode: 'markers', hoverinfo: 'text',
+            lat: depLayer.map(d => d.lat), lon: depLayer.map(d => d.lon),
+            text: depLayer.map(d => `<b>${d.name}</b> — ${d.country}<br>${d.deposit_type}<br>contained ${fmt(d.contained_kt)} kt (deposit, not production)`),
+            marker: {symbol: 'diamond', size: depLayer.map(d => 3 + Math.sqrt(d.contained_kt) / 30),
+                     color: '#4fa8a0', opacity: 0.4, line: {color: '#0f1318', width: 0.5}},
           });
         }
         traces.push({
-          type: 'scattergeo', mode: 'markers', name: 'tracked mines',
-          lat: located.map(m => m.lat), lon: located.map(m => m.lon),
-          text: located.map(m =>
-            `<b>${m.name}</b> — ${m.country}<br>${m.owner}<br>capacity ${fmt(m.capacity_kt)} kt · 2026e ${fmt(m.production_2026_kt)} kt<br>` +
-            `<i>${m.status}</i>${m.notes ? '<br>' + m.notes : ''}`),
+          type: 'scattergeo', mode: 'markers',
+          lat: countries.map(c => c.lat), lon: countries.map(c => c.lon),
+          customdata: countries.map(c => c.country),
+          text: countries.map(c => {
+            const coms = Object.entries(c.commodities).sort((a,b)=>b[1].share-a[1].share)
+              .slice(0,4).map(([n,i]) => `${n} ${(i.share*100).toFixed(0)}%`).join(', ');
+            return `<b>${c.country}</b><br>criticality ${c.criticality}<br>${coms}`;
+          }),
           hoverinfo: 'text',
           marker: {
-            size: located.map(m => 7 + Math.sqrt(m.capacity_kt) / 1.4),
-            color: located.map(m => color(m.status)),
-            line: {color: '#0f1318', width: 1}, opacity: 0.88,
+            size: countries.map(c => 8 + Math.sqrt(c.criticality) * 30),
+            color: countries.map(c => c.criticality),
+            colorscale: [[0,'#4fa8a0'],[0.3,'#c9a227'],[1,'#c4604f']],
+            cmin: 0, cmax: 0.6, opacity: 0.82, line: {color: '#0f1318', width: 1},
           },
         });
+        if (sel) traces.push({
+          type: 'scattergeo', mode: 'markers', lat: [sel.lat], lon: [sel.lon], hoverinfo: 'skip',
+          marker: {size: 8 + Math.sqrt(sel.criticality) * 30 + 14, color: 'rgba(0,0,0,0)',
+                   line: {color: '#e8954f', width: 3}},
+        });
         Plotly.react('chart', traces, {
-          paper_bgcolor: 'rgba(0,0,0,0)', margin: {l: 0, r: 0, t: 8, b: 0}, showlegend: false,
-          geo: {
-            projection: {type: 'natural earth'}, bgcolor: 'rgba(0,0,0,0)',
+          paper_bgcolor: 'rgba(0,0,0,0)', margin: {l: 0, r: 0, t: 0, b: 0}, showlegend: false,
+          geo: {projection: {type: 'natural earth'}, bgcolor: 'rgba(0,0,0,0)',
+            domain: {x: [0, 1], y: [0, 1]}, lataxis: {range: [-56, 80]}, lonaxis: {range: [-168, 188]},
             showland: true, landcolor: '#1b232e', showocean: true, oceancolor: '#11161d',
-            showcountries: true, countrycolor: '#283342', coastlinecolor: '#283342',
-            showframe: false,
-          },
+            showcountries: true, countrycolor: '#283342', coastlinecolor: '#2f3b4d', showframe: false},
         }, {displayModeBar: false, responsive: true});
+        const el = document.getElementById('chart');
+        el.on('plotly_click', ev => {
+          const name = ev.points[0].customdata;
+          if (name) { document.getElementById('sim-country').value = name; update(); }
+        });
       };
-      if (hasDeposits) {
-        let depositsOn = true;
-        const pick = document.getElementById('dep-commodity');
-        const set = on => {
-          depositsOn = on;
-          document.getElementById('dep-on').classList.toggle('active', on);
-          document.getElementById('dep-off').classList.toggle('active', !on);
-          render(on, pick.value);
-        };
-        document.getElementById('dep-on').onclick = () => set(true);
-        document.getElementById('dep-off').onclick = () => set(false);
-        pick.onchange = () => render(depositsOn, pick.value);
-        set(true);
-      } else {
-        render(false, 'copper');
-      }
+
+      const update = () => {
+        const country = document.getElementById('sim-country').value;
+        const severity = sevVals[+document.getElementById('sim-sev').value] / 100;
+        document.getElementById('sim-sevval').textContent = (severity * 100).toFixed(0) + '%';
+        host.sub.textContent = `Bubbles = producer countries, sized & colored by criticality (Σ share² across commodities — red = dominant). ` +
+          `Shocking ${country} by ${(severity*100).toFixed(0)}% of its supply; predicted price moves use short-run elasticity-incidence (illustrative).`;
+        drawMap(country);
+        const rows = incidence(country, severity);
+        const c = countries.find(x => x.country === country);
+        document.getElementById('stats').innerHTML = [
+          ['country', country, ''],
+          ['criticality rank', `#${countries.indexOf(c) + 1} of ${countries.length}`, c.criticality > 0.4 ? 'neg' : ''],
+          ['commodities produced', `${Object.keys(c.commodities).length}`, ''],
+          ['top price impact', rows.length ? `+${rows[0].pct.toFixed(0)}%` : '—', rows.length && rows[0].pct > 30 ? 'neg' : ''],
+        ].map(([k, v, cls]) => `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
+
+        document.getElementById('sim-cards').innerHTML = rows.length ? rows.map(r => `
+          <div class="sim-card">
+            <div class="sim-head"><b>${r.commodity}</b> ${regimeBadge(r.regime)}
+              <span class="sim-share">${country} = ${(r.share*100).toFixed(0)}% of world supply</span></div>
+            <div class="sim-impact ${r.pct > 30 ? 'hot' : ''}">+${r.pct.toFixed(0)}%
+              <span class="sim-band">(${r.lo.toFixed(0)}–${r.hi.toFixed(0)}%)</span></div>
+            <div class="sim-price">$${fmt(r.anchor)} → $${fmt(Math.round(r.implied))} <span class="sim-unit">${r.unit}</span>
+              &nbsp;·&nbsp; ${(r.loss*100).toFixed(1)}% of world supply withdrawn</div>
+          </div>`).join('') :
+          `<p style="color:var(--muted)">No priced commodities for this country (or it only produces gold, which is excluded from shock pricing).</p>`;
+      };
+
+      document.getElementById('sim-country').onchange = update;
+      document.getElementById('sim-sev').oninput = update;
+      document.getElementById('sim-dep').onchange = update;
+      document.getElementById('sim-country').value = 'Congo (Kinshasa)';
+      update();
     },
   },
   commodities: {
