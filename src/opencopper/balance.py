@@ -19,6 +19,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 
 from .ledger import Assumptions, Ledger
+from .pricing import CoverCurve, copper_price_from_cover
 from .schema import MineStatus
 from .shocks import (
     DemandShock,
@@ -48,6 +49,7 @@ class YearRow:
     inventory_days: float
     price_pressure: float  # >0 = bullish vs baseline cover
     us_premium_pct: float = 0.0
+    implied_price_usd: float = 0.0  # from the cover curve, when a curve is supplied
 
 
 @dataclass
@@ -92,9 +94,34 @@ def run(
     assumptions: Assumptions,
     scenario: Scenario,
     years: range = range(2024, 2031),
+    supply_shock_mult: dict[int, float] | None = None,
+    demand_shock_mult: dict[int, float] | None = None,
+    curve: CoverCurve | None = None,
+    feedback: bool = False,
+    feedback_demand_elasticity: float = 0.30,
+    feedback_scrap_elasticity: float = 0.50,
+    feedback_adjustment: float = 0.30,
 ) -> RunResult:
+    """Run the balance engine.
+
+    The two *_shock_mult dicts are stochastic hooks used by the Monte Carlo
+    simulator: a per-year multiplicative shock to total mine supply and to
+    demand, on top of the deterministic scenario.
+
+    When `curve` is supplied, each row gets an implied price. When `feedback`
+    is also on, the model becomes a recursive dynamical system: last year's
+    price feeds back into this year's demand (destruction) and scrap supply
+    (response), so a sustained deficit self-corrects instead of draining
+    inventory to zero forever. `feedback_adjustment` (<1) is the annual speed of
+    that response — adjustment is gradual in reality, and a low speed also keeps
+    the price-quantity loop from cobwebbing into oscillation. Defaults leave the
+    deterministic model unchanged.
+    """
     result = RunResult(scenario=scenario.name)
     events = scenario.events
+    supply_shock_mult = supply_shock_mult or {}
+    demand_shock_mult = demand_shock_mult or {}
+    prev_price = curve.anchor_usd_t if curve else None
 
     start_year = years[0]
     inventory = (
@@ -128,6 +155,10 @@ def run(
         concentrate_supply = concentrate_tracked + row_supply * (
             1 - assumptions.world.sxew_share_world
         )
+        # stochastic aggregate supply shock (Monte Carlo); 1.0 = no shock
+        s_mult = supply_shock_mult.get(year, 1.0)
+        mine_supply *= s_mult
+        concentrate_supply *= s_mult
         sxew = mine_supply - concentrate_supply
 
         # --- smelting constraint
@@ -141,7 +172,14 @@ def run(
         tc_pressure = -concentrate_balance / concentrate_supply if concentrate_supply else 0.0
 
         # --- refined balance
-        refined_supply = smelted + sxew + assumptions.refined.secondary(year)
+        secondary = assumptions.refined.secondary(year)
+        if feedback and prev_price and curve:
+            # scrap/secondary supply rises when price is above anchor (lagged,
+            # gradual). Exponent scaled by adjustment speed for stability.
+            secondary *= (prev_price / curve.anchor_usd_t) ** (
+                feedback_scrap_elasticity * feedback_adjustment
+            )
+        refined_supply = smelted + sxew + secondary
         sector_multipliers: dict[str, float] = {}
         for e in events:
             if isinstance(e, DemandShock) and e.sector:
@@ -149,6 +187,12 @@ def run(
                     sector_multipliers.get(e.sector, 1.0) * e.multiplier(year)
                 )
         demand = assumptions.demand.demand(year, sector_multipliers)
+        demand *= demand_shock_mult.get(year, 1.0)  # stochastic demand surprise (MC)
+        if feedback and prev_price and curve:
+            # demand destruction when price is above anchor (lagged, gradual)
+            demand *= (prev_price / curve.anchor_usd_t) ** (
+                -feedback_demand_elasticity * feedback_adjustment
+            )
         us_premium = 0.0
         for e in events:
             if isinstance(e, DemandShock) and not e.sector:
@@ -163,6 +207,10 @@ def run(
         price_pressure = (
             assumptions.refined.inventory_days_baseline - inventory_days
         ) / assumptions.refined.inventory_days_baseline
+
+        implied_price = copper_price_from_cover(inventory_days, curve) if curve else 0.0
+        if curve:
+            prev_price = implied_price
 
         result.rows.append(
             YearRow(
@@ -180,6 +228,7 @@ def run(
                 inventory_days=round(inventory_days, 2),
                 price_pressure=round(price_pressure, 4),
                 us_premium_pct=round(us_premium, 2),
+                implied_price_usd=round(implied_price, 0),
             )
         )
 

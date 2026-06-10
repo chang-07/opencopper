@@ -60,6 +60,42 @@ def _cmd_simulate(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_montecarlo(args: argparse.Namespace) -> int:
+    from .balance import BASELINE
+    from .montecarlo import render_montecarlo, simulate_copper
+    from .scenario import load_scenario
+
+    scenario = load_scenario(Path(args.scenario)) if args.scenario else BASELINE
+    mc = simulate_copper(scenario, n_paths=args.paths, seed=args.seed)
+    print(render_montecarlo(mc))
+    return 0
+
+
+def _cmd_history(args: argparse.Namespace) -> int:
+    from .history import load_price_history, render_history
+    from .pricing import load_pricebook
+
+    names = [args.commodity] if args.commodity else list(load_pricebook().commodities)
+    shown = False
+    for name in names:
+        h = load_price_history(name)
+        if h:
+            print(render_history(h) + "\n")
+            shown = True
+        elif args.commodity:
+            print(f"{name}: no FRED price series (USGS anchor only)")
+    if not shown and not args.commodity:
+        print("no price history available")
+    return 0
+
+
+def _cmd_validate(args: argparse.Namespace) -> int:
+    from .calibrate import calibrate_copper, render_calibration
+
+    print(render_calibration(calibrate_copper(n_paths=args.paths)))
+    return 0
+
+
 def _cmd_price(args: argparse.Namespace) -> int:
     from .pricing import (
         cached_fred,
@@ -370,6 +406,20 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--year", type=int, default=2026)
     p.add_argument("--scenario", default=None)
     p.set_defaults(func=_cmd_sensitivity)
+
+    p = sub.add_parser("montecarlo", help="stochastic simulation: price/balance bands, P(deficit), P(spike)")
+    p.add_argument("--scenario", default=None, help="scenarios/*.yaml (default: baseline)")
+    p.add_argument("--paths", type=int, default=4000)
+    p.add_argument("--seed", type=int, default=12345)
+    p.set_defaults(func=_cmd_montecarlo)
+
+    p = sub.add_parser("history", help="historical price regimes + volatility (FRED, 1992-present)")
+    p.add_argument("--commodity", default=None)
+    p.set_defaults(func=_cmd_history)
+
+    p = sub.add_parser("validate", help="calibrate the simulator against realized price volatility")
+    p.add_argument("--paths", type=int, default=1500)
+    p.set_defaults(func=_cmd_validate)
 
     p = sub.add_parser("price", help="implied prices: FRED live levels + elasticity-incidence under shock")
     p.add_argument("--commodity", default=None, help="show shock price impact for one commodity")
