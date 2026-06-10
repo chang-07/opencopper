@@ -41,3 +41,19 @@ def test_export_writes_loadable_js(tmp_path):
     assert text.startswith("// generated")
     data = json.loads(text.split("=", 1)[1].rstrip().rstrip(";"))
     assert "baseline" in data
+
+
+def test_deposit_layer_missing_cache_is_empty_and_plausible_only(tmp_path):
+    from opencopper.export_web import _deposit_layer
+
+    assert _deposit_layer(tmp_path / "nope.json") == []
+
+    cache = tmp_path / "sites.json"
+    cache.write_text(json.dumps([
+        {"minmod_id": "a", "name": "Big Plausible", "lat": 1.0, "lon": 2.0, "contained_kt": 5000.0},
+        {"minmod_id": "b", "name": "Unit Error", "lat": 1.0, "lon": 2.0, "contained_kt": 9e6},
+        {"minmod_id": "c", "name": "Too Small", "lat": 1.0, "lon": 2.0, "contained_kt": 10.0},
+        {"minmod_id": "d", "name": "No Coords", "contained_kt": 5000.0},
+    ]))
+    layer = _deposit_layer(cache)
+    assert [d["name"] for d in layer] == ["Big Plausible"]

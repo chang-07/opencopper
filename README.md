@@ -125,6 +125,34 @@ A realistic ~40-document fill lands near **$1** (Haiku, pre-filtered, batched);
 the entire EDGAR corpus is **~$40**, not the ~$1,900 a naive full-text Opus run
 would cost.
 
+### MinMod: the global deposit layer (free, and a cautionary tale)
+
+```bash
+uv run opencopper minmod fetch    # ~4,300 copper deposits, 9 requests, $0
+uv run opencopper minmod report   # summary + ledger matches + quarantine stats
+```
+
+[MinMod](https://minmod.isi.edu) is DARPA CriticalMAAS's MIT-licensed knowledge
+graph of machine-extracted mineral-site data — it covers the NI 43-101 universe
+that never reaches EDGAR. Ingesting it produced the project's best argument for
+verification layers: **72 records (1.7% of sites) carried 90% of the reported
+contained copper** — values like a single 5.6 Gt deposit, several times USGS's
+estimate for *all world copper reserves* — almost certainly upstream
+unit-conversion errors. The ingester quarantines anything above a
+physical-plausibility ceiling (150 Mt contained Cu, larger than any known
+deposit), uses only plausible records for ledger matching, and reports what it
+excluded. Machine-extracted data is a reference to reconcile, never a value to
+trust blind — that's the whole thesis of this repo.
+
+The plausible remainder (~4,200 deposits, 27 of 31 tracked mines name-matched)
+feeds the **deposit pipeline layer on the web demo's map**: production in
+copper, the known endowment in teal.
+
+TLS note: minmod.isi.edu omits its intermediate certificate, so Python's
+bundled CA store fails where browsers succeed. The client uses
+[`truststore`](https://github.com/sethmlarson/truststore) (the OS trust store,
+same approach as pip) rather than disabling verification.
+
 ## Data sources (all free)
 
 | Source | Used for |
@@ -132,7 +160,7 @@ would cost.
 | SEC EDGAR full-text search (EX-96 / S-K 1300 exhibits) | LLM extraction of mine-level data, with citations |
 | USGS Mineral Commodity Summaries, ICSG monthly releases | World totals, calibration |
 | Company production reports | Seed estimates for tracked mines |
-| [MinMod (DARPA CriticalMAAS)](https://minmod.isi.edu) — planned | NI 43-101 universe without scraping SEDAR+ |
+| [MinMod (DARPA CriticalMAAS)](https://minmod.isi.edu) — live | ~4,300 copper deposits w/ grade-tonnage (MIT-licensed); the NI 43-101 universe without scraping SEDAR+ |
 | FRED `PCOPPUSDM`, delayed COMEX | Price context (display only) |
 
 ## Honesty box
@@ -198,9 +226,11 @@ precomputed by `opencopper export-web`; the "sliders" snap to a parameter grid.
 - [ ] Pre-filter: always retain the Mineral Reserve Statement section (Toquepala's
       was dropped); better HTML-table text extraction (Cerro Verde cells were caption-only)
 - [ ] Extend to the remaining EX-96 filers and to non-US mines via MinMod
-- [ ] MinMod ingestion for the NI 43-101 universe (SEDAR+ without scraping) —
-      API exists at `minmod.isi.edu/api/v1` (+ SPARQL at `/sparql`) but currently
-      serves an incomplete cert chain; bulk CDR endpoint needs a token. Parked.
+- [x] MinMod ingestion: 4,299 copper deposits fetched, plausibility quarantine,
+      ledger matching, deposit-pipeline map layer (see "MinMod" section)
+- [ ] MinMod follow-ups: per-site provenance links; commodity QID pinning;
+      smarter outlier detection than a single ceiling (grade × tonnage
+      consistency checks)
 - [ ] Quarterly resolution; regional trade flows (the COMEX-LME arb properly)
 - [ ] Monthly "model vs ICSG" balance updates
 

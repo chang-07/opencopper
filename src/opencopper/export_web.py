@@ -14,8 +14,13 @@ from pathlib import Path
 
 from .balance import BASELINE, run
 from .ledger import load_assumptions, load_ledger
+from .minmod import DEFAULT_CACHE as MINMOD_CACHE
+from .minmod import load_sites, partition_plausible
 from .scenario import SCENARIO_DIR, load_scenario
 from .shocks import MineOutage, MineRestart, Scenario, SmelterClosure, Tariff
+
+DEPOSIT_MIN_KT = 1_000.0  # only major deposits on the map layer
+DEPOSIT_MAX_POINTS = 300
 
 YEARS = range(2024, 2031)
 
@@ -56,7 +61,36 @@ def _grasberg_scenario(severity_2026: float) -> Scenario:
     return Scenario(name=f"grasberg-sev-{severity_2026:.1f}", events=events)
 
 
-def build_payload() -> dict:
+def _deposit_layer(minmod_cache: Path) -> list[dict]:
+    """Major plausible MinMod deposits for the map. Empty when no cache —
+    the demo never requires the MinMod fetch to have run."""
+    if not minmod_cache.exists():
+        return []
+    plausible, _ = partition_plausible(load_sites(minmod_cache))
+    majors = [
+        s
+        for s in plausible
+        if s.contained_kt
+        and s.contained_kt >= DEPOSIT_MIN_KT
+        and s.lat is not None
+        and s.lon is not None
+        and abs(s.lat) <= 85
+    ]
+    majors.sort(key=lambda s: -s.contained_kt)
+    return [
+        {
+            "name": s.name,
+            "lat": s.lat,
+            "lon": s.lon,
+            "country": s.country or "?",
+            "deposit_type": s.deposit_type or "?",
+            "contained_kt": s.contained_kt,
+        }
+        for s in majors[:DEPOSIT_MAX_POINTS]
+    ]
+
+
+def build_payload(minmod_cache: Path = MINMOD_CACHE) -> dict:
     ledger = load_ledger()
     assumptions = load_assumptions()
 
@@ -112,6 +146,7 @@ def build_payload() -> dict:
             "grasberg": {"values": GRASBERG_SEVERITIES, "runs": grasberg_runs},
             "decision": {"runs": decision_runs},
         },
+        "deposits": _deposit_layer(minmod_cache),
         "mines": [
             {
                 "name": m.name,

@@ -152,6 +152,25 @@ def _cmd_export_web(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_minmod(args: argparse.Namespace) -> int:
+    from .minmod import (
+        DEFAULT_CACHE,
+        fetch_copper_sites,
+        load_sites,
+        render_report,
+        save_sites,
+    )
+
+    if args.minmod_command == "fetch":
+        sites = fetch_copper_sites(max_sites=args.max)
+        out = save_sites(sites, Path(args.out))
+        print(f"fetched {len(sites):,} copper sites -> {out}")
+    elif args.minmod_command == "report":
+        sites = load_sites(Path(args.cache))
+        print(render_report(sites, load_ledger()))
+    return 0
+
+
 def _cmd_sensitivity(args: argparse.Namespace) -> int:
     from .sensitivity import render_tornado, run_sensitivity
 
@@ -244,6 +263,15 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--year", type=int, default=2026)
     p.add_argument("--scenario", default=None)
     p.set_defaults(func=_cmd_sensitivity)
+
+    p = sub.add_parser("minmod", help="DARPA MinMod copper-deposit KG (deposits, not production)")
+    msub = p.add_subparsers(dest="minmod_command", required=True)
+    m = msub.add_parser("fetch", help="download all copper sites with grade-tonnage models")
+    m.add_argument("--max", type=int, default=None)
+    m.add_argument("--out", default="data/minmod/copper-sites.json")
+    m = msub.add_parser("report", help="summary + ledger matches from the cached fetch")
+    m.add_argument("--cache", default="data/minmod/copper-sites.json")
+    p.set_defaults(func=_cmd_minmod)
 
     args = parser.parse_args(argv)
     return args.func(args)

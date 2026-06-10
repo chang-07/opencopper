@@ -12,6 +12,7 @@ dependencies = [
     "anthropic>=0.40",
     "plotly>=5.22",
     "pypdf>=5.0",
+    "truststore>=0.10.4",
 ]
 
 [project.scripts]

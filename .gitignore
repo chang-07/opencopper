@@ -11,6 +11,7 @@ out/
 data/raw/
 data/extracted/
 data/prefiltered/
+data/minmod/
 data/batch-manifest.json
 data/ingest-manifest.json
 *.env
