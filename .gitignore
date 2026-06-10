@@ -10,7 +10,9 @@ out/
 .cache/
 data/raw/
 data/extracted/
+data/prefiltered/
 data/batch-manifest.json
+data/ingest-manifest.json
 *.env
 .env
 

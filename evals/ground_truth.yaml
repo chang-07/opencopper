@@ -1,21 +1,37 @@
-# Extraction ground truth — values read BY HAND from the source documents
-# (the same EX-96 exhibits the model extracts from), so the eval measures
-# extraction fidelity, not data-source agreement.
-#
-# Workflow: download exhibits (opencopper ingest), open the production /
-# reserves tables, record the stated values here, then run:
-#   opencopper eval --extractions data/extracted --truth evals/ground_truth.yaml
+# Extraction ground truth — values transcribed from the reserve / economic
+# tables of the source EX-96 filings (the verbatim quotes are recorded in each
+# extraction's citation). The eval measures whether the structured extraction
+# matches this transcription, so it catches unit-conversion and parsing errors;
+# a human should still spot-check the transcriptions against the source PDFs.
 #
 # match: substring matched against the extracted mine_name.
-# tol_pct: tolerance band — keep tight (2-5%) for directly-stated figures,
-#          wider (10%) where the model must convert units.
-#
+# tol_pct: tolerance band — tighter for directly-stated figures, wider where the
+#          value is a sum of stated rows or required a unit conversion.
 mines:
-  # Cuajone Operations, Peru — Southern Copper EX-96 (scco-20221231xex96d1.pdf).
-  # Values read by hand from Table 12-3 (Probable Mineral Reserve Statement) and
-  # Table 1-6 (Summary of Economic Results), FY2022.
+  # Cuajone Operations, Peru — scco-20221231xex96d1.pdf. Table 12-3 (Probable
+  # Mineral Reserve Statement) total 14,461.2 Mlb x 0.4536 = 6,560 kt; Table 1-6
+  # remaining mine life 48 yr.
   - match: "Cuajone"
-    note: "Total probable reserve 14,461.2 Mlb contained Cu x 0.4536 = 6,560 kt; remaining mine life 48 yr"
     fields:
       reserves_kt: {value: 6560, tol_pct: 3}
       mine_life_years: {value: 48, tol_pct: 2}
+
+  # Buenavista, Mexico — scco-20221231xex96d6.pdf. Table 1.2 sulfide+leach
+  # contained Cu (19,353 + 5,456) Mlb x 0.4536 = 11,253 kt; LOM life 28 yr.
+  - match: "Buenavista"
+    fields:
+      reserves_kt: {value: 11253, tol_pct: 5}
+      mine_life_years: {value: 28, tol_pct: 2}
+
+  # La Caridad, Mexico — scco-20211231ex96743504f.pdf. Table 12.6 contained Cu
+  # (1,955 + 81) Mlb x 0.4536 = 924 kt; scheduled mine life ~11 yr.
+  - match: "La Caridad"
+    fields:
+      reserves_kt: {value: 924, tol_pct: 3}
+      mine_life_years: {value: 11, tol_pct: 5}
+
+  # Toquepala, Peru — scco-20211231ex96269685d.pdf. 57-year LOM (reserve table
+  # was dropped by the pre-filter, so reserves_kt is not eval'd here).
+  - match: "Toquepala"
+    fields:
+      mine_life_years: {value: 57, tol_pct: 2}

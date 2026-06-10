@@ -1,0 +1,32 @@
+{
+  "mine_name": "Toquepala",
+  "country": "Peru",
+  "operator": "Southern Copper Corporation",
+  "commodities": ["copper", "molybdenum"],
+  "annual_production_kt": {
+    "value": 219.0,
+    "unit": "kt recovered Cu",
+    "year": 2022,
+    "citation": {
+      "quote": "Concentration Cu recovered kt ... 196.8 ... Leaching Cu recovered kt ... 22.2",
+      "section": "Table 19-2 Cash Flow Forecast (annual), 2022 column: 196.8 + 22.2 = 219.0 kt recovered Cu (recovered, not contained)"
+    },
+    "confidence": 0.6
+  },
+  "reserves_kt": null,
+  "mine_life_years": {
+    "value": 57.0,
+    "unit": "years",
+    "year": null,
+    "citation": {
+      "quote": "The estimated timeframe used for the price forecasts is the 57-year LOM assumption that supports the mineral reserve estimates.",
+      "section": "Section 1.10/1.11; corroborated by LOM plan periods 1-57 (2022-2078)"
+    },
+    "confidence": 0.9
+  },
+  "cash_cost_usd_lb": null,
+  "status": "operating",
+  "source_accession": "0001558370-22-002995",
+  "source_filename": "scco-20211231ex96269685d.pdf",
+  "notes": "reserves_kt null: the Mineral Reserve Statement table was dropped by the section pre-filter (caption-only in the retained text); present in the source PDF pages 1-10 / 12-9"
+}

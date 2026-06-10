@@ -1,0 +1,40 @@
+{
+  "mine_name": "La Caridad",
+  "country": "Mexico",
+  "operator": "Southern Copper Corporation",
+  "commodities": ["copper", "molybdenum"],
+  "annual_production_kt": {
+    "value": 68.95,
+    "unit": "kt contained Cu",
+    "year": null,
+    "citation": {
+      "quote": "the scheduled La Caridad Mine life is approximately 11 years. During this period, the mine has an average ROM PLOO ore production rate of 33.8 Mtpa (dry) resulting in an average annual copper production of 152 million pounds per year",
+      "section": "Section 13.3.3 Expected Mine Life; stated LOM-average: 152 Mlb x 0.4536 = 68.95 kt"
+    },
+    "confidence": 0.8
+  },
+  "reserves_kt": {
+    "value": 923.5,
+    "unit": "kt contained Cu",
+    "year": 2021,
+    "citation": {
+      "quote": "approximately 372 Mt of mill feed with a Cu grade of 0.24% total Cu for 1,955 Million pounds (Mlbs) of contained Cu ... An additional 43 Mt ... Leachable ROM Ore ... for 81 Mlbs of contained Cu",
+      "section": "Section 12.4 / Table 12.6 Estimated Mineral Reserves (all Probable; eff. Dec 31 2021); (1,955 + 81) Mlb = 2,036 Mlb x 0.4536 = 923.5 kt"
+    },
+    "confidence": 0.95
+  },
+  "mine_life_years": {
+    "value": 11.0,
+    "unit": "years",
+    "year": null,
+    "citation": {
+      "quote": "the scheduled La Caridad Mine life is approximately 11 years",
+      "section": "Section 13.3.3 Expected Mine Life"
+    },
+    "confidence": 0.9
+  },
+  "cash_cost_usd_lb": null,
+  "status": "operating",
+  "source_accession": "0001558370-22-002995",
+  "source_filename": "scco-20211231ex96743504f.pdf"
+}

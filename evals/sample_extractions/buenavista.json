@@ -1,0 +1,40 @@
+{
+  "mine_name": "Buenavista",
+  "country": "Mexico",
+  "operator": "Southern Copper Corporation",
+  "commodities": ["copper", "molybdenum"],
+  "annual_production_kt": {
+    "value": 401.9,
+    "unit": "kt contained Cu",
+    "year": null,
+    "citation": {
+      "quote": "The LOM plan life is approximately 28 years, as of December 31, 2022 ... resulting in the production of approximately 600 million pounds (Mlb) to 1,800 Mlb per year of concentrated copper.",
+      "section": "derived: reserve (24,809 Mlb x 0.4536 = 11,253.4 kt) / 28 yr = 401.9 kt; no single-year total-copper figure stated, only a 600-1,800 Mlb/yr range"
+    },
+    "confidence": 0.35
+  },
+  "reserves_kt": {
+    "value": 11253.4,
+    "unit": "kt contained Cu",
+    "year": 2022,
+    "citation": {
+      "quote": "Sulfide ROM Mill Feed - Total 2,116 0.41 - - 19,353 333 3,018 / Leach 1,132 0.22 - - 5,456 - -",
+      "section": "Table 1.2 Mineral Reserve Estimate (ROM, 100% basis; all Probable; contained Cu Mlb). (19,353 + 5,456) Mlb = 24,809 Mlb x 0.4536 = 11,253.4 kt"
+    },
+    "confidence": 0.7
+  },
+  "mine_life_years": {
+    "value": 28.0,
+    "unit": "years",
+    "year": 2022,
+    "citation": {
+      "quote": "The LOM plan life is approximately 28 years, as of December 31, 2022",
+      "section": "Section 1.4 Development and Operations"
+    },
+    "confidence": 0.95
+  },
+  "cash_cost_usd_lb": null,
+  "status": "operating",
+  "source_accession": "0001558370-23-002434",
+  "source_filename": "scco-20221231xex96d6.pdf"
+}

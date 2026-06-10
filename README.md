@@ -100,8 +100,9 @@ treats an uncited value as wrong even when the number is right.
 ### Running it for ~$0
 
 The model and demo need **no LLM spend at all** — the seed ledger and simulator
-are self-contained, and a real sample extraction is committed. Extraction is an
-optional layer to upgrade seed values to cited ones, and it's cheap by design:
+are self-contained, and real sample extractions for five mines are committed.
+Extraction is an optional layer to upgrade seed values to cited ones, and it's
+cheap by design:
 
 - **You don't need the whole corpus.** Replacing seed values for the ~30 mines
   that matter is a few dozen documents, not the ~2,400 on EDGAR.
@@ -151,20 +152,32 @@ would cost.
   ("removing supply never increases the surplus"), zero-rate tariff identity,
   smelter-constraint binding, determinism, plus direction-and-magnitude
   backtests for every shipped scenario.
-- Extraction is benchmarked against values hand-read from the source filings.
-  A field counts as correct only if it is **within tolerance _and_ carries a
-  citation** — an uncited right answer is scored as a miss. First real run, on
-  Southern Copper's Cuajone Operations EX-96 ([sample](evals/sample_extractions/cuajone.json)):
+- Extraction is benchmarked against values transcribed from the source filings'
+  reserve/economic tables (the verbatim quotes live in each extraction's
+  citation). A field counts as correct only if it is **within tolerance _and_
+  carries a citation** — an uncited right answer is scored as a miss. Real run
+  over five EX-96 filings (Freeport + Southern Copper),
+  [samples here](evals/sample_extractions/):
 
-  | mine | field | expected | extracted | within tol | cited | ok |
-  |---|---|---:|---:|:-:|:-:|:-:|
-  | Cuajone | reserves_kt | 6,560 | 6,560 | ✓ | ✓ | ✓ |
-  | Cuajone | mine_life_years | 48 | 48 | ✓ | ✓ | ✓ |
+  | mine | field | expected | extracted | ok |
+  |---|---|---:|---:|:-:|
+  | Cuajone | reserves_kt | 6,560 | 6,560 | ✓ |
+  | Cuajone | mine_life_years | 48 | 48 | ✓ |
+  | Buenavista | reserves_kt | 11,253 | 11,253 | ✓ |
+  | Buenavista | mine_life_years | 28 | 28 | ✓ |
+  | La Caridad | reserves_kt | 924 | 924 | ✓ |
+  | La Caridad | mine_life_years | 11 | 11 | ✓ |
+  | Toquepala | mine_life_years | 57 | 57 | ✓ |
 
-  `reconcile` then diffs that extraction against the ledger and flags Cuajone
-  at −14.4% (extracted LOM-average rate 137 kt vs the 160 kt current-year seed),
-  confidence 0.35 — correctly surfacing a reserve-statement rate as *not* a
-  current-production rate, for review rather than silent overwrite.
+  **7/7 fields correct.** (Reserve and mine-life conversions from Mlb / stated
+  text; Toquepala's reserve table was dropped by the pre-filter and is honestly
+  recorded as null rather than guessed.)
+
+- `reconcile` then diffs every extraction against the ledger. On this set it
+  agreed on Buenavista and Toquepala and flagged three for review — most
+  usefully **La Caridad at −44.8%** (the TRS mine-only rate of 69 kt vs the
+  125 kt seed), confidence 0.80: a real disagreement worth a human look, surfaced
+  rather than silently overwritten.
 
 ## Web demo
 
@@ -179,9 +192,12 @@ precomputed by `opencopper export-web`; the "sliders" snap to a parameter grid.
 - [x] PDF exhibit support (most EX-96s are PDFs)
 - [x] Batch extraction pipeline (Batches API) + reconcile + eval harness
 - [x] Section pre-filter + `estimate` command (~84% token cut; see "Running it for ~$0")
-- [x] First real extraction + eval + reconcile on a live filing (Cuajone)
+- [x] Real extraction + eval (7/7) + reconcile on five live filings (Cuajone,
+      Buenavista, La Caridad, Cerro Verde, Toquepala)
 - [x] Web demo: scenario sliders, live catalyst countdowns, ledger browser
-- [ ] Extend the batch + hand-verified ground truth to the ~30 ledger mines that file EX-96
+- [ ] Pre-filter: always retain the Mineral Reserve Statement section (Toquepala's
+      was dropped); better HTML-table text extraction (Cerro Verde cells were caption-only)
+- [ ] Extend to the remaining EX-96 filers and to non-US mines via MinMod
 - [ ] MinMod ingestion for the NI 43-101 universe (SEDAR+ without scraping) —
       API exists at `minmod.isi.edu/api/v1` (+ SPARQL at `/sparql`) but currently
       serves an incomplete cert chain; bulk CDR endpoint needs a token. Parked.

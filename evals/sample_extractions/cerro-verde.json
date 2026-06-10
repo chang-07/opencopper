@@ -1,0 +1,40 @@
+{
+  "mine_name": "Cerro Verde",
+  "country": "Peru",
+  "operator": "Freeport-McMoRan",
+  "commodities": ["copper", "molybdenum"],
+  "annual_production_kt": {
+    "value": 408.2,
+    "unit": "kt contained Cu",
+    "year": null,
+    "citation": {
+      "quote": "Mining activities are projected to end in 2052 when the current reserves are expected to be exhausted. (effective date December 31, 2021); LOM copper 27.9 billion pounds",
+      "section": "derived: reserve / mine life; no single-year figure stated. 27.9 Blb x 0.4536 = 12,655 kt; 12,655 kt / 31 yr = 408 kt/yr. A near-term projected average of 0.99 Blb/yr (449 kt) for 2022-2026 appears in Table 19.3 but is a 5-yr period average."
+    },
+    "confidence": 0.35
+  },
+  "reserves_kt": {
+    "value": 12655.4,
+    "unit": "kt contained Cu (recoverable basis; see caveat)",
+    "year": 2021,
+    "citation": {
+      "quote": "Life of Mine Plan ... Copper (billion pounds) 27.9",
+      "section": "Table 19.1 Economic Analysis (LOM Plan). 27.9 Blb x 0.4536 = 12,655 kt. CAVEAT: the Mineral Reserve Statement table cells were caption-only in the source HTML; this is LOM commercially-recoverable copper (recovery 88.4% applied), not strictly contained reserve."
+    },
+    "confidence": 0.4
+  },
+  "mine_life_years": {
+    "value": 31.0,
+    "unit": "years",
+    "year": 2021,
+    "citation": {
+      "quote": "Mining activities are projected to end in 2052 when the current reserves are expected to be exhausted.",
+      "section": "Section 13.2 Mine Plan Development; remaining life = end-year 2052 minus effective date 2021"
+    },
+    "confidence": 0.85
+  },
+  "cash_cost_usd_lb": null,
+  "status": "operating",
+  "source_accession": "0001104659-22-060511",
+  "source_filename": "tmb-20211231xex96d1.htm"
+}
