@@ -86,6 +86,51 @@ policy events this parameterizes are not hypothetical: the DRC's cobalt export
 quotas (Oct 2025 decree) and China's REE export controls (Apr 2025) ship as
 scenarios with their parameters derived from the USGS-stated facts.
 
+## Pricing: scarcity → price, two mechanisms, never a forecast
+
+The price layer maps the model's scarcity signal to an implied price. It is
+explicitly **illustrative, not predictive** — the goal is to show what the
+mechanics *imply*, with every elasticity and curve parameter a disputable
+constant in `data/seed/prices.yaml`. Each tier uses the mechanism its data can
+support.
+
+**Copper — inventory-cover scarcity curve.** Copper has stock dynamics, so the
+right state variable is inventory cover (days of consumption), which integrates
+the balance over time: a persistent deficit drains inventory, and *that* moves
+price, not a single year's flow.
+
+```
+implied_price = anchor · clamp( (baseline_days / cover_days)^γ , lo, hi )
+```
+
+`anchor` is the balanced-market price (≈ LME average at ~12-day cover), not the
+latest spot. γ = 0.7 means a halving of cover implies ~+62%; the clamp keeps
+the implied price within 0.4–3.0× anchor. The curve mean-reverts as inventory
+rebuilds — the world-2026 scenario implies a 2026 spike that fades by 2030.
+
+**Country tier — elasticity-incidence.** No inventory state, only flows, so
+short-run partial equilibrium: a supply withdrawal of fraction `k` raises price
+by
+
+```
+%ΔP = k / ( |elasticity_demand| + elasticity_supply )
+```
+
+Metals are inelastic in the short run, so this is where concentration becomes
+price: the DRC cobalt quota withdraws ~46% of world supply against a combined
+elasticity of 0.20, implying a ~+230% move. That is not a model artifact — it
+is why an inelastic byproduct with one dominant producer is dangerous, and it
+matches cobalt's actual 2025 behavior in direction. The mechanism's
+simplifications (no substitution dynamics, no destocking, no processing
+bottleneck, symmetric up/down) are stated wherever it is reported.
+
+**Live anchoring.** Where a keyless FRED series exists (copper, nickel,
+aluminum, zinc, tin, iron ore — the IMF global price series), the demo shows
+the live market price beside the anchor. Gold is deliberately excluded from
+shock pricing: its price is set by monetary demand against a 200,000+ tonne
+above-ground stock, so a flow-shock model is the wrong tool, and the code says
+so rather than producing a confident wrong number.
+
 ## Data layers and the provenance ladder
 
 Every quantity carries a `basis` tag and can only move up the ladder with

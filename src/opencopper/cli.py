@@ -42,9 +42,59 @@ def _cmd_simulate(args: argparse.Namespace) -> int:
     if args.json:
         print(json.dumps([r.__dict__ for r in result.rows], indent=2))
 
+    # implied copper price from the inventory-cover scarcity curve
+    from .pricing import copper_price_from_cover, load_pricebook
+
+    curve = load_pricebook().copper_cover_curve
+    print("\nimplied price (cover scarcity curve, illustrative — NOT a forecast):")
+    print(f"  {'year':<6}{'cover days':>12}{'implied $/t':>14}{'vs baseline':>13}")
+    for row, base in zip(result.rows, baseline.rows):
+        p = copper_price_from_cover(row.inventory_days, curve)
+        bp = copper_price_from_cover(base.inventory_days, curve)
+        delta = (p / bp - 1) * 100 if bp else 0
+        print(f"  {row.year:<6}{row.inventory_days:>12.1f}{p:>14,.0f}{delta:>+12.0f}%")
+
     out = Path(args.out) if args.out else Path("out") / f"{scenario.name}.html"
     render_report(scenario, result, baseline, out)
     print(f"\nreport: {out}")
+    return 0
+
+
+def _cmd_price(args: argparse.Namespace) -> int:
+    from .pricing import (
+        cached_fred,
+        load_pricebook,
+        price_impact_from_shock,
+        render_price_table,
+        summarize,
+    )
+
+    book = load_pricebook()
+    if args.commodity:
+        if args.commodity not in book.commodities:
+            print(f"unknown commodity {args.commodity!r}; have: {', '.join(book.commodities)}")
+            return 1
+        price = book.commodities[args.commodity]
+        if price.excluded_from_shock_pricing:
+            print(f"{args.commodity}: shock pricing disabled — {price.note}")
+            return 0
+        impact = price_impact_from_shock(price, args.supply_loss)
+        print(f"{args.commodity}: remove {impact.supply_loss_pct:.0f}% of supply")
+        print(f"  elasticity-incidence: %ΔP = k / (|η_d| + η_s) "
+              f"= {args.supply_loss:.2f} / ({price.elasticity_demand} + {price.elasticity_supply})")
+        print(f"  implied price change: {impact.price_change_pct:+.0f}%  "
+              f"({impact.anchor_usd:,.0f} -> {impact.implied_usd:,.0f} {impact.unit})")
+        print(f"  short-run partial equilibrium; ignores substitution dynamics, destocking, processing.")
+        return 0
+
+    live = {}
+    for name, p in book.commodities.items():
+        if p.fred_series:
+            try:
+                live[name] = summarize(p.fred_series, cached_fred(p.fred_series))
+            except Exception:
+                live[name] = None
+    print(render_price_table(book, live))
     return 0
 
 
@@ -201,8 +251,31 @@ def _cmd_commodity(args: argparse.Namespace) -> int:
             if scenario.commodity != seed.name:
                 print(f"scenario is for {scenario.commodity!r}, not {seed.name!r}")
                 return 1
-        print(render_commodity_report(seed, run_commodity(seed, scenario)))
+        run = run_commodity(seed, scenario)
+        print(render_commodity_report(seed, run))
+        if scenario:
+            _print_commodity_price_impact(seed, run)
     return 0
+
+
+def _print_commodity_price_impact(seed, run) -> None:
+    from .pricing import load_pricebook, price_impact_from_shock
+
+    book = load_pricebook()
+    price = book.commodities.get(seed.name)
+    if not price or price.excluded_from_shock_pricing:
+        return
+    shock_rows = [(r.year, r.supply_lost_kt / seed.world.production(r.year))
+                  for r in run.rows if r.supply_lost_kt > 0]
+    if not shock_rows:
+        return
+    peak_year, peak_loss = max(shock_rows, key=lambda yr: yr[1])
+    impact = price_impact_from_shock(price, peak_loss)
+    print("\nIMPLIED PRICE (elasticity-incidence, illustrative — NOT a forecast):")
+    print(f"  peak supply withdrawal {impact.supply_loss_pct:.0f}% of world ({peak_year}) "
+          f"-> {impact.price_change_pct:+.0f}% price")
+    print(f"  {impact.anchor_usd:,.0f} -> {impact.implied_usd:,.0f} {impact.unit} "
+          f"(η_d {price.elasticity_demand}, η_s {price.elasticity_supply})")
 
 
 def _cmd_sensitivity(args: argparse.Namespace) -> int:
@@ -297,6 +370,11 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--year", type=int, default=2026)
     p.add_argument("--scenario", default=None)
     p.set_defaults(func=_cmd_sensitivity)
+
+    p = sub.add_parser("price", help="implied prices: FRED live levels + elasticity-incidence under shock")
+    p.add_argument("--commodity", default=None, help="show shock price impact for one commodity")
+    p.add_argument("--supply-loss", type=float, default=0.1, help="fraction of world supply withdrawn")
+    p.set_defaults(func=_cmd_price)
 
     p = sub.add_parser("commodity", help="multi-commodity tier: USGS country-level supply + concentration")
     csub = p.add_subparsers(dest="commodity_command", required=True)

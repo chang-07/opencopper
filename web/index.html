@@ -147,6 +147,15 @@ function draw(rows, label) {
   drawStats(rows);
 }
 
+function copperImpliedPrice(coverDays) {
+  const c = (D.prices || {}).copper_curve;
+  if (!c) return null;
+  const cover = Math.max(coverDays, 0.5);
+  const ratio = Math.pow(c.baseline_days / cover, c.gamma);
+  const clamped = Math.min(Math.max(ratio, c.clamp[0]), c.clamp[1]);
+  return Math.round(c.anchor_usd_t * clamped);
+}
+
 function drawStats(rows) {
   const y26 = rows.find(r => r.year === 2026), b26 = D.baseline.find(r => r.year === 2026);
   const delta = y26.refined_balance_kt - b26.refined_balance_kt;
@@ -154,8 +163,13 @@ function drawStats(rows) {
     ['2026 balance', `${fmt(y26.refined_balance_kt)} kt`, y26.refined_balance_kt >= 0 ? 'pos' : 'neg'],
     ['Δ vs baseline (2026)', `${delta >= 0 ? '+' : ''}${fmt(delta)} kt`, delta >= 0 ? 'pos' : 'neg'],
     ['2026 inventory cover', `${y26.inventory_days.toFixed(1)} days`, y26.inventory_days < 8 ? 'neg' : ''],
-    ['US premium proxy', `${y26.us_premium_pct.toFixed(1)}%`, y26.us_premium_pct > 0 ? 'neg' : ''],
   ];
+  const price = copperImpliedPrice(y26.inventory_days);
+  const basePrice = copperImpliedPrice(b26.inventory_days);
+  if (price) {
+    const pct = basePrice ? Math.round((price / basePrice - 1) * 100) : 0;
+    stats.push(['implied $/t (illustrative)', `$${fmt(price)}`, pct > 0 ? 'neg' : pct < 0 ? 'pos' : '']);
+  }
   document.getElementById('stats').innerHTML = stats.map(([k, v, cls]) =>
     `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
 }
@@ -334,9 +348,22 @@ const VIEWS = {
         const stats = [
           [`world supply ${c.world_year}`, `${fmt(c.world_production_kt)} kt`, ''],
           ['top producer', `${(conc.top1 * 100).toFixed(0)}%`, conc.top1 > 0.5 ? 'neg' : ''],
-          ['top 3', `${(conc.top3 * 100).toFixed(0)}%`, conc.top3 > 0.75 ? 'neg' : ''],
           ['HHI (≥)', fmt(conc.hhi_lower_bound), conc.hhi_lower_bound > 2500 ? 'neg' : 'pos'],
         ];
+        const px = (D.prices.commodities || {})[c.name];
+        if (px && c.scenario && showShock && !px.excluded) {
+          // peak supply withdrawal -> elasticity incidence %ΔP = k / (|η_d| + η_s)
+          let peak = 0;
+          for (const r of c.scenario.rows) {
+            const prod = r.supply_kt + r.supply_lost_kt;
+            if (prod > 0) peak = Math.max(peak, r.supply_lost_kt / prod);
+          }
+          const pct = peak / (px.elasticity_demand + px.elasticity_supply);
+          stats.push(['implied price (illustrative)', `${(pct * 100) >= 0 ? '+' : ''}${(pct * 100).toFixed(0)}%`,
+            pct > 0 ? 'neg' : '']);
+        } else {
+          stats.push(['top 3', `${(conc.top3 * 100).toFixed(0)}%`, conc.top3 > 0.75 ? 'neg' : '']);
+        }
         document.getElementById('stats').innerHTML = stats.map(([k, v, cls]) =>
           `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
 

@@ -86,11 +86,18 @@ uv run opencopper export-web && python3 -m http.server -d web      # the interac
 uv run opencopper commodity list                # 11 majors, concentration at a glance
 uv run opencopper commodity report cobalt --scenario scenarios/commodities/drc-cobalt-quota.yaml
 uv run opencopper minmod fetch --commodity nickel && uv run opencopper minmod report --commodity nickel
+uv run opencopper price                         # live FRED levels + anchors + elasticities
+uv run opencopper price --commodity cobalt --supply-loss 0.46   # the DRC quota, priced
 ```
 
 Country-level supply from USGS Mineral Commodity Summaries (extracted by
 LLM agents with world-total cross-checks — they catch the PDF footnote-fusion
-artifacts), HHI/concentration metrics, and dominant-producer shock scenarios.
+artifacts), HHI/concentration metrics, dominant-producer shock scenarios, and
+an **implied-price layer**: copper prices off the engine's inventory-cover
+scarcity curve, the country tier off short-run elasticity-incidence
+(`%ΔP = k / (|η_d| + η_s)`), with live FRED market prices where a keyless IMF
+series exists. Illustrative, not a forecast — every elasticity is a disputable
+line in [`data/seed/prices.yaml`](data/seed/prices.yaml).
 The tier reports balance **drift** (change vs its anchor year), never absolute
 balances — mine supply and consumption sit on different bases for several
 commodities, and only the copper engine has the secondary-supply structure to

@@ -1,0 +1,101 @@
+# Pricing assumptions — every constant the price layer uses, in one file.
+#
+# Two mechanisms, each matched to the data a tier actually has:
+#   - copper prices off the inventory-COVER scarcity curve (copper has stock
+#     dynamics: a persistent deficit drains inventory, and cover is what moves
+#     price — see gamma below);
+#   - the country tier prices off ELASTICITY-INCIDENCE (no inventory state,
+#     only flows): a supply withdrawal of fraction k moves price by
+#     k / (|elasticity_demand| + elasticity_supply).
+#
+# anchor_usd is the price at a NORMAL/balanced market (NOT the latest spot,
+# which may be elevated) — it is the level the mechanisms perturb FROM. Live
+# market prices come from FRED where a keyless IMF series exists.
+#
+# Short-run elasticities are literature-informed ROUND ESTIMATES and the whole
+# point is that they are disputable: metals are inelastic in the short run, so
+# small supply cuts cause large price moves. PRs with better numbers welcome.
+
+# Copper cover curve: implied = anchor * clamp((baseline_days/cover)^gamma, 0.4, 3.0)
+copper_cover_curve:
+  anchor_usd_t: 9200          # ~LME average at a balanced ~12-day inventory (2023-24 normal)
+  baseline_days: 12.0         # must match refined.inventory_days_baseline in assumptions.yaml
+  gamma: 0.7                  # price elasticity to cover ratio; cover halving -> +62%
+  clamp: [0.4, 3.0]           # implied price stays within 0.4x-3.0x anchor
+
+commodities:
+  copper:
+    anchor_usd: 9200          # USD/t (normal LME); live: FRED PCOPPUSDM
+    unit: USD/t
+    fred_series: PCOPPUSDM
+    elasticity_supply: 0.15   # some scrap response, slow mine ramp
+    elasticity_demand: 0.30   # aluminum substitution at the margin
+    note: "2025 ran hot (~$10.6k/t COMEX) on tariff uncertainty; anchor is the balanced-market level"
+  nickel:
+    anchor_usd: 16000
+    unit: USD/t
+    fred_series: PNICKUSDM
+    elasticity_supply: 0.20   # Indonesian NPI/HPAL can flex
+    elasticity_demand: 0.25
+    note: "market in surplus since 2022; anchor near 2024 LME average"
+  aluminum:
+    anchor_usd: 2500
+    unit: USD/t
+    fred_series: PALUMUSDM
+    elasticity_supply: 0.30   # idle smelter capacity can restart -> more elastic
+    elasticity_demand: 0.30
+    note: "anchor is LME; US spot ~$3,950/t in 2025 was tariff-inflated, not used as anchor"
+  zinc:
+    anchor_usd: 2750
+    unit: USD/t
+    fred_series: PZINCUSDM
+    elasticity_supply: 0.15
+    elasticity_demand: 0.25
+  tin:
+    anchor_usd: 30000
+    unit: USD/t
+    fred_series: PTINUSDM
+    elasticity_supply: 0.10   # artisanal/conflict supply slow to respond
+    elasticity_demand: 0.20
+  iron-ore:
+    anchor_usd: 100
+    unit: USD/t (62% Fe CIF)
+    fred_series: PIORECRUSDM
+    elasticity_supply: 0.20
+    elasticity_demand: 0.20
+  cobalt:
+    anchor_usd: 33000         # ~$15/lb LME normal; 2025 spiked to ~$21/lb US spot
+    unit: USD/t
+    fred_series: null         # no keyless FRED series
+    elasticity_supply: 0.05   # byproduct of Cu/Ni -> cannot flex to cobalt price
+    elasticity_demand: 0.15   # LFP chemistry substitution, but slow
+    note: "very inelastic: byproduct supply + limited substitution -> violent price response to the DRC quota"
+  lithium:
+    anchor_usd: 12000         # USD/t carbonate (LCE basis, NOT metal); 2025 ~$9,000/t after crash
+    unit: USD/t (carbonate, LCE)
+    fred_series: null
+    elasticity_supply: 0.25   # brine + spodumene can ramp on a 1-2yr lag
+    elasticity_demand: 0.30
+    note: "price is per tonne LCE; the seed quantities are contained-Li METAL (x~5.32 for LCE)"
+  rare-earths:
+    anchor_usd: 60000         # USD/t NdPr oxide (the value-bearing magnet REEs, NOT the basket)
+    unit: USD/t (NdPr oxide)
+    fred_series: null
+    elasticity_supply: 0.10
+    elasticity_demand: 0.15   # magnets have few substitutes
+    note: "REE is not one price; NdPr carries the value while La/Ce are ~$1-2/kg. Processing chokepoint not priced here."
+  silver:
+    anchor_usd: 30            # USD/troy oz (2024 avg ~$28; 2025 ~$38)
+    unit: USD/troy oz
+    fred_series: null
+    elasticity_supply: 0.10   # byproduct of lead-zinc/copper/gold
+    elasticity_demand: 0.40   # investment + photovoltaics price-sensitive
+    note: "byproduct: a silver-only supply-shock model needs the HOST metal's shocks"
+  gold:
+    anchor_usd: 3000          # USD/troy oz (2024 avg ~$2,388; 2025e ~$3,300)
+    unit: USD/troy oz
+    fred_series: null
+    elasticity_supply: 0.05
+    elasticity_demand: 2.0    # "demand" is price-elastic monetary/investment flow
+    excluded_from_shock_pricing: true
+    note: "flow-shock pricing is the WRONG model for gold (price set by monetary demand vs a 200,000+t above-ground stock); anchor shown for reference only"

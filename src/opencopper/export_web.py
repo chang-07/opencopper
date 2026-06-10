@@ -23,6 +23,7 @@ from .commodities import (
 from .ledger import load_assumptions, load_ledger
 from .minmod import DEFAULT_CACHE as MINMOD_CACHE
 from .minmod import cache_path, load_sites, partition_plausible
+from .pricing import cached_fred, load_pricebook, summarize
 from .scenario import SCENARIO_DIR, load_scenario
 from .shocks import MineOutage, MineRestart, Scenario, SmelterClosure, Tariff
 
@@ -117,6 +118,38 @@ def _all_deposit_layers() -> dict[str, list[dict]]:
     return layers
 
 
+def _pricing_payload(fetch_live: bool = True) -> dict:
+    book = load_pricebook()
+    curve = book.copper_cover_curve
+    commodities = {}
+    for name, p in book.commodities.items():
+        live = None
+        if fetch_live and p.fred_series:
+            try:
+                q = summarize(p.fred_series, cached_fred(p.fred_series))
+                live = {"latest": q.latest, "avg_12m": q.avg_12m, "date": q.latest_date} if q else None
+            except Exception:
+                live = None
+        commodities[name] = {
+            "anchor_usd": p.anchor_usd,
+            "unit": p.unit,
+            "elasticity_supply": p.elasticity_supply,
+            "elasticity_demand": p.elasticity_demand,
+            "excluded": p.excluded_from_shock_pricing,
+            "fred_series": p.fred_series,
+            "live": live,
+        }
+    return {
+        "copper_curve": {
+            "anchor_usd_t": curve.anchor_usd_t,
+            "baseline_days": curve.baseline_days,
+            "gamma": curve.gamma,
+            "clamp": list(curve.clamp),
+        },
+        "commodities": commodities,
+    }
+
+
 def _commodity_payloads() -> list[dict]:
     """The multi-commodity tier for the web: concentration + drift runs."""
     scenario_by_commodity = {}
@@ -161,7 +194,7 @@ def _commodity_payloads() -> list[dict]:
     return out
 
 
-def build_payload(minmod_cache: Path = MINMOD_CACHE) -> dict:
+def build_payload(minmod_cache: Path = MINMOD_CACHE, fetch_live_prices: bool = True) -> dict:
     ledger = load_ledger()
     assumptions = load_assumptions()
 
@@ -221,6 +254,7 @@ def build_payload(minmod_cache: Path = MINMOD_CACHE) -> dict:
             {"copper": _deposit_layer(minmod_cache)} if _deposit_layer(minmod_cache) else {}
         ),
         "commodities": _commodity_payloads(),
+        "prices": _pricing_payload(fetch_live=fetch_live_prices),
         "mines": [
             {
                 "name": m.name,

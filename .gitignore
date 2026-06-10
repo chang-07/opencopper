@@ -21,3 +21,4 @@ data/ingest-manifest.json
 .DS_Store
 .idea/
 .vscode/
+data/prices/
