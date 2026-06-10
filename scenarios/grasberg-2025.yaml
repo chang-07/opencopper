@@ -1,0 +1,12 @@
+# BACKTEST: the September 2025 Grasberg Block Cave mud rush.
+# Reality: fatal mud rush Sept 2025 halted the world's #2 mine; initial
+# restart March 2026 at 40-50% rates; Freeport pushed full recovery from
+# 2027 to 2028 (May 2026 guidance). Consensus loss estimates were roughly
+# 200-300kt for 2025 and a multi-hundred-kt hole in 2026.
+# Model: severity by year against an 800kt baseline.
+name: grasberg-2025
+description: "Grasberg mud rush (Sept 2025): Q4-25 loss, ~50% run rate 2026, recovery through 2027, full by 2028"
+events:
+  - {type: mine_outage, mine: Grasberg, start_year: 2025, end_year: 2025, severity: 0.20}
+  - {type: mine_outage, mine: Grasberg, start_year: 2026, end_year: 2026, severity: 0.50}
+  - {type: mine_outage, mine: Grasberg, start_year: 2027, end_year: 2027, severity: 0.25}

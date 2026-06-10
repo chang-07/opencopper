@@ -1,0 +1,11 @@
+# LIVE CATALYST: Panama's full-restart decision on Cobre Panama, expected
+# June 2026. Stockpile processing (~120kt contribution in 2026) was already
+# approved; this scenario models a YES decision with ramp through 2027.
+# Compare against baseline (= no restart) to see what the decision is worth
+# to the world balance.
+name: cobre-panama-restart-2026
+description: "Panama approves full Cobre Panama restart mid-2026: ~120kt in 2026, ~280kt in 2027, full (~325kt) from 2028"
+events:
+  - type: mine_restart
+    mine: Cobre Panama
+    ramp: {2026: 120, 2027: 280}

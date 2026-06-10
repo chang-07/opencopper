@@ -1,0 +1,42 @@
+# World-level model assumptions — every constant the engine uses, in one file.
+# Calibration anchors (2024): ICSG World Copper Factbook / monthly press
+# releases, USGS Mineral Commodity Summaries. All values are estimates and
+# deliberately inspectable; PRs that improve calibration are the point.
+#
+# Convention: world mine-supply growth is a BASELINE TREND excluding major
+# discrete events (big restarts, disasters, export blocks). Those are modeled
+# explicitly as scenario events, which is what keeps baseline-vs-scenario
+# comparisons meaningful and avoids double counting.
+
+world:
+  mine_supply_kt_2024: 22900        # ICSG 2024 world mine production
+  mine_supply_growth_pct: 1.8       # trend growth ex-major-events
+  disruption_allowance_pct: 5.0     # unmodeled disruptions, applied to rest-of-world aggregate only
+  sxew_share_world: 0.16            # share of mine output going straight to cathode (skips smelters)
+  tracked_utilization: 0.93         # default capacity utilization for tracked mines in future years
+
+smelting:
+  # Primary smelter intake capacity, kt contained Cu. Overcapacity vs
+  # concentrate is what drove treatment charges to $0/negative in 2025-26.
+  capacity_kt:
+    2024: 21500
+    2025: 22300
+    2026: 22600
+  capacity_growth_pct: 1.5
+  utilization_max: 0.93
+
+demand:
+  # ICSG 2024 world refined usage was ~27.0Mt; the baseline uses 26.8Mt so the
+  # counterfactual trend stays near balance over 2024-2030 (supply is also
+  # docked by the disruption allowance). Scenario deltas are what matter.
+  base_kt_2024: 26800
+  regions:
+    china:         {share: 0.570, growth_pct: 1.5}
+    north_america: {share: 0.085, growth_pct: 1.2}
+    europe:        {share: 0.140, growth_pct: 0.8}
+    rest_of_world: {share: 0.205, growth_pct: 3.2}
+
+refined:
+  secondary_supply_kt_2024: 4500    # refined output from scrap
+  secondary_growth_pct: 3.0         # scrap supply responds to high prices
+  inventory_days_baseline: 12.0     # exchange + bonded cover, days of consumption

@@ -1,0 +1,17 @@
+# LIVE CATALYST: the US Commerce Department report on refined-copper tariffs
+# is due June 30, 2026 (Section 232 recalibration in April left refined
+# cathode exempt; this models the exemption being removed).
+# Hypothetical: a 25% tariff on refined copper imports from 2026.
+# v1 effects: a US premium proxy (COMEX-LME style) and modest global demand
+# destruction via the elasticity in the event parameters. Rerouting lags and
+# US inventory build-ahead are NOT modeled yet (documented simplification).
+name: us-refined-tariff-2026
+description: "Hypothetical 25% US tariff on refined copper imports starting 2026"
+events:
+  - type: tariff
+    rate_pct: 25
+    start_year: 2026
+    region_demand_share: 0.085
+    import_dependence: 0.45
+    demand_elasticity: -0.3
+    passthrough: 0.8

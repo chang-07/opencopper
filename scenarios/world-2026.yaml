@@ -1,0 +1,20 @@
+# "The world as it is", mid-2026: the major real events of 2025-26 composed
+# into one scenario. Run this against baseline to see the model's view of the
+# current squeeze; compare its refined deficit against ICSG's 2026 forecast
+# flip (+209kt surplus revised to -150kt deficit).
+name: world-2026
+description: "Composed actuals: Grasberg mud rush, Kamoa-Kakula seismic recovery, El Teniente carryover, TC/RC smelter closures"
+events:
+  # Grasberg mud rush (Sept 2025 -> full recovery 2028)
+  - {type: mine_outage, mine: Grasberg, start_year: 2025, end_year: 2025, severity: 0.20}
+  - {type: mine_outage, mine: Grasberg, start_year: 2026, end_year: 2026, severity: 0.50}
+  - {type: mine_outage, mine: Grasberg, start_year: 2027, end_year: 2027, severity: 0.25}
+  # Kamoa-Kakula seismic event (May 2025), recovering through 2026
+  - {type: mine_outage, mine: Kamoa-Kakula, start_year: 2025, end_year: 2025, severity: 0.15}
+  - {type: mine_outage, mine: Kamoa-Kakula, start_year: 2026, end_year: 2026, severity: 0.08}
+  # El Teniente accident carryover (-25kt vs plan in 2026)
+  - {type: mine_outage, mine: El Teniente, start_year: 2025, end_year: 2025, severity: 0.07}
+  - {type: mine_outage, mine: El Teniente, start_year: 2026, end_year: 2026, severity: 0.06}
+  # TC/RC crisis smelter closures: Pasar (Feb 2026), Tsumeb (Mar 2026),
+  # Chinese output cuts — partial-year composite estimate.
+  - {type: smelter_closure, capacity_kt: 600, start_year: 2026, note: "Pasar + Tsumeb + China cuts (composite)"}
