@@ -10,11 +10,12 @@
 # tol_pct: tolerance band — keep tight (2-5%) for directly-stated figures,
 #          wider (10%) where the model must convert units.
 #
-# The entry below is a TEMPLATE pending hand-verification against
-# scco-20221231xex96d1.pdf — replace the values after reading the actual
-# reserve statement, then delete this comment.
 mines:
-  - match: "El Arco"
-    note: "TEMPLATE — fill from SCCO EX-96 (El Arco TRS, Dec 2021): verify before trusting"
+  # Cuajone Operations, Peru — Southern Copper EX-96 (scco-20221231xex96d1.pdf).
+  # Values read by hand from Table 12-3 (Probable Mineral Reserve Statement) and
+  # Table 1-6 (Summary of Economic Results), FY2022.
+  - match: "Cuajone"
+    note: "Total probable reserve 14,461.2 Mlb contained Cu x 0.4536 = 6,560 kt; remaining mine life 48 yr"
     fields:
-      reserves_kt: {value: 0, tol_pct: 5}
+      reserves_kt: {value: 6560, tol_pct: 3}
+      mine_life_years: {value: 48, tol_pct: 2}

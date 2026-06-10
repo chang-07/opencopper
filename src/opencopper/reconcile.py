@@ -61,11 +61,13 @@ def reconcile(
             continue
         extracted = e.annual_production_kt.value
         year = e.annual_production_kt.year
-        ledger_value = (
-            mine.production_kt.get(year)
-            if year and year in mine.production_kt
-            else mine.capacity_kt
-        )
+        if year and year in mine.production_kt:
+            ledger_value = mine.production_kt[year]
+        elif mine.production_kt:
+            # no matching year: compare to the latest production actual we have
+            ledger_value = mine.production_kt[max(mine.production_kt)]
+        else:
+            ledger_value = mine.capacity_kt
         diff_pct = 100 * (extracted - ledger_value) / ledger_value if ledger_value else 0.0
         if abs(diff_pct) <= agree_band_pct:
             agreements.append(mine.name)

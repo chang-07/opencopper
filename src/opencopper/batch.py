@@ -21,7 +21,7 @@ from typing import Optional
 import anthropic
 from pydantic import BaseModel
 
-from .extract import DEFAULT_MODEL, SYSTEM_PROMPT, load_document_text
+from .extract import DEFAULT_MODEL, SYSTEM_PROMPT, load_document_text, relevant_sections
 from .schema import ExtractedMineData
 
 # JSON-schema keywords the structured-outputs grammar doesn't support; the SDK
@@ -67,13 +67,17 @@ def _custom_id(index: int, path: Path) -> str:
     return f"x{index:04d}-{stem}"
 
 
-def build_batch_requests(paths: list[Path], model: str = DEFAULT_MODEL) -> tuple[list[dict], dict]:
+def build_batch_requests(
+    paths: list[Path], model: str = DEFAULT_MODEL, prefilter: bool = True
+) -> tuple[list[dict], dict]:
     """Returns (requests, manifest_items) where manifest maps custom_id -> path."""
     schema = strict_schema(ExtractedMineData)
     requests: list[dict] = []
     manifest: dict[str, str] = {}
     for i, path in enumerate(paths):
         text = load_document_text(path)
+        if prefilter:
+            text = relevant_sections(text)
         cid = _custom_id(i, path)
         manifest[cid] = str(path)
         requests.append(

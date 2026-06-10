@@ -97,6 +97,33 @@ Extractions never overwrite the ledger silently: `reconcile` surfaces every
 discrepancy for review (two sources, diffed — the fintech way), and `eval`
 treats an uncited value as wrong even when the number is right.
 
+### Running it for ~$0
+
+The model and demo need **no LLM spend at all** — the seed ledger and simulator
+are self-contained, and a real sample extraction is committed. Extraction is an
+optional layer to upgrade seed values to cited ones, and it's cheap by design:
+
+- **You don't need the whole corpus.** Replacing seed values for the ~30 mines
+  that matter is a few dozen documents, not the ~2,400 on EDGAR.
+- **Section pre-filter** keeps only the high-signal sections of each report —
+  ~84% fewer input tokens (measured: 262K → 43K on two real filings).
+- **Pick the tier.** `--model claude-haiku-4-5` is ~5× cheaper than Opus on
+  input and fine for structured extraction; the Batches API halves it again.
+- **See the bill first:** `opencopper estimate data/raw --model claude-haiku-4-5`
+  prints token counts and cost for full vs pre-filtered, no API call.
+
+```
+$ opencopper estimate data/raw --model claude-haiku-4-5
+2 documents, model claude-haiku-4-5
+  full text:      ~   262,034 in-tokens  ->  $0.28
+  pre-filtered:   ~    42,570 in-tokens  ->  $0.06
+  + Batches API (50% off):                       $0.03
+```
+
+A realistic ~40-document fill lands near **$1** (Haiku, pre-filtered, batched);
+the entire EDGAR corpus is **~$40**, not the ~$1,900 a naive full-text Opus run
+would cost.
+
 ## Data sources (all free)
 
 | Source | Used for |
@@ -124,8 +151,20 @@ treats an uncited value as wrong even when the number is right.
   ("removing supply never increases the surplus"), zero-rate tariff identity,
   smelter-constraint binding, determinism, plus direction-and-magnitude
   backtests for every shipped scenario.
-- Extraction accuracy is benchmarked against company-stated guidance
-  (roadmap: published eval table).
+- Extraction is benchmarked against values hand-read from the source filings.
+  A field counts as correct only if it is **within tolerance _and_ carries a
+  citation** — an uncited right answer is scored as a miss. First real run, on
+  Southern Copper's Cuajone Operations EX-96 ([sample](evals/sample_extractions/cuajone.json)):
+
+  | mine | field | expected | extracted | within tol | cited | ok |
+  |---|---|---:|---:|:-:|:-:|:-:|
+  | Cuajone | reserves_kt | 6,560 | 6,560 | ✓ | ✓ | ✓ |
+  | Cuajone | mine_life_years | 48 | 48 | ✓ | ✓ | ✓ |
+
+  `reconcile` then diffs that extraction against the ledger and flags Cuajone
+  at −14.4% (extracted LOM-average rate 137 kt vs the 160 kt current-year seed),
+  confidence 0.35 — correctly surfacing a reserve-statement rate as *not* a
+  current-production rate, for review rather than silent overwrite.
 
 ## Web demo
 
@@ -139,9 +178,10 @@ precomputed by `opencopper export-web`; the "sliders" snap to a parameter grid.
 
 - [x] PDF exhibit support (most EX-96s are PDFs)
 - [x] Batch extraction pipeline (Batches API) + reconcile + eval harness
+- [x] Section pre-filter + `estimate` command (~84% token cut; see "Running it for ~$0")
+- [x] First real extraction + eval + reconcile on a live filing (Cuajone)
 - [x] Web demo: scenario sliders, live catalyst countdowns, ledger browser
-- [ ] Run the batch over all ~2,400 copper EX-96 exhibits; publish the eval table
-- [ ] Fill `evals/ground_truth.yaml` from source documents (hand-verified)
+- [ ] Extend the batch + hand-verified ground truth to the ~30 ledger mines that file EX-96
 - [ ] MinMod ingestion for the NI 43-101 universe (SEDAR+ without scraping) —
       API exists at `minmod.isi.edu/api/v1` (+ SPARQL at `/sparql`) but currently
       serves an incomplete cert chain; bulk CDR endpoint needs a token. Parked.

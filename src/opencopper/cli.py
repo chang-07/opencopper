@@ -67,8 +67,42 @@ def _cmd_extract(args: argparse.Namespace) -> int:
 
     path = Path(args.file)
     text = load_document_text(path)
-    data = extract_mine_data(text, model=args.model, source_filename=path.name)
+    data = extract_mine_data(
+        text, model=args.model, prefilter=not args.full, source_filename=path.name
+    )
     print(data.model_dump_json(indent=2))
+    return 0
+
+
+def _cmd_estimate(args: argparse.Namespace) -> int:
+    """Estimate extraction tokens/cost before spending. ~4 chars/token heuristic
+    (no API call) unless --exact, which uses the token-counting endpoint."""
+    from .extract import load_document_text, relevant_sections
+
+    # $/M input, rough output assumption (~2k tokens of structured JSON)
+    prices = {"claude-opus-4-8": 5.0, "claude-sonnet-4-6": 3.0, "claude-haiku-4-5": 1.0}
+    out_prices = {"claude-opus-4-8": 25.0, "claude-sonnet-4-6": 15.0, "claude-haiku-4-5": 5.0}
+    in_price = prices.get(args.model, 5.0)
+    out_price = out_prices.get(args.model, 25.0)
+
+    paths = sorted(
+        p for p in Path(args.dir).iterdir() if p.suffix.lower() in (".htm", ".html", ".pdf", ".txt")
+    )
+    full_tok = filt_tok = 0
+    for path in paths:
+        text = load_document_text(path)
+        filtered = relevant_sections(text)
+        full_tok += len(text) // 4
+        filt_tok += len(filtered) // 4
+
+    def cost(in_tok: int) -> float:
+        out_tok = 2000 * len(paths)
+        return in_tok / 1e6 * in_price + out_tok / 1e6 * out_price
+
+    print(f"{len(paths)} documents, model {args.model}")
+    print(f"  full text:      ~{full_tok:>10,} in-tokens  ->  ${cost(full_tok):.2f}")
+    print(f"  pre-filtered:   ~{filt_tok:>10,} in-tokens  ->  ${cost(filt_tok):.2f}")
+    print(f"  + Batches API (50% off):                       ${cost(filt_tok) / 2:.2f}")
     return 0
 
 
@@ -168,7 +202,13 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("extract", help="LLM-extract structured mine data from one exhibit")
     p.add_argument("file")
     p.add_argument("--model", default="claude-opus-4-8")
+    p.add_argument("--full", action="store_true", help="send the whole document (skip section pre-filter)")
     p.set_defaults(func=_cmd_extract)
+
+    p = sub.add_parser("estimate", help="estimate extraction tokens/cost before spending (no API call)")
+    p.add_argument("dir", help="directory of exhibit files")
+    p.add_argument("--model", default="claude-haiku-4-5")
+    p.set_defaults(func=_cmd_estimate)
 
     p = sub.add_parser("ledger", help="print the tracked mine ledger and world coverage")
     p.add_argument("--year", type=int, default=2026)

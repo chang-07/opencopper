@@ -1,0 +1,43 @@
+{
+  "mine_name": "Cuajone Operations",
+  "country": "Peru",
+  "operator": "Southern Copper Corporation",
+  "commodities": [
+    "copper",
+    "molybdenum"
+  ],
+  "annual_production_kt": {
+    "value": 137.0,
+    "unit": "kt contained Cu (LOM average, derived)",
+    "year": null,
+    "citation": {
+      "quote": "Total 1,357.6 0.48 ... 14,461.2 [Mlb contained Cu]; Remaining mine life years 48",
+      "section": "derived: total contained reserve / remaining mine life (no single-year production figure stated in the TRS)"
+    },
+    "confidence": 0.35
+  },
+  "reserves_kt": {
+    "value": 6560.0,
+    "unit": "kt contained Cu",
+    "year": 2022,
+    "citation": {
+      "quote": "Total 1,357.6 0.48 — 14,461.2 508.3 ... Mineral reserves are current as of December 31, 2022",
+      "section": "Table 12-3: Probable Mineral Reserve Statement (14,461.2 Mlb × 0.4536 = 6,560 kt)"
+    },
+    "confidence": 0.95
+  },
+  "mine_life_years": {
+    "value": 48.0,
+    "unit": "years",
+    "year": 2022,
+    "citation": {
+      "quote": "Remaining mine life years 48",
+      "section": "Table 1-6: Summary of Economic Results"
+    },
+    "confidence": 0.9
+  },
+  "cash_cost_usd_lb": null,
+  "status": "operating",
+  "source_accession": "0001558370-23-002434",
+  "source_filename": "scco-20221231xex96d1.pdf"
+}

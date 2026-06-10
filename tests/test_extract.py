@@ -5,7 +5,12 @@ from types import SimpleNamespace
 
 import pytest
 
-from opencopper.extract import extract_mine_data, html_to_text, load_document_text
+from opencopper.extract import (
+    extract_mine_data,
+    html_to_text,
+    load_document_text,
+    relevant_sections,
+)
 from opencopper.schema import Citation, ExtractedField, ExtractedMineData
 
 
@@ -43,6 +48,32 @@ def test_load_document_extracts_pdf(tmp_path, monkeypatch):
     assert "Mineral Reserves: 1,000 kt" in text
     assert "[page 1]" in text
     assert "[page 2]" not in text  # blank pages dropped
+
+
+def test_relevant_sections_keeps_signal_drops_filler():
+    # 8 lead pages + 40 filler pages + 1 dense reserve page
+    lead = "".join(f"[page {i}]\nIntroduction and qualified persons.\n" for i in range(1, 9))
+    filler = "".join(
+        f"[page {i}]\nEnvironmental permitting and community relations boilerplate.\n"
+        for i in range(9, 49)
+    )
+    signal = (
+        "[page 49]\nMineral Reserve Statement: Proven and Probable reserves of "
+        "1,250 Mt at 0.42% copper grade. Life of mine 28 years. Annual production "
+        "180 ktpa contained copper. C1 cash cost 1.45 $/lb.\n"
+    )
+    text = lead + filler + signal
+    filtered = relevant_sections(text, lead_segments=8, top_k=10, max_chars=100_000)
+    assert "Mineral Reserve Statement" in filtered          # signal kept
+    assert "180 ktpa" in filtered
+    assert "[page 1]" in filtered                            # lead kept
+    assert filtered.count("boilerplate") < 40               # filler thinned
+    assert len(filtered) < len(text)
+
+
+def test_relevant_sections_passthrough_when_small():
+    text = "[page 1]\nshort doc\n[page 2]\nalso short\n"
+    assert relevant_sections(text) == text
 
 
 class _FakeClient:
