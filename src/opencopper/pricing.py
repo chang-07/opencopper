@@ -36,6 +36,7 @@ FRED_CSV = "https://fred.stlouisfed.org/graph/fredgraph.csv"
 
 
 class CommodityPrice(BaseModel):
+    futures: dict | None = None  # exchange/symbol/contract — desk reference, never execution
     anchor_usd: float
     unit: str
     fred_series: Optional[str] = None

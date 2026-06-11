@@ -28,7 +28,12 @@
   header h1 .cu { color: var(--copper-hot); font-style: italic; }
   .tagline { color: var(--muted); margin-top: 4px; max-width: 70ch; }
   .tagline em { color: var(--text); }
-  .catalysts { display: flex; gap: 10px; flex-wrap: wrap; margin: 18px 0 6px; }
+  .ticker { display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0 0; }
+  .tick { background: var(--panel); border: 1px solid var(--border); border-radius: 999px;
+    padding: 4px 12px; font-size: 12.5px; color: var(--muted); }
+  .tick b { color: var(--text); font-size: 12.5px; }
+  .tick .up { color: var(--red); } .tick .dn { color: #5b8fb9; }
+  .catalysts { display: flex; gap: 10px; flex-wrap: wrap; margin: 14px 0 6px; }
   .catalyst { background: var(--panel); border: 1px solid var(--border); border-left: 3px solid var(--copper);
     border-radius: 8px; padding: 10px 14px; font-size: 13px; }
   .catalyst b { display: block; font-size: 14px; }
@@ -109,6 +114,7 @@
       and the clamps tell you where the model stops knowing.</p>
   </header>
 
+  <div class="ticker" id="ticker"></div>
   <div class="catalysts" id="catalysts"></div>
   <nav id="tabs"></nav>
 
@@ -148,6 +154,17 @@ for (const c of D.meta.catalysts) {
 }
 document.getElementById('meta-mines').textContent = D.meta.tracked_mines;
 document.getElementById('meta-cov').textContent = D.meta.coverage_pct;
+
+// ---- live ticker strip (FRED/PinkSheet latest vs balanced anchor) ----
+(() => {
+  const rows = ((D.signals || {}).rows || []).filter(s => s.live != null && s.gap_vs_anchor_pct != null);
+  document.getElementById('ticker').innerHTML = rows.map(s => {
+    const cls = s.gap_vs_anchor_pct >= 0 ? 'up' : 'dn';
+    const sym = s.futures && s.futures.symbol ? ` ${s.futures.symbol}` : '';
+    return `<span class="tick"><b>${s.commodity}</b>${sym} ${fmt(Math.round(s.live))} ` +
+      `<span class="${cls}">${s.gap_vs_anchor_pct >= 0 ? '+' : ''}${s.gap_vs_anchor_pct.toFixed(0)}% vs anchor</span></span>`;
+  }).join('');
+})();
 
 // ---- charting ----
 function traces(rows, name, color, dash) {
@@ -775,6 +792,39 @@ const VIEWS = {
       update();
     },
   },
+  desk: {
+    label: 'Desk',
+    init() {
+      const S = D.signals || {rows: []};
+      host.title.textContent = 'Desk sheet — model vs market';
+      host.sub.textContent = 'Live prices (FRED/IMF monthly; Pink Sheet where noted) against the model\'s balanced-market anchors, regimes, and simulated 2026 medians. Decision support for futures traders — never advice, never execution.';
+      host.controls.innerHTML = '';
+      document.getElementById('stats').innerHTML = '';
+      Plotly.purge('chart');
+      document.getElementById('chart').style.height = '0px';
+      const regimeCls = r => r === 'tight' ? 'style="border-color:#c4604f"' : r === 'glut' ? 'style="border-color:#5b8fb9"' : '';
+      host.table.innerHTML = `<table><thead><tr>
+        <th>commodity</th><th>futures</th><th class="num">live</th><th class="num">anchor</th>
+        <th class="num">gap</th><th>regime</th><th class="num">vol/yr</th>
+        <th class="num">model P50 2026</th><th class="num">P(tail) 2026</th></tr></thead><tbody>` +
+        S.rows.map(s => {
+          const fut = s.futures && s.futures.symbol ? `${s.futures.exchange} ${s.futures.symbol}` : '—';
+          const gap = s.gap_vs_anchor_pct != null
+            ? `<span class="${s.gap_vs_anchor_pct >= 0 ? 'up' : 'dn'}" style="color:${s.gap_vs_anchor_pct >= 0 ? 'var(--red)' : '#5b8fb9'}">${s.gap_vs_anchor_pct >= 0 ? '+' : ''}${s.gap_vs_anchor_pct.toFixed(0)}%</span>` : '—';
+          const tail = s.prob_double_2026 != null ? (s.prob_double_2026 * 100).toFixed(0) + '%' : '—';
+          return `<tr><td><b>${s.commodity}</b></td><td>${fut}</td>
+            <td class="num">${s.live != null ? fmt(Math.round(s.live)) : '—'}${s.live_date ? `<span class="sim-unit"> ${s.live_date.slice(0,7)}</span>` : ''}</td>
+            <td class="num">${fmt(s.anchor)}</td><td class="num">${gap}</td>
+            <td><span class="pill" ${regimeCls(s.regime)}>${s.regime || '—'}</span></td>
+            <td class="num">${s.ambient_vol_pct.toFixed(0)}%</td>
+            <td class="num">${s.model_p50_2026 != null ? fmt(Math.round(s.model_p50_2026)) : '—'}</td>
+            <td class="num">${tail}</td></tr>`;
+        }).join('') + `</tbody></table>
+        <p style="color:var(--muted);font-size:12.5px;margin-top:12px">${S.disclaimer || ''}
+        Tail = P(price ≥ 2× anchor) within 2026 (copper: ≥1.5×). Scorecard:
+        <a href="https://github.com/chang-07/opencopper/blob/main/PREDICTIONS.md" style="color:var(--copper-hot)">PREDICTIONS.md</a>.</p>`;
+    },
+  },
   mines: {
     label: 'The Ledger',
     init() {
@@ -811,7 +861,7 @@ function activate(key) {
   document.getElementById('chart').style.height = (innerWidth < 640 ? '430px' : '560px');
   VIEWS[key].init();
 }
-activate('decision');
+activate('map');  // the World Simulator is the front door
 </script>
 </body>
 </html>

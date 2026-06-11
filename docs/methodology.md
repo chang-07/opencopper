@@ -229,6 +229,16 @@ the wedge. Documented simplifications: flat intra-year supply/demand (no
 seasonality data), no regional demand elasticity (world surpluses park in RoW
 as late-horizon discounts), three regions only.
 
+## The desk layer
+
+`opencopper signals` (and the demo's Desk tab + ticker strip) put the model
+next to the live market: latest FRED/Pink Sheet price vs the balanced-market
+anchor, the 34-year regime, simulated 2026 medians and tail odds, and futures
+contract mapping (COMEX/LME/SGX/CME symbols) for reference. It is decision
+support with a hard boundary: the project never sizes, recommends, or executes
+trades, every output carries the not-advice disclaimer, and PREDICTIONS.md is
+the public scorecard that keeps the signals honest.
+
 ## Data layers and the provenance ladder
 
 Every quantity carries a `basis` tag and can only move up the ladder with

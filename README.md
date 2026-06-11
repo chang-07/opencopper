@@ -112,6 +112,7 @@ uv run opencopper history --commodity copper      # 34yr regimes + realized vola
 uv run opencopper validate                         # calibrate the simulator to history (22% ≈ 22%)
 uv run opencopper montecarlo --scenario scenarios/grasberg-2025.yaml   # P10/P50/P90, P(deficit), P(spike)
 uv run opencopper regional --scenario scenarios/us-refined-tariff-2026.yaml  # quarterly COMEX-LME arb
+uv run opencopper signals [--json]                 # desk sheet: model vs live market (not advice)
 uv run opencopper sensitivity --target price                           # the pricing parameters' own tornado
 ```
 

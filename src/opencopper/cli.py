@@ -60,6 +60,14 @@ def _cmd_simulate(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_signals(args: argparse.Namespace) -> int:
+    from .signals import build_signals, render_signals, signals_json
+
+    signals = build_signals(n_paths=args.paths)
+    print(signals_json(signals) if args.json else render_signals(signals))
+    return 0
+
+
 def _cmd_regional(args: argparse.Namespace) -> int:
     from .balance import BASELINE
     from .regional import render_regional, run_regional
@@ -464,6 +472,11 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--scenario", default=None)
     p.add_argument("--target", choices=["balance", "price"], default="balance")
     p.set_defaults(func=_cmd_sensitivity)
+
+    p = sub.add_parser("signals", help="desk sheet: model vs live market per commodity (decision support, not advice)")
+    p.add_argument("--json", action="store_true", help="machine-readable, for your own systems")
+    p.add_argument("--paths", type=int, default=800)
+    p.set_defaults(func=_cmd_signals)
 
     p = sub.add_parser("regional", help="quarterly 3-region trade flows: covers, premia, the COMEX-LME arb")
     p.add_argument("--scenario", default=None, help="scenarios/*.yaml (default: baseline)")

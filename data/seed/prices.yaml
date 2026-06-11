@@ -25,6 +25,7 @@ copper_cover_curve:
 
 commodities:
   copper:
+    futures: {exchange: COMEX, symbol: HG, contract: "25,000 lb", also: "LME CA 25t"}
     anchor_usd: 9200          # USD/t (normal LME); live: FRED PCOPPUSDM
     unit: USD/t
     fred_series: PCOPPUSDM
@@ -32,6 +33,7 @@ commodities:
     elasticity_demand: 0.30   # aluminum substitution at the margin
     note: "2025 ran hot (~$10.6k/t COMEX) on tariff uncertainty; anchor is the balanced-market level"
   nickel:
+    futures: {exchange: LME, symbol: NI, contract: "6 t"}
     anchor_usd: 16000
     unit: USD/t
     fred_series: PNICKUSDM
@@ -39,6 +41,7 @@ commodities:
     elasticity_demand: 0.25
     note: "market in surplus since 2022; anchor near 2024 LME average"
   aluminum:
+    futures: {exchange: LME, symbol: AH, contract: "25 t"}
     anchor_usd: 2500
     unit: USD/t
     fred_series: PALUMUSDM
@@ -46,24 +49,28 @@ commodities:
     elasticity_demand: 0.30
     note: "anchor is LME; US spot ~$3,950/t in 2025 was tariff-inflated, not used as anchor"
   zinc:
+    futures: {exchange: LME, symbol: ZS, contract: "25 t"}
     anchor_usd: 2750
     unit: USD/t
     fred_series: PZINCUSDM
     elasticity_supply: 0.15
     elasticity_demand: 0.25
   tin:
+    futures: {exchange: LME, symbol: SN, contract: "5 t"}
     anchor_usd: 30000
     unit: USD/t
     fred_series: PTINUSDM
     elasticity_supply: 0.10   # artisanal/conflict supply slow to respond
     elasticity_demand: 0.20
   iron-ore:
+    futures: {exchange: SGX, symbol: FEF, contract: "100 t (62% Fe CFR)"}
     anchor_usd: 100
     unit: USD/t (62% Fe CIF)
     fred_series: PIORECRUSDM
     elasticity_supply: 0.20
     elasticity_demand: 0.20
   cobalt:
+    futures: {exchange: CME, symbol: CB, contract: "2,204.6 lb (metal, fastmarkets)"}
     anchor_usd: 33000         # ~$15/lb LME normal; 2025 spiked to ~$21/lb US spot
     unit: USD/t
     fred_series: null         # no keyless FRED series
@@ -71,6 +78,7 @@ commodities:
     elasticity_demand: 0.15   # LFP chemistry substitution, but slow
     note: "very inelastic: byproduct supply + limited substitution -> violent price response to the DRC quota"
   lithium:
+    futures: {exchange: CME, symbol: LTH, contract: "2,204.6 lb (hydroxide CIF CJK)"}
     anchor_usd: 12000         # USD/t carbonate (LCE basis, NOT metal); 2025 ~$9,000/t after crash
     unit: USD/t (carbonate, LCE)
     fred_series: null
@@ -78,6 +86,7 @@ commodities:
     elasticity_demand: 0.30
     note: "price is per tonne LCE; the seed quantities are contained-Li METAL (x~5.32 for LCE)"
   rare-earths:
+    futures: {exchange: null, symbol: null, contract: "no liquid futures; offtake/equity proxies"}
     anchor_usd: 60000         # USD/t NdPr oxide (the value-bearing magnet REEs, NOT the basket)
     unit: USD/t (NdPr oxide)
     fred_series: null
@@ -85,6 +94,7 @@ commodities:
     elasticity_demand: 0.15   # magnets have few substitutes
     note: "REE is not one price; NdPr carries the value while La/Ce are ~$1-2/kg. Processing chokepoint not priced here."
   silver:
+    futures: {exchange: COMEX, symbol: SI, contract: "5,000 oz"}
     anchor_usd: 30            # USD/troy oz (2024 avg ~$28; 2025 ~$38)
     unit: USD/troy oz
     fred_series: null
@@ -92,6 +102,7 @@ commodities:
     elasticity_demand: 0.40   # investment + photovoltaics price-sensitive
     note: "byproduct: a silver-only supply-shock model needs the HOST metal's shocks"
   gold:
+    futures: {exchange: COMEX, symbol: GC, contract: "100 oz"}
     anchor_usd: 3000          # USD/troy oz (2024 avg ~$2,388; 2025e ~$3,300)
     unit: USD/troy oz
     fred_series: null

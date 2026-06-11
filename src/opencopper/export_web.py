@@ -308,6 +308,14 @@ def _commodity_sim_payload(n_paths: int = 1500) -> dict:
     return out
 
 
+def _signals_payload() -> dict:
+    from dataclasses import asdict
+
+    from .signals import DISCLAIMER, build_signals
+
+    return {"disclaimer": DISCLAIMER, "rows": [asdict(s) for s in build_signals(n_paths=800)]}
+
+
 def _regional_payload() -> dict:
     """Quarterly US premium paths per tariff-grid rate (the COMEX-LME arb)."""
     from .regional import run_regional
@@ -397,6 +405,7 @@ def build_payload(
         "simulation": _simulation_payload(mc_paths),
         "commoditySim": _commodity_sim_payload(),
         "regional": _regional_payload(),
+        "signals": _signals_payload(),
         "mines": [
             {
                 "name": m.name,
