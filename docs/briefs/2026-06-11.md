@@ -24,3 +24,17 @@ _16 corroborating headline(s):_
 - [OPEC+ approves fourth oil output quota hike since Hormuz closure - CNBC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNc19wZzhENmRSTVpwaU1fdDcxN0g2bGlpSWw1WF9uMV9DdWFuczIzQ1V6a0htSGZsQkQ0NXhUejFqLVpVM3pvYlVkM3pyMVg2ZnNvV3RzN1R4OXVzQ0xrZXQyc0o1WU9QRlFOMnl4Y0JVTFNFbTNzem9QR1Y3YThnYjZKZl9HaGZmdU1QX0d6TXlBemFNNnhGVzVWY1czX3hYQWd0cNIBqgFBVV95cUxQbHp2MFpIZ3JWaDhQbHFZcnN5MDZ1MXU1X1A3Tk5ES2tHdjV1bTQzWlNCUUR3WU5Bd2RtWnRLaFhjZG1YcUNwbV9pMzhvRklWNnVESWZXX0tfbnNyaDBWWmhHWk03VElvT2ZhQTlZc3hGMWZxajdRb09KLUlnOEJidW40Q0RKNDFlYXlQNGhfZTVCdVpjNTN0aVdBV2Q3T0ZyQ2JpTHBacm5EUQ?oc=5)
 - [OPEC cuts oil demand forecast again as Strait of Hormuz closure continues - Washington Examiner](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUJxNjMwUHJUSTY0VVZ1Z1NqWnR4NERzdFBzal80ZnlJd0ZSU215WFJHeU5aRzR4VGNFNTFxVml6OU9QbWVXdXdFazBHX2tod0EyS0dXYVVmeE5WSlFZRkg2WmFvbG1oS2NGNmN4SjFSN0ZPWFpLNXFEZUhtRGROdDJLMlhMUTllRTVQbEhPekk1cnk2VVUwZWx5dlNDUVJNWkVzSlJyQmhTdU9aU29JYkM0dlliWC1pZVdNelZoaW40VVE?oc=5)
 - …and 13 more
+
+## The Democratic Republic of Congo’s Cobalt Export Ban Spells Trouble For The World, Puts EV Battery Supply A - News18
+*Thu, 11 Jun 2026 17:44:18 GMT* — [source](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVJ5YzlGRnRVMFFHdXZhbXVyWE0yMGdaTVFWODQ4ZjdDVEJuaXdTSGRwQTdILW5xVHV4RzQ1dE5lOWdiY2ZwZW9SbUgwS0NrbWFoUjV3SENpX1dlWU9jSDdmS1hRS0VmNFVNaktiQWZldnM1TXJ2c2psTHM3c0hBSHBNQklrZXE2bjZHeEp2eVczNVFLN1FFaGRaSlJyWUdlcDlHUHNELTdFUmF3RmYyUXJEcVVWQ05JRWlpcFFrYmVrcjhSREpQLVJYVmNpcHFRME9MZ3hBT3lBc012RV9yR1dGMFhvS2w4Tm9BRW1aUEfSAfYBQVVfeXFMTzhuSkd2ZjJKem1mSUJ5RFhVbXcwWGpZVWxVbUVIMTU1c3VDbHdTZ1NYdU5TNVIwRE9pclVVM1g5NFhpRThyeHpfQTBjQ0NPSzRCQVFIR1hjRTVtU1gtdlFiUjlFNkFYMmhCVDFHMWJDSUZpckljN21kU0ZSMGtaV1JBazA3SF95YnhDQ3dweUpVSDhITU9uOUFCakFCVHFfVUZlbzFJaUl3X3N3NVV4anZJMmhQRFljMmgzR2tKSWhZTmUtU3c5Ml9IWjVLM0VkcEt2UkpSQXE4bTlMVzc1c2lQeWN0czYxam5lSDZ1OHp2YUhaNTJB?oc=5)
+Rule: cobalt / Congo (Kinshasa) / severity prior +40%
+
+```
+CROSS-COMMODITY RIPPLE — Congo (Kinshasa) cobalt -40% (prior)
+commodity    channel       via                          price Δ
+----------------------------------------------------------------
+cobalt       direct        Congo (Kinshasa)          ≥     +300%
+
+One first-order round through data/seed/linkages.yaml (byproduct /
+substitution / input-cost); couplings are disputable seed-estimates.
+```
