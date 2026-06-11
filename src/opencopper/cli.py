@@ -60,6 +60,21 @@ def _cmd_simulate(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_ripple(args):
+    from .linkages import render_ripple, ripple
+
+    rows = ripple(args.commodity, args.country, args.severity)
+    print(render_ripple(rows, f"{args.country or 'world'} {args.commodity} -{args.severity:.0%}"))
+    return 0
+
+
+def _cmd_news(args):
+    from .news import run_news
+
+    run_news()
+    return 0
+
+
 def _cmd_book(args):
     from .book import evaluate_book, load_book, render_book
     from .commodities import load_commodity_scenario
@@ -485,6 +500,15 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--scenario", default=None)
     p.add_argument("--target", choices=["balance", "price"], default="balance")
     p.set_defaults(func=_cmd_sensitivity)
+
+    p = sub.add_parser("ripple", help="cross-commodity propagation of a shock (byproduct/substitution/input-cost)")
+    p.add_argument("--commodity", required=True)
+    p.add_argument("--country", default=None)
+    p.add_argument("--severity", type=float, required=True)
+    p.set_defaults(func=_cmd_ripple)
+
+    p = sub.add_parser("news", help="fetch headlines, match rules, simulate impacts -> out/news-brief.md")
+    p.set_defaults(func=_cmd_news)
 
     p = sub.add_parser("book", help="value YOUR exposures under a scenario: P&L distribution (not advice)")
     p.add_argument("file", help="exposure book yaml (see examples/book.yaml)")

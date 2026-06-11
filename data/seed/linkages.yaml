@@ -1,0 +1,23 @@
+# Cross-commodity linkage graph — typed, parameterized, disputable.
+# Three physics: BYPRODUCT (a host-metal supply shock drags its byproduct),
+# SUBSTITUTION (one metal's price rise shifts demand to another),
+# INPUT_COST (an input's price passes through to an output's cost/price).
+# Couplings are first-order seed-estimates; propagation is one round
+# (no fixed-point iteration) and labeled as such.
+linkages:
+  - {type: byproduct, host: copper, host_country: "Congo (Kinshasa)", dependent: cobalt, coupling: 0.70,
+     note: "most cobalt rides DRC copper mines"}
+  - {type: byproduct, host: nickel, host_country: Indonesia, dependent: cobalt, coupling: 0.25,
+     note: "HPAL nickel co-produces cobalt"}
+  - {type: byproduct, host: zinc, host_country: null, dependent: silver, coupling: 0.30,
+     note: "lead-zinc mines are silver's largest host"}
+  - {type: byproduct, host: copper, host_country: null, dependent: silver, coupling: 0.20}
+  - {type: substitution, from: copper, to: aluminum, elasticity: 0.12,
+     note: "wiring/cable substitution at sustained copper premia"}
+  - {type: substitution, from: aluminum, to: copper, elasticity: 0.05}
+  - {type: input_cost, input: natural-gas, output: aluminum, passthrough: 0.20,
+     note: "smelting is electricity-intensive; gas sets marginal power cost ex-China"}
+  - {type: input_cost, input: crude-oil, output: wheat, passthrough: 0.10,
+     note: "diesel + fertilizer feedstock proxy"}
+  - {type: input_cost, input: natural-gas, output: wheat, passthrough: 0.08,
+     note: "ammonia/urea fertilizer"}

@@ -239,6 +239,54 @@ support with a hard boundary: the project never sizes, recommends, or executes
 trades, every output carries the not-advice disclaimer, and PREDICTIONS.md is
 the public scorecard that keeps the signals honest.
 
+## Cross-commodity linkages: shocks don't stop at one market
+
+`data/seed/linkages.yaml` is a small typed graph; `opencopper ripple` (and
+every news-driven event) propagates a shock through it in **one first-order
+round**:
+
+- **byproduct** — a host-commodity outage drags a dependent mined alongside
+  it. Cobalt rides DRC copper: coupling 0.70 means 70% of the copper cut
+  hits cobalt supply, scaled by the country's share of dependent output.
+  This is the channel the independent tiers structurally miss — a 50% DRC
+  copper outage is a ~17% copper move but a clamp-the-model cobalt squeeze.
+- **substitution** — a sustained price rise shifts demand to the substitute
+  (copper→aluminum 0.12: a +20% copper move adds ~2.4% to aluminum demand,
+  priced through the same CES incidence).
+- **input_cost** — pass-through from input price to output price
+  (natural-gas→aluminum 0.20 via smelting power; crude-oil/gas→wheat via
+  fuel and fertilizer).
+
+One round only, deliberately: second-round terms are smaller than the
+couplings' uncertainty, and iterating to a fixed point would imply precision
+the seed-estimates don't have. Couplings live in YAML next to their sources
+and are exactly as disputable as every other seed number.
+
+## News ingest: headlines drive the simulator, keyless and unattended
+
+`opencopper news` is the autonomy loop (`.github/workflows/daily-brief.yml`
+runs it every morning):
+
+1. **Fetch** Google News RSS searches (no API key) for a fixed feed list.
+2. **Filter** to the last 14 days — search RSS resurfaces months-old stories.
+3. **Match** against transparent keyword rules (`data/seed/news_rules.yaml`):
+   a rule fires when every term group matches (groups support `|`
+   alternation, plain substrings, never regex). Each rule maps to a country
+   supply event with a **prior severity** — Grasberg incident → Indonesia
+   copper −30%, Hormuz → Gulf crude −20%.
+4. **Simulate**: each distinct event is priced through incidence + linkages;
+   corroborating headlines group under one event instead of repeating it.
+5. **Publish**: a dated brief (`docs/briefs/`), machine-readable hits
+   (`data/news/`), and the Wire strip on the demo's Desk tab.
+
+The honesty contract: severities are **priors, not measurements** — the
+pipeline cannot read "force majeure, 35 kt for six weeks" out of prose
+without an LLM, and keeping the loop keyless and deterministic was the
+point. So the brief always prints the headline beside the simulated number,
+the rule that fired, and the prior it assumed; the human judges relevance.
+A rule that references a country the seeds don't know flags the headline
+rather than crashing the unattended run.
+
 ## Data layers and the provenance ladder
 
 Every quantity carries a `basis` tag and can only move up the ladder with

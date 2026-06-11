@@ -25,6 +25,7 @@ top_producers:
   - {country: Peru, production_kt: 2700, reserves_kt: 85000}
   - {country: China, production_kt: 1800, reserves_kt: 41000}
   - {country: Russia, production_kt: 1300, reserves_kt: 80000}
+  - {country: Indonesia, production_kt: 1100, reserves_kt: 24000}
   - {country: United States, production_kt: 1000, reserves_kt: 47000}
   - {country: Zambia, production_kt: 940, reserves_kt: 21000}
   - {country: Australia, production_kt: 730, reserves_kt: 100000}

@@ -1,0 +1,49 @@
+# The autonomy loop: every morning, fetch headlines, match rules, simulate
+# impacts, commit the receipts, and redeploy the live site — no human, no
+# LLM, no API key in the loop. (GITHUB_TOKEN pushes don't fire `on: push`
+# workflows, so the pages deploy is dispatched explicitly; a deploy with no
+# news changes still refreshes the live FRED prices baked into web/data.js.)
+name: daily-brief
+on:
+  schedule:
+    - cron: "20 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv sync
+      - name: run news pipeline
+        run: uv run opencopper news
+      - name: archive brief
+        run: |
+          mkdir -p docs/briefs
+          d=$(date -u +%F)
+          cp out/news-brief.md "docs/briefs/$d.md"
+          cp out/news-brief.md docs/briefs/latest.md
+      - name: commit receipts if changed
+        run: |
+          git config user.name "opencopper-daily"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news docs/briefs
+          if git diff --cached --quiet; then
+            echo "no new rule-matched news"
+          else
+            git commit -m "daily brief: $(date -u +%F)"
+            git push
+          fi
+      - name: redeploy site (fresh prices + news payload)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main

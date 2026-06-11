@@ -335,6 +335,39 @@ def _regional_payload() -> dict:
     return {"rates": TARIFF_RATES, "runs": runs}
 
 
+def _news_payload(news_dir: Path = Path("data/news")) -> dict:
+    """Latest rule-matched headlines + their simulated cross-commodity
+    impacts. Empty when the news pipeline has not run (the daily Action
+    runs `opencopper news` before exporting)."""
+    from dataclasses import asdict as _asdict
+
+    from .linkages import ripple
+
+    files = sorted(news_dir.glob("hits-*.json"))
+    if not files:
+        return {"date": None, "events": []}
+    latest = files[-1]
+    hits = json.loads(latest.read_text())
+    groups: dict[tuple, list[dict]] = {}
+    for h in hits:
+        groups.setdefault((h["commodity"], h["country"], h["severity"]), []).append(h)
+    events = []
+    for (commodity, country, severity), hs in groups.items():
+        impacts = []
+        if severity > 0:
+            try:
+                impacts = [_asdict(r) for r in ripple(commodity, country, severity)]
+            except Exception:
+                impacts = []
+        events.append({
+            "commodity": commodity, "country": country, "severity": severity,
+            "note": hs[0].get("rule_note", ""), "headline": hs[0]["headline"],
+            "link": hs[0]["link"], "published": hs[0]["published"],
+            "corroborating": len(hs) - 1, "impacts": impacts,
+        })
+    return {"date": latest.stem.replace("hits-", ""), "events": events}
+
+
 def build_payload(
     minmod_cache: Path = MINMOD_CACHE,
     fetch_live_prices: bool = True,
@@ -406,6 +439,7 @@ def build_payload(
         "commoditySim": _commodity_sim_payload(),
         "regional": _regional_payload(),
         "signals": _signals_payload(),
+        "news": _news_payload(),
         "mines": [
             {
                 "name": m.name,

@@ -155,6 +155,30 @@ closed-form spike odds (P ≥ 2× anchor) against each commodity's realized
 ambient volatility. The World Simulator has both modes: shock a **country's
 supply** or shock a **demand driver**.
 
+### Linkages + the news loop: it runs without anyone
+
+```bash
+uv run opencopper ripple --commodity copper --country "Congo (Kinshasa)" --severity 0.5
+uv run opencopper news        # fetch headlines -> match rules -> simulate -> out/news-brief.md
+```
+
+**Shocks don't stop at one market.** A typed linkage graph
+([`data/seed/linkages.yaml`](data/seed/linkages.yaml)) propagates each shock
+one first-order round: **byproduct** (a 50% DRC copper outage is a +17%
+copper move but a clamp-the-model **cobalt** squeeze, because cobalt rides
+copper mines), **substitution** (copper up → aluminum demand up), and
+**input-cost** (gas → aluminum smelting power, oil/gas → wheat fuel and
+fertilizer).
+
+**Headlines drive the simulator — keyless, no LLM in the loop.** A daily
+GitHub Action ([`daily-brief.yml`](.github/workflows/daily-brief.yml))
+fetches Google News RSS, matches transparent keyword rules
+([`data/seed/news_rules.yaml`](data/seed/news_rules.yaml)) to country supply
+events with **prior** severities, prices the ripple, commits a dated brief
+to [`docs/briefs/`](docs/briefs/), and redeploys the live site (Desk tab →
+Wire). The headline is always printed beside the simulated number so a human
+judges relevance; the rules and priors are YAML anyone can dispute.
+
 ### The world model: history, simulation, calibration
 
 ```bash

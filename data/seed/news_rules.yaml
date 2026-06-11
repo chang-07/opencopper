@@ -1,0 +1,24 @@
+# News -> event mapping rules. Keyless and deterministic: a headline matches a
+# rule when ALL terms in one of its `match` groups appear (case-insensitive,
+# | = alternation within a term). Severities are PRIORS for a flagged
+# headline, not measurements — the brief shows the headline next to the
+# simulated impact so a human judges relevance. Feeds: Google News RSS
+# queries (no key required).
+feeds:
+  - "copper mine strike OR closure OR force majeure"
+  - "OPEC production cut OR strait of hormuz"
+  - "cobalt OR nickel export ban OR quota"
+  - "wheat export black sea"
+rules:
+  - {match: ["grasberg"], commodity: copper, country: Indonesia, severity: 0.30, note: "Grasberg incident"}
+  - {match: ["escondida", "strike|halt|stoppage"], commodity: copper, country: Chile, severity: 0.10}
+  - {match: ["cobre panama|cobre panamá", "restart|reopen|approval"], commodity: copper, country: Panama, severity: -0.10, note: "restart = supply ADD"}
+  - {match: ["chile", "earthquake|strike", "copper|mine"], commodity: copper, country: Chile, severity: 0.10}
+  - {match: ["congo|drc", "cobalt", "ban|quota|suspend"], commodity: cobalt, country: "Congo (Kinshasa)", severity: 0.40}
+  - {match: ["indonesia", "nickel", "ban|quota|rkab|restrict"], commodity: nickel, country: Indonesia, severity: 0.25}
+  - {match: ["china", "rare earth|rare-earth", "export|control|restrict"], commodity: rare-earths, country: China, severity: 0.25}
+  - {match: ["hormuz|strait of hormuz"], commodity: crude-oil, country: Saudi Arabia, severity: 0.20, note: "transit proxy on Gulf supply"}
+  - {match: ["opec", "cut|cuts|curb"], commodity: crude-oil, country: Saudi Arabia, severity: 0.08}
+  - {match: ["russia|ukraine", "wheat|grain", "export|blockade|strike"], commodity: wheat, country: Russia, severity: 0.15}
+  - {match: ["myanmar|wa state", "tin"], commodity: tin, country: "Burma (Myanmar)", severity: 0.30}
+max_age_days: 14
