@@ -498,8 +498,17 @@ const VIEWS = {
           `<p style="color:var(--muted)">No priced commodities affected (gold is excluded from shock pricing).</p>`;
       };
 
+      const writeHash = severityRaw => {
+        const target = mode === 'country'
+          ? document.getElementById('sim-country').value
+          : document.getElementById('sim-driver').value;
+        const dir = mode === 'driver' ? ',' + (direction > 0 ? 'up' : 'down') : '';
+        history.replaceState(null, '', `#sim=${mode},${encodeURIComponent(target)},${severityRaw}${dir}`);
+      };
+
       const update = () => {
         const severityRaw = sevVals[+document.getElementById('sim-sev').value];
+        writeHash(severityRaw);
         document.getElementById('ctl-country').style.display = mode === 'country' ? '' : 'none';
         document.getElementById('ctl-driver').style.display = mode === 'driver' ? '' : 'none';
         if (mode === 'country') {
@@ -557,6 +566,27 @@ const VIEWS = {
       document.getElementById('sim-sev').oninput = update;
       document.getElementById('sim-dep').onchange = update;
       document.getElementById('sim-country').value = 'Congo (Kinshasa)';
+
+      // shareable state: read #sim=mode,target,severity[,dir] on load
+      // (update() writes it back on every interaction, including map clicks)
+      const hash = new URLSearchParams(location.hash.slice(1)).get('sim');
+      if (hash) {
+        const parts = hash.split(',');
+        if (parts[0] === 'driver' && parts.length >= 3) {
+          mode = 'driver';
+          document.getElementById('sim-driver').value = decodeURIComponent(parts[1]);
+          direction = parts[3] === 'up' ? 1 : -1;
+          const idx = sevVals.indexOf(+parts[2]);
+          if (idx >= 0) document.getElementById('sim-sev').value = idx;
+          document.getElementById('mode-driver').classList.add('active');
+          document.getElementById('mode-country').classList.remove('active');
+        } else if (parts[0] === 'country' && parts.length >= 3) {
+          const name = decodeURIComponent(parts[1]);
+          if (countries.some(c => c.country === name)) document.getElementById('sim-country').value = name;
+          const idx = sevVals.indexOf(+parts[2]);
+          if (idx >= 0) document.getElementById('sim-sev').value = idx;
+        }
+      }
       update();
     },
   },
