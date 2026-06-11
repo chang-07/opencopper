@@ -26,3 +26,9 @@ top_producers:
 notes: "Supply is geographically diversified (top producer is only ~12%) — gold's risk is monetary, not geological. Uses: jewelry 40%, bars 24%, central banks 21%."
 price_note: "Record $3,300/oz average estimated for 2025, +38% yoy"
 caveats: "A supply-shock model is the WRONG model for gold (price is set by monetary demand against a 200,000+ t above-ground stock, not annual flow) — included for completeness, modeled with humility."
+# Demand-driver exposures (share of demand per global driver; coarse
+# seed-estimates from the USGS uses notes — monetary/jewelry dominant).
+drivers:
+  jewelry_investment: 0.85
+  electronics: 0.08
+  other: 0.07

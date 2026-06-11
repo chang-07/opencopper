@@ -63,9 +63,45 @@ def test_country_shock_math():
 
 @pytest.mark.parametrize("path", sorted(COMMODITY_SCENARIO_DIR.glob("*.yaml")), ids=lambda p: p.stem)
 def test_shipped_commodity_scenarios_load_and_bite(path):
+    from opencopper.commodities import DriverScenario, run_driver_scenario
+
     scenario = load_commodity_scenario(path)
+    if isinstance(scenario, DriverScenario):
+        rows = run_driver_scenario(scenario)
+        assert len(rows) >= 3, "a systemic driver shock must touch several commodities"
+        assert all(r["demand_change_pct"] != 0 for r in rows)
+        # shipped driver scenarios are demand contractions -> prices fall, never below -100%
+        priced = [r for r in rows if r["price_change_pct"] is not None]
+        assert all(-100 < r["price_change_pct"] < 0 for r in priced)
+        return
     seed = load_commodity(scenario.commodity)
     run = run_commodity(seed, scenario)
     shock_years = [r for r in run.rows if r.supply_lost_kt > 0]
     assert shock_years, "scenario must actually remove supply"
     assert all(r.drift_kt < 0 for r in shock_years)
+
+
+def test_driver_scenario_compiles_through_exposures():
+    from opencopper.commodities import DriverEvent, DriverScenario, compile_driver_scenario
+
+    ds = DriverScenario(
+        name="x", events=[DriverEvent(driver="batteries", pct=-25, start_year=2026, end_year=2026)]
+    )
+    lithium = compile_driver_scenario(ds, load_commodity("lithium"))
+    assert len(lithium.events) == 1
+    assert lithium.events[0].pct == pytest.approx(-25 * 0.88)  # exposure-weighted
+    # a commodity with no battery exposure compiles to nothing
+    iron = compile_driver_scenario(ds, load_commodity("iron-ore"))
+    assert iron.events == []
+
+
+def test_hindcast_produces_bracketing_columns():
+    from opencopper.calibrate import hindcast_copper
+
+    rows = hindcast_copper()
+    if not rows:
+        pytest.skip("no FRED cache")
+    for r in rows:
+        assert r["realized"] > 0
+        assert r["scenario_implied"] >= r["baseline_implied"] - 1  # events never loosen the market
+        assert isinstance(r["bracketed"], bool)

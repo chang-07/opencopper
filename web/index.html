@@ -65,6 +65,7 @@
   .sim-share { color: var(--muted); font-size: 12px; margin-left: auto; }
   .sim-impact { font-size: 26px; font-weight: bold; color: var(--copper-hot); margin: 4px 0 2px; }
   .sim-impact.hot { color: var(--red); }
+  .sim-impact.cold { color: #5b8fb9; }
   .sim-band { font-size: 13px; color: var(--muted); font-weight: normal; }
   .sim-price { font-size: 12.5px; color: var(--text); }
   .sim-unit { color: var(--muted); }
@@ -327,17 +328,47 @@ const VIEWS = {
       document.getElementById('chart').style.height = '440px';  // natural-earth fills a shorter frame
       host.title.textContent = 'World simulator — shock a producer, predict the ripple';
       const sevVals = [10, 20, 30, 40, 50, 60, 75, 90];
-      host.controls.innerHTML = `<label>shock</label>
-        <select id="sim-country">` +
-        countries.map(c => `<option>${c.country}</option>`).join('') + `</select>
+      const driverSet = [...new Set((D.commodities || []).flatMap(c => Object.keys(c.drivers || {})))]
+        .filter(d => d !== 'other').sort();
+      host.controls.innerHTML = `
+        <div class="toggle"><button id="mode-country" class="active">SUPPLY · COUNTRY</button><button id="mode-driver">DEMAND · DRIVER</button></div>
+        <span id="ctl-country"><label>shock</label>
+          <select id="sim-country">` +
+        countries.map(c => `<option>${c.country}</option>`).join('') + `</select></span>
+        <span id="ctl-driver" style="display:none"><label>driver</label>
+          <select id="sim-driver">` +
+        driverSet.map(d => `<option ${d === 'batteries' ? 'selected' : ''}>${d}</option>`).join('') + `</select>
+          <div class="toggle"><button id="dir-down" class="active">FALLS</button><button id="dir-up">SURGES</button></div></span>
         <label>by</label>
         <input type="range" id="sim-sev" min="0" max="${sevVals.length - 1}" value="4" step="1">
         <span class="value" id="sim-sevval"></span>
-        <span style="color:var(--muted);font-size:13px">of its supply — click the map or pick a country</span>
         <select id="sim-dep"><option value="">deposit overlay: off</option>` +
         Object.keys(D.deposits || {}).map(c => `<option value="${c}">deposits: ${c}</option>`).join('') +
         `</select>`;
+      let mode = 'country', direction = -1;
       host.table.innerHTML = `<div id="sim-cards"></div>`;
+
+      const erf = x => {
+        const s = Math.sign(x); x = Math.abs(x);
+        const t = 1 / (1 + 0.3275911 * x);
+        const y = 1 - (((((1.061405429 * t - 1.453152027) * t) + 1.421413741) * t - 0.284496736) * t + 0.254829592) * t * Math.exp(-x * x);
+        return s * y;
+      };
+      const probMultiple = (shock, vol, m) => {
+        const z = (Math.log(m) - Math.log(Math.max(1e-6, 1 + shock))) / Math.max(vol, 1e-6);
+        const phi = 0.5 * (1 + erf(z / Math.SQRT2));
+        return m >= 1 ? 1 - phi : phi;
+      };
+
+      // Exact constant-elasticity incidence (clamped): the linear k/(ηd+ηs) is
+      // this curve's tangent at zero and goes nonsense (< -100%) on big shocks.
+      const CLAMP = [0.25, 4.0];
+      const cesMultiple = (qFactor, denom, invert) => {
+        if (denom <= 0) return {m: 1, clamped: false};
+        const m = Math.exp(((invert ? -1 : 1) / denom) * Math.log(Math.max(1e-6, qFactor)));
+        const clamped = m < CLAMP[0] || m > CLAMP[1];
+        return {m: Math.min(Math.max(m, CLAMP[0]), CLAMP[1]), clamped};
+      };
 
       const incidence = (country, severity) => {
         const c = countries.find(x => x.country === country);
@@ -348,18 +379,47 @@ const VIEWS = {
           if (!px || px.excluded) continue;
           const loss = info.share * severity;
           const denom = px.elasticity_demand + px.elasticity_supply;
-          const mid = loss / denom;
+          const mid = cesMultiple(1 - loss, denom, true);
+          const lo = cesMultiple(1 - loss, denom * 1.25, true);
+          const hi = cesMultiple(1 - loss, denom * 0.75, true);
           out.push({
-            commodity: name, share: info.share, loss,
-            pct: mid * 100,
-            lo: (loss / (denom * 1.25)) * 100,
-            hi: (loss / (denom * 0.75)) * 100,
+            commodity: name, shareLine: `${country} = ${(info.share * 100).toFixed(0)}% of world supply`,
+            detail: `${(loss * 100).toFixed(1)}% of world supply withdrawn`,
+            pct: (mid.m - 1) * 100, clamped: mid.clamped,
+            lo: (lo.m - 1) * 100, hi: (hi.m - 1) * 100,
             anchor: px.anchor_usd, unit: px.unit,
-            implied: px.anchor_usd * (1 + mid),
+            implied: px.anchor_usd * mid.m,
             regime: (D.history[name] || {}).regime_now,
+            vol: px.vol || 0.3,
           });
         }
         return out.sort((a, b) => b.pct - a.pct);
+      };
+
+      const driverIncidence = (driver, pct) => {
+        const out = [];
+        for (const c of (D.commodities || [])) {
+          const exposure = (c.drivers || {})[driver] || 0;
+          if (exposure < 0.01) continue;
+          const px = (D.prices.commodities || {})[c.name];
+          if (!px || px.excluded) continue;
+          const demandChange = exposure * pct;          // fraction
+          const denom = px.elasticity_demand + px.elasticity_supply;
+          const mid = cesMultiple(1 + demandChange, denom, false);
+          const lo = cesMultiple(1 + demandChange, denom * 1.25, false);
+          const hi = cesMultiple(1 + demandChange, denom * 0.75, false);
+          out.push({
+            commodity: c.name, shareLine: `${(exposure * 100).toFixed(0)}% of demand is ${driver}`,
+            detail: `demand ${demandChange >= 0 ? '+' : ''}${(demandChange * 100).toFixed(1)}%`,
+            pct: (mid.m - 1) * 100, clamped: mid.clamped,
+            lo: (lo.m - 1) * 100, hi: (hi.m - 1) * 100,
+            anchor: px.anchor_usd, unit: px.unit,
+            implied: px.anchor_usd * mid.m,
+            regime: (D.history[c.name] || {}).regime_now,
+            vol: px.vol || 0.3,
+          });
+        }
+        return out.sort((a, b) => Math.abs(b.pct) - Math.abs(a.pct));
       };
 
       const regimeBadge = r => r ? `<span class="pill" style="border-color:${
@@ -415,35 +475,85 @@ const VIEWS = {
         });
       };
 
-      const update = () => {
-        const country = document.getElementById('sim-country').value;
-        const severity = sevVals[+document.getElementById('sim-sev').value] / 100;
-        document.getElementById('sim-sevval').textContent = (severity * 100).toFixed(0) + '%';
-        host.sub.textContent = `Bubbles = producer countries, sized & colored by criticality (Σ share² across commodities — red = dominant). ` +
-          `Shocking ${country} by ${(severity*100).toFixed(0)}% of its supply; predicted price moves use short-run elasticity-incidence (illustrative).`;
-        drawMap(country);
-        const rows = incidence(country, severity);
-        const c = countries.find(x => x.country === country);
-        document.getElementById('stats').innerHTML = [
-          ['country', country, ''],
-          ['criticality rank', `#${countries.indexOf(c) + 1} of ${countries.length}`, c.criticality > 0.4 ? 'neg' : ''],
-          ['commodities produced', `${Object.keys(c.commodities).length}`, ''],
-          ['top price impact', rows.length ? `+${rows[0].pct.toFixed(0)}%` : '—', rows.length && rows[0].pct > 30 ? 'neg' : ''],
-        ].map(([k, v, cls]) => `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
-
-        document.getElementById('sim-cards').innerHTML = rows.length ? rows.map(r => `
+      const renderCards = rows => {
+        document.getElementById('sim-cards').innerHTML = rows.length ? rows.map(r => {
+          const up = r.pct >= 0;
+          const probLabel = up
+            ? `P(≥2× anchor) ${(probMultiple(r.pct / 100, r.vol, 2) * 100).toFixed(0)}%`
+            : `P(≤½ anchor) ${(probMultiple(r.pct / 100, r.vol, 0.5) * 100).toFixed(0)}%`;
+          const band = `(${Math.min(r.lo, r.hi).toFixed(0)} to ${Math.max(r.lo, r.hi).toFixed(0)}%)`;
+          const bound = r.clamped ? (up ? '≥' : '≤') : '';
+          return `
           <div class="sim-card">
             <div class="sim-head"><b>${r.commodity}</b> ${regimeBadge(r.regime)}
-              <span class="sim-share">${country} = ${(r.share*100).toFixed(0)}% of world supply</span></div>
-            <div class="sim-impact ${r.pct > 30 ? 'hot' : ''}">+${r.pct.toFixed(0)}%
-              <span class="sim-band">(${r.lo.toFixed(0)}–${r.hi.toFixed(0)}%)</span></div>
+              <span class="sim-share">${r.shareLine}</span></div>
+            <div class="sim-impact ${r.pct > 30 ? 'hot' : ''} ${!up ? 'cold' : ''}">${bound}${up ? '+' : ''}${r.pct.toFixed(0)}%
+              <span class="sim-band">${r.clamped ? 'model range cap' : band}</span></div>
             <div class="sim-price">$${fmt(r.anchor)} → $${fmt(Math.round(r.implied))} <span class="sim-unit">${r.unit}</span>
-              &nbsp;·&nbsp; ${(r.loss*100).toFixed(1)}% of world supply withdrawn</div>
-          </div>`).join('') :
-          `<p style="color:var(--muted)">No priced commodities for this country (or it only produces gold, which is excluded from shock pricing).</p>`;
+              &nbsp;·&nbsp; ${r.detail}</div>
+            <div class="sim-price"><span class="pill">${probLabel}</span>
+              <span class="sim-unit">ambient vol ±${(r.vol * 100).toFixed(0)}%/yr</span></div>
+          </div>`;
+        }).join('') :
+          `<p style="color:var(--muted)">No priced commodities affected (gold is excluded from shock pricing).</p>`;
       };
 
+      const update = () => {
+        const severityRaw = sevVals[+document.getElementById('sim-sev').value];
+        document.getElementById('ctl-country').style.display = mode === 'country' ? '' : 'none';
+        document.getElementById('ctl-driver').style.display = mode === 'driver' ? '' : 'none';
+        if (mode === 'country') {
+          const country = document.getElementById('sim-country').value;
+          const severity = severityRaw / 100;
+          document.getElementById('sim-sevval').textContent = severityRaw + '%';
+          host.sub.textContent = `Bubbles = producer countries, sized & colored by criticality (Σ share² across commodities — red = dominant). ` +
+            `Shocking ${country}'s supply by ${severityRaw}%; predicted moves use short-run elasticity-incidence (illustrative), with closed-form spike odds against each commodity's ambient volatility.`;
+          drawMap(country);
+          const rows = incidence(country, severity);
+          const c = countries.find(x => x.country === country);
+          document.getElementById('stats').innerHTML = [
+            ['country', country, ''],
+            ['criticality rank', `#${countries.indexOf(c) + 1} of ${countries.length}`, c.criticality > 0.4 ? 'neg' : ''],
+            ['commodities produced', `${Object.keys(c.commodities).length}`, ''],
+            ['top price impact', rows.length ? `+${rows[0].pct.toFixed(0)}%` : '—', rows.length && rows[0].pct > 30 ? 'neg' : ''],
+          ].map(([k, v, cls]) => `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
+          renderCards(rows);
+        } else {
+          const driver = document.getElementById('sim-driver').value;
+          const pct = direction * severityRaw / 100;
+          document.getElementById('sim-sevval').textContent = (direction > 0 ? '+' : '−') + severityRaw + '%';
+          host.sub.textContent = `Demand-driver mode: ${driver} demand ${direction > 0 ? 'surges' : 'falls'} ${severityRaw}%. ` +
+            `One systemic shock ripples through every exposed commodity via the driver-exposure shares — cross-commodity correlation through shared demand, not hand-wired pairs.`;
+          drawMap(null);
+          const rows = driverIncidence(driver, pct);
+          const biggest = rows[0];
+          document.getElementById('stats').innerHTML = [
+            ['driver', driver, ''],
+            ['commodities exposed', `${rows.length}`, ''],
+            ['biggest price move', biggest ? `${biggest.pct >= 0 ? '+' : ''}${biggest.pct.toFixed(0)}%` : '—',
+             biggest && Math.abs(biggest.pct) > 25 ? 'neg' : ''],
+            ['most exposed', biggest ? biggest.commodity : '—', ''],
+          ].map(([k, v, cls]) => `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
+          renderCards(rows);
+        }
+      };
+
+      const setMode = m => {
+        mode = m;
+        document.getElementById('mode-country').classList.toggle('active', m === 'country');
+        document.getElementById('mode-driver').classList.toggle('active', m === 'driver');
+        update();
+      };
+      document.getElementById('mode-country').onclick = () => setMode('country');
+      document.getElementById('mode-driver').onclick = () => setMode('driver');
+      document.getElementById('dir-down').onclick = () => { direction = -1;
+        document.getElementById('dir-down').classList.add('active');
+        document.getElementById('dir-up').classList.remove('active'); update(); };
+      document.getElementById('dir-up').onclick = () => { direction = 1;
+        document.getElementById('dir-up').classList.add('active');
+        document.getElementById('dir-down').classList.remove('active'); update(); };
       document.getElementById('sim-country').onchange = update;
+      document.getElementById('sim-driver').onchange = update;
       document.getElementById('sim-sev').oninput = update;
       document.getElementById('sim-dep').onchange = update;
       document.getElementById('sim-country').value = 'Congo (Kinshasa)';

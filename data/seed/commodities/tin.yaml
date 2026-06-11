@@ -26,3 +26,10 @@ top_producers:
 notes: "Myanmar output nearly halved 2024->2025 (20 -> 12 kt, Wa State suspension aftermath); Bolivia fell 21 -> 15 kt. US: no mining since 1993, no smelting since 1989, 77% import-reliant; first new US smelter under construction (VA, late 2026)."
 price_note: "LME cash ~1,500 c/lb 2025e (+10% yoy)"
 caveats: "Artisanal/conflict-adjacent supply (Myanmar, DRC) makes estimates softer than other commodities."
+# Demand-driver exposures (share of demand per global driver; coarse
+# seed-estimates from the USGS uses notes — solder ~50%).
+drivers:
+  electronics: 0.5
+  construction: 0.1
+  industrial: 0.1
+  other: 0.3

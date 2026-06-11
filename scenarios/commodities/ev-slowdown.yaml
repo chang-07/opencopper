@@ -1,0 +1,12 @@
+# SYSTEMIC DEMAND SHOCK: the EV transition stalls for two years — battery
+# demand falls 25%, broader transport demand falls 10%. One shock propagates
+# to every exposed commodity through the driver-exposure shares: lithium takes
+# -22% demand (0.88 battery exposure), cobalt -11%, nickel -4%, copper -2%,
+# rare earths -3%. Precedent: the 2023-24 EV deceleration crushed lithium ~80%
+# from peak — demand shocks to concentrated-exposure commodities are violent.
+name: ev-slowdown
+type: driver
+description: "EV transition stalls 2026-27: battery demand -25%, transport -10%"
+events:
+  - {driver: batteries, pct: -25, start_year: 2026, end_year: 2027}
+  - {driver: transport, pct: -10, start_year: 2026, end_year: 2027}

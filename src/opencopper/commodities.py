@@ -72,9 +72,20 @@ class CommoditySeed(BaseModel):
     world: WorldSupply
     demand: CommodityDemand
     top_producers: list[Producer]
+    drivers: dict[str, float] = Field(default_factory=dict)  # demand share per global driver
     notes: str = ""
     price_note: str = ""
     caveats: str = ""
+
+    @property
+    def driver_exposure(self) -> dict[str, float]:
+        return self.drivers
+
+    def model_post_init(self, __context) -> None:
+        if self.drivers:
+            total = sum(self.drivers.values())
+            if abs(total - 1.0) > 0.02:
+                raise ValueError(f"{self.name}: driver shares sum to {total:.3f}")
 
     def share(self, country: str) -> float:
         world = self.world.production_kt[self.world.latest_year]
@@ -149,8 +160,117 @@ class CommodityScenario(BaseModel):
     events: list[CommodityEvent] = Field(default_factory=list)
 
 
-def load_commodity_scenario(path: Path) -> CommodityScenario:
-    return CommodityScenario(**yaml.safe_load(path.read_text()))
+# ------------------------------------------------------- demand drivers
+
+# A driver shock is SYSTEMIC: it hits every commodity through its exposure
+# share, which is how an EV slowdown reaches lithium, cobalt, nickel, copper
+# and rare earths at once — cross-commodity correlation through shared demand,
+# not through hand-wired pairwise links.
+
+
+class DriverEvent(BaseModel):
+    driver: str
+    pct: float  # change in THAT driver's demand (e.g. -25 = batteries fall 25%)
+    start_year: int
+    end_year: int
+
+
+class DriverScenario(BaseModel):
+    name: str
+    type: str = "driver"
+    description: str = ""
+    events: list[DriverEvent] = Field(default_factory=list)
+
+
+def load_commodity_scenario(path: Path) -> CommodityScenario | DriverScenario:
+    raw = yaml.safe_load(path.read_text())
+    if raw.get("type") == "driver":
+        return DriverScenario(**raw)
+    return CommodityScenario(**raw)
+
+
+def compile_driver_scenario(ds: DriverScenario, seed: CommoditySeed) -> CommodityScenario:
+    """A driver scenario compiles to per-commodity demand shocks: each event
+    moves this commodity's demand by (exposure share x driver pct)."""
+    events: list[CommodityEvent] = []
+    for e in ds.events:
+        exposure = seed.drivers.get(e.driver, 0.0)
+        if exposure <= 0:
+            continue
+        events.append(
+            GlobalDemandShock(
+                pct=exposure * e.pct,
+                start_year=e.start_year,
+                end_year=e.end_year,
+                note=f"{e.driver} {e.pct:+.0f}% x exposure {exposure:.0%}",
+            )
+        )
+    return CommodityScenario(name=ds.name, commodity=seed.name, events=events)
+
+
+def run_driver_scenario(ds: DriverScenario, years: range = range(2025, 2031)) -> list[dict]:
+    """Run a driver scenario across every commodity with exposure. Returns one
+    row per affected commodity with peak demand change and the incidence-implied
+    price move (negative demand -> price falls)."""
+    from .pricing import load_pricebook
+
+    book = load_pricebook()
+    rows = []
+    for name in list_commodity_names():
+        seed = load_commodity(name)
+        compiled = compile_driver_scenario(ds, seed)
+        if not compiled.events:
+            continue
+        run = run_commodity(seed, compiled, years)
+        # peak combined demand multiplier across years
+        peak_mult = 1.0
+        for y in years:
+            mult = 1.0
+            for e in compiled.events:
+                mult *= e.multiplier(y)
+            if abs(mult - 1) > abs(peak_mult - 1):
+                peak_mult = mult
+        demand_change = peak_mult - 1.0
+        price = book.commodities.get(name)
+        price_pct = None
+        clamped = False
+        if price and not price.excluded_from_shock_pricing:
+            from .pricing import price_impact_from_demand
+
+            impact = price_impact_from_demand(price, demand_change)
+            price_pct, clamped = impact.price_change_pct, impact.clamped
+        rows.append(
+            {
+                "commodity": name,
+                "demand_change_pct": round(100 * demand_change, 1),
+                "price_change_pct": price_pct,
+                "clamped": clamped,
+                "run": run,
+            }
+        )
+    rows.sort(key=lambda r: abs(r["demand_change_pct"]), reverse=True)
+    return rows
+
+
+def render_driver_report(ds: DriverScenario, rows: list[dict]) -> str:
+    lines = [
+        f"DRIVER SCENARIO — {ds.name}: {ds.description}",
+        "",
+        f"{'commodity':<13}{'demand Δ':>10}{'price Δ (incidence)':>21}",
+        "-" * 44,
+    ]
+    for r in rows:
+        if r["price_change_pct"] is None:
+            price = "excluded"
+        else:
+            bound = "≥" if r["price_change_pct"] > 0 else "≤"
+            price = f"{bound}{r['price_change_pct']:+.0f}% (clamped)" if r["clamped"] else f"{r['price_change_pct']:+.0f}%"
+        lines.append(f"{r['commodity']:<13}{r['demand_change_pct']:>+9.1f}%{price:>21}")
+    lines.append(
+        "\nOne shock, many markets: propagation runs through shared demand-driver"
+        "\nexposures (data/seed/commodities/*.yaml), not hand-wired pairs."
+    )
+    return "\n".join(lines)
 
 
 # ---------------------------------------------------------------- model

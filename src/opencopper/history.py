@@ -143,6 +143,19 @@ def load_price_history(commodity: str) -> Optional[PriceHistory]:
     )
 
 
+# Ambient annual volatility when a commodity has no price series: a documented
+# round default near the middle of the observed metals range (17-28%).
+DEFAULT_AMBIENT_VOL = 0.30
+
+
+def ambient_volatility(commodity: str) -> tuple[float, str]:
+    """Realized annual vol from history, or the documented default."""
+    h = load_price_history(commodity)
+    if h:
+        return h.annual_volatility, f"realized {h.start[:4]}-{h.end[:4]} ({h.series})"
+    return DEFAULT_AMBIENT_VOL, "no price series; documented default"
+
+
 def render_history(h: PriceHistory) -> str:
     lines = [
         f"{h.commodity.upper()} price history — {h.series} ({h.start[:7]} → {h.end[:7]}, "

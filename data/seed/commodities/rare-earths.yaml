@@ -26,3 +26,11 @@ top_producers:
 notes: "China ~69% of mine production and dominant in processing (71% of US compound imports 2021-24). LIVE POLICY EVENTS: April 2025 export controls (Sm/Gd/Tb/Dy/Lu/Sc/Y), expanded Oct 2025, partially suspended Nov 2025 — scenarios/commodities models the controls. Burma/Thailand output estimated from Chinese import data."
 price_note: "NdPr oxide $69/kg (2025) vs $55 (2024); La/Ce remain ~$1-2/kg — the basket is NOT homogeneous"
 caveats: "REO-equivalent aggregates wildly different elements; magnet REEs (NdPr, Dy, Tb) carry the value. Mine production != separated supply; the processing bottleneck is the real chokepoint."
+# Demand-driver exposures (share of demand per global driver; coarse
+# seed-estimates from the USGS uses notes — EV/wind magnets -> transport+grid; NdPr carries value).
+drivers:
+  transport: 0.3
+  electronics: 0.2
+  grid: 0.15
+  industrial: 0.2
+  other: 0.15

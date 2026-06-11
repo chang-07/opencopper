@@ -26,3 +26,10 @@ top_producers:
 notes: "DRC is ~74% of world mine supply and HALF of world reserves. LIVE POLICY EVENT: DRC banned cobalt exports Feb 2025, replaced Oct 2025 by quotas — 18.125 kt for rest-2025, up to 96.6 kt/yr for 2026-27 vs 230 kt of production. The quota IS the market now; scenarios/commodities models it."
 price_note: "US spot cathode $21/lb (2025) vs $16.77 (2024); LME $15/lb vs $11.84"
 caveats: "2025 values are USGS estimates; ~25,000 kt terrestrial resources plus seafloor nodules. Australia reserves footnote: JORC-equivalent only 680 kt of the 1,700 kt."
+# Demand-driver exposures (share of demand per global driver; coarse
+# seed-estimates from the USGS uses notes — Li-ion leading use; superalloys -> aerospace).
+drivers:
+  batteries: 0.45
+  aerospace: 0.17
+  industrial: 0.15
+  other: 0.23

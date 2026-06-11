@@ -26,3 +26,11 @@ top_producers:
 notes: "SMELTER production (energy is the real input; this is an electricity market wearing a metals costume). China ~61% of world primary output. US Section 232 aluminum tariff went 25% -> 50% during 2025."
 price_note: "US spot ingot ~180 c/lb 2025e, +39% yoy — tariff-inflated vs LME"
 caveats: "Smelter basis, not mine; bauxite/alumina chain not modeled here. World smelter capacity 79,700 kt (2025e) implies ~93% utilization."
+# Demand-driver exposures (share of demand per global driver; coarse
+# seed-estimates from the USGS uses notes — packaging folded into other).
+drivers:
+  transport: 0.27
+  construction: 0.24
+  grid: 0.12
+  industrial: 0.1
+  other: 0.27

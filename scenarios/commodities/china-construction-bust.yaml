@@ -1,0 +1,10 @@
+# SYSTEMIC DEMAND SHOCK: a deep construction downturn (China property-style)
+# cuts global construction demand 12% for two years. Iron ore takes the
+# biggest hit (-6% demand via 0.50 exposure), then zinc (-5.4%), copper
+# (-3.2%), aluminum (-2.9%), nickel (-4%). The same event that left iron ore
+# in a glut regime through the 2015 and 2021-23 China property stress.
+name: china-construction-bust
+type: driver
+description: "Global construction demand -12% for 2026-27 (China property-style downturn)"
+events:
+  - {driver: construction, pct: -12, start_year: 2026, end_year: 2027}

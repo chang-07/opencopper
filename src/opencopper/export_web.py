@@ -122,6 +122,8 @@ def _all_deposit_layers() -> dict[str, list[dict]]:
 
 
 def _pricing_payload(fetch_live: bool = True) -> dict:
+    from .history import ambient_volatility
+
     book = load_pricebook()
     curve = book.copper_cover_curve
     commodities = {}
@@ -133,6 +135,7 @@ def _pricing_payload(fetch_live: bool = True) -> dict:
                 live = {"latest": q.latest, "avg_12m": q.avg_12m, "date": q.latest_date} if q else None
             except Exception:
                 live = None
+        vol, vol_src = ambient_volatility(name)
         commodities[name] = {
             "anchor_usd": p.anchor_usd,
             "unit": p.unit,
@@ -141,6 +144,8 @@ def _pricing_payload(fetch_live: bool = True) -> dict:
             "excluded": p.excluded_from_shock_pricing,
             "fred_series": p.fred_series,
             "live": live,
+            "vol": vol,
+            "vol_source": vol_src,
         }
     return {
         "copper_curve": {
@@ -155,9 +160,13 @@ def _pricing_payload(fetch_live: bool = True) -> dict:
 
 def _commodity_payloads() -> list[dict]:
     """The multi-commodity tier for the web: concentration + drift runs."""
+    from .commodities import DriverScenario
+
     scenario_by_commodity = {}
     for path in sorted(COMMODITY_SCENARIO_DIR.glob("*.yaml")):
         scenario = load_commodity_scenario(path)
+        if isinstance(scenario, DriverScenario):
+            continue  # driver scenarios are systemic; they live in the simulator's driver mode
         scenario_by_commodity[scenario.commodity] = scenario
 
     out = []
@@ -183,6 +192,7 @@ def _commodity_payloads() -> list[dict]:
             ],
             "baseline": [asdict(r) for r in baseline.rows],
             "scenario": None,
+            "drivers": seed.drivers,
             "notes": seed.notes,
             "source": seed.source,
         }

@@ -113,7 +113,20 @@ uv run opencopper commodity report cobalt --scenario scenarios/commodities/drc-c
 uv run opencopper minmod fetch --commodity nickel && uv run opencopper minmod report --commodity nickel
 uv run opencopper price                         # live FRED levels + anchors + elasticities
 uv run opencopper price --commodity cobalt --supply-loss 0.46   # the DRC quota, priced
+uv run opencopper commodity driver-shock --driver batteries --pct -25   # systemic demand shock
+uv run opencopper commodity driver-scenario scenarios/commodities/ev-slowdown.yaml
 ```
+
+**Demand drivers make shocks systemic.** Every commodity carries exposure
+shares to global demand drivers (batteries, construction, grid, transport…),
+so one event ripples across markets: an EV stall hits lithium −36% price,
+cobalt −45%, then nickel, rare earths, aluminum, zinc, iron ore and copper —
+correlation through shared demand, not hand-wired pairs. Price moves use the
+exact constant-elasticity incidence `P/P₀ = (1±x)^(∓1/(η_d+η_s))`, clamped at
+[0.25×, 4×] so the model reports "≥ +300%" instead of inventing a 900%, with
+closed-form spike odds (P ≥ 2× anchor) against each commodity's realized
+ambient volatility. The World Simulator has both modes: shock a **country's
+supply** or shock a **demand driver**.
 
 ### The world model: history, simulation, calibration
 

@@ -39,11 +39,10 @@ def test_incidence_is_inverse_to_elasticity():
     cobalt = price_impact_from_shock(book.commodities["cobalt"], 0.2)
     aluminum = price_impact_from_shock(book.commodities["aluminum"], 0.2)
     assert cobalt.price_change_pct > aluminum.price_change_pct
-    # exact formula: k / (|eD| + eS)
+    # exact CES formula: (1-k)^(-1/(eD+eS)), within clamp
     co = book.commodities["cobalt"]
-    assert cobalt.price_change_pct == pytest.approx(
-        100 * 0.2 / (co.elasticity_demand + co.elasticity_supply), abs=0.1
-    )
+    expected = 100 * ((1 - 0.2) ** (-1 / (co.elasticity_demand + co.elasticity_supply)) - 1)
+    assert cobalt.price_change_pct == pytest.approx(expected, abs=0.2)
 
 
 def test_incidence_level_applies_to_anchor():
@@ -51,6 +50,44 @@ def test_incidence_level_applies_to_anchor():
     impact = price_impact_from_shock(book.commodities["nickel"], 0.1)
     expected = book.commodities["nickel"].anchor_usd * (1 + impact.price_change_pct / 100)
     assert impact.implied_usd == pytest.approx(expected, rel=0.001)
+
+
+def test_ces_small_shock_matches_linear_and_stays_physical():
+    from opencopper.pricing import INCIDENCE_CLAMP, price_impact_from_demand
+
+    book = load_pricebook()
+    nickel = book.commodities["nickel"]
+    denom = nickel.elasticity_demand + nickel.elasticity_supply
+    # small shock: CES ~= linear tangent
+    small = price_impact_from_shock(nickel, 0.02)
+    assert small.price_change_pct == pytest.approx(100 * 0.02 / denom, rel=0.06)
+    # huge demand collapse: price can never fall below -100% (clamps at -75%)
+    crash = price_impact_from_demand(book.commodities["cobalt"], -0.50)
+    assert -100 < crash.price_change_pct <= 100 * (INCIDENCE_CLAMP[0] - 1) + 0.1
+    assert crash.clamped
+    # huge supply cut clamps at the top
+    squeeze = price_impact_from_shock(book.commodities["cobalt"], 0.46)
+    assert squeeze.clamped and squeeze.price_change_pct == pytest.approx(300, abs=0.5)
+
+
+def test_ambient_volatility_realized_or_default():
+    from opencopper.history import DEFAULT_AMBIENT_VOL, ambient_volatility
+
+    vol, src = ambient_volatility("copper")
+    assert 0.15 < vol < 0.35 and "realized" in src
+    vol2, src2 = ambient_volatility("cobalt")
+    assert vol2 == DEFAULT_AMBIENT_VOL and "default" in src2
+
+
+def test_prob_price_multiple_sanity():
+    from opencopper.pricing import prob_price_multiple
+
+    # no shock, 22% vol: doubling within a year is a tail event
+    assert prob_price_multiple(0.0, 0.22, 2.0) < 0.01
+    # +80% shock center makes doubling likely-ish; bigger shock -> bigger P
+    assert prob_price_multiple(0.8, 0.22, 2.0) > prob_price_multiple(0.3, 0.22, 2.0)
+    # crash center: P(halving) is high
+    assert prob_price_multiple(-0.5, 0.22, 0.5) > 0.4
 
 
 def test_fred_parser_skips_headers_and_missing(monkeypatch):

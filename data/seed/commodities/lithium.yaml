@@ -26,3 +26,9 @@ top_producers:
 notes: "Batteries 88% of end use. Production grew 31% in 2025 vs consumption +20% — the surplus that crushed prices is visible in the two columns. Resources ~150,000 kt."
 price_note: "US battery-grade carbonate $9,000/t (2025, -31% yoy); China spot recovered Jan->Nov 2025"
 caveats: "Contained lithium METAL basis (multiply by ~5.32 for LCE). World production excludes withheld US output; US reserves (4,400 kt) included in world reserves."
+# Demand-driver exposures (share of demand per global driver; coarse
+# seed-estimates from the USGS uses notes — USGS: batteries 88%).
+drivers:
+  batteries: 0.88
+  industrial: 0.07
+  other: 0.05

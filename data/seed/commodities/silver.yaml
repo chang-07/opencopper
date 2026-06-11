@@ -26,3 +26,11 @@ top_producers:
 notes: "Mostly a BYPRODUCT of lead-zinc/copper/gold mines — supply barely responds to silver price. Added to the US Critical Minerals List Nov 2025. Mine supply 26 kt vs consumption ~35.7 kt: the gap is recycling + stock draw."
 price_note: "$38/oz average 2025e (+34% yoy); high $53.60 Nov 13, 2025"
 caveats: "Byproduct economics mean a supply-shock model needs the HOST commodity's shocks; photovoltaics (15% of US use) is the structural demand driver."
+# Demand-driver exposures (share of demand per global driver; coarse
+# seed-estimates from the USGS uses notes — USGS: PV ~15-20% and rising; investment+jewelry).
+drivers:
+  jewelry_investment: 0.35
+  electronics: 0.25
+  pv_solar: 0.2
+  industrial: 0.1
+  other: 0.1

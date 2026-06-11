@@ -31,3 +31,12 @@ top_producers:
 notes: "Copper added to the US Critical Minerals List Nov 2025. COMEX projected record $4.80/lb 2025 average, attributed mainly to tariff uncertainty. DRC has overtaken Peru as #2 producer."
 price_note: "COMEX ~$4.80/lb 2025e (+14% yoy record); LME ~440 c/lb"
 caveats: "Country-level only; the mine-level engine is the primary copper model."
+# Demand-driver exposures (share of demand per global driver; coarse
+# seed-estimates from the USGS uses notes — mirrors assumptions.yaml sectors).
+drivers:
+  construction: 0.27
+  grid: 0.28
+  transport: 0.13
+  industrial: 0.12
+  datacenters: 0.015
+  other: 0.185

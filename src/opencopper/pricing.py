@@ -135,6 +135,25 @@ def copper_price_from_cover(cover_days: float, curve: CoverCurve) -> float:
     return round(curve.anchor_usd_t * min(max(ratio, lo), hi))
 
 
+def prob_price_multiple(shock_change: float, vol: float, multiple: float) -> float:
+    """P(price exceeds `multiple` x anchor within a year), treating the price as
+    lognormal centered on the shock-implied level with sigma = ambient annual
+    vol. Closed form, no simulation:  z = (ln m - ln(1+shock)) / vol.
+    For multiple < 1 this is P(price falls BELOW that multiple)."""
+    import math
+
+    center = max(1e-6, 1.0 + shock_change)
+    z = (math.log(multiple) - math.log(center)) / max(vol, 1e-6)
+    phi = 0.5 * (1 + math.erf(z / math.sqrt(2)))
+    return round(1 - phi, 3) if multiple >= 1 else round(phi, 3)
+
+
+# Implied-price clamp: beyond these multiples the constant-elasticity
+# assumption has certainly broken (substitution, rationing, stockpile release),
+# so the model reports the bound rather than extrapolating into air.
+INCIDENCE_CLAMP = (0.25, 4.0)
+
+
 @dataclass
 class PriceImpact:
     supply_loss_pct: float
@@ -142,19 +161,52 @@ class PriceImpact:
     anchor_usd: float
     implied_usd: float
     unit: str
+    clamped: bool = False
+
+
+def _ces_multiple(quantity_factor: float, denom: float, invert: bool) -> tuple[float, bool]:
+    """Exact constant-elasticity equilibrium price multiple for a quantity
+    shift by `quantity_factor` (e.g. 0.63 = 37% withdrawn). The first-order
+    linear form (Δq/denom) is this multiple's tangent at zero — we use the
+    exact form so large shocks stay physical (a price cannot fall 113%)."""
+    import math
+
+    if denom <= 0:
+        return 1.0, False
+    factor = max(1e-6, quantity_factor)
+    exponent = (-1.0 if invert else 1.0) / denom
+    multiple = math.exp(exponent * math.log(factor))
+    lo, hi = INCIDENCE_CLAMP
+    clamped = multiple < lo or multiple > hi
+    return min(max(multiple, lo), hi), clamped
 
 
 def price_impact_from_shock(price: CommodityPrice, supply_loss_fraction: float) -> PriceImpact:
-    """Elasticity-incidence: a supply withdrawal raises price by
-    k / (|elasticity_demand| + elasticity_supply)."""
+    """Supply withdrawal of fraction k -> price multiple (1-k)^(-1/(η_d+η_s)),
+    clamped. Linearizes to k/(η_d+η_s) for small k."""
     denom = abs(price.elasticity_demand) + price.elasticity_supply
-    pct = (supply_loss_fraction / denom) if denom else 0.0
+    multiple, clamped = _ces_multiple(1.0 - supply_loss_fraction, denom, invert=True)
     return PriceImpact(
         supply_loss_pct=round(100 * supply_loss_fraction, 1),
-        price_change_pct=round(100 * pct, 1),
+        price_change_pct=round(100 * (multiple - 1), 1),
         anchor_usd=price.anchor_usd,
-        implied_usd=round(price.anchor_usd * (1 + pct), 2),
+        implied_usd=round(price.anchor_usd * multiple, 2),
         unit=price.unit,
+        clamped=clamped,
+    )
+
+
+def price_impact_from_demand(price: CommodityPrice, demand_change_fraction: float) -> PriceImpact:
+    """Demand shift of fraction g -> price multiple (1+g)^(1/(η_d+η_s)), clamped."""
+    denom = abs(price.elasticity_demand) + price.elasticity_supply
+    multiple, clamped = _ces_multiple(1.0 + demand_change_fraction, denom, invert=False)
+    return PriceImpact(
+        supply_loss_pct=round(-100 * demand_change_fraction, 1),
+        price_change_pct=round(100 * (multiple - 1), 1),
+        anchor_usd=price.anchor_usd,
+        implied_usd=round(price.anchor_usd * multiple, 2),
+        unit=price.unit,
+        clamped=clamped,
     )
 
 

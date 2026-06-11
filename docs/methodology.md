@@ -108,21 +108,38 @@ latest spot. γ = 0.7 means a halving of cover implies ~+62%; the clamp keeps
 the implied price within 0.4–3.0× anchor. The curve mean-reverts as inventory
 rebuilds — the world-2026 scenario implies a 2026 spike that fades by 2030.
 
-**Country tier — elasticity-incidence.** No inventory state, only flows, so
-short-run partial equilibrium: a supply withdrawal of fraction `k` raises price
-by
+**Country tier — constant-elasticity incidence.** No inventory state, only
+flows, so short-run partial equilibrium with constant-elasticity curves. A
+supply withdrawal of fraction `k` (or a demand shift of `g`) moves price by
 
 ```
-%ΔP = k / ( |elasticity_demand| + elasticity_supply )
+P/P₀ = (1−k)^(−1/(η_d+η_s))        supply shock
+P/P₀ = (1+g)^(+1/(η_d+η_s))        demand shock
+clamped to [0.25×, 4×]
 ```
 
-Metals are inelastic in the short run, so this is where concentration becomes
-price: the DRC cobalt quota withdraws ~46% of world supply against a combined
-elasticity of 0.20, implying a ~+230% move. That is not a model artifact — it
-is why an inelastic byproduct with one dominant producer is dangerous, and it
-matches cobalt's actual 2025 behavior in direction. The mechanism's
-simplifications (no substitution dynamics, no destocking, no processing
-bottleneck, symmetric up/down) are stated wherever it is reported.
+The familiar linear rule `%ΔP = k/(η_d+η_s)` is this curve's tangent at zero —
+we use the exact form because the linearization produces impossible numbers on
+large shocks (a 22% demand collapse against a 0.20 denominator "implies" a
+price falling 113%). The clamp is the same philosophy as the copper cover
+curve: beyond 4× the constant-elasticity assumption has certainly broken
+(substitution, rationing, stockpile release), so the model reports the bound —
+"≥ +300%, model range" — rather than printing a fake 900%. Metals are
+inelastic in the short run, so this is where concentration becomes price: the
+DRC cobalt quota withdraws ~46% of world supply against a combined elasticity
+of 0.20 and saturates the clamp. Each reported move also carries closed-form
+spike odds — P(price exceeds 2× anchor within the year), lognormal around the
+shock-implied level with sigma = the commodity's ambient realized volatility.
+
+**Demand drivers — systemic cross-commodity shocks.** Every commodity seed
+carries exposure shares to global demand drivers (batteries, construction,
+grid, transport, electronics, PV…), coarse splits from the USGS uses notes. A
+`DriverScenario` compiles down to per-commodity demand shocks through those
+exposures, so one event propagates across markets the way real downturns do:
+an EV stall (batteries −25%, transport −10%) hits lithium −22% demand / −36%
+price, cobalt −11% / −45%, nickel, rare earths, aluminum, zinc, iron ore and
+copper all at once — cross-commodity correlation through shared demand, not
+hand-wired pairwise links.
 
 **Live anchoring.** Where a keyless FRED series exists (copper, nickel,
 aluminum, zinc, tin, iron ore — the IMF global price series), the demo shows
@@ -249,6 +266,14 @@ to the level calibration.
 - **Sensitivity tornado** over every world assumption; zero-swing rows expose
   which constraints bind (smelter utilization doesn't matter while the market
   is concentrate-bound).
+- **Hindcast with structural brackets:** `opencopper validate` compares the
+  model's implied annual copper price to the realized FRED average for every
+  overlapping year, running the world-2026 composite in both structural
+  variants — no-feedback (inventory drains undamped) and full-feedback
+  (demand/scrap adjust at the modeled speed). 2024 lands within 3%; in the
+  crisis year the two variants bracket the realized price (9,225 ↔ 18,430
+  around 12,968), and the width of that bracket is the model's honest
+  structural uncertainty, stated rather than hidden.
 
 ## Known simplifications (consolidated)
 

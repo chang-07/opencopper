@@ -26,3 +26,10 @@ top_producers:
 notes: "IRON CONTENT basis (usable-ore world total is 2,600,000 kt). 98% of US usable ore goes to steel. Australia+Brazil = ~54% of contained-iron supply — seaborne concentration is the trade story."
 price_note: "62% Fe fines CIF Tianjin averaged $99/t Jan-Sep 2025 vs $112/t same period 2024"
 caveats: "US reserves print at an anomalous ~75% implied Fe grade — reported as stated by USGS; flagged, not corrected."
+# Demand-driver exposures (share of demand per global driver; coarse
+# seed-estimates from the USGS uses notes — via steel end-use split).
+drivers:
+  construction: 0.5
+  transport: 0.15
+  industrial: 0.2
+  other: 0.15

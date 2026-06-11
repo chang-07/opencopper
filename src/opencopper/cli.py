@@ -90,9 +90,12 @@ def _cmd_history(args: argparse.Namespace) -> int:
 
 
 def _cmd_validate(args: argparse.Namespace) -> int:
-    from .calibrate import calibrate_copper, render_calibration
+    from .calibrate import calibrate_copper, hindcast_copper, render_calibration, render_hindcast
+    from .history import load_price_history
 
     print(render_calibration(calibrate_copper(n_paths=args.paths)))
+    hist = load_price_history("copper")
+    print(render_hindcast(hindcast_copper(), hist.end[:7] if hist else "?"))
     return 0
 
 
@@ -116,10 +119,12 @@ def _cmd_price(args: argparse.Namespace) -> int:
             return 0
         impact = price_impact_from_shock(price, args.supply_loss)
         print(f"{args.commodity}: remove {impact.supply_loss_pct:.0f}% of supply")
-        print(f"  elasticity-incidence: %ΔP = k / (|η_d| + η_s) "
-              f"= {args.supply_loss:.2f} / ({price.elasticity_demand} + {price.elasticity_supply})")
-        print(f"  implied price change: {impact.price_change_pct:+.0f}%  "
-              f"({impact.anchor_usd:,.0f} -> {impact.implied_usd:,.0f} {impact.unit})")
+        print(f"  CES incidence: P/P0 = (1-k)^(-1/(η_d+η_s)) "
+              f"= {1 - args.supply_loss:.2f}^(-1/{price.elasticity_demand + price.elasticity_supply:.2f})")
+        clamp_note = "  [clamped at model range]" if impact.clamped else ""
+        print(f"  implied price change: {'≥' if impact.clamped and impact.price_change_pct > 0 else ''}"
+              f"{impact.price_change_pct:+.0f}%  "
+              f"({impact.anchor_usd:,.0f} -> {impact.implied_usd:,.0f} {impact.unit}){clamp_note}")
         print(f"  short-run partial equilibrium; ignores substitution dynamics, destocking, processing.")
         return 0
 
@@ -280,22 +285,45 @@ def _cmd_commodity(args: argparse.Namespace) -> int:
                 f"  top3 {conc['top3']:>5.1%}  HHI≥{conc['hhi_lower_bound']:>5,}"
             )
     elif args.commodity_command == "report":
+        from .commodities import DriverScenario, compile_driver_scenario
+
         seed = load_commodity(args.name)
         scenario = None
         if args.scenario:
             scenario = load_commodity_scenario(Path(args.scenario))
-            if scenario.commodity != seed.name:
+            if isinstance(scenario, DriverScenario):
+                scenario = compile_driver_scenario(scenario, seed)
+            elif scenario.commodity != seed.name:
                 print(f"scenario is for {scenario.commodity!r}, not {seed.name!r}")
                 return 1
         run = run_commodity(seed, scenario)
         print(render_commodity_report(seed, run))
         if scenario:
             _print_commodity_price_impact(seed, run)
+    elif args.commodity_command == "driver-shock":
+        from .commodities import DriverEvent, DriverScenario, render_driver_report, run_driver_scenario
+
+        start, end = (int(y) for y in args.years.split("-"))
+        ds = DriverScenario(
+            name=f"{args.driver}{args.pct:+.0f}%",
+            description=f"ad-hoc: {args.driver} demand {args.pct:+.0f}% over {args.years}",
+            events=[DriverEvent(driver=args.driver, pct=args.pct, start_year=start, end_year=end)],
+        )
+        print(render_driver_report(ds, run_driver_scenario(ds)))
+    elif args.commodity_command == "driver-scenario":
+        from .commodities import DriverScenario, render_driver_report, run_driver_scenario
+
+        ds = load_commodity_scenario(Path(args.path))
+        if not isinstance(ds, DriverScenario):
+            print(f"{args.path} is a single-commodity scenario; use `commodity report --scenario`")
+            return 1
+        print(render_driver_report(ds, run_driver_scenario(ds)))
     return 0
 
 
 def _print_commodity_price_impact(seed, run) -> None:
-    from .pricing import load_pricebook, price_impact_from_shock
+    from .history import ambient_volatility
+    from .pricing import load_pricebook, price_impact_from_shock, prob_price_multiple
 
     book = load_pricebook()
     price = book.commodities.get(seed.name)
@@ -307,11 +335,15 @@ def _print_commodity_price_impact(seed, run) -> None:
         return
     peak_year, peak_loss = max(shock_rows, key=lambda yr: yr[1])
     impact = price_impact_from_shock(price, peak_loss)
+    vol, vol_src = ambient_volatility(seed.name)
+    p2x = prob_price_multiple(impact.price_change_pct / 100, vol, 2.0)
     print("\nIMPLIED PRICE (elasticity-incidence, illustrative — NOT a forecast):")
     print(f"  peak supply withdrawal {impact.supply_loss_pct:.0f}% of world ({peak_year}) "
           f"-> {impact.price_change_pct:+.0f}% price")
     print(f"  {impact.anchor_usd:,.0f} -> {impact.implied_usd:,.0f} {impact.unit} "
           f"(η_d {price.elasticity_demand}, η_s {price.elasticity_supply})")
+    print(f"  ambient annual vol ±{vol:.0%} ({vol_src}); "
+          f"P(price > 2x anchor within the shock year) ≈ {p2x:.0%}")
 
 
 def _cmd_sensitivity(args: argparse.Namespace) -> int:
@@ -432,6 +464,12 @@ def main(argv: list[str] | None = None) -> int:
     c = csub.add_parser("report", help="one commodity: producers, HHI, balance drift")
     c.add_argument("name")
     c.add_argument("--scenario", default=None, help="scenarios/commodities/*.yaml")
+    c = csub.add_parser("driver-shock", help="systemic: shock a demand driver across ALL commodities")
+    c.add_argument("--driver", required=True, help="batteries|construction|grid|transport|electronics|...")
+    c.add_argument("--pct", type=float, required=True, help="driver demand change, e.g. -25")
+    c.add_argument("--years", default="2026-2027")
+    c = csub.add_parser("driver-scenario", help="run a type:driver scenario file across all commodities")
+    c.add_argument("path")
     p.set_defaults(func=_cmd_commodity)
 
     p = sub.add_parser("minmod", help="DARPA MinMod deposit KG (deposits, not production)")

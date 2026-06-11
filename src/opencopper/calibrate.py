@@ -89,3 +89,75 @@ def render_calibration(c: CalibrationResult) -> str:
         f"  => demand surprise sigma:      {c.demand_sigma:.3f}",
         "  disruption mean held at 5% (physical; the market expects it).",
     ])
+
+
+def hindcast_copper() -> list[dict]:
+    """Level hindcast: the model's implied annual copper price vs the realized
+    FRED annual average, for every overlapping year. Run for both the clean
+    baseline (no events) and the world-2026 composite (the events that actually
+    happened) — the gap between the two columns is what the real-world events
+    were worth, and the scenario column is the fair comparison."""
+    from .ledger import load_assumptions, load_ledger
+    from .pricing import load_pricebook
+    from .scenario import SCENARIO_DIR, load_scenario
+    from .balance import run
+
+    hist = load_price_history("copper")
+    if not hist:
+        return []
+    curve = load_pricebook().copper_cover_curve
+    ledger, assumptions = load_ledger(), load_assumptions()
+    years = range(2024, 2031)
+
+    base_run = run(ledger, assumptions, BASELINE, years, curve=curve)
+    world = load_scenario(SCENARIO_DIR / "world-2026.yaml")
+    world_run = run(ledger, assumptions, world, years, curve=curve)
+    # the two variants bracket reality: no-feedback lets the deficit drain
+    # inventory undamped (upper), full feedback adjusts demand/scrap at the
+    # modeled speed (lower)
+    world_fb = run(ledger, assumptions, world, years, curve=curve, feedback=True)
+
+    rows = []
+    for row_b, row_w, row_f in zip(base_run.rows, world_run.rows, world_fb.rows):
+        realized = hist.annual_avg.get(row_b.year)
+        if realized is None:
+            continue
+        bracketed = min(row_w.implied_price_usd, row_f.implied_price_usd) <= realized <= max(
+            row_w.implied_price_usd, row_f.implied_price_usd
+        )
+        rows.append({
+            "year": row_b.year,
+            "baseline_implied": row_b.implied_price_usd,
+            "scenario_implied": row_w.implied_price_usd,
+            "scenario_fb_implied": row_f.implied_price_usd,
+            "realized": round(realized),
+            "scenario_err_pct": round(100 * (row_w.implied_price_usd / realized - 1), 1),
+            "bracketed": bracketed,
+        })
+    return rows
+
+
+def render_hindcast(rows: list[dict], latest_month: str) -> str:
+    if not rows:
+        return "hindcast: no FRED overlap (run `opencopper history` once to populate the cache)"
+    lines = [
+        "",
+        "HINDCAST — implied annual copper price vs realized (FRED annual average)",
+        f"{'year':<6}{'baseline':>10}{'w26 no-fb':>11}{'w26 fb':>9}{'realized':>10}{'in band':>9}",
+    ]
+    for r in rows:
+        partial = "*" if str(r["year"]) in latest_month else ""
+        lines.append(
+            f"{r['year']:<6}{r['baseline_implied']:>10,.0f}{r['scenario_implied']:>11,.0f}"
+            f"{r['scenario_fb_implied']:>9,.0f}{r['realized']:>10,}"
+            f"{'  yes' if r['bracketed'] else '   no':>9}{partial}"
+        )
+    lines += [
+        f"  (* = partial year, through {latest_month}; 2026 realized is also tariff-distorted)",
+        "  'w26' columns run the world-2026 composite (the events that actually happened):",
+        "  no-fb lets the deficit drain inventory undamped, fb adjusts demand/scrap at the",
+        "  modeled speed — the two variants should BRACKET the realized price, and the gap",
+        "  between them is the model's honest structural uncertainty. Direction and",
+        "  magnitude of the event response are the claim, not point accuracy.",
+    ]
+    return "\n".join(lines)

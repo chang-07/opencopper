@@ -25,3 +25,10 @@ top_producers:
 notes: "Galvanized steel dominates end use. US mine output -12% in 2025 on declining grades at Red Dog nearing end of mine life — a depletion story in the data."
 price_note: "LME cash 126 c/lb (2024) -> ~130 c/lb (2025e)"
 caveats: "2025 values are USGS estimates; refined vs mine basis differs (refined 2025: ~13.8 Mt production vs 13.7 Mt consumption per ILZSG); Australia JORC-equivalent reserves 19,000 kt of the 64,000 kt."
+# Demand-driver exposures (share of demand per global driver; coarse
+# seed-estimates from the USGS uses notes — galvanizing-led; steel end-use split).
+drivers:
+  construction: 0.45
+  transport: 0.2
+  industrial: 0.2
+  other: 0.15
