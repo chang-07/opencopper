@@ -18,7 +18,7 @@ from pathlib import Path
 
 import yaml
 
-from .pricing import load_pricebook, price_impact_from_demand, price_impact_from_shock
+from .pricing import impact_range, load_pricebook, price_impact_from_demand, price_impact_from_shock
 
 LINKAGES_PATH = Path(__file__).resolve().parents[2] / "data" / "seed" / "linkages.yaml"
 
@@ -32,6 +32,7 @@ class RippleRow:
     demand_shift: float     # fraction demand change (if demand-side)
     price_change_pct: float
     clamped: bool
+    range_pct: tuple[float, float] | None = None  # elasticity-uncertainty band (supply-side rows)
 
 
 def load_linkages() -> list[dict]:
@@ -50,7 +51,8 @@ def ripple(commodity: str, country: str | None, severity: float) -> list[RippleR
     k_direct = (seed.share(country) if country else 1.0) * severity
     direct = price_impact_from_shock(book.commodities[commodity], k_direct)
     rows.append(RippleRow(commodity, "direct", country or "world", k_direct, 0.0,
-                          direct.price_change_pct, direct.clamped))
+                          direct.price_change_pct, direct.clamped,
+                          impact_range(book.commodities[commodity], k_direct)))
 
     # byproduct: dependent loses supply where it co-occurs with the host
     for ln in links:
@@ -71,7 +73,8 @@ def ripple(commodity: str, country: str | None, severity: float) -> list[RippleR
                 continue
             impact = price_impact_from_shock(book.commodities[ln["dependent"]], k_dep)
             rows.append(RippleRow(ln["dependent"], "byproduct", f"{commodity}@{country or 'world'}",
-                                  k_dep, 0.0, impact.price_change_pct, impact.clamped))
+                                  k_dep, 0.0, impact.price_change_pct, impact.clamped,
+                                  impact_range(book.commodities[ln["dependent"]], k_dep)))
 
     # substitution + input cost: second round off the DIRECT price move
     dP = direct.price_change_pct / 100
@@ -98,7 +101,10 @@ def render_ripple(rows: list[RippleRow], title: str) -> str:
              f"{'commodity':<13}{'channel':<14}{'via':<26}{'price Δ':>10}", "-" * 64]
     for r in rows:
         bound = ("≥" if r.price_change_pct > 0 else "≤") if r.clamped else ""
-        lines.append(f"{r.commodity:<13}{r.channel:<14}{r.via[:25]:<26}{bound}{r.price_change_pct:>+9.0f}%")
+        band = f"  [{r.range_pct[0]:+.0f}..{r.range_pct[1]:+.0f}%]" if r.range_pct else ""
+        lines.append(f"{r.commodity:<13}{r.channel:<14}{r.via[:25]:<26}{bound}{r.price_change_pct:>+9.0f}%{band}")
     lines.append("\nOne first-order round through data/seed/linkages.yaml (byproduct /")
     lines.append("substitution / input-cost); couplings are disputable seed-estimates.")
+    lines.append("[..] = the same shock across the seeded elasticity RANGES — when the")
+    lines.append("band is wide, the elasticities are doing the work, not the event.")
     return "\n".join(lines)

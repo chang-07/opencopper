@@ -113,8 +113,22 @@ uv run opencopper validate                         # calibrate the simulator to 
 uv run opencopper montecarlo --scenario scenarios/grasberg-2025.yaml   # P10/P50/P90, P(deficit), P(spike)
 uv run opencopper regional --scenario scenarios/us-refined-tariff-2026.yaml  # quarterly COMEX-LME arb
 uv run opencopper signals [--json]                 # desk sheet: model vs live market (not advice)
+uv run opencopper backtest [--horizon 12]          # 34yr walk-forward: does the regime signal predict?
+uv run opencopper book examples/book.yaml --risk   # correlated VaR/ES on YOUR declared exposures
 uv run opencopper sensitivity --target price                           # the pricing parameters' own tornado
 ```
+
+**The desk shows its homework.** The regime signal is backtested walk-forward
+over 34 years with Newey-West t-stats: 9/10 commodities mean-revert toward
+their trailing trend, but the legs are asymmetric — depressed (glut) markets
+recovered +12–21% over the following 12 months while elevated (tight) markets
+were **not safely shortable** (−95% max drawdown on the short leg; the right
+tail the spike-odds column prices). Volatility is conditioned on the current
+regime (extreme states are volatile states), incidence outputs carry
+elasticity-uncertainty bands (`+18%` becomes `+10..+44%` — when the band is
+wide the elasticities are doing the work), and the exposure book gets
+delta-normal VaR/ES from measured correlations, labeled as the floor it is.
+Evidence about signals, never sizing or advice.
 
 **The regional layer models the arb itself.** A quarterly US/China/RoW
 trade-flow model: contracted baseline flows meet structural deficits, marginal

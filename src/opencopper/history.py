@@ -157,6 +157,35 @@ def load_price_history(commodity: str) -> Optional[PriceHistory]:
     )
 
 
+def regime_volatility(commodity: str, min_obs: int = 24) -> Optional[dict[str, float]]:
+    """Annualized monthly vol conditional on the regime state — causally:
+    the regime at month i-1 conditions the return over month i, so each
+    bucket answers "given we are in regime R now, how volatile is next
+    month". Buckets with fewer than min_obs months return no estimate.
+
+    Vol clusters by state, which the single unconditional number hides. The
+    Monte Carlo stays calibrated to UNCONDITIONAL realized vol — conditioning
+    the simulator would double-count the regime, since scenarios already
+    move the state."""
+    h = load_price_history(commodity)
+    if not h:
+        return None
+    regimes, _ = _classify_regimes(h.months)
+    vals = [v for _, v in h.months]
+    buckets: dict[str, list[float]] = {r.value: [] for r in Regime}
+    for i in range(1, len(vals)):
+        if vals[i - 1] > 0:
+            buckets[regimes[i - 1].value].append(_log(vals[i] / vals[i - 1]))
+    out: dict[str, float] = {}
+    for name, rets in buckets.items():
+        if len(rets) < min_obs:
+            continue
+        mu = sum(rets) / len(rets)
+        sd = math.sqrt(sum((r - mu) ** 2 for r in rets) / (len(rets) - 1))
+        out[name] = round(sd * math.sqrt(12), 4)
+    return out or None
+
+
 # Ambient annual volatility when a commodity has no price series: a documented
 # round default near the middle of the observed metals range (17-28%).
 DEFAULT_AMBIENT_VOL = 0.30

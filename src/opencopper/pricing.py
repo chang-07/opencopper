@@ -42,6 +42,10 @@ class CommodityPrice(BaseModel):
     fred_series: Optional[str] = None
     elasticity_supply: float
     elasticity_demand: float
+    # literature/judgment RANGES around the point elasticities; when present,
+    # incidence outputs carry an uncertainty band instead of a bare point
+    elasticity_supply_range: Optional[tuple[float, float]] = None
+    elasticity_demand_range: Optional[tuple[float, float]] = None
     excluded_from_shock_pricing: bool = False
     note: str = ""
 
@@ -195,6 +199,22 @@ def price_impact_from_shock(price: CommodityPrice, supply_loss_fraction: float) 
         unit=price.unit,
         clamped=clamped,
     )
+
+
+def impact_range(price: CommodityPrice, supply_loss_fraction: float) -> Optional[tuple[float, float]]:
+    """Price-change band (lo_pct, hi_pct) from the elasticity RANGES, when
+    seeded. The CES multiple is monotone decreasing in η_d+η_s, so the band
+    endpoints are exactly the denominator extremes — no sampling needed. A
+    point elasticity without a range returns None: the absence of a band is
+    itself information (nobody has bounded that parameter yet)."""
+    if not (price.elasticity_supply_range and price.elasticity_demand_range):
+        return None
+    hi_denom = price.elasticity_demand_range[1] + price.elasticity_supply_range[1]
+    lo_denom = price.elasticity_demand_range[0] + price.elasticity_supply_range[0]
+    soft, _ = _ces_multiple(1.0 - supply_loss_fraction, hi_denom, invert=True)
+    hard, _ = _ces_multiple(1.0 - supply_loss_fraction, lo_denom, invert=True)
+    lo, hi = sorted((100 * (soft - 1), 100 * (hard - 1)))
+    return round(lo, 1), round(hi, 1)
 
 
 def price_impact_from_demand(price: CommodityPrice, demand_change_fraction: float) -> PriceImpact:

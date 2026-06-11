@@ -80,6 +80,12 @@ def _cmd_book(args):
     from .commodities import load_commodity_scenario
     from .scenario import load_scenario
 
+    if getattr(args, "risk", False):
+        from .book import book_risk, render_risk
+
+        print(render_risk(book_risk(load_book(Path(args.file)))))
+        return 0
+
     scenario = None
     if args.scenario:
         sp = Path(args.scenario)
@@ -93,6 +99,21 @@ def _cmd_signals(args: argparse.Namespace) -> int:
 
     signals = build_signals(n_paths=args.paths)
     print(signals_json(signals) if args.json else render_signals(signals))
+    return 0
+
+
+def _cmd_backtest(args: argparse.Namespace) -> int:
+    from .backtest import backtest_all, backtest_commodity, render_backtest
+
+    if args.commodity:
+        row = backtest_commodity(args.commodity, horizon=args.horizon)
+        if row is None:
+            print(f"{args.commodity}: not enough price history to backtest")
+            return 1
+        rows = [row]
+    else:
+        rows = backtest_all(horizon=args.horizon)
+    print(render_backtest(rows, args.horizon))
     return 0
 
 
@@ -180,6 +201,12 @@ def _cmd_price(args: argparse.Namespace) -> int:
         print(f"  implied price change: {'≥' if impact.clamped and impact.price_change_pct > 0 else ''}"
               f"{impact.price_change_pct:+.0f}%  "
               f"({impact.anchor_usd:,.0f} -> {impact.implied_usd:,.0f} {impact.unit}){clamp_note}")
+        from .pricing import impact_range
+
+        rng = impact_range(price, args.supply_loss)
+        if rng:
+            print(f"  elasticity-range band:  {rng[0]:+.0f}% .. {rng[1]:+.0f}%  "
+                  f"(same shock, seeded η ranges — the parameter risk around the point)")
         print(f"  short-run partial equilibrium; ignores substitution dynamics, destocking, processing.")
         return 0
 
@@ -515,12 +542,19 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--scenario", default=None)
     p.add_argument("--year", type=int, default=2026)
     p.add_argument("--paths", type=int, default=1500)
+    p.add_argument("--risk", action="store_true",
+                   help="historical-covariance VaR/ES on the book (1m delta-normal, correlations included)")
     p.set_defaults(func=_cmd_book)
 
     p = sub.add_parser("signals", help="desk sheet: model vs live market per commodity (decision support, not advice)")
     p.add_argument("--json", action="store_true", help="machine-readable, for your own systems")
     p.add_argument("--paths", type=int, default=800)
     p.set_defaults(func=_cmd_signals)
+
+    p = sub.add_parser("backtest", help="walk-forward test: does the regime signal predict forward returns? (34yr, NW t-stats)")
+    p.add_argument("--commodity", default=None)
+    p.add_argument("--horizon", type=int, default=12, help="forward-return horizon in months")
+    p.set_defaults(func=_cmd_backtest)
 
     p = sub.add_parser("regional", help="quarterly 3-region trade flows: covers, premia, the COMEX-LME arb")
     p.add_argument("--scenario", default=None, help="scenarios/*.yaml (default: baseline)")

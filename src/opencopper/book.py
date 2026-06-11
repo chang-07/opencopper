@@ -123,3 +123,164 @@ def render_book(result: BookResult) -> str:
               "", "Band-difference approximation on paired-seed simulations; signs follow",
               "your position (+long/-short x price delta).", "", DISCLAIMER]
     return "\n".join(lines)
+
+
+# ---------------------------------------------------------------- risk layer
+
+
+@dataclass
+class BookRisk:
+    horizon: str
+    window_months: int
+    sigma_usd: float          # 1-month book P&L standard deviation
+    var95_usd: float
+    var99_usd: float
+    es95_usd: float
+    gross_usd: float          # sum of |notional|
+    undiversified_sigma: float  # sum of |notional_i| * sigma_i — no-correlation-benefit bound
+    rows: list[dict] = field(default_factory=list)        # per-position notional/vol/contribution
+    excluded: list[str] = field(default_factory=list)     # no price history -> not in VaR
+    corr: dict[str, dict[str, float]] = field(default_factory=dict)
+
+
+def _aligned_returns(names: list[str], window: int = 120) -> tuple[list[str], dict[str, list[float]]]:
+    """Monthly log returns aligned on the date intersection of all series."""
+    import math as _m
+
+    from .history import load_price_history
+
+    series: dict[str, dict[str, float]] = {}
+    for n in names:
+        h = load_price_history(n)
+        if h:
+            series[n] = dict(h.months[-(window + 1):])
+    if not series:
+        return [], {}
+    common = sorted(set.intersection(*(set(s) for s in series.values())))
+    rets: dict[str, list[float]] = {n: [] for n in series}
+    for i in range(1, len(common)):
+        d0, d1 = common[i - 1], common[i]
+        for n, s in series.items():
+            rets[n].append(_m.log(s[d1] / s[d0]) if s[d0] > 0 else 0.0)
+    return list(series), rets
+
+
+def book_risk(positions: list[Position], window: int = 120) -> BookRisk:
+    """Delta-normal 1-month VaR/ES on the book from HISTORICAL covariance.
+
+    This is the question the scenario engine doesn't answer: not "what if
+    Indonesia halves output" but "how much does this book breathe month to
+    month, correlations included". Delta-normal is the honest floor — it
+    understates tails (commodity returns are fatter than normal; compare the
+    spike-odds columns), which is stated rather than hidden. Risk
+    MEASUREMENT of a book you declared; never sizing advice.
+    """
+    import math as _m
+
+    from .pricing import cached_fred, load_pricebook, summarize
+
+    book = load_pricebook()
+    names = [p.commodity for p in positions]
+    have, rets = _aligned_returns(sorted(set(names)), window)
+    n_obs = len(next(iter(rets.values()), []))
+
+    # notional = qty x latest price (live where a series exists, else anchor)
+    notionals: dict[int, float] = {}
+    for idx, pos in enumerate(positions):
+        price = book.commodities[pos.commodity].anchor_usd
+        fs = book.commodities[pos.commodity].fred_series
+        if fs:
+            try:
+                q = summarize(fs, cached_fred(fs))
+                if q:
+                    price = q.latest
+            except Exception:
+                pass
+        notionals[idx] = pos.quantity * price
+
+    means = {n: sum(r) / len(r) for n, r in rets.items()} if n_obs else {}
+
+    def cov(a: str, b: str) -> float:
+        ra, rb = rets[a], rets[b]
+        return sum((ra[i] - means[a]) * (rb[i] - means[b]) for i in range(n_obs)) / (n_obs - 1)
+
+    included = [i for i, p in enumerate(positions) if p.commodity in have]
+    excluded = [positions[i].label or positions[i].commodity
+                for i, p in enumerate(positions) if p.commodity not in have]
+
+    var_p = 0.0
+    marginal: dict[int, float] = {i: 0.0 for i in included}
+    for i in included:
+        for j in included:
+            c = cov(positions[i].commodity, positions[j].commodity)
+            var_p += notionals[i] * notionals[j] * c
+            marginal[i] += notionals[j] * c
+    sigma = _m.sqrt(max(var_p, 0.0))
+
+    rows = []
+    undiv = 0.0
+    for i in included:
+        own_vol = _m.sqrt(cov(positions[i].commodity, positions[i].commodity))
+        undiv += abs(notionals[i]) * own_vol
+        rows.append({
+            "label": positions[i].label or positions[i].commodity,
+            "commodity": positions[i].commodity,
+            "notional_usd": round(notionals[i]),
+            "monthly_vol_pct": round(100 * own_vol, 1),
+            "contribution_pct": round(100 * notionals[i] * marginal[i] / var_p, 1) if var_p else 0.0,
+        })
+
+    corr = {}
+    for a in have:
+        corr[a] = {}
+        for b in have:
+            sa, sb = _m.sqrt(cov(a, a)), _m.sqrt(cov(b, b))
+            corr[a][b] = round(cov(a, b) / (sa * sb), 2) if sa and sb else 0.0
+
+    es_mult = _m.exp(-1.645 ** 2 / 2) / (_m.sqrt(2 * _m.pi) * 0.05)  # ~2.063
+    return BookRisk(
+        horizon="1 month", window_months=n_obs,
+        sigma_usd=round(sigma), var95_usd=round(1.645 * sigma),
+        var99_usd=round(2.326 * sigma), es95_usd=round(es_mult * sigma),
+        gross_usd=round(sum(abs(v) for v in notionals.values())),
+        undiversified_sigma=round(undiv),
+        rows=rows, excluded=excluded, corr=corr,
+    )
+
+
+def render_risk(r: BookRisk) -> str:
+    lines = [
+        f"BOOK RISK — delta-normal, {r.horizon} horizon, {r.window_months} months of history",
+        f"{'position':<30}{'notional $':>15}{'mvol':>7}{'risk contrib':>14}",
+        "-" * 66,
+    ]
+    for row in r.rows:
+        lines.append(f"{row['label'][:29]:<30}{row['notional_usd']:>15,}"
+                     f"{row['monthly_vol_pct']:>6.1f}%{row['contribution_pct']:>13.1f}%")
+    for label in r.excluded:
+        lines.append(f"{label[:29]:<30}{'no price history — not in VaR':>36}")
+    lines += [
+        "-" * 66,
+        f"gross notional      {r.gross_usd:>15,}",
+        f"book sigma (1m)     {r.sigma_usd:>15,}   "
+        f"(undiversified bound {r.undiversified_sigma:,}; "
+        f"diversification saves {1 - r.sigma_usd / r.undiversified_sigma:.0%})" if r.undiversified_sigma else "",
+        f"VaR 95% / 99% (1m)  {r.var95_usd:>15,} / {r.var99_usd:,}",
+        f"ES 95% (1m)         {r.es95_usd:>15,}",
+        "",
+        "correlations (monthly, aligned window):",
+    ]
+    names = list(r.corr)
+    lines.append("  " + " " * 12 + "".join(f"{n[:9]:>10}" for n in names))
+    for a in names:
+        lines.append(f"  {a[:11]:<12}" + "".join(f"{r.corr[a][b]:>10.2f}" for b in names))
+    lines += [
+        "",
+        "Delta-normal UNDERSTATES tails (returns are fatter than normal — see the",
+        "spike-odds columns on the desk sheet), and FRED/IMF monthly AVERAGES",
+        "smooth intramonth swings, so vols here are a floor twice over. Treat VaR",
+        "as the floor, not the story. Risk measurement of a declared book; never",
+        "sizing or advice.",
+        "", DISCLAIMER,
+    ]
+    return "\n".join(lines)

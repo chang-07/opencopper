@@ -805,25 +805,33 @@ const VIEWS = {
       const regimeCls = r => r === 'tight' ? 'style="border-color:#c4604f"' : r === 'glut' ? 'style="border-color:#5b8fb9"' : '';
       host.table.innerHTML = `<table><thead><tr>
         <th>commodity</th><th>futures</th><th class="num">live</th><th class="num">anchor</th>
-        <th class="num">gap</th><th>regime</th><th class="num">vol/yr</th>
+        <th class="num">gap</th><th>regime</th><th class="num">vol|regime</th>
+        <th class="num">fwd 12m|regime</th><th class="num">MR t</th>
         <th class="num">model P50 2026</th><th class="num">P(tail) 2026</th></tr></thead><tbody>` +
         S.rows.map(s => {
           const fut = s.futures && s.futures.symbol ? `${s.futures.exchange} ${s.futures.symbol}` : '—';
           const gap = s.gap_vs_anchor_pct != null
             ? `<span class="${s.gap_vs_anchor_pct >= 0 ? 'up' : 'dn'}" style="color:${s.gap_vs_anchor_pct >= 0 ? 'var(--red)' : '#5b8fb9'}">${s.gap_vs_anchor_pct >= 0 ? '+' : ''}${s.gap_vs_anchor_pct.toFixed(0)}%</span>` : '—';
           const tail = s.prob_double_2026 != null ? (s.prob_double_2026 * 100).toFixed(0) + '%' : '—';
+          const rvol = s.regime_vol_pct != null ? s.regime_vol_pct.toFixed(0) + '%' : s.ambient_vol_pct.toFixed(0) + '%*';
+          const fwd = s.fwd12_regime_mean != null
+            ? `<span style="color:${s.fwd12_regime_mean >= 0 ? '#7fb069' : 'var(--red)'}">${s.fwd12_regime_mean >= 0 ? '+' : ''}${(s.fwd12_regime_mean * 100).toFixed(1)}%</span>` : '—';
+          const mrt = s.mr_t12 != null ? s.mr_t12.toFixed(1) : '—';
           return `<tr><td><b>${s.commodity}</b></td><td>${fut}</td>
             <td class="num">${s.live != null ? fmt(Math.round(s.live)) : '—'}${s.live_date ? `<span class="sim-unit"> ${s.live_date.slice(0,7)}</span>` : ''}</td>
             <td class="num">${fmt(s.anchor)}</td><td class="num">${gap}</td>
             <td><span class="pill" ${regimeCls(s.regime)}>${s.regime || '—'}</span></td>
-            <td class="num">${s.ambient_vol_pct.toFixed(0)}%</td>
+            <td class="num">${rvol}</td><td class="num">${fwd}</td><td class="num">${mrt}</td>
             <td class="num">${s.model_p50_2026 != null ? fmt(Math.round(s.model_p50_2026)) : '—'}</td>
             <td class="num">${tail}</td></tr>`;
         }).join('') + `</tbody></table>
         <p style="color:var(--muted);font-size:12.5px;margin-top:12px">${S.disclaimer || ''}
+        vol|regime = volatility conditional on the current regime (* = unconditional);
+        fwd 12m|regime = mean forward return from this regime over 34 years, walk-forward;
+        MR t = Newey-West t of the mean-reversion slope.
         Tail = P(price ≥ 2× anchor) within 2026 (copper: ≥1.5×). Scorecard:
         <a href="https://github.com/chang-07/opencopper/blob/main/PREDICTIONS.md" style="color:var(--copper-hot)">PREDICTIONS.md</a>.</p>`
-        + newsSection();
+        + backtestSection() + newsSection();
     },
   },
   mines: {
@@ -846,6 +854,23 @@ const VIEWS = {
     },
   },
 };
+
+function backtestSection() {
+  const B = D.backtest;
+  if (!B || !B.summary || !B.summary.n_commodities) return '';
+  const s = B.summary, lg = s.ew_long_glut || {}, st = s.ew_short_tight || {};
+  return `<h3 style="margin:26px 0 6px;color:#e8e3da;font-weight:normal">Does the regime signal predict anything? (34-year walk-forward)</h3>
+    <p style="color:var(--muted);font-size:12.5px;margin:0 0 6px">
+    ${s.n_mean_reverting}/${s.n_commodities} commodities mean-revert toward their trailing trend
+    (sign-test p=${s.sign_test_p}; commodities correlate, so p is optimistic). Median slope
+    ${s.median_slope}: a +10% trend deviation maps to ${(s.median_slope * 10).toFixed(1)}% expected
+    12-month forward return. But the legs are asymmetric — depressed markets recover
+    (long-glut leg ${(lg.ann_ret * 100).toFixed(1)}%/yr) while elevated markets are <b>not safely
+    shortable</b> (short-tight leg ${(st.ann_ret * 100).toFixed(1)}%/yr, max drawdown
+    ${(st.max_dd * 100).toFixed(0)}%): the tight regime carries the right-tail squeeze risk the
+    P(tail) column prices. Gross of costs, monthly spot proxies, thresholds not optimized —
+    evidence about the signal, not a strategy. Full table: <code>opencopper backtest</code>.</p>`;
+}
 
 function newsSection() {
   const N = D.news || {events: []};

@@ -239,6 +239,55 @@ support with a hard boundary: the project never sizes, recommends, or executes
 trades, every output carries the not-advice disclaimer, and PREDICTIONS.md is
 the public scorecard that keeps the signals honest.
 
+## Evidence before opinions: backtest, conditional vol, parameter bands, book risk
+
+A model usable for real decisions has to show its homework. Four pieces
+(`opencopper backtest`, the desk sheet's evidence columns, `--risk`):
+
+**The regime signal is backtested, walk-forward, against 34 years.**
+At every month the trailing-trend deviation (the exact statistic that
+defines regimes, causal by construction) is regressed on the forward
+12-month return, with Newey-West (Bartlett, lag h−1) standard errors because
+overlapping windows induce MA(h−1) errors. Result: 9/10 commodities have
+negative slopes (mean reversion; sign-test p≈0.02, optimistic since
+commodities correlate), gas/aluminum/tin/nickel individually significant.
+Crucially the parameters (36m window, ±15%) predate the backtest — they were
+chosen to describe regimes, not fitted to returns.
+
+**The legs are asymmetric, and that is the finding.** Conditional on glut,
+12m forward returns averaged +12% to +21% across nearly every commodity;
+conditional on tight, they are small or negative — but a short-tight rule
+loses badly (−95% max drawdown in the equal-weight version), because tight
+markets carry the right-tail squeeze risk the spike-odds machinery prices.
+A deterministic toy reproduces this (`test_quant.py`): in a perfectly
+mean-reverting sine world the trailing trend lags the cycle, so "tight"
+months sit mid-ascent and monthly-gated shorts lose even though 12m stats
+mean-revert. The signal is horizon-dependent; any use of it must be too.
+
+**Volatility is conditioned on the state.** Realized vol bucketed causally
+by regime (regime at month i−1, return over month i) is U-shaped: extreme
+states are volatile states (crude: 41% in glut, 22% balanced, 39% tight).
+The desk shows the current regime's vol. The Monte Carlo stays calibrated
+to UNCONDITIONAL vol — conditioning it would double-count the regime, since
+scenarios already move the state.
+
+**Elasticities carry ranges, not just points.** Where the literature bounds
+a short-run elasticity, `prices.yaml` seeds a range, and every incidence
+output shows the band (the CES multiple is monotone in η_d+η_s, so the band
+endpoints are exact — no sampling). The bands are deliberately loud: a −7%
+copper supply shock is "+18%" at the point but +10..+44% across the ranges.
+When the band is wide, the elasticities are doing the work, not the event.
+A missing band means nobody has bounded that parameter yet — also
+information.
+
+**Book risk is measured with correlations, and labeled a floor.**
+`opencopper book --risk` runs delta-normal 1-month VaR/ES on the declared
+book from the historical covariance of aligned monthly returns (copper–crude
+correlation ≈0.34 is measured, not assumed). Stated twice over as a floor:
+returns are fatter-tailed than normal, and FRED/IMF monthly *averages*
+smooth intramonth swings. Positions without a price series are excluded and
+say so. Risk measurement of a declared book — never sizing, never advice.
+
 ## Cross-commodity linkages: shocks don't stop at one market
 
 `data/seed/linkages.yaml` is a small typed graph; `opencopper ripple` (and

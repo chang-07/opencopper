@@ -335,6 +335,22 @@ def _regional_payload() -> dict:
     return {"rates": TARIFF_RATES, "runs": runs}
 
 
+def _backtest_payload() -> dict:
+    """34-year walk-forward evidence on the regime signal — the desk shows
+    its homework next to its opinions."""
+    from dataclasses import asdict as _asdict
+
+    from .backtest import backtest_all, summary
+
+    rows = backtest_all(12)
+    slim = []
+    for r in rows:
+        d = _asdict(r)
+        d.pop("monthly_legs")
+        slim.append(d)
+    return {"rows": slim, "summary": summary(rows)}
+
+
 def _news_payload(news_dir: Path = Path("data/news")) -> dict:
     """Latest rule-matched headlines + their simulated cross-commodity
     impacts. Empty when the news pipeline has not run (the daily Action
@@ -440,6 +456,7 @@ def build_payload(
         "regional": _regional_payload(),
         "signals": _signals_payload(),
         "news": _news_payload(),
+        "backtest": _backtest_payload(),
         "mines": [
             {
                 "name": m.name,
