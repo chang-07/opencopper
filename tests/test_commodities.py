@@ -16,11 +16,11 @@ from opencopper.commodities import (
 ALL = list_commodity_names()
 
 
-def test_all_eleven_seeds_load_with_sources():
-    assert len(ALL) == 11
+def test_all_seeds_load_with_sources():
+    assert len(ALL) == 14
     for name in ALL:
         seed = load_commodity(name)
-        assert "usgs.gov" in seed.source
+        assert any(k in seed.source for k in ("usgs.gov", "EIA", "USDA"))
         assert seed.world.production_kt
         assert seed.top_producers
         # listed producers can never exceed the world total

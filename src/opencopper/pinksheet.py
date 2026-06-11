@@ -24,6 +24,7 @@ XLSX_CACHE = CACHE_DIR / "pinksheet-monthly.xlsx"
 # commodity slug -> exact column header in the 'Monthly Prices' sheet
 PINKSHEET_SERIES: dict[str, str] = {
     "silver": "Silver",
+    "crude-oil": "Crude oil, Brent",
 }
 
 

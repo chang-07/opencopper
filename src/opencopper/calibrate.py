@@ -129,6 +129,19 @@ def tail_shape_check(n_paths: int = 1500, seed: int = 11) -> dict:
             for i in range(1, len(path))
             if path[i - 1] > 0 and path[i] > 0
         )
+    def _ac1(rs):
+        if len(rs) < 3:
+            return 0.0
+        mu = sum(rs) / len(rs)
+        num = sum((rs[i] - mu) * (rs[i - 1] - mu) for i in range(1, len(rs)))
+        den = sum((r - mu) ** 2 for r in rs)
+        return num / den if den else 0.0
+
+    sim_ac = []
+    for path in mc.price_paths_sample:
+        rs = [math.log(path[i] / path[i - 1]) for i in range(1, len(path)) if path[i - 1] > 0]
+        if len(rs) >= 3:
+            sim_ac.append(_ac1(rs))
     r_skew, r_kurt = _moments(realized)
     s_skew, s_kurt = _moments(simulated)
     return {
@@ -136,6 +149,8 @@ def tail_shape_check(n_paths: int = 1500, seed: int = 11) -> dict:
         "simulated_skew": round(s_skew, 2),
         "realized_kurtosis": round(r_kurt, 2),
         "simulated_kurtosis": round(s_kurt, 2),
+        "realized_autocorr": round(_ac1(realized), 2),
+        "simulated_autocorr": round(sum(sim_ac) / len(sim_ac), 2) if sim_ac else 0.0,
     }
 
 
@@ -147,6 +162,8 @@ def render_tail_shape(t: dict) -> str:
         "TAIL SHAPE — annual log price changes, realized vs simulated",
         f"  skewness:        realized {t['realized_skew']:+.2f}   simulated {t['simulated_skew']:+.2f}",
         f"  excess kurtosis: realized {t['realized_kurtosis']:+.2f}   simulated {t['simulated_kurtosis']:+.2f}",
+        f"  lag-1 autocorr:  realized {t['realized_autocorr']:+.2f}   simulated {t['simulated_autocorr']:+.2f}"
+        "   (the AR(1) rhos exist to match this)",
         "  (skewness is the matched claim: both right-skewed, as commodity prices",
         "   are. Kurtosis honestly differs: ANNUAL-AVERAGE realized returns are",
         "   near-mesokurtic — averaging hides the monthly fat tails — while the",

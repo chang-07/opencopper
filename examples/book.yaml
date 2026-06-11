@@ -1,0 +1,7 @@
+# Example exposure book — natural units, + long / - short.
+# A fabricated industrial consumer: short copper (future purchases), long a
+# cobalt stockpile, fuel exposure via crude.
+positions:
+  - {commodity: copper, quantity: -1200, label: "H2-26 cathode purchases (consumer)"}
+  - {commodity: cobalt, quantity: 40, label: "strategic Co stockpile (t)"}
+  - {commodity: crude-oil, quantity: -50000, label: "annual fuel buy (bbl)"}

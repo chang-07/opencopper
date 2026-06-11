@@ -1,0 +1,34 @@
+# Seed-estimates from public EIA STEO / OPEC MOMR figures (2024-25); flagged.
+# Units are kb/d (thousand barrels/day) — the schema's *_kt fields are
+# unit-agnostic; shares/HHI/incidence math carries the unit through.
+name: crude-oil
+unit: kb/d (crude incl. condensate)
+source: "EIA STEO / OPEC MOMR public figures (seed-estimate); price: World Bank Pink Sheet (Brent)"
+basis: seed-estimate
+world:
+  production_kt: {2024: 102900, 2025: 104000}
+  reserves_kt: null
+  production_growth_pct: 1.0
+demand:
+  base_kt: 103500
+  base_year: 2025
+  growth_pct: 0.8
+  basis: "EIA world liquids consumption (approx)"
+top_producers:
+  - {country: United States, production_kt: 22000}   # total liquids
+  - {country: Saudi Arabia, production_kt: 11000}
+  - {country: Russia, production_kt: 10800}
+  - {country: Canada, production_kt: 5900}
+  - {country: China, production_kt: 4600}
+  - {country: Iraq, production_kt: 4400}
+  - {country: Iran, production_kt: 4000}
+  - {country: United Arab Emirates, production_kt: 3800}
+  - {country: Brazil, production_kt: 3700}
+  - {country: Kuwait, production_kt: 2700}
+notes: "Diversified vs metals (top1 ~21%) BUT the chokepoint is TRANSIT, not production: ~20 Mb/d moves through Hormuz — modeled as a multi-country supply scenario. OPEC+ spare capacity is the supply elasticity."
+price_note: "Brent ~$75-85/bbl band 2024-25"
+caveats: "Liquids basis (crude+condensate+NGLs mixed across sources); transit risk ≠ production risk; OPEC behavior is strategic, not price-taking."
+drivers:
+  transport: 0.55
+  industrial: 0.25
+  other: 0.20

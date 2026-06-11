@@ -1,0 +1,32 @@
+# Seed-estimates from public EIA / Energy Institute figures; flagged.
+# Units: bcm/yr.
+name: natural-gas
+unit: bcm/yr
+source: "EIA / Energy Institute Statistical Review public figures (seed-estimate); price: FRED PNGASUSUSDM (Henry Hub)"
+basis: seed-estimate
+world:
+  production_kt: {2024: 4150, 2025: 4220}
+  reserves_kt: 190000
+  production_growth_pct: 1.6
+demand:
+  base_kt: 4180
+  base_year: 2025
+  growth_pct: 1.5
+  basis: "consumption ~ production (pipeline+LNG market)"
+top_producers:
+  - {country: United States, production_kt: 1100}
+  - {country: Russia, production_kt: 640}
+  - {country: Iran, production_kt: 260}
+  - {country: China, production_kt: 240}
+  - {country: Canada, production_kt: 190}
+  - {country: Qatar, production_kt: 180}
+  - {country: Australia, production_kt: 150}
+  - {country: Norway, production_kt: 120}
+notes: "Regionally segmented market (Henry Hub vs TTF vs JKM) — one world price is a simplification; LNG is the arbitrage channel. Qatar+Australia+US dominate LNG export growth."
+price_note: "Henry Hub ~$2.90/MMBtu May 2026 (FRED)"
+caveats: "Single-price world model for a regionally segmented market; pipeline politics (Russia-Europe) modeled only as country supply shocks."
+drivers:
+  grid: 0.40
+  industrial: 0.30
+  construction: 0.20
+  other: 0.10

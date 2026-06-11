@@ -1,0 +1,28 @@
+# Seed-estimates from public USDA WASDE figures; flagged. Units: kt.
+name: wheat
+unit: kt
+source: "USDA WASDE public figures (seed-estimate); price: FRED PWHEAMTUSDM (US HRW)"
+basis: seed-estimate
+world:
+  production_kt: {2024: 790000, 2025: 797000}
+  reserves_kt: 265000     # ending stocks, not geological reserves
+  production_growth_pct: 1.0
+demand:
+  base_kt: 803000
+  base_year: 2025
+  growth_pct: 1.0
+  basis: "USDA world consumption (approx)"
+top_producers:
+  - {country: China, production_kt: 140000}
+  - {country: India, production_kt: 113000}
+  - {country: Russia, production_kt: 83000}
+  - {country: United States, production_kt: 53000}
+  - {country: France, production_kt: 36000}
+  - {country: Canada, production_kt: 35000}
+  - {country: Australia, production_kt: 32000}
+  - {country: Ukraine, production_kt: 22000}
+notes: "Production is diversified but EXPORTS are not: Russia+Ukraine ~28% of world exports — the Black Sea is wheat's Hormuz. China/India barely export despite being #1/#2 producers."
+price_note: "US HRW ~$220/t May 2026 (FRED)"
+caveats: "Annual crop = weather IS the disruption distribution; ending stocks play the inventory role; export concentration >> production concentration (modeled via country shocks on exporters)."
+drivers:
+  other: 1.0      # food demand; the industrial-driver taxonomy doesn't apply

@@ -110,3 +110,28 @@ commodities:
     elasticity_demand: 2.0    # "demand" is price-elastic monetary/investment flow
     excluded_from_shock_pricing: true
     note: "flow-shock pricing is the WRONG model for gold (price set by monetary demand vs a 200,000+t above-ground stock); anchor shown for reference only"
+
+  crude-oil:
+    futures: {exchange: NYMEX/ICE, symbol: CL/BZ, contract: "1,000 bbl"}
+    anchor_usd: 80           # USD/bbl Brent, balanced band
+    unit: USD/bbl (Brent)
+    fred_series: null        # priced via Pink Sheet (Crude oil, Brent)
+    elasticity_supply: 0.10  # OPEC+ spare capacity, strategic not price-taking
+    elasticity_demand: 0.10  # famously inelastic short-run
+    note: "transit (Hormuz ~20 Mb/d) is the real chokepoint, modeled as multi-country scenarios"
+  natural-gas:
+    futures: {exchange: NYMEX, symbol: NG, contract: "10,000 MMBtu"}
+    anchor_usd: 3.5          # USD/MMBtu Henry Hub
+    unit: USD/MMBtu (Henry Hub)
+    fred_series: PNGASUSUSDM
+    elasticity_supply: 0.30  # US shale flexes within quarters
+    elasticity_demand: 0.20
+    note: "regionally segmented (HH vs TTF vs JKM); one price is a simplification"
+  wheat:
+    futures: {exchange: CBOT, symbol: ZW, contract: "5,000 bu"}
+    anchor_usd: 240          # USD/t US HRW
+    unit: USD/t (US HRW)
+    fred_series: PWHEAMTUSDM
+    elasticity_supply: 0.15  # next planting season responds
+    elasticity_demand: 0.10  # food: very inelastic
+    note: "export concentration (Black Sea) >> production concentration"

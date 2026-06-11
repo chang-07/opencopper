@@ -39,6 +39,12 @@ COUNTRY_CENTROIDS: dict[str, tuple[float, float]] = {
     "United States": (39.0, -110.0),    # SW copper / mountain west
     "Zambia": (-12.8, 27.8),            # Copperbelt
     "Zimbabwe": (-19.0, 30.0),
+    "Saudi Arabia": (24.0, 45.0),
+    "Iraq": (31.0, 44.4),
+    "Kuwait": (29.3, 47.5),
+    "Qatar": (25.3, 51.2),
+    "France": (47.0, 2.5),
+    "Ukraine": (49.0, 32.0),
 }
 
 

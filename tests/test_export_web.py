@@ -62,7 +62,7 @@ def test_deposit_layer_missing_cache_is_empty_and_plausible_only(tmp_path):
 def test_payload_carries_commodity_tier(payload):
     assert isinstance(payload["deposits"], dict)
     names = [c["name"] for c in payload["commodities"]]
-    assert len(names) == 11 and "cobalt" in names
+    assert len(names) == 14 and "cobalt" in names and "crude-oil" in names
     cobalt = next(c for c in payload["commodities"] if c["name"] == "cobalt")
     assert cobalt["scenario"] is not None  # DRC quota scenario attached
     assert cobalt["concentration"]["top1"] > 0.7

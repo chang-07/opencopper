@@ -1,0 +1,9 @@
+# EXPORT SHOCK: Black Sea wheat disruption (2022 precedent: prices +60% in
+# weeks). Severities reflect EXPORT exposure, not total production — Russia
+# and Ukraine consume much of their own crop.
+name: black-sea-wheat
+commodity: wheat
+description: "Black Sea export disruption 2026: Russian and Ukrainian wheat exports halved"
+events:
+  - {type: country_supply_shock, country: Russia, severity: 0.30, start_year: 2026, end_year: 2026, note: "~55% of its crop is exported; half of that blocked"}
+  - {type: country_supply_shock, country: Ukraine, severity: 0.40, start_year: 2026, end_year: 2026}

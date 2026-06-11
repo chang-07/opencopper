@@ -60,6 +60,19 @@ def _cmd_simulate(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_book(args):
+    from .book import evaluate_book, load_book, render_book
+    from .commodities import load_commodity_scenario
+    from .scenario import load_scenario
+
+    scenario = None
+    if args.scenario:
+        sp = Path(args.scenario)
+        scenario = load_commodity_scenario(sp) if "commodities" in str(sp) else load_scenario(sp)
+    print(render_book(evaluate_book(load_book(Path(args.file)), scenario, year=args.year, n_paths=args.paths)))
+    return 0
+
+
 def _cmd_signals(args: argparse.Namespace) -> int:
     from .signals import build_signals, render_signals, signals_json
 
@@ -472,6 +485,13 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--scenario", default=None)
     p.add_argument("--target", choices=["balance", "price"], default="balance")
     p.set_defaults(func=_cmd_sensitivity)
+
+    p = sub.add_parser("book", help="value YOUR exposures under a scenario: P&L distribution (not advice)")
+    p.add_argument("file", help="exposure book yaml (see examples/book.yaml)")
+    p.add_argument("--scenario", default=None)
+    p.add_argument("--year", type=int, default=2026)
+    p.add_argument("--paths", type=int, default=1500)
+    p.set_defaults(func=_cmd_book)
 
     p = sub.add_parser("signals", help="desk sheet: model vs live market per commodity (decision support, not advice)")
     p.add_argument("--json", action="store_true", help="machine-readable, for your own systems")

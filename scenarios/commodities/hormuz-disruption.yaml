@@ -1,0 +1,13 @@
+# GEOPOLITICAL TRANSIT SHOCK: a Strait of Hormuz disruption strands Gulf
+# exports. ~20 Mb/d transits Hormuz; severities approximate each producer's
+# Hormuz-dependent share (Saudi has partial Red Sea pipeline bypass; UAE has
+# Fujairah). Production-tier proxy for what is really a TRANSIT chokepoint.
+name: hormuz-disruption
+commodity: crude-oil
+description: "Strait of Hormuz disrupted for two quarters (modeled as 2026 partial-year severities on Gulf producers)"
+events:
+  - {type: country_supply_shock, country: Saudi Arabia, severity: 0.30, start_year: 2026, end_year: 2026, note: "East-West pipeline bypasses ~5 Mb/d"}
+  - {type: country_supply_shock, country: Iraq, severity: 0.40, start_year: 2026, end_year: 2026}
+  - {type: country_supply_shock, country: United Arab Emirates, severity: 0.25, start_year: 2026, end_year: 2026, note: "Fujairah bypass"}
+  - {type: country_supply_shock, country: Kuwait, severity: 0.45, start_year: 2026, end_year: 2026}
+  - {type: country_supply_shock, country: Iran, severity: 0.45, start_year: 2026, end_year: 2026}
