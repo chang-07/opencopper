@@ -130,6 +130,11 @@ def run(
         / 365
     )
 
+    cumulative: dict[str, float] = {m.name: 0.0 for m in ledger.mines}
+    remaining_at_start = {
+        m.name: m.remaining_reserves(years[0]) for m in ledger.mines
+    }
+
     for year in years:
         # --- supply: tracked mines + rest-of-world aggregate
         tracked_actual = 0.0
@@ -138,6 +143,13 @@ def run(
         for mine in ledger.mines:
             actual = _mine_production(mine.name, ledger, assumptions, events, year)
             baseline = mine.production(year, assumptions.world.tracked_utilization)
+            # depletion: a mine with known reserves can't out-produce them
+            remaining = remaining_at_start[mine.name]
+            if remaining is not None:
+                left = remaining - cumulative[mine.name]
+                actual = min(actual, max(0.0, left))
+                baseline = min(baseline, max(0.0, left))
+                cumulative[mine.name] += actual
             tracked_actual += actual
             tracked_baseline += baseline
             concentrate_tracked += actual * (1 - mine.sxew_share)

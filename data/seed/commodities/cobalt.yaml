@@ -33,3 +33,7 @@ drivers:
   aerospace: 0.17
   industrial: 0.15
   other: 0.23
+# ~98% of cobalt is mined as a BYPRODUCT — its supply follows the host metal's
+# economics, not cobalt's price. This is why elasticity_supply is 0.05 and why
+# the DRC quota bit so hard.
+byproduct_of: ["copper (DRC Copperbelt — most of world supply)", "nickel (Indonesian HPAL)"]

@@ -121,18 +121,32 @@ def _classify_regimes(months: list[tuple[str, float]]) -> tuple[list[Regime], di
 
 
 def load_price_history(commodity: str) -> Optional[PriceHistory]:
-    """Full FRED history for a commodity, or None if it has no series."""
+    """Full monthly price history: FRED first, World Bank Pink Sheet second,
+    None if neither carries the commodity."""
     price = load_pricebook().commodities.get(commodity)
-    if not price or not price.fred_series:
+    if not price:
         return None
-    months = cached_fred(price.fred_series)
+    months: list[tuple[str, float]] = []
+    series = ""
+    if price.fred_series:
+        months = cached_fred(price.fred_series)
+        series = price.fred_series
+    else:
+        from .pinksheet import PINKSHEET_SERIES, cached_pinksheet
+
+        if commodity in PINKSHEET_SERIES:
+            try:
+                months = cached_pinksheet(commodity)
+                series = f"PinkSheet:{PINKSHEET_SERIES[commodity]}"
+            except Exception:
+                return None
     if len(months) < TREND_WINDOW:
         return None
     annual_avg = _annual_average(months)
     regimes, fractions = _classify_regimes(months)
     return PriceHistory(
         commodity=commodity,
-        series=price.fred_series,
+        series=series,
         months=months,
         annual_volatility=round(_annual_volatility(annual_avg), 4),
         monthly_annualized_vol=round(_monthly_annualized_vol(months), 4),

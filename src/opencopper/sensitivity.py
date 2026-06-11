@@ -93,11 +93,72 @@ def run_sensitivity(
     return rows
 
 
-def render_tornado(rows: list[SensitivityRow], year: int, scenario_name: str) -> str:
+PRICE_SWEEPS: list[tuple[str, float, str]] = [
+    ("gamma", 0.15, "cover-curve gamma (±0.15)"),
+    ("anchor_usd_t", 920.0, "anchor price (±10%)"),
+    ("baseline_days", 2.0, "baseline inventory cover (±2 days)"),
+]
+FEEDBACK_SWEEPS: list[tuple[str, float, str]] = [
+    ("feedback_demand_elasticity", 0.15, "feedback demand elasticity (±0.15)"),
+    ("feedback_scrap_elasticity", 0.25, "feedback scrap elasticity (±0.25)"),
+    ("feedback_adjustment", 0.15, "feedback adjustment speed (±0.15)"),
+]
+
+
+def run_price_sensitivity(year: int = 2026) -> list[SensitivityRow]:
+    """Tornado on the PRICING layer: how much do the judgment-calibrated price
+    parameters move the implied price under the world-2026 composite? This is
+    the quantified answer to 'gamma is hand-set' — the uncertainty is shown,
+    not hidden."""
+    from .pricing import load_pricebook
+    from .scenario import SCENARIO_DIR, load_scenario
+
+    ledger = load_ledger()
+    assumptions = load_assumptions()
+    scenario = load_scenario(SCENARIO_DIR / "world-2026.yaml")
+    book = load_pricebook()
+    years = range(2024, year + 1)
+
+    def implied(curve, **feedback_kwargs) -> float:
+        feedback = bool(feedback_kwargs)
+        rr = run(ledger, assumptions, scenario, years, curve=curve,
+                 feedback=feedback, **feedback_kwargs)
+        return rr.row(year).implied_price_usd
+
+    rows: list[SensitivityRow] = []
+    base = implied(book.copper_cover_curve)
+    for attr, step, label in PRICE_SWEEPS:
+        vals = []
+        for direction in (-1, +1):
+            curve = book.copper_cover_curve.model_copy(deep=True)
+            setattr(curve, attr, getattr(curve, attr) + direction * step)
+            vals.append(implied(curve))
+        rows.append(SensitivityRow(attr, label, vals[0], base, vals[1], abs(vals[1] - vals[0])))
+
+    fb_base = implied(book.copper_cover_curve, feedback_demand_elasticity=0.30,
+                      feedback_scrap_elasticity=0.50, feedback_adjustment=0.30)
+    defaults = {"feedback_demand_elasticity": 0.30, "feedback_scrap_elasticity": 0.50,
+                "feedback_adjustment": 0.30}
+    for attr, step, label in FEEDBACK_SWEEPS:
+        vals = []
+        for direction in (-1, +1):
+            kwargs = dict(defaults)
+            kwargs[attr] = max(0.01, kwargs[attr] + direction * step)
+            vals.append(implied(book.copper_cover_curve, **kwargs))
+        rows.append(SensitivityRow(attr, label + " [fb run]", vals[0], fb_base, vals[1],
+                                   abs(vals[1] - vals[0])))
+    rows.sort(key=lambda r: -r.swing)
+    return rows
+
+
+def render_tornado(
+    rows: list[SensitivityRow], year: int, scenario_name: str,
+    quantity: str = "refined balance (kt)",
+) -> str:
     width = 26
     max_swing = max(r.swing for r in rows) or 1.0
     lines = [
-        f"sensitivity of {year} refined balance (kt) — scenario: {scenario_name}",
+        f"sensitivity of {year} {quantity} — scenario: {scenario_name}",
         f"{'assumption':<38}{'-step':>9}{'base':>9}{'+step':>9}{'swing':>8}",
         "-" * (38 + 9 + 9 + 9 + 8 + 2 + width),
     ]

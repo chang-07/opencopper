@@ -13,6 +13,7 @@ dependencies = [
     "plotly>=5.22",
     "pypdf>=5.0",
     "truststore>=0.10.4",
+    "openpyxl>=3.1.5",
 ]
 
 [project.scripts]

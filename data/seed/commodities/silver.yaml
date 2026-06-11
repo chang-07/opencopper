@@ -34,3 +34,4 @@ drivers:
   pv_solar: 0.2
   industrial: 0.1
   other: 0.1
+byproduct_of: ["lead-zinc mines", "copper mines", "gold mines"]

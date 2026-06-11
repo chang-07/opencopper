@@ -90,10 +90,18 @@ def _cmd_history(args: argparse.Namespace) -> int:
 
 
 def _cmd_validate(args: argparse.Namespace) -> int:
-    from .calibrate import calibrate_copper, hindcast_copper, render_calibration, render_hindcast
+    from .calibrate import (
+        calibrate_copper,
+        hindcast_copper,
+        render_calibration,
+        render_hindcast,
+        render_tail_shape,
+        tail_shape_check,
+    )
     from .history import load_price_history
 
     print(render_calibration(calibrate_copper(n_paths=args.paths)))
+    print(render_tail_shape(tail_shape_check(n_paths=args.paths)))
     hist = load_price_history("copper")
     print(render_hindcast(hindcast_copper(), hist.end[:7] if hist else "?"))
     return 0
@@ -347,8 +355,14 @@ def _print_commodity_price_impact(seed, run) -> None:
 
 
 def _cmd_sensitivity(args: argparse.Namespace) -> int:
-    from .sensitivity import render_tornado, run_sensitivity
+    from .sensitivity import render_tornado, run_price_sensitivity, run_sensitivity
 
+    if args.target == "price":
+        rows = run_price_sensitivity(year=args.year)
+        print(render_tornado(rows, args.year, "world-2026", quantity="implied price (USD/t)"))
+        print("\nThese are the judgment-calibrated pricing parameters — the tornado IS")
+        print("their uncertainty statement. See github issue #3 for fitting gamma.")
+        return 0
     scenario = None
     name = "baseline"
     if args.scenario:
@@ -434,9 +448,10 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--out", default="web/data.js")
     p.set_defaults(func=_cmd_export_web)
 
-    p = sub.add_parser("sensitivity", help="tornado: which assumption moves the balance most")
+    p = sub.add_parser("sensitivity", help="tornado: which assumption moves the balance (or price) most")
     p.add_argument("--year", type=int, default=2026)
     p.add_argument("--scenario", default=None)
+    p.add_argument("--target", choices=["balance", "price"], default="balance")
     p.set_defaults(func=_cmd_sensitivity)
 
     p = sub.add_parser("montecarlo", help="stochastic simulation: price/balance bands, P(deficit), P(spike)")

@@ -73,6 +73,7 @@ class CommoditySeed(BaseModel):
     demand: CommodityDemand
     top_producers: list[Producer]
     drivers: dict[str, float] = Field(default_factory=dict)  # demand share per global driver
+    byproduct_of: list[str] = Field(default_factory=list)  # host metals, when supply is byproduct
     notes: str = ""
     price_note: str = ""
     caveats: str = ""
@@ -362,6 +363,8 @@ def render_commodity_report(seed: CommoditySeed, run: CommodityRun) -> str:
             f"{r.year:<6}{r.supply_kt:>10,.0f}{r.demand_kt:>10,.0f}"
             f"{r.supply_lost_kt:>8,.0f}{r.drift_kt:>+9,.0f}"
         )
+    if seed.byproduct_of:
+        lines += ["", f"BYPRODUCT of {', '.join(seed.byproduct_of)} — supply follows the host, not this price."]
     if seed.notes:
         lines += ["", f"notes: {seed.notes}"]
     return "\n".join(lines)

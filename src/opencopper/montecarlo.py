@@ -42,8 +42,15 @@ class DisruptionParams:
     knob."""
 
     disruption_mean: float = 0.05   # mean fraction of mine supply lost per year
-    disruption_cv: float = 0.167    # calibrated to realized copper price vol (22%)
-    demand_sigma: float = 0.008     # calibrated std of annual demand surprise
+    disruption_cv: float = 0.185    # calibrated to realized copper price vol (22%)
+    demand_sigma: float = 0.009     # calibrated std of annual demand surprise
+    # Surprises persist: a bad disruption year tends to bleed into the next
+    # (recoveries take time) and demand shocks are business cycles, not coin
+    # flips. AR(1) on both drivers gives the clustered deficits and fatter
+    # tails real markets show. Sigmas above are the STATIONARY magnitudes;
+    # innovations are scaled by sqrt(1-rho^2).
+    disruption_rho: float = 0.35
+    demand_rho: float = 0.5
 
     def gamma_params(self) -> tuple[float, float]:
         # Gamma(shape k, scale θ): mean = kθ, CV = 1/√k
@@ -150,13 +157,20 @@ def simulate_copper(
     deficit_hits = {y: 0 for y in year_list}
     spike_hits = {y: 0 for y in year_list}
 
+    s_rho, d_rho = params.disruption_rho, params.demand_rho
+    s_innov = (1 - s_rho**2) ** 0.5
+    d_innov = (1 - d_rho**2) ** 0.5
     for _ in range(n_paths):
         supply_mult, demand_mult = {}, {}
+        s_state = 0.0  # AR(1) state of the disruption SURPRISE (mean-zero)
+        d_state = 0.0
         for y in year_list:
             draw = min(0.6, rng.gammavariate(k, theta))  # cap a runaway tail at 60%
-            surprise = draw - mean_disruption  # >0 = worse than expected
-            supply_mult[y] = min(1.10, max(0.5, 1.0 - surprise))
-            demand_mult[y] = 1.0 + rng.gauss(0.0, params.demand_sigma)
+            innovation = draw - mean_disruption  # >0 = worse than expected
+            s_state = s_rho * s_state + s_innov * innovation
+            d_state = d_rho * d_state + d_innov * rng.gauss(0.0, params.demand_sigma)
+            supply_mult[y] = min(1.10, max(0.5, 1.0 - s_state))
+            demand_mult[y] = 1.0 + d_state
         # Monte Carlo runs WITHOUT the lagged price feedback: this model's thin
         # inventory gives the cover->price curve such high gain that a lagged
         # demand/scrap loop cobwebs into oscillation (loop gain > 1). Volatility

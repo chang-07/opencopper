@@ -193,6 +193,7 @@ def _commodity_payloads() -> list[dict]:
             "baseline": [asdict(r) for r in baseline.rows],
             "scenario": None,
             "drivers": seed.drivers,
+            "byproduct_of": seed.byproduct_of,
             "notes": seed.notes,
             "source": seed.source,
         }

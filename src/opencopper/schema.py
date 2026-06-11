@@ -55,6 +55,19 @@ class MineRecord(BaseModel):
     notes: Optional[str] = None
     lat: Optional[float] = Field(default=None, description="approximate, for map display only")
     lon: Optional[float] = Field(default=None, description="approximate, for map display only")
+    # Depletion: when reserves are known, the engine retires the mine once
+    # cumulative production exhausts what remained as of `reserves_as_of`.
+    reserves_kt: Optional[float] = Field(default=None, description="contained Cu reserve")
+    reserves_as_of: Optional[int] = Field(default=None, description="effective year of the reserve statement")
+
+    def remaining_reserves(self, at_year: int) -> Optional[float]:
+        """Reserve remaining at the START of `at_year`, approximating the gap
+        years since the statement at capacity x a 0.93 utilization."""
+        if self.reserves_kt is None or self.reserves_as_of is None:
+            return None
+        elapsed = max(0, at_year - self.reserves_as_of)
+        consumed = elapsed * self.capacity_kt * 0.93
+        return max(0.0, self.reserves_kt - consumed)
 
     def production(self, year: int, utilization: float = 1.0) -> float:
         """Baseline production for a year before shocks are applied."""
