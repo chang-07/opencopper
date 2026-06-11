@@ -1,5 +1,17 @@
 # opencopper
 
+[![ci](https://github.com/chang-07/opencopper/actions/workflows/ci.yml/badge.svg)](https://github.com/chang-07/opencopper/actions/workflows/ci.yml)
+[![demo](https://img.shields.io/badge/demo-live-b87333)](https://chang-07.github.io/opencopper/)
+[![license](https://img.shields.io/badge/license-MIT-2f3b4d)](LICENSE)
+
+### ▶ [Live demo — shock a country, predict the ripple](https://chang-07.github.io/opencopper/)
+
+[![opencopper world simulator](web/social-card.png)](https://chang-07.github.io/opencopper/)
+
+Try a deep link: [the DRC at −50%](https://chang-07.github.io/opencopper/#sim=country,Congo%20(Kinshasa),50) ·
+[Indonesia nickel at −40%](https://chang-07.github.io/opencopper/#sim=country,Indonesia,40) ·
+[batteries demand −30%](https://chang-07.github.io/opencopper/#sim=driver,batteries,30,down)
+
 **An open supply/demand world model for mined commodities.** Copper gets the
 full treatment — an LLM-built, mine-level ledger plus a transparent simulator
 for the shocks that move the market (mine disasters, smelter closures, export
@@ -13,6 +25,11 @@ enterprise-priced, black-box, output-only. opencopper takes the opposite
 position: **every assumption is a line in a YAML file you can read, dispute,
 and PR.** The model is wrong, like all models — but it shows its work.
 Full formal writeup: [docs/methodology.md](docs/methodology.md).
+
+**It makes falsifiable calls:** [PREDICTIONS.md](PREDICTIONS.md) is a
+timestamped registry of the model's pre-resolution predictions (the June 30
+tariff decision, Panama, the 2026 ICSG balance), graded publicly when each
+resolves — hits and misses both stay forever.
 
 **It is a real stochastic world model, not a trend line.** Market states come
 from 34 years of price history (regimes: glut/balanced/tight); a Monte Carlo

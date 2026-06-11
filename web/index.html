@@ -4,6 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>opencopper — an open world model for commodity markets</title>
+<meta property="og:title" content="opencopper — an open world model for commodity markets">
+<meta property="og:description" content="Shock a country, predict the cross-commodity price ripple. Mine-level copper + 11 majors + 8,300 deposits, Monte Carlo calibrated to 34 years of price history. Every assumption is a YAML line you can dispute.">
+<meta property="og:image" content="https://chang-07.github.io/opencopper/social-card.png">
+<meta property="og:url" content="https://chang-07.github.io/opencopper/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://chang-07.github.io/opencopper/social-card.png">
+<meta name="description" content="An open, auditable supply/demand world model for mined commodities — interactive shock simulator with calibrated uncertainty.">
+
 <script src="https://cdn.plot.ly/plotly-3.6.0.min.js" charset="utf-8"></script>
 <script src="data.js"></script>
 <style>
@@ -71,6 +80,22 @@
   .sim-unit { color: var(--muted); }
   footer { color: var(--muted); font-size: 13px; margin-top: 26px; max-width: 90ch; }
   footer a { color: var(--copper-hot); }
+  @media (max-width: 640px) {
+    .wrap { padding: 16px 10px 50px; }
+    header h1 { font-size: 24px; }
+    .tagline { font-size: 13.5px; }
+    .catalyst { padding: 8px 10px; font-size: 12px; }
+    nav button { padding: 6px 12px; font-size: 13px; }
+    .panel { padding: 12px; }
+    .panel h2 { font-size: 16px; }
+    .controls { padding: 9px 10px; gap: 8px; }
+    input[type=range] { width: 150px; }
+    .stat { min-width: 0; flex: 1 1 40%; padding: 8px 10px; }
+    .stat .v { font-size: 17px; }
+    .sim-impact { font-size: 21px; }
+    #sim-cards { grid-template-columns: 1fr; }
+    th, td { padding: 5px 6px; font-size: 12px; }
+  }
 </style>
 </head>
 <body>
@@ -386,7 +411,7 @@ const VIEWS = {
     label: 'World Simulator',
     init() {
       const countries = D.countries || [];
-      document.getElementById('chart').style.height = '440px';  // natural-earth fills a shorter frame
+      document.getElementById('chart').style.height = (innerWidth < 640 ? '300px' : '440px');  // natural-earth fills a shorter frame
       host.title.textContent = 'World simulator — shock a producer, predict the ripple';
       const sevVals = [10, 20, 30, 40, 50, 60, 75, 90];
       const driverSet = [...new Set((D.commodities || []).flatMap(c => Object.keys(c.drivers || {})))]
@@ -765,7 +790,7 @@ function activate(key) {
   document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
   document.getElementById(`tab-${key}`).classList.add('active');
   host.table.innerHTML = '';
-  document.getElementById('chart').style.height = '560px';
+  document.getElementById('chart').style.height = (innerWidth < 640 ? '430px' : '560px');
   VIEWS[key].init();
 }
 activate('decision');
