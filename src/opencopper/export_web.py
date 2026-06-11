@@ -271,6 +271,42 @@ def _simulation_payload(n_paths: int = 2500) -> dict:
     return runs
 
 
+def _commodity_sim_payload(n_paths: int = 1500) -> dict:
+    """Country-tier Monte Carlo fans for every priced commodity: baseline +
+    the commodity's shipped scenario where one exists."""
+    from .commodities import DriverScenario
+    from .montecarlo import simulate_commodity
+
+    scenario_by_commodity = {}
+    for path in sorted(COMMODITY_SCENARIO_DIR.glob("*.yaml")):
+        sc = load_commodity_scenario(path)
+        if not isinstance(sc, DriverScenario):
+            scenario_by_commodity[sc.commodity] = sc
+
+    def pack(mc):
+        return {
+            "years": mc.years,
+            "price": {"p10": mc.price.p10, "p50": mc.price.p50, "p90": mc.price.p90},
+            "prob_double": mc.prob_double,
+            "prob_halve": mc.prob_halve,
+            "sim_vol": mc.simulated_annual_vol,
+            "target_vol": mc.target_vol,
+            "scenario": mc.scenario,
+        }
+
+    out = {}
+    for name in list_commodity_names():
+        base = simulate_commodity(name, n_paths=n_paths, seed=42)
+        if base is None:
+            continue  # gold: excluded from shock pricing
+        entry = {"baseline": pack(base)}
+        if name in scenario_by_commodity:
+            shocked = simulate_commodity(name, scenario_by_commodity[name], n_paths=n_paths, seed=42)
+            entry["scenario"] = pack(shocked)
+        out[name] = entry
+    return out
+
+
 def build_payload(
     minmod_cache: Path = MINMOD_CACHE,
     fetch_live_prices: bool = True,
@@ -339,6 +375,7 @@ def build_payload(
         "history": _history_payload(),
         "countries": _country_payload(),
         "simulation": _simulation_payload(mc_paths),
+        "commoditySim": _commodity_sim_payload(),
         "mines": [
             {
                 "name": m.name,

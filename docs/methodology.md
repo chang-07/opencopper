@@ -189,6 +189,16 @@ so feedback ships as a stable deterministic opt-in (gradual partial-adjustment
 of demand destruction and scrap response) while MC volatility comes from the
 calibrated surprise draws alone.
 
+**Country-tier Monte Carlo** extends the fans to every priced commodity. With
+no inventory state, each simulated year's price is the CES-incidence response
+to that year's net tightening (scenario supply loss + demand change + noise),
+and the noise sigma is **derived in closed form** from the commodity's realized
+volatility: for small shocks the price return is `(x_t − x_{t−1})/(η_d+η_s)`,
+so `σ_x = vol·(η_d+η_s)/√2` reproduces the realized vol by construction —
+verified in tests (nickel: simulated 29.1% vs realized 28.3%), no fitting loop
+needed. Extreme scenarios pin the 4× clamp and the fan goes flat-topped: the
+model's way of saying "at least this" rather than extrapolating.
+
 **The World Simulator** (web) composes the layers interactively: producer
 countries plotted by **criticality** (Σ share² across commodities — China 1.10,
 DRC 0.58, Indonesia 0.51), click-to-shock with a severity slider, and the

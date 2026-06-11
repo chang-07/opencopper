@@ -249,13 +249,60 @@ const VIEWS = {
   scenarios: {
     label: 'Forecasts',
     init() {
-      host.title.textContent = 'Probabilistic forecasts — 2,500 simulated futures per scenario';
+      host.title.textContent = 'Probabilistic forecasts — thousands of simulated futures per scenario';
+      const comNames = ['copper', ...Object.keys(D.commoditySim || {}).filter(n => n !== 'copper').sort()];
       const names = Object.keys(D.scenarios);
-      host.controls.innerHTML = `<label>scenario</label><select id="s-pick">` +
+      host.controls.innerHTML = `<label>commodity</label><select id="f-com">` +
+        comNames.map(n => `<option>${n}</option>`).join('') + `</select>
+        <span id="f-copper-ctls"><label>scenario</label><select id="s-pick">` +
         names.map(n => `<option ${n === 'world-2026' ? 'selected' : ''}>${n}</option>`).join('') + `</select>
-        <div class="toggle"><button id="s-det">DETERMINISTIC</button><button id="s-mc" class="active">MONTE CARLO</button></div>`;
+        <div class="toggle"><button id="s-det">DETERMINISTIC</button><button id="s-mc" class="active">MONTE CARLO</button></div></span>
+        <span id="f-com-ctls" style="display:none"><div class="toggle">
+          <button id="f-base">BASELINE</button><button id="f-shock" class="active">SHOCK</button></div></span>`;
       const pick = document.getElementById('s-pick');
-      let mcMode = true;
+      const comPick = document.getElementById('f-com');
+      let mcMode = true, comShock = true;
+
+      const drawComFan = name => {
+        const data = D.commoditySim[name];
+        const useShock = comShock && data.scenario;
+        const mc = useShock ? data.scenario : data.baseline;
+        const px = D.prices.commodities[name];
+        const years = mc.years;
+        const yi = years.indexOf(2026);
+        host.sub.textContent = (useShock
+          ? `Scenario '${mc.scenario}' on the country tier (no inventory state — price is the CES-incidence response to each year's net tightening + calibrated noise).`
+          : `Baseline: trend supply/demand + gap noise calibrated to ${(mc.target_vol * 100).toFixed(0)}% ambient volatility.`) +
+          ' Fan = P10–P90 across simulated futures; flat-topped fans mean the 4× model-range clamp is binding.';
+        document.getElementById('stats').innerHTML = [
+          ['P(≥2× anchor) 2026', `${Math.round((mc.prob_double['2026'] || 0) * 100)}%`, (mc.prob_double['2026'] || 0) > 0.4 ? 'neg' : ''],
+          ['P(≤½ anchor) 2026', `${Math.round((mc.prob_halve['2026'] || 0) * 100)}%`, ''],
+          ['price P50 2026', `$${fmt(mc.price.p50[yi])}`, ''],
+          ['P10–P90 2026', `$${fmt(mc.price.p10[yi])} – $${fmt(mc.price.p90[yi])}`, ''],
+          ['vol: sim vs target', `${(mc.sim_vol * 100).toFixed(0)}% / ${(mc.target_vol * 100).toFixed(0)}%`, ''],
+        ].map(([k, v, cls]) => `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
+        const traces = [
+          {x: years, y: mc.price.p90, type: 'scatter', line: {width: 0}, hoverinfo: 'skip', showlegend: false, xaxis: 'x', yaxis: 'y'},
+          {x: years, y: mc.price.p10, type: 'scatter', line: {width: 0}, fill: 'tonexty',
+           fillcolor: 'rgba(232,149,79,0.18)', name: 'P10–P90', xaxis: 'x', yaxis: 'y'},
+          {x: years, y: mc.price.p50, type: 'scatter', name: `${name} P50`, line: {color: '#e8954f', width: 2.5}, xaxis: 'x', yaxis: 'y'},
+          {x: years, y: years.map(() => px.anchor_usd), type: 'scatter', name: 'anchor', line: {color: '#8a94a0', dash: 'dot'}, xaxis: 'x', yaxis: 'y'},
+          {x: years, y: years.map(y => (mc.prob_double[String(y)] || 0) * 100), type: 'bar', name: 'P(≥2× anchor) %', marker: {color: '#c4604f'}, xaxis: 'x2', yaxis: 'y2'},
+          {x: years, y: years.map(y => (mc.prob_halve[String(y)] || 0) * 100), type: 'scatter', name: 'P(≤½ anchor) %', line: {color: '#5b8fb9'}, xaxis: 'x2', yaxis: 'y2'},
+        ];
+        Plotly.react('chart', traces, {
+          grid: {rows: 2, columns: 1, pattern: 'independent'},
+          paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)',
+          font: {color: '#c9c2b6', family: 'Georgia, serif', size: 12},
+          margin: {l: 64, r: 16, t: 30, b: 36}, showlegend: true, legend: {orientation: 'h', y: -0.08},
+          annotations: [
+            {text: `Implied ${name} price — P10/P50/P90 (${px.unit})`, xref: 'paper', yref: 'paper', x: 0, y: 1.06, showarrow: false, font: {size: 13, color: '#e8e3da'}},
+            {text: 'Tail-event probabilities by year', xref: 'paper', yref: 'paper', x: 0, y: 0.40, showarrow: false, font: {size: 13, color: '#e8e3da'}},
+          ],
+          xaxis: {gridcolor: '#283342', dtick: 1}, yaxis: {gridcolor: '#283342'},
+          xaxis2: {gridcolor: '#283342', dtick: 1}, yaxis2: {gridcolor: '#283342', range: [0, 105], ticksuffix: '%'},
+        }, {displayModeBar: false, responsive: true});
+      };
 
       const drawFan = name => {
         const mc = D.simulation[name], base = D.simulation['baseline'];
@@ -301,6 +348,12 @@ const VIEWS = {
       };
 
       const update = () => {
+        const commodity = comPick.value;
+        const isCopper = commodity === 'copper';
+        document.getElementById('f-copper-ctls').style.display = isCopper ? '' : 'none';
+        document.getElementById('f-com-ctls').style.display =
+          !isCopper && D.commoditySim[commodity].scenario ? '' : 'none';
+        if (!isCopper) { drawComFan(commodity); return; }
         const s = D.scenarios[pick.value];
         const hasMC = !!(D.simulation || {})[pick.value];
         document.getElementById('s-mc').style.display = hasMC ? '' : 'none';
@@ -318,6 +371,13 @@ const VIEWS = {
       document.getElementById('s-mc').onclick = () => { mcMode = true;
         document.getElementById('s-det').classList.remove('active');
         document.getElementById('s-mc').classList.add('active'); update(); };
+      document.getElementById('f-base').onclick = () => { comShock = false;
+        document.getElementById('f-shock').classList.remove('active');
+        document.getElementById('f-base').classList.add('active'); update(); };
+      document.getElementById('f-shock').onclick = () => { comShock = true;
+        document.getElementById('f-base').classList.remove('active');
+        document.getElementById('f-shock').classList.add('active'); update(); };
+      comPick.onchange = update;
       pick.onchange = update; update();
     },
   },

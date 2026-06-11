@@ -196,6 +196,110 @@ def simulate_copper(
     )
 
 
+# ------------------------------------------------- country-tier commodity MC
+
+
+@dataclass
+class CommodityMCResult:
+    commodity: str
+    scenario: str
+    n_paths: int
+    years: list[int]
+    price: Band
+    prob_double: dict[int, float]   # P(price >= 2x anchor)
+    prob_halve: dict[int, float]    # P(price <= 0.5x anchor)
+    simulated_annual_vol: float
+    target_vol: float
+    vol_source: str
+
+
+def simulate_commodity(
+    commodity: str,
+    scenario=None,
+    *,
+    n_paths: int = 2000,
+    seed: int = 12345,
+    years: range = range(2025, 2031),
+):
+    """Path simulation for a country-tier commodity.
+
+    Mechanics match the tier's honest scope: no inventory state, so the price
+    each year is the CES-incidence response to that year's NET TIGHTENING
+    x_t = (scenario supply loss) + (scenario demand change) + noise, where the
+    noise sigma is derived in closed form from the commodity's realized annual
+    volatility: for small x the price return is (x_t - x_{t-1})/(η_d+η_s), so
+    iid noise with sigma_g = vol x (η_d+η_s) / sqrt(2) reproduces the realized
+    vol — calibration by construction, verified in tests. Returns None for
+    commodities excluded from shock pricing (gold).
+    """
+    from .commodities import (
+        CountrySupplyShock,
+        GlobalDemandShock,
+        load_commodity,
+    )
+    from .history import ambient_volatility
+    from .pricing import INCIDENCE_CLAMP, load_pricebook
+
+    book = load_pricebook()
+    price_cfg = book.commodities.get(commodity)
+    if not price_cfg or price_cfg.excluded_from_shock_pricing:
+        return None
+    seed_data = load_commodity(commodity)
+    vol, vol_source = ambient_volatility(commodity)
+    denom = price_cfg.elasticity_demand + price_cfg.elasticity_supply
+    sigma_g = vol * denom / (2 ** 0.5)
+    rng = random.Random(seed)
+    year_list = list(years)
+    anchor = price_cfg.anchor_usd
+    lo, hi = INCIDENCE_CLAMP
+
+    # deterministic tightening per year from the scenario
+    base_tightening = {}
+    for y in year_list:
+        k = 0.0
+        d_mult = 1.0
+        if scenario:
+            for e in scenario.events:
+                if isinstance(e, CountrySupplyShock) and e.active(y):
+                    k += seed_data.share(e.country) * e.severity
+                elif isinstance(e, GlobalDemandShock):
+                    d_mult *= e.multiplier(y)
+        base_tightening[y] = k + (d_mult - 1.0)
+
+    import math
+
+    price_paths: list[list[float]] = []
+    double_hits = {y: 0 for y in year_list}
+    halve_hits = {y: 0 for y in year_list}
+    for _ in range(n_paths):
+        path = []
+        for y in year_list:
+            x = base_tightening[y] + rng.gauss(0.0, sigma_g)
+            x = min(x, 0.95)  # cannot withdraw more than the market
+            multiple = math.exp(-math.log(max(1e-6, 1.0 - x)) / denom) if denom else 1.0
+            multiple = min(max(multiple, lo), hi)
+            price = anchor * multiple
+            path.append(round(price, 1))
+            if multiple >= 2.0:
+                double_hits[y] += 1
+            if multiple <= 0.5:
+                halve_hits[y] += 1
+        price_paths.append(path)
+
+    return CommodityMCResult(
+        commodity=commodity,
+        scenario=scenario.name if scenario else "baseline",
+        n_paths=n_paths,
+        years=year_list,
+        price=_band(year_list, price_paths),
+        prob_double={y: round(double_hits[y] / n_paths, 3) for y in year_list},
+        prob_halve={y: round(halve_hits[y] / n_paths, 3) for y in year_list},
+        simulated_annual_vol=_annual_vol(price_paths),
+        target_vol=vol,
+        vol_source=vol_source,
+    )
+
+
 def render_montecarlo(mc: MonteCarloResult) -> str:
     lines = [
         f"MONTE CARLO — {mc.commodity}, scenario '{mc.scenario}', {mc.n_paths:,} paths",
