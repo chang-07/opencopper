@@ -6,9 +6,9 @@ engineering narrative (that's what each platform rewards).
 
 ## Pre-flight checklist
 
-- [ ] `gh auth refresh -h github.com -s workflow` then `git push -u origin main`
-- [ ] Enable Pages: `gh api repos/chang-07/opencopper/pages -X POST -f build_type=workflow`
-- [ ] Confirm the demo loads at `https://chang-07.github.io/opencopper/`
+- [x] pushed — repo live at github.com/chang-07/opencopper, CI green
+- [x] Pages enabled — auto-deploys on every push
+- [x] demo live at https://chang-07.github.io/opencopper/ (OG card + deep links verified)
 - [ ] Screenshots: World Simulator with DRC selected (`#sim=country,Congo%20(Kinshasa),50`),
       the cobalt Forecast fan, the Panama Decision toggle
 - [ ] Timing: before June 30 (the Commerce tariff report) — both catalyst
