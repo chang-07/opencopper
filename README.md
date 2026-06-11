@@ -89,7 +89,7 @@ Two coupled annual balances, because the market clears in two stages and the
    flows into inventory cover, reported as `price_pressure` — an index,
    deliberately **not** a price forecast.
 
-Tracked mines (27 today, ~42% of world supply) are modeled individually; the
+Tracked mines (31 today, ~45% of world supply) are modeled individually; the
 rest of the world is an explicit aggregate with a disruption allowance. Shocks
 are typed, parameterized events (`MineOutage`, `MineRestart`, `SmelterClosure`,
 `DemandShock`, `Tariff`, `ExportBlock`) composed in YAML scenario files.
