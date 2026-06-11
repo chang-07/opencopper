@@ -111,7 +111,16 @@ uv run opencopper export-web && python3 -m http.server -d web      # the interac
 uv run opencopper history --commodity copper      # 34yr regimes + realized volatility
 uv run opencopper validate                         # calibrate the simulator to history (22% ≈ 22%)
 uv run opencopper montecarlo --scenario scenarios/grasberg-2025.yaml   # P10/P50/P90, P(deficit), P(spike)
+uv run opencopper regional --scenario scenarios/us-refined-tariff-2026.yaml  # quarterly COMEX-LME arb
+uv run opencopper sensitivity --target price                           # the pricing parameters' own tornado
 ```
+
+**The regional layer models the arb itself.** A quarterly US/China/RoW
+trade-flow model: contracted baseline flows meet structural deficits, marginal
+cargoes chase regional premia with a shipping lag, and a tariff is a wedge the
+marginal imported ton pays — so the simulated June-30 scenario reproduces the
+observed 2025 sequence (anticipation spike → unwind → premium pinned at the
+wedge). The Tariff Lab plots it per rate.
 
 The Monte Carlo engine wraps the balance model in stochastic mine-disruption
 and demand-surprise draws (mean-zero around the expected disruption, so the

@@ -206,6 +206,29 @@ predicted per-commodity price ripple via elasticity-incidence with a ±25%
 elasticity-uncertainty band, each card tagged with the commodity's *current
 historical regime*. The Forecasts tab shows the Monte Carlo fan per scenario.
 
+## The regional layer: quarterly trade flows and the COMEX–LME arb
+
+The annual engine clears the world; `regional.py` disaggregates it into
+US / China / RoW at **quarterly** resolution and lets the regions trade —
+because the 2025-26 copper story was regional and a global model structurally
+cannot see it. Mechanics: explicit refined-supply and demand shares per
+region; regional inventories; a region's premium rises with its cover
+shortfall (clamped at storage-arb bounds, −15/+60%); **structural deficits are
+met by continuous contracted baseline flows** (without which a premium-chasing
+controller oscillates famine/flood — the first version did, and the test suite
+now forbids it); marginal cargoes re-route toward the premium with a
+one-quarter shipping lag and a 1% dead band.
+
+A tariff enters twice, honestly: as a **wedge priced into the US premium**
+(the marginal imported ton pays it, so post-tariff the premium pins at ~the
+tariff rate — the arb-with-a-tax steady state), and as **anticipation** —
+announced tariffs pull US demand forward in the prior quarters and pay it back
+after, demand-conserving. The simulated shape under the June-30 scenario is
+the observed 2025 sequence: front-run spike → effective-date unwind → pin at
+the wedge. Documented simplifications: flat intra-year supply/demand (no
+seasonality data), no regional demand elasticity (world surpluses park in RoW
+as late-horizon discounts), three regions only.
+
 ## Data layers and the provenance ladder
 
 Every quantity carries a `basis` tag and can only move up the ladder with

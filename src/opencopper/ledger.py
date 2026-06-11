@@ -89,6 +89,7 @@ class Assumptions(BaseModel):
     smelting: SmeltingAssumptions
     demand: DemandAssumptions
     refined: RefinedAssumptions
+    regional: dict | None = None  # quarterly trade-flow layer config (regional.py)
 
 
 class Ledger(BaseModel):

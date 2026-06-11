@@ -60,6 +60,17 @@ def _cmd_simulate(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_regional(args: argparse.Namespace) -> int:
+    from .balance import BASELINE
+    from .regional import render_regional, run_regional
+    from .scenario import load_scenario
+
+    scenario = load_scenario(Path(args.scenario)) if args.scenario else BASELINE
+    rr = run_regional(scenario)
+    print(render_regional(rr, around_year=args.around or None))
+    return 0
+
+
 def _cmd_montecarlo(args: argparse.Namespace) -> int:
     from .balance import BASELINE
     from .montecarlo import render_montecarlo, simulate_copper
@@ -453,6 +464,11 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--scenario", default=None)
     p.add_argument("--target", choices=["balance", "price"], default="balance")
     p.set_defaults(func=_cmd_sensitivity)
+
+    p = sub.add_parser("regional", help="quarterly 3-region trade flows: covers, premia, the COMEX-LME arb")
+    p.add_argument("--scenario", default=None, help="scenarios/*.yaml (default: baseline)")
+    p.add_argument("--around", type=int, default=2026, help="print quarters around this year (0 = all)")
+    p.set_defaults(func=_cmd_regional)
 
     p = sub.add_parser("montecarlo", help="stochastic simulation: price/balance bands, P(deficit), P(spike)")
     p.add_argument("--scenario", default=None, help="scenarios/*.yaml (default: baseline)")

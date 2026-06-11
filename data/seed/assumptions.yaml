@@ -55,3 +55,21 @@ refined:
   secondary_supply_kt_2024: 4500    # refined output from scrap
   secondary_growth_pct: 3.0         # scrap supply responds to high prices
   inventory_days_baseline: 12.0     # exchange + bonded cover, days of consumption
+
+# Quarterly 3-region trade-flow layer (the COMEX-LME arb mechanism).
+# Disaggregates the annual engine's world totals; every parameter is a
+# disputable seed-estimate.
+regional:
+  refined_supply_shares:            # where refined metal is MADE (China smelts ~half)
+    us: 0.045
+    china: 0.49
+    row: 0.465
+  demand_region_map:                # demand regions -> trade regions
+    us: [north_america]
+    china: [china]
+    row: [europe, rest_of_world]
+  premium_pi: 0.6                   # regional premium % per 100% cover shortfall vs target
+  flow_elasticity: 0.5              # share of world demand that re-routes per 100% premium gap
+  shipping_lag_quarters: 1          # metal decided at t arrives at t+1
+  anticipation_quarters: 2          # buyers front-run an announced tariff...
+  anticipation_surge: 0.15          # ...pulling forward 15% of a quarter's demand, paid back after

@@ -246,10 +246,28 @@ const VIEWS = {
         <input type="range" id="t-slider" min="0" max="${vals.length - 1}" value="${vals.indexOf(25)}" step="1">
         <span class="value" id="t-value"></span>`;
       const slider = document.getElementById('t-slider');
+      const drawPremium = rate => {
+        if (!D.regional) return;
+        host.table.innerHTML = '<div id="premium-chart" style="height:300px"></div>';
+        const sel = D.regional.runs[String(rate)], zero = D.regional.runs['0'];
+        Plotly.newPlot('premium-chart', [
+          {x: sel.labels, y: sel.us_minus_row, name: `US−RoW premium @ ${rate}% tariff`,
+           line: {color: '#e8954f', width: 2.5}},
+          {x: zero.labels, y: zero.us_minus_row, name: 'no tariff', line: {color: '#8a94a0', dash: 'dash'}},
+        ], {
+          paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)',
+          font: {color: '#c9c2b6', family: 'Georgia, serif', size: 12},
+          margin: {l: 50, r: 14, t: 30, b: 50}, showlegend: true, legend: {orientation: 'h', y: -0.25},
+          annotations: [{text: 'The COMEX–LME arb, quarterly: anticipation spike → unwind → premium pins at the wedge',
+            xref: 'paper', yref: 'paper', x: 0, y: 1.12, showarrow: false, font: {size: 13, color: '#e8e3da'}}],
+          xaxis: {gridcolor: '#283342', tickangle: -45, nticks: 14}, yaxis: {gridcolor: '#283342', ticksuffix: '%'},
+        }, {displayModeBar: false, responsive: true});
+      };
       const update = () => {
         const rate = vals[+slider.value];
         document.getElementById('t-value').textContent = rate + '%';
         draw(D.labs.tariff.runs[String(rate)], `${rate}% tariff`);
+        drawPremium(rate);
       };
       slider.oninput = update; update();
     },

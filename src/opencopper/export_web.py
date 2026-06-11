@@ -308,6 +308,25 @@ def _commodity_sim_payload(n_paths: int = 1500) -> dict:
     return out
 
 
+def _regional_payload() -> dict:
+    """Quarterly US premium paths per tariff-grid rate (the COMEX-LME arb)."""
+    from .regional import run_regional
+
+    runs = {}
+    for rate in TARIFF_RATES:
+        scenario = Scenario(
+            name=f"tariff-{rate}",
+            events=[Tariff(rate_pct=rate, start_year=2026)] if rate else [],
+        )
+        rr = run_regional(scenario)
+        runs[str(rate)] = {
+            "labels": [r.label for r in rr.rows],
+            "us_premium": [r.premium_pct["us"] for r in rr.rows],
+            "us_minus_row": [r.us_minus_row for r in rr.rows],
+        }
+    return {"rates": TARIFF_RATES, "runs": runs}
+
+
 def build_payload(
     minmod_cache: Path = MINMOD_CACHE,
     fetch_live_prices: bool = True,
@@ -377,6 +396,7 @@ def build_payload(
         "countries": _country_payload(),
         "simulation": _simulation_payload(mc_paths),
         "commoditySim": _commodity_sim_payload(),
+        "regional": _regional_payload(),
         "mines": [
             {
                 "name": m.name,
