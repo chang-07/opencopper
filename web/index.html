@@ -1132,7 +1132,12 @@ function backtestSection() {
       (${(t.gross.ann_ret >= 0 ? '+' : '')}${(t.gross.ann_ret * 100).toFixed(1)}%/yr at
       ${(t.avg_gross_exposure * 100).toFixed(0)}% avg exposure, consistent pre/post-2010:
       ${t.halves.pre ? t.halves.pre.sharpe.toFixed(2) : '—'}/${t.halves.post ? t.halves.post.sharpe.toFixed(2) : '—'})`;
-    })()}. Bias diagnostics (skip-month, parameter grid, CPI-real, split-sample, per-commodity
+    })()}. Adding the second documented factor (Miffre–Rallis momentum sleeve) and
+    Moskowitz–Ooi–Pedersen volatility targeting — both uniform, pre-registered rules — lifts the
+    combination to ${(() => { const sl = B.sleeves; return sl && sl.vt_combo
+      ? `Sharpe ${sl.vt_combo.sharpe.toFixed(2)} (90% CI [${sl.vt_boot.ci90[0].toFixed(2)}, ${sl.vt_boot.ci90[1].toFixed(2)}], halves ${sl.vt_halves.pre ? sl.vt_halves.pre.sharpe.toFixed(2) : '—'}/${sl.vt_halves.post ? sl.vt_halves.post.sharpe.toFixed(2) : '—'})` : '—'; })()} —
+    breadth and risk scaling are the levers, not parameter tuning.
+    Bias diagnostics (skip-month, parameter grid, CPI-real, split-sample, per-commodity
     consistency): <code>opencopper backtest --robustness</code>. Monthly spot proxies, roll yield
     not captured — evidence about the signal, not a strategy. Full table: <code>opencopper backtest</code>;
     sources: <a href="https://github.com/chang-07/opencopper/blob/main/docs/references.md"

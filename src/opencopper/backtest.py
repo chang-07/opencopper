@@ -735,3 +735,168 @@ def holm_bonferroni(t_stats: dict[str, float], alpha: float = 0.05) -> dict[str,
             alive = False
             survives[name] = False
     return survives
+
+
+# ------------------------------------------------------- factor sleeves
+
+
+def momentum_sleeve(skip: int = 1) -> dict[str, dict[str, float]]:
+    """Miffre-Rallis (2007) momentum, long-only: hold a name for the next
+    month when its trailing 12m return is positive. Pre-registered from
+    their paper (12m ranking, short holding), long-only because the bias
+    diagnostics showed the short side fights the inventory premium.
+    Returns per-commodity {date: (weight x next-month return)} like the
+    tranche machinery."""
+    from .pricing import load_pricebook
+
+    out: dict[str, dict[str, float]] = {}
+    for name in load_pricebook().commodities:
+        h = load_price_history(name)
+        if not h or len(h.months) < TREND_WINDOW + 24:
+            continue
+        months = h.months
+        logs = [math.log(p) for _, p in months]
+        wr = {}
+        for t in range(TREND_WINDOW + 12 + skip, len(months)):
+            i = t - 1 - skip  # signal month, skip-month convention
+            w = 1.0 if logs[i] - logs[i - 12] >= 0 else 0.0
+            wr[months[t][0][:7]] = w * (logs[t] - logs[t - 1])
+        out[name] = wr
+    return out
+
+
+def _ew_monthly(per_commodity: dict[str, dict[str, float]]) -> dict[str, float]:
+    dates = sorted({d for wr in per_commodity.values() for d in wr})
+    return {d: sum(per_commodity[n][d] for n in per_commodity if d in per_commodity[n])
+               / len([n for n in per_commodity if d in per_commodity[n]])
+            for d in dates}
+
+
+def vol_targeted(per_commodity: dict[str, dict[str, float]],
+                 target: float = 0.20, window: int = 36,
+                 max_lev: float = 2.0) -> dict[str, dict[str, float]]:
+    """Moskowitz-Ooi-Pedersen style volatility targeting: scale each name's
+    monthly contribution by target / trailing realized vol (causal window),
+    capped at 2x. Uniform rule — same target, same window, every name."""
+    out: dict[str, dict[str, float]] = {}
+    for name, wr in per_commodity.items():
+        h = load_price_history(name)
+        if not h:
+            continue
+        logs = [math.log(p) for _, p in h.months]
+        rets = {h.months[i][0][:7]: logs[i] - logs[i - 1] for i in range(1, len(h.months))}
+        keys = sorted(rets)
+        scaled = {}
+        for d, v in wr.items():
+            if d not in rets:
+                continue
+            idx = keys.index(d)
+            wnd = [rets[k] for k in keys[max(0, idx - window):idx]]
+            if len(wnd) < 12:
+                continue
+            mu = sum(wnd) / len(wnd)
+            sd = math.sqrt(sum((r - mu) ** 2 for r in wnd) / (len(wnd) - 1)) * math.sqrt(12)
+            lev = min(max_lev, target / max(sd, 1e-6))
+            scaled[d] = v * lev
+        out[name] = scaled
+    return out
+
+
+def sleeve_report(cost_bps: float = 25.0, split: str = "2010") -> dict:
+    """Value (tranche) + momentum sleeves, their correlation, the 50/50
+    combo, and vol-targeted variants. Expectations declared before running:
+    sleeves lowly/negatively correlated (AMP 2013), combo Sharpe >= both
+    components, vol targeting raises Sharpe (MOP 2012). Verified split-half
+    and by bootstrap on the combo."""
+    # value sleeve: reuse the headline tranche rule's per-commodity returns
+    value_pc: dict[str, dict[str, float]] = {}
+    from .pricing import load_pricebook
+
+    for name in load_pricebook().commodities:
+        h = load_price_history(name)
+        if not h or len(h.months) < TREND_WINDOW + 12 + 24:
+            continue
+        months = h.months
+        devs = _deviations_w(months, TREND_WINDOW)
+        logs = [math.log(p) for _, p in months]
+
+        def sig(i):
+            reg = _regime_of(devs[i])
+            mom = "up" if logs[i] - logs[i - 12] >= 0 else "down"
+            return 1.0 if (reg == "glut" or (reg == "balanced" and mom == "up")) else 0.0
+
+        wr = {}
+        start = TREND_WINDOW + 12
+        for t in range(start + 1 + 12, len(months)):
+            forms = range(t - 1 - 12, t - 1)
+            w = sum(sig(i) for i in forms) / 12
+            wr[months[t][0][:7]] = w * (logs[t] - logs[t - 1])
+        value_pc[name] = wr
+
+    mom_pc = momentum_sleeve()
+
+    def perf_of(pc):
+        m = _ew_monthly(pc)
+        rets = [m[d] for d in sorted(m)]
+        return m, _perf(rets)
+
+    value_m, value_p = perf_of(value_pc)
+    mom_m, mom_p = perf_of(mom_pc)
+    common = sorted(set(value_m) & set(mom_m))
+    vv = [value_m[d] for d in common]
+    mm = [mom_m[d] for d in common]
+    mu_v, mu_m = sum(vv) / len(vv), sum(mm) / len(mm)
+    cov = sum((vv[i] - mu_v) * (mm[i] - mu_m) for i in range(len(common)))
+    corr = cov / math.sqrt(sum((x - mu_v) ** 2 for x in vv) * sum((x - mu_m) ** 2 for x in mm))
+    combo_rets = [(vv[i] + mm[i]) / 2 for i in range(len(common))]
+    combo_p = _perf(combo_rets)
+    boot = block_bootstrap_sharpe(combo_rets)
+
+    vt_value_m, vt_value_p = perf_of(vol_targeted(value_pc))
+    vt_mom_m, vt_mom_p = perf_of(vol_targeted(mom_pc))
+    vt_common = sorted(set(vt_value_m) & set(vt_mom_m))
+    vt_combo_rets = [(vt_value_m[d] + vt_mom_m[d]) / 2 for d in vt_common]
+    vt_combo_p = _perf(vt_combo_rets)
+    vt_boot = block_bootstrap_sharpe(vt_combo_rets)
+
+    halves = {}
+    for label, pred in (("pre", lambda d: d < split), ("post", lambda d: d >= split)):
+        sub = [vt_combo_rets[i] for i, d in enumerate(vt_common) if pred(d)]
+        halves[label] = _perf(sub) if len(sub) >= 24 else None
+    return {
+        "value": value_p, "momentum": mom_p, "corr": round(corr, 2),
+        "combo": combo_p, "combo_boot": boot,
+        "vt_value": vt_value_p, "vt_momentum": vt_mom_p,
+        "vt_combo": vt_combo_p, "vt_boot": vt_boot, "vt_halves": halves,
+        "n_months": len(common),
+    }
+
+
+def render_sleeves(s: dict) -> str:
+    f = lambda p: f"{p['ann_ret']:+.1%}/yr  vol {p['ann_vol']:.1%}  Sharpe {p['sharpe']:.2f}  maxDD {p['max_dd']:.0%}"
+    b, vb = s["combo_boot"], s["vt_boot"]
+    h = s["vt_halves"]
+    return "\n".join([
+        "FACTOR SLEEVES — why the single-factor Sharpe is what it is, and the",
+        "two literature fixes (declared before running: AMP low/negative factor",
+        "correlation; MOP vol-targeting lift)",
+        "",
+        f"  value (tranche 12m holds):     {f(s['value'])}",
+        f"  momentum (M-R 12m sig, 1m):    {f(s['momentum'])}",
+        f"  sleeve correlation:            {s['corr']:+.2f}   (the diversification engine)",
+        f"  50/50 combo:                   {f(s['combo'])}",
+        f"    bootstrap: 90% CI [{b['ci90'][0]:.2f}, {b['ci90'][1]:.2f}], P(<=0) {b['p_leq_0']:.1%}",
+        "",
+        "  vol-targeted (20%, 36m trailing, 2x cap, uniform):",
+        f"  value:                         {f(s['vt_value'])}",
+        f"  momentum:                      {f(s['vt_momentum'])}",
+        f"  combo:                         {f(s['vt_combo'])}",
+        f"    bootstrap: 90% CI [{vb['ci90'][0]:.2f}, {vb['ci90'][1]:.2f}], P(<=0) {vb['p_leq_0']:.1%}",
+        f"    split: pre-2010 Sharpe {h['pre']['sharpe']:.2f} / post-2010 {h['post']['sharpe']:.2f}" if h["pre"] and h["post"] else "",
+        "",
+        "Sharpe arithmetic: IC ~0.05-0.1 x sqrt(3-5 independent bets/yr) puts a",
+        "single sleeve at 0.3-0.5 BY CONSTRUCTION (fundamental law); breadth and",
+        "factor count are the levers, not parameter tuning. Spot proxies still",
+        "exclude carry (needs curve data); returns are futures-overlay excess",
+        "returns (idle collateral would earn bills on top). Not advice.",
+    ])

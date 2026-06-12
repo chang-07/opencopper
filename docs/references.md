@@ -115,6 +115,14 @@ literature's value — disagreement is data, not embarrassment.
   estimated weights). → the benchmark's fixed 50/50 model+RW combination,
   weight declared a priori precisely so it cannot be fit to the test set.
 
+- **Moskowitz, Ooi & Pedersen (2012)**, "Time Series Momentum", *JFE* (and
+  Harvey et al. 2018, "The Impact of Volatility Targeting"). Scaling
+  positions by trailing volatility raises futures-strategy Sharpe. → the
+  vol-targeted sleeves (20%/36m/2× cap, uniform).
+- **Grinold (1989)**, "The Fundamental Law of Active Management", *JPM*.
+  IR ≈ IC × √breadth — why a single sleeve cannot exceed ~0.5 here and why
+  breadth, not tuning, is the lever. → the Sharpe-arithmetic framing.
+
 ## Inference
 
 - **Künsch (1989)**, "The Jackknife and the Bootstrap for General Stationary

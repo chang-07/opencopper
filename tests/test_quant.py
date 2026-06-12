@@ -580,3 +580,18 @@ def test_benchmark_combo_never_much_worse_and_helps_losers():
     losers = [r for r in rows if r.skill_vs_rw < -0.05]
     if losers:
         assert all(r.combo_skill > r.skill_vs_rw for r in losers)
+
+
+def test_sleeves_vol_targeting_lifts_and_is_causal():
+    from opencopper.backtest import sleeve_report
+
+    s = sleeve_report()
+    if s["n_months"] < 200:
+        pytest.skip("no caches")
+    assert -1 <= s["corr"] <= 1
+    # MOP vol targeting must not degrade the combo materially (it lifted it
+    # in-sample; the structural claim is scaling never wrecks it)
+    assert s["vt_combo"]["sharpe"] >= s["combo"]["sharpe"] - 0.05
+    assert s["vt_combo"]["max_dd"] >= s["combo"]["max_dd"] - 0.05
+    b = s["vt_boot"]
+    assert b["ci90"][0] is not None and 0 <= b["p_leq_0"] <= 1

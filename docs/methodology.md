@@ -421,6 +421,24 @@ this is a distribution-and-scenario engine, not a price oracle — and that
 the mechanism's wins land precisely where its own backtest said they
 should, which is what "domain of validity" means operationally.
 
+**Why the Sharpe is what it is — and the two levers that raise it.** The
+fundamental law (Grinold): Sharpe ≈ IC × √breadth. A single long-only
+sleeve with IC≈0.05-0.1 (the benchmark's R²≈1%) and 3-5 effective
+independent bets a year sits at 0.3-0.5 BY CONSTRUCTION — tuning
+parameters cannot move that; breadth and risk scaling can. The two
+pre-registered levers (`opencopper backtest --sleeves`): a second
+documented factor (Miffre-Rallis momentum, long-only, 12m signal/1m hold)
+and Moskowitz-Ooi-Pedersen volatility targeting (20% target, 36m trailing,
+2× cap, uniform). Result: value 0.44→0.53, momentum 0.30→0.53, 50/50 combo
+**0.60** (90% CI [0.26, 0.86], P(≤0)=0.4%), max drawdown improves to −32%,
+halves 0.64/0.50. One honest note: our sleeves correlate +0.42, not AMP's
+negative — long-ONLY sleeves share market beta; the negative correlation
+is a long-short property, and we stay long-only because the short side is
+a risk premium. Still unharvested: carry (needs curve data no keyless
+source provides) and daily execution (monthly averages cost entry timing)
+— the documented remaining gap to published multi-factor Sharpes of
+0.8-1.2.
+
 **Claims carry error bars and corrections.** The tranche strategy's Sharpe
 is reported with a moving-block bootstrap 90% CI (Künsch 1989; 24-month
 blocks preserve regime clustering) and P(Sharpe≤0) — currently [0.25, 0.82]

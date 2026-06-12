@@ -205,6 +205,12 @@ def _cmd_backtest(args: argparse.Namespace) -> int:
         print(render_tranche_variants())
         return 0
 
+    if args.sleeves:
+        from .backtest import render_sleeves, sleeve_report
+
+        print(render_sleeves(sleeve_report()))
+        return 0
+
     if args.robustness:
         grid = robustness_grid(horizon=args.horizon)
         split = split_sample(split=f"{args.split}-01-01", horizon=args.horizon)
@@ -691,6 +697,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--real", action="store_true", help="CPI-deflate prices (real-terms value signal)")
     p.add_argument("--robustness", action="store_true", help="bias diagnostics: parameter grid, split-sample, consistency")
     p.add_argument("--tranche", action="store_true", help="12m overlapping-hold strategies (Jegadeesh-Titman), gross and net")
+    p.add_argument("--sleeves", action="store_true", help="value + momentum sleeves, vol-targeted combo (the Sharpe levers)")
     p.add_argument("--split", type=int, default=2010, help="split year for the in/out-of-sample halves")
     p.set_defaults(func=_cmd_backtest)
 

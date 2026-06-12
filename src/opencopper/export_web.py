@@ -420,8 +420,13 @@ def _backtest_payload() -> dict:
         d = _asdict(r)
         d.pop("monthly_legs")
         slim.append(d)
+    from .backtest import sleeve_report
+
+    sl = sleeve_report()
     return {"rows": slim, "summary": summary(rows),
-            "tranche": tranche_strategy(include=("glut", "balanced|up"), cost_bps=25.0)}
+            "tranche": tranche_strategy(include=("glut", "balanced|up"), cost_bps=25.0),
+            "sleeves": {"corr": sl["corr"], "vt_combo": sl["vt_combo"],
+                        "vt_boot": sl["vt_boot"], "vt_halves": sl["vt_halves"]}}
 
 
 def _news_payload(news_dir: Path = Path("data/news")) -> dict:
