@@ -1,0 +1,121 @@
+# Policy registry — the laws and controls that move these markets, as
+# structured data: what it is, what it touches, its mechanism, status and
+# dates, all with public sources. Statuses: enacted / pending-decision /
+# proposed. The model treats policies as SCENARIO GENERATORS (several link
+# to shipped scenario files) and the report surfaces them next to the
+# commodities and products they touch.
+policies:
+  - id: us-section-232-copper
+    name: "US Section 232 refined-copper tariff investigation"
+    jurisdiction: United States
+    mechanism: tariff
+    status: pending-decision
+    decision_due: "2026-06-30"
+    commodities: [copper]
+    products: [copper-cable, data-center-mw]
+    magnitude: "refined cathode currently exempt; the Commerce report decides — model prices grid rates 0-50% in the Tariff Lab"
+    scenario: scenarios/us-refined-tariff-2026.yaml
+    source: "Federal Register, Section 232 proclamations (public)"
+  - id: drc-cobalt-quota
+    name: "DRC cobalt export quota regime"
+    jurisdiction: Congo (Kinshasa)
+    mechanism: export-quota
+    status: enacted
+    effective: "2025-10"
+    commodities: [cobalt]
+    products: [ev-battery-pack, ev-compact, smartphone]
+    magnitude: "~46% of world supply withheld at full bite; model output saturates the +300% honesty cap"
+    scenario: scenarios/commodities/drc-cobalt-quota.yaml
+    source: "DRC ARECOMS decree (public reporting)"
+  - id: china-ree-export-controls
+    name: "China rare-earth export controls"
+    jurisdiction: China
+    mechanism: export-license
+    status: enacted
+    effective: "2025-04"
+    commodities: [rare-earths]
+    products: [wind-turbine-mw, ev-compact]
+    magnitude: "licensing on heavy/medium REEs and magnets; bites at the SEPARATION stage China is 88% of"
+    scenario: scenarios/commodities/china-ree-export-controls.yaml
+    source: "MOFCOM announcements (public)"
+  - id: china-graphite-licensing
+    name: "China graphite export licensing"
+    jurisdiction: China
+    mechanism: export-license
+    status: enacted
+    effective: "2023-12"
+    commodities: [graphite]
+    products: [ev-battery-pack, ev-compact]
+    magnitude: "applies to PROCESSED (spherical/high-purity) graphite — the stage China is ~95% of"
+    source: "MOFCOM 2023 announcement (public)"
+  - id: indonesia-nickel-ore-ban
+    name: "Indonesia nickel ore export ban + RKAB quotas"
+    jurisdiction: Indonesia
+    mechanism: export-ban
+    status: enacted
+    effective: "2020-01"
+    commodities: [nickel]
+    products: [ev-battery-pack]
+    magnitude: "forced onshore processing; built the Chinese-owned HPAL complex that collapsed the class-1 premium"
+    scenario: scenarios/commodities/indonesia-nickel-export-controls.yaml
+    source: "ESDM regulations (public)"
+  - id: us-ira-30d
+    name: "US IRA 30D critical-minerals content + FEOC rules"
+    jurisdiction: United States
+    mechanism: content-requirement
+    status: enacted
+    effective: "2023-04"
+    commodities: [lithium, cobalt, nickel, graphite, manganese]
+    products: [ev-battery-pack, ev-compact]
+    magnitude: "rising %-of-value sourcing requirements for the consumer credit; FEOC exclusions reroute supply chains rather than changing world totals"
+    source: "26 USC 30D + Treasury guidance (public)"
+  - id: eu-crma
+    name: "EU Critical Raw Materials Act 2030 benchmarks"
+    jurisdiction: European Union
+    mechanism: capacity-benchmarks
+    status: enacted
+    effective: "2024-05"
+    commodities: [lithium, cobalt, rare-earths, nickel, graphite, manganese, copper]
+    products: []
+    magnitude: "2030 targets: 10% domestic extraction, 40% processing, 25% recycling, <65% single-supplier dependence per material"
+    source: "Regulation (EU) 2024/1252 (public)"
+  - id: eu-cbam
+    name: "EU Carbon Border Adjustment Mechanism (definitive period)"
+    jurisdiction: European Union
+    mechanism: carbon-border-tariff
+    status: enacted
+    effective: "2026-01"
+    commodities: [aluminum, iron-ore]
+    products: [steel-hrc]
+    magnitude: "importers buy CBAM certificates on embedded emissions of steel/aluminum/fertilizer — a carbon wedge on the EU import price"
+    source: "Regulation (EU) 2023/956 (public)"
+  - id: us-russia-uranium-ban
+    name: "US ban on Russian uranium imports"
+    jurisdiction: United States
+    mechanism: import-ban
+    status: enacted
+    effective: "2024-08"
+    commodities: [uranium]
+    products: []
+    magnitude: "waivers possible through 2027; bites enrichment more than U3O8 — modeled only as country-shock scenarios"
+    source: "HR 1042 (public)"
+  - id: us-section-232-steel-aluminum
+    name: "US Section 232 steel/aluminum tariffs"
+    jurisdiction: United States
+    mechanism: tariff
+    status: enacted
+    effective: "2018-03"
+    commodities: [aluminum]
+    products: [steel-hrc]
+    magnitude: "25% steel / 10-25% aluminum, expanded 2025; the reason US aluminum spot ran ~1,400 USD/t over LME"
+    source: "Presidential proclamations (public)"
+  - id: chile-lithium-policy
+    name: "Chile national lithium strategy (state JV requirement)"
+    jurisdiction: Chile
+    mechanism: state-participation
+    status: enacted
+    effective: "2023-04"
+    commodities: [lithium]
+    products: [ev-battery-pack]
+    magnitude: "new projects require majority state JV (Codelco); slows the supply response the elasticity hi-range assumes"
+    source: "Gobierno de Chile announcement (public)"

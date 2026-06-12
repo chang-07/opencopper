@@ -159,6 +159,18 @@ def _cmd_theses(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_policy(args):
+    from .policy import load_policies, policies_for, render_policies
+
+    if args.commodity or args.product:
+        pol = policies_for(commodity=args.commodity, product=args.product)
+        label = args.commodity or args.product
+        print(render_policies(pol, heading=f"POLICIES TOUCHING {label.upper()}"))
+        return 0
+    print(render_policies(load_policies()))
+    return 0
+
+
 def _cmd_spec(args):
     from .spec import odds_calibration_oos, render_spec, spec_all
 
@@ -676,6 +688,11 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("theses", help="scorecard: every registered + news-generated call, marked to market")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=_cmd_theses)
+
+    p = sub.add_parser("policy", help="the policy registry: laws/controls as structured data, mapped to commodities and products")
+    p.add_argument("--commodity", default=None)
+    p.add_argument("--product", default=None)
+    p.set_defaults(func=_cmd_policy)
 
     p = sub.add_parser("spec", help="per-commodity spec battery: vol calibration, regimes, spike-odds calibration (with OOS check)")
     p.add_argument("--paths", type=int, default=600)

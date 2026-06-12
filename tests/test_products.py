@@ -20,12 +20,15 @@ def test_all_boms_load_and_reference_priced_commodities():
 
     book = load_pricebook()
     names = list_product_names()
-    assert len(names) == 7
+    assert len(names) == 11
     for name in names:
         prod = load_product(name)
         bd = breakdown(prod)
         for inp in prod.inputs:
-            assert inp.commodity in book.commodities, f"{name}: unknown input {inp.commodity}"
+            if inp.product:
+                assert inp.product in names, f"{name}: unknown sub-product {inp.product}"
+            else:
+                assert inp.commodity in book.commodities, f"{name}: unknown input {inp.commodity}"
         # inputs can never exceed the product's anchor cost
         assert 0 < bd["input_share_pct"] < 100
         assert prod.source and prod.caveats
@@ -125,3 +128,62 @@ def test_new_commodities_are_fully_wired():
     g = load_commodity("graphite").concentration()["top1"]
     c = load_commodity("cobalt").concentration()["top1"]
     assert g > c > 0.7
+
+
+# ------------------------------------------------------- value-chain layers
+
+
+def test_recursive_bom_embeds_and_guards_depth():
+    from opencopper.products import breakdown, load_product, shock_response
+
+    ev = breakdown(load_product("ev-compact"))
+    nested = [r for r in ev["rows"] if r.get("via_product")]
+    assert {r["via_product"] for r in nested} == {"ev-battery-pack", "steel-hrc"}
+    # embedded commodity terms scale by the sub-product's cost share
+    pack = next(r for r in nested if r["via_product"] == "ev-battery-pack")
+    li = next(e for e in pack["embedded"] if e["commodity"] == "lithium")
+    assert 1.0 < li["share_pct"] < 4.0
+    # a DRC copper shock reaches the vehicle mostly through cobalt-in-the-pack
+    from opencopper.linkages import ripple
+
+    changes = {r.commodity: r.price_change_pct
+               for r in ripple("copper", "Congo (Kinshasa)", 0.5)}
+    resp = shock_response(load_product("ev-compact"), changes)
+    top = max(resp["contributions"], key=lambda c: c["product_change_pct"])
+    assert "cobalt (via ev-battery-pack)" == top["commodity"]
+    assert 1.5 < resp["cost_change_pct"] < 5
+
+
+def test_value_chain_attenuation():
+    from opencopper.products import breakdown, load_product
+
+    shares = {n: breakdown(load_product(n))["input_share_pct"]
+              for n in ("copper-cable", "ev-compact", "data-center-mw", "smartphone")}
+    assert shares["copper-cable"] > shares["ev-compact"] > \
+        shares["data-center-mw"] > shares["smartphone"]
+    assert shares["smartphone"] < 1.0  # the honesty exhibit
+
+
+def test_processing_layer_and_its_headline():
+    from opencopper.commodities import load_commodity, render_commodity_report, run_commodity
+
+    co = load_commodity("cobalt")
+    assert co.processing["top_countries"]["China"] == 0.75
+    text = render_commodity_report(co, run_commodity(co))
+    assert "MIDSTREAM" in text and "REFINERY" in text
+    li = load_commodity("lithium")
+    assert "spodumene sails to China" in li.processing["note"]
+
+
+def test_policy_registry_links_both_directions():
+    from opencopper.policy import load_policies, policies_for
+
+    pols = load_policies()
+    assert len(pols) >= 10
+    assert all(p.get("source") and p.get("magnitude") for p in pols)
+    cu = policies_for(commodity="copper")
+    assert any(p["id"] == "us-section-232-copper" for p in cu)
+    ev = policies_for(product="ev-compact")
+    assert any(p["id"] == "drc-cobalt-quota" for p in ev)
+    pending = [p for p in pols if p["status"] == "pending-decision"]
+    assert all(p.get("decision_due") for p in pending)

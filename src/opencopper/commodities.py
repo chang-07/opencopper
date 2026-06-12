@@ -74,6 +74,7 @@ class CommoditySeed(BaseModel):
     top_producers: list[Producer]
     drivers: dict[str, float] = Field(default_factory=dict)  # demand share per global driver
     structural_deficit: bool = False  # mine supply < demand by DESIGN (uranium, platinum) — not a basis mismatch
+    processing: dict | None = None    # midstream stage: {stage, top_countries: {country: share}, source, note}
     byproduct_of: list[str] = Field(default_factory=list)  # host metals, when supply is byproduct
     notes: str = ""
     price_note: str = ""
@@ -364,6 +365,20 @@ def render_commodity_report(seed: CommoditySeed, run: CommodityRun) -> str:
             f"{r.year:<6}{r.supply_kt:>10,.0f}{r.demand_kt:>10,.0f}"
             f"{r.supply_lost_kt:>8,.0f}{r.drift_kt:>+9,.0f}"
         )
+    if seed.processing:
+        proc = seed.processing
+        shares = proc.get("top_countries", {})
+        hhi_p = round(sum((10000 * v * v) for v in shares.values()))
+        hhi_m = conc["hhi_lower_bound"]
+        tops = "  ".join(f"{c} {v:.0%}" for c, v in
+                         sorted(shares.items(), key=lambda kv: -kv[1])[:4])
+        lines += ["", f"MIDSTREAM ({proc.get('stage', 'processing')}): {tops}",
+                  f"  processing HHI≥{hhi_p:,} vs mining HHI≥{hhi_m:,} — "
+                  + ("the chokepoint is the REFINERY, not the mine."
+                     if hhi_p > hhi_m else "mining is the tighter stage."),
+                  f"  source: {proc.get('source', 'seed-estimate')}"]
+        if proc.get("note"):
+            lines.append(f"  {proc['note']}")
     if seed.byproduct_of:
         lines += ["", f"BYPRODUCT of {', '.join(seed.byproduct_of)} — supply follows the host, not this price."]
 
@@ -394,6 +409,15 @@ def render_commodity_report(seed: CommoditySeed, run: CommodityRun) -> str:
         m = gold_rate_model()
         if m:
             lines += ["", render_gold_model(m)]
+    from .policy import policies_for
+
+    pol = policies_for(commodity=seed.name)
+    if pol:
+        lines += ["", "POLICY:"]
+        for q in pol:
+            when = (f"DECIDES {q['decision_due']}" if q.get("decision_due")
+                    else f"since {q.get('effective', '?')}")
+            lines.append(f"  [{q['status']}] {q['name']} ({when})")
     if seed.notes:
         lines += ["", f"notes: {seed.notes}"]
     return "\n".join(lines)

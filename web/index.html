@@ -1025,6 +1025,35 @@ const VIEWS = {
       same move through every bill of materials.</p>`;
     },
   },
+  policy: {
+    label: 'Policy',
+    init() {
+      const P = D.policies || [];
+      host.title.textContent = 'Policy registry — the laws that move these markets';
+      host.sub.textContent = 'Structured entries with sources: jurisdiction, mechanism, status, and the commodities and products each one lands on. Pending decisions carry their dates; several link to shipped scenario files you can run.';
+      host.controls.innerHTML = '';
+      document.getElementById('stats').innerHTML = '';
+      Plotly.purge('chart');
+      document.getElementById('chart').style.height = '0px';
+      const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      const chip = p => p.status === 'pending-decision'
+        ? `<span class="pill" style="border-color:var(--copper-hot);color:var(--copper-hot)">DECIDES ${p.decision_due}</span>`
+        : `<span class="pill">since ${p.effective || '?'}</span>`;
+      const sorted = P.slice().sort((a, b) =>
+        (a.status === 'pending-decision' ? 0 : 1) - (b.status === 'pending-decision' ? 0 : 1));
+      host.table.innerHTML = `<table><thead><tr>
+        <th>policy</th><th>jurisdiction</th><th>mechanism</th><th>touches</th><th>status</th></tr></thead><tbody>` +
+        sorted.map(p => `<tr><td style="max-width:360px"><b>${esc(p.name)}</b><br>
+          <span class="sim-unit" style="font-size:12px">${esc(p.magnitude)}</span></td>
+          <td>${esc(p.jurisdiction)}</td><td><span class="pill">${esc(p.mechanism)}</span></td>
+          <td style="font-size:12.5px">${(p.commodities || []).concat(p.products || []).map(esc).join(', ')}</td>
+          <td>${chip(p)}</td></tr>`).join('') + `</tbody></table>
+        <p style="color:var(--muted);font-size:12.5px;margin-top:12px">
+        Curation rule: only policies that change supply, demand, or trade geometry of modeled
+        names. Statuses are facts with sources; magnitudes are the model's framing. Several map
+        to runnable scenarios (Tariff Lab, DRC quota, REE controls).</p>`;
+    },
+  },
   scorecard: {
     label: 'Scorecard',
     init() {
@@ -1171,7 +1200,7 @@ const tabs = document.getElementById('tabs');
 const NAV_GROUPS = [
   ['atlas', ['map']],
   ['evidence', ['desk', 'scorecard', 'scenarios']],
-  ['structure', ['products', 'commodities', 'mines']],
+  ['structure', ['products', 'commodities', 'policy', 'mines']],
   ['copper labs', ['decision', 'tariff', 'grasberg']],
 ];
 for (const [group, keys] of NAV_GROUPS) {

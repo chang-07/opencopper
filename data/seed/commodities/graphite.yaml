@@ -23,3 +23,8 @@ caveats: "Anchor is flake, not battery-grade; synthetic substitution dampens inc
 drivers:
   batteries: 0.35
   industrial: 0.65
+processing:
+  stage: spherical/anode-grade processing
+  top_countries: {China: 0.95}
+  source: "IEA/Benchmark public figures (seed-estimate)"
+  note: "The Dec-2023 export licensing regime applies to PROCESSED graphite — the 95% stage."

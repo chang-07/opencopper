@@ -41,3 +41,8 @@ drivers:
   industrial: 0.12
   datacenters: 0.015
   other: 0.185
+processing:
+  stage: smelting/refining
+  top_countries: {China: 0.47, Chile: 0.07, Japan: 0.06, Congo (Kinshasa): 0.05}
+  source: "ICSG public figures (seed-estimate)"
+  note: "Smelter overcapacity drove TCs to zero — the midstream is CONTESTED, not scarce."

@@ -34,3 +34,8 @@ drivers:
   grid: 0.15
   industrial: 0.2
   other: 0.15
+processing:
+  stage: separation/refining
+  top_countries: {China: 0.88, Malaysia: 0.10}
+  source: "IEA/Adamas public figures (seed-estimate)"
+  note: "Mining diversified faster than separation; the Apr-2025 export controls bite at THIS stage."

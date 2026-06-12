@@ -1,0 +1,18 @@
+name: wind-turbine-mw
+display: "Onshore wind turbine (1 MW)"
+unit: USD/MW
+anchor_cost_usd: 1050000
+source: "IEA/IRENA material-intensity tables (seed-estimate)"
+inputs:
+  - {product: steel-hrc, qty: 120, note: "tower + nacelle structural, t/MW"}
+  - {commodity: copper, qty: 3.0, note: "generator + collection, t/MW"}
+  - {commodity: aluminum, qty: 1.6, note: "t/MW"}
+  - {commodity: rare-earths, qty: 0.06, note: "NdPr-basis magnets (direct-drive share averaged), t/MW"}
+  - {commodity: zinc, qty: 1.2, note: "galvanizing, t/MW"}
+caveats: "Blades (GFRP/CFRP resin) and gearbox steel alloys sit in the non-input share; offshore intensities run ~1.5-2x. Direct-drive vs geared mix moves the REE line."
+manufacturing:
+  capacity_now: "~120 GW/yr global nacelle assembly"
+  capacity_2030: "~160 GW/yr announced"
+  region_shares: {China: 0.6, Europe: 0.25, Americas: 0.1}
+  trend_note: "Chinese OEMs took >60% of global installs by 2024 on domestic volume; western OEM margins compressed."
+  source: "GWEC Global Wind Report (public figures, seed-estimate)"

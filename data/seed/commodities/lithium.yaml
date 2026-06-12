@@ -32,3 +32,8 @@ drivers:
   batteries: 0.88
   industrial: 0.07
   other: 0.05
+processing:
+  stage: chemical conversion (carbonate/hydroxide)
+  top_countries: {China: 0.60, Chile: 0.25, Argentina: 0.07}
+  source: "IEA Critical Minerals Review public figures (seed-estimate)"
+  note: "Australia mines ~47% of lithium and converts ~1%; the spodumene sails to China."

@@ -34,3 +34,8 @@ drivers:
   grid: 0.12
   industrial: 0.1
   other: 0.27
+processing:
+  stage: primary smelting
+  top_countries: {China: 0.58, India: 0.07, Russia: 0.06}
+  source: "IAI public figures (seed-estimate)"
+  note: "Smelting is electricity in metal form; the constraint is power price, not bauxite."

@@ -1,0 +1,16 @@
+name: data-center-mw
+display: "Data center (1 MW IT load)"
+unit: USD/MW
+anchor_cost_usd: 11000000
+source: "industry build-cost ~11M USD/MW; copper intensity from utility/IEA estimates (seed-estimate)"
+inputs:
+  - {commodity: copper, qty: 30, note: "~27-40 t/MW: distribution, busways, grounding, cooling"}
+  - {product: steel-hrc, qty: 90, note: "structure + racks proxy, t/MW"}
+  - {commodity: aluminum, qty: 12, note: "busbar/HVAC, t/MW"}
+caveats: "Chips/servers dominate cost and are NOT commodity-priced here (silicon value-add ~1000x its sand); this models the SHELL+POWER commodity pull - the part that competes with the grid for copper."
+manufacturing:
+  capacity_now: "~90 GW global installed IT load"
+  capacity_2030: "~220 GW announced/projected (AI buildout)"
+  region_shares: {United States: 0.45, China: 0.2, Europe: 0.15}
+  trend_note: "The AI buildout's copper pull (~30 t/MW x 130 GW additions) ~ 4 Mt cumulative - roughly two months of world mine supply, spread over years; grid interconnection is the binding constraint."
+  source: "IEA Electricity 2026 + public hyperscaler disclosures (seed-estimate)"

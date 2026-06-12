@@ -34,3 +34,8 @@ drivers:
   batteries: 0.12
   transport: 0.08
   other: 0.12
+processing:
+  stage: class-1/battery-grade refining
+  top_countries: {China: 0.35, Indonesia: 0.30, Japan: 0.08}
+  source: "IEA public figures (seed-estimate)"
+  note: "Indonesian HPAL (Chinese-owned) collapsed the class-1 premium 2023-25."

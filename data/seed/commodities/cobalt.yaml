@@ -37,3 +37,8 @@ drivers:
 # economics, not cobalt's price. This is why elasticity_supply is 0.05 and why
 # the DRC quota bit so hard.
 byproduct_of: ["copper (DRC Copperbelt — most of world supply)", "nickel (Indonesian HPAL)"]
+processing:
+  stage: refining (chemical/metal)
+  top_countries: {China: 0.75, Finland: 0.10, Canada: 0.04}
+  source: "IEA Critical Minerals Review public figures (seed-estimate)"
+  note: "The DRC mines 74% but refines almost none — two chokepoints, different countries."

@@ -26,3 +26,8 @@ drivers:
   construction: 0.90
   batteries: 0.04
   industrial: 0.06
+processing:
+  stage: refined Mn / EMM
+  top_countries: {China: 0.90}
+  source: "USGS/industry public figures (seed-estimate)"
+  note: "High-purity EMM for batteries is ~95% Chinese — tighter than the ore."

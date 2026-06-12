@@ -1,0 +1,18 @@
+name: smartphone
+display: "Smartphone (1 unit)"
+unit: USD/unit
+anchor_cost_usd: 800
+source: "public teardown material studies (seed-estimate)"
+inputs:
+  - {commodity: copper, qty: 0.000014, note: "~14 g"}
+  - {commodity: aluminum, qty: 0.000025, note: "~25 g frame"}
+  - {commodity: cobalt, qty: 0.000007, note: "~7 g battery"}
+  - {commodity: gold, qty: 0.00096, note: "~0.03 g = 0.00096 ozt contacts"}
+  - {commodity: rare-earths, qty: 0.000002, note: "~2 g magnets/speakers"}
+  - {commodity: silver, qty: 0.0097, note: "~0.3 g = 0.0097 ozt"}
+caveats: "The honesty exhibit at the top of the value chain: ALL mined commodities in a phone sum to ~8 USD of an 800 USD device — semiconductors, displays, assembly and margin are the other 99%. Commodity shocks do not move phone prices; they move the MINERS of the 1%."
+manufacturing:
+  capacity_now: "~1.2 bn units/yr"
+  region_shares: {China: 0.7, India: 0.15, Vietnam: 0.08}
+  trend_note: "Assembly diversifying China->India/Vietnam (~15%/yr shift since 2023); upstream refining stays put — assembly moves faster than metallurgy."
+  source: "public shipment data (seed-estimate)"

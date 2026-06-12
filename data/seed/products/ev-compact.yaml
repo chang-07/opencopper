@@ -1,0 +1,20 @@
+name: ev-compact
+display: Compact EV (1 vehicle)
+unit: USD/vehicle
+anchor_cost_usd: 32000
+source: IEA Global EV Outlook + ICCT teardown intensities (seed-estimate)
+inputs:
+- product: ev-battery-pack
+  qty: 1
+  note: 75 kWh NMC811 pack
+- product: steel-hrc
+  qty: 0.9
+  note: body-in-white + chassis, t
+- commodity: aluminum
+  qty: 0.18
+  note: castings, closures
+- commodity: copper
+  qty: 0.04
+  note: non-battery harness/motor, t
+caveats: Body/chassis steel and aluminum enter directly; electronics, labor, R&D and margin are the non-input
+  share. Pack chemistry mix shifts these weights.

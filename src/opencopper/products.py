@@ -33,9 +33,21 @@ PRODUCT_SEED_DIR = Path(__file__).resolve().parents[2] / "data" / "seed" / "prod
 
 
 class ProductInput(BaseModel):
-    commodity: str
-    qty: float          # in the pricebook unit for that commodity (t, bbl, MMBtu, ozt)
+    commodity: str = ""   # a pricebook commodity...
+    product: str = ""     # ...or another product (one level of nesting)
+    qty: float = 1.0      # pricebook units (t, bbl, MMBtu, ozt) or product units
     note: str = ""
+
+
+class Manufacturing(BaseModel):
+    """Where this product is actually made, and where capacity is heading —
+    the manufacturing-trend layer (public IEA/BNEF/worldsteel figures,
+    seed-estimates)."""
+    capacity_now: str
+    capacity_2030: str = ""
+    region_shares: dict[str, float] = {}
+    trend_note: str = ""
+    source: str = ""
 
 
 class RetailPassthrough(BaseModel):
@@ -53,6 +65,7 @@ class ProductSeed(BaseModel):
     inputs: list[ProductInput]
     caveats: str = ""
     retail_passthrough: RetailPassthrough | None = None
+    manufacturing: Manufacturing | None = None
 
 
 def list_product_names() -> list[str]:
@@ -63,13 +76,38 @@ def load_product(name: str) -> ProductSeed:
     return ProductSeed(**yaml.safe_load((PRODUCT_SEED_DIR / f"{name}.yaml").read_text()))
 
 
-def breakdown(product: ProductSeed) -> dict:
+def breakdown(product: ProductSeed, _depth: int = 0) -> dict:
     """Anchor-price cost stack: per-input cost and share of the product's
-    anchor cost, plus the non-input remainder."""
+    anchor cost, plus the non-input remainder. A product input expands ONE
+    level into its own commodity terms (an EV carries the battery pack's
+    lithium), scaled by qty x that product's commodity shares — so shocks
+    propagate through nested bills of materials."""
     book = load_pricebook()
     rows = []
     input_cost = 0.0
     for inp in product.inputs:
+        if inp.product:
+            if _depth >= 1:
+                raise ValueError(f"{product.name}: product nesting deeper than one level")
+            sub = load_product(inp.product)
+            sub_bd = breakdown(sub, _depth + 1)
+            sub_cost = inp.qty * sub.anchor_cost_usd
+            input_cost += sub_cost
+            rows.append({
+                "commodity": f"[{inp.product}]", "qty": inp.qty, "qty_note": inp.note,
+                "unit_price": sub.anchor_cost_usd, "price_unit": sub.unit,
+                "cost_usd": round(sub_cost, 4),
+                "share_pct": round(100 * sub_cost / product.anchor_cost_usd, 2),
+                "via_product": inp.product,
+                # the embedded commodity terms, scaled into THIS product
+                "embedded": [{
+                    "commodity": r["commodity"],
+                    "share_pct": round(r["share_pct"] / 100
+                                       * (100 * sub_cost / product.anchor_cost_usd)
+                                       / 100 * 100, 2),
+                } for r in sub_bd["rows"] if not r.get("via_product")],
+            })
+            continue
         price = book.commodities[inp.commodity]
         cost = inp.qty * price.anchor_usd
         input_cost += cost
@@ -125,6 +163,17 @@ def shock_response(product: ProductSeed, price_changes_pct: dict[str, float]) ->
     total = 0.0
     contributions = []
     for row in bd["rows"]:
+        if row.get("via_product"):
+            for emb in row["embedded"]:
+                pct = price_changes_pct.get(emb["commodity"])
+                if pct is None:
+                    continue
+                contrib = emb["share_pct"] / 100 * pct
+                total += contrib
+                contributions.append({
+                    "commodity": f"{emb['commodity']} (via {row['via_product']})",
+                    "input_change_pct": pct, "product_change_pct": round(contrib, 2)})
+            continue
         pct = price_changes_pct.get(row["commodity"])
         if pct is None:
             continue
@@ -182,6 +231,20 @@ def render_product(product: ProductSeed, bd: dict) -> str:
         pt = product.retail_passthrough
         lines.append(f"retail pass-through: ~{pt.share:.0%} of an input-cost move reaches the buyer "
                      f"over ~{pt.lag_months} months — {pt.source}")
+    if product.manufacturing:
+        mf = product.manufacturing
+        shares = "  ".join(f"{c} {v:.0%}" for c, v in mf.region_shares.items())
+        lines.append(f"manufacturing: {mf.capacity_now}"
+                     + (f" -> {mf.capacity_2030}" if mf.capacity_2030 else "")
+                     + (f"  ({shares})" if shares else ""))
+        if mf.trend_note:
+            lines.append(f"  trend: {mf.trend_note}")
+    from .policy import policies_for
+
+    pol = policies_for(product=product.name)
+    if pol:
+        lines.append("policy: " + "; ".join(
+            f"{q['name']} [{q['status']}]" for q in pol))
     lines.append("Cost-base passthrough only — margins, contracts, hedges and pricing power unmodeled.")
     return "\n".join(lines)
 

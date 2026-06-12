@@ -210,6 +210,7 @@ def _commodity_payloads() -> list[dict]:
             "baseline": [asdict(r) for r in baseline.rows],
             "scenario": None,
             "drivers": seed.drivers,
+            "processing": seed.processing,
             "byproduct_of": seed.byproduct_of,
             "notes": seed.notes,
             "source": seed.source,
@@ -352,6 +353,12 @@ def _regional_payload() -> dict:
     return {"rates": TARIFF_RATES, "runs": runs}
 
 
+def _policies_payload() -> list[dict]:
+    from .policy import load_policies
+
+    return load_policies()
+
+
 def _products_payload() -> list[dict]:
     """Per-product BOM stack repriced live, plus +10%-input sensitivities."""
     from .products import list_product_names, live_pressure, load_product
@@ -369,6 +376,8 @@ def _products_payload() -> list[dict]:
             "cost_now_usd": bd["cost_now_usd"], "pressure_pct": bd["pressure_pct"],
             "retail_passthrough": (prod.retail_passthrough.model_dump()
                                    if prod.retail_passthrough else None),
+            "manufacturing": (prod.manufacturing.model_dump()
+                              if prod.manufacturing else None),
             "sensitivities": [
                 {"commodity": r["commodity"],
                  "product_pct_per_10": round(r["share_pct"] / 10, 2)}
@@ -538,6 +547,7 @@ def build_payload(
         "theses": _theses_payload(),
         "freshness": _data_freshness(),
         "benchmark": _benchmark_payload(),
+        "policies": _policies_payload(),
         "products": _products_payload(),
         "mines": [
             {

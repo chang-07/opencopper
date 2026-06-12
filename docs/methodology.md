@@ -239,6 +239,37 @@ support with a hard boundary: the project never sizes, recommends, or executes
 trades, every output carries the not-advice disclaimer, and PREDICTIONS.md is
 the public scorecard that keeps the signals honest.
 
+## The value chain above the products: nesting, midstream, and law
+
+Three layers extend the model up the chain (`opencopper product`, `policy`,
+and the MIDSTREAM section of `commodity report`):
+
+- **Nested bills of materials.** A product input can be another product
+  (one level, cycle-guarded): the compact EV carries the battery pack
+  carries the lithium, so a DRC copper shock reaches the VEHICLE at +2.4%
+  — dominated by cobalt-via-the-pack, four hops from the mine. The chain
+  also quantifies attenuation, which is most of value-chain punditry done
+  honestly: cable 79% commodity content → EV 31% → data center 3% →
+  smartphone 0.5% (all the mined content of an 800-dollar phone is ~8
+  dollars; commodity shocks move the miners of the 1%, not phone prices).
+- **The midstream is the chokepoint.** Eight commodities carry processing-
+  stage shares (IEA/ICSG/IAI public figures): the DRC mines 74% of cobalt
+  and refines almost none — China refines 75%, and cobalt's processing HHI
+  (5,741) exceeds its mining HHI (5,718). Same story stronger for graphite
+  (95% spherical processing), REE separation (88%), EMM manganese (~90%).
+  Where the stages disagree, the report says which one binds. Products
+  carry manufacturing-capacity trends (gigafactory/turbine/fab buildout,
+  region shares) as seed-estimates with sources.
+- **Policy as structured data.** `data/seed/policies.yaml` holds eleven
+  laws/controls — Section 232 copper (decides June 30), the DRC quota,
+  China's REE/graphite licensing, IRA 30D content rules, EU CRMA
+  benchmarks, CBAM's definitive period, the Russian-uranium ban — each
+  with jurisdiction, mechanism, status, dates, magnitude in the model's
+  terms, sources, and the commodities AND products it touches. Several
+  map to runnable scenario files; the curation rule (only policies that
+  change supply, demand, or trade geometry of modeled names) keeps it a
+  registry, not a news feed.
+
 ## Products: the model pointed at things people actually buy
 
 A product seed (`data/seed/products/`) is a bill of materials — input
