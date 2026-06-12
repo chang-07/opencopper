@@ -143,3 +143,24 @@ def test_datastore_status_covers_every_kind():
     assert all(r.latest and r.latest.startswith("20") for r in fred if r.age_days is not None)
     text = render_status(rows)
     assert "TTLs" in text and "fred" in text
+
+
+def test_data_check_no_fails_and_catches_planted_corruption(tmp_path, monkeypatch):
+    from opencopper.datastore import check, render_check
+
+    results = check()
+    fails = [r for r in results if r["level"] == "FAIL"]
+    assert fails == [], f"data quality FAILs: {fails}"
+    text = render_check(results)
+    assert "FAIL = the model would silently mis-use" in text
+
+    # the checker must actually catch corruption: plant a bad series
+    import opencopper.pricing as pr
+
+    bad = tmp_path / "BAD.csv"
+    bad.write_text("2026-01-01,100\n2026-01-01,-5\n2025-12-01,90")
+    monkeypatch.setattr(pr, "cached_fred",
+                        lambda s, **k: pr._read_price_csv(bad))
+    planted = check()
+    levels = {r["level"] for r in planted}
+    assert "FAIL" in levels  # out-of-order + duplicate + non-positive all bite

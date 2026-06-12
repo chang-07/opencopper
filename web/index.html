@@ -956,8 +956,17 @@ function backtestSection() {
       return `deep value while still falling earned ${f('glut|down')}/12m, momentum in balanced
       markets ${f('balanced|up')}, and the only profitable short was an already-broken squeeze
       (tight+falling ${f('tight|down')})`;
-    })()}. Gross of costs, monthly spot proxies, thresholds not optimized —
-    evidence about the signal, not a strategy. Full table: <code>opencopper backtest</code>;
+    })()}. The evidence-faithful construction (12-month overlapping holds, Jegadeesh–Titman;
+    long glut + balanced-with-momentum) earns ${(() => {
+      const t = B.tranche;
+      if (!t || !t.gross) return '—';
+      return `Sharpe ${t.gross.sharpe.toFixed(2)} gross / ${t.net.sharpe.toFixed(2)} net of 25bps
+      (${(t.gross.ann_ret >= 0 ? '+' : '')}${(t.gross.ann_ret * 100).toFixed(1)}%/yr at
+      ${(t.avg_gross_exposure * 100).toFixed(0)}% avg exposure, consistent pre/post-2010:
+      ${t.halves.pre ? t.halves.pre.sharpe.toFixed(2) : '—'}/${t.halves.post ? t.halves.post.sharpe.toFixed(2) : '—'})`;
+    })()}. Bias diagnostics (skip-month, parameter grid, CPI-real, split-sample, per-commodity
+    consistency): <code>opencopper backtest --robustness</code>. Monthly spot proxies, roll yield
+    not captured — evidence about the signal, not a strategy. Full table: <code>opencopper backtest</code>;
     sources: <a href="https://github.com/chang-07/opencopper/blob/main/docs/references.md"
     style="color:var(--copper-hot)">references.md</a>.</p>`;
 }

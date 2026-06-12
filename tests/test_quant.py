@@ -299,3 +299,31 @@ def test_sign_consistency_counts_both_contrasts():
     assert c["regime_n"] >= c["n_comparable"]  # regime contrast always broader
     assert 0 <= c["regime_consistent"] <= c["regime_n"]
     assert c["regime_p"] is None or 0 <= c["regime_p"] <= 1
+
+
+def test_tranche_strategy_captures_the_rebound_in_synthetic_world(monkeypatch):
+    import opencopper.backtest as bt
+    from opencopper.backtest import tranche_strategy
+
+    class _H:
+        months = _sine_history()
+
+    monkeypatch.setattr(bt, "load_price_history", lambda name: _H())
+    t = tranche_strategy(include=("glut",), cost_bps=10)
+    # the 12m hold collects the rebound the monthly gate missed: in the
+    # perfectly mean-reverting world the tranche rule prints money
+    assert t["gross"]["sharpe"] > 1
+    assert t["net"]["sharpe"] <= t["gross"]["sharpe"]  # costs only subtract
+    assert 0 < t["avg_gross_exposure"] < 1
+    assert t["ann_turnover"] < 3  # overlapping holds = slow book
+
+
+def test_tranche_real_data_is_sane():
+    from opencopper.backtest import tranche_strategy
+
+    t = tranche_strategy()
+    if t["n_commodities"] == 0:
+        pytest.skip("no caches")
+    assert t["n_commodities"] >= 10
+    assert -1 < t["gross"]["ann_ret"] < 1
+    assert t["net"]["ann_ret"] <= t["gross"]["ann_ret"] + 1e-9

@@ -129,3 +129,125 @@ def render_status(rows: list[SourceStatus]) -> str:
     lines += ["", f"TTLs: fred {FRED_TTL_DAYS}d, pinksheet {PINKSHEET_TTL_DAYS}d "
               "(serve fresh / refetch stale / stale-on-failure). Seeds are git-versioned."]
     return "\n".join(lines)
+
+
+# ------------------------------------------------------- quality checks
+
+
+def check() -> list[dict]:
+    """Data-quality audit: every check is (level, source, message) with
+    level PASS/WARN/FAIL. FAIL means a number the model would silently
+    mis-use (non-positive price, broken date order, unparseable receipt);
+    WARN means a human should look (gap, wild jump, stale series, anchor far
+    from market). The CI suite asserts zero FAILs on whatever caches exist."""
+    import json as _json
+    import math
+
+    from .pinksheet import PINKSHEET_SERIES
+    from .pricing import load_pricebook
+
+    out: list[dict] = []
+
+    def add(level, source, msg):
+        out.append({"level": level, "source": source, "msg": msg})
+
+    book = load_pricebook()
+
+    def check_series(label: str, rows: list[tuple[str, float]]):
+        if not rows:
+            add("FAIL", label, "empty series")
+            return
+        dates = [d for d, _ in rows]
+        if dates != sorted(dates):
+            add("FAIL", label, "dates out of order")
+        if len(set(dates)) != len(dates):
+            add("FAIL", label, "duplicate dates")
+        bad = [d for d, v in rows if v <= 0]
+        if bad:
+            add("FAIL", label, f"{len(bad)} non-positive price(s), first {bad[0]}")
+        gaps = 0
+        for i in range(1, len(dates)):
+            y0, m0 = int(dates[i - 1][:4]), int(dates[i - 1][5:7])
+            y1, m1 = int(dates[i][:4]), int(dates[i][5:7])
+            if (y1 - y0) * 12 + (m1 - m0) != 1:
+                gaps += 1
+        if gaps:
+            add("WARN", label, f"{gaps} gap(s) in the monthly sequence")
+        jumps = []
+        for i in range(1, len(rows)):
+            if rows[i - 1][1] > 0 and rows[i][1] > 0:
+                r = abs(math.log(rows[i][1] / rows[i - 1][1]))
+                if r > 0.75:
+                    jumps.append((dates[i], r))
+        if jumps:
+            add("WARN", label,
+                f"{len(jumps)} |move|>75% month(s), e.g. {jumps[-1][0]} "
+                f"({jumps[-1][1]:.0%} log) — verify against source")
+        if not jumps and not gaps and dates == sorted(dates) and not bad:
+            add("PASS", label, f"{len(rows)} rows clean, latest {dates[-1]}")
+
+    from .pricing import cached_fred
+    for name, p in sorted(book.commodities.items()):
+        if not p.fred_series:
+            continue
+        try:
+            check_series(f"{name} ({p.fred_series})", cached_fred(p.fred_series))
+        except Exception as exc:
+            add("FAIL", f"{name} ({p.fred_series})", f"unreadable: {exc}")
+    from .pinksheet import cached_pinksheet
+    for name in PINKSHEET_SERIES:
+        try:
+            check_series(f"{name} (PinkSheet)", cached_pinksheet(name))
+        except Exception as exc:
+            add("WARN", f"{name} (PinkSheet)", f"unavailable: {exc}")
+
+    # anchors vs market: beyond 3x either way the balanced-market anchor is
+    # doing no work and should be re-seeded
+    from .history import load_price_history
+    for name, p in sorted(book.commodities.items()):
+        h = load_price_history(name)
+        if not h:
+            continue
+        live = h.months[-1][1]
+        ratio = live / p.anchor_usd
+        if ratio > 3 or ratio < 1 / 3:
+            add("WARN", name, f"live {live:,.0f} is {ratio:.1f}x anchor "
+                              f"{p.anchor_usd:,.0f} — anchor likely stale")
+
+    # receipts must parse
+    for f in sorted(Path("data/news").glob("hits-*.json")):
+        try:
+            _json.loads(f.read_text())
+        except Exception:
+            add("FAIL", str(f), "unparseable hits receipt")
+    auto = Path("data/theses-auto.json")
+    if auto.exists():
+        try:
+            for t in _json.loads(auto.read_text()):
+                if t.get("entry_price", 0) <= 0 or t["commodity"] not in book.commodities:
+                    add("FAIL", auto.name, f"bad auto thesis {t.get('id')}")
+        except Exception:
+            add("FAIL", auto.name, "unparseable auto-theses file")
+
+    # CPI (the real-terms leg depends on it)
+    try:
+        cpi = cached_fred("CPIAUCSL")
+        add("PASS" if len(cpi) > 600 else "WARN", "CPI (CPIAUCSL)",
+            f"{len(cpi)} rows, latest {cpi[-1][0]}")
+    except Exception as exc:
+        add("WARN", "CPI (CPIAUCSL)", f"unavailable: {exc}")
+    return out
+
+
+def render_check(results: list[dict]) -> str:
+    counts = {"PASS": 0, "WARN": 0, "FAIL": 0}
+    lines = ["DATA QUALITY — gaps, order, positivity, jumps, anchors, receipts", ""]
+    for r in results:
+        counts[r["level"]] += 1
+        if r["level"] != "PASS":
+            lines.append(f"  {r['level']:<5} {r['source']:<26} {r['msg']}")
+    passes = [r for r in results if r["level"] == "PASS"]
+    lines += ["", f"{counts['PASS']} pass / {counts['WARN']} warn / {counts['FAIL']} FAIL "
+              f"({len(passes)} clean series suppressed; FAIL = the model would silently "
+              "mis-use a number)"]
+    return "\n".join(lines)

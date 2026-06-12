@@ -385,13 +385,16 @@ def _backtest_payload() -> dict:
 
     from .backtest import backtest_all, summary
 
+    from .backtest import tranche_strategy
+
     rows = backtest_all(12)
     slim = []
     for r in rows:
         d = _asdict(r)
         d.pop("monthly_legs")
         slim.append(d)
-    return {"rows": slim, "summary": summary(rows)}
+    return {"rows": slim, "summary": summary(rows),
+            "tranche": tranche_strategy(include=("glut", "balanced|up"), cost_bps=25.0)}
 
 
 def _news_payload(news_dir: Path = Path("data/news")) -> dict:

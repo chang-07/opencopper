@@ -160,12 +160,16 @@ def _cmd_theses(args: argparse.Namespace) -> int:
 
 
 def _cmd_data(args: argparse.Namespace) -> int:
-    from .datastore import refresh, render_status, status
+    from .datastore import check, refresh, render_check, render_status, status
 
     if args.action == "refresh":
         for line in refresh(args.source):
             print(line)
         return 0
+    if args.action == "check":
+        results = check()
+        print(render_check(results))
+        return 1 if any(r["level"] == "FAIL" for r in results) else 0
     print(render_status(status()))
     return 0
 
@@ -180,6 +184,12 @@ def _cmd_backtest(args: argparse.Namespace) -> int:
         sign_consistency,
         split_sample,
     )
+
+    if args.tranche:
+        from .backtest import render_tranche_variants
+
+        print(render_tranche_variants())
+        return 0
 
     if args.robustness:
         grid = robustness_grid(horizon=args.horizon)
@@ -646,7 +656,7 @@ def main(argv: list[str] | None = None) -> int:
     p.set_defaults(func=_cmd_theses)
 
     p = sub.add_parser("data", help="one view over every cache: freshness, rows, latest date; force refresh")
-    p.add_argument("action", choices=["status", "refresh"], nargs="?", default="status")
+    p.add_argument("action", choices=["status", "refresh", "check"], nargs="?", default="status")
     p.add_argument("--source", choices=["all", "fred", "pinksheet"], default="all")
     p.set_defaults(func=_cmd_data)
 
@@ -656,6 +666,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--skip", type=int, default=1, help="months between signal and outcome (Working averaging effect; 0 = naive)")
     p.add_argument("--real", action="store_true", help="CPI-deflate prices (real-terms value signal)")
     p.add_argument("--robustness", action="store_true", help="bias diagnostics: parameter grid, split-sample, consistency")
+    p.add_argument("--tranche", action="store_true", help="12m overlapping-hold strategies (Jegadeesh-Titman), gross and net")
     p.add_argument("--split", type=int, default=2010, help="split year for the in/out-of-sample halves")
     p.set_defaults(func=_cmd_backtest)
 

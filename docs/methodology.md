@@ -382,6 +382,31 @@ today's 22 commodities. Mitigating facts: the series are continuous
 (1960/1992 starts, nothing delisted), and commodities don't exit the way
 stocks do.
 
+**The strategy matches the evidence horizon** (`opencopper backtest
+--tranche`). The monthly-gated rule exits when a glut reclassifies — just as
+the rebound starts — so the evidence-faithful construction is
+Jegadeesh-Titman (1993) overlapping tranches: each month's signal opens a
+12-month hold, capital is the average of active tranches. Pre-declared
+variants, all shown: long-glut (Sharpe 0.33), glut-while-falling (0.34), and
+the value+momentum combination long glut + balanced-with-momentum (**Sharpe
+0.54 gross, 0.52 net of 25bps**, consistent halves 0.52/0.59 — the
+Asness-Moskowitz-Pedersen diversification on our data). Long-only by
+construction: the diagnostics showed the short side is a risk premium.
+Turnover ~0.2-0.5×/yr makes costs a rounding error; exposure averages
+17-43% of capital because gluts are rare — selectivity is the strategy.
+Roll yield is not captured (spot-proxy monthly series); levels are
+indicative, the shape is the finding.
+
+**The data audits itself** (`opencopper data check`, run by CI and by the
+daily Action before anything publishes — clean data or no publish). Every
+series is checked for date order, duplicates, gaps, non-positive prices, and
+>75%-log monthly jumps (the one current warning is January 1974 Brent — the
+OPEC embargo, i.e. the checker correctly flagging the most violent real move
+in the dataset); anchors more than 3× from the live price are flagged
+stale; news/theses receipts must parse and reference known commodities.
+FAIL-level findings (numbers the model would silently mis-use) fail the
+build.
+
 **Volatility is conditioned on the state.** Realized vol bucketed causally
 by regime (regime at month i−1, return over month i) is U-shaped: extreme
 states are volatile states (crude: 41% in glut, 22% balanced, 39% tight).
