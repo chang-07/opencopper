@@ -239,6 +239,45 @@ support with a hard boundary: the project never sizes, recommends, or executes
 trades, every output carries the not-advice disclaimer, and PREDICTIONS.md is
 the public scorecard that keeps the signals honest.
 
+## The thesis ledger: the system grades its own calls
+
+PREDICTIONS.md is prose; `data/theses.yaml` is its machine-readable twin,
+and `opencopper theses` marks every entry to market:
+
+- **Markable metrics grade themselves.** The copper-2026 band call reads its
+  own YTD average off FRED every run and prints provisional standing
+  ("12,968 over 5 months — inside") until the year completes, then grades
+  itself permanently. Resolution dates and readings are recorded.
+- **External metrics can't pretend.** Calls that resolve via ICSG/USGS
+  publications stay OPEN until a `resolution:` block with a cited source is
+  added — and once the deadline passes unresolved they flip to NEEDS-RES and
+  glow on the scorecard until someone owns the grade.
+- **The news pipeline's calls are tested automatically.** Every distinct
+  rule-matched supply event becomes an auto thesis — "price prints ≥+5% vs
+  entry within 6 months" — with the entry price snapshotted at creation.
+  The first monthly print over the threshold resolves it; a passed deadline
+  is a MISS that stays forever. Commodities without a keyless monthly series
+  are skipped: untrackable claims aren't theses, they're prose.
+- **Analytics:** hit rate over resolved theses, Brier score wherever the
+  model attached a probability at creation, and the open auto-theses' paper
+  move. The daily Action re-marks everything and ships the scorecard in the
+  brief and on the demo's Scorecard tab.
+
+This is the performance test of the *generated* theses, not just the
+hand-made ones: when the news→simulation loop fires, the ledger records what
+happened next, every time.
+
+## Data freshness: one place where staleness is visible
+
+Five external surfaces feed the model (FRED, Pink Sheet, USGS seeds, MinMod,
+Google News). `opencopper data status` shows every cache's age, row count,
+and latest data date in one table; `opencopper data refresh` force-refetches
+the fetchable ones. FRED/Pink Sheet caches carry a TTL (serve fresh, refetch
+stale, fall back to the stale file when the network fails — a days-old quote
+beats none as long as its date travels with it). The status board is also
+where honest awkwardness surfaces: the Pink Sheet's monthly file trails FRED
+by months, which is why silver's "live" price wears its date on the desk.
+
 ## Evidence before opinions: backtest, conditional vol, parameter bands, book risk
 
 A model usable for real decisions has to show its homework. Four pieces

@@ -335,6 +335,23 @@ def _regional_payload() -> dict:
     return {"rates": TARIFF_RATES, "runs": runs}
 
 
+def _theses_payload() -> dict:
+    from .theses import analytics, mark_all
+
+    from dataclasses import asdict as _asdict
+
+    marked = mark_all()
+    return {"analytics": analytics(marked), "rows": [_asdict(m) for m in marked]}
+
+
+def _data_freshness() -> list[dict]:
+    from dataclasses import asdict as _asdict
+
+    from .datastore import status
+
+    return [_asdict(s) for s in status()]
+
+
 def _backtest_payload() -> dict:
     """34-year walk-forward evidence on the regime signal — the desk shows
     its homework next to its opinions."""
@@ -457,6 +474,8 @@ def build_payload(
         "signals": _signals_payload(),
         "news": _news_payload(),
         "backtest": _backtest_payload(),
+        "theses": _theses_payload(),
+        "freshness": _data_freshness(),
         "mines": [
             {
                 "name": m.name,

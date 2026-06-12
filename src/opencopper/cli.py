@@ -102,6 +102,25 @@ def _cmd_signals(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_theses(args: argparse.Namespace) -> int:
+    from .theses import mark_all, render_theses, theses_json
+
+    marked = mark_all()
+    print(theses_json(marked) if args.json else render_theses(marked))
+    return 0
+
+
+def _cmd_data(args: argparse.Namespace) -> int:
+    from .datastore import refresh, render_status, status
+
+    if args.action == "refresh":
+        for line in refresh(args.source):
+            print(line)
+        return 0
+    print(render_status(status()))
+    return 0
+
+
 def _cmd_backtest(args: argparse.Namespace) -> int:
     from .backtest import backtest_all, backtest_commodity, render_backtest
 
@@ -550,6 +569,15 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--json", action="store_true", help="machine-readable, for your own systems")
     p.add_argument("--paths", type=int, default=800)
     p.set_defaults(func=_cmd_signals)
+
+    p = sub.add_parser("theses", help="scorecard: every registered + news-generated call, marked to market")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=_cmd_theses)
+
+    p = sub.add_parser("data", help="one view over every cache: freshness, rows, latest date; force refresh")
+    p.add_argument("action", choices=["status", "refresh"], nargs="?", default="status")
+    p.add_argument("--source", choices=["all", "fred", "pinksheet"], default="all")
+    p.set_defaults(func=_cmd_data)
 
     p = sub.add_parser("backtest", help="walk-forward test: does the regime signal predict forward returns? (34yr, NW t-stats)")
     p.add_argument("--commodity", default=None)

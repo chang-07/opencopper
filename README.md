@@ -115,8 +115,19 @@ uv run opencopper regional --scenario scenarios/us-refined-tariff-2026.yaml  # q
 uv run opencopper signals [--json]                 # desk sheet: model vs live market (not advice)
 uv run opencopper backtest [--horizon 12]          # 34yr walk-forward: does the regime signal predict?
 uv run opencopper book examples/book.yaml --risk   # correlated VaR/ES on YOUR declared exposures
+uv run opencopper theses [--json]                  # scorecard: every call marked to market daily
+uv run opencopper data status                      # every cache: age, rows, latest date, TTLs
 uv run opencopper sensitivity --target price                           # the pricing parameters' own tornado
 ```
+
+**The system grades its own calls.** `data/theses.yaml` is PREDICTIONS.md in
+machine-readable form; markable theses grade themselves off keyless series
+(the copper-2026 band call reads its own YTD standing every run), external
+ones glow NEEDS-RES when their deadline passes ungraded, and **every
+rule-matched news event becomes an auto thesis** ("≥+5% vs snapshotted entry
+within 6 months") that the daily Action re-marks — so the news→simulation
+loop's predictive value is itself measured, hit rate and Brier score
+included, on the demo's **Scorecard** tab.
 
 **The desk shows its homework.** The regime signal is backtested walk-forward
 over 34 years with Newey-West t-stats: 9/10 commodities mean-revert toward

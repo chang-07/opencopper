@@ -1,0 +1,57 @@
+# Thesis registry — the machine-readable twin of PREDICTIONS.md.
+# Every entry is a falsifiable call with its creation date, the model state
+# it came from, and HOW it resolves. `opencopper theses` marks each against
+# live data where a keyless series exists (metric: annual_avg_band /
+# price_change) and carries the rest as external until a `resolution:` block
+# is added by hand with a source. Hits and misses both stay forever.
+theses:
+  - id: icsg-2026-deficit
+    created: "2026-06-11"
+    commit: "8164a50"
+    commodity: copper
+    claim: "ICSG reports a 2026 refined copper deficit (model P(deficit)=86%, P50 -312 kt)"
+    metric: external
+    resolves_by: "2027-04-30"
+    prob: 0.86
+    source: "PREDICTIONS.md #1; resolves via ICSG full-year 2026 balance"
+
+  - id: copper-2026-avg-band
+    created: "2026-06-11"
+    commit: "8164a50"
+    commodity: copper
+    claim: "2026 annual average copper lands in 11,000-16,500 USD/t (central ~13,500)"
+    metric: annual_avg_band
+    year: 2026
+    lo: 11000
+    hi: 16500
+    resolves_by: "2027-01-31"
+    source: "PREDICTIONS.md #2; FRED PCOPPUSDM annual average"
+
+  - id: tariff-premium-jun30
+    created: "2026-06-11"
+    commit: "8164a50"
+    commodity: copper
+    claim: "CONDITIONAL on Jun-30 Section 232: tariff >=15% -> COMEX-LME premium >10% within a quarter; exemption -> <5%"
+    metric: external
+    conditional: true
+    resolves_by: "2026-09-30"
+    source: "PREDICTIONS.md #3; COMEX-LME spreads (no keyless series — manual)"
+
+  - id: cobre-panama-restart
+    created: "2026-06-11"
+    commit: "8164a50"
+    commodity: copper
+    claim: "CONDITIONAL on full restart approval: +120 kt 2026 supply cuts P(deficit) 86%->~65%"
+    metric: external
+    conditional: true
+    resolves_by: "2026-12-31"
+    source: "PREDICTIONS.md #4; Panama decision + First Quantum reports"
+
+  - id: cobalt-2026-avg-up50
+    created: "2026-06-11"
+    commit: "8164a50"
+    commodity: cobalt
+    claim: "2026 average cobalt exceeds 2024's by >=50% (falsified below ~$25/lb)"
+    metric: external
+    resolves_by: "2027-02-28"
+    source: "PREDICTIONS.md #5; USGS MCS 2027 price note (no keyless monthly series)"

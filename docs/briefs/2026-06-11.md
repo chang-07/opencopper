@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-06-11
+# News-driven model brief — 2026-06-12
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
@@ -12,11 +12,13 @@ Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf s
 CROSS-COMMODITY RIPPLE — Saudi Arabia crude-oil -20% (prior)
 commodity    channel       via                          price Δ
 ----------------------------------------------------------------
-crude-oil    direct        Saudi Arabia                    +11%
+crude-oil    direct        Saudi Arabia                    +11%  [+5..+31%]
 wheat        input_cost    crude-oil price +11%             +1%
 
 One first-order round through data/seed/linkages.yaml (byproduct /
 substitution / input-cost); couplings are disputable seed-estimates.
+[..] = the same shock across the seeded elasticity RANGES — when the
+band is wide, the elasticities are doing the work, not the event.
 ```
 
 _16 corroborating headline(s):_
@@ -33,8 +35,19 @@ Rule: cobalt / Congo (Kinshasa) / severity prior +40%
 CROSS-COMMODITY RIPPLE — Congo (Kinshasa) cobalt -40% (prior)
 commodity    channel       via                          price Δ
 ----------------------------------------------------------------
-cobalt       direct        Congo (Kinshasa)          ≥     +300%
+cobalt       direct        Congo (Kinshasa)          ≥     +300%  [+141..+300%]
 
 One first-order round through data/seed/linkages.yaml (byproduct /
 substitution / input-cost); couplings are disputable seed-estimates.
+[..] = the same shock across the seeded elasticity RANGES — when the
+band is wide, the elasticities are doing the work, not the event.
 ```
+
+---
+
+## Scorecard
+6 theses: 0 hit / 0 miss / 6 open / 0 need resolution · open auto avg move +0.0%
+
+- new thesis: **auto-2026-06-crude-oil-saudi-arabia** — news-implied supply event (Saudi Arabia crude-oil -20% prior): price prints ≥+5% vs entry within 6m
+
+Full ledger: `opencopper theses` / the demo's Scorecard tab.

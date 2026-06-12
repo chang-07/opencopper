@@ -99,15 +99,40 @@ def fetch_fred(series: str, client: Optional[httpx.Client] = None) -> list[tuple
             client.close()
 
 
-def cached_fred(series: str, cache_dir: Path = PRICE_CACHE_DIR) -> list[tuple[str, float]]:
+FRED_TTL_DAYS = 3  # monthly series; a few days of cache is plenty
+
+
+def _read_price_csv(cache: Path) -> list[tuple[str, float]]:
+    rows = []
+    for row in csv.reader(cache.read_text().splitlines()):
+        if len(row) == 2:
+            rows.append((row[0], float(row[1])))
+    return rows
+
+
+def cache_age_days(cache: Path) -> float | None:
+    if not cache.exists():
+        return None
+    import time
+
+    return (time.time() - cache.stat().st_mtime) / 86400
+
+
+def cached_fred(series: str, cache_dir: Path = PRICE_CACHE_DIR,
+                ttl_days: float = FRED_TTL_DAYS) -> list[tuple[str, float]]:
+    """TTL cache: serve fresh files, refetch stale ones, and fall back to the
+    stale file when the refetch fails — a quote that is days old beats no
+    quote, as long as its date travels with it (summarize() carries it)."""
     cache = cache_dir / f"{series}.csv"
-    if cache.exists():
-        rows = []
-        for row in csv.reader(cache.read_text().splitlines()):
-            if len(row) == 2:
-                rows.append((row[0], float(row[1])))
-        return rows
-    rows = fetch_fred(series)
+    age = cache_age_days(cache)
+    if age is not None and age <= ttl_days:
+        return _read_price_csv(cache)
+    try:
+        rows = fetch_fred(series)
+    except Exception:
+        if age is not None:
+            return _read_price_csv(cache)  # stale beats nothing
+        raise
     cache.parent.mkdir(parents=True, exist_ok=True)
     cache.write_text("\n".join(f"{d},{v}" for d, v in rows))
     return rows

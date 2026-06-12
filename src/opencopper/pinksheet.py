@@ -64,17 +64,25 @@ def _parse_column(column: str) -> list[tuple[str, float]]:
     return out
 
 
-def cached_pinksheet(commodity: str) -> list[tuple[str, float]]:
-    """Monthly (date, price) rows for a commodity, CSV-cached like FRED."""
+PINKSHEET_TTL_DAYS = 7  # the Pink Sheet updates monthly; a week of cache is fine
+
+
+def cached_pinksheet(commodity: str, ttl_days: float = PINKSHEET_TTL_DAYS) -> list[tuple[str, float]]:
+    """Monthly (date, price) rows for a commodity, TTL-cached like FRED
+    (serve fresh, refetch stale, stale-on-failure)."""
+    from .pricing import _read_price_csv, cache_age_days
+
     column = PINKSHEET_SERIES[commodity]
     cache = CACHE_DIR / f"pinksheet-{commodity}.csv"
-    if cache.exists():
-        return [
-            (row[0], float(row[1]))
-            for row in csv.reader(cache.read_text().splitlines())
-            if len(row) == 2
-        ]
-    rows = _parse_column(column)
+    age = cache_age_days(cache)
+    if age is not None and age <= ttl_days:
+        return _read_price_csv(cache)
+    try:
+        rows = _parse_column(column)
+    except Exception:
+        if age is not None:
+            return _read_price_csv(cache)
+        raise
     cache.parent.mkdir(parents=True, exist_ok=True)
     cache.write_text("\n".join(f"{d},{v}" for d, v in rows))
     return rows

@@ -151,6 +151,8 @@ def build_brief(hits: list[NewsHit], today: str) -> str:
 
 
 def run_news(out_dir: Path = Path("out"), data_dir: Path = Path("data/news")) -> Path:
+    from .theses import analytics, generate_auto_theses, mark_all
+
     cfg = load_rules()
     items = fetch_headlines(cfg["feeds"])
     fresh = recent_items(items, cfg.get("max_age_days", 14))
@@ -158,8 +160,25 @@ def run_news(out_dir: Path = Path("out"), data_dir: Path = Path("data/news")) ->
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     data_dir.mkdir(parents=True, exist_ok=True)
     (data_dir / f"hits-{today}.json").write_text(json.dumps([asdict(h) for h in hits], indent=1))
+
+    # every distinct event becomes a trackable thesis; the scorecard rides
+    # along in the brief so the system grades yesterday's calls in the same
+    # breath as it makes today's
+    added = generate_auto_theses([asdict(h) for h in hits], today)
+    a = analytics(mark_all())
+    scorecard = ["", "---", "", "## Scorecard",
+                 f"{a['n']} theses: {a['hit']} hit / {a['miss']} miss / {a['open']} open"
+                 f" / {a['needs_res']} need resolution"
+                 + (f" · hit rate {a['hit_rate']:.0%}" if a["hit_rate"] is not None else "")
+                 + (f" · open auto avg move {a['open_auto_avg_move_pct']:+.1f}%"
+                    if a["open_auto_avg_move_pct"] is not None else ""),
+                 ""]
+    scorecard += [f"- new thesis: **{t['id']}** — {t['claim']}" for t in added]
+    scorecard.append("\nFull ledger: `opencopper theses` / the demo's Scorecard tab.")
+
     out_dir.mkdir(parents=True, exist_ok=True)
     brief = out_dir / "news-brief.md"
-    brief.write_text(build_brief(hits, today))
-    print(f"{len(items)} headlines ({len(fresh)} recent), {len(hits)} rule matches -> {brief}")
+    brief.write_text(build_brief(hits, today) + "\n".join(scorecard))
+    print(f"{len(items)} headlines ({len(fresh)} recent), {len(hits)} rule matches, "
+          f"{len(added)} new theses -> {brief}")
     return brief
