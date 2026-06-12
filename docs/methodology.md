@@ -407,12 +407,27 @@ stale; news/theses receipts must parse and reference known commodities.
 FAIL-level findings (numbers the model would silently mis-use) fail the
 build.
 
+**Claims carry error bars and corrections.** The tranche strategy's Sharpe
+is reported with a moving-block bootstrap 90% CI (Künsch 1989; 24-month
+blocks preserve regime clustering) and P(Sharpe≤0) — currently [0.25, 0.82]
+and 0.2% — plus a Newey-West t on the mean (3.1). Per-commodity slope
+t-stats are starred only if they survive Holm-Bonferroni across all 16
+tests (4 names: gas, aluminum, tin, nickel); the pooled claim is held to
+the cross-commodity sign test. And the previously documented MC
+autocorrelation "gap" (+0.13 realized vs −0.03 simulated) dissolved under
+matched estimators: per-path AR(1) at n=6 is biased by ~(1+3ρ)/n (Kendall
+1954), and chopping the realized series into same-length windows gives
+−0.08 vs the simulation's −0.03 — the validation was biased, not the model.
+Fixing the test rather than re-tuning the parameter is the methodological
+point.
+
 **Volatility is conditioned on the state.** Realized vol bucketed causally
 by regime (regime at month i−1, return over month i) is U-shaped: extreme
 states are volatile states (crude: 41% in glut, 22% balanced, 39% tight).
-The desk shows the current regime's vol. The Monte Carlo stays calibrated
-to UNCONDITIONAL vol — conditioning it would double-count the regime, since
-scenarios already move the state.
+The desk shows the current regime's vol, and the CLOSED-FORM spike odds
+(simulator cards, commodity reports) now use the conditional number too —
+the Monte Carlo alone stays calibrated to UNCONDITIONAL vol, since its
+scenarios already move the state and conditioning would double-count.
 
 **Elasticities carry ranges, not just points.** Where the literature bounds
 a short-run elasticity, `prices.yaml` seeds a range, and every incidence

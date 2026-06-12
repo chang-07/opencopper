@@ -511,7 +511,9 @@ def _print_commodity_price_impact(seed, run) -> None:
         return
     peak_year, peak_loss = max(shock_rows, key=lambda yr: yr[1])
     impact = price_impact_from_shock(price, peak_loss)
-    vol, vol_src = ambient_volatility(seed.name)
+    from .history import conditional_volatility
+
+    vol, vol_src = conditional_volatility(seed.name)
     p2x = prob_price_multiple(impact.price_change_pct / 100, vol, 2.0)
     print("\nIMPLIED PRICE (elasticity-incidence, illustrative — NOT a forecast):")
     print(f"  peak supply withdrawal {impact.supply_loss_pct:.0f}% of world ({peak_year}) "

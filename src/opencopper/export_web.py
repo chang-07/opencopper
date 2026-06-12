@@ -135,7 +135,9 @@ def _pricing_payload(fetch_live: bool = True) -> dict:
                 live = {"latest": q.latest, "avg_12m": q.avg_12m, "date": q.latest_date} if q else None
             except Exception:
                 live = None
-        vol, vol_src = ambient_volatility(name)
+        from .history import conditional_volatility
+
+        vol, vol_src = conditional_volatility(name)
         commodities[name] = {
             "anchor_usd": p.anchor_usd,
             "unit": p.unit,

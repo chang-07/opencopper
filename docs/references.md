@@ -91,6 +91,22 @@ literature's value — disagreement is data, not embarrassment.
   pass-through within weeks, faster up than down ("rockets and feathers").
   → gasoline's `retail_passthrough` (share 1.0, ~2 months, asymmetry noted).
 
+## Inference
+
+- **Künsch (1989)**, "The Jackknife and the Bootstrap for General Stationary
+  Observations", *Annals of Statistics*. Moving-block bootstrap preserves
+  serial dependence. → the tranche strategy's Sharpe carries a 24-month-block
+  bootstrap 90% CI and P(Sharpe≤0) instead of a bare point estimate.
+- **Holm (1979)**, "A Simple Sequentially Rejective Multiple Test
+  Procedure", *Scand. J. Statistics*. Step-down family-wise correction. →
+  per-commodity slope t-stats are starred only if they survive Holm-
+  Bonferroni across all 16 tests; the pooled claim rides the sign test.
+- **Kendall (1954)**, "Note on Bias in the Estimation of Autocorrelation",
+  *Biometrika*. E[ρ̂] ≈ ρ − (1+3ρ)/n. → resolved the model's documented
+  autocorrelation "gap": a 34-observation realized estimate had been
+  compared against 6-observation per-path estimates; with matched windows
+  the simulation was on target all along (validation bug, not model bug).
+
 ## Risk measurement
 
 - **Zangari (1996)**, RiskMetrics Monitor. Cornish–Fisher expansion adjusts

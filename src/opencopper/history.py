@@ -213,3 +213,17 @@ def render_history(h: PriceHistory) -> str:
     recent = sorted(h.annual_avg)[-6:]
     lines.append("  recent annual avg:     " + "  ".join(f"{y}:{h.annual_avg[y]:,.0f}" for y in recent))
     return "\n".join(lines)
+
+
+def conditional_volatility(commodity: str) -> tuple[float, str]:
+    """Ambient vol conditioned on the CURRENT regime when estimable (vol is
+    state-dependent and U-shaped — extreme states are volatile states), else
+    the unconditional realized number, else the documented default. The
+    source string says which one you got."""
+    h = load_price_history(commodity)
+    if h:
+        rv = regime_volatility(commodity)
+        now = h.regime_now.value
+        if rv and now in rv:
+            return rv[now], f"conditional on {now} regime ({h.series})"
+    return ambient_volatility(commodity)

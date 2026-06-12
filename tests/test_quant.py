@@ -327,3 +327,83 @@ def test_tranche_real_data_is_sane():
     assert t["n_commodities"] >= 10
     assert -1 < t["gross"]["ann_ret"] < 1
     assert t["net"]["ann_ret"] <= t["gross"]["ann_ret"] + 1e-9
+
+
+# ---------------------------------------------------------------- inference
+
+
+def test_block_bootstrap_separates_signal_from_noise():
+    import random
+
+    from opencopper.backtest import block_bootstrap_sharpe
+
+    rng = random.Random(1)
+    strong = [0.01 + rng.gauss(0, 0.02) for _ in range(400)]
+    noise = [rng.gauss(0, 0.02) for _ in range(400)]
+    bs = block_bootstrap_sharpe(strong, n_boot=400)
+    bn = block_bootstrap_sharpe(noise, n_boot=400)
+    assert bs["p_leq_0"] < 0.01 and bs["ci90"][0] > 0
+    assert bn["p_leq_0"] > 0.05  # noise can't reject zero
+    assert bs["ci90"][0] < bs["sharpe"] < bs["ci90"][1]
+    # too-short series refuses to answer rather than fabricating a CI
+    assert block_bootstrap_sharpe(noise[:30])["ci90"] is None
+
+
+def test_strategy_t_stat_sign_and_nw_shrinkage():
+    import random
+
+    from opencopper.backtest import strategy_t_stat
+
+    rng = random.Random(2)
+    pos = [0.01 + rng.gauss(0, 0.02) for _ in range(300)]
+    assert strategy_t_stat(pos) > 3
+    # autocorrelated series: NW(12) must not be more confident than NW(0)
+    e, ac = 0.0, []
+    for _ in range(300):
+        e = 0.9 * e + rng.gauss(0, 0.01)
+        ac.append(0.002 + e)
+    assert abs(strategy_t_stat(ac, lag=12)) <= abs(strategy_t_stat(ac, lag=0))
+
+
+def test_holm_bonferroni_step_down():
+    from opencopper.backtest import holm_bonferroni
+
+    out = holm_bonferroni({"a": -5.0, "b": -1.0, "c": -4.0, "d": 0.2})
+    assert out["a"] and out["c"]          # strong ts survive
+    assert not out["b"] and not out["d"]  # weak ones don't
+    # step-down: everything after the first failure is rejected
+    out2 = holm_bonferroni({"a": -1.0, "b": -9.0})
+    assert out2["b"] and not out2["a"]
+
+
+def test_tranche_carries_inference():
+    from opencopper.backtest import tranche_strategy
+
+    t = tranche_strategy()
+    if t["n_commodities"] == 0:
+        pytest.skip("no caches")
+    b = t["bootstrap"]
+    assert b["ci90"] is not None and b["ci90"][0] < b["ci90"][1]
+    assert 0 <= b["p_leq_0"] <= 1
+    assert isinstance(t["t_nw"], float)
+
+
+def test_tail_shape_matched_autocorr_closes_the_gap():
+    from opencopper.calibrate import tail_shape_check
+
+    t = tail_shape_check(n_paths=300, seed=11)
+    if not t:
+        pytest.skip("no copper cache")
+    assert t["realized_autocorr_matched"] is not None
+    full_gap = abs(t["realized_autocorr"] - t["simulated_autocorr"])
+    matched_gap = abs(t["realized_autocorr_matched"] - t["simulated_autocorr"])
+    assert matched_gap < full_gap  # the documented "gap" was estimator bias
+
+
+def test_conditional_volatility_falls_back_gracefully():
+    from opencopper.history import conditional_volatility
+
+    vol, src = conditional_volatility("copper")
+    assert 0.05 < vol < 1.0 and "conditional" in src
+    vol2, src2 = conditional_volatility("cobalt")  # no series
+    assert "default" in src2

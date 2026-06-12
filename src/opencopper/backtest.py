@@ -315,11 +315,13 @@ def render_backtest(rows: list[BacktestRow], horizon: int) -> str:
         f"{'fwd|glut':>10}{'fwd|bal':>9}{'fwd|tight':>10}{'rule shp':>9}{'hold shp':>9}",
         "-" * 89,
     ]
+    hb = holm_bonferroni({r.commodity: r.t_stat for r in rows})
     for r in rows:
         f = lambda v: f"{v:+.1%}" if v is not None else "    —"
         hl = f"{r.half_life_months:.0f}" if r.half_life_months else "—"
+        star = "*" if hb.get(r.commodity) else " "
         lines.append(
-            f"{r.commodity:<12}{r.n_months:>7}{r.slope:>9.2f}{r.t_stat:>7.2f}{hl:>7}"
+            f"{r.commodity:<11}{star}{r.n_months:>7}{r.slope:>9.2f}{r.t_stat:>7.2f}{hl:>7}"
             f"{f(r.mean_fwd['glut']):>10}{f(r.mean_fwd['balanced']):>9}{f(r.mean_fwd['tight']):>10}"
             f"{r.strat['sharpe']:>9.2f}{r.hold['sharpe']:>9.2f}"
         )
@@ -329,7 +331,10 @@ def render_backtest(rows: list[BacktestRow], horizon: int) -> str:
     lines += [
         "",
         f"verdict: {s['n_mean_reverting']}/{s['n_commodities']} commodities mean-revert "
-        f"(slope<0), sign-test p={s['sign_test_p']} (commodities correlate; p is optimistic)",
+        f"(slope<0), sign-test p={s['sign_test_p']} (commodities correlate; p is optimistic);",
+        f"* = survives Holm-Bonferroni at family-wise 5% across {s['n_commodities']} tests "
+        f"({sum(1 for r in rows if hb.get(r.commodity))} names) — per-name claims are held to "
+        "the corrected bar, the pooled claim to the sign test",
         f"median slope {s['median_slope']:+.2f}: a +10% trend deviation maps to "
         f"{s['median_slope']*0.1:+.1%} expected {horizon}m forward return",
         "",
@@ -574,6 +579,8 @@ def tranche_strategy(hold: int = 12, skip: int = 1,
 
     cost = cost_bps / 1e4
     net = [rets[i] - cost * turns[i] for i in range(len(rets))]
+    boot = block_bootstrap_sharpe(rets)
+    t_nw = strategy_t_stat(rets)
     halves = {}
     for label, pred in (("pre", lambda d: d < split[:7]), ("post", lambda d: d >= split[:7])):
         sub = [by_date[d] for d in dates if pred(d)]
@@ -589,6 +596,8 @@ def tranche_strategy(hold: int = 12, skip: int = 1,
         "gross": _perf(rets),
         "net": _perf(net),
         "halves": halves,
+        "t_nw": t_nw,
+        "bootstrap": boot,
     }
 
 
@@ -641,7 +650,14 @@ def render_tranche_variants(horizon_note: bool = True) -> str:
             f"{h['pre']['sharpe'] if h['pre'] else float('nan'):>8.2f}"
             f"{h['post']['sharpe'] if h['post'] else float('nan'):>9.2f}"
             f"{n['sharpe']:>10.2f}")
+    head = tranche_strategy(include=TRANCHE_VARIANTS[-1], cost_bps=25.0)
+    b = head["bootstrap"]
     lines += ["",
+              f"inference on the headline rule (moving-block bootstrap, {b['block']}m blocks,",
+              f"{b['n_boot']} resamples): Sharpe {b['sharpe']:.2f}, 90% CI "
+              f"[{b['ci90'][0]:.2f}, {b['ci90'][1]:.2f}], P(Sharpe<=0) = {b['p_leq_0']:.1%}; "
+              f"NW t on the mean = {head['t_nw']:.1f}.",
+              "",
               "The combined value+momentum rule is the headline: better Sharpe than",
               "either component, consistent across halves — the Asness-Moskowitz-",
               "Pedersen diversification, on our data. Exposure is the honest cost of",
@@ -649,3 +665,73 @@ def render_tranche_variants(horizon_note: bool = True) -> str:
               "Turnover ~0.2-0.5x/yr makes costs a rounding error at futures levels.",
               "Spot-proxy monthly series: roll yield not captured. Never advice."]
     return "\n".join(lines)
+
+
+# ------------------------------------------------------- inference
+
+
+def block_bootstrap_sharpe(rets: list[float], n_boot: int = 2000,
+                           block: int = 24, seed: int = 7) -> dict:
+    """Moving-block bootstrap (Kunsch 1989) for the strategy Sharpe: resample
+    24-month blocks with replacement to preserve the autocorrelation and
+    regime clustering a plain bootstrap would destroy, then read the Sharpe
+    distribution. Returns the point estimate, the 90% CI, and P(Sharpe<=0) —
+    the number a point estimate hides."""
+    import random
+
+    n = len(rets)
+    if n < block * 3:
+        return {"sharpe": None, "ci90": None, "p_leq_0": None, "n_boot": 0}
+    rng = random.Random(seed)
+    point = _perf(rets)["sharpe"]
+    n_blocks = (n + block - 1) // block
+    sharpes = []
+    for _ in range(n_boot):
+        sample: list[float] = []
+        for _ in range(n_blocks):
+            s = rng.randrange(0, n - block)
+            sample.extend(rets[s:s + block])
+        sharpes.append(_perf(sample[:n])["sharpe"])
+    sharpes.sort()
+    lo = sharpes[int(0.05 * n_boot)]
+    hi = sharpes[int(0.95 * n_boot) - 1]
+    p0 = sum(1 for s in sharpes if s <= 0) / n_boot
+    return {"sharpe": point, "ci90": (round(lo, 2), round(hi, 2)),
+            "p_leq_0": round(p0, 4), "n_boot": n_boot, "block": block}
+
+
+def strategy_t_stat(rets: list[float], lag: int = 12) -> float:
+    """Newey-West t-stat on the strategy's mean monthly return — inference on
+    'is the mean positive' that respects the autocorrelation overlapping
+    holds induce."""
+    n = len(rets)
+    mu = sum(rets) / n
+    e = [r - mu for r in rets]
+    s = sum(v * v for v in e)
+    for l in range(1, lag + 1):
+        w = 1 - l / (lag + 1)
+        s += 2 * w * sum(e[i] * e[i + l] for i in range(n - l))
+    se = math.sqrt(max(s, 1e-18)) / n
+    return round(mu / se, 2)
+
+
+def holm_bonferroni(t_stats: dict[str, float], alpha: float = 0.05) -> dict[str, bool]:
+    """Which per-commodity slopes survive multiple-testing correction? Holm's
+    step-down on two-sided normal p-values — 16 tests means the table would
+    otherwise overclaim. The cross-commodity sign test already exists; this
+    is the per-name analogue."""
+    def p_of(t: float) -> float:
+        # two-sided normal via erfc
+        return math.erfc(abs(t) / math.sqrt(2))
+
+    items = sorted(t_stats.items(), key=lambda kv: p_of(kv[1]))
+    survives: dict[str, bool] = {}
+    m = len(items)
+    alive = True
+    for rank, (name, t) in enumerate(items):
+        if alive and p_of(t) <= alpha / (m - rank):
+            survives[name] = True
+        else:
+            alive = False
+            survives[name] = False
+    return survives
