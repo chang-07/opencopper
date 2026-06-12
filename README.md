@@ -151,6 +151,16 @@ within 6 months") that the daily Action re-marks — so the news→simulation
 loop's predictive value is itself measured, hit rate and Brier score
 included, on the demo's **Scorecard** tab.
 
+**Grounded in the literature, with receipts.** The elasticity ranges follow
+the Fally-Sayre (2018) meta-survey commodity-by-commodity; the backtest's
+"don't short tight markets" finding is Gorton-Hayashi-Rouwenhorst's
+inventory risk premium showing up in our own data; the value × momentum 2×2
+tests Asness-Moskowitz-Pedersen on 16 commodities (deep-value-while-falling
++9%/12m, momentum-in-balanced +8.8%, only broken squeezes shortable);
+mean-reversion half-lives follow Cashin-Liang-McDermott; book VaR carries a
+Cornish-Fisher correction; product retail pass-through cites Nakamura-Zerom
+and Borenstein et al. Paper → finding → file: [docs/references.md](docs/references.md).
+
 **The desk shows its homework.** The regime signal is backtested walk-forward
 over 34 years with Newey-West t-stats: 9/10 commodities mean-revert toward
 their trailing trend, but the legs are asymmetric — depressed (glut) markets

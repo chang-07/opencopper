@@ -72,7 +72,9 @@ def _cmd_ripple(args):
         print("\nPRODUCT COST RESPONSE (input-cost passthrough, margins fixed):")
         for resp in responses:
             via = ", ".join(f"{c['commodity']} {c['product_change_pct']:+.1f}%" for c in resp["contributions"])
-            print(f"  {resp['product']:<18}{resp['cost_change_pct']:>+7.1f}%   ({via})")
+            retail = (f"  -> retail ~{resp['retail_change_pct']:+.1f}% ({resp['retail_note']})"
+                      if resp.get("retail_change_pct") is not None else "")
+            print(f"  {resp['product']:<18}{resp['cost_change_pct']:>+7.1f}%   ({via}){retail}")
     return 0
 
 

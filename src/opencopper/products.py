@@ -38,6 +38,12 @@ class ProductInput(BaseModel):
     note: str = ""
 
 
+class RetailPassthrough(BaseModel):
+    share: float          # fraction of an input-cost move that reaches the buyer
+    lag_months: int
+    source: str
+
+
 class ProductSeed(BaseModel):
     name: str
     display: str
@@ -46,6 +52,7 @@ class ProductSeed(BaseModel):
     source: str
     inputs: list[ProductInput]
     caveats: str = ""
+    retail_passthrough: RetailPassthrough | None = None
 
 
 def list_product_names() -> list[str]:
@@ -125,8 +132,14 @@ def shock_response(product: ProductSeed, price_changes_pct: dict[str, float]) ->
         total += contrib
         contributions.append({"commodity": row["commodity"], "input_change_pct": pct,
                               "product_change_pct": round(contrib, 2)})
-    return {"product": product.name, "cost_change_pct": round(total, 2),
-            "contributions": contributions}
+    out = {"product": product.name, "cost_change_pct": round(total, 2),
+           "contributions": contributions}
+    if product.retail_passthrough:
+        pt = product.retail_passthrough
+        out["retail_change_pct"] = round(total * pt.share, 2)
+        out["retail_note"] = (f"~{pt.share:.0%} pass-through over ~{pt.lag_months}m "
+                              f"({pt.source.split('(')[0].strip()})")
+    return out
 
 
 def all_shock_responses(price_changes_pct: dict[str, float],
@@ -165,6 +178,10 @@ def render_product(product: ProductSeed, bd: dict) -> str:
     lines += ["", f"source: {product.source}"]
     if product.caveats:
         lines.append(f"caveats: {product.caveats}")
+    if product.retail_passthrough:
+        pt = product.retail_passthrough
+        lines.append(f"retail pass-through: ~{pt.share:.0%} of an input-cost move reaches the buyer "
+                     f"over ~{pt.lag_months} months — {pt.source}")
     lines.append("Cost-base passthrough only — margins, contracts, hedges and pricing power unmodeled.")
     return "\n".join(lines)
 

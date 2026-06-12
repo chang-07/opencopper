@@ -1,8 +1,16 @@
 name: gasoline-us
-display: "US retail gasoline (1 gallon)"
+display: US retail gasoline (1 gallon)
 unit: USD/gal
-anchor_cost_usd: 3.30
-source: "EIA pump-price component breakdown (crude ~52% of retail at $80/bbl)"
+anchor_cost_usd: 3.3
+source: EIA pump-price component breakdown (crude ~52% of retail at $80/bbl)
 inputs:
-  - {commodity: crude-oil, qty: 0.0215, note: "bbl crude per retail gallon, joint-product allocation"}
-caveats: "Refining is a JOINT-PRODUCT process (one barrel yields gasoline + diesel + jet); the allocation hides crack-spread swings. Taxes + distribution + margin are the non-input share."
+- commodity: crude-oil
+  qty: 0.0215
+  note: bbl crude per retail gallon, joint-product allocation
+caveats: Refining is a JOINT-PRODUCT process (one barrel yields gasoline + diesel + jet); the allocation
+  hides crack-spread swings. Taxes + distribution + margin are the non-input share.
+retail_passthrough:
+  share: 1.0
+  lag_months: 2
+  source: 'Borenstein, Cameron & Gilbert (1997): near-complete within ~4-8 weeks, asymmetric (rockets
+    and feathers)'

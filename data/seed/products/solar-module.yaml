@@ -1,10 +1,21 @@
 name: solar-module
-display: "Solar PV module (1 kW)"
+display: Solar PV module (1 kW)
 unit: USD/kW
 anchor_cost_usd: 300
-source: "ITRPV/IEA PV intensity figures (seed-estimate)"
+source: ITRPV/IEA PV intensity figures (seed-estimate)
 inputs:
-  - {commodity: silver, qty: 0.39, note: "ozt — ~12 g/kW screen-printed paste"}
-  - {commodity: aluminum, qty: 0.010, note: "frame"}
-  - {commodity: copper, qty: 0.001, note: "ribbon + junction"}
-caveats: "Polysilicon (the largest single material cost) has no keyless monthly series and sits in the non-input share — module sensitivity to silicon is therefore UNDERSTATED."
+- commodity: silver
+  qty: 0.39
+  note: ozt — ~12 g/kW screen-printed paste
+- commodity: aluminum
+  qty: 0.01
+  note: frame
+- commodity: copper
+  qty: 0.001
+  note: ribbon + junction
+caveats: Polysilicon (the largest single material cost) has no keyless monthly series and sits in the
+  non-input share — module sensitivity to silicon is therefore UNDERSTATED.
+retail_passthrough:
+  share: 0.6
+  lag_months: 12
+  source: module prices set by polysilicon cycle + manufacturing scale; metal moves partially absorbed

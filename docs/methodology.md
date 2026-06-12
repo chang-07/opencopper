@@ -310,6 +310,23 @@ beats none as long as its date travels with it). The status board is also
 where honest awkwardness surfaces: the Pink Sheet's monthly file trails FRED
 by months, which is why silver's "live" price wears its date on the desk.
 
+## Literature grounding
+
+Every mechanism maps to the published literature — storage theory
+(Deaton-Laroque; Gorton-Hayashi-Rouwenhorst), mean reversion and its
+half-life (Schwartz; Cashin-Liang-McDermott), cross-sectional value ×
+momentum (Asness-Moskowitz-Pedersen; Miffre-Rallis), elasticity surveys
+(Fally-Sayre Table 1, which the prices.yaml ranges now follow
+commodity-by-commodity), pass-through (Nakamura-Zerom; Borenstein et al.),
+and risk measurement (Zangari's Cornish-Fisher). The full mapping of paper →
+finding → file, including the places where this model DISAGREES with a
+published estimate and says so, lives in [references.md](references.md).
+Two independent cross-checks worth noting: Fally-Sayre report average
+minerals volatility of 22.6%/yr — this model's copper calibration target,
+derived separately from FRED, is 21.9%; and GHR's inventory-premium result
+is the storage-theory explanation for the backtest's central finding that
+tight markets are not safely shortable.
+
 ## Evidence before opinions: backtest, conditional vol, parameter bands, book risk
 
 A model usable for real decisions has to show its homework. Four pieces

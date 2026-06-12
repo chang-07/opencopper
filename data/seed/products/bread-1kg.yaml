@@ -1,8 +1,16 @@
 name: bread-1kg
-display: "Bread (1 kg retail loaf)"
+display: Bread (1 kg retail loaf)
 unit: USD/kg
-anchor_cost_usd: 4.40
-source: "USDA farm-share-of-retail figures (~5% for bread)"
+anchor_cost_usd: 4.4
+source: USDA farm-share-of-retail figures (~5% for bread)
 inputs:
-  - {commodity: wheat, qty: 0.00095, note: "≈0.95 kg wheat per kg bread"}
-caveats: "The honesty exhibit: even a violent wheat squeeze barely moves retail bread — labor, baking, packaging and retail are ~95% of the price. Commodity headlines about bread are mostly not about wheat."
+- commodity: wheat
+  qty: 0.00095
+  note: ≈0.95 kg wheat per kg bread
+caveats: 'The honesty exhibit: even a violent wheat squeeze barely moves retail bread — labor, baking,
+  packaging and retail are ~95% of the price. Commodity headlines about bread are mostly not about wheat.'
+retail_passthrough:
+  share: 0.3
+  lag_months: 6
+  source: 'Nakamura & Zerom (2010): ~30% commodity-cost pass-through, ~6m lag (coffee; grain products
+    similar order)'

@@ -948,8 +948,18 @@ function backtestSection() {
     (long-glut leg ${(lg.ann_ret * 100).toFixed(1)}%/yr) while elevated markets are <b>not safely
     shortable</b> (short-tight leg ${(st.ann_ret * 100).toFixed(1)}%/yr, max drawdown
     ${(st.max_dd * 100).toFixed(0)}%): the tight regime carries the right-tail squeeze risk the
-    P(tail) column prices. Gross of costs, monthly spot proxies, thresholds not optimized —
-    evidence about the signal, not a strategy. Full table: <code>opencopper backtest</code>.</p>`;
+    P(tail) column prices (the Gorton–Hayashi–Rouwenhorst inventory risk premium showing up
+    in our own data). Crossing the regime with 12-month momentum (Asness–Moskowitz–Pedersen;
+    Miffre–Rallis) splits it further: ${(() => {
+      const m2 = s.momentum_2x2 || {};
+      const f = k => m2[k] && m2[k].mean_fwd != null ? ((m2[k].mean_fwd >= 0 ? '+' : '') + (m2[k].mean_fwd * 100).toFixed(1) + '%') : '—';
+      return `deep value while still falling earned ${f('glut|down')}/12m, momentum in balanced
+      markets ${f('balanced|up')}, and the only profitable short was an already-broken squeeze
+      (tight+falling ${f('tight|down')})`;
+    })()}. Gross of costs, monthly spot proxies, thresholds not optimized —
+    evidence about the signal, not a strategy. Full table: <code>opencopper backtest</code>;
+    sources: <a href="https://github.com/chang-07/opencopper/blob/main/docs/references.md"
+    style="color:var(--copper-hot)">references.md</a>.</p>`;
 }
 
 function newsSection() {

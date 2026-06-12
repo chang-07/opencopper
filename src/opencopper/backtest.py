@@ -88,11 +88,29 @@ class BacktestRow:
     horizon: int
     slope: float                 # b: fwd return per unit of trend deviation
     t_stat: float                # Newey-West
+    half_life_months: float | None      # AR(1) on the deviation: ln(.5)/ln(rho)
     mean_fwd: dict[str, float | None]   # regime -> mean fwd return
     n_regime: dict[str, int]
     strat: dict[str, float] = field(default_factory=dict)
     hold: dict[str, float] = field(default_factory=dict)
     monthly_legs: dict[str, tuple[str, float]] = field(default_factory=dict)  # date -> (regime, next-month return)
+    cells_2x2: dict[str, dict] = field(default_factory=dict)  # "regime|mom" -> {n, mean_fwd}
+
+
+def half_life(devs: list[float]) -> float | None:
+    """Mean-reversion half-life of the trend deviation from its AR(1)
+    coefficient: ln(0.5)/ln(rho). The persistence statistic of Cashin, Liang
+    & McDermott (2000) applied to the deviation (the trend itself is removed
+    by construction, so this measures how long a DISLOCATION lasts, not how
+    long a price cycle lasts)."""
+    num = sum(devs[i] * devs[i + 1] for i in range(len(devs) - 1))
+    den = sum(d * d for d in devs[:-1])
+    if den <= 0:
+        return None
+    rho = num / den
+    if not 0 < rho < 1:
+        return None
+    return round(math.log(0.5) / math.log(rho), 1)
 
 
 def _regime_of(dev: float) -> str:
@@ -130,11 +148,14 @@ def backtest_commodity(name: str, horizon: int = 12) -> BacktestRow | None:
     logs = [math.log(p) for _, p in months]
 
     start = TREND_WINDOW  # only months with a full trend window behind them
-    xs, ys, regimes = [], [], []
+    xs, ys, regimes, moms = [], [], [], []
     for i in range(start, len(months) - horizon):
         xs.append(devs[i])
         ys.append(logs[i + horizon] - logs[i])
         regimes.append(_regime_of(devs[i]))
+        # 12m past return sign: the Miffre-Rallis (2007) momentum signal,
+        # crossed with the value signal a la Asness-Moskowitz-Pedersen (2013)
+        moms.append("up" if logs[i] - logs[i - 12] >= 0 else "down")
     if len(xs) < 60:
         return None
     b, t = nw_slope(xs, ys, lag=horizon - 1)
@@ -145,6 +166,13 @@ def backtest_commodity(name: str, horizon: int = 12) -> BacktestRow | None:
         sub = [ys[i] for i in range(len(ys)) if regimes[i] == r]
         n_regime[r] = len(sub)
         mean_fwd[r] = round(sum(sub) / len(sub), 4) if len(sub) >= 12 else None
+
+    cells: dict[str, dict] = {}
+    for r in ("glut", "balanced", "tight"):
+        for m in ("up", "down"):
+            sub = [ys[i] for i in range(len(ys)) if regimes[i] == r and moms[i] == m]
+            cells[f"{r}|{m}"] = {"n": len(sub),
+                                 "mean_fwd": round(sum(sub) / len(sub), 4) if len(sub) >= 12 else None}
 
     # regime rule, next-month application: signal at i, return i -> i+1
     strat_rets, hold_rets, monthly = [], [], {}
@@ -159,8 +187,10 @@ def backtest_commodity(name: str, horizon: int = 12) -> BacktestRow | None:
     return BacktestRow(
         commodity=name, n_months=len(xs), horizon=horizon,
         slope=round(b, 3), t_stat=round(t, 2),
+        half_life_months=half_life(devs[start:]),
         mean_fwd=mean_fwd, n_regime=n_regime,
         strat=_perf(strat_rets), hold=_perf(hold_rets), monthly_legs=monthly,
+        cells_2x2=cells,
     )
 
 
@@ -196,6 +226,17 @@ def summary(rows: list[BacktestRow]) -> dict:
     symmetric = ew(lambda reg: {"glut": 1.0, "balanced": 0.0, "tight": -1.0}[reg])
     long_glut = ew(lambda reg: 1.0 if reg == "glut" else 0.0)
     short_tight = ew(lambda reg: -1.0 if reg == "tight" else 0.0)
+
+    # pooled value x momentum cells (n-weighted across commodities)
+    pooled: dict[str, dict] = {}
+    for key in ("glut|up", "glut|down", "balanced|up", "balanced|down",
+                "tight|up", "tight|down"):
+        n = sum(r.cells_2x2.get(key, {}).get("n", 0) for r in rows)
+        wsum = sum(c["mean_fwd"] * c["n"] for r in rows
+                   for c in [r.cells_2x2.get(key, {})]
+                   if c.get("mean_fwd") is not None)
+        pooled[key] = {"n": n, "mean_fwd": round(wsum / n, 4) if n >= 24 else None}
+
     return {
         "horizon": rows[0].horizon if rows else None,
         "n_commodities": len(rows),
@@ -205,6 +246,7 @@ def summary(rows: list[BacktestRow]) -> dict:
         "ew_rule": _perf(symmetric) if symmetric else {},
         "ew_long_glut": _perf(long_glut) if long_glut else {},
         "ew_short_tight": _perf(short_tight) if short_tight else {},
+        "momentum_2x2": pooled,
     }
 
 
@@ -214,14 +256,15 @@ def render_backtest(rows: list[BacktestRow], horizon: int) -> str:
         f"REGIME-SIGNAL BACKTEST — forward {horizon}m returns on the trailing-trend deviation",
         "(walk-forward, causal; Newey-West t; regime params predate this test, not fitted)",
         "",
-        f"{'commodity':<12}{'months':>7}{'slope b':>9}{'NW t':>7}"
+        f"{'commodity':<12}{'months':>7}{'slope b':>9}{'NW t':>7}{'HL mo':>7}"
         f"{'fwd|glut':>10}{'fwd|bal':>9}{'fwd|tight':>10}{'rule shp':>9}{'hold shp':>9}",
-        "-" * 82,
+        "-" * 89,
     ]
     for r in rows:
         f = lambda v: f"{v:+.1%}" if v is not None else "    —"
+        hl = f"{r.half_life_months:.0f}" if r.half_life_months else "—"
         lines.append(
-            f"{r.commodity:<12}{r.n_months:>7}{r.slope:>9.2f}{r.t_stat:>7.2f}"
+            f"{r.commodity:<12}{r.n_months:>7}{r.slope:>9.2f}{r.t_stat:>7.2f}{hl:>7}"
             f"{f(r.mean_fwd['glut']):>10}{f(r.mean_fwd['balanced']):>9}{f(r.mean_fwd['tight']):>10}"
             f"{r.strat['sharpe']:>9.2f}{r.hold['sharpe']:>9.2f}"
         )
@@ -242,11 +285,28 @@ def render_backtest(rows: list[BacktestRow], horizon: int) -> str:
         "",
         "The asymmetry IS the finding: depressed markets recover (fwd|glut is",
         "positive nearly everywhere) but elevated markets are NOT safely",
-        "shortable — the tight regime holds the right-tail squeeze risk the",
-        "spike-odds model prices. The monthly-gated legs understate the long",
-        "side: the rule exits when glut reclassifies to balanced, i.e. just as",
-        "the rebound starts; fwd|glut is the 12m-hold statement of the signal.",
-        "Evidence about the signal, not a strategy: gross of costs and roll,",
-        "monthly spot-proxy averages, regime thresholds not optimized.",
+        "shortable. Gorton, Hayashi & Rouwenhorst (2013) explain why: low",
+        "inventories mean high convenience yield and a POSITIVE risk premium —",
+        "shorting tight markets fights the premium, it doesn't harvest a",
+        "mispricing. The monthly-gated legs understate the long side: the rule",
+        "exits when glut reclassifies to balanced, i.e. just as the rebound",
+        "starts; fwd|glut is the 12m-hold statement of the signal.",
+        "",
+        "value x momentum, pooled (Asness-Moskowitz-Pedersen 2013 / Miffre-",
+        "Rallis 2007 — 12m past-return sign crossed with the regime):",
+    ]
+    m = s["momentum_2x2"]
+    g = lambda k: (f"{m[k]['mean_fwd']:+.1%} (n={m[k]['n']})"
+                   if m[k]["mean_fwd"] is not None else f"thin (n={m[k]['n']})")
+    lines += [
+        f"  {'fwd 12m':<12}{'momentum up':>18}{'momentum down':>18}",
+        f"  {'glut':<12}{g('glut|up'):>18}{g('glut|down'):>18}",
+        f"  {'balanced':<12}{g('balanced|up'):>18}{g('balanced|down'):>18}",
+        f"  {'tight':<12}{g('tight|up'):>18}{g('tight|down'):>18}",
+        "",
+        "HL mo = mean-reversion half-life of the trend deviation, AR(1)",
+        "(Cashin-Liang-McDermott 2000). Evidence about the signal, not a",
+        "strategy: gross of costs and roll, monthly spot-proxy averages,",
+        "regime thresholds not optimized. References: docs/references.md.",
     ]
     return "\n".join(lines)

@@ -1,8 +1,15 @@
 name: copper-cable
-display: "Copper power cable (1 t conductor)"
+display: Copper power cable (1 t conductor)
 unit: USD/t
 anchor_cost_usd: 11500
-source: "fabricator price = LME + fabrication adder (seed-estimate)"
+source: fabricator price = LME + fabrication adder (seed-estimate)
 inputs:
-  - {commodity: copper, qty: 0.99, note: "conductor mass"}
-caveats: "The near-pure passthrough contrast to bread: ~80% of cable cost IS the metal, which is why cable buyers hedge LME and bakers don't hedge wheat."
+- commodity: copper
+  qty: 0.99
+  note: conductor mass
+caveats: 'The near-pure passthrough contrast to bread: ~80% of cable cost IS the metal, which is why cable
+  buyers hedge LME and bakers don''t hedge wheat.'
+retail_passthrough:
+  share: 1.0
+  lag_months: 0
+  source: fabricator contracts are LME-indexed (metal escalation clauses); pass-through is mechanical

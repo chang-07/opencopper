@@ -138,6 +138,9 @@ class BookRisk:
     es95_usd: float
     gross_usd: float          # sum of |notional|
     undiversified_sigma: float  # sum of |notional_i| * sigma_i — no-correlation-benefit bound
+    cf_var95_usd: float | None = None   # Cornish-Fisher (skew/kurtosis-adjusted)
+    pnl_skew: float | None = None
+    pnl_exkurt: float | None = None
     rows: list[dict] = field(default_factory=list)        # per-position notional/vol/contribution
     excluded: list[str] = field(default_factory=list)     # no price history -> not in VaR
     corr: dict[str, dict[str, float]] = field(default_factory=dict)
@@ -237,11 +240,34 @@ def book_risk(positions: list[Position], window: int = 120) -> BookRisk:
             sa, sb = _m.sqrt(cov(a, a)), _m.sqrt(cov(b, b))
             corr[a][b] = round(cov(a, b) / (sa * sb), 2) if sa and sb else 0.0
 
+    # Cornish-Fisher (Zangari 1996): adjust the 95% quantile for the realized
+    # skew and excess kurtosis of the BOOK's historical P&L — the standard fix
+    # for delta-normal's thin tails, and exactly zero extra assumptions: the
+    # moments come from the same window as the covariance.
+    cf_var = skew = exk = None
+    if n_obs >= 36 and sigma > 0:
+        pnl = [sum(notionals[i] * rets[positions[i].commodity][t] for i in included)
+               for t in range(n_obs)]
+        mu = sum(pnl) / n_obs
+        m2 = sum((x - mu) ** 2 for x in pnl) / n_obs
+        if m2 > 0:
+            m3 = sum((x - mu) ** 3 for x in pnl) / n_obs
+            m4 = sum((x - mu) ** 4 for x in pnl) / n_obs
+            skew = m3 / m2 ** 1.5
+            exk = m4 / m2 ** 2 - 3
+            sl, kl = -skew, exk  # loss-side moments
+            z = 1.645
+            z_cf = (z + (z * z - 1) * sl / 6 + (z ** 3 - 3 * z) * kl / 24
+                    - (2 * z ** 3 - 5 * z) * sl * sl / 36)
+            cf_var = round(z_cf * sigma)
+            skew, exk = round(skew, 2), round(exk, 2)
+
     es_mult = _m.exp(-1.645 ** 2 / 2) / (_m.sqrt(2 * _m.pi) * 0.05)  # ~2.063
     return BookRisk(
         horizon="1 month", window_months=n_obs,
         sigma_usd=round(sigma), var95_usd=round(1.645 * sigma),
         var99_usd=round(2.326 * sigma), es95_usd=round(es_mult * sigma),
+        cf_var95_usd=cf_var, pnl_skew=skew, pnl_exkurt=exk,
         gross_usd=round(sum(abs(v) for v in notionals.values())),
         undiversified_sigma=round(undiv),
         rows=rows, excluded=excluded, corr=corr,
@@ -267,6 +293,9 @@ def render_risk(r: BookRisk) -> str:
         f"diversification saves {1 - r.sigma_usd / r.undiversified_sigma:.0%})" if r.undiversified_sigma else "",
         f"VaR 95% / 99% (1m)  {r.var95_usd:>15,} / {r.var99_usd:,}",
         f"ES 95% (1m)         {r.es95_usd:>15,}",
+        (f"CF VaR 95% (1m)     {r.cf_var95_usd:>15,}   "
+         f"(Cornish-Fisher; book P&L skew {r.pnl_skew:+.2f}, excess kurt {r.pnl_exkurt:+.2f})"
+         if r.cf_var95_usd is not None else ""),
         "",
         "correlations (monthly, aligned window):",
     ]

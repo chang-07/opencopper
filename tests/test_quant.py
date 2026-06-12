@@ -116,8 +116,12 @@ def test_impact_range_brackets_point_and_respects_clamp():
     # clamp caps the inelastic end
     lo_c, hi_c = impact_range(book.commodities["cobalt"], 0.40)
     assert hi_c == pytest.approx(300, abs=0.5)
-    # no seeded range -> None, not a fake band
-    assert impact_range(book.commodities["zinc"], 0.1) is None
+    # no seeded range -> None, not a fake band (synthetic: immune to future seeding)
+    from opencopper.pricing import CommodityPrice
+
+    bare = CommodityPrice(anchor_usd=100, unit="USD/t",
+                          elasticity_supply=0.2, elasticity_demand=0.2)
+    assert impact_range(bare, 0.1) is None
     # band widens with shock size
     lo2, hi2 = impact_range(cu, 0.14)
     assert (hi2 - lo2) > (hi - lo)
@@ -160,3 +164,73 @@ def test_book_risk_excludes_no_history_and_orders_quantiles():
     assert r.sigma_usd <= r.undiversified_sigma
     assert abs(sum(row["contribution_pct"] for row in r.rows) - 100) < 1.5
     assert -1 <= r.corr["copper"]["crude-oil"] <= 1
+
+
+def test_every_seeded_range_brackets_its_point():
+    # the invariant that catches range-misplacement bugs (a range pasted under
+    # the wrong commodity rarely brackets that commodity's point)
+    from opencopper.pricing import load_pricebook
+
+    for name, p in load_pricebook().commodities.items():
+        if p.elasticity_supply_range:
+            lo, hi = p.elasticity_supply_range
+            assert lo <= p.elasticity_supply <= hi, f"{name} supply"
+        if p.elasticity_demand_range:
+            lo, hi = p.elasticity_demand_range
+            assert lo <= p.elasticity_demand <= hi, f"{name} demand"
+
+
+# ---------------------------------------------------------------- literature pass
+
+
+def test_half_life_recovers_known_ar1():
+    from opencopper.backtest import half_life
+
+    import random
+
+    rng = random.Random(3)
+    d, devs = 0.0, []
+    for _ in range(5000):
+        d = 0.9 * d + rng.gauss(0, 0.1) * math.sqrt(1 - 0.81)
+        devs.append(d)
+    hl = half_life(devs)
+    assert hl == pytest.approx(math.log(0.5) / math.log(0.9), rel=0.25)  # ~6.6 months
+    # a pure random walk (rho ~ 1) or white noise (rho ~ 0) yields None or large
+    assert half_life([1.0, -1.0] * 100) is None  # rho < 0
+
+
+def test_momentum_2x2_cells_partition_the_sample(monkeypatch):
+    import opencopper.backtest as bt
+
+    class _H:
+        months = _sine_history()
+
+    monkeypatch.setattr(bt, "load_price_history", lambda name: _H())
+    row = backtest_commodity("synthetic", horizon=12)
+    assert sum(c["n"] for c in row.cells_2x2.values()) == row.n_months
+    s = summary([row])
+    assert set(s["momentum_2x2"]) == {f"{r}|{m}" for r in ("glut", "balanced", "tight")
+                                      for m in ("up", "down")}
+
+
+def test_cornish_fisher_var_reported_with_moments():
+    from opencopper.book import Position, book_risk
+
+    r = book_risk([Position("copper", 1000, "long cu")])
+    if r.window_months == 0:
+        pytest.skip("no price cache")
+    assert r.cf_var95_usd is not None and r.cf_var95_usd > 0
+    assert r.pnl_skew is not None and r.pnl_exkurt is not None
+    # zero skew/kurt would reproduce the normal quantile exactly; with moments
+    # present the two must at least be the same order of magnitude
+    assert 0.5 < r.cf_var95_usd / r.var95_usd < 2.0
+
+
+def test_retail_passthrough_scales_cost_response():
+    from opencopper.products import load_product, shock_response
+
+    bread = shock_response(load_product("bread-1kg"), {"wheat": 10.0})
+    assert bread["retail_change_pct"] == pytest.approx(0.3 * bread["cost_change_pct"], abs=0.02)
+    cable = shock_response(load_product("copper-cable"), {"copper": 10.0})
+    assert cable["retail_change_pct"] == pytest.approx(cable["cost_change_pct"], abs=0.01)
+    assert "Nakamura" in bread["retail_note"]

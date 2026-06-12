@@ -350,6 +350,8 @@ def _products_payload() -> list[dict]:
             "input_share_pct": bd["input_share_pct"],
             "non_input_usd": bd["non_input_usd"],
             "cost_now_usd": bd["cost_now_usd"], "pressure_pct": bd["pressure_pct"],
+            "retail_passthrough": (prod.retail_passthrough.model_dump()
+                                   if prod.retail_passthrough else None),
             "sensitivities": [
                 {"commodity": r["commodity"],
                  "product_pct_per_10": round(r["share_pct"] / 10, 2)}
