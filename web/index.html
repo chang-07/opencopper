@@ -496,8 +496,11 @@ const VIEWS = {
         const y = 1 - (((((1.061405429 * t - 1.453152027) * t) + 1.421413741) * t - 0.284496736) * t + 0.254829592) * t * Math.exp(-x * x);
         return s * y;
       };
-      const probMultiple = (shock, vol, m) => {
-        const z = (Math.log(m) - Math.log(Math.max(1e-6, 1 + shock))) / Math.max(vol, 1e-6);
+      const probMultiple = (shock, vol, m, drift) => {
+        // center = shock + the CURRENT regime's measured 12m drift (spec.py
+        // regime-mixture logic; single lognormal underpredicted doublings)
+        const center = Math.log(Math.max(1e-6, 1 + shock)) + (drift || 0);
+        const z = (Math.log(m) - center) / Math.max(vol, 1e-6);
         const phi = 0.5 * (1 + erf(z / Math.SQRT2));
         return m >= 1 ? 1 - phi : phi;
       };
@@ -533,6 +536,7 @@ const VIEWS = {
             implied: px.anchor_usd * mid.m,
             regime: (D.history[name] || {}).regime_now,
             vol: px.vol || 0.3,
+            drift: px.drift12 || 0,
           });
         }
         return out.sort((a, b) => b.pct - a.pct);
@@ -559,6 +563,7 @@ const VIEWS = {
             implied: px.anchor_usd * mid.m,
             regime: (D.history[c.name] || {}).regime_now,
             vol: px.vol || 0.3,
+            drift: px.drift12 || 0,
           });
         }
         return out.sort((a, b) => Math.abs(b.pct) - Math.abs(a.pct));
@@ -653,8 +658,8 @@ const VIEWS = {
         document.getElementById('sim-cards').innerHTML = (rows.length ? visible.map(r => {
           const up = r.pct >= 0;
           const probLabel = up
-            ? `P(≥2× anchor) ${(probMultiple(r.pct / 100, r.vol, 2) * 100).toFixed(0)}%`
-            : `P(≤½ anchor) ${(probMultiple(r.pct / 100, r.vol, 0.5) * 100).toFixed(0)}%`;
+            ? `P(≥2× anchor) ${(probMultiple(r.pct / 100, r.vol, 2, r.drift) * 100).toFixed(0)}%`
+            : `P(≤½ anchor) ${(probMultiple(r.pct / 100, r.vol, 0.5, r.drift) * 100).toFixed(0)}%`;
           const band = `(${Math.min(r.lo, r.hi).toFixed(0)} to ${Math.max(r.lo, r.hi).toFixed(0)}%)`;
           const bound = r.clamped ? (up ? '≥' : '≤') : '';
           return `

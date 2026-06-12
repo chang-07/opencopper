@@ -38,7 +38,9 @@ class BenchRow:
     rmse_model: float
     rmse_rw: float
     rmse_anchor: float
+    rmse_combo: float         # fixed 50/50 model+RW combination (Timmermann)
     skill_vs_rw: float        # 1 - rmse_model / rmse_rw
+    combo_skill: float        # 1 - rmse_combo / rmse_rw
     dm_t: float               # Diebold-Mariano t, model vs random walk (NW)
 
 
@@ -84,12 +86,15 @@ def benchmark_commodity(name: str, horizon: int = 12, skip: int = 1,
         return None
 
     rmse = lambda es: math.sqrt(sum(x * x for x in es) / len(es))
-    rm, rr, ra = rmse(e_model), rmse(e_rw), rmse(e_anchor)
+    e_combo = [(e_model[i] + e_rw[i]) / 2 for i in range(len(e_model))]
+    rm, rr, ra, rc = rmse(e_model), rmse(e_rw), rmse(e_anchor), rmse(e_combo)
     loss_diff = [e_model[i] ** 2 - e_rw[i] ** 2 for i in range(len(e_model))]
     return BenchRow(
         commodity=name, n_forecasts=len(e_model),
         rmse_model=round(rm, 4), rmse_rw=round(rr, 4), rmse_anchor=round(ra, 4),
+        rmse_combo=round(rc, 4),
         skill_vs_rw=round(1 - rm / rr, 3),
+        combo_skill=round(1 - rc / rr, 3),
         dm_t=round(_dm_t(loss_diff, lag=horizon - 1), 2),
     )
 
@@ -112,17 +117,20 @@ def render_benchmark(rows: list[BenchRow], horizon: int = 12) -> str:
         "slope re-fit monthly (no look-ahead), vs the free baselines (Meese-Rogoff style)",
         "",
         f"{'commodity':<13}{'n':>5}{'RMSE model':>12}{'RMSE rw':>9}{'RMSE anchor':>13}"
-        f"{'skill':>8}{'DM t':>7}",
-        "-" * 67,
+        f"{'skill':>8}{'combo':>8}{'DM t':>7}",
+        "-" * 75,
     ]
     for r in rows:
         lines.append(f"{r.commodity:<13}{r.n_forecasts:>5}{r.rmse_model:>12.3f}"
                      f"{r.rmse_rw:>9.3f}{r.rmse_anchor:>13.3f}"
-                     f"{r.skill_vs_rw:>+8.1%}{r.dm_t:>7.2f}")
+                     f"{r.skill_vs_rw:>+8.1%}{r.combo_skill:>+8.1%}{r.dm_t:>7.2f}")
     lines += [
         "-" * 67,
         f"model beats the random walk for {n_pos}/{len(rows)} commodities "
-        f"({sig} significant, DM t < -1.65, one-sided).",
+        f"({sig} significant, DM t < -1.65, one-sided); the FIXED 50/50 combo "
+        f"(Timmermann 2006, weight declared a priori) beats RW for "
+        f"{sum(1 for r in rows if r.combo_skill > 0)}/{len(rows)} — combination "
+        "halves the damage where the model loses and keeps half the win where it wins.",
         "",
         "How to read this (it is the Meese-Rogoff result, on purpose): the signal's",
         "R^2 is ~1%, so even a TRUE mechanism moves 12m point-forecast RMSE by only",

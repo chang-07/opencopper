@@ -108,6 +108,13 @@ literature's value — disagreement is data, not embarrassment.
 - **Diebold & Mariano (1995)**, "Comparing Predictive Accuracy", *JBES*. →
   the DM test on squared-error differentials (NW variance, lag h−1).
 
+## Forecast combination
+
+- **Timmermann (2006)**, "Forecast Combinations", *Handbook of Economic
+  Forecasting*; the "forecast combination puzzle" (simple equal weights beat
+  estimated weights). → the benchmark's fixed 50/50 model+RW combination,
+  weight declared a priori precisely so it cannot be fit to the test set.
+
 ## Inference
 
 - **Künsch (1989)**, "The Jackknife and the Bootstrap for General Stationary

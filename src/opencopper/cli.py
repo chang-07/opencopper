@@ -159,6 +159,13 @@ def _cmd_theses(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_spec(args):
+    from .spec import odds_calibration_oos, render_spec, spec_all
+
+    print(render_spec(spec_all(n_paths=args.paths), odds_calibration_oos()))
+    return 0
+
+
 def _cmd_benchmark(args):
     from .benchmark import benchmark_all, render_benchmark
 
@@ -663,6 +670,10 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("theses", help="scorecard: every registered + news-generated call, marked to market")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=_cmd_theses)
+
+    p = sub.add_parser("spec", help="per-commodity spec battery: vol calibration, regimes, spike-odds calibration (with OOS check)")
+    p.add_argument("--paths", type=int, default=600)
+    p.set_defaults(func=_cmd_spec)
 
     p = sub.add_parser("benchmark", help="walk-forward forecast benchmark vs random-walk and anchor baselines (Diebold-Mariano)")
     p.add_argument("--horizon", type=int, default=12)

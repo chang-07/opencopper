@@ -262,6 +262,26 @@ def simulate_commodity(
     vol, vol_source = ambient_volatility(commodity)
     denom = price_cfg.elasticity_demand + price_cfg.elasticity_supply
     sigma_g = vol * denom / (2 ** 0.5)
+    # the closed form is the CES map's tangent at zero; for very-high-vol
+    # names the ln(1-k) convexity inflates realized dispersion a few pp.
+    # One deterministic Newton rescale (seeded pre-sim) enforces the
+    # calibration contract exactly — a uniform rule, never per-name tuning.
+    if vol * denom > 0.2:
+        import math as _m
+
+        pre = random.Random(seed ^ 0x5EED)
+        rets, prev = [], None
+        for _ in range(4000):
+            x = min(pre.gauss(0.0, sigma_g), 0.95)
+            mult = _m.exp(-_m.log(max(1e-6, 1.0 - x)) / denom) if denom else 1.0
+            mult = min(max(mult, INCIDENCE_CLAMP[0]), INCIDENCE_CLAMP[1])
+            if prev is not None:
+                rets.append(_m.log(mult / prev))
+            prev = mult
+        mu = sum(rets) / len(rets)
+        sim_vol = (sum((r - mu) ** 2 for r in rets) / (len(rets) - 1)) ** 0.5
+        if sim_vol > 0 and abs(sim_vol - vol) > 0.01:
+            sigma_g *= vol / sim_vol
     rng = random.Random(seed)
     year_list = list(years)
     anchor = price_cfg.anchor_usd

@@ -138,6 +138,20 @@ def _pricing_payload(fetch_live: bool = True) -> dict:
         from .history import conditional_volatility
 
         vol, vol_src = conditional_volatility(name)
+        # measured 12m drift of the CURRENT regime (backtest mean_fwd) — the
+        # simulator's spike odds add it to the shock center (regime mixture
+        # logic, current-regime branch; see spec.py)
+        drift12 = None
+        try:
+            from .backtest import backtest_commodity
+            from .history import load_price_history as _lph
+
+            _h = _lph(name)
+            _bt = backtest_commodity(name, horizon=12) if _h else None
+            if _h and _bt:
+                drift12 = _bt.mean_fwd.get(_h.regime_now.value)
+        except Exception:
+            drift12 = None
         commodities[name] = {
             "anchor_usd": p.anchor_usd,
             "unit": p.unit,
@@ -148,6 +162,7 @@ def _pricing_payload(fetch_live: bool = True) -> dict:
             "live": live,
             "vol": vol,
             "vol_source": vol_src,
+            "drift12": drift12,
         }
     return {
         "copper_curve": {

@@ -516,3 +516,67 @@ def test_report_surfaces_structural_gap_and_stocks_to_use():
     assert "STOCKS-TO-USE" in text_w and "seasonality" in text_w
     cu = load_commodity("copper")
     assert "STRUCTURAL GAP" not in render_commodity_report(cu, run_commodity(cu))
+
+
+# ------------------------------------------------------------- spec battery
+
+
+def test_spec_battery_runs_and_mixture_beats_single_oos():
+    from opencopper.spec import odds_calibration_oos, spec_all
+
+    rows = spec_all(n_paths=300)
+    if not rows:
+        pytest.skip("no caches")
+    assert len(rows) >= 18
+    # vol calibration within spec (or clamp-disclosed) for nearly all
+    vol_ok = [r for r in rows if r.passes["vol"]]
+    assert len(vol_ok) >= len(rows) - 3
+    oos = odds_calibration_oos()
+    if oos["n_windows"] < 100:
+        pytest.skip("not enough post-2010 windows")
+    # the mixture's pooled expectation must be CLOSER to observed than the
+    # single lognormal's — the pre-registered fix validated out of sample
+    assert abs(oos["expected_mixture"] - oos["observed"]) < \
+        abs(oos["expected_single"] - oos["observed"])
+
+
+def test_mixture_collapses_to_lognormal_in_flat_world(monkeypatch):
+    import opencopper.spec as sp
+
+    class _H:
+        months = [(f"{2000 + i // 12}-{i % 12 + 1:02d}-01", 100.0) for i in range(480)]
+        regime_fractions = {"glut": 0.0, "balanced": 1.0, "tight": 0.0}
+
+    # flat world: no drift, no vol -> doubling impossible under the mixture
+    monkeypatch.setattr(sp, "load_price_history", lambda c: _H)
+    monkeypatch.setattr(sp, "regime_volatility", lambda c: {"balanced": 0.10})
+
+    class _BT:
+        mean_fwd = {"glut": None, "balanced": 0.0, "tight": None}
+
+    monkeypatch.setattr(sp, "backtest_commodity", lambda c, horizon=12, date_range=None: _BT)
+    p = sp.mixture_spike_odds("x", 0.0)
+    assert p is not None and p < 1e-5
+
+
+def test_newton_rescale_holds_high_vol_calibration():
+    from opencopper.montecarlo import simulate_commodity
+
+    mc = simulate_commodity("lithium", n_paths=600, seed=42)
+    if mc is None:
+        pytest.skip("no seed")
+    assert abs(mc.simulated_annual_vol - mc.target_vol) < 0.02
+
+
+def test_benchmark_combo_never_much_worse_and_helps_losers():
+    from opencopper.benchmark import benchmark_all
+
+    rows = benchmark_all()
+    if not rows:
+        pytest.skip("no caches")
+    for r in rows:
+        # combination averages errors: it cannot lose to BOTH components badly
+        assert r.combo_skill >= r.skill_vs_rw - 0.005 or r.combo_skill > -0.10
+    losers = [r for r in rows if r.skill_vs_rw < -0.05]
+    if losers:
+        assert all(r.combo_skill > r.skill_vs_rw for r in losers)

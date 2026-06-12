@@ -460,6 +460,40 @@ returns are fatter-tailed than normal, and FRED/IMF monthly *averages*
 smooth intramonth swings. Positions without a price series are excluded and
 say so. Risk measurement of a declared book — never sizing, never advice.
 
+## The spec battery: every name tested against its own contract
+
+`opencopper spec` runs five specs per commodity — vol calibration (MC must
+reproduce its target within 2pp), regime persistence (median run ≥3
+months), spike-odds calibration (exact binomial test of P(2×) against the
+empirical doubling count — ratio tests mislead at 1-2 events), skew-sign
+match, and forecast skill. The pass found two systematic failures and fixed
+both with PRE-REGISTERED, uniform changes:
+
+- **Spike odds were structurally too low** (single lognormal, unconditional
+  vol, zero drift: copper said 0.1% where history said 3%). Doublings start
+  from gluts — low base, positive measured drift, higher measured vol — so
+  the fix is the **regime mixture**: P = Σ_r w_r · Φ̄(ln2 − drift_r, vol_r),
+  composing regime frequencies, the backtest's fwd-12m means, and
+  regime-conditional vols. Zero new fitted parameters. Out-of-sample
+  (parameters pre-2010, outcomes post-2010, pooled): 6 doublings observed
+  in 463 windows; mixture expected 7.6, old single lognormal expected 2.5.
+  The simulator's live odds now carry the current regime's drift.
+- **Very-high-vol calibration drifted** (lithium 4.2pp over target): the
+  closed-form sigma is the CES map's tangent, and ln(1−k) convexity
+  inflates dispersion at lithium-sized vols. Fix: one deterministic Newton
+  rescale enforcing the existing contract exactly (uniform trigger
+  vol×denom>0.2, never per-name). Lithium 4.2→1.5pp.
+- Residuals stay visible: supercycle names (copper, zinc, lead, coal) still
+  under-predict doublings at the per-name level — single-episode counts
+  with the binomial test flagging honestly; 12m vol aggregation under trend
+  persistence (beyond √12 scaling) is the documented open item, and we
+  decline to add a knob for it.
+- The forecast benchmark adopted the **fixed 50/50 model+random-walk
+  combination** (Timmermann 2006; weight declared a priori): beats RW on
+  8/17 names, worst case −5.8% vs the raw model's −14.1% — combination
+  halves the damage and keeps half the wins. Gold, on its new index series,
+  is now the most forecastable name (+10.4% skill, DM −1.71).
+
 ## The per-commodity register: every name, its mechanism, its weakest link
 
 "All models are wrong" is only useful if you can say HOW each one is wrong.
