@@ -4,9 +4,16 @@
 [![demo](https://img.shields.io/badge/demo-live-b87333)](https://chang-07.github.io/opencopper/)
 [![license](https://img.shields.io/badge/license-MIT-2f3b4d)](LICENSE)
 
-### ▶ [Live demo — shock a country, predict the ripple](https://chang-07.github.io/opencopper/)
+### ▶ [Live demo — the World Atlas: shock a country, trace it to prices, products, and the curve](https://chang-07.github.io/opencopper/)
 
 [![opencopper world simulator](web/social-card.png)](https://chang-07.github.io/opencopper/)
+
+The atlas is the hub: click a producer, and one panel chains the commodity
+ripple → the products it lands on → **model vs market term structure** (the
+model's P10/P50/P90 path and the shock's incidence level against the flat
+spot benchmark a futures curve approximates absent carry — where they
+disagree is the thesis), with jump-links into the desk and a copy-link
+button for every dialed-in state.
 
 Try a deep link: [the DRC at −50%](https://chang-07.github.io/opencopper/#sim=country,Congo%20(Kinshasa),50) ·
 [Indonesia nickel at −40%](https://chang-07.github.io/opencopper/#sim=country,Indonesia,40) ·

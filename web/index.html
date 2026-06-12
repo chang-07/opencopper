@@ -39,7 +39,19 @@
   .catalyst b { display: block; font-size: 14px; }
   .catalyst .days { color: var(--copper-hot); font-weight: bold; }
   .catalyst .detail { color: var(--muted); }
-  nav { display: flex; gap: 6px; flex-wrap: wrap; margin: 22px 0 14px; }
+  nav { display: flex; gap: 6px; flex-wrap: wrap; margin: 22px 0 14px; align-items: center; }
+  nav .navgroup { color: var(--muted); font-size: 10.5px; text-transform: uppercase;
+    letter-spacing: 1.2px; margin: 0 4px 0 10px; user-select: none; }
+  nav .navgroup:first-child { margin-left: 0; }
+  .jump { color: var(--copper-hot); font-size: 12px; cursor: pointer; text-decoration: none;
+    border: 1px solid var(--border); border-radius: 999px; padding: 1px 9px; margin-left: 6px; }
+  .jump:hover { border-color: var(--copper-hot); }
+  @keyframes flashrow { 0% { background: rgba(232,149,79,.35); } 100% { background: transparent; } }
+  tr.flash td { animation: flashrow 2.2s ease-out; }
+  #curve-chart { width: 100%; height: 300px; }
+  .chiprow { display: flex; gap: 6px; flex-wrap: wrap; margin: 10px 0 4px; }
+  .chiprow .pill { cursor: pointer; }
+  .chiprow .pill.active { border-color: var(--copper-hot); color: var(--copper-hot); }
   nav button { background: var(--panel); color: var(--muted); border: 1px solid var(--border);
     border-radius: 999px; padding: 7px 16px; cursor: pointer; font: inherit; font-size: 14px; }
   nav button.active { background: var(--copper); color: #14100c; border-color: var(--copper); font-weight: bold; }
@@ -444,11 +456,11 @@ const VIEWS = {
     },
   },
   map: {
-    label: 'World Simulator',
+    label: 'World Atlas',
     init() {
       const countries = D.countries || [];
       document.getElementById('chart').style.height = (innerWidth < 640 ? '300px' : '440px');  // natural-earth fills a shorter frame
-      host.title.textContent = 'World simulator — shock a producer, predict the ripple';
+      host.title.textContent = 'World atlas — shock a producer, trace it to prices, products, and the curve';
       const sevVals = [10, 20, 30, 40, 50, 60, 75, 90];
       const driverSet = [...new Set((D.commodities || []).flatMap(c => Object.keys(c.drivers || {})))]
         .filter(d => d !== 'other').sort();
@@ -466,9 +478,17 @@ const VIEWS = {
         <span class="value" id="sim-sevval"></span>
         <select id="sim-dep"><option value="">deposit overlay: off</option>` +
         Object.keys(D.deposits || {}).map(c => `<option value="${c}">deposits: ${c}</option>`).join('') +
-        `</select>`;
-      let mode = 'country', direction = -1;
-      host.table.innerHTML = `<div id="sim-cards"></div>`;
+        `</select>
+        <button id="copy-link" class="jump" style="border-style:dashed">copy link</button>`;
+      let mode = 'country', direction = -1, curvePick = null;
+      host.table.innerHTML = `<div id="sim-cards"></div>
+        <div id="atlas-products"></div>
+        <div id="curve-wrap" style="display:none">
+          <h3 style="margin:22px 0 2px;color:#e8e3da;font-weight:normal">Model vs market — the term structure of this shock</h3>
+          <div class="chiprow" id="curve-chips"></div>
+          <div id="curve-chart"></div>
+          <p id="curve-note" style="color:var(--muted);font-size:12.5px;margin:6px 0 0"></p>
+        </div>`;
 
       const erf = x => {
         const s = Math.sign(x); x = Math.abs(x);
@@ -608,6 +628,8 @@ const VIEWS = {
           return `
           <div class="sim-card">
             <div class="sim-head"><b>${r.commodity}</b> ${regimeBadge(r.regime)}
+              <span class="jump" onclick="jump('desk','${r.commodity}')">desk ›</span>
+              <span class="jump" onclick="window.atlasCurve && window.atlasCurve('${r.commodity}')">curve ›</span>
               <span class="sim-share">${r.shareLine}</span></div>
             <div class="sim-impact ${r.pct > 30 ? 'hot' : ''} ${!up ? 'cold' : ''}">${bound}${up ? '+' : ''}${r.pct.toFixed(0)}%
               <span class="sim-band">${r.clamped ? 'model range cap' : band}</span></div>
@@ -619,6 +641,84 @@ const VIEWS = {
         }).join('') :
           `<p style="color:var(--muted)">No priced commodities affected (gold is excluded from shock pricing).</p>`;
       };
+
+      const renderProducts = rows => {
+        const changes = Object.fromEntries(rows.map(r => [r.commodity, r.pct]));
+        const hits = (D.products || []).map(p => {
+          let total = 0; const via = [];
+          for (const inp of p.rows) {
+            const pct = changes[inp.commodity];
+            if (pct == null) continue;
+            const c = inp.share_pct / 100 * pct;
+            total += c;
+            if (Math.abs(c) >= 0.05) via.push(`${inp.commodity} ${c >= 0 ? '+' : ''}${c.toFixed(1)}`);
+          }
+          return {name: p.name, display: p.display, total, via};
+        }).filter(h => Math.abs(h.total) >= 0.1).sort((a, b) => Math.abs(b.total) - Math.abs(a.total));
+        document.getElementById('atlas-products').innerHTML = hits.length ? `
+          <h3 style="margin:20px 0 6px;color:#e8e3da;font-weight:normal">…and the products it lands on
+            <span class="jump" onclick="jump('products')">products tab ›</span></h3>
+          <div class="chiprow">` + hits.map(h =>
+            `<span class="pill" title="${h.via.join(', ')}" style="border-color:${Math.abs(h.total) > 5 ? 'var(--red)' : 'var(--border)'}">
+              ${h.display.split('(')[0].trim()} <b style="color:${h.total >= 0 ? 'var(--red)' : '#5b8fb9'}">${h.total >= 0 ? '+' : ''}${h.total.toFixed(1)}%</b></span>`
+          ).join('') + `</div>
+          <p style="color:var(--muted);font-size:12px;margin:4px 0 0">Input-cost passthrough through each bill of materials, margins fixed — hover a chip for the channel.</p>` : '';
+      };
+
+      const renderCurve = (commodity, rows) => {
+        const wrap = document.getElementById('curve-wrap');
+        const data = (D.commoditySim || {})[commodity];
+        const row = rows.find(r => r.commodity === commodity);
+        if (!data || !row) { wrap.style.display = 'none'; return; }
+        wrap.style.display = '';
+        // chips: pick among affected commodities with sim fans
+        const avail = rows.filter(r => (D.commoditySim || {})[r.commodity]).slice(0, 8);
+        document.getElementById('curve-chips').innerHTML = avail.map(r =>
+          `<span class="pill ${r.commodity === commodity ? 'active' : ''}"
+             onclick="window.atlasCurve('${r.commodity}')">${r.commodity}</span>`).join('');
+        const base = data.baseline;
+        const years = base.years;
+        const live = ((D.prices.commodities || {})[commodity] || {}).live;
+        const sig = ((D.signals || {rows: []}).rows || []).find(x => x.commodity === commodity);
+        const fut = sig && sig.futures && sig.futures.symbol ? `${sig.futures.exchange} ${sig.futures.symbol}` : null;
+        const traces = [
+          {x: years, y: base.price.p90, type: 'scatter', mode: 'lines', line: {width: 0}, hoverinfo: 'skip', showlegend: false},
+          {x: years, y: base.price.p10, type: 'scatter', mode: 'lines', fill: 'tonexty',
+           fillcolor: 'rgba(184,115,51,0.16)', line: {width: 0}, name: 'model P10–P90'},
+          {x: years, y: base.price.p50, type: 'scatter', mode: 'lines+markers',
+           line: {color: '#e8954f', width: 2}, name: 'model P50 (baseline)'},
+        ];
+        if (data.scenario) traces.push({x: data.scenario.years, y: data.scenario.price.p50,
+          type: 'scatter', mode: 'lines', line: {color: '#c4604f', width: 2, dash: 'dot'},
+          name: `P50 under ${data.scenario.scenario}`});
+        traces.push({x: [years[0], years[years.length - 1]], y: [row.implied, row.implied],
+          type: 'scatter', mode: 'lines', line: {color: '#c4604f', width: 1.5, dash: 'dash'},
+          name: `this shock's implied level`});
+        if (live && live.latest) traces.push({x: [years[0], years[years.length - 1]],
+          y: [live.latest, live.latest], type: 'scatter', mode: 'lines',
+          line: {color: '#5b8fb9', width: 1.5}, name: `market spot (random-walk benchmark)`});
+        Plotly.react('curve-chart', traces, {
+          paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)',
+          font: {color: '#c9c2b6', family: 'Georgia, serif', size: 12},
+          margin: {l: 56, r: 10, t: 8, b: 28}, showlegend: true,
+          legend: {orientation: 'h', y: -0.18, font: {size: 11}},
+          xaxis: {gridcolor: '#283342', dtick: 1}, yaxis: {gridcolor: '#283342'},
+        }, {displayModeBar: false, responsive: true});
+        document.getElementById('curve-note').innerHTML =
+          `How the analysis differs from the market: a futures curve absent carry ≈ the flat
+           <span style="color:#5b8fb9">spot line</span> (random-walk benchmark); the model prices the
+           <span style="color:#e8954f">balance-driven path</span> from disruption + demand distributions, and this
+           shock pins the <span style="color:#c4604f">incidence level</span>. Where they disagree is the thesis.
+           ${fut ? `The real curve trades as <b>${fut}</b> — check it against this.` : 'No liquid futures contract for this one.'}
+           Illustrative mechanics, not advice.`;
+        curvePick = commodity;
+      };
+      window.atlasCurve = name => {
+        const rows = lastRows || [];
+        renderCurve(name, rows);
+        document.getElementById('curve-wrap').scrollIntoView({behavior: 'smooth', block: 'nearest'});
+      };
+      let lastRows = null;
 
       const writeHash = severityRaw => {
         const target = mode === 'country'
@@ -649,6 +749,9 @@ const VIEWS = {
             ['top price impact', rows.length ? `+${rows[0].pct.toFixed(0)}%` : '—', rows.length && rows[0].pct > 30 ? 'neg' : ''],
           ].map(([k, v, cls]) => `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
           renderCards(rows);
+          lastRows = rows;
+          renderProducts(rows);
+          renderCurve(rows.some(r => r.commodity === curvePick) ? curvePick : (rows[0] || {}).commodity, rows);
         } else {
           const driver = document.getElementById('sim-driver').value;
           const pct = direction * severityRaw / 100;
@@ -666,6 +769,9 @@ const VIEWS = {
             ['most exposed', biggest ? biggest.commodity : '—', ''],
           ].map(([k, v, cls]) => `<div class="stat"><div class="k">${k}</div><div class="v ${cls}">${v}</div></div>`).join('');
           renderCards(rows);
+          lastRows = rows;
+          renderProducts(rows);
+          renderCurve(rows.some(r => r.commodity === curvePick) ? curvePick : (rows[0] || {}).commodity, rows);
         }
       };
 
@@ -687,6 +793,12 @@ const VIEWS = {
       document.getElementById('sim-driver').onchange = update;
       document.getElementById('sim-sev').oninput = update;
       document.getElementById('sim-dep').onchange = update;
+      document.getElementById('copy-link').onclick = () => {
+        navigator.clipboard && navigator.clipboard.writeText(location.href);
+        const b = document.getElementById('copy-link');
+        b.textContent = 'copied ✓';
+        setTimeout(() => { b.textContent = 'copy link'; }, 1400);
+      };
       document.getElementById('sim-country').value = 'Congo (Kinshasa)';
 
       // shareable state: read #sim=mode,target,severity[,dir] on load
@@ -818,7 +930,8 @@ const VIEWS = {
           const fwd = s.fwd12_regime_mean != null
             ? `<span style="color:${s.fwd12_regime_mean >= 0 ? '#7fb069' : 'var(--red)'}">${s.fwd12_regime_mean >= 0 ? '+' : ''}${(s.fwd12_regime_mean * 100).toFixed(1)}%</span>` : '—';
           const mrt = s.mr_t12 != null ? s.mr_t12.toFixed(1) : '—';
-          return `<tr><td><b>${s.commodity}</b></td><td>${fut}</td>
+          return `<tr id="desk-${s.commodity}"><td><b>${s.commodity}</b>
+            <span class="jump" onclick="jump('map')" title="open the atlas">atlas ›</span></td><td>${fut}</td>
             <td class="num">${s.live != null ? fmt(Math.round(s.live)) : '—'}${s.live_date ? `<span class="sim-unit"> ${s.live_date.slice(0,7)}</span>` : ''}</td>
             <td class="num">${fmt(s.anchor)}</td><td class="num">${gap}</td>
             <td><span class="pill" ${regimeCls(s.regime)}>${s.regime || '—'}</span></td>
@@ -995,13 +1108,35 @@ function newsSection() {
 }
 
 const tabs = document.getElementById('tabs');
-for (const [key, view] of Object.entries(VIEWS)) {
-  const b = document.createElement('button');
-  b.textContent = view.label;
-  b.onclick = () => activate(key);
-  b.id = `tab-${key}`;
-  tabs.appendChild(b);
+const NAV_GROUPS = [
+  ['atlas', ['map']],
+  ['evidence', ['desk', 'scorecard', 'scenarios']],
+  ['structure', ['products', 'commodities', 'mines']],
+  ['copper labs', ['decision', 'tariff', 'grasberg']],
+];
+for (const [group, keys] of NAV_GROUPS) {
+  const g = document.createElement('span');
+  g.className = 'navgroup';
+  g.textContent = group;
+  tabs.appendChild(g);
+  for (const key of keys) {
+    if (!VIEWS[key]) continue;
+    const b = document.createElement('button');
+    b.textContent = VIEWS[key].label;
+    b.onclick = () => activate(key);
+    b.id = `tab-${key}`;
+    tabs.appendChild(b);
+  }
 }
+// cross-tab navigation: jump to a tab and focus a commodity there
+window.jump = (tab, commodity) => {
+  activate(tab);
+  if (!commodity) return;
+  if (tab === 'desk') {
+    const row = document.getElementById(`desk-${commodity}`);
+    if (row) { row.scrollIntoView({behavior: 'smooth', block: 'center'}); row.classList.add('flash'); }
+  }
+};
 function activate(key) {
   document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
   document.getElementById(`tab-${key}`).classList.add('active');
