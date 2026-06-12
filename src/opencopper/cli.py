@@ -171,16 +171,32 @@ def _cmd_data(args: argparse.Namespace) -> int:
 
 
 def _cmd_backtest(args: argparse.Namespace) -> int:
-    from .backtest import backtest_all, backtest_commodity, render_backtest
+    from .backtest import (
+        backtest_all,
+        backtest_commodity,
+        render_backtest,
+        render_robustness,
+        robustness_grid,
+        sign_consistency,
+        split_sample,
+    )
 
+    if args.robustness:
+        grid = robustness_grid(horizon=args.horizon)
+        split = split_sample(split=f"{args.split}-01-01", horizon=args.horizon)
+        cons = sign_consistency(backtest_all(horizon=args.horizon))
+        print(render_robustness(grid, split, cons))
+        return 0
+
+    kw = {"skip": args.skip, "deflate": args.real}
     if args.commodity:
-        row = backtest_commodity(args.commodity, horizon=args.horizon)
+        row = backtest_commodity(args.commodity, horizon=args.horizon, **kw)
         if row is None:
             print(f"{args.commodity}: not enough price history to backtest")
             return 1
         rows = [row]
     else:
-        rows = backtest_all(horizon=args.horizon)
+        rows = backtest_all(horizon=args.horizon, **kw)
     print(render_backtest(rows, args.horizon))
     return 0
 
@@ -637,6 +653,10 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("backtest", help="walk-forward test: does the regime signal predict forward returns? (34yr, NW t-stats)")
     p.add_argument("--commodity", default=None)
     p.add_argument("--horizon", type=int, default=12, help="forward-return horizon in months")
+    p.add_argument("--skip", type=int, default=1, help="months between signal and outcome (Working averaging effect; 0 = naive)")
+    p.add_argument("--real", action="store_true", help="CPI-deflate prices (real-terms value signal)")
+    p.add_argument("--robustness", action="store_true", help="bias diagnostics: parameter grid, split-sample, consistency")
+    p.add_argument("--split", type=int, default=2010, help="split year for the in/out-of-sample halves")
     p.set_defaults(func=_cmd_backtest)
 
     p = sub.add_parser("regional", help="quarterly 3-region trade flows: covers, premia, the COMEX-LME arb")

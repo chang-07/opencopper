@@ -139,20 +139,52 @@ def _perf(rets: list[float]) -> dict[str, float]:
     }
 
 
-def backtest_commodity(name: str, horizon: int = 12) -> BacktestRow | None:
+def backtest_commodity(name: str, horizon: int = 12, skip: int = 1,
+                       window: int | None = None, threshold: float | None = None,
+                       deflate: bool = False,
+                       date_range: tuple[str, str] | None = None) -> BacktestRow | None:
+    """Walk-forward backtest with the bias controls a referee would demand:
+
+    - ``skip`` (default 1): FRED/Pink Sheet values are monthly AVERAGES, which
+      mechanically correlate the signal month with the next month's return
+      (Working 1960). Skipping one month between signal and outcome —
+      f_i = log(p[i+1+h]/p[i+1]) — removes the overlap; skip=0 shows the
+      naive version for comparison.
+    - ``window``/``threshold``: regime parameters, sweepable for the
+      robustness grid (defaults = the production 36m/±15%).
+    - ``deflate``: divide prices by US CPI (FRED CPIAUCSL, keyless) so the
+      "value" signal is real, not nominal.
+    - ``date_range``: (lo, hi) ISO bounds on SIGNAL months — the split-sample
+      in/out-of-sample machinery.
+    """
     h = load_price_history(name)
     if not h or len(h.months) < TREND_WINDOW + horizon + 24:
         return None
     months = h.months
-    devs = deviations(months)
+    if deflate:
+        months = _deflated(months)
+        if months is None:
+            return None
+    window = window or TREND_WINDOW
+    tight_thr = threshold if threshold is not None else TIGHT_THRESHOLD
+    devs = _deviations_w(months, window)
     logs = [math.log(p) for _, p in months]
 
-    start = TREND_WINDOW  # only months with a full trend window behind them
+    def regime_of(dev: float) -> str:
+        if dev > tight_thr:
+            return "tight"
+        if dev < -tight_thr:
+            return "glut"
+        return "balanced"
+
+    start = max(window, 12)  # full trend window AND a 12m momentum lookback
     xs, ys, regimes, moms = [], [], [], []
-    for i in range(start, len(months) - horizon):
+    for i in range(start, len(months) - horizon - skip):
+        if date_range and not (date_range[0] <= months[i][0] <= date_range[1]):
+            continue
         xs.append(devs[i])
-        ys.append(logs[i + horizon] - logs[i])
-        regimes.append(_regime_of(devs[i]))
+        ys.append(logs[i + skip + horizon] - logs[i + skip])
+        regimes.append(regime_of(devs[i]))
         # 12m past return sign: the Miffre-Rallis (2007) momentum signal,
         # crossed with the value signal a la Asness-Moskowitz-Pedersen (2013)
         moms.append("up" if logs[i] - logs[i - 12] >= 0 else "down")
@@ -174,15 +206,17 @@ def backtest_commodity(name: str, horizon: int = 12) -> BacktestRow | None:
             cells[f"{r}|{m}"] = {"n": len(sub),
                                  "mean_fwd": round(sum(sub) / len(sub), 4) if len(sub) >= 12 else None}
 
-    # regime rule, next-month application: signal at i, return i -> i+1
+    # regime rule, applied AFTER the skip month: signal at i, return i+skip -> i+skip+1
     strat_rets, hold_rets, monthly = [], [], {}
-    for i in range(start, len(months) - 1):
-        r1m = logs[i + 1] - logs[i]
-        regime = _regime_of(devs[i])
+    for i in range(start, len(months) - 1 - skip):
+        if date_range and not (date_range[0] <= months[i][0] <= date_range[1]):
+            continue
+        r1m = logs[i + skip + 1] - logs[i + skip]
+        regime = regime_of(devs[i])
         w = {"glut": 1.0, "balanced": 0.0, "tight": -1.0}[regime]
         strat_rets.append(w * r1m)
         hold_rets.append(r1m)
-        monthly[months[i + 1][0][:7]] = (regime, r1m)
+        monthly[months[i + skip + 1][0][:7]] = (regime, r1m)
 
     return BacktestRow(
         commodity=name, n_months=len(xs), horizon=horizon,
@@ -194,10 +228,31 @@ def backtest_commodity(name: str, horizon: int = 12) -> BacktestRow | None:
     )
 
 
-def backtest_all(horizon: int = 12) -> list[BacktestRow]:
+def _deviations_w(months: list[tuple[str, float]], window: int) -> list[float]:
+    logs = [math.log(p) for _, p in months]
+    out = []
+    for i in range(len(logs)):
+        w = logs[max(0, i - window + 1): i + 1]
+        out.append(logs[i] - sum(w) / len(w))
+    return out
+
+
+def _deflated(months: list[tuple[str, float]]) -> list[tuple[str, float]] | None:
+    """Prices divided by US CPI (CPIAUCSL) — the real-terms robustness leg."""
+    from .pricing import cached_fred
+
+    try:
+        cpi = dict(cached_fred("CPIAUCSL"))
+    except Exception:
+        return None
+    out = [(d, p / cpi[d]) for d, p in months if d in cpi and cpi[d] > 0]
+    return out if len(out) >= TREND_WINDOW + 36 else None
+
+
+def backtest_all(horizon: int = 12, **kw) -> list[BacktestRow]:
     rows = []
     for name in load_pricebook().commodities:
-        row = backtest_commodity(name, horizon)
+        row = backtest_commodity(name, horizon, **kw)
         if row:
             rows.append(row)
     rows.sort(key=lambda r: r.t_stat)
@@ -309,4 +364,145 @@ def render_backtest(rows: list[BacktestRow], horizon: int) -> str:
         "strategy: gross of costs and roll, monthly spot-proxy averages,",
         "regime thresholds not optimized. References: docs/references.md.",
     ]
+    return "\n".join(lines)
+
+
+# ------------------------------------------------------- bias diagnostics
+
+
+def robustness_grid(horizon: int = 12) -> dict:
+    """The selection-bias answer: does the finding survive parameters we did
+    NOT choose? Slope panel sweeps the trend window under three measurement
+    variants (skip-month on/off, CPI-deflated); cell panel sweeps the regime
+    threshold. If mean reversion were an artifact of (36m, ±15%, monthly
+    averaging, nominal prices), some cell of this grid would say so."""
+    slope_panel = []
+    for window in (24, 36, 48):
+        for label, kw in (("skip=1", {"skip": 1}), ("skip=0 (naive)", {"skip": 0}),
+                          ("real (CPI)", {"skip": 1, "deflate": True})):
+            rows = backtest_all(horizon, window=window, **kw)
+            if not rows:
+                continue
+            slopes = sorted(r.slope for r in rows)
+            n_neg = sum(1 for r in rows if r.slope < 0)
+            slope_panel.append({
+                "window": window, "variant": label, "n": len(rows),
+                "n_reverting": n_neg,
+                "median_slope": round(slopes[len(slopes) // 2], 3),
+                "sign_p": round(_sign_test_p(len(rows) - n_neg, len(rows)), 4),
+            })
+    cell_panel = []
+    for thr in (0.10, 0.15, 0.20):
+        rows = backtest_all(horizon, threshold=thr)
+        glut_n = glut_sum = tight_n = tight_sum = 0
+        for r in rows:
+            for key, acc in (("glut", "g"), ("tight", "t")):
+                c_n = r.n_regime.get(key, 0)
+                c_m = r.mean_fwd.get(key)
+                if c_m is None:
+                    continue
+                if key == "glut":
+                    glut_n += c_n
+                    glut_sum += c_m * c_n
+                else:
+                    tight_n += c_n
+                    tight_sum += c_m * c_n
+        cell_panel.append({
+            "threshold": thr,
+            "fwd_glut": round(glut_sum / glut_n, 4) if glut_n else None,
+            "fwd_tight": round(tight_sum / tight_n, 4) if tight_n else None,
+            "n_glut": glut_n, "n_tight": tight_n,
+        })
+    return {"slope_panel": slope_panel, "cell_panel": cell_panel}
+
+
+def split_sample(split: str = "2010-01-01", horizon: int = 12) -> dict:
+    """The data-mining answer: the 2x2 was examined after seeing the data, so
+    re-estimate per half. A cell that holds in both halves was not mined from
+    one episode."""
+    halves = {}
+    for label, rng in (("pre", ("1900-01-01", split)), ("post", (split, "2100-01-01"))):
+        rows = backtest_all(horizon, date_range=rng)
+        if not rows:
+            halves[label] = None
+            continue
+        s = summary(rows)
+        n_neg = sum(1 for r in rows if r.slope < 0)
+        halves[label] = {
+            "n": len(rows), "n_reverting": n_neg,
+            "median_slope": s["median_slope"], "sign_p": s["sign_test_p"],
+            "cells": s["momentum_2x2"],
+        }
+    return {"split": split, **halves}
+
+
+def sign_consistency(rows: list[BacktestRow]) -> dict:
+    """The pooling-bias answer: pooled cells weight long series (silver/crude
+    744 months) over short ones. Count COMMODITIES, equal-weighted, on two
+    contrasts: the regime-level one (fwd|glut > fwd|tight — nearly every
+    commodity can answer it) and the sharper 2x2 one (glut|down > tight|down
+    — few have enough months in both rare cells; reported but underpowered)."""
+    reg_n = reg_ok = cell_n = cell_ok = 0
+    for r in rows:
+        g, t_ = r.mean_fwd.get("glut"), r.mean_fwd.get("tight")
+        if g is not None and t_ is not None:
+            reg_n += 1
+            reg_ok += g > t_
+        cg = r.cells_2x2.get("glut|down", {}).get("mean_fwd")
+        ct = r.cells_2x2.get("tight|down", {}).get("mean_fwd")
+        if cg is not None and ct is not None:
+            cell_n += 1
+            cell_ok += cg > ct
+    return {
+        "regime_n": reg_n, "regime_consistent": reg_ok,
+        "regime_p": round(_sign_test_p(reg_n - reg_ok, reg_n), 4) if reg_n else None,
+        "n_comparable": cell_n, "n_consistent": cell_ok,
+        "sign_p": round(_sign_test_p(cell_n - cell_ok, cell_n), 4) if cell_n else None,
+    }
+
+
+def render_robustness(grid: dict, split: dict, consistency: dict) -> str:
+    lines = ["BIAS DIAGNOSTICS — does the finding survive choices we didn't make?",
+             "",
+             "1. SLOPE vs trend window x measurement variant (selection + averaging bias):",
+             f"   {'window':<8}{'variant':<16}{'reverting':>11}{'median b':>10}{'sign p':>8}"]
+    for r in grid["slope_panel"]:
+        lines.append(f"   {r['window']:<8}{r['variant']:<16}"
+                     f"{str(r['n_reverting']) + '/' + str(r['n']):>11}"
+                     f"{r['median_slope']:>10.2f}{r['sign_p']:>8.3f}")
+    lines += ["",
+              "2. GLUT/TIGHT forward means vs regime threshold (the cells aren't a",
+              "   threshold artifact):",
+              f"   {'threshold':<11}{'fwd|glut':>10}{'fwd|tight':>11}{'n glut':>8}{'n tight':>9}"]
+    for r in grid["cell_panel"]:
+        fg = f"{r['fwd_glut']:+.1%}" if r["fwd_glut"] is not None else "—"
+        ft = f"{r['fwd_tight']:+.1%}" if r["fwd_tight"] is not None else "—"
+        lines.append(f"   ±{r['threshold']:.0%}{'':<5}{fg:>10}{ft:>11}"
+                     f"{r['n_glut']:>8}{r['n_tight']:>9}")
+    lines += ["", f"3. SPLIT-SAMPLE at {split['split'][:4]} (data-mining bias — the 2x2 was"]
+    lines.append("   examined after seeing the data; a real effect holds in both halves):")
+    for label in ("pre", "post"):
+        h = split[label]
+        if not h:
+            lines.append(f"   {label:<5} insufficient data")
+            continue
+        c = h["cells"]
+        f = lambda k: (f"{c[k]['mean_fwd']:+.1%}" if c.get(k, {}).get("mean_fwd") is not None
+                       else "thin")
+        lines.append(f"   {label:<5} reverting {h['n_reverting']}/{h['n']} "
+                     f"(median b {h['median_slope']:+.2f}, p={h['sign_p']}) | "
+                     f"glut|down {f('glut|down')}  balanced|up {f('balanced|up')}  "
+                     f"tight|down {f('tight|down')}")
+    lines += ["",
+              f"4. PER-COMMODITY CONSISTENCY (pooling bias — long series dominate pooled",
+              f"   cells), equal-weighted across commodities:",
+              f"   fwd|glut > fwd|tight for {consistency['regime_consistent']}/"
+              f"{consistency['regime_n']} (sign p={consistency['regime_p']});",
+              f"   glut|down > tight|down for {consistency['n_consistent']}/"
+              f"{consistency['n_comparable']} (p={consistency['sign_p']} — few commodities",
+              f"   have enough months in both rare cells; underpowered, reported anyway).",
+              "",
+              "Default convention everywhere: skip-month (signal month and outcome month",
+              "never overlap — Working 1960 averaging effect). Survivorship: continuous",
+              "FRED/Pink Sheet series, no delisted commodities; the pool is today's pool."]
     return "\n".join(lines)

@@ -160,6 +160,12 @@ tests Asness-Moskowitz-Pedersen on 16 commodities (deep-value-while-falling
 mean-reversion half-lives follow Cashin-Liang-McDermott; book VaR carries a
 Cornish-Fisher correction; product retail pass-through cites Nakamura-Zerom
 and Borenstein et al. Paper → finding → file: [docs/references.md](docs/references.md).
+And the backtest hunts its own biases (`opencopper backtest --robustness`):
+skip-month convention against the monthly-averaging effect, a parameter grid
+nominal and CPI-deflated (14/16 commodities revert in all nine variants, with
+monotone dose-response in the threshold), split-sample validation (both
+halves hold, with honest post-2010 attenuation), and equal-weighted
+per-commodity consistency (13/16, p=0.02) against pooling bias.
 
 **The desk shows its homework.** The regime signal is backtested walk-forward
 over 34 years with Newey-West t-stats: 9/10 commodities mean-revert toward

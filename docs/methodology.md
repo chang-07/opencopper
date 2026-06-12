@@ -352,6 +352,36 @@ mean-reverting sine world the trailing trend lags the cycle, so "tight"
 months sit mid-ascent and monthly-gated shorts lose even though 12m stats
 mean-revert. The signal is horizon-dependent; any use of it must be too.
 
+**The backtest hunts its own biases** (`opencopper backtest --robustness`).
+Four threats, four answers, all printed:
+
+1. *Averaging bias (Working 1960)*: FRED/Pink Sheet values are monthly
+   AVERAGES, mechanically correlating the signal month with the next month.
+   The skip-month convention (signal at i, outcomes start at i+1) is now the
+   default; the naive variant ships beside it. The finding survives — and
+   the trading rule actually IMPROVED with the bias removed (the averaging
+   overlap was anchoring entries adversely).
+2. *Selection bias*: the (36m, ±15%) regime parameters are swept over a
+   window × threshold grid, nominal and CPI-deflated (FRED CPIAUCSL).
+   14/16 commodities mean-revert in every one of the nine slope variants,
+   and the glut/tight forward-return gap WIDENS monotonically with the
+   threshold (+8.3%→+11.7% glut; +1.1%→−2.2% tight) — dose-response, not
+   artifact.
+3. *Data-mining bias*: the value × momentum cells were examined after
+   seeing the data, so the split-sample re-estimates them per half. Both
+   halves hold (pre-2010: glut|down +13.9%, tight|down −2.9%; post-2010:
+   +6.5% vs 0.0%), with honest attenuation post-2010 — consistent with the
+   alpha decay documented for published commodity signals.
+4. *Pooling bias*: pooled cells over-weight long series (silver and crude
+   carry 744 months). Equal-weighted per-commodity consistency: fwd|glut >
+   fwd|tight for 13/16 commodities (sign p=0.02); the sharper 2×2 contrast
+   is 4/4 but underpowered and says so.
+
+Survivorship is the one bias we can only document, not fix: the pool is
+today's 22 commodities. Mitigating facts: the series are continuous
+(1960/1992 starts, nothing delisted), and commodities don't exit the way
+stocks do.
+
 **Volatility is conditioned on the state.** Realized vol bucketed causally
 by regime (regime at month i−1, return over month i) is U-shaped: extreme
 states are volatile states (crude: 41% in glut, 22% balanced, 39% tight).

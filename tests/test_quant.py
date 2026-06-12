@@ -7,6 +7,7 @@ import math
 import pytest
 
 from opencopper.backtest import (
+    backtest_all,
     backtest_commodity,
     deviations,
     nw_slope,
@@ -74,7 +75,10 @@ def test_backtest_detects_mean_reversion_in_synthetic_world(monkeypatch):
     # monthly-gated short loses even though 12m-forward stats mean-revert.
     # The signal is horizon-dependent; the rule's monthly gate is not.
     s = summary([row])
-    assert s["ew_short_tight"]["ann_ret"] < 0 < row.mean_fwd["glut"]
+    # (with the skip-month default the synthetic short leg lands at exactly
+    # 0.0 — one month later in the ascent is one month closer to the peak;
+    # the point stands: the monthly gate never beats the 12m-hold signal)
+    assert s["ew_short_tight"]["ann_ret"] <= 0 < row.mean_fwd["glut"]
     assert s["n_mean_reverting"] == 1
     assert 0 <= s["sign_test_p"] <= 1
 
@@ -234,3 +238,64 @@ def test_retail_passthrough_scales_cost_response():
     cable = shock_response(load_product("copper-cable"), {"copper": 10.0})
     assert cable["retail_change_pct"] == pytest.approx(cable["cost_change_pct"], abs=0.01)
     assert "Nakamura" in bread["retail_note"]
+
+
+# ---------------------------------------------------------------- bias pass
+
+
+def test_skip_month_shifts_the_outcome_window(monkeypatch):
+    import opencopper.backtest as bt
+
+    class _H:
+        months = _sine_history()
+
+    monkeypatch.setattr(bt, "load_price_history", lambda name: _H())
+    naive = backtest_commodity("x", horizon=12, skip=0)
+    skipped = backtest_commodity("x", horizon=12, skip=1)
+    # one fewer usable signal month, and a genuinely different outcome window
+    assert skipped.n_months == naive.n_months - 1
+    assert skipped.slope != naive.slope
+
+
+def test_date_range_split_partitions_the_sample(monkeypatch):
+    import opencopper.backtest as bt
+
+    class _H:
+        months = _sine_history()
+
+    monkeypatch.setattr(bt, "load_price_history", lambda name: _H())
+    full = backtest_commodity("x", horizon=12)
+    pre = backtest_commodity("x", horizon=12, date_range=("1900-01-01", "2019-12-31"))
+    post = backtest_commodity("x", horizon=12, date_range=("2020-01-01", "2100-01-01"))
+    assert pre.n_months + post.n_months == full.n_months
+    # a stationary synthetic world mean-reverts in BOTH halves
+    assert pre.slope < 0 and post.slope < 0
+
+
+def test_deflation_uses_cpi_and_survives_missing_months(monkeypatch):
+    import opencopper.backtest as bt
+    import opencopper.pricing as pr
+
+    months = _sine_history()
+    cpi = [(d, 100.0 * (1.002 ** i)) for i, (d, _) in enumerate(months[:-24])]  # CPI series shorter
+
+    class _H:
+        pass
+    _H.months = months
+    monkeypatch.setattr(bt, "load_price_history", lambda name: _H())
+    monkeypatch.setattr(pr, "cached_fred", lambda s, **k: cpi)
+    row = backtest_commodity("x", horizon=12, deflate=True)
+    assert row is not None and row.slope < 0  # reversion survives deflation
+    assert row.n_months < backtest_commodity("x", horizon=12).n_months  # intersection only
+
+
+def test_sign_consistency_counts_both_contrasts():
+    from opencopper.backtest import sign_consistency
+
+    rows = backtest_all(horizon=12)
+    if not rows:
+        pytest.skip("no price caches")
+    c = sign_consistency(rows)
+    assert c["regime_n"] >= c["n_comparable"]  # regime contrast always broader
+    assert 0 <= c["regime_consistent"] <= c["regime_n"]
+    assert c["regime_p"] is None or 0 <= c["regime_p"] <= 1
