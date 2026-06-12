@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def test_fourteen_commodities_including_nonmetals():
     names = list_commodity_names()
-    assert len(names) == 14
+    assert len(names) == 22
     for n in ("crude-oil", "natural-gas", "wheat"):
         assert n in names
         seed = load_commodity(n)

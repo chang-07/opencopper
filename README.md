@@ -120,6 +120,28 @@ uv run opencopper data status                      # every cache: age, rows, lat
 uv run opencopper sensitivity --target price                           # the pricing parameters' own tornado
 ```
 
+### Products: from raw commodities to the bottom line
+
+```bash
+uv run opencopper product list                     # cost stacks + live input-cost pressure
+uv run opencopper product report ev-battery-pack --scenario scenarios/commodities/hormuz-disruption.yaml
+uv run opencopper ripple --commodity copper --country "Congo (Kinshasa)" --severity 0.5
+#   ...now ends with the PRODUCT stage: cable +14%, battery pack +8% (via cobalt), solar +1%
+```
+
+**22 commodities, 7 products.** The pool grew by lead, platinum, uranium,
+coal, corn, soybeans, graphite and manganese (all keyless: FRED/Pink
+Sheet/USGS/EIA/USDA/WNA) — and **graphite now outranks cobalt as the most
+concentrated commodity in the model** (China ~76% vs DRC ~74%). On top sit
+bill-of-materials product models — EV battery pack, steel, US gasoline,
+bread, solar module, copper cable, urea — that answer three questions: what
+share of the bottom line is each commodity, what is the input-cost pressure
+at today's prices, and what does any shock do to the cost base. The spread
+is the story: cable is ~80% metal, bread ~5% wheat. A DRC copper outage
+reaches the battery pack mostly through the **cobalt byproduct channel** —
+linkage graph → incidence → BOM, composed. Cost-base passthrough only;
+margins, contracts and pricing power are named as unmodeled.
+
 **The system grades its own calls.** `data/theses.yaml` is PREDICTIONS.md in
 machine-readable form; markable theses grade themselves off keyless series
 (the copper-2026 band call reads its own YTD standing every run), external

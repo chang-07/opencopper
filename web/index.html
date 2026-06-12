@@ -835,6 +835,44 @@ const VIEWS = {
         + backtestSection() + newsSection();
     },
   },
+  products: {
+    label: 'Products',
+    init() {
+      const P = D.products || [];
+      host.title.textContent = 'Products — commodity inputs to the bottom line';
+      host.sub.textContent = 'Each product is a bill of materials priced off the model\'s commodities: cost structure at anchors, the cost base repriced at the latest monthlies, and sensitivity per input. Cost-base passthrough only — margins, contracts and pricing power unmodeled; never a retail price prediction.';
+      host.controls.innerHTML = '';
+      document.getElementById('stats').innerHTML = '';
+      Plotly.purge('chart');
+      document.getElementById('chart').style.height = '0px';
+      const palette = ['#c4604f', '#b98a4f', '#7fb069', '#5b8fb9', '#9b7fb0', '#4fb0a5'];
+      host.table.innerHTML = `<div id="sim-cards">` + P.map(p => {
+        const pres = p.pressure_pct != null
+          ? `<span class="${p.pressure_pct >= 0 ? '' : ''}" style="color:${p.pressure_pct >= 0 ? 'var(--red)' : '#5b8fb9'}">${p.pressure_pct >= 0 ? '+' : ''}${p.pressure_pct.toFixed(1)}%</span>` : '—';
+        let acc = 0;
+        const segs = p.rows.map((r, i) =>
+          `<div title="${r.commodity} ${r.share_pct.toFixed(1)}%" style="position:absolute;left:${acc.toFixed(2)}%;width:${(acc += r.share_pct, Math.max(r.share_pct, 0.4)).toFixed(2)}%;top:0;bottom:0;background:${palette[i % palette.length]}"></div>`).join('');
+        const legend = p.rows.map((r, i) =>
+          `<span style="color:${palette[i % palette.length]}">●</span> ${r.commodity} ${r.share_pct.toFixed(1)}%`).join(' · ');
+        const sens = p.sensitivities.slice(0, 3).map(s =>
+          `+10% ${s.commodity} → +${s.product_pct_per_10.toFixed(1)}%`).join(' · ');
+        return `<div class="sim-card" style="grid-column:1/-1">
+          <div class="sim-head"><b>${p.display}</b>
+            <span class="sim-share">${p.unit} · anchor ${fmt(p.anchor)} · input share ${p.input_share_pct.toFixed(0)}%</span></div>
+          <div class="sim-impact ${p.pressure_pct >= 5 ? 'hot' : p.pressure_pct <= -5 ? 'cold' : ''}">${pres}
+            <span class="sim-band">input-cost pressure vs anchor (now ${fmt(Math.round(p.cost_now_usd * 100) / 100)})</span></div>
+          <div style="position:relative;height:14px;border-radius:4px;overflow:hidden;background:var(--border);margin:6px 0 4px">${segs}</div>
+          <div style="font-size:12px;color:var(--muted)">${legend} · <span style="color:var(--text)">non-input ${(100 - p.input_share_pct).toFixed(0)}%</span></div>
+          <div class="sim-price" style="margin-top:6px">${sens}</div>
+        </div>`;
+      }).join('') + `</div>
+      <p style="color:var(--muted);font-size:12.5px;margin-top:12px">
+      The spread is the story: a copper cable is ~80% metal (cable buyers hedge LME);
+      bread is ~5% wheat (bakers don't hedge wheat). Shock any country on the World
+      Simulator or run <code>opencopper ripple</code> and the product stage prices the
+      same move through every bill of materials.</p>`;
+    },
+  },
   scorecard: {
     label: 'Scorecard',
     init() {

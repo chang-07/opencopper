@@ -1,0 +1,28 @@
+# Seed-estimates from USGS MCS public figures; flagged. Units: kt contained Mn (ore basis).
+name: manganese
+unit: kt contained manganese
+source: "USGS Mineral Commodity Summaries (manganese), https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf (seed-estimate)"
+basis: seed-estimate
+world:
+  production_kt: {2024: 20000, 2025: 19500}
+  reserves_kt: 1900000
+  production_growth_pct: 1.0
+demand:
+  base_kt: 21000
+  base_year: 2024
+  growth_pct: 1.0
+  basis: "~90% goes into steel (no substitute at any price for desulfurization) — demand follows crude steel output"
+top_producers:
+  - {country: South Africa, production_kt: 7200, reserves_kt: 560000}
+  - {country: Gabon, production_kt: 4600, reserves_kt: 61000}
+  - {country: Australia, production_kt: 3300, reserves_kt: 500000}
+  - {country: China, production_kt: 1060, reserves_kt: 280000}
+  - {country: Ghana, production_kt: 920, reserves_kt: 13000}
+  - {country: India, production_kt: 600, reserves_kt: 34000}
+notes: "Cyclone Megan knocked out Australia's Groote Eylandt (~10% of seaborne ore) for most of 2024 — a real, recent single-point disruption. LMFP battery chemistry is the small-but-growing non-steel demand."
+price_note: "44% ore ~$5.2/dmtu ≈ $230/t; no keyless monthly series — default ambient vol"
+caveats: "Ore-basis; ferroalloy conversion not modeled; steel-demand proxy via the construction driver."
+drivers:
+  construction: 0.90
+  batteries: 0.04
+  industrial: 0.06

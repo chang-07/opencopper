@@ -335,6 +335,30 @@ def _regional_payload() -> dict:
     return {"rates": TARIFF_RATES, "runs": runs}
 
 
+def _products_payload() -> list[dict]:
+    """Per-product BOM stack repriced live, plus +10%-input sensitivities."""
+    from .products import list_product_names, live_pressure, load_product
+
+    out = []
+    for name in list_product_names():
+        prod = load_product(name)
+        bd = live_pressure(prod)
+        out.append({
+            "name": name, "display": prod.display, "unit": prod.unit,
+            "anchor": prod.anchor_cost_usd, "source": prod.source,
+            "caveats": prod.caveats, "rows": bd["rows"],
+            "input_share_pct": bd["input_share_pct"],
+            "non_input_usd": bd["non_input_usd"],
+            "cost_now_usd": bd["cost_now_usd"], "pressure_pct": bd["pressure_pct"],
+            "sensitivities": [
+                {"commodity": r["commodity"],
+                 "product_pct_per_10": round(r["share_pct"] / 10, 2)}
+                for r in sorted(bd["rows"], key=lambda r: -r["share_pct"])
+            ],
+        })
+    return out
+
+
 def _theses_payload() -> dict:
     from .theses import analytics, mark_all
 
@@ -476,6 +500,7 @@ def build_payload(
         "backtest": _backtest_payload(),
         "theses": _theses_payload(),
         "freshness": _data_freshness(),
+        "products": _products_payload(),
         "mines": [
             {
                 "name": m.name,

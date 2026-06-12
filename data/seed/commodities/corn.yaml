@@ -1,0 +1,27 @@
+# Seed-estimates from USDA WASDE public figures; flagged. Units: kt.
+name: corn
+unit: kt
+source: "USDA WASDE public figures (seed-estimate); price: FRED PMAIZMTUSDM"
+basis: seed-estimate
+world:
+  production_kt: {2024: 1230000, 2025: 1265000}
+  reserves_kt: 315000    # ending stocks, not geological reserves
+  production_growth_pct: 1.2
+demand:
+  base_kt: 1240000
+  base_year: 2025
+  growth_pct: 1.2
+  basis: "USDA world consumption (feed + food + industrial/ethanol)"
+top_producers:
+  - {country: United States, production_kt: 390000}
+  - {country: China, production_kt: 295000}
+  - {country: Brazil, production_kt: 122000}
+  - {country: Argentina, production_kt: 50000}
+  - {country: India, production_kt: 38000}
+  - {country: Ukraine, production_kt: 27000}
+notes: "US ethanol takes roughly a third of the US crop — corn is the only grain with a structural fuel link, so EV adoption is (marginally) bearish corn."
+price_note: "US ~$216/t May 2026 (FRED)"
+caveats: "Annual crop: weather is the disruption distribution; ending stocks play the inventory role; US export share >> production share."
+drivers:
+  other: 0.85     # feed + food
+  transport: 0.15 # ethanol blending

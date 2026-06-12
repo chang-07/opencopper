@@ -1,0 +1,26 @@
+# Seed-estimates from EIA/World Nuclear Association public figures; flagged. Units: kt U.
+name: uranium
+unit: kt uranium
+source: "EIA / World Nuclear Association public figures, https://world-nuclear.org/information-library (seed-estimate)"
+basis: seed-estimate
+world:
+  production_kt: {2024: 60, 2025: 62}
+  reserves_kt: 8070      # identified recoverable resources <$260/kgU (WNA), not USGS reserves
+  production_growth_pct: 3.0
+demand:
+  base_kt: 67
+  base_year: 2024
+  growth_pct: 2.5
+  basis: "world reactor requirements — STRUCTURALLY above mine supply; secondary supply (inventories, underfeeding, ex-military) closes the gap"
+top_producers:
+  - {country: Kazakhstan, production_kt: 23, reserves_kt: 970}
+  - {country: Canada, production_kt: 12, reserves_kt: 590}
+  - {country: Namibia, production_kt: 8, reserves_kt: 470}
+  - {country: Australia, production_kt: 4.4, reserves_kt: 1680}
+  - {country: Uzbekistan, production_kt: 3.4, reserves_kt: 130}
+  - {country: Russia, production_kt: 2.5, reserves_kt: 480}
+notes: "Kazatomprom alone is ~38% of mine supply (ISR, sulphuric-acid constrained). Fuel is ~5% of a nuclear plant's cost — demand barely sees price, hence the extreme demand inelasticity."
+price_note: "spot ~$69/lb U3O8 May 2026 (FRED PURANUSDM); anchor $80 reflects term-contract levels"
+caveats: "Mine supply < reactor requirements by design; inventory cycles dominate spot. Not in USGS MCS — WNA/EIA sourced."
+drivers:
+  grid: 1.0

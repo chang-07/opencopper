@@ -6,7 +6,7 @@ from opencopper.signals import DISCLAIMER, build_signals, render_signals, signal
 
 def test_signals_cover_all_commodities_with_futures_and_disclaimer():
     s = build_signals(n_paths=200)
-    assert len(s) == 14
+    assert len(s) == 22
     by = {x.commodity: x for x in s}
     assert by["copper"].futures["symbol"] == "HG"
     assert by["copper"].live and by["copper"].gap_vs_anchor_pct is not None
@@ -15,4 +15,4 @@ def test_signals_cover_all_commodities_with_futures_and_disclaimer():
     text = render_signals(s)
     assert "NOT INVESTMENT ADVICE" in text
     payload = json.loads(signals_json(s))
-    assert payload["disclaimer"] == DISCLAIMER and len(payload["signals"]) == 14
+    assert payload["disclaimer"] == DISCLAIMER and len(payload["signals"]) == 22

@@ -239,6 +239,38 @@ support with a hard boundary: the project never sizes, recommends, or executes
 trades, every output carries the not-advice disclaimer, and PREDICTIONS.md is
 the public scorecard that keeps the signals honest.
 
+## Products: the model pointed at things people actually buy
+
+A product seed (`data/seed/products/`) is a bill of materials — input
+quantities in the pricebook's own units — plus an anchor cost from public
+intensity figures (BNEF/IEA for batteries, worldsteel for steel, EIA for
+gasoline, USDA farm-share for bread). Three outputs per product:
+
+- **Cost structure at anchors** — copper cable is ~80% metal, an EV battery
+  pack ~27% raw commodities, US gasoline ~52% crude, bread ~5% wheat. The
+  spread between those numbers is most commodity punditry done
+  quantitatively: cable buyers hedge the LME, bakers don't hedge wheat.
+- **Live input-cost pressure** — the BOM repriced at the latest monthlies.
+- **Shock response** — Δproduct% = Σ shareᵢ × ΔPᵢ, composed with everything
+  upstream: a DRC copper outage reaches the battery pack mostly through the
+  **cobalt byproduct channel** (linkage graph → incidence → BOM), which no
+  single-commodity view would show.
+
+Stated everywhere it appears: this is INPUT-COST passthrough with non-input
+costs and margins held fixed — a cost-base model, never a retail price
+prediction. The 14→22 commodity expansion (lead, platinum, uranium, coal,
+corn, soybeans, graphite, manganese) exists partly to make these BOMs
+honest: graphite and manganese have no keyless monthly series (documented
+default vol, like cobalt), and the steel model prices met coal at the
+Newcastle thermal benchmark with the premium named as unmodeled. The
+expanded pool also moves the concentration story: **graphite (China ~76%)
+now outranks cobalt's DRC share as the most concentrated commodity in the
+model**, and platinum (South Africa 72%) joins the chokepoint club.
+
+Scenario composition: `ripple_events` generalizes the linkage propagation to
+multi-event scenarios (Hormuz's multi-country withdrawal aggregates into one
+incidence pass per commodity), so any shipped scenario prices any product.
+
 ## The thesis ledger: the system grades its own calls
 
 PREDICTIONS.md is prose; `data/theses.yaml` is its machine-readable twin,

@@ -1,0 +1,28 @@
+# Seed-estimates from USGS MCS public figures; flagged. Units: t (metric tonnes Pt).
+name: platinum
+unit: t platinum
+source: "USGS Mineral Commodity Summaries (PGM), https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-platinum.pdf (seed-estimate)"
+basis: seed-estimate
+world:
+  production_kt: {2024: 180, 2025: 175}   # field name says kt; unit above governs (t)
+  reserves_kt: 70000                       # PGM-group reserves, overwhelmingly South African
+  production_growth_pct: -0.5
+demand:
+  base_kt: 220
+  base_year: 2024
+  growth_pct: 0.5
+  basis: "gross demand incl. the recycling-supplied share; mine supply alone runs a structural deficit"
+top_producers:
+  - {country: South Africa, production_kt: 126, reserves_kt: 63000}
+  - {country: Russia, production_kt: 22, reserves_kt: 4500}
+  - {country: Zimbabwe, production_kt: 19, reserves_kt: 1200}
+  - {country: Canada, production_kt: 5, reserves_kt: 310}
+  - {country: United States, production_kt: 3, reserves_kt: 900}
+notes: "South Africa ~72% of mine supply — deeper concentration than cobalt's DRC, with chronic Eskom power-curtailment risk. 2025 saw a squeeze toward $1,900/ozt."
+price_note: "~$1,893/ozt Dec 2025 (Pink Sheet); anchor set at a balanced-market $1,300"
+caveats: "Pd/Pt substitution in autocatalysts caps long squeezes (demand elasticity reflects it); production figures in tonnes despite the kt field name."
+drivers:
+  transport: 0.40
+  jewelry_investment: 0.30
+  industrial: 0.25
+  electronics: 0.05

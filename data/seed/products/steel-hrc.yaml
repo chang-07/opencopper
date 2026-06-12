@@ -1,0 +1,10 @@
+name: steel-hrc
+display: "Hot-rolled coil steel (1 t, BOF route)"
+unit: USD/t
+anchor_cost_usd: 550
+source: "worldsteel/EIA standard BOF input intensities (seed-estimate)"
+inputs:
+  - {commodity: iron-ore, qty: 1.6, note: "1.6 t ore per t crude"}
+  - {commodity: coal, qty: 0.78, note: "MET coal in reality — priced at the thermal benchmark, premium unmodeled"}
+  - {commodity: manganese, qty: 0.011, note: "ferroalloy input, ore basis"}
+caveats: "EAF route (scrap + power) not modeled; energy beyond coal sits in the non-input share."

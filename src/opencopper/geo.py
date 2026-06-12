@@ -45,6 +45,10 @@ COUNTRY_CENTROIDS: dict[str, tuple[float, float]] = {
     "Qatar": (25.3, 51.2),
     "France": (47.0, 2.5),
     "Ukraine": (49.0, 32.0),
+    "Namibia": (-22.5, 17.0),           # Rossing/Husab uranium belt
+    "Uzbekistan": (41.5, 64.0),
+    "Gabon": (-1.5, 13.0),              # Moanda manganese
+    "Mozambique": (-13.5, 38.5),        # Balama graphite
 }
 
 

@@ -65,6 +65,14 @@ def _cmd_ripple(args):
 
     rows = ripple(args.commodity, args.country, args.severity)
     print(render_ripple(rows, f"{args.country or 'world'} {args.commodity} -{args.severity:.0%}"))
+    from .products import all_shock_responses
+
+    responses = all_shock_responses({r.commodity: r.price_change_pct for r in rows})
+    if responses:
+        print("\nPRODUCT COST RESPONSE (input-cost passthrough, margins fixed):")
+        for resp in responses:
+            via = ", ".join(f"{c['commodity']} {c['product_change_pct']:+.1f}%" for c in resp["contributions"])
+            print(f"  {resp['product']:<18}{resp['cost_change_pct']:>+7.1f}%   ({via})")
     return 0
 
 
@@ -99,6 +107,45 @@ def _cmd_signals(args: argparse.Namespace) -> int:
 
     signals = build_signals(n_paths=args.paths)
     print(signals_json(signals) if args.json else render_signals(signals))
+    return 0
+
+
+def _cmd_product(args):
+    from .products import (
+        all_shock_responses,
+        breakdown,
+        list_product_names,
+        live_pressure,
+        load_product,
+        render_product,
+        scenario_changes,
+    )
+
+    if args.action == "list":
+        print(f"{'product':<18}{'anchor':>10}  {'input share':>11}  {'live pressure':>13}")
+        print("-" * 58)
+        for name in list_product_names():
+            prod = load_product(name)
+            bd = live_pressure(prod)
+            print(f"{name:<18}{prod.anchor_cost_usd:>10,.2f}  {bd['input_share_pct']:>10.1f}%"
+                  f"  {bd['pressure_pct']:>+12.1f}%")
+        print("\nCost-base passthrough only; see `opencopper product report <name>`.")
+        return 0
+    prod = load_product(args.name)
+    print(render_product(prod, live_pressure(prod)))
+    if args.scenario:
+        from .commodities import load_commodity_scenario
+
+        scenario = load_commodity_scenario(Path(args.scenario))
+        changes = scenario_changes(scenario)
+        resp = next((r for r in all_shock_responses(changes, min_abs_pct=0.0)
+                     if r["product"] == args.name), None)
+        print(f"\nscenario '{scenario.name}' -> {args.name} cost "
+              f"{resp['cost_change_pct']:+.1f}%" if resp else "\nscenario: no input overlap")
+        if resp:
+            for c in resp["contributions"]:
+                print(f"  {c['commodity']:<13} input {c['input_change_pct']:+.0f}% "
+                      f"-> product {c['product_change_pct']:+.2f}%")
     return 0
 
 
@@ -569,6 +616,12 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--json", action="store_true", help="machine-readable, for your own systems")
     p.add_argument("--paths", type=int, default=800)
     p.set_defaults(func=_cmd_signals)
+
+    p = sub.add_parser("product", help="products priced off their commodity bill of materials (cost-base passthrough)")
+    p.add_argument("action", choices=["list", "report"])
+    p.add_argument("name", nargs="?")
+    p.add_argument("--scenario", default=None)
+    p.set_defaults(func=_cmd_product)
 
     p = sub.add_parser("theses", help="scorecard: every registered + news-generated call, marked to market")
     p.add_argument("--json", action="store_true")

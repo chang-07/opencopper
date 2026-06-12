@@ -1,0 +1,8 @@
+name: bread-1kg
+display: "Bread (1 kg retail loaf)"
+unit: USD/kg
+anchor_cost_usd: 4.40
+source: "USDA farm-share-of-retail figures (~5% for bread)"
+inputs:
+  - {commodity: wheat, qty: 0.00095, note: "≈0.95 kg wheat per kg bread"}
+caveats: "The honesty exhibit: even a violent wheat squeeze barely moves retail bread — labor, baking, packaging and retail are ~95% of the price. Commodity headlines about bread are mostly not about wheat."

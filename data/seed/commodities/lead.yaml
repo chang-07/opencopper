@@ -1,0 +1,29 @@
+# Seed-estimates from USGS MCS public figures; flagged. Units: kt contained Pb (mine).
+name: lead
+unit: kt contained lead
+source: "USGS Mineral Commodity Summaries (lead), https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lead.pdf (seed-estimate)"
+basis: seed-estimate
+world:
+  production_kt: {2024: 4500, 2025: 4400}
+  reserves_kt: 90000
+  production_growth_pct: 0.5
+demand:
+  base_kt: 13200
+  base_year: 2024
+  growth_pct: 0.5
+  basis: "refined consumption proxy — ~2/3 of refined lead is SECONDARY (recycled batteries), so mine supply is a minority of the market"
+top_producers:
+  - {country: China, production_kt: 1900, reserves_kt: 17000}
+  - {country: Australia, production_kt: 460, reserves_kt: 33000}
+  - {country: United States, production_kt: 290, reserves_kt: 4600}
+  - {country: Mexico, production_kt: 260, reserves_kt: 5300}
+  - {country: Peru, production_kt: 240, reserves_kt: 6100}
+  - {country: Russia, production_kt: 220, reserves_kt: 4000}
+  - {country: India, production_kt: 210, reserves_kt: 2500}
+notes: "~85% of demand is lead-acid batteries (SLI, industrial, e-bikes). The huge secondary share cushions mine shocks — modeled via the relatively high supply elasticity."
+price_note: "LME ~$1,980/t May 2026 (FRED PLEADUSDM)"
+caveats: "Mine-basis production vs refined-basis demand (secondary closes the gap); drift-only like the rest of the country tier."
+drivers:
+  batteries: 0.85
+  construction: 0.07
+  industrial: 0.08

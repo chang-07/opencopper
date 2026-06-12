@@ -1,0 +1,8 @@
+name: urea
+display: "Urea fertilizer (1 t)"
+unit: USD/t
+anchor_cost_usd: 350
+source: "IFA/EIA gas-based ammonia cost structure (seed-estimate)"
+inputs:
+  - {commodity: natural-gas, qty: 25, note: "MMBtu per t urea (gas-based route, 22-32 range)"}
+caveats: "Gas is feedstock AND fuel for Haber-Bosch; coal-route Chinese urea has a different cost base. The gas→fertilizer→food chain is the input_cost linkage made concrete."

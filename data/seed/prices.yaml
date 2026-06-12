@@ -147,3 +147,75 @@ commodities:
     elasticity_supply_range: [0.08, 0.30]
     elasticity_demand_range: [0.05, 0.20]
     note: "export concentration (Black Sea) >> production concentration"
+
+  lead:
+    anchor_usd: 2100
+    unit: USD/t
+    fred_series: PLEADUSDM
+    futures: {exchange: LME, symbol: PB, contract: "25 t"}
+    elasticity_supply: 0.25  # secondary (recycled battery) supply flexes with price
+    elasticity_demand: 0.15
+    elasticity_supply_range: [0.15, 0.40]
+    elasticity_demand_range: [0.08, 0.25]
+    note: "mine basis; ~2/3 of refined supply is secondary"
+  platinum:
+    anchor_usd: 1300
+    unit: USD/ozt
+    futures: {exchange: NYMEX, symbol: PL, contract: "50 ozt"}
+    elasticity_supply: 0.10  # deep SA mines, co-product economics
+    elasticity_demand: 0.25  # Pd substitution in autocats
+    elasticity_supply_range: [0.05, 0.20]
+    elasticity_demand_range: [0.15, 0.40]
+    note: "Pink Sheet monthly; 2025 squeezed to ~$1,900"
+  uranium:
+    anchor_usd: 80
+    unit: USD/lb
+    fred_series: PURANUSDM
+    futures: {exchange: CME, symbol: UX, contract: "250 lb U3O8 (UxC)"}
+    elasticity_supply: 0.10
+    elasticity_demand: 0.05  # fuel ~5% of nuclear opex; utilities barely see price
+    elasticity_supply_range: [0.05, 0.20]
+    elasticity_demand_range: [0.02, 0.10]
+    note: "term-contract anchor; spot trades through it both ways"
+  coal:
+    anchor_usd: 120
+    unit: USD/t
+    fred_series: PCOALAUUSDM
+    futures: {exchange: ICE, symbol: NCF, contract: "1,000 t Newcastle"}
+    elasticity_supply: 0.30
+    elasticity_demand: 0.15
+    elasticity_supply_range: [0.15, 0.50]
+    elasticity_demand_range: [0.08, 0.30]
+    note: "Newcastle thermal benchmark; met coal premium not modeled"
+  corn:
+    anchor_usd: 200
+    unit: USD/t
+    fred_series: PMAIZMTUSDM
+    futures: {exchange: CBOT, symbol: ZC, contract: "5,000 bu"}
+    elasticity_supply: 0.25  # next planting season responds
+    elasticity_demand: 0.10
+    elasticity_supply_range: [0.10, 0.40]
+    elasticity_demand_range: [0.05, 0.20]
+    note: "US Gulf basis"
+  soybeans:
+    anchor_usd: 420
+    unit: USD/t
+    fred_series: PSOYBUSDM
+    futures: {exchange: CBOT, symbol: ZS, contract: "5,000 bu"}
+    elasticity_supply: 0.25
+    elasticity_demand: 0.15  # crush margins flex; palm/canola substitution
+    elasticity_supply_range: [0.10, 0.40]
+    elasticity_demand_range: [0.08, 0.25]
+    note: "US Gulf basis; Brazil sets the marginal tonne"
+  graphite:
+    anchor_usd: 700
+    unit: USD/t
+    elasticity_supply: 0.15
+    elasticity_demand: 0.20  # synthetic-graphite substitution caps squeezes
+    note: "flake fob China; battery-grade spherical trades far higher; no keyless monthly series"
+  manganese:
+    anchor_usd: 230
+    unit: USD/t
+    elasticity_supply: 0.25
+    elasticity_demand: 0.10  # no steelmaking substitute at any price
+    note: "44% ore basis (~$5.2/dmtu); no keyless monthly series"

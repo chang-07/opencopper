@@ -13,7 +13,7 @@ from opencopper.pricing import (
 
 def test_pricebook_loads_all_commodities_with_elasticities():
     book = load_pricebook()
-    assert len(book.commodities) == 14
+    assert len(book.commodities) == 22
     for name, p in book.commodities.items():
         assert p.anchor_usd > 0
         assert 0 < p.elasticity_supply < 1

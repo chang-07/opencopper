@@ -25,6 +25,7 @@ XLSX_CACHE = CACHE_DIR / "pinksheet-monthly.xlsx"
 PINKSHEET_SERIES: dict[str, str] = {
     "silver": "Silver",
     "crude-oil": "Crude oil, Brent",
+    "platinum": "Platinum",
 }
 
 

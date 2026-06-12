@@ -1,0 +1,28 @@
+# Seed-estimates from EIA/IEA public figures; flagged. Units: Mt (thermal+met, all grades).
+name: coal
+unit: Mt coal
+source: "EIA International Energy Statistics / IEA Coal Report public figures (seed-estimate)"
+basis: seed-estimate
+world:
+  production_kt: {2024: 8990, 2025: 9100}   # field name says kt; unit above governs (Mt)
+  reserves_kt: 1070000
+  production_growth_pct: 0.5
+demand:
+  base_kt: 8900
+  base_year: 2024
+  growth_pct: 0.0
+  basis: "world consumption, power + steel + cement"
+top_producers:
+  - {country: China, production_kt: 4760, reserves_kt: 143000}
+  - {country: India, production_kt: 1080, reserves_kt: 111000}
+  - {country: Indonesia, production_kt: 830, reserves_kt: 35000}
+  - {country: United States, production_kt: 510, reserves_kt: 250000}
+  - {country: Australia, production_kt: 470, reserves_kt: 150000}
+  - {country: Russia, production_kt: 430, reserves_kt: 162000}
+notes: "China produces and burns half the world's coal largely domestically — the SEABORNE market (Indonesia thermal, Australia met) is what the price series trades. Met coal carries a premium over the Newcastle thermal benchmark used here."
+price_note: "Newcastle thermal ~$141/t May 2026 (FRED PCOALAUUSDM); anchor $120"
+caveats: "One commodity for thermal+met is a simplification; the steel product model notes the met premium it ignores."
+drivers:
+  grid: 0.65
+  construction: 0.20
+  industrial: 0.15

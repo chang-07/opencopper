@@ -9,6 +9,8 @@ feeds:
   - "OPEC production cut OR strait of hormuz"
   - "cobalt OR nickel export ban OR quota"
   - "wheat export black sea"
+  - "uranium kazakhstan OR platinum south africa mine"
+  - "china graphite export restriction"
 rules:
   - {match: ["grasberg"], commodity: copper, country: Indonesia, severity: 0.30, note: "Grasberg incident"}
   - {match: ["escondida", "strike|halt|stoppage"], commodity: copper, country: Chile, severity: 0.10}
@@ -21,4 +23,8 @@ rules:
   - {match: ["opec", "cut|cuts|curb"], commodity: crude-oil, country: Saudi Arabia, severity: 0.08}
   - {match: ["russia|ukraine", "wheat|grain", "export|blockade|strike"], commodity: wheat, country: Russia, severity: 0.15}
   - {match: ["myanmar|wa state", "tin"], commodity: tin, country: "Burma (Myanmar)", severity: 0.30}
+  - {match: ["kazatomprom|kazakhstan", "uranium"], commodity: uranium, country: Kazakhstan, severity: 0.15}
+  - {match: ["south africa|eskom|amplats|implats|sibanye", "platinum|pgm", "outage|curtail|strike|cut"], commodity: platinum, country: South Africa, severity: 0.15}
+  - {match: ["china", "graphite", "export|licen|restrict|ban"], commodity: graphite, country: China, severity: 0.30, note: "Dec-2023 licensing regime precedent"}
+  - {match: ["groote|gemco", "manganese|cyclone"], commodity: manganese, country: Australia, severity: 0.20, note: "Groote Eylandt 2024 precedent"}
 max_age_days: 14

@@ -1,0 +1,25 @@
+# Seed-estimates from USGS MCS public figures; flagged. Units: kt natural graphite.
+name: graphite
+unit: kt natural graphite
+source: "USGS Mineral Commodity Summaries (graphite), https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf (seed-estimate)"
+basis: seed-estimate
+world:
+  production_kt: {2024: 1600, 2025: 1650}
+  reserves_kt: 290000
+  production_growth_pct: 4.0
+demand:
+  base_kt: 1700
+  base_year: 2024
+  growth_pct: 5.0
+  basis: "natural graphite only; SYNTHETIC graphite (~2,000 kt, oil-coke based) competes for the anode market and caps squeezes"
+top_producers:
+  - {country: China, production_kt: 1250, reserves_kt: 81000}
+  - {country: Madagascar, production_kt: 110, reserves_kt: 26000}
+  - {country: Mozambique, production_kt: 95, reserves_kt: 25000}
+  - {country: Brazil, production_kt: 76, reserves_kt: 74000}
+notes: "China ~78% of natural supply AND ~95% of spherical (battery-grade) processing — its Dec-2023 export licensing regime is the live policy risk. Every EV battery anode is ~70 kg of graphite."
+price_note: "flake ~$700/t fob China (battery-grade spherical trades far higher); no keyless monthly series — default ambient vol"
+caveats: "Anchor is flake, not battery-grade; synthetic substitution dampens incidence beyond what the elasticities say."
+drivers:
+  batteries: 0.35
+  industrial: 0.65

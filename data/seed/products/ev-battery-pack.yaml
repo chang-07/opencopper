@@ -1,0 +1,15 @@
+# Bill of materials from public BNEF/IEA intensity figures (seed-estimates).
+# Quantities are in the SAME unit the pricebook prices (tonnes here).
+name: ev-battery-pack
+display: "EV battery pack (75 kWh, NMC811)"
+unit: USD/pack
+anchor_cost_usd: 8600       # ~115 USD/kWh pack-level, 2025 BNEF-style average
+source: "BNEF battery price survey + IEA critical-minerals intensity figures (seed-estimate)"
+inputs:
+  - {commodity: lithium, qty: 0.054, note: "54 kg LCE (0.72 kg/kWh)"}
+  - {commodity: nickel, qty: 0.047, note: "NMC811 cathode"}
+  - {commodity: cobalt, qty: 0.006}
+  - {commodity: graphite, qty: 0.070, note: "anode; flake price, spherical premium unmodeled"}
+  - {commodity: copper, qty: 0.060, note: "foil + busbars + pack wiring"}
+  - {commodity: aluminum, qty: 0.040, note: "casing + cathode foil"}
+caveats: "Cell manufacturing, electrolyte, separator, labor and margin sit in the non-input share; chemistry mix shifts (LFP has no Ni/Co) move these weights."

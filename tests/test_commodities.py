@@ -17,7 +17,7 @@ ALL = list_commodity_names()
 
 
 def test_all_seeds_load_with_sources():
-    assert len(ALL) == 14
+    assert len(ALL) == 22
     for name in ALL:
         seed = load_commodity(name)
         assert any(k in seed.source for k in ("usgs.gov", "EIA", "USDA"))

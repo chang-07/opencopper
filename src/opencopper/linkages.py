@@ -41,6 +41,14 @@ def load_linkages() -> list[dict]:
 
 def ripple(commodity: str, country: str | None, severity: float) -> list[RippleRow]:
     """First-order cross-commodity impacts of a country supply shock."""
+    return ripple_events(commodity, [(country, severity)])
+
+
+def ripple_events(commodity: str, events: list[tuple[str | None, float]]) -> list[RippleRow]:
+    """Multi-event generalization: aggregate per-commodity supply withdrawal
+    across (country, severity) events, then price once — so a multi-country
+    scenario (Hormuz, a quota plus a strike) rides the same machinery as a
+    single shock. ripple(c, country, s) == ripple_events(c, [(country, s)])."""
     from .commodities import load_commodity
 
     book = load_pricebook()
@@ -48,31 +56,33 @@ def ripple(commodity: str, country: str | None, severity: float) -> list[RippleR
     rows: list[RippleRow] = []
 
     seed = load_commodity(commodity)
-    k_direct = (seed.share(country) if country else 1.0) * severity
+    k_direct = sum((seed.share(c) if c else 1.0) * s for c, s in events)
+    via = events[0][0] or "world" if len(events) == 1 else f"{len(events)} events"
     direct = price_impact_from_shock(book.commodities[commodity], k_direct)
-    rows.append(RippleRow(commodity, "direct", country or "world", k_direct, 0.0,
+    rows.append(RippleRow(commodity, "direct", via, k_direct, 0.0,
                           direct.price_change_pct, direct.clamped,
                           impact_range(book.commodities[commodity], k_direct)))
 
     # byproduct: dependent loses supply where it co-occurs with the host
     for ln in links:
         if ln["type"] == "byproduct" and ln["host"] == commodity:
-            if ln.get("host_country") and country and ln["host_country"] != country:
-                continue
             dep = load_commodity(ln["dependent"])
-            dep_country_share = 0.0
-            if country:
-                try:
-                    dep_country_share = dep.share(country)
-                except KeyError:
+            k_dep = 0.0
+            for country, severity in events:
+                if ln.get("host_country") and country and ln["host_country"] != country:
                     continue
-            else:
-                dep_country_share = 1.0
-            k_dep = ln["coupling"] * severity * dep_country_share
+                if country:
+                    try:
+                        dep_share = dep.share(country)
+                    except KeyError:
+                        continue
+                else:
+                    dep_share = 1.0
+                k_dep += ln["coupling"] * severity * dep_share
             if k_dep <= 0.001:
                 continue
             impact = price_impact_from_shock(book.commodities[ln["dependent"]], k_dep)
-            rows.append(RippleRow(ln["dependent"], "byproduct", f"{commodity}@{country or 'world'}",
+            rows.append(RippleRow(ln["dependent"], "byproduct", f"{commodity}@{via}",
                                   k_dep, 0.0, impact.price_change_pct, impact.clamped,
                                   impact_range(book.commodities[ln["dependent"]], k_dep)))
 
