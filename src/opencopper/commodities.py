@@ -73,6 +73,7 @@ class CommoditySeed(BaseModel):
     demand: CommodityDemand
     top_producers: list[Producer]
     drivers: dict[str, float] = Field(default_factory=dict)  # demand share per global driver
+    structural_deficit: bool = False  # mine supply < demand by DESIGN (uranium, platinum) — not a basis mismatch
     byproduct_of: list[str] = Field(default_factory=list)  # host metals, when supply is byproduct
     notes: str = ""
     price_note: str = ""
@@ -365,6 +366,34 @@ def render_commodity_report(seed: CommoditySeed, run: CommodityRun) -> str:
         )
     if seed.byproduct_of:
         lines += ["", f"BYPRODUCT of {', '.join(seed.byproduct_of)} — supply follows the host, not this price."]
+
+    # structural mine-supply deficit: demand above mine output means stocks
+    # and secondary supply clear the market — shocks then hit the MARGINAL
+    # inventory tonne, so incidence likely UNDERSTATES the move
+    demand_now = seed.demand.base_kt * (1 + seed.demand.growth_pct / 100) ** (
+        seed.world.latest_year - seed.demand.base_year)
+    if seed.structural_deficit and demand_now > world_latest * 1.03:
+        cover = world_latest / demand_now
+        lines += ["", f"STRUCTURAL GAP: mine supply covers {cover:.0%} of demand "
+                  f"({world_latest:,.0f} vs {demand_now:,.0f} kt) — inventories/secondary fill "
+                  "the rest; supply shocks hit the marginal stockpile tonne, so the "
+                  "incidence numbers above are a FLOOR for this one."]
+
+    # agricultural state variable: ending stocks over use (the WASDE lens)
+    if "ending stocks" in (seed.world and str(seed.__dict__) or "") or        (seed.name in ("wheat", "corn", "soybeans") and seed.world.reserves_kt):
+        su = seed.world.reserves_kt / demand_now
+        lines += ["", f"STOCKS-TO-USE: {su:.0%} (ending stocks / use — the ag market's "
+                  "inventory-cover analogue; squeezes start when this runs below ~15-20%). "
+                  "Annual crops: weather IS the disruption distribution, and harvest "
+                  "seasonality leaks into monthly regimes — read ag regimes with that caveat."]
+
+    # gold: the rate model replaces "excluded" with the correct mechanism
+    if seed.name == "gold":
+        from .gold import gold_rate_model, render_gold_model
+
+        m = gold_rate_model()
+        if m:
+            lines += ["", render_gold_model(m)]
     if seed.notes:
         lines += ["", f"notes: {seed.notes}"]
     return "\n".join(lines)

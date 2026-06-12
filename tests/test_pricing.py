@@ -76,7 +76,9 @@ def test_ambient_volatility_realized_or_default():
     vol, src = ambient_volatility("copper")
     assert 0.15 < vol < 0.35 and "realized" in src
     vol2, src2 = ambient_volatility("cobalt")
-    assert vol2 == DEFAULT_AMBIENT_VOL and "default" in src2
+    assert vol2 == 0.45 and "seeded" in src2   # per-commodity basis replaced the blanket default
+    vol3, src3 = ambient_volatility("no-such-commodity")
+    assert vol3 == DEFAULT_AMBIENT_VOL and "default" in src3
 
 
 def test_prob_price_multiple_sanity():

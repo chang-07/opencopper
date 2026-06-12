@@ -3,6 +3,7 @@ name: uranium
 unit: kt uranium
 source: "EIA / World Nuclear Association public figures, https://world-nuclear.org/information-library (seed-estimate)"
 basis: seed-estimate
+structural_deficit: true   # mine supply persistently below demand; secondary/inventory clears
 world:
   production_kt: {2024: 60, 2025: 62}
   reserves_kt: 8070      # identified recoverable resources <$260/kgU (WNA), not USGS reserves

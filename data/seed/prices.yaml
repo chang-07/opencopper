@@ -85,6 +85,7 @@ commodities:
     anchor_usd: 100
     unit: USD/t (62% Fe CIF)
     fred_series: PIORECRUSDM
+    series_start: "2010-01-01"  # pre-2010 = annual benchmark contracts (step function); spot era only
     elasticity_supply: 0.20
     elasticity_demand: 0.20
     elasticity_supply_range: [0.10, 0.59]  # lit point 0.589
@@ -96,6 +97,7 @@ commodities:
     fred_series: null         # no keyless FRED series
     elasticity_supply: 0.05   # byproduct of Cu/Ni -> cannot flex to cobalt price
     elasticity_demand: 0.15   # LFP chemistry substitution, but slow
+    ambient_vol: 0.45   # USGS unit-value swings (2016-18 x3, 2019 crash, 2022 spike, 2025 quota)
     # lit supply range is 0.21-1.0 (Gupta & Gupta 1983 era, when primary cobalt
     # mines existed); today ~98% is byproduct, so we keep the low point and let
     # the range top record the disagreement
@@ -109,6 +111,7 @@ commodities:
     fred_series: null
     elasticity_supply: 0.25   # brine + spodumene can ramp on a 1-2yr lag
     elasticity_demand: 0.30
+    ambient_vol: 0.55   # 2021-23 carbonate boom/bust (~6k -> 70k -> 9k USD/t) dwarfs the old default
     note: "price is per tonne LCE; the seed quantities are contained-Li METAL (x~5.32 for LCE)"
   rare-earths:
     futures: {exchange: null, symbol: null, contract: "no liquid futures; offtake/equity proxies"}
@@ -117,6 +120,7 @@ commodities:
     fred_series: null
     elasticity_supply: 0.10
     elasticity_demand: 0.15   # magnets have few substitutes
+    ambient_vol: 0.35   # NdPr oxide swings (2011 spike, 2021-22 run, 2023-24 fade)
     note: "REE is not one price; NdPr carries the value while La/Ce are ~$1-2/kg. Processing chokepoint not priced here."
   silver:
     futures: {exchange: COMEX, symbol: SI, contract: "5,000 oz"}
@@ -132,7 +136,8 @@ commodities:
     futures: {exchange: COMEX, symbol: GC, contract: "100 oz"}
     anchor_usd: 3000          # USD/troy oz (2024 avg ~$2,388; 2025e ~$3,300)
     unit: USD/troy oz
-    fred_series: null
+    fred_series: IQ12260      # BLS nonmonetary-gold export price INDEX (history only)
+    series_is_index: true     # level is an index, never comparable to the USD/oz anchor
     elasticity_supply: 0.05
     elasticity_demand: 2.0    # "demand" is price-elastic monetary/investment flow
     excluded_from_shock_pricing: true
@@ -142,7 +147,7 @@ commodities:
     futures: {exchange: NYMEX/ICE, symbol: CL/BZ, contract: "1,000 bbl"}
     anchor_usd: 80           # USD/bbl Brent, balanced band
     unit: USD/bbl (Brent)
-    fred_series: null        # priced via Pink Sheet (Crude oil, Brent)
+    fred_series: POILBREUSDM # IMF Brent monthly (current); Pink Sheet kept as fallback
     elasticity_supply: 0.10  # OPEC+ spare capacity; Caldara et al. (2019) global supply ~0.1
     elasticity_demand: 0.10  # famously inelastic short-run
     elasticity_supply_range: [0.01, 0.29]  # lit 0.0-0.289
@@ -150,7 +155,7 @@ commodities:
     note: "transit (Hormuz ~20 Mb/d) is the real chokepoint, modeled as multi-country scenarios"
   natural-gas:
     futures: {exchange: NYMEX, symbol: NG, contract: "10,000 MMBtu"}
-    anchor_usd: 3.5          # USD/MMBtu Henry Hub
+    anchor_usd: 3.5          # USD/MMBtu Henry Hub — US basis; EU TTF (FRED PNGASEUUSDM, ~$16) is a different market post-2021; shocks here read US
     unit: USD/MMBtu (Henry Hub)
     fred_series: PNGASUSUSDM
     elasticity_supply: 0.30  # US shale flexes within quarters
@@ -233,12 +238,14 @@ commodities:
     unit: USD/t
     elasticity_supply: 0.15
     elasticity_demand: 0.20  # synthetic-graphite substitution caps squeezes
+    ambient_vol: 0.20   # flake prices are sticky; the action is in the spherical premium
     note: "flake fob China; battery-grade spherical trades far higher; no keyless monthly series"
   manganese:
     anchor_usd: 230
     unit: USD/t
     elasticity_supply: 0.45  # raised toward the lit (>1.0): many swing mines, fast restarts
     elasticity_demand: 0.10  # lit point -0.1 exactly; no steelmaking substitute at any price
+    ambient_vol: 0.25   # ore benchmarks move in steps (Groote 2024 spike +60% then round-trip)
     elasticity_supply_range: [0.25, 1.00]
     elasticity_demand_range: [0.05, 0.20]
     note: "44% ore basis (~$5.2/dmtu); no keyless monthly series"

@@ -46,6 +46,15 @@ class CommodityPrice(BaseModel):
     # incidence outputs carry an uncertainty band instead of a bare point
     elasticity_supply_range: Optional[tuple[float, float]] = None
     elasticity_demand_range: Optional[tuple[float, float]] = None
+    # per-commodity history controls: truncate a series at the date its
+    # price discovery actually began (iron-ore's annual-benchmark era is a
+    # step function, not a market), and mark index-basis series whose level
+    # cannot be compared to the USD anchor (gold's BLS export index)
+    series_start: Optional[str] = None
+    series_is_index: bool = False
+    # seeded ambient vol for no-series commodities — replaces the blanket
+    # default with a per-commodity number and its basis in the comment
+    ambient_vol: Optional[float] = None
     excluded_from_shock_pricing: bool = False
     note: str = ""
 

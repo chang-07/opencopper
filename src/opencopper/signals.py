@@ -65,6 +65,8 @@ def build_signals(n_paths: int = 800) -> list[Signal]:
         if live is None and hist:  # Pink Sheet fallback (silver) — date shows staleness
             live_date, live = hist.months[-1]
             live = round(live, 2)
+        if p.series_is_index:
+            live = live_date = None  # an index level is not a price quote
         vol, _ = ambient_volatility(name)
 
         # state-conditional evidence: vol of the current regime, and what 12m
@@ -97,7 +99,8 @@ def build_signals(n_paths: int = 800) -> list[Signal]:
                 live=live,
                 live_date=live_date,
                 anchor=p.anchor_usd,
-                gap_vs_anchor_pct=round(100 * (live / p.anchor_usd - 1), 1) if live else None,
+                gap_vs_anchor_pct=(round(100 * (live / p.anchor_usd - 1), 1)
+                                   if live and not p.series_is_index else None),
                 regime=hist.regime_now.value if hist else None,
                 ambient_vol_pct=round(100 * vol, 1),
                 regime_vol_pct=regime_vol,

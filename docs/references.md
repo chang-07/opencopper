@@ -79,6 +79,14 @@ literature's value — disagreement is data, not embarrassment.
 - **Hotelling (1931)**. Exhaustible-resource depletion. → the reserves
   depletion layer on cited mine reserves.
 
+## Gold
+
+- **Barsky & Summers (1988)**, "Gibson's Paradox and the Gold Standard",
+  *JPE*; **Erb & Harvey (2013)**, "The Golden Dilemma", *FAJ*. Gold prices
+  move inversely with long real yields; flow shocks are the wrong frame. →
+  `gold.py`: −2.7%/100bp on 424 months of keyless data (BLS IQ12260 ×
+  Cleveland Fed real rate), R² honestly ~2%, shown wherever gold appears.
+
 ## Pass-through (products layer)
 
 - **Nakamura & Zerom (2010)**, "Accounting for Incomplete Pass-Through",

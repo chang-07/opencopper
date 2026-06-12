@@ -460,6 +460,43 @@ returns are fatter-tailed than normal, and FRED/IMF monthly *averages*
 smooth intramonth swings. Positions without a price series are excluded and
 say so. Risk measurement of a declared book — never sizing, never advice.
 
+## The per-commodity register: every name, its mechanism, its weakest link
+
+"All models are wrong" is only useful if you can say HOW each one is wrong.
+Per commodity — mechanism / price series / vol basis / the known limit:
+
+| commodity | series (freshness) | vol basis | weakest link, and the fix |
+|---|---|---|---|
+| copper | FRED PCOPPUSDM | realized 22% | none of the tier's — it has the full engine |
+| nickel | FRED PNICKUSDM | realized | NPI ramp speed sits in the elasticity hi-range |
+| aluminum | FRED PALUMUSDM | realized | power-cost channel only via gas linkage |
+| zinc | FRED PZINCUSDM | realized | TC cycle unmodeled |
+| tin | FRED PTINUSDM | realized | Wa-state opacity → wide severity priors |
+| iron-ore | FRED, **2010+ only** | realized 24% | pre-2010 was annual benchmark steps, now excluded |
+| lead | FRED PLEADUSDM | realized | 2/3 of supply is secondary; mine shocks muted by design |
+| coal | FRED PCOALAUUSDM | realized | thermal/met conflation, named where it bites (steel) |
+| crude-oil | **FRED POILBREUSDM** (was 6-mo-stale Pink Sheet) | realized | joint-product refining hides crack swings |
+| natural-gas | FRED PNGASUSUSDM | realized | US basis ≠ TTF (~$16 vs ~$3); shocks read US |
+| wheat/corn/soybeans | FRED | realized | harvest seasonality leaks into regimes; stocks-to-use now on the report |
+| uranium | FRED PURANUSDM | realized | **structural deficit flagged**: mine supply ~90% of use — incidence is a floor |
+| platinum | Pink Sheet (lags) | realized | same structural-deficit flag; Eskom risk in priors |
+| silver | Pink Sheet (lags) | realized | investment-flow demand elasticity is judgment; range records the lit |
+| gold | **BLS index IQ12260** (history only) | realized 14% | excluded from incidence — **real-rate model instead** (−2.7%/100bp, NW t −2.4) |
+| cobalt | none | **seeded 45%** (USGS unit-value swings) | no keyless monthly series exists; theses untrackable |
+| lithium | none | **seeded 55%** (2021-23 boom/bust) | LCE vs metal basis; contract vs spot opaque |
+| rare-earths | none | **seeded 35%** | NdPr ≠ basket; processing chokepoint unpriced |
+| graphite | none | **seeded 20%** | flake ≠ battery-grade spherical premium |
+| manganese | none | **seeded 25%** | ore-grade benchmarks step; ferroalloy conversion unmodeled |
+
+Bolded items are this pass's fixes: a fresh Brent series (the stale Pink
+Sheet was hiding a 68% rally — the Hormuz auto-thesis resolved HIT the day
+the series switched), the iron-ore truncation, per-name seeded vols
+replacing one blanket default, gold's literature mechanism, and explicit
+structural-deficit flags (a seed-level judgment, deliberately NOT an
+arithmetic trigger — copper's mine-vs-refined basis gap is scrap, not
+structure, and the first draft of this feature got that wrong until a test
+caught it).
+
 ## Cross-commodity linkages: shocks don't stop at one market
 
 `data/seed/linkages.yaml` is a small typed graph; `opencopper ripple` (and

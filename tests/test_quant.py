@@ -405,8 +405,8 @@ def test_conditional_volatility_falls_back_gracefully():
 
     vol, src = conditional_volatility("copper")
     assert 0.05 < vol < 1.0 and "conditional" in src
-    vol2, src2 = conditional_volatility("cobalt")  # no series
-    assert "default" in src2
+    vol2, src2 = conditional_volatility("cobalt")  # no series -> seeded per-name vol
+    assert vol2 == 0.45 and "seeded" in src2
 
 
 # ---------------------------------------------------------------- benchmark
@@ -455,3 +455,64 @@ def test_benchmark_real_data_is_honest():
     # the wins must land on the strong reverters, not everywhere
     assert sum(1 for s in skills.values() if s > 0) < len(skills)
     assert all(-0.6 < s < 0.3 for s in skills.values())
+
+
+# ------------------------------------------------- per-commodity methodology
+
+
+def test_iron_ore_truncated_to_spot_era():
+    from opencopper.history import load_price_history
+
+    h = load_price_history("iron-ore")
+    if not h:
+        pytest.skip("no cache")
+    assert h.start >= "2010-01-01"  # annual-benchmark era excluded
+    assert h.annual_volatility < 0.30  # contract-era steps no longer inflate vol
+
+
+def test_crude_rides_fresh_imf_brent():
+    from opencopper.history import load_price_history
+
+    h = load_price_history("crude-oil")
+    if not h:
+        pytest.skip("no cache")
+    assert h.series == "POILBREUSDM"
+    assert h.end >= "2026-01-01"  # no longer six months of Pink Sheet lag
+
+
+def test_gold_index_history_but_no_price_quote():
+    from opencopper.history import load_price_history
+    from opencopper.pricing import load_pricebook
+
+    p = load_pricebook().commodities["gold"]
+    assert p.series_is_index
+    h = load_price_history("gold")
+    if h:
+        assert len(h.months) > 300  # history for vol/regimes...
+    # ...while the desk never quotes an index level as a price (covered in
+    # signals: live/gap suppressed when series_is_index)
+
+
+def test_gold_rate_model_matches_the_literature_sign():
+    from opencopper.gold import gold_rate_model
+
+    m = gold_rate_model()
+    if m is None:
+        pytest.skip("no rate/gold caches")
+    assert m.beta_per_100bp < 0          # gold falls when real yields rise
+    assert m.t_stat < -1.5               # and it is not noise
+    assert 0 < m.r2 < 0.2                # honest: monthly noise dominates
+    assert m.n_months > 300
+
+
+def test_report_surfaces_structural_gap_and_stocks_to_use():
+    from opencopper.commodities import load_commodity, render_commodity_report, run_commodity
+
+    u = load_commodity("uranium")
+    text = render_commodity_report(u, run_commodity(u))
+    assert "STRUCTURAL GAP" in text and "FLOOR" in text
+    w = load_commodity("wheat")
+    text_w = render_commodity_report(w, run_commodity(w))
+    assert "STOCKS-TO-USE" in text_w and "seasonality" in text_w
+    cu = load_commodity("copper")
+    assert "STRUCTURAL GAP" not in render_commodity_report(cu, run_commodity(cu))

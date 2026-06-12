@@ -140,6 +140,8 @@ def load_price_history(commodity: str) -> Optional[PriceHistory]:
                 series = f"PinkSheet:{PINKSHEET_SERIES[commodity]}"
             except Exception:
                 return None
+    if price.series_start:
+        months = [(d, v) for d, v in months if d >= price.series_start]
     if len(months) < TREND_WINDOW:
         return None
     annual_avg = _annual_average(months)
@@ -192,10 +194,14 @@ DEFAULT_AMBIENT_VOL = 0.30
 
 
 def ambient_volatility(commodity: str) -> tuple[float, str]:
-    """Realized annual vol from history, or the documented default."""
+    """Realized annual vol from history; else the commodity's SEEDED vol
+    (per-name, with its basis in prices.yaml); else the documented default."""
     h = load_price_history(commodity)
     if h:
         return h.annual_volatility, f"realized {h.start[:4]}-{h.end[:4]} ({h.series})"
+    seeded = load_pricebook().commodities.get(commodity)
+    if seeded and seeded.ambient_vol:
+        return seeded.ambient_vol, "seeded per-commodity (basis in prices.yaml)"
     return DEFAULT_AMBIENT_VOL, "no price series; documented default"
 
 

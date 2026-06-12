@@ -3,6 +3,7 @@ name: platinum
 unit: t platinum
 source: "USGS Mineral Commodity Summaries (PGM), https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-platinum.pdf (seed-estimate)"
 basis: seed-estimate
+structural_deficit: true   # mine supply persistently below demand; secondary/inventory clears
 world:
   production_kt: {2024: 180, 2025: 175}   # field name says kt; unit above governs (t)
   reserves_kt: 70000                       # PGM-group reserves, overwhelmingly South African
