@@ -159,6 +159,13 @@ def _cmd_theses(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_benchmark(args):
+    from .benchmark import benchmark_all, render_benchmark
+
+    print(render_benchmark(benchmark_all(horizon=args.horizon), args.horizon))
+    return 0
+
+
 def _cmd_data(args: argparse.Namespace) -> int:
     from .datastore import check, refresh, render_check, render_status, status
 
@@ -656,6 +663,10 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("theses", help="scorecard: every registered + news-generated call, marked to market")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=_cmd_theses)
+
+    p = sub.add_parser("benchmark", help="walk-forward forecast benchmark vs random-walk and anchor baselines (Diebold-Mariano)")
+    p.add_argument("--horizon", type=int, default=12)
+    p.set_defaults(func=_cmd_benchmark)
 
     p = sub.add_parser("data", help="one view over every cache: freshness, rows, latest date; force refresh")
     p.add_argument("action", choices=["status", "refresh", "check"], nargs="?", default="status")

@@ -91,6 +91,15 @@ literature's value — disagreement is data, not embarrassment.
   pass-through within weeks, faster up than down ("rockets and feathers").
   → gasoline's `retail_passthrough` (share 1.0, ~2 months, asymmetry noted).
 
+## Forecast evaluation
+
+- **Meese & Rogoff (1983)**, "Empirical Exchange Rate Models of the
+  Seventies", *J. Int. Economics*. Structural models rarely beat the random
+  walk out of sample. → the design and the expected result of
+  `opencopper benchmark`.
+- **Diebold & Mariano (1995)**, "Comparing Predictive Accuracy", *JBES*. →
+  the DM test on squared-error differentials (NW variance, lag h−1).
+
 ## Inference
 
 - **Künsch (1989)**, "The Jackknife and the Bootstrap for General Stationary

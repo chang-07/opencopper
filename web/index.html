@@ -33,7 +33,7 @@
     padding: 4px 12px; font-size: 12.5px; color: var(--muted); }
   .tick b { color: var(--text); font-size: 12.5px; }
   .tick .up { color: var(--red); } .tick .dn { color: #5b8fb9; }
-  .catalysts { display: flex; gap: 10px; flex-wrap: wrap; margin: 14px 0 6px; }
+  .catalysts { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0 2px; align-items: baseline; font-size: 13px; }
   .catalyst { background: var(--panel); border: 1px solid var(--border); border-left: 3px solid var(--copper);
     border-radius: 8px; padding: 10px 14px; font-size: 13px; }
   .catalyst b { display: block; font-size: 14px; }
@@ -75,7 +75,7 @@
   .stat-row { display: flex; gap: 12px; flex-wrap: wrap; margin: 10px 0 4px; }
   .stat { background: var(--panel2); border-radius: 8px; padding: 10px 16px; min-width: 150px; }
   .stat .k { font-size: 12.5px; color: var(--muted); }
-  .stat .v { font-size: 21px; font-weight: bold; }
+  .stat .v { font-size: 18px; font-weight: bold; }
   .stat .v.pos { color: var(--green); } .stat .v.neg { color: var(--red); }
   #chart { width: 100%; height: 560px; }
   #table-host { overflow-x: auto; }
@@ -157,26 +157,26 @@ const fmt = n => n.toLocaleString('en-US', {maximumFractionDigits: 0});
 
 // ---- catalysts ----
 const catHost = document.getElementById('catalysts');
-for (const c of D.meta.catalysts) {
-  const days = Math.ceil((new Date(c.date + 'T23:59:59Z') - Date.now()) / 86400000);
-  const when = days > 1 ? `${days} days` : days >= 0 ? 'TODAY' : `${-days} days ago`;
-  catHost.insertAdjacentHTML('beforeend',
-    `<div class="catalyst"><b>${c.name}</b>
-     <span class="days">${c.approx ? '~' : ''}${when}</span> · ${c.date}
-     <div class="detail">${c.detail}</div></div>`);
-}
+catHost.innerHTML = '<span class="days" style="color:var(--copper-hot)">catalysts</span> ' +
+  D.meta.catalysts.map(c => {
+    const days = Math.ceil((new Date(c.date + 'T23:59:59Z') - Date.now()) / 86400000);
+    const when = days > 1 ? `${days}d` : days >= 0 ? 'TODAY' : `${-days}d ago`;
+    return `<span class="tick" title="${c.detail}"><b>${c.name.split(':')[0]}</b> ${c.approx ? '~' : ''}${when}</span>`;
+  }).join(' ');
 document.getElementById('meta-mines').textContent = D.meta.tracked_mines;
 document.getElementById('meta-cov').textContent = D.meta.coverage_pct;
 
 // ---- live ticker strip (FRED/PinkSheet latest vs balanced anchor) ----
 (() => {
-  const rows = ((D.signals || {}).rows || []).filter(s => s.live != null && s.gap_vs_anchor_pct != null);
-  document.getElementById('ticker').innerHTML = rows.map(s => {
+  const rows = ((D.signals || {}).rows || []).filter(s => s.live != null && s.gap_vs_anchor_pct != null)
+    .sort((a, b) => Math.abs(b.gap_vs_anchor_pct) - Math.abs(a.gap_vs_anchor_pct));
+  const top = rows.slice(0, 8);
+  document.getElementById('ticker').innerHTML = top.map(s => {
     const cls = s.gap_vs_anchor_pct >= 0 ? 'up' : 'dn';
-    const sym = s.futures && s.futures.symbol ? ` ${s.futures.symbol}` : '';
-    return `<span class="tick"><b>${s.commodity}</b>${sym} ${fmt(Math.round(s.live))} ` +
-      `<span class="${cls}">${s.gap_vs_anchor_pct >= 0 ? '+' : ''}${s.gap_vs_anchor_pct.toFixed(0)}% vs anchor</span></span>`;
-  }).join('');
+    return `<span class="tick"><b>${s.commodity}</b> ${fmt(Math.round(s.live))} ` +
+      `<span class="${cls}">${s.gap_vs_anchor_pct >= 0 ? '+' : ''}${s.gap_vs_anchor_pct.toFixed(0)}%</span></span>`;
+  }).join('') + (rows.length > top.length
+    ? `<span class="tick" style="cursor:pointer" onclick="jump('desk')">+${rows.length - top.length} more on the Desk ›</span>` : '');
 })();
 
 // ---- charting ----
@@ -459,7 +459,7 @@ const VIEWS = {
     label: 'World Atlas',
     init() {
       const countries = D.countries || [];
-      document.getElementById('chart').style.height = (innerWidth < 640 ? '300px' : '440px');  // natural-earth fills a shorter frame
+      document.getElementById('chart').style.height = (innerWidth < 640 ? '340px' : '560px');  // the map IS the page
       host.title.textContent = 'World atlas — shock a producer, trace it to prices, products, and the curve';
       const sevVals = [10, 20, 30, 40, 50, 60, 75, 90];
       const driverSet = [...new Set((D.commodities || []).flatMap(c => Object.keys(c.drivers || {})))]
@@ -478,7 +478,7 @@ const VIEWS = {
         <span class="value" id="sim-sevval"></span>
         <select id="sim-dep"><option value="">deposit overlay: off</option>` +
         Object.keys(D.deposits || {}).map(c => `<option value="${c}">deposits: ${c}</option>`).join('') +
-        `</select>
+        `<option value="__mines">tracked copper mines</option></select>
         <button id="copy-link" class="jump" style="border-style:dashed">copy link</button>`;
       let mode = 'country', direction = -1, curvePick = null;
       host.table.innerHTML = `<div id="sim-cards"></div>
@@ -570,8 +570,35 @@ const VIEWS = {
       const drawMap = selected => {
         const sel = countries.find(c => c.country === selected);
         const traces = [];
+        // share choropleth for the focus commodity: geography gets substance
+        const PLOTLY_NAME = {'Congo (Kinshasa)': 'Democratic Republic of the Congo',
+          'United States': 'United States of America', 'Burma (Myanmar)': 'Myanmar'};
+        const focus = curvePick || (sel ? Object.entries(sel.commodities)
+          .sort((a, b) => b[1].share - a[1].share)[0]?.[0] : null);
+        const com = focus && (D.commodities || []).find(c => c.name === focus);
+        if (com) {
+          traces.push({
+            type: 'choropleth', locationmode: 'country names',
+            locations: com.producers.map(pr => PLOTLY_NAME[pr.country] || pr.country),
+            z: com.producers.map(pr => pr.share * 100),
+            colorscale: [[0, 'rgba(184,115,51,0.05)'], [1, 'rgba(196,96,79,0.55)']],
+            zmin: 0, zmax: Math.max(30, ...com.producers.map(pr => pr.share * 100)),
+            showscale: false, hoverinfo: 'text',
+            text: com.producers.map(pr => `${pr.country}: ${(pr.share * 100).toFixed(0)}% of world ${focus}`),
+            marker: {line: {color: '#0e1319', width: 0.4}},
+          });
+        }
         const depCommodity = document.getElementById('sim-dep').value;
-        const depLayer = depCommodity ? (D.deposits[depCommodity] || []) : [];
+        if (depCommodity === '__mines') {
+          traces.push({
+            type: 'scattergeo', mode: 'markers', hoverinfo: 'text',
+            lat: (D.mines || []).map(m => m.lat), lon: (D.mines || []).map(m => m.lon),
+            text: (D.mines || []).map(m => `<b>${m.name}</b> — ${m.country}<br>${m.owner}<br>${m.status} · cap ${fmt(m.capacity_kt)} kt · 2026e ${fmt(m.production_2026_kt)} kt`),
+            marker: {symbol: 'square', size: (D.mines || []).map(m => 4 + Math.sqrt(m.capacity_kt) / 4),
+                     color: '#c9a227', opacity: 0.75, line: {color: '#0f1318', width: 0.5}},
+          });
+        }
+        const depLayer = (depCommodity && depCommodity !== '__mines') ? (D.deposits[depCommodity] || []) : [];
         if (depLayer.length) {
           traces.push({
             type: 'scattergeo', mode: 'markers', hoverinfo: 'text',
@@ -605,10 +632,12 @@ const VIEWS = {
         });
         Plotly.react('chart', traces, {
           paper_bgcolor: 'rgba(0,0,0,0)', margin: {l: 0, r: 0, t: 0, b: 0}, showlegend: false,
-          geo: {projection: {type: 'natural earth'}, bgcolor: 'rgba(0,0,0,0)',
+          geo: {projection: {type: 'natural earth'}, bgcolor: 'rgba(0,0,0,0)', resolution: 50,
             domain: {x: [0, 1], y: [0, 1]}, lataxis: {range: [-56, 80]}, lonaxis: {range: [-168, 188]},
-            showland: true, landcolor: '#1b232e', showocean: true, oceancolor: '#11161d',
-            showcountries: true, countrycolor: '#283342', coastlinecolor: '#2f3b4d', showframe: false},
+            showland: true, landcolor: '#1b232e', showocean: true, oceancolor: '#0e1319',
+            showlakes: true, lakecolor: '#0e1319',
+            showcountries: true, countrycolor: '#2a3543', coastlinecolor: '#36435a',
+            coastlinewidth: 0.8, showframe: false},
         }, {displayModeBar: false, responsive: true});
         const el = document.getElementById('chart');
         el.on('plotly_click', ev => {
@@ -617,8 +646,11 @@ const VIEWS = {
         });
       };
 
+      let showAll = false;
       const renderCards = rows => {
-        document.getElementById('sim-cards').innerHTML = rows.length ? rows.map(r => {
+        const visible = showAll ? rows : rows.slice(0, 6);
+        const more = rows.length - visible.length;
+        document.getElementById('sim-cards').innerHTML = (rows.length ? visible.map(r => {
           const up = r.pct >= 0;
           const probLabel = up
             ? `P(≥2× anchor) ${(probMultiple(r.pct / 100, r.vol, 2) * 100).toFixed(0)}%`
@@ -639,8 +671,11 @@ const VIEWS = {
               <span class="sim-unit">ambient vol ±${(r.vol * 100).toFixed(0)}%/yr</span></div>
           </div>`;
         }).join('') :
-          `<p style="color:var(--muted)">No priced commodities affected (gold is excluded from shock pricing).</p>`;
+          `<p style="color:var(--muted)">No priced commodities affected (gold is excluded from shock pricing).</p>`)
+          + (more > 0 ? `<div class="sim-card" style="display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--copper-hot)"
+               onclick="window.atlasShowAll()">show ${more} more ›</div>` : '');
       };
+      window.atlasShowAll = () => { showAll = true; update(); };
 
       const renderProducts = rows => {
         const changes = Object.fromEntries(rows.map(r => [r.commodity, r.pct]));
@@ -716,6 +751,7 @@ const VIEWS = {
       window.atlasCurve = name => {
         const rows = lastRows || [];
         renderCurve(name, rows);
+        if (mode === 'country') drawMap(document.getElementById('sim-country').value);
         document.getElementById('curve-wrap').scrollIntoView({behavior: 'smooth', block: 'nearest'});
       };
       let lastRows = null;
@@ -737,8 +773,7 @@ const VIEWS = {
           const country = document.getElementById('sim-country').value;
           const severity = severityRaw / 100;
           document.getElementById('sim-sevval').textContent = severityRaw + '%';
-          host.sub.textContent = `Bubbles = producer countries, sized & colored by criticality (Σ share² across commodities — red = dominant). ` +
-            `Shocking ${country}'s supply by ${severityRaw}%; predicted moves use short-run elasticity-incidence (illustrative), with closed-form spike odds against each commodity's ambient volatility.`;
+          host.sub.innerHTML = `Shocking <b>${country}</b> by ${severityRaw}% — shading = share of world ${curvePick || 'supply'}; bubbles sized by criticality. <details style="display:inline"><summary style="display:inline;cursor:pointer;color:var(--copper-hot)">method</summary> Short-run elasticity-incidence (illustrative, clamped), closed-form spike odds vs regime-conditional volatility; couplings and elasticities are disputable YAML.</details>`;
           drawMap(country);
           const rows = incidence(country, severity);
           const c = countries.find(x => x.country === country);
@@ -756,8 +791,7 @@ const VIEWS = {
           const driver = document.getElementById('sim-driver').value;
           const pct = direction * severityRaw / 100;
           document.getElementById('sim-sevval').textContent = (direction > 0 ? '+' : '−') + severityRaw + '%';
-          host.sub.textContent = `Demand-driver mode: ${driver} demand ${direction > 0 ? 'surges' : 'falls'} ${severityRaw}%. ` +
-            `One systemic shock ripples through every exposed commodity via the driver-exposure shares — cross-commodity correlation through shared demand, not hand-wired pairs.`;
+          host.sub.innerHTML = `<b>${driver}</b> demand ${direction > 0 ? 'surges' : 'falls'} ${severityRaw}% — one systemic shock through every exposed commodity. <details style="display:inline"><summary style="display:inline;cursor:pointer;color:var(--copper-hot)">method</summary> Driver-exposure shares compile to per-commodity demand shocks; same incidence machinery.</details>`;
           drawMap(null);
           const rows = driverIncidence(driver, pct);
           const biggest = rows[0];
@@ -1024,7 +1058,23 @@ const VIEWS = {
         external theses need a cited <code>resolution:</code> block (past-deadline ones glow
         until someone owns the grade). Brier-scored where the model attached a probability.
         Prose version: <a href="https://github.com/chang-07/opencopper/blob/main/PREDICTIONS.md"
-        style="color:var(--copper-hot)">PREDICTIONS.md</a>.</p>`;
+        style="color:var(--copper-hot)">PREDICTIONS.md</a>.</p>` + (() => {
+        const B = D.benchmark;
+        if (!B || !B.rows || !B.rows.length) return '';
+        return `<h3 style="margin:26px 0 6px;color:#e8e3da;font-weight:normal">Forecast benchmark — model vs the free baselines</h3>
+        <p style="color:var(--muted);font-size:12.5px;margin:0 0 8px">Walk-forward 12-month point forecasts,
+        expanding-window slope re-fit monthly (no look-ahead), scored against the random walk and the anchor
+        (Meese–Rogoff style, Diebold–Mariano t). The model beats the random walk for ${B.n_beat_rw}/${B.rows.length}
+        commodities — exactly the strong reverters — and we publish the losses too: with R²≈1%, even a true
+        mechanism barely moves point-forecast RMSE. This is a distribution engine, not a price oracle, and this
+        table is the receipt.</p>
+        <table><thead><tr><th>commodity</th><th class="num">n</th><th class="num">RMSE model</th>
+        <th class="num">RMSE random walk</th><th class="num">skill</th><th class="num">DM t</th></tr></thead><tbody>` +
+        B.rows.map(r => `<tr><td><b>${r.commodity}</b></td><td class="num">${r.n_forecasts}</td>
+          <td class="num">${r.rmse_model.toFixed(3)}</td><td class="num">${r.rmse_rw.toFixed(3)}</td>
+          <td class="num" style="color:${r.skill_vs_rw > 0 ? '#7fb069' : 'var(--red)'}">${r.skill_vs_rw >= 0 ? '+' : ''}${(r.skill_vs_rw * 100).toFixed(1)}%</td>
+          <td class="num">${r.dm_t.toFixed(2)}</td></tr>`).join('') + `</tbody></table>`;
+      })();
     },
   },
   mines: {

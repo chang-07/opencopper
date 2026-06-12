@@ -407,3 +407,51 @@ def test_conditional_volatility_falls_back_gracefully():
     assert 0.05 < vol < 1.0 and "conditional" in src
     vol2, src2 = conditional_volatility("cobalt")  # no series
     assert "default" in src2
+
+
+# ---------------------------------------------------------------- benchmark
+
+
+def test_benchmark_finds_skill_in_ar_world_and_none_in_rw_world(monkeypatch):
+    import random
+
+    import opencopper.benchmark as bm
+
+    def series(kind, n=480, seed=5):
+        rng = random.Random(seed)
+        months, level, dev = [], 4.6, 0.0
+        for i in range(n):
+            if kind == "ar":
+                dev = 0.92 * dev + rng.gauss(0, 0.05)
+                logp = level + dev
+            else:
+                level += rng.gauss(0, 0.05)
+                logp = level
+            y, m = 2000 + i // 12, i % 12 + 1
+            months.append((f"{y}-{m:02d}-01", 2.718281828 ** logp))
+        return months
+
+    class _H:
+        months = None
+
+    monkeypatch.setattr(bm, "load_price_history", lambda name: _H())
+    _H.months = series("ar")
+    ar = bm.benchmark_commodity("copper")  # name only keys the anchor lookup
+    _H.months = series("rw")
+    rw = bm.benchmark_commodity("copper")
+    # mean-reverting world: real skill, DM clearly negative
+    assert ar.skill_vs_rw > 0.05 and ar.dm_t < -1.65
+    # random-walk world: no skill to find, and no fake skill found
+    assert abs(rw.skill_vs_rw) < 0.05
+
+
+def test_benchmark_real_data_is_honest():
+    from opencopper.benchmark import benchmark_all
+
+    rows = benchmark_all()
+    if not rows:
+        pytest.skip("no caches")
+    skills = {r.commodity: r.skill_vs_rw for r in rows}
+    # the wins must land on the strong reverters, not everywhere
+    assert sum(1 for s in skills.values() if s > 0) < len(skills)
+    assert all(-0.6 < s < 0.3 for s in skills.values())

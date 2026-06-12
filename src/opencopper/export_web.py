@@ -363,6 +363,16 @@ def _products_payload() -> list[dict]:
     return out
 
 
+def _benchmark_payload() -> dict:
+    from dataclasses import asdict as _asdict
+
+    from .benchmark import benchmark_all
+
+    rows = benchmark_all(12)
+    return {"rows": [_asdict(r) for r in rows],
+            "n_beat_rw": sum(1 for r in rows if r.skill_vs_rw > 0)}
+
+
 def _theses_payload() -> dict:
     from .theses import analytics, mark_all
 
@@ -507,6 +517,7 @@ def build_payload(
         "backtest": _backtest_payload(),
         "theses": _theses_payload(),
         "freshness": _data_freshness(),
+        "benchmark": _benchmark_payload(),
         "products": _products_payload(),
         "mines": [
             {

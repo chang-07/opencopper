@@ -407,6 +407,20 @@ stale; news/theses receipts must parse and reference known commodities.
 FAIL-level findings (numbers the model would silently mis-use) fail the
 build.
 
+**The model benchmarks its own forecasts** (`opencopper benchmark`).
+Walk-forward 12-month point forecasts — expanding-window slope, re-fit
+monthly, no look-ahead, skip-month — scored against the two free baselines
+(Meese-Rogoff tradition): the random walk and the anchor, with
+Diebold-Mariano tests. Result, published in full on the Scorecard tab: the
+model beats the random walk for 5/16 commodities — exactly the backtest's
+strongest reverters (coal, gas, tin, aluminum) — none significantly, and
+loses where regimes shifted under an expanding window (crude −29%, copper
+−9%). This is the Meese-Rogoff result on purpose: with R²≈1%, even a true
+mechanism barely moves point-forecast RMSE. The table is the receipt that
+this is a distribution-and-scenario engine, not a price oracle — and that
+the mechanism's wins land precisely where its own backtest said they
+should, which is what "domain of validity" means operationally.
+
 **Claims carry error bars and corrections.** The tranche strategy's Sharpe
 is reported with a moving-block bootstrap 90% CI (Künsch 1989; 24-month
 blocks preserve regime clustering) and P(Sharpe≤0) — currently [0.25, 0.82]
