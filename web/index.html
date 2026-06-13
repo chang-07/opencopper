@@ -85,6 +85,23 @@
   td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
   .pill { font-size: 11.5px; border: 1px solid var(--border); border-radius: 999px; padding: 1px 9px; color: var(--muted); }
   #sim-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 10px; margin-top: 14px; }
+  .dash { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; margin: 16px 0 4px; }
+  .dcard { background: var(--panel2); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+  .dcard h4 { margin: 0 0 8px; font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: var(--muted); font-weight: normal; }
+  .dcard h4 .live-dot { color: var(--red); animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+  .wire-item { padding: 7px 0; border-bottom: 1px solid var(--border); cursor: pointer; }
+  .wire-item:last-child { border-bottom: 0; }
+  .wire-item:hover { background: rgba(232,149,79,0.06); }
+  .wire-head { font-size: 13px; color: var(--text); line-height: 1.3; }
+  .wire-meta { font-size: 11.5px; color: var(--muted); margin-top: 2px; }
+  .cd-row { display: flex; justify-content: space-between; align-items: baseline; padding: 6px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
+  .cd-row:last-child { border-bottom: 0; }
+  .cd-days { color: var(--copper-hot); font-weight: bold; white-space: nowrap; margin-left: 8px; }
+  .cd-days.soon { color: var(--red); }
+  .trk { display: flex; justify-content: space-between; padding: 5px 0; font-size: 13px; border-bottom: 1px solid var(--border); }
+  .trk:last-child { border-bottom: 0; }
+  .trk b { font-variant-numeric: tabular-nums; }
   .sim-card { background: var(--panel2); border: 1px solid var(--border); border-left: 3px solid var(--copper);
     border-radius: 8px; padding: 11px 14px; }
   .sim-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
@@ -166,17 +183,38 @@ catHost.innerHTML = '<span class="days" style="color:var(--copper-hot)">catalyst
 document.getElementById('meta-mines').textContent = D.meta.tracked_mines;
 document.getElementById('meta-cov').textContent = D.meta.coverage_pct;
 
-// ---- live ticker strip (FRED/PinkSheet latest vs balanced anchor) ----
+// ---- "X ago" helper for live timestamps ----
+function timeAgo(s) {
+  if (!s) return '';
+  const t = Date.parse(s);
+  if (isNaN(t)) return '';
+  const m = Math.max(0, Math.round((Date.now() - t) / 60000));
+  if (m < 60) return m + 'm ago';
+  const h = Math.round(m / 60);
+  if (h < 48) return h + 'h ago';
+  return Math.round(h / 24) + 'd ago';
+}
+
+// ---- full per-commodity ticker rail (every commodity, regime-colored,
+//      click to open it on the atlas curve) ----
 (() => {
-  const rows = ((D.signals || {}).rows || []).filter(s => s.live != null && s.gap_vs_anchor_pct != null)
-    .sort((a, b) => Math.abs(b.gap_vs_anchor_pct) - Math.abs(a.gap_vs_anchor_pct));
-  const top = rows.slice(0, 8);
-  document.getElementById('ticker').innerHTML = top.map(s => {
-    const cls = s.gap_vs_anchor_pct >= 0 ? 'up' : 'dn';
-    return `<span class="tick"><b>${s.commodity}</b> ${fmt(Math.round(s.live))} ` +
-      `<span class="${cls}">${s.gap_vs_anchor_pct >= 0 ? '+' : ''}${s.gap_vs_anchor_pct.toFixed(0)}%</span></span>`;
-  }).join('') + (rows.length > top.length
-    ? `<span class="tick" style="cursor:pointer" onclick="jump('desk')">+${rows.length - top.length} more on the Desk ›</span>` : '');
+  const regimeColor = r => r === 'tight' ? 'var(--red)' : r === 'glut' ? '#5b8fb9' : 'var(--muted)';
+  const rows = ((D.signals || {}).rows || [])
+    .filter(s => s.live != null)
+    .sort((a, b) => Math.abs((b.gap_vs_anchor_pct || 0)) - Math.abs((a.gap_vs_anchor_pct || 0)));
+  const gen = (D.meta || {}).generated;
+  document.getElementById('ticker').innerHTML =
+    `<span class="tick" style="border-color:var(--copper-hot)"><span style="color:var(--copper-hot)">●&nbsp;LIVE</span>`
+    + (gen ? ` <span class="sim-unit">updated ${timeAgo(gen)}</span>` : '') + `</span>`
+    + rows.map(s => {
+      const g = s.gap_vs_anchor_pct;
+      const cls = g == null ? '' : g >= 0 ? 'up' : 'dn';
+      const gap = g == null ? '' : ` <span class="${cls}">${g >= 0 ? '+' : ''}${g.toFixed(0)}%</span>`;
+      const dot = `<span style="color:${regimeColor(s.regime)}">●</span>`;
+      return `<span class="tick" style="cursor:pointer" title="${s.regime || ''} · click to open on the atlas"
+        onclick="jump('map'); window.atlasCurve && window.atlasCurve('${s.commodity}')">
+        ${dot} <b>${s.commodity}</b> ${fmt(Math.round(s.live))}${gap}</span>`;
+    }).join('');
 })();
 
 // ---- charting ----
@@ -481,7 +519,8 @@ const VIEWS = {
         `<option value="__mines">tracked copper mines</option></select>
         <button id="copy-link" class="jump" style="border-style:dashed">copy link</button>`;
       let mode = 'country', direction = -1, curvePick = null;
-      host.table.innerHTML = `<div id="sim-cards"></div>
+      host.table.innerHTML = `<div id="atlas-live" class="dash"></div>
+        <div id="sim-cards"></div>
         <div id="atlas-products"></div>
         <div id="curve-wrap" style="display:none">
           <h3 style="margin:22px 0 2px;color:#e8e3da;font-weight:normal">Model vs market — the term structure of this shock</h3>
@@ -489,6 +528,57 @@ const VIEWS = {
           <div id="curve-chart"></div>
           <p id="curve-note" style="color:var(--muted);font-size:12.5px;margin:6px 0 0"></p>
         </div>`;
+
+      // ---- the live command-center band above the simulator ----
+      const renderDashboard = () => {
+        const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+        const N = D.news || {events: []};
+
+        // 1) LIVE WIRE — rule-matched events, click to shock that country
+        const wire = (N.events || []).slice(0, 6).map(e => {
+          const imp = (e.impacts || []).find(i => i.channel === 'direct');
+          const move = imp ? `${imp.price_change_pct >= 0 ? '+' : ''}${imp.price_change_pct.toFixed(0)}%` : '';
+          const known = (D.countries || []).some(c => c.country === e.country);
+          return `<div class="wire-item" onclick="${known ? `document.getElementById('sim-country').value='${esc(e.country)}';window.__atlasUpdate&&window.__atlasUpdate();` : ''}window.atlasCurve&&window.atlasCurve('${esc(e.commodity)}')">
+            <div class="wire-head">${esc(e.headline.slice(0, 92))}${e.headline.length > 92 ? '…' : ''}</div>
+            <div class="wire-meta"><b style="color:${imp && imp.price_change_pct >= 0 ? 'var(--red)' : 'var(--muted)'}">${esc(e.commodity)} ${move}</b>
+              · ${esc(e.country)} · ${timeAgo(e.published) || 'recent'}${e.corroborating ? ` · +${e.corroborating}` : ''}</div></div>`;
+        }).join('');
+        const wireCard = `<div class="dcard"><h4><span class="live-dot">●</span> live wire ${N.date ? '· ' + N.date : ''}</h4>${
+          wire || '<div class="wire-meta">no rule-matched events right now — the watch is running.</div>'}
+          <div class="wire-meta" style="margin-top:8px"><span class="jump" onclick="jump('scorecard')">how these score ›</span></div></div>`;
+
+        // 2) UPCOMING — catalysts + pending policies as countdowns
+        const items = [];
+        for (const c of ((D.meta || {}).catalysts || []))
+          items.push({name: c.name, date: c.date, approx: c.approx});
+        for (const p of (D.policies || []))
+          if (p.status === 'pending-decision' && p.decision_due)
+            items.push({name: p.name, date: p.decision_due});
+        const seen = new Set();
+        const upcoming = items.filter(i => { const k = i.name.slice(0, 20); if (seen.has(k)) return false; seen.add(k); return true; })
+          .map(i => ({...i, days: Math.ceil((Date.parse(i.date + 'T23:59:59Z') - Date.now()) / 86400000)}))
+          .filter(i => i.days >= -3).sort((a, b) => a.days - b.days).slice(0, 5);
+        const upCard = `<div class="dcard"><h4>⏳ upcoming catalysts</h4>${
+          upcoming.map(i => `<div class="cd-row"><span>${esc(i.name.split(':')[0])}</span>
+            <span class="cd-days ${i.days <= 14 ? 'soon' : ''}">${i.days > 0 ? (i.approx ? '~' : '') + i.days + 'd' : i.days === 0 ? 'TODAY' : 'now'}</span></div>`).join('')
+          || '<div class="wire-meta">no dated catalysts ahead.</div>'}</div>`;
+
+        // 3) TRACK RECORD — the model grading itself
+        const a = (D.theses || {}).analytics || {};
+        const B = D.benchmark || {};
+        const hr = a.hit_rate != null ? (a.hit_rate * 100).toFixed(0) + '%' : '—';
+        const trkCard = `<div class="dcard"><h4>📈 model track record</h4>
+          <div class="trk"><span>theses scored</span><b>${(a.hit || 0)}✓ / ${(a.miss || 0)}✗ / ${(a.open || 0)} open</b></div>
+          <div class="trk"><span>hit rate</span><b style="color:${a.hit_rate >= 0.5 ? '#7fb069' : 'var(--text)'}">${hr}</b></div>
+          ${B.n_beat_rw != null ? `<div class="trk"><span>beats random walk</span><b>${B.n_beat_rw}/${(B.rows || []).length}</b></div>` : ''}
+          <div class="wire-meta" style="margin-top:8px">
+            <span class="jump" onclick="jump('scorecard')">scorecard ›</span>
+            <a class="jump" href="https://github.com/chang-07/opencopper/blob/main/PREDICTIONS.md" target="_blank">predictions ›</a></div></div>`;
+
+        document.getElementById('atlas-live').innerHTML = wireCard + upCard + trkCard;
+      };
+      renderDashboard();
 
       const erf = x => {
         const s = Math.sign(x); x = Math.abs(x);
@@ -629,6 +719,25 @@ const VIEWS = {
             colorscale: [[0,'#4fa8a0'],[0.3,'#c9a227'],[1,'#c4604f']],
             cmin: 0, cmax: 0.6, opacity: 0.82, line: {color: '#0f1318', width: 1},
           },
+        });
+        // LIVE EVENTS: rule-matched news plotted where it's happening. Clicking
+        // a pin shocks that country (customdata = country, shared handler).
+        const evByCountry = {};
+        for (const e of ((D.news || {}).events || [])) {
+          const c = countries.find(x => x.country === e.country);
+          if (!c) continue;
+          (evByCountry[e.country] = evByCountry[e.country] || {c, evs: []}).evs.push(e);
+        }
+        const evEntries = Object.values(evByCountry);
+        if (evEntries.length) traces.push({
+          type: 'scattergeo', mode: 'markers', hoverinfo: 'text',
+          lat: evEntries.map(x => x.c.lat), lon: evEntries.map(x => x.c.lon),
+          customdata: evEntries.map(x => x.c.country),
+          text: evEntries.map(x => `🔴 ${x.evs.length} live event(s) — ${x.c.country}<br>` +
+            x.evs.slice(0, 2).map(e => `<b>${e.commodity}</b>: ${e.headline.slice(0, 70)}`).join('<br>')),
+          marker: {size: evEntries.map(x => 16 + 4 * Math.min(x.evs.length, 4)),
+                   color: 'rgba(196,96,79,0.25)', symbol: 'circle',
+                   line: {color: '#e8954f', width: 2}},
         });
         if (sel) traces.push({
           type: 'scattergeo', mode: 'markers', lat: [sel.lat], lon: [sel.lon], hoverinfo: 'skip',
@@ -839,6 +948,7 @@ const VIEWS = {
         setTimeout(() => { b.textContent = 'copy link'; }, 1400);
       };
       document.getElementById('sim-country').value = 'Congo (Kinshasa)';
+      window.__atlasUpdate = update;  // let the live-wire cards drive a shock
 
       // shareable state: read #sim=mode,target,severity[,dir] on load
       // (update() writes it back on every interaction, including map clicks)

@@ -12,6 +12,7 @@ def payload():
 
 def test_payload_structure_and_grids(payload):
     assert payload["meta"]["years"] == list(range(2024, 2031))
+    assert payload["meta"]["generated"].endswith("Z") and "T" in payload["meta"]["generated"]
     assert len(payload["baseline"]) == 7
     assert "world-2026" in payload["scenarios"]
     assert set(payload["labs"]["tariff"]["runs"]) == {str(r) for r in TARIFF_RATES}

@@ -518,12 +518,15 @@ def build_payload(
     tracked = sum(m.production(year0) for m in ledger.mines)
     coverage = tracked / assumptions.world.mine_supply(year0)
 
+    from datetime import datetime, timezone
+
     return {
         "meta": {
             "years": list(YEARS),
             "catalysts": CATALYSTS,
             "tracked_mines": len(ledger.mines),
             "coverage_pct": round(100 * coverage),
+            "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
         },
         "baseline": baseline_rows,
         "scenarios": scenarios,
