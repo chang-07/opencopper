@@ -33,17 +33,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran\u2019s Oil Production Slumped Due to US Blockade, Closure of Hormuz - Asharq Al-Awsat English",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkYxektOLWFONFA5NkFLd3J4OWEyaXJLa1ljbDVXMHFjVFhrOXk5RDhqcThOaXRJLTNXTndUdDBab2lDUTN6VjZUWHRjV1FpY25KWVkxd3M2Q1o2M0xvZ1FPbURIZG1tQm95bEhuMFdWZW81T0tZWU10WlFLM1J2MWEyUFlJdmVQNk1EU2wyOVZuODdLMTNlWlBaX2lHcG1Dc1A2YVRvS21xd0dTaHBPMnFn?oc=5",
-  "published": "Fri, 12 Jun 2026 05:46:02 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC cuts oil demand forecast again as Strait of Hormuz closure continues - Washington Examiner",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUJxNjMwUHJUSTY0VVZ1Z1NqWnR4NERzdFBzal80ZnlJd0ZSU215WFJHeU5aRzR4VGNFNTFxVml6OU9QbWVXdXdFazBHX2tod0EyS0dXYVVmeE5WSlFZRkg2WmFvbG1oS2NGNmN4SjFSN0ZPWFpLNXFEZUhtRGROdDJLMlhMUTllRTVQbEhPekk1cnk2VVUwZWx5dlNDUVJNWkVzSlJyQmhTdU9aU29JYkM0dlliWC1pZVdNelZoaW40VVE?oc=5",
   "published": "Thu, 11 Jun 2026 16:12:00 GMT",
@@ -55,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Hormuz Reopening Could Trigger OPEC\u2019s Next Big Challenge - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGlIRWVhV0s0ek5zY3dqM1IzOFVvaW5XeWJjVU4zb0hvS2hvbllWRDZZaVhhREc4eGFEWmQtUzdNWXhNWGJVbFlaOVI4T0JlNWRuNmx5dVl6S1FqR2g4NlJPcU5mUGJSajhCUHo3SkRZZHE0WjlQOXFsX0ZMWmFXejhiTV_SAYoBQVVfeXFMUFI5anJidVhtbm9BNUQ4LTY0MTFaV3dJTHE2dU5pWE5Pd2R5azdlOHl5SEE5X0FYeEU5SkJZVDlmcENDUlB5NktLbmdfR1lQRnM3WFhnOUlYYmVxc0J0WDdyS1hMYlY0cW52cFVUZEpfX1B6X3dXaDh0Q1cxVDFGbjRHc3hRLWJIcDl3?oc=5",
-  "published": "Thu, 11 Jun 2026 08:37:11 GMT",
+  "headline": "Iran\u2019s Oil Production Slumped Due to US Blockade, Closure of Hormuz - Asharq Al-Awsat English",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkYxektOLWFONFA5NkFLd3J4OWEyaXJLa1ljbDVXMHFjVFhrOXk5RDhqcThOaXRJLTNXTndUdDBab2lDUTN6VjZUWHRjV1FpY25KWVkxd3M2Q1o2M0xvZ1FPbURIZG1tQm95bEhuMFdWZW81T0tZWU10WlFLM1J2MWEyUFlJdmVQNk1EU2wyOVZuODdLMTNlWlBaX2lHcG1Dc1A2YVRvS21xd0dTaHBPMnFn?oc=5",
+  "published": "Fri, 12 Jun 2026 05:46:02 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,17 +66,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ Approves Fourth Consecutive Output Hike - Mexico Business News",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3REb09vUjRZY25BMVJ5T0tJUmd5aE5TRFM2WFNZcWxRWVpWTm9XMTQ0dURoZzc0T3NCUEJEVGhNeDRGMjJXeXlWMTVia0J1Zmg5aWpiYjBTa1hFRGN3TWQxM05DeUxfVEVVOTBWNkp0RERuY2IzM3dFZUFQR21INnhUVlV4UXlVcEl6dmk5Y3E?oc=5",
-  "published": "Fri, 12 Jun 2026 05:34:32 GMT",
-  "rule_note": "",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.08,
-  "rule_id": "opec-cut",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC approves new oil output increase despite ongoing Strait of Hormuz disruption - The Cool Down",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeExpa2xERm84N293R1hiQ3pLLUxBN2FFOTJJUTY0ekJrMlRMWjdwdGdIZzJ4VkpPaUdaM1I3LXFoSVpLWEJBbU5qYnJZd3owX1ZTLWhxT3d1Z1R0MUoyNnd3QjJZekJTZWc1NHpGbVN0MU1jb2dmcGxKbmkwT3kxb0JOLWJRWjIzSnc?oc=5",
   "published": "Wed, 10 Jun 2026 08:06:00 GMT",
@@ -102,6 +80,17 @@
   "headline": "Oil production surge expected after Strait of Hormuz reopening, ETEnergyworld - ETEnergyworld.com",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUNSTTJDbG9RbEZwSWNaMzYtZ0VROXlyRXMxUWw5OTZDdUQ5bElabmE4WWNuaWN5NURaTVhQSDNlb3ptQk0xMG9pQng0MHhHZ2p5R09fc0FkMkljVVhib0JVM0FScWg1UXpHci04WUJjVTRPdUlNcnZGUXprbExoZzRyYV8tdjduVy1RVnU4bkdJMk5CWmVFRTFnVnVpcFFRcFhKVDhnQ1hOYmczZlhYY0NFekZyZTVYSzk3V1NJUjl5ZWRZWUNYV0NpOHFGZw?oc=5",
   "published": "Mon, 08 Jun 2026 07:25:36 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "OPEC+ is raising oil output quotas for a fourth straight month \u2014 but the Strait of Hormuz is still shut - qz.com",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfR1ZRNkZHbFRYRHctQXA2QVFJWnA2UEhiMzdoZXJYRU4zNGJDZ3ZHby1FOE5BNnp4aXpzNmhxcF9HMmVQdE55cDFQNlFZWkFUaUpNSDdrX1JDLVVCVG9XNTFoUUtUTzhuNEVPS2ZEVGJaaFRHVEtN?oc=5",
+  "published": "Mon, 08 Jun 2026 13:51:51 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -132,6 +121,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC+ Approves Fourth Consecutive Output Hike - Mexico Business News",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3REb09vUjRZY25BMVJ5T0tJUmd5aE5TRFM2WFNZcWxRWVpWTm9XMTQ0dURoZzc0T3NCUEJEVGhNeDRGMjJXeXlWMTVia0J1Zmg5aWpiYjBTa1hFRGN3TWQxM05DeUxfVEVVOTBWNkp0RERuY2IzM3dFZUFQR21INnhUVlV4UXlVcEl6dmk5Y3E?oc=5",
+  "published": "Fri, 12 Jun 2026 05:34:32 GMT",
+  "rule_note": "",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.08,
+  "rule_id": "opec-cut",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Hormuz and the Energy Transition: Change Doesn\u2019t Just Happen - Council on Foreign Relations",
   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOamtfUWNBTGoyd0RtYVUyRW5DeVFiVFhBR2JDamRHODZ1RXdJOTA2cEp2OHVwN0VOZ3V5enF3N2dHMWJHeHpBUnVfTkw5b3FXbHhLZVoxbW4tVkNITFU1enlka0NLN2JpMVNFWTBaMy1aNkVzclMtZFV1OVIzeEZ1dw?oc=5",
   "published": "Fri, 05 Jun 2026 14:13:14 GMT",
@@ -143,20 +143,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Reopening of the Strait of Hormuz could undermine OPEC\u2019s market control - mezha.net",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44MmJIY3FyRWlodU1uZ3d0MHhKTnI3X3RRRU5OQ1IxRjNsaXZjOS1DczlqOXprdVhmcVpWQjM3VU1JRjFzLWp1LURvSm9IaFExem9mX09YQ1Q4VEZzNzZyN1NsalM?oc=5",
-  "published": "Thu, 11 Jun 2026 09:50:28 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "OPEC+ agreed on the fourth increase in oil production quotas following the closure of the Strait of Hormuz - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjJSdnFjMFFpMk8xTXI4aVA4b1AzbnBUbXdVYXF1WGpPcFllRXY3S0ViTHJaVU9XSWkwUGhiWk54S2NMc1JzdFRHUkp1bnJ6RG45QUdfanFKUWtVSjdCWTFEQnktajlpYUItY0FDRXV5anpvdlRBcThMMUUtU0pjVnlRNlJHeGk1LWgtMl9tQ1hhUHVNbmc0UTdodmVMRVBqdEE2cHVLZVpVY3ZMeTIwbUFGNk1TTmM3TFJ3Q1BKRTBvemRjX2tF0gHGAUFVX3lxTFB3R0w2NHhjclVGcWlRdF9sVVl5bFFSMFF2TE1fRERUaVRrM1ZINkVYNkw5a1ZuZFYtTm1BZHlvZ09EMVcwOU5rVFpZSzlHTEFQZ1dVdDJPbHZfX3otSm1yaHdFQzl4X1RESkt3bVpKYjN0YnowSW0xbDRULVl2eS1oWlFHOTd2M0t2ZzZ5TEFUOEhCX0FqWDFJdzBMbjNNUm9ocmlZTk0xVHpia1RKbUJoSXhJS2xsSDJQWWhIMTl6MHBHYVV4UQ?oc=5",
-  "published": "Sun, 07 Jun 2026 14:52:04 GMT",
+  "headline": "Hormuz reopening could be OPEC\u2019s undoing - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmdfVUZJbE5ORWIyZV9HYUhiTHRVOHMtZ1lOUFUwOXhiU2xzSWprczRMeUNESlJGUnNieGVnYlJZMG1LZG9WczRaaWptZEJJUUhpZHVDSTZhQ2tXYW0wNzhEZUdNQ0RIaFFIUExZYV9SMGFXZjQ0bVlseUNkRldYMTlWSDBjTWJoT2E5N3RnLWF4dHZWOFVDSXktc01WTmtwV0w5dk5IV1BiSDR5?oc=5",
+  "published": "Thu, 11 Jun 2026 06:05:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -176,9 +165,31 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Reopening of the Strait of Hormuz could undermine OPEC\u2019s market control - mezha.net",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44MmJIY3FyRWlodU1uZ3d0MHhKTnI3X3RRRU5OQ1IxRjNsaXZjOS1DczlqOXprdVhmcVpWQjM3VU1JRjFzLWp1LURvSm9IaFExem9mX09YQ1Q4VEZzNzZyN1NsalM?oc=5",
+  "published": "Thu, 11 Jun 2026 09:50:28 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Kuwait can restore 70% of oil output in 6\u20138 weeks of Hormuz reopening, KPC executive says - Reuters",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDdKdmFqVzZPdmRaU1d1LURwMW80V0FrZnhTV0RiX01CYWJ0RlFzd2FIWk5lSjh1Qm5id2U4RTBlcEpMZGJZeTRMS1FsZHhPemNxSHlFUjRpdGgzU3VCUTNxdU1CMk5tZzBIWndkTGVTaWlCUnF4dDlRS3pydXpKa3NsWWMzYkhJUVZ6c1FOSFltaVJGWlpQb1JPOFY0Rl9IUG9HRzZTNnNOTDNaeGJrSVM3QTdpX2tRaG5vTWcweGFZaTA?oc=5",
   "published": "Wed, 03 Jun 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "OPEC+ agreed on the fourth increase in oil production quotas following the closure of the Strait of Hormuz - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjJSdnFjMFFpMk8xTXI4aVA4b1AzbnBUbXdVYXF1WGpPcFllRXY3S0ViTHJaVU9XSWkwUGhiWk54S2NMc1JzdFRHUkp1bnJ6RG45QUdfanFKUWtVSjdCWTFEQnktajlpYUItY0FDRXV5anpvdlRBcThMMUUtU0pjVnlRNlJHeGk1LWgtMl9tQ1hhUHVNbmc0UTdodmVMRVBqdEE2cHVLZVpVY3ZMeTIwbUFGNk1TTmM3TFJ3Q1BKRTBvemRjX2tF0gHGAUFVX3lxTFB3R0w2NHhjclVGcWlRdF9sVVl5bFFSMFF2TE1fRERUaVRrM1ZINkVYNkw5a1ZuZFYtTm1BZHlvZ09EMVcwOU5rVFpZSzlHTEFQZ1dVdDJPbHZfX3otSm1yaHdFQzl4X1RESkt3bVpKYjN0YnowSW0xbDRULVl2eS1oWlFHOTd2M0t2ZzZ5TEFUOEhCX0FqWDFJdzBMbjNNUm9ocmlZTk0xVHpia1RKbUJoSXhJS2xsSDJQWWhIMTl6MHBHYVV4UQ?oc=5",
+  "published": "Sun, 07 Jun 2026 14:52:04 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -209,9 +220,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Could Hormuz Reopening Trigger an OPEC Crisis? - Modern Diplomacy",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUd3dVRHLVZUcGFpdUxwU0NVMEt0Yl9qQ2VyeEFzd202dUdoN0ZYV3VsMFlFMW5VWHlORk91dms2bmp6SC1QazM4RnlYTmhkdlNwRnYydEhsNjYtTmFkQjViYTlDVnBLOUc0S0dQV1VHZzdLN2M1WnRCZ3l3c0xuNGQwYUlnYlBTeENlRg?oc=5",
-  "published": "Thu, 11 Jun 2026 07:05:42 GMT",
+  "headline": "Iraq to Boost Ceyhan Oil Exports as Hormuz Strait Remains Shut - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW5FOHRwSVRLUG9WYWVpd2VzUl9nNU0td2N0TlJxanRNOGl4b0xDcXNPS0FlNUYzLUVjOURFa3ZnZnRNNUhiQmdrS3FaNXhZWTNjUDhxSEt3OHdwTUh0VHYzR296TUZmMkctVzBrSm50czJoMDIyNTdyYjZUdm1fN3Bhd0VkSXFKOFAyRHVrX2VNYmVxU1BaalA5LTRrUjllUHZEdnhjb2lUejlhMEt3YW5wQQ?oc=5",
+  "published": "Tue, 02 Jun 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
