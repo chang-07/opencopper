@@ -108,6 +108,14 @@ literature's value — disagreement is data, not embarrassment.
 - **Diebold & Mariano (1995)**, "Comparing Predictive Accuracy", *JBES*. →
   the DM test on squared-error differentials (NW variance, lag h−1).
 
+## Carry
+
+- **Koijen, Moskowitz, Pedersen & Vrugt (2018)**, "Carry", *JFE* 127(2);
+  **Gorton, Hayashi & Rouwenhorst (2013)** (above). Carry — the futures term
+  structure (backwardation vs contango) — is the most robust commodity
+  factor. -> `futuresdata.py` front-basis carry and the carry+value
+  multi-factor book (`opencopper backtest --factors`).
+
 ## Forecast combination
 
 - **Timmermann (2006)**, "Forecast Combinations", *Handbook of Economic

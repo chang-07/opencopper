@@ -487,7 +487,36 @@ this is a distribution-and-scenario engine, not a price oracle — and that
 the mechanism's wins land precisely where its own backtest said they
 should, which is what "domain of validity" means operationally.
 
-**Why the Sharpe is what it is — and the two levers that raise it.** The
+**Carry, the multi-factor book, and a forward paper record.** The single
+upgrade that changes trading utility: futures data, which unlocks CARRY —
+the slope of the term structure (backwardation vs contango), the most robust
+commodity factor (Gorton-Hayashi-Rouwenhorst 2013; Koijen-Moskowitz-Pedersen-
+Vrugt 2018). `futuresdata.py` adds free keyless Yahoo front-continuous
+futures; carry = the front-basis (spot - F1)/F1, same-month-aligned and
+demeaned of each commodity's structural benchmark offset (causal, no
+look-ahead), on the same-benchmark commodities only (copper/base-metals
+excluded — the COMEX-LME tariff spread would corrupt the sign). The
+**multi-factor book** (`opencopper backtest --factors`) combines carry +
+value — the two factors with both robust literature and positive evidence
+in our own backtest — long-only, equal-weight the positive-composite names,
+vol-targeted (20%, MOP), net of 25bps and turnover: **net Sharpe ~0.57**
+(gross 0.62; 90% block-bootstrap CI [0.10, 1.03], P(Sharpe<=0) 2.3%, NW t
+2.1), both halves positive with honest post-2010 decay. Momentum is
+available but WEAK in this universe — consistent with the project's own
+mean-reversion finding — so it is reported standalone rather than blended
+in; adding it lowers the Sharpe (0.57 -> 0.49), which is why it is not in
+the headline. The book is still a spot/front-month construction (no
+full-curve optimization, no capacity or slippage model), stated plainly.
+
+**The forward paper book** (`opencopper paper`, `data/paper-book.json`) is
+the honest proof: the daily Action snapshots the book's target weights each
+month and marks them to market FORWARD — no backfill, because a backtest is
+in-sample by construction and only a live, timestamped, marked record is
+real out-of-sample evidence. The backtest's 0.57 is the prior; the paper
+curve is the evidence accruing against it, on the Scorecard tab, live since
+the day it started. Paper positions, never orders.
+
+**Why the single-sleeve Sharpe is what it is — and the two levers that raise it.** The
 fundamental law (Grinold): Sharpe ≈ IC × √breadth. A single long-only
 sleeve with IC≈0.05-0.1 (the benchmark's R²≈1%) and 3-5 effective
 independent bets a year sits at 0.3-0.5 BY CONSTRUCTION — tuning

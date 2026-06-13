@@ -124,6 +124,9 @@ uv run opencopper backtest [--horizon 12]          # 34yr walk-forward: does the
 uv run opencopper book examples/book.yaml --risk   # correlated VaR/ES on YOUR declared exposures
 uv run opencopper theses [--json]                  # scorecard: every call marked to market daily
 uv run opencopper data status                      # every cache: age, rows, latest date, TTLs
+uv run opencopper carry                            # futures term-structure carry (Yahoo, keyless)
+uv run opencopper backtest --factors               # carry + value book: net Sharpe ~0.57, vol-targeted, costed
+uv run opencopper paper                            # the forward, live, marked-to-market track record
 uv run opencopper sensitivity --target price                           # the pricing parameters' own tornado
 ```
 

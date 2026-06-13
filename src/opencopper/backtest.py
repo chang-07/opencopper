@@ -900,3 +900,208 @@ def render_sleeves(s: dict) -> str:
         "exclude carry (needs curve data); returns are futures-overlay excess",
         "returns (idle collateral would earn bills on top). Not advice.",
     ])
+
+
+# ------------------------------------------------------- multi-factor book
+
+
+def _commodity_panels():
+    """Per-commodity causal monthly signals + the next-month return to realize.
+
+    value    = −trend-deviation (cheap vs trailing trend = long)
+    momentum = 12-1 month return (skip the most recent month; Jegadeesh-Titman)
+               from FUTURES returns where available (roll-inclusive), else spot
+    carry    = demeaned front-basis (backwardation = long), carry-clean names only
+    fwd_ret  = month t -> t+1 return (futures where available, else spot)
+    """
+    from .futuresdata import carry_signal, futures_returns
+    from .pricing import load_pricebook
+
+    panels = {}
+    for name in load_pricebook().commodities:
+        h = load_price_history(name)
+        if not h or len(h.months) < TREND_WINDOW + 14:
+            continue
+        months = [d for d, _ in h.months]
+        logs = [math.log(p) for _, p in h.months]
+        devs = _deviations_w(h.months, TREND_WINDOW)
+        spot_ret = {months[i]: logs[i] - logs[i - 1] for i in range(1, len(months))}
+        fut = dict(futures_returns(name))
+        ret = {m: fut.get(m, spot_ret.get(m)) for m in months}          # prefer futures TR
+        carry = dict(carry_signal(name))
+        sig = {}
+        for i in range(TREND_WINDOW + 13, len(months)):
+            m = months[i]
+            mom = sum(logs[i - 1 - k] - logs[i - 2 - k] for k in range(11))  # t-12..t-1
+            sig[m] = {"value": -devs[i], "mom": mom,
+                      "carry": carry.get(m), "fwd": ret.get(months[i + 1]) if i + 1 < len(months) else None}
+        panels[name] = sig
+    return panels
+
+
+def _zscore(vals: dict[str, float]) -> dict[str, float]:
+    xs = [v for v in vals.values() if v is not None]
+    if len(xs) < 3:
+        return {}
+    mu = sum(xs) / len(xs)
+    sd = (sum((x - mu) ** 2 for x in xs) / (len(xs) - 1)) ** 0.5 or 1e-9
+    return {k: (v - mu) / sd for k, v in vals.items() if v is not None}
+
+
+def factor_book(factors=("carry", "value"), cost_bps: float = 25.0,
+                target_vol: float = 0.20, vol_window: int = 36, max_lev: float = 2.0,
+                smooth: int = 3, split: str = "2010") -> dict:
+    """Long-only multi-factor commodity book. Each month: cross-sectionally
+    z-score each factor, average into a composite, SMOOTH it over `smooth`
+    months (cuts the turnover that costs punish), go EQUAL-WEIGHT long the
+    names with positive smoothed composite, vol-target the book (MOP), net of
+    turnover cost.
+
+    Default = carry + value: the two factors with both robust literature AND
+    positive evidence in our own backtest. Momentum is available
+    (`factors=("carry","value","mom")`) but is weak in this universe —
+    consistent with the project's own finding that these commodities
+    MEAN-REVERT; we headline what the evidence supports and report momentum's
+    standalone number rather than burying it in an equal-weight blend.
+    Long-only because the short side is a risk premium, not an edge."""
+    panels = _commodity_panels()
+    all_months = sorted({m for s in panels.values() for m in s})
+    # pass 1: composite z per (month, commodity)
+    comp_by_month = {}
+    for m in all_months:
+        comp = {}
+        for f in factors:
+            z = _zscore({c: panels[c][m][f] for c in panels if m in panels[c] and panels[c][m].get(f) is not None})
+            for c, zc in z.items():
+                comp.setdefault(c, []).append(zc)
+        comp_by_month[m] = {c: sum(v) / len(v) for c, v in comp.items() if v}
+    # pass 2: smooth each commodity's composite over the trailing `smooth` months
+    raw_rets, weights_by_month, dates = [], [], []
+    for mi, m in enumerate(all_months):
+        window = all_months[max(0, mi - smooth + 1): mi + 1]
+        smoothed = {}
+        for c in comp_by_month[m]:
+            vals = [comp_by_month[w][c] for w in window if c in comp_by_month[w]]
+            if vals:
+                smoothed[c] = sum(vals) / len(vals)
+        rets = {c: panels[c][m]["fwd"] for c in smoothed if panels[c][m].get("fwd") is not None}
+        smoothed = {c: smoothed[c] for c in smoothed if c in rets}
+        if len(smoothed) < 4:
+            continue
+        longs = [c for c, z in smoothed.items() if z > 0]
+        w = {c: 1.0 / len(longs) for c in longs} if longs else {}   # equal-weight positives
+        raw_rets.append(sum(w.get(c, 0) * rets[c] for c in rets))
+        weights_by_month.append(w)
+        dates.append(m)
+    if len(raw_rets) < 36:
+        return {"n_months": len(raw_rets)}
+
+    # MOP vol targeting on trailing realized book vol
+    scaled, turnover = [], []
+    prev_w = {}
+    for i, m in enumerate(dates):
+        wnd = raw_rets[max(0, i - vol_window):i]
+        lev = 1.0
+        if len(wnd) >= 12:
+            mu = sum(wnd) / len(wnd)
+            sd = (sum((r - mu) ** 2 for r in wnd) / (len(wnd) - 1)) ** 0.5 * math.sqrt(12)
+            lev = min(max_lev, target_vol / max(sd, 1e-6))
+        scaled.append(lev * raw_rets[i])
+        w = weights_by_month[i]
+        turnover.append(sum(abs(lev * w.get(c, 0) - prev_w.get(c, 0)) for c in set(w) | set(prev_w)))
+        prev_w = {c: lev * w.get(c, 0) for c in w}
+    cost = cost_bps / 1e4
+    net = [scaled[i] - cost * turnover[i] for i in range(len(scaled))]
+
+    # per-factor standalone (attribution) — same machinery, single factor
+    standalone = {}
+    if len(factors) > 1:
+        for f in factors:
+            standalone[f] = factor_book(factors=(f,), cost_bps=cost_bps,
+                                        target_vol=target_vol).get("net", {})
+
+    halves = {}
+    for label, pred in (("pre", lambda d: d < split), ("post", lambda d: d >= split)):
+        sub = [net[i] for i, d in enumerate(dates) if pred(d)]
+        halves[label] = _perf(sub) if len(sub) >= 24 else None
+    return {
+        "factors": list(factors), "n_months": len(dates),
+        "n_commodities": len({c for w in weights_by_month for c in w}),
+        "ann_turnover": round(12 * sum(turnover) / len(turnover), 2),
+        "gross": _perf(scaled), "net": _perf(net),
+        "bootstrap": block_bootstrap_sharpe(net),
+        "t_nw": strategy_t_stat(net),
+        "halves": halves, "standalone": standalone,
+        "weights_now": weights_by_month[-1] if weights_by_month else {},
+        "dates": dates, "net_rets": net,
+    }
+
+
+def render_factor_book(b: dict) -> str:
+    if b.get("n_months", 0) < 36:
+        return f"FACTOR BOOK — insufficient history (only {b.get('n_months', 0)} months)"
+    g, n, bo = b["gross"], b["net"], b["bootstrap"]
+    lines = [
+        f"MULTI-FACTOR BOOK — long-only {' + '.join(b['factors'])}, vol-targeted 20%, "
+        f"net of {25}bps",
+        f"  {b['n_commodities']} commodities, {b['n_months']} months, turnover {b['ann_turnover']:.1f}x/yr",
+        f"  gross:  {g['ann_ret']:+.1%}/yr  vol {g['ann_vol']:.1%}  Sharpe {g['sharpe']:.2f}  maxDD {g['max_dd']:.0%}",
+        f"  net:    {n['ann_ret']:+.1%}/yr  vol {n['ann_vol']:.1%}  Sharpe {n['sharpe']:.2f}  maxDD {n['max_dd']:.0%}",
+        f"  inference: 90% CI [{bo['ci90'][0]:.2f}, {bo['ci90'][1]:.2f}], "
+        f"P(Sharpe<=0) {bo['p_leq_0']:.1%}, NW t {b['t_nw']:.1f}",
+    ]
+    if b["halves"]["pre"] and b["halves"]["post"]:
+        lines.append(f"  split:  pre-{b.get('split','2010')[:4] if False else '2010'} Sharpe "
+                     f"{b['halves']['pre']['sharpe']:.2f} / post {b['halves']['post']['sharpe']:.2f}")
+    if b["standalone"]:
+        lines.append("  standalone factor Sharpes (net):")
+        for f, perf in b["standalone"].items():
+            if perf:
+                lines.append(f"    {f:<8} {perf['sharpe']:>5.2f}")
+    lines += ["",
+              "Carry is the addition that matters — the one factor with robust",
+              "commodity edge (GHR 2013; Koijen et al 2018). Long-only (short side is",
+              "a risk premium); futures total-return where available; net of costs and",
+              "turnover. Still a SPOT/front-month book — no full-curve optimization,",
+              "no capacity/slippage model. Decision support, never advice."]
+    return "\n".join(lines)
+
+
+def current_weights(factors=("carry", "value"), smooth: int = 3) -> dict[str, float]:
+    """The book's target weights for the MOST RECENT month (data through the
+    latest available), no forward-return needed — i.e. the live position to
+    hold now. Same composite/smooth/equal-weight-positives logic as
+    factor_book, so the paper book trades exactly what the backtest models."""
+    panels = _commodity_panels()
+    all_months = sorted({m for s in panels.values() for m in s})
+    if not all_months:
+        return {}
+    comp_by_month = {}
+    for m in all_months:
+        comp = {}
+        for f in factors:
+            z = _zscore({c: panels[c][m][f] for c in panels if m in panels[c] and panels[c][m].get(f) is not None})
+            for c, zc in z.items():
+                comp.setdefault(c, []).append(zc)
+        comp_by_month[m] = {c: sum(v) / len(v) for c, v in comp.items() if v}
+    window = all_months[-smooth:]
+    smoothed = {}
+    for c in comp_by_month[all_months[-1]]:
+        vals = [comp_by_month[w][c] for w in window if c in comp_by_month[w]]
+        if vals:
+            smoothed[c] = sum(vals) / len(vals)
+    longs = [c for c, z in smoothed.items() if z > 0]
+    return {c: round(1.0 / len(longs), 4) for c in longs} if longs else {}
+
+
+def realized_month_return(weights: dict[str, float], month: str) -> float | None:
+    """Realized book return for `weights` held over `month` -> next month, using
+    each commodity's futures (or spot) return. None until next month's price
+    exists (so a fresh snapshot stays unmarked, honestly, until it resolves)."""
+    panels = _commodity_panels()
+    tot = 0.0
+    for c, w in weights.items():
+        if c not in panels or month not in panels[c] or panels[c][month].get("fwd") is None:
+            return None
+        tot += w * panels[c][month]["fwd"]
+    return tot

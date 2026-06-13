@@ -183,6 +183,15 @@ def _cmd_spec(args):
     return 0
 
 
+def _cmd_paper(args):
+    from .paper import paper_summary, render_paper, update_paper
+
+    if args.update:
+        update_paper()
+    print(render_paper(paper_summary()))
+    return 0
+
+
 def _cmd_carry(args):
     from .futuresdata import render_carry
 
@@ -222,6 +231,12 @@ def _cmd_backtest(args: argparse.Namespace) -> int:
         sign_consistency,
         split_sample,
     )
+
+    if getattr(args, "factors", False):
+        from .backtest import factor_book, render_factor_book
+
+        print(render_factor_book(factor_book()))
+        return 0
 
     if args.tranche:
         from .backtest import render_tranche_variants
@@ -714,6 +729,10 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("carry", help="futures carry (front-basis term structure) per commodity — the factor that works")
     p.set_defaults(func=_cmd_carry)
 
+    p = sub.add_parser("paper", help="forward paper-trade of the multi-factor book — the live track record")
+    p.add_argument("--update", action="store_true", help="mark resolved months + snapshot current positions, then persist")
+    p.set_defaults(func=_cmd_paper)
+
     p = sub.add_parser("benchmark", help="walk-forward forecast benchmark vs random-walk and anchor baselines (Diebold-Mariano)")
     p.add_argument("--horizon", type=int, default=12)
     p.set_defaults(func=_cmd_benchmark)
@@ -731,6 +750,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--robustness", action="store_true", help="bias diagnostics: parameter grid, split-sample, consistency")
     p.add_argument("--tranche", action="store_true", help="12m overlapping-hold strategies (Jegadeesh-Titman), gross and net")
     p.add_argument("--sleeves", action="store_true", help="value + momentum sleeves, vol-targeted combo (the Sharpe levers)")
+    p.add_argument("--factors", action="store_true", help="the multi-factor book: carry + value, vol-targeted, costed, with inference")
     p.add_argument("--split", type=int, default=2010, help="split year for the in/out-of-sample halves")
     p.set_defaults(func=_cmd_backtest)
 

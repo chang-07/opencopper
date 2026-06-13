@@ -1290,9 +1290,40 @@ const VIEWS = {
         <table><thead><tr><th>rule</th><th class="num">theses</th><th class="num">resolved</th>
         <th class="num">hit rate</th><th class="num">avg move</th></tr></thead><tbody>${rows}</tbody></table>`;
       })() + (() => {
+        const FB = D.factorBook, PB = D.paper;
+        let html = '';
+        if (FB && FB.net) {
+          const sa = Object.entries(FB.standalone || {}).map(([k, v]) => `${k} ${v != null ? v.toFixed(2) : '—'}`).join(' · ');
+          const hv = FB.halves || {};
+          html += `<h3 style="margin:26px 0 6px;color:#e8e3da;font-weight:normal">Trading book — carry + value, the factors that actually work</h3>
+          <p style="color:var(--muted);font-size:12.5px;margin:0 0 8px">Long-only, vol-targeted (20%), net of 25bps,
+          ${FB.n_commodities} commodities over ${FB.n_months} months. <b style="color:#7fb069">net Sharpe ${FB.net.sharpe.toFixed(2)}</b>
+          (gross ${FB.gross.sharpe.toFixed(2)}; 90% CI [${FB.bootstrap.ci90[0].toFixed(2)}, ${FB.bootstrap.ci90[1].toFixed(2)}], P(≤0) ${(FB.bootstrap.p_leq_0*100).toFixed(0)}%, NW t ${FB.t_nw.toFixed(1)}),
+          ${hv.pre&&hv.post?`halves ${hv.pre.sharpe.toFixed(2)}/${hv.post.sharpe.toFixed(2)}, `:''}standalone ${sa}.
+          Carry (futures term structure, Yahoo keyless) is the addition that matters — the one robust commodity factor;
+          momentum is weak here, consistent with our mean-reversion finding, so the headline is carry+value.</p>`;
+          if (FB.equity && FB.equity.length > 2) {
+            html += `<div id="fb-chart" style="height:200px"></div>`;
+            setTimeout(() => { const el = document.getElementById('fb-chart'); if (!el) return;
+              Plotly.react('fb-chart', [{x: FB.equity.map(p=>p.month), y: FB.equity.map(p=>(Math.exp(p.logcum)-1)*100),
+                type:'scatter', mode:'lines', line:{color:'#7fb069', width:2}, name:'cumulative net %'}],
+              {paper_bgcolor:'rgba(0,0,0,0)', plot_bgcolor:'rgba(0,0,0,0)', font:{color:'#c9c2b6', family:'Georgia, serif', size:11},
+               margin:{l:48,r:8,t:6,b:24}, showlegend:false, xaxis:{gridcolor:'#283342'}, yaxis:{gridcolor:'#283342', ticksuffix:'%'}},
+              {displayModeBar:false, responsive:true}); }, 60);
+          }
+        }
+        if (PB && PB.n_snapshots) {
+          const pos = Object.keys(PB.current_positions || {});
+          const perf = PB.perf;
+          html += `<h3 style="margin:22px 0 6px;color:#e8e3da;font-weight:normal">Live paper book — the forward proof <span class="pill" style="border-color:var(--copper-hot);color:var(--copper-hot)">live since ${PB.live_start || '—'}</span></h3>
+          <p style="color:var(--muted);font-size:12.5px;margin:0 0 8px">${PB.n_resolved} month(s) marked to market, forward, no backfill.
+          ${perf ? `<b style="color:${perf.cum_ret>=0?'#7fb069':'var(--red)'}">${(perf.cum_ret*100).toFixed(1)}% cumulative</b>, ${(perf.ann_ret*100).toFixed(1)}%/yr, Sharpe ${perf.sharpe.toFixed(2)}.`
+          : 'Realized P&L is accruing — the first month resolves once next month prices print. A backtest convinces no one; a live timestamped record does.'}
+          Current long book: ${pos.length ? pos.join(', ') : 'flat'}.</p>`;
+        }
         const B = D.benchmark;
-        if (!B || !B.rows || !B.rows.length) return '';
-        return `<h3 style="margin:26px 0 6px;color:#e8e3da;font-weight:normal">Forecast benchmark — model vs the free baselines</h3>
+        if (!B || !B.rows || !B.rows.length) return html;
+        return html + `<h3 style="margin:26px 0 6px;color:#e8e3da;font-weight:normal">Forecast benchmark — model vs the free baselines</h3>
         <p style="color:var(--muted);font-size:12.5px;margin:0 0 8px">Walk-forward 12-month point forecasts,
         expanding-window slope re-fit monthly (no look-ahead), scored against the random walk and the anchor
         (Meese–Rogoff style, Diebold–Mariano t). The model beats the random walk for ${B.n_beat_rw}/${B.rows.length}

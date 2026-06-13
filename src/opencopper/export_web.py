@@ -397,6 +397,42 @@ def _benchmark_payload() -> dict:
             "n_beat_rw": sum(1 for r in rows if r.skill_vs_rw > 0)}
 
 
+def _factor_book_payload() -> dict:
+    """The multi-factor (carry+value) book: headline stats + a cumulative
+    net-return equity curve for the chart. Degrades to {} without futures."""
+    try:
+        from .backtest import factor_book
+
+        b = factor_book()
+        if b.get("n_months", 0) < 36:
+            return {}
+        eq, cum = [], 0.0
+        for i, d in enumerate(b["dates"]):
+            cum += b["net_rets"][i]
+            if i % 3 == 0 or i == len(b["dates"]) - 1:   # thin for transport
+                eq.append({"month": d, "logcum": round(cum, 4)})
+        return {
+            "factors": b["factors"], "n_months": b["n_months"],
+            "n_commodities": b["n_commodities"], "ann_turnover": b["ann_turnover"],
+            "gross": b["gross"], "net": b["net"], "bootstrap": b["bootstrap"],
+            "t_nw": b["t_nw"], "halves": b["halves"],
+            "standalone": {k: v.get("sharpe") if isinstance(v, dict) else None
+                           for k, v in b.get("standalone", {}).items()},
+            "equity": eq,
+        }
+    except Exception:
+        return {}
+
+
+def _paper_payload() -> dict:
+    try:
+        from .paper import paper_summary
+
+        return paper_summary()
+    except Exception:
+        return {}
+
+
 def _theses_payload() -> dict:
     from .theses import analytics, mark_all, rule_scorecard
 
@@ -551,6 +587,8 @@ def build_payload(
         "theses": _theses_payload(),
         "freshness": _data_freshness(),
         "benchmark": _benchmark_payload(),
+        "factorBook": _factor_book_payload(),
+        "paper": _paper_payload(),
         "policies": _policies_payload(),
         "products": _products_payload(),
         "mines": [
