@@ -164,3 +164,48 @@ def test_data_check_no_fails_and_catches_planted_corruption(tmp_path, monkeypatc
     planted = check()
     levels = {r["level"] for r in planted}
     assert "FAIL" in levels  # out-of-order + duplicate + non-positive all bite
+
+
+def test_rule_scorecard_groups_and_lifts(monkeypatch, tmp_path):
+    import opencopper.theses as th
+
+    # injected price series: copper doubles fast (hits), nickel flat (misses)
+    series = {
+        "copper": [("2025-01-01", 100.0), ("2025-02-01", 130.0), ("2025-03-01", 130.0)],
+        "nickel": [("2025-01-01", 100.0), ("2025-02-01", 101.0), ("2025-03-01", 101.0)],
+    }
+    monkeypatch.setattr(th, "_months", lambda c: series.get(c, []))
+    auto = [
+        {"id": "a", "created": "2025-01-01", "commodity": "copper", "country": "x",
+         "severity": 0.3, "claim": "c", "metric": "price_change", "min_move_pct": 5.0,
+         "horizon_months": 6, "entry_date": "2025-01-01", "entry_price": 100.0,
+         "rule_id": "grasberg", "source": "keyword-rule"},
+        {"id": "b", "created": "2025-01-01", "commodity": "nickel", "country": "y",
+         "severity": 0.2, "claim": "c", "metric": "price_change", "min_move_pct": 5.0,
+         "horizon_months": 6, "entry_date": "2025-01-01", "entry_price": 100.0,
+         "rule_id": "indonesia-nickel", "source": "keyword-rule"},
+    ]
+    monkeypatch.setattr(th, "load_auto", lambda path=th.AUTO_PATH: auto)
+    from datetime import date
+
+    sc = th.rule_scorecard(today=date(2025, 9, 1))  # both deadlines passed
+    by = {r["key"]: r for r in sc["by_rule"]}
+    assert by["grasberg"]["hit_rate"] == 1.0      # copper hit +30%
+    assert by["indonesia-nickel"]["hit_rate"] == 0.0  # nickel never moved
+    assert sc["base_rate"] == 0.5                 # one of two resolved
+    assert by["grasberg"]["lift"] == 0.5 and by["indonesia-nickel"]["lift"] == -0.5
+    # source rollup buckets both under keyword-rule, ready for an llm engine
+    src = {r["key"]: r for r in sc["by_source"]}
+    assert src["keyword-rule"]["n"] == 2
+    # the rendered card is honest about being a scoreboard, not a model input
+    text = th.render_rule_scorecard(sc)
+    assert "model NEVER changes" in text and "grasberg" in text
+
+
+def test_rule_scorecard_handles_unattributed_and_empty(monkeypatch):
+    import opencopper.theses as th
+
+    monkeypatch.setattr(th, "load_auto", lambda path=th.AUTO_PATH: [])
+    sc = th.rule_scorecard()
+    assert sc["by_rule"] == [] and sc["base_rate"] is None
+    assert "no auto-theses yet" in th.render_rule_scorecard(sc)

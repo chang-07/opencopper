@@ -11,6 +11,8 @@
   "horizon_months": 6,
   "entry_date": "2025-12-01",
   "entry_price": 62.72,
-  "basis": "From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings"
+  "basis": "From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings",
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
  }
 ]

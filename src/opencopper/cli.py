@@ -154,6 +154,11 @@ def _cmd_product(args):
 def _cmd_theses(args: argparse.Namespace) -> int:
     from .theses import mark_all, render_theses, theses_json
 
+    if getattr(args, "rules", False):
+        from .theses import render_rule_scorecard, rule_scorecard
+
+        print(render_rule_scorecard(rule_scorecard()))
+        return 0
     marked = mark_all()
     print(theses_json(marked) if args.json else render_theses(marked))
     return 0
@@ -687,6 +692,7 @@ def main(argv: list[str] | None = None) -> int:
 
     p = sub.add_parser("theses", help="scorecard: every registered + news-generated call, marked to market")
     p.add_argument("--json", action="store_true")
+    p.add_argument("--rules", action="store_true", help="per-rule track record of the news engine (hit-rate, lift, source rollup)")
     p.set_defaults(func=_cmd_theses)
 
     p = sub.add_parser("policy", help="the policy registry: laws/controls as structured data, mapped to commodities and products")

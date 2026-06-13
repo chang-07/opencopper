@@ -166,6 +166,78 @@ def analytics(marked: list[Marked]) -> dict:
     }
 
 
+def rule_scorecard(today: date | None = None) -> dict:
+    """Per-rule track record of the news engine — the learning loop done
+    honestly. Each auto-thesis carries the rule that fired and the engine
+    that produced it; grouping resolved theses by rule yields a hit-rate, an
+    average realized move, and LIFT over the base rate (does this rule beat
+    just-always-betting-a-squeeze?). The model never changes from this — but
+    a rule that keeps missing can be pruned, and a future LLM engine is
+    scored against the keyword rules on the same ledger (the `source`
+    rollup), so contextualization has to EARN its place, not be trusted."""
+    auto = load_auto()
+    marked = {t["id"]: mark_auto(t, today) for t in auto}
+    resolved_all = [m for m in marked.values() if m.status in ("hit", "miss")]
+    base_rate = (sum(1 for m in resolved_all if m.status == "hit") / len(resolved_all)
+                 if resolved_all else None)
+
+    def group(key_fn) -> list[dict]:
+        buckets: dict[str, list[dict]] = {}
+        for t in auto:
+            buckets.setdefault(key_fn(t), []).append(t)
+        rows = []
+        for key, items in buckets.items():
+            ms = [marked[t["id"]] for t in items]
+            res = [m for m in ms if m.status in ("hit", "miss")]
+            hits = sum(1 for m in res if m.status == "hit")
+            moves = [m.move_pct for m in ms if m.move_pct is not None]
+            hit_rate = round(hits / len(res), 3) if res else None
+            rows.append({
+                "key": key, "n": len(items), "resolved": len(res),
+                "hits": hits, "open": sum(1 for m in ms if m.status == "open"),
+                "hit_rate": hit_rate,
+                "lift": (round(hit_rate - base_rate, 3)
+                         if hit_rate is not None and base_rate is not None else None),
+                "avg_move_pct": round(sum(moves) / len(moves), 1) if moves else None,
+            })
+        return sorted(rows, key=lambda r: (-r["resolved"], -r["n"]))
+
+    return {
+        "base_rate": round(base_rate, 3) if base_rate is not None else None,
+        "n_resolved_total": len(resolved_all),
+        "by_rule": group(lambda t: t.get("rule_id", "unattributed")),
+        "by_source": group(lambda t: t.get("source", "keyword-rule")),
+    }
+
+
+def render_rule_scorecard(sc: dict) -> str:
+    lines = ["NEWS RULE SCORECARD — does each rule's flag actually predict?",
+             ""]
+    if not sc["by_rule"]:
+        return "\n".join(lines + ["_no auto-theses yet — `opencopper news` mints them_"])
+    lines.append(f"{'rule':<24}{'n':>4}{'resolved':>9}{'hit rate':>10}{'lift':>8}{'avg move':>10}")
+    lines.append("-" * 65)
+    for r in sc["by_rule"]:
+        hr = f"{r['hit_rate']:.0%}" if r["hit_rate"] is not None else f"({r['open']} open)"
+        lift = f"{r['lift']:+.0%}" if r["lift"] is not None else "—"
+        mv = f"{r['avg_move_pct']:+.1f}%" if r["avg_move_pct"] is not None else "—"
+        lines.append(f"{r['key'][:23]:<24}{r['n']:>4}{r['resolved']:>9}{hr:>10}{lift:>8}{mv:>10}")
+    base = f"{sc['base_rate']:.0%}" if sc["base_rate"] is not None else "n/a"
+    lines += ["",
+              f"base rate (all resolved auto-theses): {base} over {sc['n_resolved_total']}; "
+              "lift = rule hit-rate minus base rate.",
+              "",
+              "engine rollup (the head-to-head a future LLM engine would join):"]
+    for r in sc["by_source"]:
+        hr = f"{r['hit_rate']:.0%}" if r["hit_rate"] is not None else f"{r['open']} open"
+        lines.append(f"  {r['key']:<16} n={r['n']:<4} resolved={r['resolved']:<3} hit-rate {hr}")
+    lines += ["",
+              "The model NEVER changes from this — it scores the news engine's calls so",
+              "dead rules can be pruned and better contextualization has to out-predict",
+              "the keyword baseline, not just sound smarter. Accumulates as theses resolve."]
+    return "\n".join(lines)
+
+
 def render_theses(marked: list[Marked]) -> str:
     from .signals import DISCLAIMER
 
@@ -237,6 +309,11 @@ def generate_auto_theses(hits: list[dict], today: str,
             "entry_date": entry_date,
             "entry_price": entry_price,
             "basis": h["headline"][:140],
+            # provenance for the per-rule scorecard: which rule fired and which
+            # engine produced it (keyword-rule today; an LLM engine would tag
+            # "llm" and be scored head-to-head on the same ledger)
+            "rule_id": h.get("rule_id", "unattributed"),
+            "source": h.get("source", "keyword-rule"),
         })
         seen.add(ident)
     if added:

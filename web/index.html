@@ -1093,6 +1093,22 @@ const VIEWS = {
         until someone owns the grade). Brier-scored where the model attached a probability.
         Prose version: <a href="https://github.com/chang-07/opencopper/blob/main/PREDICTIONS.md"
         style="color:var(--copper-hot)">PREDICTIONS.md</a>.</p>` + (() => {
+        const sc = T.rule_scorecard;
+        if (!sc || !sc.by_rule || !sc.by_rule.length) return '';
+        const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+        const rows = sc.by_rule.map(r => `<tr><td><b>${esc(r.key)}</b></td>
+          <td class="num">${r.n}</td><td class="num">${r.resolved}</td>
+          <td class="num">${r.hit_rate != null ? (r.hit_rate * 100).toFixed(0) + '%' : '<span class="sim-unit">' + r.open + ' open</span>'}</td>
+          <td class="num">${r.avg_move_pct != null ? (r.avg_move_pct >= 0 ? '+' : '') + r.avg_move_pct + '%' : '—'}</td></tr>`).join('');
+        return `<h3 style="margin:26px 0 6px;color:#e8e3da;font-weight:normal">News rule scorecard — does each rule's flag predict?</h3>
+        <p style="color:var(--muted);font-size:12.5px;margin:0 0 8px">Every news-generated thesis is tagged
+        with the rule that fired and the engine that produced it. Grouping resolved theses by rule gives a
+        per-rule hit-rate — so dead rules get pruned, and any future LLM-contextualization engine has to
+        OUT-PREDICT the keyword baseline on this same ledger, not just sound smarter. The model never changes
+        from it. Accumulates as theses resolve (base rate ${sc.base_rate != null ? (sc.base_rate * 100).toFixed(0) + '%' : 'n/a'} over ${sc.n_resolved_total}).</p>
+        <table><thead><tr><th>rule</th><th class="num">theses</th><th class="num">resolved</th>
+        <th class="num">hit rate</th><th class="num">avg move</th></tr></thead><tbody>${rows}</tbody></table>`;
+      })() + (() => {
         const B = D.benchmark;
         if (!B || !B.rows || !B.rows.length) return '';
         return `<h3 style="margin:26px 0 6px;color:#e8e3da;font-weight:normal">Forecast benchmark — model vs the free baselines</h3>

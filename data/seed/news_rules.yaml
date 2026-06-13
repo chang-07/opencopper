@@ -12,19 +12,19 @@ feeds:
   - "uranium kazakhstan OR platinum south africa mine"
   - "china graphite export restriction"
 rules:
-  - {match: ["grasberg"], commodity: copper, country: Indonesia, severity: 0.30, note: "Grasberg incident"}
-  - {match: ["escondida", "strike|halt|stoppage"], commodity: copper, country: Chile, severity: 0.10}
-  - {match: ["cobre panama|cobre panamá", "restart|reopen|approval"], commodity: copper, country: Panama, severity: -0.10, note: "restart = supply ADD"}
-  - {match: ["chile", "earthquake|strike", "copper|mine"], commodity: copper, country: Chile, severity: 0.10}
-  - {match: ["congo|drc", "cobalt", "ban|quota|suspend"], commodity: cobalt, country: "Congo (Kinshasa)", severity: 0.40}
-  - {match: ["indonesia", "nickel", "ban|quota|rkab|restrict"], commodity: nickel, country: Indonesia, severity: 0.25}
-  - {match: ["china", "rare earth|rare-earth", "export|control|restrict"], commodity: rare-earths, country: China, severity: 0.25}
-  - {match: ["hormuz|strait of hormuz"], commodity: crude-oil, country: Saudi Arabia, severity: 0.20, note: "transit proxy on Gulf supply"}
-  - {match: ["opec", "cut|cuts|curb"], commodity: crude-oil, country: Saudi Arabia, severity: 0.08}
-  - {match: ["russia|ukraine", "wheat|grain", "export|blockade|strike"], commodity: wheat, country: Russia, severity: 0.15}
-  - {match: ["myanmar|wa state", "tin"], commodity: tin, country: "Burma (Myanmar)", severity: 0.30}
-  - {match: ["kazatomprom|kazakhstan", "uranium"], commodity: uranium, country: Kazakhstan, severity: 0.15}
-  - {match: ["south africa|eskom|amplats|implats|sibanye", "platinum|pgm", "outage|curtail|strike|cut"], commodity: platinum, country: South Africa, severity: 0.15}
-  - {match: ["china", "graphite", "export|licen|restrict|ban"], commodity: graphite, country: China, severity: 0.30, note: "Dec-2023 licensing regime precedent"}
-  - {match: ["groote|gemco", "manganese|cyclone"], commodity: manganese, country: Australia, severity: 0.20, note: "Groote Eylandt 2024 precedent"}
+  - {id: grasberg, match: ["grasberg"], commodity: copper, country: Indonesia, severity: 0.30, note: "Grasberg incident"}
+  - {id: escondida-strike, match: ["escondida", "strike|halt|stoppage"], commodity: copper, country: Chile, severity: 0.10}
+  - {id: cobre-panama-restart, match: ["cobre panama|cobre panamá", "restart|reopen|approval"], commodity: copper, country: Panama, severity: -0.10, note: "restart = supply ADD"}
+  - {id: chile-quake, match: ["chile", "earthquake|strike", "copper|mine"], commodity: copper, country: Chile, severity: 0.10}
+  - {id: drc-cobalt-ban, match: ["congo|drc", "cobalt", "ban|quota|suspend"], commodity: cobalt, country: "Congo (Kinshasa)", severity: 0.40}
+  - {id: indonesia-nickel, match: ["indonesia", "nickel", "ban|quota|rkab|restrict"], commodity: nickel, country: Indonesia, severity: 0.25}
+  - {id: china-ree, match: ["china", "rare earth|rare-earth", "export|control|restrict"], commodity: rare-earths, country: China, severity: 0.25}
+  - {id: hormuz, match: ["hormuz|strait of hormuz"], commodity: crude-oil, country: Saudi Arabia, severity: 0.20, note: "transit proxy on Gulf supply"}
+  - {id: opec-cut, match: ["opec", "cut|cuts|curb"], commodity: crude-oil, country: Saudi Arabia, severity: 0.08}
+  - {id: blacksea-wheat, match: ["russia|ukraine", "wheat|grain", "export|blockade|strike"], commodity: wheat, country: Russia, severity: 0.15}
+  - {id: myanmar-tin, match: ["myanmar|wa state", "tin"], commodity: tin, country: "Burma (Myanmar)", severity: 0.30}
+  - {id: kazakh-uranium, match: ["kazatomprom|kazakhstan", "uranium"], commodity: uranium, country: Kazakhstan, severity: 0.15}
+  - {id: sa-platinum, match: ["south africa|eskom|amplats|implats|sibanye", "platinum|pgm", "outage|curtail|strike|cut"], commodity: platinum, country: South Africa, severity: 0.15}
+  - {id: china-graphite, match: ["china", "graphite", "export|licen|restrict|ban"], commodity: graphite, country: China, severity: 0.30, note: "Dec-2023 licensing regime precedent"}
+  - {id: groote-manganese, match: ["groote|gemco", "manganese|cyclone"], commodity: manganese, country: Australia, severity: 0.20, note: "Groote Eylandt 2024 precedent"}
 max_age_days: 14

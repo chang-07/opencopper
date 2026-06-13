@@ -149,6 +149,14 @@ reaches the battery pack mostly through the **cobalt byproduct channel** —
 linkage graph → incidence → BOM, composed. Cost-base passthrough only;
 margins, contracts and pricing power are named as unmodeled.
 
+**The news engine is scored, rule by rule.** Every news-generated thesis
+carries the rule that fired and the engine that produced it, so
+`opencopper theses --rules` builds a per-rule hit-rate and lift over time —
+dead rules get pruned, and any future LLM-contextualization engine has to
+out-predict the keyword baseline on the same ledger (the `source` rollup),
+not just sound smarter. News makes scored predictions; the scorecard, not a
+language model, decides what's signal.
+
 **The system grades its own calls.** `data/theses.yaml` is PREDICTIONS.md in
 machine-readable form; markable theses grade themselves off keyless series
 (the copper-2026 band call reads its own YTD standing every run), external

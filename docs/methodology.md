@@ -302,6 +302,41 @@ Scenario composition: `ripple_events` generalizes the linkage propagation to
 multi-event scenarios (Hormuz's multi-country withdrawal aggregates into one
 incidence pass per commodity), so any shipped scenario prices any product.
 
+## The news engine earns its place: per-rule scoring, and the LLM question
+
+Every news-generated thesis is tagged with the **rule that fired** and the
+**engine that produced it** (`opencopper theses --rules`). Grouping resolved
+theses by rule yields a per-rule hit-rate and a *lift* over the base rate —
+so a rule that keeps missing gets pruned, and the news loop gets smarter
+without the model ever changing. This is the deliberate design answer to
+"should we feed news into the model": news doesn't move a parameter; it
+makes scored predictions, and the **scorecard** — not an LLM, not a vibe —
+decides which signals have value.
+
+The `source` field is the seat we left for a language model. The keyword
+matcher is brittle (it misses paraphrase and can't read severity from
+prose), and an LLM is genuinely better at *contextualizing* a headline into
+a structured event. Where it belongs:
+
+- **Offline, as a rule-authoring assistant — yes.** An LLM reading a corpus
+  of past headlines to *propose* new keyword rules and event templates that
+  a human commits to `news_rules.yaml` is exactly the pattern the mine
+  ledger already uses (LLM extracts from EX-96 filings → cited → the
+  *committed data* is what the engine reads). The runtime stays keyless,
+  deterministic, and reproducible; the LLM never runs in the daily Action.
+- **Online, as a competing engine — only if scored.** If an LLM ever runs in
+  the loop, it tags its theses `source: llm` and is scored head-to-head
+  against the keyword baseline on this same ledger. It has to *out-predict*,
+  not out-articulate. And it must degrade gracefully to keyless when no key
+  is present, so the $0 autonomy survives.
+- **Letting an LLM silently read severities into the live numbers — no.**
+  That launders a hallucinated prior into something that looks measured,
+  breaks reproducibility, and violates the severities-are-priors contract.
+
+The discipline is the same one that runs through the whole project: a new
+input earns its way in by out-predicting a baseline out-of-sample, or it
+stays out.
+
 ## The thesis ledger: the system grades its own calls
 
 PREDICTIONS.md is prose; `data/theses.yaml` is its machine-readable twin,

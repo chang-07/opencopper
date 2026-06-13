@@ -37,6 +37,9 @@ class NewsHit:
     commodity: str
     country: str
     severity: float
+    rule_id: str = ""           # which rule fired (per-rule scorecard attribution)
+    source: str = "keyword-rule"  # the engine that produced it; an LLM engine
+                                  # would tag "llm" and get scored head-to-head
 
 
 def load_rules() -> dict:
@@ -108,6 +111,7 @@ def match_rules(items: list[dict], rules: list[dict]) -> list[NewsHit]:
                     headline=it["title"], link=it["link"], published=it["published"],
                     rule_note=rule.get("note", ""), commodity=rule["commodity"],
                     country=rule["country"], severity=rule["severity"],
+                    rule_id=rule.get("id", f"{rule['commodity']}:{rule['country']}"),
                 ))
                 break  # one rule per headline
     return hits

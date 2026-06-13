@@ -398,12 +398,13 @@ def _benchmark_payload() -> dict:
 
 
 def _theses_payload() -> dict:
-    from .theses import analytics, mark_all
+    from .theses import analytics, mark_all, rule_scorecard
 
     from dataclasses import asdict as _asdict
 
     marked = mark_all()
-    return {"analytics": analytics(marked), "rows": [_asdict(m) for m in marked]}
+    return {"analytics": analytics(marked), "rows": [_asdict(m) for m in marked],
+            "rule_scorecard": rule_scorecard()}
 
 
 def _data_freshness() -> list[dict]:
