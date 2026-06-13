@@ -183,6 +183,13 @@ def _cmd_spec(args):
     return 0
 
 
+def _cmd_carry(args):
+    from .futuresdata import render_carry
+
+    print(render_carry())
+    return 0
+
+
 def _cmd_benchmark(args):
     from .benchmark import benchmark_all, render_benchmark
 
@@ -704,13 +711,16 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--paths", type=int, default=600)
     p.set_defaults(func=_cmd_spec)
 
+    p = sub.add_parser("carry", help="futures carry (front-basis term structure) per commodity — the factor that works")
+    p.set_defaults(func=_cmd_carry)
+
     p = sub.add_parser("benchmark", help="walk-forward forecast benchmark vs random-walk and anchor baselines (Diebold-Mariano)")
     p.add_argument("--horizon", type=int, default=12)
     p.set_defaults(func=_cmd_benchmark)
 
     p = sub.add_parser("data", help="one view over every cache: freshness, rows, latest date; force refresh")
     p.add_argument("action", choices=["status", "refresh", "check"], nargs="?", default="status")
-    p.add_argument("--source", choices=["all", "fred", "pinksheet"], default="all")
+    p.add_argument("--source", choices=["all", "fred", "pinksheet", "futures"], default="all")
     p.set_defaults(func=_cmd_data)
 
     p = sub.add_parser("backtest", help="walk-forward test: does the regime signal predict forward returns? (34yr, NW t-stats)")

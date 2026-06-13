@@ -58,6 +58,11 @@ def status() -> list[SourceStatus]:
     out.append(SourceStatus("pink sheet workbook", "pinksheet", str(XLSX_CACHE),
                             None if age is None else round(age, 2), None, None))
 
+    from .futuresdata import YAHOO_FUTURES
+    for name, cfg in YAHOO_FUTURES.items():
+        out.append(_csv_status(f"{name} ({cfg.symbol})", "futures",
+                               PRICE_CACHE_DIR / f"yahoo-{cfg.symbol.replace('=', '_')}.csv"))
+
     minmod = Path("data/minmod")
     files = sorted(minmod.glob("*.json")) if minmod.exists() else []
     for f in files:
@@ -106,6 +111,15 @@ def refresh(kind: str = "all") -> list[str]:
                 log.append(f"pinksheet {name:<10} {len(rows)} rows, latest {rows[-1][0]}")
             except Exception as exc:
                 log.append(f"pinksheet {name:<10} FAILED: {exc}")
+    if kind in ("all", "futures"):
+        from .futuresdata import YAHOO_FUTURES, cached_front
+
+        for name in YAHOO_FUTURES:
+            try:
+                rows = cached_front(name, ttl_days=-1)
+                log.append(f"futures {name:<11} {len(rows or [])} mo, latest {rows[-1][0] if rows else '-'}")
+            except Exception as exc:
+                log.append(f"futures {name:<11} FAILED: {exc}")
     return log
 
 
@@ -205,6 +219,8 @@ def check() -> list[dict]:
     # doing no work and should be re-seeded
     from .history import load_price_history
     for name, p in sorted(book.commodities.items()):
+        if p.series_is_index:
+            continue  # an index level isn't comparable to a USD anchor (gold)
         h = load_price_history(name)
         if not h:
             continue
@@ -236,6 +252,19 @@ def check() -> list[dict]:
             f"{len(cpi)} rows, latest {cpi[-1][0]}")
     except Exception as exc:
         add("WARN", "CPI (CPIAUCSL)", f"unavailable: {exc}")
+
+    # futures caches (auxiliary — WARN only, never fail the build on a Yahoo hiccup)
+    from .futuresdata import YAHOO_FUTURES, cached_front
+
+    missing = []
+    for name in YAHOO_FUTURES:
+        rows = cached_front(name)
+        if not rows:
+            missing.append(name)
+    if missing:
+        add("WARN", "futures (Yahoo)", f"{len(missing)} unavailable: {', '.join(missing[:5])}")
+    else:
+        add("PASS", "futures (Yahoo)", f"{len(YAHOO_FUTURES)} front-continuous series cached")
     return out
 
 
