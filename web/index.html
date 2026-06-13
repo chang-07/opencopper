@@ -102,6 +102,15 @@
   .trk { display: flex; justify-content: space-between; padding: 5px 0; font-size: 13px; border-bottom: 1px solid var(--border); }
   .trk:last-child { border-bottom: 0; }
   .trk b { font-variant-numeric: tabular-nums; }
+  .ov { background: var(--panel); color: var(--muted); border: 1px solid var(--border);
+    border-radius: 999px; padding: 3px 11px; font-size: 12.5px; cursor: pointer; }
+  .ov.active { color: var(--text); border-color: var(--copper-hot); }
+  #atlas-detail:not(:empty) { background: var(--panel2); border: 1px solid var(--border);
+    border-left: 3px solid var(--copper-hot); border-radius: 10px; padding: 12px 14px; margin: 12px 0 0; }
+  #atlas-detail .dt-head { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  #atlas-detail .dt-head b { font-size: 15px; }
+  #atlas-detail .dt-close { margin-left: auto; cursor: pointer; color: var(--muted); }
+  #atlas-detail .dt-row { font-size: 13px; color: var(--text); padding: 3px 0; }
   .sim-card { background: var(--panel2); border: 1px solid var(--border); border-left: 3px solid var(--copper);
     border-radius: 8px; padding: 11px 14px; }
   .sim-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
@@ -514,12 +523,14 @@ const VIEWS = {
         <label>by</label>
         <input type="range" id="sim-sev" min="0" max="${sevVals.length - 1}" value="4" step="1">
         <span class="value" id="sim-sevval"></span>
-        <select id="sim-dep"><option value="">deposit overlay: off</option>` +
-        Object.keys(D.deposits || {}).map(c => `<option value="${c}">deposits: ${c}</option>`).join('') +
-        `<option value="__mines">tracked copper mines</option></select>
+        <span class="overlays" style="display:inline-flex;gap:6px">
+          <button class="ov active" data-ov="events">● events</button>
+          <button class="ov" data-ov="mines">▪ mines</button>
+          <button class="ov" data-ov="deposits">◆ deposits</button></span>
         <button id="copy-link" class="jump" style="border-style:dashed">copy link</button>`;
       let mode = 'country', direction = -1, curvePick = null;
       host.table.innerHTML = `<div id="atlas-live" class="dash"></div>
+        <div id="atlas-detail"></div>
         <div id="sim-cards"></div>
         <div id="atlas-products"></div>
         <div id="curve-wrap" style="display:none">
@@ -662,55 +673,105 @@ const VIEWS = {
       const regimeBadge = r => r ? `<span class="pill" style="border-color:${
         r === 'tight' ? '#c4604f' : r === 'glut' ? '#5b8fb9' : '#283342'}">${r}</span>` : '';
 
+      const PLOTLY_NAME = {'Congo (Kinshasa)': 'Democratic Republic of the Congo',
+        'United States': 'United States of America', 'Burma (Myanmar)': 'Myanmar'};
+      const overlays = new Set(['events']);
+      const eventsByCountry = () => {
+        const by = {};
+        for (const e of ((D.news || {}).events || [])) {
+          const c = countries.find(x => x.country === e.country);
+          if (!c) continue;
+          (by[e.country] = by[e.country] || {c, evs: []}).evs.push(e);
+        }
+        return by;
+      };
+
+      // click-to-view: a detail panel that routes by what was clicked
+      const showDetail = cd => {
+        const box = document.getElementById('atlas-detail');
+        const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+        const close = `<span class="dt-close" onclick="document.getElementById('atlas-detail').innerHTML=''">✕</span>`;
+        if (cd.type === 'country') {
+          const c = countries.find(x => x.country === cd.name); if (!c) return;
+          const coms = Object.entries(c.commodities).sort((a,b)=>b[1].share-a[1].share)
+            .map(([n,i]) => `<span class="pill" style="cursor:pointer" onclick="window.atlasCurve&&window.atlasCurve('${n}')">${n} ${(i.share*100).toFixed(0)}%</span>`).join(' ');
+          const evs = (eventsByCountry()[cd.name] || {evs: []}).evs;
+          box.innerHTML = `<div class="dt-head"><b>${esc(cd.name)}</b>
+            <span class="pill">criticality #${countries.indexOf(c)+1}/${countries.length}</span>${close}</div>
+            <div class="dt-row" style="margin-top:6px">${coms}</div>
+            ${evs.length ? `<div class="dt-row" style="margin-top:6px">🔴 ${evs.length} live event(s): ` +
+              evs.map(e => `<a href="${esc(e.link)}" target="_blank" style="color:var(--copper-hot)">${esc(e.commodity)}</a>`).join(', ') + '</div>' : ''}
+            <div class="dt-row sim-unit">now shocked on the simulator below — drag severity to push it.</div>`;
+        } else if (cd.type === 'mine') {
+          const m = cd.m;
+          box.innerHTML = `<div class="dt-head"><b>${esc(m.name)}</b><span class="pill">${esc(m.status)}</span>${close}</div>
+            <div class="dt-row">${esc(m.country)} · ${esc(m.owner)}</div>
+            <div class="dt-row">capacity ${fmt(m.capacity_kt)} kt · 2026e ${fmt(m.production_2026_kt)} kt · basis ${esc(m.basis||'?')}</div>
+            ${m.notes ? `<div class="dt-row sim-unit">${esc(m.notes)}</div>` : ''}`;
+        } else if (cd.type === 'deposit') {
+          const d = cd.d;
+          box.innerHTML = `<div class="dt-head"><b>${esc(d.name)}</b><span class="pill">${esc(d.deposit_type||'deposit')}</span>${close}</div>
+            <div class="dt-row">${esc(d.country)} · contained ${fmt(d.contained_kt)} kt</div>
+            <div class="dt-row sim-unit">an in-ground deposit (MinMod), not production — the endowment, not the flow.</div>`;
+        } else if (cd.type === 'event') {
+          box.innerHTML = `<div class="dt-head"><b>🔴 ${esc(cd.country)} — ${cd.evs.length} live event(s)</b>${close}</div>` +
+            cd.evs.map(e => `<div class="dt-row" style="margin-top:4px">
+              <a href="${esc(e.link)}" target="_blank" style="color:var(--copper-hot)">${esc(e.headline)}</a><br>
+              <span class="sim-unit">${esc(e.commodity)} · prior −${(e.severity*100).toFixed(0)}% · ${timeAgo(e.published)||'recent'}</span></div>`).join('');
+        }
+      };
+
+      let mapKey = null, clickBound = false;
       const drawMap = selected => {
         const sel = countries.find(c => c.country === selected);
-        const traces = [];
-        // share choropleth for the focus commodity: geography gets substance
-        const PLOTLY_NAME = {'Congo (Kinshasa)': 'Democratic Republic of the Congo',
-          'United States': 'United States of America', 'Burma (Myanmar)': 'Myanmar'};
         const focus = curvePick || (sel ? Object.entries(sel.commodities)
           .sort((a, b) => b[1].share - a[1].share)[0]?.[0] : null);
+        // memoize: the geo only depends on selection, focus commodity and the
+        // active overlays — NOT on the severity slider, so dragging severity
+        // no longer thrashes the globe (the glitch).
+        const key = JSON.stringify([selected || '', focus || '', [...overlays].sort()]);
+        if (key === mapKey) return;
+        mapKey = key;
+
+        const traces = [];
         const com = focus && (D.commodities || []).find(c => c.name === focus);
-        if (com) {
-          traces.push({
-            type: 'choropleth', locationmode: 'country names',
-            locations: com.producers.map(pr => PLOTLY_NAME[pr.country] || pr.country),
-            z: com.producers.map(pr => pr.share * 100),
-            colorscale: [[0, 'rgba(184,115,51,0.05)'], [1, 'rgba(196,96,79,0.55)']],
-            zmin: 0, zmax: Math.max(30, ...com.producers.map(pr => pr.share * 100)),
-            showscale: false, hoverinfo: 'text',
-            text: com.producers.map(pr => `${pr.country}: ${(pr.share * 100).toFixed(0)}% of world ${focus}`),
-            marker: {line: {color: '#0e1319', width: 0.4}},
-          });
-        }
-        const depCommodity = document.getElementById('sim-dep').value;
-        if (depCommodity === '__mines') {
-          traces.push({
+        if (com) traces.push({
+          type: 'choropleth', locationmode: 'country names',
+          locations: com.producers.map(pr => PLOTLY_NAME[pr.country] || pr.country),
+          z: com.producers.map(pr => pr.share * 100),
+          colorscale: [[0, 'rgba(184,115,51,0.05)'], [1, 'rgba(196,96,79,0.55)']],
+          zmin: 0, zmax: Math.max(30, ...com.producers.map(pr => pr.share * 100)),
+          showscale: false, hoverinfo: 'text',
+          text: com.producers.map(pr => `${pr.country}: ${(pr.share * 100).toFixed(0)}% of world ${focus}`),
+          marker: {line: {color: '#0e1319', width: 0.4}},
+        });
+        if (overlays.has('deposits')) {
+          const dep = (D.deposits || {}).copper || [];
+          if (dep.length) traces.push({
             type: 'scattergeo', mode: 'markers', hoverinfo: 'text',
-            lat: (D.mines || []).map(m => m.lat), lon: (D.mines || []).map(m => m.lon),
-            text: (D.mines || []).map(m => `<b>${m.name}</b> — ${m.country}<br>${m.owner}<br>${m.status} · cap ${fmt(m.capacity_kt)} kt · 2026e ${fmt(m.production_2026_kt)} kt`),
-            marker: {symbol: 'square', size: (D.mines || []).map(m => 4 + Math.sqrt(m.capacity_kt) / 4),
-                     color: '#c9a227', opacity: 0.75, line: {color: '#0f1318', width: 0.5}},
+            lat: dep.map(d => d.lat), lon: dep.map(d => d.lon),
+            customdata: dep.map(d => ({type: 'deposit', d})),
+            text: dep.map(d => `◆ ${d.name} — ${d.country} (deposit)`),
+            marker: {symbol: 'diamond', size: dep.map(d => 3 + Math.sqrt(d.contained_kt) / 30),
+                     color: '#4fa8a0', opacity: 0.45, line: {color: '#0f1318', width: 0.5}},
           });
         }
-        const depLayer = (depCommodity && depCommodity !== '__mines') ? (D.deposits[depCommodity] || []) : [];
-        if (depLayer.length) {
-          traces.push({
-            type: 'scattergeo', mode: 'markers', hoverinfo: 'text',
-            lat: depLayer.map(d => d.lat), lon: depLayer.map(d => d.lon),
-            text: depLayer.map(d => `<b>${d.name}</b> — ${d.country}<br>${d.deposit_type}<br>contained ${fmt(d.contained_kt)} kt (deposit, not production)`),
-            marker: {symbol: 'diamond', size: depLayer.map(d => 3 + Math.sqrt(d.contained_kt) / 30),
-                     color: '#4fa8a0', opacity: 0.4, line: {color: '#0f1318', width: 0.5}},
-          });
-        }
+        if (overlays.has('mines')) traces.push({
+          type: 'scattergeo', mode: 'markers', hoverinfo: 'text',
+          lat: (D.mines || []).map(m => m.lat), lon: (D.mines || []).map(m => m.lon),
+          customdata: (D.mines || []).map(m => ({type: 'mine', m})),
+          text: (D.mines || []).map(m => `▪ ${m.name} — ${m.country} (${m.status})`),
+          marker: {symbol: 'square', size: (D.mines || []).map(m => 4 + Math.sqrt(m.capacity_kt) / 4),
+                   color: '#c9a227', opacity: 0.8, line: {color: '#0f1318', width: 0.5}},
+        });
         traces.push({
           type: 'scattergeo', mode: 'markers',
           lat: countries.map(c => c.lat), lon: countries.map(c => c.lon),
-          customdata: countries.map(c => c.country),
+          customdata: countries.map(c => ({type: 'country', name: c.country})),
           text: countries.map(c => {
             const coms = Object.entries(c.commodities).sort((a,b)=>b[1].share-a[1].share)
               .slice(0,4).map(([n,i]) => `${n} ${(i.share*100).toFixed(0)}%`).join(', ');
-            return `<b>${c.country}</b><br>criticality ${c.criticality}<br>${coms}`;
+            return `<b>${c.country}</b> — click to shock<br>criticality ${c.criticality}<br>${coms}`;
           }),
           hoverinfo: 'text',
           marker: {
@@ -720,25 +781,18 @@ const VIEWS = {
             cmin: 0, cmax: 0.6, opacity: 0.82, line: {color: '#0f1318', width: 1},
           },
         });
-        // LIVE EVENTS: rule-matched news plotted where it's happening. Clicking
-        // a pin shocks that country (customdata = country, shared handler).
-        const evByCountry = {};
-        for (const e of ((D.news || {}).events || [])) {
-          const c = countries.find(x => x.country === e.country);
-          if (!c) continue;
-          (evByCountry[e.country] = evByCountry[e.country] || {c, evs: []}).evs.push(e);
+        if (overlays.has('events')) {
+          const evEntries = Object.values(eventsByCountry());
+          if (evEntries.length) traces.push({
+            type: 'scattergeo', mode: 'markers', hoverinfo: 'text',
+            lat: evEntries.map(x => x.c.lat), lon: evEntries.map(x => x.c.lon),
+            customdata: evEntries.map(x => ({type: 'event', country: x.c.country, evs: x.evs})),
+            text: evEntries.map(x => `🔴 ${x.evs.length} live event(s) — ${x.c.country}, click for detail`),
+            marker: {size: evEntries.map(x => 16 + 4 * Math.min(x.evs.length, 4)),
+                     color: 'rgba(196,96,79,0.25)', symbol: 'circle',
+                     line: {color: '#e8954f', width: 2}},
+          });
         }
-        const evEntries = Object.values(evByCountry);
-        if (evEntries.length) traces.push({
-          type: 'scattergeo', mode: 'markers', hoverinfo: 'text',
-          lat: evEntries.map(x => x.c.lat), lon: evEntries.map(x => x.c.lon),
-          customdata: evEntries.map(x => x.c.country),
-          text: evEntries.map(x => `🔴 ${x.evs.length} live event(s) — ${x.c.country}<br>` +
-            x.evs.slice(0, 2).map(e => `<b>${e.commodity}</b>: ${e.headline.slice(0, 70)}`).join('<br>')),
-          marker: {size: evEntries.map(x => 16 + 4 * Math.min(x.evs.length, 4)),
-                   color: 'rgba(196,96,79,0.25)', symbol: 'circle',
-                   line: {color: '#e8954f', width: 2}},
-        });
         if (sel) traces.push({
           type: 'scattergeo', mode: 'markers', lat: [sel.lat], lon: [sel.lon], hoverinfo: 'skip',
           marker: {size: 8 + Math.sqrt(sel.criticality) * 30 + 14, color: 'rgba(0,0,0,0)',
@@ -753,11 +807,23 @@ const VIEWS = {
             showcountries: true, countrycolor: '#2a3543', coastlinecolor: '#36435a',
             coastlinewidth: 0.8, showframe: false},
         }, {displayModeBar: false, responsive: true});
-        const el = document.getElementById('chart');
-        el.on('plotly_click', ev => {
-          const name = ev.points[0].customdata;
-          if (name) { document.getElementById('sim-country').value = name; update(); }
-        });
+        // bind the click handler exactly ONCE per init (re-binding per draw was
+        // the leak; clear any handler a prior tab visit left on the same div)
+        if (!clickBound) {
+          clickBound = true;
+          const gd = document.getElementById('chart');
+          if (gd.removeAllListeners) gd.removeAllListeners('plotly_click');
+          gd.on('plotly_click', ev => {
+            const cd = ev.points && ev.points[0] && ev.points[0].customdata;
+            if (!cd || typeof cd !== 'object') return;
+            showDetail(cd);
+            const country = cd.type === 'country' ? cd.name : cd.type === 'event' ? cd.country : null;
+            if (country && countries.some(c => c.country === country) && mode === 'country') {
+              document.getElementById('sim-country').value = country;
+              update();
+            }
+          });
+        }
       };
 
       let showAll = false;
@@ -940,7 +1006,12 @@ const VIEWS = {
       document.getElementById('sim-country').onchange = update;
       document.getElementById('sim-driver').onchange = update;
       document.getElementById('sim-sev').oninput = update;
-      document.getElementById('sim-dep').onchange = update;
+      document.querySelectorAll('.ov').forEach(b => b.onclick = () => {
+        const k = b.dataset.ov;
+        if (overlays.has(k)) overlays.delete(k); else overlays.add(k);
+        b.classList.toggle('active', overlays.has(k));
+        drawMap(mode === 'country' ? document.getElementById('sim-country').value : null);
+      });
       document.getElementById('copy-link').onclick = () => {
         navigator.clipboard && navigator.clipboard.writeText(location.href);
         const b = document.getElementById('copy-link');
