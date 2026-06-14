@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher? - WIRED
-*Sun, 14 Jun 2026 10:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcW9ZNWVSNmhTTWlBQU9hMUgxOU5OWmtxbmtHcnY5dmRzNTFyM1hETUJfM1VyLTBibXlYdV9jbUZrMVREV2tTbDU3ZUphc05qU1dKNWM4Q1R0RlBxSXVYaHQ0TDRGWDFndkhtcWNmd29ncmY4bFdKR3hpSlQxaFN0S0pYNUxJQ0gzMHVSeUY2dlNjVk0?oc=5)
+## From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings
+*Mon, 08 Jun 2026 16:18:40 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2pWUm5VV2RFLTM1SlI4ZUFCb1FvTkczeWExQ3dTcEx2RUFRdmpUOEsyTHFVQUdsSmpZRURZZmxmbWwzMzFTaHBiSVNSRHVoei1ONC1QRlE0TjlpbUM3aGxYZTFxMTRURWV6Yl9EOG01Zmx1NkZRTEZSUDE2WEp6djhsZ0hneU1aZ09vOXFUeUhMclBrNVhGXzUxdUpzVlVicWE1YTNiTXI?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,7 +22,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _17 corroborating headline(s):_
-- [From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2pWUm5VV2RFLTM1SlI4ZUFCb1FvTkczeWExQ3dTcEx2RUFRdmpUOEsyTHFVQUdsSmpZRURZZmxmbWwzMzFTaHBiSVNSRHVoei1ONC1QRlE0TjlpbUM3aGxYZTFxMTRURWV6Yl9EOG01Zmx1NkZRTEZSUDE2WEp6djhsZ0hneU1aZ09vOXFUeUhMclBrNVhGXzUxdUpzVlVicWE1YTNiTXI?oc=5)
+- [The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher? - WIRED](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcW9ZNWVSNmhTTWlBQU9hMUgxOU5OWmtxbmtHcnY5dmRzNTFyM1hETUJfM1VyLTBibXlYdV9jbUZrMVREV2tTbDU3ZUphc05qU1dKNWM4Q1R0RlBxSXVYaHQ0TDRGWDFndkhtcWNmd29ncmY4bFdKR3hpSlQxaFN0S0pYNUxJQ0gzMHVSeUY2dlNjVk0?oc=5)
 - [OPEC+ approves fourth oil output quota hike since Hormuz closure - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWZrV2dPZ2xjY0NWT0lIUFVNeUlJZ1I5V3BsdkU0X01tWFVHLWZWTVBQN0pHeHNGZF9fS01BY2RrbWtLWFcyazR0bVNOWERwQVFBYjhHMFNZYW5XWHNRM2VWZUU2aFpTd3IzRGhiVUZHNUJsbWlCb19CX19SUG5DOXozd1cyak1RdUFhS0FtaUYxMG5xNGtfYW9idFhNWGRUd25PeUFYTWJJWVhqeS1lNUJHS3pCUQ?oc=5)
 - [OPEC to increase oil output amid continued closure of Strait of Hormuz - upi.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDk0WlJjX09zenpfclp1cVhkMUxDcnVzUWNuZ3JvazNhZGJCaHhoME9laHVpWEpSTC13NkVveEpTSXg3aFVEaHBBdm9jQkFBSVNFMHAxcWlYQXJ0a09sVlI1QTZZUHFhbUZ0aDhUYS0zNzlDWVQ4NVJ1SXdhRVdSUnZWRVg1dl9aOUpqck50cG0wMFhpb2RTY1NYRUxkaUUyUGRDY1d5QjA0amExN2dadDZ0dDFjN3lHMVlwZ0M3bEhFRTdUOU1IQdIBzgFBVV95cUxQb3RyQ19zWlVoblktcUFKMHF5WHNqUmJGWlJ4VHFtWTNjNnJmSVp6ek5Odlh2WHZfYTE2bHB1Qkx5cVZXcXFRcEpSMzdXU3I1djV4XzBmODJPOGJBeXkzTjg3bU9MX0EtaXUxRWE4OWpDVUl5WkZIVmZIeTZtMFl2N3NPNjByZml0V3dLc3NHd2FoUUNxVmJtbEZWLWFVZE01Z2tYT3VLaDliZWVKSHRsRy1sRkNkOTBOT0g0bHlKaEFCM0tzWFlOWFJGcEdiUQ?oc=5)
 - …and 14 more
