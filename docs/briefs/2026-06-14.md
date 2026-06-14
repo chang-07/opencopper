@@ -60,9 +60,6 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
-- [IXM declares force majeure due to extended Congo cobalt export ban - MSN](https://news.google.com/rss/articles/CBMi0AJBVV95cUxPb3FwSXV3THFIXzBFVzJGNkE0bV9BUmpJX0hfZk5JajNHY29paXNTLUhyOWtwcWt4eF9UaEpUSUxNM3BvNEZyc0hqZTZvQV9Vbk4yaWhGRTMybFMxaDJDdXF4eno3OUJQSHR0R1lOMjRvU2FwNFBzZW5idy10anFaRnB3U3k4OVJUTUp0TUk4ZFVBeDU1TWNBNGtnSEhZdTc3LVdBZjFWQzhTUk04WllfYlVVTmVlYmM5dWRCXzNzX2E5REJ4cTVsYURNenRrdXB4UU5ZOUxRTjFtSkZwODZpLTMyeDBJXzNZcWplZFhGckQwd09pd290Z3A4alJnWGw1N1dIVzV5bUljVnMySlRtUV8tcXFOYWpQV0JUb0ctNk9tcFhGc053elVra1E4LTg0Sm1DaE5uMzlKR3ZRckFzTHZVMzRwTXB6SWxWMHFpcWg?oc=5)
-
 ---
 
 ## Scorecard
