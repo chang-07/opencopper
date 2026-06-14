@@ -44,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Strait of Hormuz reopens, easing oil supply tensions - Crypto Briefing",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnZyVWxFSXNvdU1ZTElLZ3kzblFsWkFRZFFIbFZDQUN2ekQ3eS1wUWljRXh3OFVHU1BvRzlHb0wzTEpYc25ZYXoxc0U2MXNxcWI1dmphNUtNMUN4QzBFNDg5M25SVmhjbENPMnV6dDRSWGtWbmZNaWVGS2lEbWJaS1QwYmxIQQ?oc=5",
-  "published": "Thu, 11 Jun 2026 10:49:01 GMT",
+  "headline": "OPEC cuts oil demand forecast again as Strait of Hormuz closure continues - Washington Examiner",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUJxNjMwUHJUSTY0VVZ1Z1NqWnR4NERzdFBzal80ZnlJd0ZSU215WFJHeU5aRzR4VGNFNTFxVml6OU9QbWVXdXdFazBHX2tod0EyS0dXYVVmeE5WSlFZRkg2WmFvbG1oS2NGNmN4SjFSN0ZPWFpLNXFEZUhtRGROdDJLMlhMUTllRTVQbEhPekk1cnk2VVUwZWx5dlNDUVJNWkVzSlJyQmhTdU9aU29JYkM0dlliWC1pZVdNelZoaW40VVE?oc=5",
+  "published": "Thu, 11 Jun 2026 16:12:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -55,9 +55,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC cuts oil demand forecast again as Strait of Hormuz closure continues - Washington Examiner",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUJxNjMwUHJUSTY0VVZ1Z1NqWnR4NERzdFBzal80ZnlJd0ZSU215WFJHeU5aRzR4VGNFNTFxVml6OU9QbWVXdXdFazBHX2tod0EyS0dXYVVmeE5WSlFZRkg2WmFvbG1oS2NGNmN4SjFSN0ZPWFpLNXFEZUhtRGROdDJLMlhMUTllRTVQbEhPekk1cnk2VVUwZWx5dlNDUVJNWkVzSlJyQmhTdU9aU29JYkM0dlliWC1pZVdNelZoaW40VVE?oc=5",
-  "published": "Thu, 11 Jun 2026 16:12:00 GMT",
+  "headline": "Strait of Hormuz reopens, easing oil supply tensions - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnZyVWxFSXNvdU1ZTElLZ3kzblFsWkFRZFFIbFZDQUN2ekQ3eS1wUWljRXh3OFVHU1BvRzlHb0wzTEpYc25ZYXoxc0U2MXNxcWI1dmphNUtNMUN4QzBFNDg5M25SVmhjbENPMnV6dDRSWGtWbmZNaWVGS2lEbWJaS1QwYmxIQQ?oc=5",
+  "published": "Thu, 11 Jun 2026 10:49:01 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,17 +99,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EIA Sees Weak Global Oil Demand Limiting Price Spike from Hormuz Disruption - gCaptain",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjNkNHFLMXotczduN2Jmc2djdTJrUXV0WmpIeGQ0Q3htbEJCbjhnSWwyMHc5STRYS1dVMkZ0S01YM2NKbU9maWF1T0xYeG9pa2dGcEF6OTVIV2NURUlSVDU2UmdtYkMwVlhheVN2cHRiZGJ1bHFaUlctd2JxWmcySjJMSTRQUTdPOTM4RmFOOXNvTWJFY2g2b2p0cW53Zw?oc=5",
-  "published": "Tue, 09 Jun 2026 20:19:12 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC+ Approves Fourth Consecutive Output Hike - Mexico Business News",
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3REb09vUjRZY25BMVJ5T0tJUmd5aE5TRFM2WFNZcWxRWVpWTm9XMTQ0dURoZzc0T3NCUEJEVGhNeDRGMjJXeXlWMTVia0J1Zmg5aWpiYjBTa1hFRGN3TWQxM05DeUxfVEVVOTBWNkp0RERuY2IzM3dFZUFQR21INnhUVlV4UXlVcEl6dmk5Y3E?oc=5",
   "published": "Fri, 12 Jun 2026 05:34:32 GMT",
@@ -118,6 +107,17 @@
   "country": "Saudi Arabia",
   "severity": 0.08,
   "rule_id": "opec-cut",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "EIA Sees Weak Global Oil Demand Limiting Price Spike from Hormuz Disruption - gCaptain",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjNkNHFLMXotczduN2Jmc2djdTJrUXV0WmpIeGQ0Q3htbEJCbjhnSWwyMHc5STRYS1dVMkZ0S01YM2NKbU9maWF1T0xYeG9pa2dGcEF6OTVIV2NURUlSVDU2UmdtYkMwVlhheVN2cHRiZGJ1bHFaUlctd2JxWmcySjJMSTRQUTdPOTM4RmFOOXNvTWJFY2g2b2p0cW53Zw?oc=5",
+  "published": "Tue, 09 Jun 2026 20:19:12 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
   "source": "keyword-rule"
  },
  {
@@ -154,9 +154,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Reopening of the Strait of Hormuz could undermine OPEC\u2019s market control - mezha.net",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44MmJIY3FyRWlodU1uZ3d0MHhKTnI3X3RRRU5OQ1IxRjNsaXZjOS1DczlqOXprdVhmcVpWQjM3VU1JRjFzLWp1LURvSm9IaFExem9mX09YQ1Q4VEZzNzZyN1NsalM?oc=5",
-  "published": "Thu, 11 Jun 2026 09:50:28 GMT",
+  "headline": "OPEC+ is raising oil output quotas for a fourth straight month \u2014 but the Strait of Hormuz is still shut - qz.com",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfR1ZRNkZHbFRYRHctQXA2QVFJWnA2UEhiMzdoZXJYRU4zNGJDZ3ZHby1FOE5BNnp4aXpzNmhxcF9HMmVQdE55cDFQNlFZWkFUaUpNSDdrX1JDLVVCVG9XNTFoUUtUTzhuNEVPS2ZEVGJaaFRHVEtN?oc=5",
+  "published": "Mon, 08 Jun 2026 13:51:51 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -176,6 +176,28 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Reopening of the Strait of Hormuz could undermine OPEC\u2019s market control - mezha.net",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44MmJIY3FyRWlodU1uZ3d0MHhKTnI3X3RRRU5OQ1IxRjNsaXZjOS1DczlqOXprdVhmcVpWQjM3VU1JRjFzLWp1LURvSm9IaFExem9mX09YQ1Q4VEZzNzZyN1NsalM?oc=5",
+  "published": "Thu, 11 Jun 2026 09:50:28 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Iraq to Boost Ceyhan Oil Exports as Hormuz Strait Remains Shut - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW5FOHRwSVRLUG9WYWVpd2VzUl9nNU0td2N0TlJxanRNOGl4b0xDcXNPS0FlNUYzLUVjOURFa3ZnZnRNNUhiQmdrS3FaNXhZWTNjUDhxSEt3OHdwTUh0VHYzR296TUZmMkctVzBrSm50czJoMDIyNTdyYjZUdm1fN3Bhd0VkSXFKOFAyRHVrX2VNYmVxU1BaalA5LTRrUjllUHZEdnhjb2lUejlhMEt3YW5wQQ?oc=5",
+  "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "OPEC+ Raises Output Targets Amid Strait of Hormuz Crisis - Egypt Oil & Gas",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0xmTlZJYkNVdVpIT0NuSlF0UWVRbFBiMk83TXgxNm0zUWF6QnRZN3l2Y1YtX3hfeVlqTXp0RExhZ050NEQyUk5DYm84bHpBZHdMVWRMSkNmNnU3ZnRENHhPVkhnVE9RV0pCNjhWS2JvclNPWVJrRnM4d3JTMjFiNkdDczB1am5EZjBsZjZaaw?oc=5",
   "published": "Mon, 08 Jun 2026 07:49:09 GMT",
@@ -187,14 +209,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Could Hormuz Reopening Trigger an OPEC Crisis? - Modern Diplomacy",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUd3dVRHLVZUcGFpdUxwU0NVMEt0Yl9qQ2VyeEFzd202dUdoN0ZYV3VsMFlFMW5VWHlORk91dms2bmp6SC1QazM4RnlYTmhkdlNwRnYydEhsNjYtTmFkQjViYTlDVnBLOUc0S0dQV1VHZzdLN2M1WnRCZ3l3c0xuNGQwYUlnYlBTeENlRg?oc=5",
-  "published": "Thu, 11 Jun 2026 07:05:42 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
+  "headline": "IXM declares force majeure due to extended Congo cobalt export ban - MSN",
+  "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPWUowNnpTRXdEY0tRMHBqWWRBOUk5N001VFZ4el9xQW9wTU9mZW5ja0xlaC0ta2tZWnB5dy1vZEoyd0hTRmFCTnYwWGplbXByR1FNVkdzLXlYSkwxYnZXd01JMllTaWdVQVRhSXhXaGlrWmtjTTJhdTFSc2FNQktHMGpoZEhxazZpTzFpOHNJRENkT1ZDazZMaWZ4c08tLVRMcUI5U01HVUJqWTNZM253ZEhRa2dRQlU0a0VHRDNPLUZLTzVLTlVEZndFRzJqU3cyVTRnVlAwSlU0bzZPQk1uX0lienliV1F2d2EtY2U0THoybUZPeUpXX09rRG8yQndQbzFvczFVYVdLNXB3dUF5SDB5U2EtQ01Uck04QVlpVUE2QUN0d1J5M21OTUtpY0tHZ09hRWFTU1cwQjM5VVJhNU9XbmhuVWRhUm1zVERIbw?oc=5",
+  "published": "Wed, 10 Jun 2026 04:29:16 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {
