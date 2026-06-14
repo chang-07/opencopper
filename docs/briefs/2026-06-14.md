@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings
-*Mon, 08 Jun 2026 16:18:40 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2pWUm5VV2RFLTM1SlI4ZUFCb1FvTkczeWExQ3dTcEx2RUFRdmpUOEsyTHFVQUdsSmpZRURZZmxmbWwzMzFTaHBiSVNSRHVoei1ONC1QRlE0TjlpbUM3aGxYZTFxMTRURWV6Yl9EOG01Zmx1NkZRTEZSUDE2WEp6djhsZ0hneU1aZ09vOXFUeUhMclBrNVhGXzUxdUpzVlVicWE1YTNiTXI?oc=5)
+## The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher? - WIRED
+*Sun, 14 Jun 2026 10:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcW9ZNWVSNmhTTWlBQU9hMUgxOU5OWmtxbmtHcnY5dmRzNTFyM1hETUJfM1VyLTBibXlYdV9jbUZrMVREV2tTbDU3ZUphc05qU1dKNWM4Q1R0RlBxSXVYaHQ0TDRGWDFndkhtcWNmd29ncmY4bFdKR3hpSlQxaFN0S0pYNUxJQ0gzMHVSeUY2dlNjVk0?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _17 corroborating headline(s):_
-- [OPEC+ approves fourth oil output quota hike since Hormuz closure - CNBC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNc19wZzhENmRSTVpwaU1fdDcxN0g2bGlpSWw1WF9uMV9DdWFuczIzQ1V6a0htSGZsQkQ0NXhUejFqLVpVM3pvYlVkM3pyMVg2ZnNvV3RzN1R4OXVzQ0xrZXQyc0o1WU9QRlFOMnl4Y0JVTFNFbTNzem9QR1Y3YThnYjZKZl9HaGZmdU1QX0d6TXlBemFNNnhGVzVWY1czX3hYQWd0cNIBqgFBVV95cUxQbHp2MFpIZ3JWaDhQbHFZcnN5MDZ1MXU1X1A3Tk5ES2tHdjV1bTQzWlNCUUR3WU5Bd2RtWnRLaFhjZG1YcUNwbV9pMzhvRklWNnVESWZXX0tfbnNyaDBWWmhHWk03VElvT2ZhQTlZc3hGMWZxajdRb09KLUlnOEJidW40Q0RKNDFlYXlQNGhfZTVCdVpjNTN0aVdBV2Q3T0ZyQ2JpTHBacm5EUQ?oc=5)
+- [From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2pWUm5VV2RFLTM1SlI4ZUFCb1FvTkczeWExQ3dTcEx2RUFRdmpUOEsyTHFVQUdsSmpZRURZZmxmbWwzMzFTaHBiSVNSRHVoei1ONC1QRlE0TjlpbUM3aGxYZTFxMTRURWV6Yl9EOG01Zmx1NkZRTEZSUDE2WEp6djhsZ0hneU1aZ09vOXFUeUhMclBrNVhGXzUxdUpzVlVicWE1YTNiTXI?oc=5)
+- [OPEC+ approves fourth oil output quota hike since Hormuz closure - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWZrV2dPZ2xjY0NWT0lIUFVNeUlJZ1I5V3BsdkU0X01tWFVHLWZWTVBQN0pHeHNGZF9fS01BY2RrbWtLWFcyazR0bVNOWERwQVFBYjhHMFNZYW5XWHNRM2VWZUU2aFpTd3IzRGhiVUZHNUJsbWlCb19CX19SUG5DOXozd1cyak1RdUFhS0FtaUYxMG5xNGtfYW9idFhNWGRUd25PeUFYTWJJWVhqeS1lNUJHS3pCUQ?oc=5)
 - [OPEC to increase oil output amid continued closure of Strait of Hormuz - upi.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDk0WlJjX09zenpfclp1cVhkMUxDcnVzUWNuZ3JvazNhZGJCaHhoME9laHVpWEpSTC13NkVveEpTSXg3aFVEaHBBdm9jQkFBSVNFMHAxcWlYQXJ0a09sVlI1QTZZUHFhbUZ0aDhUYS0zNzlDWVQ4NVJ1SXdhRVdSUnZWRVg1dl9aOUpqck50cG0wMFhpb2RTY1NYRUxkaUUyUGRDY1d5QjA0amExN2dadDZ0dDFjN3lHMVlwZ0M3bEhFRTdUOU1IQdIBzgFBVV95cUxQb3RyQ19zWlVoblktcUFKMHF5WHNqUmJGWlJ4VHFtWTNjNnJmSVp6ek5Odlh2WHZfYTE2bHB1Qkx5cVZXcXFRcEpSMzdXU3I1djV4XzBmODJPOGJBeXkzTjg3bU9MX0EtaXUxRWE4OWpDVUl5WkZIVmZIeTZtMFl2N3NPNjByZml0V3dLc3NHd2FoUUNxVmJtbEZWLWFVZE01Z2tYT3VLaDliZWVKSHRsRy1sRkNkOTBOT0g0bHlKaEFCM0tzWFlOWFJGcEdiUQ?oc=5)
-- [Iran’s Oil Production Slumped Due to US Blockade, Closure of Hormuz - Asharq Al-Awsat English](https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkYxektOLWFONFA5NkFLd3J4OWEyaXJLa1ljbDVXMHFjVFhrOXk5RDhqcThOaXRJLTNXTndUdDBab2lDUTN6VjZUWHRjV1FpY25KWVkxd3M2Q1o2M0xvZ1FPbURIZG1tQm95bEhuMFdWZW81T0tZWU10WlFLM1J2MWEyUFlJdmVQNk1EU2wyOVZuODdLMTNlWlBaX2lHcG1Dc1A2YVRvS21xd0dTaHBPMnFn?oc=5)
 - …and 14 more
 
 ## OPEC+ Approves Fourth Consecutive Output Hike - Mexico Business News
@@ -44,8 +44,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## IXM declares force majeure due to extended Congo cobalt export ban - MSN
-*Wed, 10 Jun 2026 04:29:16 GMT* — [source](https://news.google.com/rss/articles/CBMizwJBVV95cUxPWUowNnpTRXdEY0tRMHBqWWRBOUk5N001VFZ4el9xQW9wTU9mZW5ja0xlaC0ta2tZWnB5dy1vZEoyd0hTRmFCTnYwWGplbXByR1FNVkdzLXlYSkwxYnZXd01JMllTaWdVQVRhSXhXaGlrWmtjTTJhdTFSc2FNQktHMGpoZEhxazZpTzFpOHNJRENkT1ZDazZMaWZ4c08tLVRMcUI5U01HVUJqWTNZM253ZEhRa2dRQlU0a0VHRDNPLUZLTzVLTlVEZndFRzJqU3cyVTRnVlAwSlU0bzZPQk1uX0lienliV1F2d2EtY2U0THoybUZPeUpXX09rRG8yQndQbzFvczFVYVdLNXB3dUF5SDB5U2EtQ01Uck04QVlpVUE2QUN0d1J5M21OTUtpY0tHZ09hRWFTU1cwQjM5VVJhNU9XbmhuVWRhUm1zVERIbw?oc=5)
+## The Democratic Republic of Congo’s Cobalt Export Ban Spells Trouble For The World, Puts EV Battery Supply A - News18
+*Thu, 11 Jun 2026 17:44:18 GMT* — [source](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVJ5YzlGRnRVMFFHdXZhbXVyWE0yMGdaTVFWODQ4ZjdDVEJuaXdTSGRwQTdILW5xVHV4RzQ1dE5lOWdiY2ZwZW9SbUgwS0NrbWFoUjV3SENpX1dlWU9jSDdmS1hRS0VmNFVNaktiQWZldnM1TXJ2c2psTHM3c0hBSHBNQklrZXE2bjZHeEp2eVczNVFLN1FFaGRaSlJyWUdlcDlHUHNELTdFUmF3RmYyUXJEcVVWQ05JRWlpcFFrYmVrcjhSREpQLVJYVmNpcHFRME9MZ3hBT3lBc012RV9yR1dGMFhvS2w4Tm9BRW1aUEfSAfYBQVVfeXFMTzhuSkd2ZjJKem1mSUJ5RFhVbXcwWGpZVWxVbUVIMTU1c3VDbHdTZ1NYdU5TNVIwRE9pclVVM1g5NFhpRThyeHpfQTBjQ0NPSzRCQVFIR1hjRTVtU1gtdlFiUjlFNkFYMmhCVDFHMWJDSUZpckljN21kU0ZSMGtaV1JBazA3SF95YnhDQ3dweUpVSDhITU9uOUFCakFCVHFfVUZlbzFJaUl3X3N3NVV4anZJMmhQRFljMmgzR2tKSWhZTmUtU3c5Ml9IWjVLM0VkcEt2UkpSQXE4bTlMVzc1c2lQeWN0czYxam5lSDZ1OHp2YUhaNTJB?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
 
 ```
@@ -61,7 +61,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _1 corroborating headline(s):_
-- [The Democratic Republic of Congo’s Cobalt Export Ban Spells Trouble For The World, Puts EV Battery Supply A - News18](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVJ5YzlGRnRVMFFHdXZhbXVyWE0yMGdaTVFWODQ4ZjdDVEJuaXdTSGRwQTdILW5xVHV4RzQ1dE5lOWdiY2ZwZW9SbUgwS0NrbWFoUjV3SENpX1dlWU9jSDdmS1hRS0VmNFVNaktiQWZldnM1TXJ2c2psTHM3c0hBSHBNQklrZXE2bjZHeEp2eVczNVFLN1FFaGRaSlJyWUdlcDlHUHNELTdFUmF3RmYyUXJEcVVWQ05JRWlpcFFrYmVrcjhSREpQLVJYVmNpcHFRME9MZ3hBT3lBc012RV9yR1dGMFhvS2w4Tm9BRW1aUEfSAfYBQVVfeXFMTzhuSkd2ZjJKem1mSUJ5RFhVbXcwWGpZVWxVbUVIMTU1c3VDbHdTZ1NYdU5TNVIwRE9pclVVM1g5NFhpRThyeHpfQTBjQ0NPSzRCQVFIR1hjRTVtU1gtdlFiUjlFNkFYMmhCVDFHMWJDSUZpckljN21kU0ZSMGtaV1JBazA3SF95YnhDQ3dweUpVSDhITU9uOUFCakFCVHFfVUZlbzFJaUl3X3N3NVV4anZJMmhQRFljMmgzR2tKSWhZTmUtU3c5Ml9IWjVLM0VkcEt2UkpSQXE4bTlMVzc1c2lQeWN0czYxam5lSDZ1OHp2YUhaNTJB?oc=5)
+- [IXM declares force majeure due to extended Congo cobalt export ban - MSN](https://news.google.com/rss/articles/CBMi0AJBVV95cUxPb3FwSXV3THFIXzBFVzJGNkE0bV9BUmpJX0hfZk5JajNHY29paXNTLUhyOWtwcWt4eF9UaEpUSUxNM3BvNEZyc0hqZTZvQV9Vbk4yaWhGRTMybFMxaDJDdXF4eno3OUJQSHR0R1lOMjRvU2FwNFBzZW5idy10anFaRnB3U3k4OVJUTUp0TUk4ZFVBeDU1TWNBNGtnSEhZdTc3LVdBZjFWQzhTUk04WllfYlVVTmVlYmM5dWRCXzNzX2E5REJ4cTVsYURNenRrdXB4UU5ZOUxRTjFtSkZwODZpLTMyeDBJXzNZcWplZFhGckQwd09pd290Z3A4alJnWGw1N1dIVzV5bUljVnMySlRtUV8tcXFOYWpQV0JUb0ctNk9tcFhGc053elVra1E4LTg0Sm1DaE5uMzlKR3ZRckFzTHZVMzRwTXB6SWxWMHFpcWg?oc=5)
 
 ---
 
