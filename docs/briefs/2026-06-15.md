@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _16 corroborating headline(s):_
+- [How Quickly Can the Strait of Hormuz Get Back Up and Running? - WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5)
+- [Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU45NVQ5dkNpUzlweDg3UVlyMkVKX1hVWS1NbkxqNE0wOHBLWEFYZk1zYUFnX0hGTXRURk1ITTlFSHZkUnJpUXlWUW5ZXzN1YVhvQXYxTFZ0Um5EOUZXTFptRFJyem9RMjl6VjBnUVd1NFRRLXlfMlRZN0dQUVprRnVFRllLbHl6ejhzS0NHZ2FIRHZXQm1sc3VoSFd3dnF2VGdTRENhQ0p5RkduanVKLVlQRENYQThX?oc=5)
 - [Strait of Hormuz Reopening: Oil Production Recovery Timeline and Key Factors - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjc2dWREdndPTjZYYzd5RGhYRDhSeTNKQjVsaGd5eEY2T2JPQnhMVDQyZGJSVDhRdnpZRzl4cFJJLW1WM0V0ZU8xSjlmaldHVEh3MHlyc3BCTHNib3JQQzQ3XzB3MEhLdktPWDF0c3pmXzAxbkZ0X29zRzBMR2NfMk9vekZQYzJoQWtiMFNHZDZNLWVYdmdkWDlMNjdUZlVpZkRJVElvaDgxdw?oc=5)
-- [From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2pWUm5VV2RFLTM1SlI4ZUFCb1FvTkczeWExQ3dTcEx2RUFRdmpUOEsyTHFVQUdsSmpZRURZZmxmbWwzMzFTaHBiSVNSRHVoei1ONC1QRlE0TjlpbUM3aGxYZTFxMTRURWV6Yl9EOG01Zmx1NkZRTEZSUDE2WEp6djhsZ0hneU1aZ09vOXFUeUhMclBrNVhGXzUxdUpzVlVicWE1YTNiTXI?oc=5)
-- [Oil hits 3-month low as US, Iran reach peace deal to reopen Strait of Hormuz - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlI0MmRwak0ycnVHVW5fbFVZVXNaN3N3d2xXVXFRM1dLcXNiZWFuV014X3ppWTZ4MlVBY2dJYmdLSzNfN0xRekZYZl9IMXB0OHdRTVlIVmZiRWc5TkR6VnpocnczTWFZaGx3TlhUdUtfbzdEeUF2YnA5VERfU2JLTU8wNEt5bnB0cGNPYlJSR0lqR2RkVjNnQkRBUlFWblpVdkpnaHMwVk9PRHZaaWxNS0h5c3paeDhYVWZnNA?oc=5)
 - …and 13 more
 
 ## The Democratic Republic of Congo’s Cobalt Export Ban Spells Trouble For The World, Puts EV Battery Supply A - News18
