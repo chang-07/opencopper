@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings
-*Mon, 08 Jun 2026 16:18:40 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2pWUm5VV2RFLTM1SlI4ZUFCb1FvTkczeWExQ3dTcEx2RUFRdmpUOEsyTHFVQUdsSmpZRURZZmxmbWwzMzFTaHBiSVNSRHVoei1ONC1QRlE0TjlpbUM3aGxYZTFxMTRURWV6Yl9EOG01Zmx1NkZRTEZSUDE2WEp6djhsZ0hneU1aZ09vOXFUeUhMclBrNVhGXzUxdUpzVlVicWE1YTNiTXI?oc=5)
+## Strait of Hormuz: Oil and gas supplies could take months to return to normal after Iran deal, energy experts say - ABC7 Bay Area
+*Mon, 15 Jun 2026 03:02:20 GMT* — [source](https://news.google.com/rss/articles/CBMixgFBVV95cUxQWG1nX1lhZG9PaTZYX0xtR3BxUnphbk9VSmw0cjJQZi1BTURVcVFzMEx2LUI5S3FMR2htYThkU0JCTmpEZUV3bUJ5Qlh0NE82ZU51MHVzSDhHOVZvMlFmVlJTZlpjSWw2YnlqVEtIM0xiczhfYnNfY2gyLXA3NlY2ZG9VRzR5cjkyNkZkWXRndWxsZWg0SGJGa3R6cnVsOUliZ0ZKSVZGVjg3QkhwUVc0cElZVjJGRFdjLVJaRGE3RzNJV29yakHSAcsBQVVfeXFMUENoRVRNZFNiSUxDNGN0VkRFdGI4NE9ad0E3c3Ztd0Zna0NnQ1ZRZ0VSSGk4R2dhaHJYNEpBZGVxRnpTbENBemt4Z0xRdldMR2Z4N3kwcnVSQXdRZC03V1V0Y2JuUXJFd2FNVlAyOG9uRXM2N2pYNjh0eHYyaXBjb1E2THF4WTlkWlM4ZWdsaEVuYmgxYXlFVnhiZ1Y2aExoczhpMmJESXJjLUt3WE1mUmZDcENaNmVsRm1XVUYtczlfUFpFaXp0NXVQUzQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _16 corroborating headline(s):_
-- [The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher? - WIRED](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcW9ZNWVSNmhTTWlBQU9hMUgxOU5OWmtxbmtHcnY5dmRzNTFyM1hETUJfM1VyLTBibXlYdV9jbUZrMVREV2tTbDU3ZUphc05qU1dKNWM4Q1R0RlBxSXVYaHQ0TDRGWDFndkhtcWNmd29ncmY4bFdKR3hpSlQxaFN0S0pYNUxJQ0gzMHVSeUY2dlNjVk0?oc=5)
-- [OPEC+ approves fourth oil output quota hike since Hormuz closure - CNBC](https://news.google.com/rss/articles/CBMipAFBVV95cUxNc19wZzhENmRSTVpwaU1fdDcxN0g2bGlpSWw1WF9uMV9DdWFuczIzQ1V6a0htSGZsQkQ0NXhUejFqLVpVM3pvYlVkM3pyMVg2ZnNvV3RzN1R4OXVzQ0xrZXQyc0o1WU9QRlFOMnl4Y0JVTFNFbTNzem9QR1Y3YThnYjZKZl9HaGZmdU1QX0d6TXlBemFNNnhGVzVWY1czX3hYQWd0cNIBqgFBVV95cUxQbHp2MFpIZ3JWaDhQbHFZcnN5MDZ1MXU1X1A3Tk5ES2tHdjV1bTQzWlNCUUR3WU5Bd2RtWnRLaFhjZG1YcUNwbV9pMzhvRklWNnVESWZXX0tfbnNyaDBWWmhHWk03VElvT2ZhQTlZc3hGMWZxajdRb09KLUlnOEJidW40Q0RKNDFlYXlQNGhfZTVCdVpjNTN0aVdBV2Q3T0ZyQ2JpTHBacm5EUQ?oc=5)
-- [OPEC to increase oil output amid continued closure of Strait of Hormuz - upi.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDk0WlJjX09zenpfclp1cVhkMUxDcnVzUWNuZ3JvazNhZGJCaHhoME9laHVpWEpSTC13NkVveEpTSXg3aFVEaHBBdm9jQkFBSVNFMHAxcWlYQXJ0a09sVlI1QTZZUHFhbUZ0aDhUYS0zNzlDWVQ4NVJ1SXdhRVdSUnZWRVg1dl9aOUpqck50cG0wMFhpb2RTY1NYRUxkaUUyUGRDY1d5QjA0amExN2dadDZ0dDFjN3lHMVlwZ0M3bEhFRTdUOU1IQdIBzgFBVV95cUxQb3RyQ19zWlVoblktcUFKMHF5WHNqUmJGWlJ4VHFtWTNjNnJmSVp6ek5Odlh2WHZfYTE2bHB1Qkx5cVZXcXFRcEpSMzdXU3I1djV4XzBmODJPOGJBeXkzTjg3bU9MX0EtaXUxRWE4OWpDVUl5WkZIVmZIeTZtMFl2N3NPNjByZml0V3dLc3NHd2FoUUNxVmJtbEZWLWFVZE01Z2tYT3VLaDliZWVKSHRsRy1sRkNkOTBOT0g0bHlKaEFCM0tzWFlOWFJGcEdiUQ?oc=5)
+- [Strait of Hormuz Reopening: Oil Production Recovery Timeline and Key Factors - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjc2dWREdndPTjZYYzd5RGhYRDhSeTNKQjVsaGd5eEY2T2JPQnhMVDQyZGJSVDhRdnpZRzl4cFJJLW1WM0V0ZU8xSjlmaldHVEh3MHlyc3BCTHNib3JQQzQ3XzB3MEhLdktPWDF0c3pmXzAxbkZ0X29zRzBMR2NfMk9vekZQYzJoQWtiMFNHZDZNLWVYdmdkWDlMNjdUZlVpZkRJVElvaDgxdw?oc=5)
+- [From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2pWUm5VV2RFLTM1SlI4ZUFCb1FvTkczeWExQ3dTcEx2RUFRdmpUOEsyTHFVQUdsSmpZRURZZmxmbWwzMzFTaHBiSVNSRHVoei1ONC1QRlE0TjlpbUM3aGxYZTFxMTRURWV6Yl9EOG01Zmx1NkZRTEZSUDE2WEp6djhsZ0hneU1aZ09vOXFUeUhMclBrNVhGXzUxdUpzVlVicWE1YTNiTXI?oc=5)
+- [Oil hits 3-month low as US, Iran reach peace deal to reopen Strait of Hormuz - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlI0MmRwak0ycnVHVW5fbFVZVXNaN3N3d2xXVXFRM1dLcXNiZWFuV014X3ppWTZ4MlVBY2dJYmdLSzNfN0xRekZYZl9IMXB0OHdRTVlIVmZiRWc5TkR6VnpocnczTWFZaGx3TlhUdUtfbzdEeUF2YnA5VERfU2JLTU8wNEt5bnB0cGNPYlJSR0lqR2RkVjNnQkRBUlFWblpVdkpnaHMwVk9PRHZaaWxNS0h5c3paeDhYVWZnNA?oc=5)
 - …and 13 more
 
 ## The Democratic Republic of Congo’s Cobalt Export Ban Spells Trouble For The World, Puts EV Battery Supply A - News18
