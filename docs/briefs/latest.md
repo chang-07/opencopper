@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _14 corroborating headline(s):_
-- [How Quickly Can the Strait of Hormuz Get Back Up and Running? - WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5)
+- [The Strait of Hormuz is finally reopening, but energy flows may not get back to normal until next year - Fortune](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlVSekVwZXMtYjFKcVlQRWhrQ1RZNVh6QnFCZXRQNDYyUTltNHg0RGtaVGdMZzZJNFBYMWM3TXNlWU1mNHAxTE1IMEkySGVkQmZ1cGIxTzFFdnVjc1Fwdm1mSHI5OUk5QVBjNFVENjkwbFk5d2xWQk4yVzNnaW43S3NrMlBoN2lKSEFrX01ZWkRVRWEyLWc?oc=5)
 - [From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2pWUm5VV2RFLTM1SlI4ZUFCb1FvTkczeWExQ3dTcEx2RUFRdmpUOEsyTHFVQUdsSmpZRURZZmxmbWwzMzFTaHBiSVNSRHVoei1ONC1QRlE0TjlpbUM3aGxYZTFxMTRURWV6Yl9EOG01Zmx1NkZRTEZSUDE2WEp6djhsZ0hneU1aZ09vOXFUeUhMclBrNVhGXzUxdUpzVlVicWE1YTNiTXI?oc=5)
-- [Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis - The New York Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkktcjdHb1d5YVFMTTBGaDJmd2hNWkF6b2hJcnU1VzdyQzd5Y1RvenVmY3hsV1p0VXNwa1MtR09QdmxxOEtQRlJybXA4bHVTT21NcXZTQXZRTUNsMG1vWnRCRzJCTGZ6eUh5VVdVZTl5UVRqMDY3YWJja0JHbUtDdENwajVCdkVYLUM2ZFRUUl9wZDI2bm13Ug?oc=5)
+- [How Quickly Can the Strait of Hormuz Get Back Up and Running? - WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5)
 - …and 11 more
 
 ## The Democratic Republic of Congo’s Cobalt Export Ban Spells Trouble For The World, Puts EV Battery Supply A - News18
