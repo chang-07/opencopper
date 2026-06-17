@@ -1,5 +1,16 @@
 [
  {
+  "headline": "Oil Prices Tick Higher Amid Hope the Strait of Hormuz Will Reopen - The New York Times",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1acEdfU1lqS1FrQlVmQUZLRjM5STNiUVhsZFdkNlRJM0d6ei1xdjNFMllnb0hmYTh5NGJGczR0Z0M0d0dHNXJHZ1ZvUlJ1ZDlWdEQ4emJKRnRtcUlLY3RuNm5UWFNoekp0NWx5Q0ZORGJUQkIyWE5hQWpaNkI?oc=5",
+  "published": "Wed, 17 Jun 2026 14:21:28 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Strait of Hormuz: Oil and gas supplies could take months to return to normal after Iran deal, energy experts say - ABC7 Bay Area",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWG1nX1lhZG9PaTZYX0xtR3BxUnphbk9VSmw0cjJQZi1BTURVcVFzMEx2LUI5S3FMR2htYThkU0JCTmpEZUV3bUJ5Qlh0NE82ZU51MHVzSDhHOVZvMlFmVlJTZlpjSWw2YnlqVEtIM0xiczhfYnNfY2gyLXA3NlY2ZG9VRzR5cjkyNkZkWXRndWxsZWg0SGJGa3R6cnVsOUliZ0ZKSVZGVjg3QkhwUVc0cElZVjJGRFdjLVJaRGE3RzNJV29yakHSAcsBQVVfeXFMUENoRVRNZFNiSUxDNGN0VkRFdGI4NE9ad0E3c3Ztd0Zna0NnQ1ZRZ0VSSGk4R2dhaHJYNEpBZGVxRnpTbENBemt4Z0xRdldMR2Z4N3kwcnVSQXdRZC03V1V0Y2JuUXJFd2FNVlAyOG9uRXM2N2pYNjh0eHYyaXBjb1E2THF4WTlkWlM4ZWdsaEVuYmgxYXlFVnhiZ1Y2aExoczhpMmJESXJjLUt3WE1mUmZDcENaNmVsRm1XVUYtczlfUFpFaXp0NXVQUzQ?oc=5",
   "published": "Mon, 15 Jun 2026 03:02:20 GMT",
@@ -22,9 +33,31 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Strait of Hormuz crisis sounds echoes of 1973 - Upstream Online",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3VuRHAtU1ktMW05Rm1iUTZJSTBzY3pXWVpmLVVxd2lKNzZ6ZHhxZ1lnZnpkR21UU01RLW5mQ0ZhTFRfY1Z2UG0xWGhid0E5a2VMVXdMSGZmVWM3RkFnamJUdVBHb0FEb0xzdlpvR3BydEcwdGRTWGZhdkt1Y1FkeDVZRjQtbzJORlRBTkYxbGlLeUJldXMweWpIY2c?oc=5",
+  "published": "Wed, 17 Jun 2026 12:34:52 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "The Strait of Hormuz is finally reopening, but energy flows may not get back to normal until next year - Fortune",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlVSekVwZXMtYjFKcVlQRWhrQ1RZNVh6QnFCZXRQNDYyUTltNHg0RGtaVGdMZzZJNFBYMWM3TXNlWU1mNHAxTE1IMEkySGVkQmZ1cGIxTzFFdnVjc1Fwdm1mSHI5OUk5QVBjNFVENjkwbFk5d2xWQk4yVzNnaW43S3NrMlBoN2lKSEFrX01ZWkRVRWEyLWc?oc=5",
   "published": "Mon, 15 Jun 2026 21:13:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "How Quickly Can the Strait of Hormuz Get Back Up and Running? - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5",
+  "published": "Mon, 15 Jun 2026 17:58:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -55,17 +88,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis - The New York Times",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkktcjdHb1d5YVFMTTBGaDJmd2hNWkF6b2hJcnU1VzdyQzd5Y1RvenVmY3hsV1p0VXNwa1MtR09QdmxxOEtQRlJybXA4bHVTT21NcXZTQXZRTUNsMG1vWnRCRzJCTGZ6eUh5VVdVZTl5UVRqMDY3YWJja0JHbUtDdENwajVCdkVYLUM2ZFRUUl9wZDI2bm13Ug?oc=5",
-  "published": "Mon, 15 Jun 2026 13:03:50 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC to increase oil output amid continued closure of Strait of Hormuz - upi.com",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDk0WlJjX09zenpfclp1cVhkMUxDcnVzUWNuZ3JvazNhZGJCaHhoME9laHVpWEpSTC13NkVveEpTSXg3aFVEaHBBdm9jQkFBSVNFMHAxcWlYQXJ0a09sVlI1QTZZUHFhbUZ0aDhUYS0zNzlDWVQ4NVJ1SXdhRVdSUnZWRVg1dl9aOUpqck50cG0wMFhpb2RTY1NYRUxkaUUyUGRDY1d5QjA0amExN2dadDZ0dDFjN3lHMVlwZ0M3bEhFRTdUOU1IQdIBzgFBVV95cUxQb3RyQ19zWlVoblktcUFKMHF5WHNqUmJGWlJ4VHFtWTNjNnJmSVp6ek5Odlh2WHZfYTE2bHB1Qkx5cVZXcXFRcEpSMzdXU3I1djV4XzBmODJPOGJBeXkzTjg3bU9MX0EtaXUxRWE4OWpDVUl5WkZIVmZIeTZtMFl2N3NPNjByZml0V3dLc3NHd2FoUUNxVmJtbEZWLWFVZE01Z2tYT3VLaDliZWVKSHRsRy1sRkNkOTBOT0g0bHlKaEFCM0tzWFlOWFJGcEdiUQ?oc=5",
   "published": "Sun, 07 Jun 2026 07:00:00 GMT",
@@ -77,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Strait of Hormuz Has Been Closed for 100 Days. Why Aren\u2019t Oil Prices Higher? - WIRED",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcW9ZNWVSNmhTTWlBQU9hMUgxOU5OWmtxbmtHcnY5dmRzNTFyM1hETUJfM1VyLTBibXlYdV9jbUZrMVREV2tTbDU3ZUphc05qU1dKNWM4Q1R0RlBxSXVYaHQ0TDRGWDFndkhtcWNmd29ncmY4bFdKR3hpSlQxaFN0S0pYNUxJQ0gzMHVSeUY2dlNjVk0?oc=5",
-  "published": "Sun, 14 Jun 2026 10:00:00 GMT",
+  "headline": "IEA sees significant 2027 oil surplus after Hormuz recovery - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQazMyeHVJZDM1MVBBamxXaVI2NnNfSjUyb3NtYUdETUk4MWRBQk41SDZKcWRLWUhrblhJVnlwV2hLS011TXZWSjVQWFNReDRjc3F6Q0xBc0k1YU5ESnhtTU5oMUgya2prWlZIRVFLamlVWXlaN0xrWS1sd01mT05rN3p5UmVoRG1Sb3dYWkp5YmZydHpjUlE5a2JtOXlZSlg1WkR0eUUtTTY4TGYzNnlTUC1TREE3QmRrd3FBeUk4Yw?oc=5",
+  "published": "Wed, 17 Jun 2026 15:23:51 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -88,9 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "How Quickly Can the Strait of Hormuz Get Back Up and Running? - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5",
-  "published": "Mon, 15 Jun 2026 17:58:00 GMT",
+  "headline": "Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis - The New York Times",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkktcjdHb1d5YVFMTTBGaDJmd2hNWkF6b2hJcnU1VzdyQzd5Y1RvenVmY3hsV1p0VXNwa1MtR09QdmxxOEtQRlJybXA4bHVTT21NcXZTQXZRTUNsMG1vWnRCRzJCTGZ6eUh5VVdVZTl5UVRqMDY3YWJja0JHbUtDdENwajVCdkVYLUM2ZFRUUl9wZDI2bm13Ug?oc=5",
+  "published": "Mon, 15 Jun 2026 13:03:50 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -121,9 +143,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Qatar Eyes Quick LNG Restart Once Hormuz Reopens - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQODFjVTVLZElvRU9ONnVrN0tZMXF3QXVkU0RoOXdJVGlWRl9pU2sxUDUtTWJrOWE3QURlNTFHUy1XS3l2Qm5mZXFEaTJCRXFYNjlON1hjcXlNaXlQMFdHbW41a2F0dzFDZFR5X3ZBMnFxRlFjRUtsUVpJeHdVZ1JYTElyNGdOLTlfRTVhdUk5bkV6NllnajU4Si1rYTFWS0Z3Zkx6SVEySdIBrAFBVV95cUxOWnVmWjAzYmxXU09ZZHdzbkx2bzhzRDR6RnBESEdhLTJBVlV6Q0IzdXE0c2d0ZmZ1NF9JRF91ekVhbkVTUnhSeVQ5bzZfdW00MXZqZ2xvMkJpcHdSbkVKSXVZejRxREhvOHNxZ2N2cjUyanlQTm1MMWgzTDVsV19tR3BZcjVBWFgzNTZZUFJoWG1SNXgxVGNkLVhBT0pFY2pqSzZKWGNreDVvQXR2?oc=5",
-  "published": "Tue, 16 Jun 2026 12:30:00 GMT",
+  "headline": "Oil Slumps as US-Iran Reach Initial Peace Deal to Reopen Strait of Hormuz - Marine News Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmFpZXpaU2RoWkhUVGpiUGY0VW10TzN3TVFhbzU3d0NYZERRUG5lWWk0cDA2Um1UcnNJdDlweXJUQ05aY3RpRi1qOFhvX1pILUJ5c2lXYXF2R3hBUmtCVUYzWWkwRlpWenFHSnpsOWlYa25TYUx2ZWlMX0J4TkZxTFNR?oc=5",
+  "published": "Mon, 15 Jun 2026 08:21:17 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -143,20 +165,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Slumps as US-Iran Reach Initial Peace Deal to Reopen Strait of Hormuz - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmFpZXpaU2RoWkhUVGpiUGY0VW10TzN3TVFhbzU3d0NYZERRUG5lWWk0cDA2Um1UcnNJdDlweXJUQ05aY3RpRi1qOFhvX1pILUJ5c2lXYXF2R3hBUmtCVUYzWWkwRlpWenFHSnpsOWlYa25TYUx2ZWlMX0J4TkZxTFNR?oc=5",
-  "published": "Mon, 15 Jun 2026 08:21:17 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "IEA expects significant 2027 oil surplus after Hormuz recovery - The Business Times",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVZhS21LVFFPeF9DeGhDTU01UDN6bUR2S3I0alhjVDVHRzM1Qy16bk1BbVIwYU13S1Uza1Q2VXlFV2hYLVBFX1JhVmFSRWtma0dFVXlybUZ2cGRXUEl4UXRHUDFtLUdyVlNVUTBVb3BaZXAxMUFBdVpDTThRTXpNdnUyeXNVYmtKY2tRTXBRVHdoQ0QyMC10V3lUUU55YzhRZDQ5WnJ3djJUOWdtdFI4ZE5zWlF6ZGlKdWI2UklvZ0pyZHVqUnZnUFk5MTI?oc=5",
-  "published": "Wed, 17 Jun 2026 10:18:00 GMT",
+  "headline": "Qatar Eyes Quick LNG Restart Once Hormuz Reopens - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQODFjVTVLZElvRU9ONnVrN0tZMXF3QXVkU0RoOXdJVGlWRl9pU2sxUDUtTWJrOWE3QURlNTFHUy1XS3l2Qm5mZXFEaTJCRXFYNjlON1hjcXlNaXlQMFdHbW41a2F0dzFDZFR5X3ZBMnFxRlFjRUtsUVpJeHdVZ1JYTElyNGdOLTlfRTVhdUk5bkV6NllnajU4Si1rYTFWS0Z3Zkx6SVEySdIBrAFBVV95cUxOWnVmWjAzYmxXU09ZZHdzbkx2bzhzRDR6RnBESEdhLTJBVlV6Q0IzdXE0c2d0ZmZ1NF9JRF91ekVhbkVTUnhSeVQ5bzZfdW00MXZqZ2xvMkJpcHdSbkVKSXVZejRxREhvOHNxZ2N2cjUyanlQTm1MMWgzTDVsV19tR3BZcjVBWFgzNTZZUFJoWG1SNXgxVGNkLVhBT0pFY2pqSzZKWGNreDVvQXR2?oc=5",
+  "published": "Tue, 16 Jun 2026 12:30:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
