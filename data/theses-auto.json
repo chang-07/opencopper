@@ -14,5 +14,21 @@
   "basis": "From chokepoint to crisis: The Strait of Hormuz and global oil markets - Brookings",
   "rule_id": "hormuz",
   "source": "keyword-rule"
+ },
+ {
+  "id": "auto-2026-06-wheat-russia",
+  "created": "2026-06-18",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "claim": "news-implied supply event (Russia wheat -15% prior): price prints \u2265+5% vs entry within 6m",
+  "metric": "price_change",
+  "min_move_pct": 5.0,
+  "horizon_months": 6,
+  "entry_date": "2026-05-01",
+  "entry_price": 220.8845521666666,
+  "basis": "Russian attacks could cut Ukraine grain exports by a third - The Straits Times",
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
  }
 ]
