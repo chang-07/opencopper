@@ -5,7 +5,7 @@ impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
 ## How Quickly Can the Strait of Hormuz Get Back Up and Running? - WSJ
-*Thu, 18 Jun 2026 12:49:00 GMT* — [source](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5)
+*Thu, 18 Jun 2026 16:31:00 GMT* — [source](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_13 corroborating headline(s):_
+_14 corroborating headline(s):_
 - [Gulf exporters' quest to bypass Hormuz will reshape the region - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzRlM3pLU0tDUDc4VnVLMVQxV2JBMWlPcV9jQURUb25ienRWeDMtUWRKNkRIdGpjczg5bll3VnJDUFNSMW10Z1IxQ2hiVXp5ZmVIREVNQnlDb0dXZXhSQjNnN2ppdVBtNHEyNHVSa0ktUlBGQzRZM3hrRUktSTZta1J6eHJwbUVvaEczTnBqT0luQzkyMFNuallCTFBwLWNJT0wtd1AxZ1hTQnBBREo1dTdVSUUwbHFNcmdNMW9kS3I?oc=5)
 - [Strait of Hormuz: Oil and gas supplies could take months to return to normal after Iran deal, energy experts say - ABC7 Bay Area](https://news.google.com/rss/articles/CBMixgFBVV95cUxQWG1nX1lhZG9PaTZYX0xtR3BxUnphbk9VSmw0cjJQZi1BTURVcVFzMEx2LUI5S3FMR2htYThkU0JCTmpEZUV3bUJ5Qlh0NE82ZU51MHVzSDhHOVZvMlFmVlJTZlpjSWw2YnlqVEtIM0xiczhfYnNfY2gyLXA3NlY2ZG9VRzR5cjkyNkZkWXRndWxsZWg0SGJGa3R6cnVsOUliZ0ZKSVZGVjg3QkhwUVc0cElZVjJGRFdjLVJaRGE3RzNJV29yakHSAcsBQVVfeXFMUENoRVRNZFNiSUxDNGN0VkRFdGI4NE9ad0E3c3Ztd0Zna0NnQ1ZRZ0VSSGk4R2dhaHJYNEpBZGVxRnpTbENBemt4Z0xRdldMR2Z4N3kwcnVSQXdRZC03V1V0Y2JuUXJFd2FNVlAyOG9uRXM2N2pYNjh0eHYyaXBjb1E2THF4WTlkWlM4ZWdsaEVuYmgxYXlFVnhiZ1Y2aExoczhpMmJESXJjLUt3WE1mUmZDcENaNmVsRm1XVUYtczlfUFpFaXp0NXVQUzQ?oc=5)
-- [Qatar Joins Iran, Oman, Saudi Arabia, Iraq, Kuwait and Others in Accelerated LNG and Oil Production Surge After Strait of Hormuz Reopening, Driving Global Energy Market Stabilization, Jet Fuel and Travel Recovery - Travel And Tour World](https://news.google.com/rss/articles/CBMibkFVX3lxTE5MOEFhNGZTRkdmMGMzaDdEbXVMNkhlekRleVdFYXpEYlRVamtaOUU1aGZYX0VKeGZ0NmVFVm1kSU10RWI2dFBBU2JUSl9ocGtiZGk5Zi1tVXpGWkp6RndUUG5GdUFJN0RKYzlNV1R3?oc=5)
-- …and 10 more
+- [Analysts Warn Full Oil Production Recovery in Strait of Hormuz Could Stretch Into Months - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVdqcjZDaUh2R0pFTU9uTUhZMWdYVDdoNlROcm15QW9DWVY1OUl1eTdOQzNRREJIcnAyeVMwLUtGX0VfR2xZR3hfSEZjblhWQ1VhYk1wbk15bHlla1RwSDV5bUlHTmh2bWpiOEdRZFlpNDNWZGp2ckFpTXJfbzlyc2h4MlJLV1M3Y0swV29maks5enJLdURFUzhiMUszY200dUwtclR3azdOQVk?oc=5)
+- …and 11 more
 
 ## The Democratic Republic of Congo’s Cobalt Export Ban Spells Trouble For The World, Puts EV Battery Supply A - News18
 *Thu, 11 Jun 2026 17:44:18 GMT* — [source](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVJ5YzlGRnRVMFFHdXZhbXVyWE0yMGdaTVFWODQ4ZjdDVEJuaXdTSGRwQTdILW5xVHV4RzQ1dE5lOWdiY2ZwZW9SbUgwS0NrbWFoUjV3SENpX1dlWU9jSDdmS1hRS0VmNFVNaktiQWZldnM1TXJ2c2psTHM3c0hBSHBNQklrZXE2bjZHeEp2eVczNVFLN1FFaGRaSlJyWUdlcDlHUHNELTdFUmF3RmYyUXJEcVVWQ05JRWlpcFFrYmVrcjhSREpQLVJYVmNpcHFRME9MZ3hBT3lBc012RV9yR1dGMFhvS2w4Tm9BRW1aUEfSAfYBQVVfeXFMTzhuSkd2ZjJKem1mSUJ5RFhVbXcwWGpZVWxVbUVIMTU1c3VDbHdTZ1NYdU5TNVIwRE9pclVVM1g5NFhpRThyeHpfQTBjQ0NPSzRCQVFIR1hjRTVtU1gtdlFiUjlFNkFYMmhCVDFHMWJDSUZpckljN21kU0ZSMGtaV1JBazA3SF95YnhDQ3dweUpVSDhITU9uOUFCakFCVHFfVUZlbzFJaUl3X3N3NVV4anZJMmhQRFljMmgzR2tKSWhZTmUtU3c5Ml9IWjVLM0VkcEt2UkpSQXE4bTlMVzc1c2lQeWN0czYxam5lSDZ1OHp2YUhaNTJB?oc=5)
