@@ -33,6 +33,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Oil Prices Fall After U.S.-Iran Strait of Hormuz Deal: Brent at $77.64 - News and Statistics - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGpXNFZnYXRUSHlOS2QtWnZlV1A0cVdPbUlibWgxWlZBUDdhVml4bWxrZFF3MXFHb2NvRGFCSE5razN1bDlUejdRVF9NcEZ6Si1qT3dtdjlsdlpmRHFkQTZPdEZ4OXR0ajF1dFFXZDdZQ1J2SnpNUFA4VHNNdThOV0RTbm1xNlRzWHE3TFJUZkstdHhGTUt3?oc=5",
+  "published": "Fri, 19 Jun 2026 18:52:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "OPEC+ approves fourth oil output quota hike since Hormuz closure - CNBC",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc19wZzhENmRSTVpwaU1fdDcxN0g2bGlpSWw1WF9uMV9DdWFuczIzQ1V6a0htSGZsQkQ0NXhUejFqLVpVM3pvYlVkM3pyMVg2ZnNvV3RzN1R4OXVzQ0xrZXQyc0o1WU9QRlFOMnl4Y0JVTFNFbTNzem9QR1Y3YThnYjZKZl9HaGZmdU1QX0d6TXlBemFNNnhGVzVWY1czX3hYQWd0cNIBqgFBVV95cUxQbHp2MFpIZ3JWaDhQbHFZcnN5MDZ1MXU1X1A3Tk5ES2tHdjV1bTQzWlNCUUR3WU5Bd2RtWnRLaFhjZG1YcUNwbV9pMzhvRklWNnVESWZXX0tfbnNyaDBWWmhHWk03VElvT2ZhQTlZc3hGMWZxajdRb09KLUlnOEJidW40Q0RKNDFlYXlQNGhfZTVCdVpjNTN0aVdBV2Q3T0ZyQ2JpTHBacm5EUQ?oc=5",
   "published": "Sun, 07 Jun 2026 07:00:00 GMT",
@@ -47,28 +58,6 @@
   "headline": "Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens - The Guardian",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU45NVQ5dkNpUzlweDg3UVlyMkVKX1hVWS1NbkxqNE0wOHBLWEFYZk1zYUFnX0hGTXRURk1ITTlFSHZkUnJpUXlWUW5ZXzN1YVhvQXYxTFZ0Um5EOUZXTFptRFJyem9RMjl6VjBnUVd1NFRRLXlfMlRZN0dQUVprRnVFRllLbHl6ejhzS0NHZ2FIRHZXQm1sc3VoSFd3dnF2VGdTRENhQ0p5RkduanVKLVlQRENYQThX?oc=5",
   "published": "Mon, 15 Jun 2026 13:13:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Kuwait to lift oil output to two million bpd within a week as Strait of Hormuz reopens - The National",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGtSUkJWTGlkdEtxejk4R0xPdW5rTU1feWZJSkxQNDJnUUVyVUwyRnU4X2paUFFpTk1mZ1k0bDVlQzVNdEFsMkJZSVpQazNwUmJRTlVzZFhJMTdSNTZGcjB4VFZiUzF4aUk5c0hpQjc4ci0xLXc4QXhqTVEzWTRPZDlfaGZ4V3JOWlRrWmpHelljQmwwaEZ5NWxwY0ZnbnhZQ2VSZlFPSm1tNWpmTFllUXRYQ2dZZ1lQRm5zam1kVE1ObEhIWnNjSlJhN2x6ZTE4dmdyci16cldLQUZrZDdudlFlaw?oc=5",
-  "published": "Fri, 19 Jun 2026 08:27:07 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "OPEC to increase oil output amid continued closure of Strait of Hormuz - upi.com",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDk0WlJjX09zenpfclp1cVhkMUxDcnVzUWNuZ3JvazNhZGJCaHhoME9laHVpWEpSTC13NkVveEpTSXg3aFVEaHBBdm9jQkFBSVNFMHAxcWlYQXJ0a09sVlI1QTZZUHFhbUZ0aDhUYS0zNzlDWVQ4NVJ1SXdhRVdSUnZWRVg1dl9aOUpqck50cG0wMFhpb2RTY1NYRUxkaUUyUGRDY1d5QjA0amExN2dadDZ0dDFjN3lHMVlwZ0M3bEhFRTdUOU1IQdIBzgFBVV95cUxQb3RyQ19zWlVoblktcUFKMHF5WHNqUmJGWlJ4VHFtWTNjNnJmSVp6ek5Odlh2WHZfYTE2bHB1Qkx5cVZXcXFRcEpSMzdXU3I1djV4XzBmODJPOGJBeXkzTjg3bU9MX0EtaXUxRWE4OWpDVUl5WkZIVmZIeTZtMFl2N3NPNjByZml0V3dLc3NHd2FoUUNxVmJtbEZWLWFVZE01Z2tYT3VLaDliZWVKSHRsRy1sRkNkOTBOT0g0bHlKaEFCM0tzWFlOWFJGcEdiUQ?oc=5",
-  "published": "Sun, 07 Jun 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,6 +88,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Goldman Sachs: Strait of Hormuz Oil Traffic May Only Reach 70% of Pre-War Levels - News and Statistics - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGNpRllQOThWMVJZS1NfejlkYkhXanNESG8wMUdVNEFUVWY2eVRPX1F3VEJXdnlGVllfd1NIcFNyUUpFRUxzZW10blMyN0M5SHBkV3hzX2VQOE5LRnRpTk5kX29nTk5yN0g4M2dyN2FCNDI3Y1dYZlN6dF9JT21xQ0Z4SmhiUXVfbGg5UFVqV0ptZw?oc=5",
+  "published": "Fri, 19 Jun 2026 19:30:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Oil flows through Hormuz will take time to recover, banks say - Reuters",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSklzcF9FV19DVVdBUGtWUnJMZ2x5OXRXQnZiUmFtLUV5RWk4dkxIRkxuM1AzQ3ZzOWRnaWYtZ3JaWHdlZXBRb0UtNHN3ZHlPamg3VWxUb2xHai1paFJpbkhPWFkzZlhqeVhJREVjaTdfczZTcUwxTzR5YXdxV1haVEpJenllMWVCcXZMckQ4b0Y4Um9vVjJNVklWUFBJR2RMZXBiYUZaaVJGUnNzY2c?oc=5",
   "published": "Thu, 18 Jun 2026 14:42:09 GMT",
@@ -110,9 +110,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Kuwait to raise oil output to 2 million barrels following gradual Strait of Hormuz reopening - Economy Middle East",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjgyMjNQMlBWZ3ZiOTlLTWx1eWdKaXlRRDBVQUoySnEwTEtXa1dJOEl0a0RJc0lmbXFINTZZU3V1SWhCUHlLRl9lNUJNcnNYeEhBRmdXdmFTeGF3Ukk3YkpQMlhudzFuYXJQZXRIUTB5Ry1nVThWbm5UVEU2Z3lyaUNCd1AtdEpXY0tOdzZ0STEwSXd3cnV2alJCdm1WTjhtNWJ4d2psOGpRZm9NcmZza21GWC1jcFJXXzNmLXUzVTNhVkdwOWRj?oc=5",
-  "published": "Fri, 19 Jun 2026 07:11:49 GMT",
+  "headline": "OPEC to increase oil output amid continued closure of Strait of Hormuz - upi.com",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDk0WlJjX09zenpfclp1cVhkMUxDcnVzUWNuZ3JvazNhZGJCaHhoME9laHVpWEpSTC13NkVveEpTSXg3aFVEaHBBdm9jQkFBSVNFMHAxcWlYQXJ0a09sVlI1QTZZUHFhbUZ0aDhUYS0zNzlDWVQ4NVJ1SXdhRVdSUnZWRVg1dl9aOUpqck50cG0wMFhpb2RTY1NYRUxkaUUyUGRDY1d5QjA0amExN2dadDZ0dDFjN3lHMVlwZ0M3bEhFRTdUOU1IQdIBzgFBVV95cUxQb3RyQ19zWlVoblktcUFKMHF5WHNqUmJGWlJ4VHFtWTNjNnJmSVp6ek5Odlh2WHZfYTE2bHB1Qkx5cVZXcXFRcEpSMzdXU3I1djV4XzBmODJPOGJBeXkzTjg3bU9MX0EtaXUxRWE4OWpDVUl5WkZIVmZIeTZtMFl2N3NPNjByZml0V3dLc3NHd2FoUUNxVmJtbEZWLWFVZE01Z2tYT3VLaDliZWVKSHRsRy1sRkNkOTBOT0g0bHlKaEFCM0tzWFlOWFJGcEdiUQ?oc=5",
+  "published": "Sun, 07 Jun 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Kuwait to lift oil output to two million bpd within a week as Strait of Hormuz reopens - The National",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGtSUkJWTGlkdEtxejk4R0xPdW5rTU1feWZJSkxQNDJnUUVyVUwyRnU4X2paUFFpTk1mZ1k0bDVlQzVNdEFsMkJZSVpQazNwUmJRTlVzZFhJMTdSNTZGcjB4VFZiUzF4aUk5c0hpQjc4ci0xLXc4QXhqTVEzWTRPZDlfaGZ4V3JOWlRrWmpHelljQmwwaEZ5NWxwY0ZnbnhZQ2VSZlFPSm1tNWpmTFllUXRYQ2dZZ1lQRm5zam1kVE1ObEhIWnNjSlJhN2x6ZTE4dmdyci16cldLQUZrZDdudlFlaw?oc=5",
+  "published": "Fri, 19 Jun 2026 08:27:07 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -132,9 +143,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil flows through Hormuz will take time to recover, banks say - New Orleans CityBusiness",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUThwc25DMHd0d25sUnI2TUF1VDN5Wkk1Ylh1QXg1eTZoMmdUc0JlUGdTTFo2M0Rza1lRVC0zTWtVaW8zb0J2UW83LXhvSUpfWlQ5RHZXc2RpRFZpY2k5Wm9HUDA5SG8xTHhEcmFlRzdVcWxEanBfSURXdTBHNWdCMDhzc2FVUndLNXZ3U1VrOHJZWWFf?oc=5",
-  "published": "Thu, 18 Jun 2026 16:14:51 GMT",
+  "headline": "Kuwait to raise oil output to 2 million barrels following gradual Strait of Hormuz reopening - Economy Middle East",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjgyMjNQMlBWZ3ZiOTlLTWx1eWdKaXlRRDBVQUoySnEwTEtXa1dJOEl0a0RJc0lmbXFINTZZU3V1SWhCUHlLRl9lNUJNcnNYeEhBRmdXdmFTeGF3Ukk3YkpQMlhudzFuYXJQZXRIUTB5Ry1nVThWbm5UVEU2Z3lyaUNCd1AtdEpXY0tOdzZ0STEwSXd3cnV2alJCdm1WTjhtNWJ4d2psOGpRZm9NcmZza21GWC1jcFJXXzNmLXUzVTNhVkdwOWRj?oc=5",
+  "published": "Fri, 19 Jun 2026 07:11:49 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
