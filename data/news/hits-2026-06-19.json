@@ -44,6 +44,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens - The Guardian",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU45NVQ5dkNpUzlweDg3UVlyMkVKX1hVWS1NbkxqNE0wOHBLWEFYZk1zYUFnX0hGTXRURk1ITTlFSHZkUnJpUXlWUW5ZXzN1YVhvQXYxTFZ0Um5EOUZXTFptRFJyem9RMjl6VjBnUVd1NFRRLXlfMlRZN0dQUVprRnVFRllLbHl6ejhzS0NHZ2FIRHZXQm1sc3VoSFd3dnF2VGdTRENhQ0p5RkduanVKLVlQRENYQThX?oc=5",
+  "published": "Mon, 15 Jun 2026 13:13:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Kuwait to lift oil output to two million bpd within a week as Strait of Hormuz reopens - The National",
   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGtSUkJWTGlkdEtxejk4R0xPdW5rTU1feWZJSkxQNDJnUUVyVUwyRnU4X2paUFFpTk1mZ1k0bDVlQzVNdEFsMkJZSVpQazNwUmJRTlVzZFhJMTdSNTZGcjB4VFZiUzF4aUk5c0hpQjc4ci0xLXc4QXhqTVEzWTRPZDlfaGZ4V3JOWlRrWmpHelljQmwwaEZ5NWxwY0ZnbnhZQ2VSZlFPSm1tNWpmTFllUXRYQ2dZZ1lQRm5zam1kVE1ObEhIWnNjSlJhN2x6ZTE4dmdyci16cldLQUZrZDdudlFlaw?oc=5",
   "published": "Fri, 19 Jun 2026 08:27:07 GMT",
@@ -58,17 +69,6 @@
   "headline": "OPEC to increase oil output amid continued closure of Strait of Hormuz - upi.com",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDk0WlJjX09zenpfclp1cVhkMUxDcnVzUWNuZ3JvazNhZGJCaHhoME9laHVpWEpSTC13NkVveEpTSXg3aFVEaHBBdm9jQkFBSVNFMHAxcWlYQXJ0a09sVlI1QTZZUHFhbUZ0aDhUYS0zNzlDWVQ4NVJ1SXdhRVdSUnZWRVg1dl9aOUpqck50cG0wMFhpb2RTY1NYRUxkaUUyUGRDY1d5QjA0amExN2dadDZ0dDFjN3lHMVlwZ0M3bEhFRTdUOU1IQdIBzgFBVV95cUxQb3RyQ19zWlVoblktcUFKMHF5WHNqUmJGWlJ4VHFtWTNjNnJmSVp6ek5Odlh2WHZfYTE2bHB1Qkx5cVZXcXFRcEpSMzdXU3I1djV4XzBmODJPOGJBeXkzTjg3bU9MX0EtaXUxRWE4OWpDVUl5WkZIVmZIeTZtMFl2N3NPNjByZml0V3dLc3NHd2FoUUNxVmJtbEZWLWFVZE01Z2tYT3VLaDliZWVKSHRsRy1sRkNkOTBOT0g0bHlKaEFCM0tzWFlOWFJGcEdiUQ?oc=5",
   "published": "Sun, 07 Jun 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Kuwait to raise oil output to 2 million barrels following gradual Strait of Hormuz reopening - Economy Middle East",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjgyMjNQMlBWZ3ZiOTlLTWx1eWdKaXlRRDBVQUoySnEwTEtXa1dJOEl0a0RJc0lmbXFINTZZU3V1SWhCUHlLRl9lNUJNcnNYeEhBRmdXdmFTeGF3Ukk3YkpQMlhudzFuYXJQZXRIUTB5Ry1nVThWbm5UVEU2Z3lyaUNCd1AtdEpXY0tOdzZ0STEwSXd3cnV2alJCdm1WTjhtNWJ4d2psOGpRZm9NcmZza21GWC1jcFJXXzNmLXUzVTNhVkdwOWRj?oc=5",
-  "published": "Fri, 19 Jun 2026 07:11:49 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -110,6 +110,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Kuwait to raise oil output to 2 million barrels following gradual Strait of Hormuz reopening - Economy Middle East",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjgyMjNQMlBWZ3ZiOTlLTWx1eWdKaXlRRDBVQUoySnEwTEtXa1dJOEl0a0RJc0lmbXFINTZZU3V1SWhCUHlLRl9lNUJNcnNYeEhBRmdXdmFTeGF3Ukk3YkpQMlhudzFuYXJQZXRIUTB5Ry1nVThWbm5UVEU2Z3lyaUNCd1AtdEpXY0tOdzZ0STEwSXd3cnV2alJCdm1WTjhtNWJ4d2psOGpRZm9NcmZza21GWC1jcFJXXzNmLXUzVTNhVkdwOWRj?oc=5",
+  "published": "Fri, 19 Jun 2026 07:11:49 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "IEA sees significant 2027 oil surplus after Hormuz recovery - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQazMyeHVJZDM1MVBBamxXaVI2NnNfSjUyb3NtYUdETUk4MWRBQk41SDZKcWRLWUhrblhJVnlwV2hLS011TXZWSjVQWFNReDRjc3F6Q0xBc0k1YU5ESnhtTU5oMUgya2prWlZIRVFLamlVWXlaN0xrWS1sd01mT05rN3p5UmVoRG1Sb3dYWkp5YmZydHpjUlE5a2JtOXlZSlg1WkR0eUUtTTY4TGYzNnlTUC1TREE3QmRrd3FBeUk4Yw?oc=5",
   "published": "Wed, 17 Jun 2026 15:47:22 GMT",
@@ -132,25 +143,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Hormuz reopening could be OPEC\u2019s undoing - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmdfVUZJbE5ORWIyZV9HYUhiTHRVOHMtZ1lOUFUwOXhiU2xzSWprczRMeUNESlJGUnNieGVnYlJZMG1LZG9WczRaaWptZEJJUUhpZHVDSTZhQ2tXYW0wNzhEZUdNQ0RIaFFIUExZYV9SMGFXZjQ0bVlseUNkRldYMTlWSDBjTWJoT2E5N3RnLWF4dHZWOFVDSXktc01WTmtwV0w5dk5IV1BiSDR5?oc=5",
-  "published": "Thu, 11 Jun 2026 06:39:27 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Crude Oil Prices Tumble as Strait of Hormuz Reopens - Barchart.com",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWl2SVRybUFScDlMNWRDb05idHlxSnFOemV3S2xlZ2F5R3hTTXlWMnA3SlNNUjVwNWtvdDYtSGdNYXFUR0ZXS3BIYnlCSk9qSjNPVGxEcDg2c2dfaEhGUTMyLXRkUUp4Ni10eDYxU1NFalNyWTMzaE53bDg3MktvTEllMExFNmFmNGs2bVM4alIxMXNWbmVoVlE1cw?oc=5",
-  "published": "Thu, 18 Jun 2026 15:34:39 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
+  "headline": "The Democratic Republic of Congo\u2019s Cobalt Export Ban Spells Trouble For The World, Puts EV Battery Supply A - News18",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVJ5YzlGRnRVMFFHdXZhbXVyWE0yMGdaTVFWODQ4ZjdDVEJuaXdTSGRwQTdILW5xVHV4RzQ1dE5lOWdiY2ZwZW9SbUgwS0NrbWFoUjV3SENpX1dlWU9jSDdmS1hRS0VmNFVNaktiQWZldnM1TXJ2c2psTHM3c0hBSHBNQklrZXE2bjZHeEp2eVczNVFLN1FFaGRaSlJyWUdlcDlHUHNELTdFUmF3RmYyUXJEcVVWQ05JRWlpcFFrYmVrcjhSREpQLVJYVmNpcHFRME9MZ3hBT3lBc012RV9yR1dGMFhvS2w4Tm9BRW1aUEfSAfYBQVVfeXFMTzhuSkd2ZjJKem1mSUJ5RFhVbXcwWGpZVWxVbUVIMTU1c3VDbHdTZ1NYdU5TNVIwRE9pclVVM1g5NFhpRThyeHpfQTBjQ0NPSzRCQVFIR1hjRTVtU1gtdlFiUjlFNkFYMmhCVDFHMWJDSUZpckljN21kU0ZSMGtaV1JBazA3SF95YnhDQ3dweUpVSDhITU9uOUFCakFCVHFfVUZlbzFJaUl3X3N3NVV4anZJMmhQRFljMmgzR2tKSWhZTmUtU3c5Ml9IWjVLM0VkcEt2UkpSQXE4bTlMVzc1c2lQeWN0czYxam5lSDZ1OHp2YUhaNTJB?oc=5",
+  "published": "Thu, 11 Jun 2026 17:44:18 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {
@@ -165,9 +165,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian attacks could cut Ukraine grain exports by a third - Internazionale",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRldkb05hSW8yVDNScDJwOXVKNkRhLWVQY2VCclpSYUt1d3VPREVPRGc3Y0lnVUhaMWRQVmttMnJEMGpsbXdYVEd1ZkZ1TEc3WjIwa0MtdDAtWlJIWlg2WFNTSTV2ci13M2FWS1FLX1dkTXE2TGdSQXZGU3E3T2Y4dGZWNjMtdVBha1UydkFLaXVjRXlaT3NBNVRoNkF1OGN0dmg4enN0TE9GLWRhdkZTYjF4V092Umg0TkI1c1gtVQ?oc=5",
-  "published": "Thu, 18 Jun 2026 10:26:40 GMT",
+  "headline": "Russian attacks could cut Ukraine grain exports by a third - The Straits Times",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekFUc0IwYmJWbFVjWGNJSGpBcGRRZFFRbkotTFRYZWU3Qnltel9ZUTM5bldYYkE5RGo3YnZNdDd2UkU0REdHZDhWeGdLaUJnWFJ4WU51UEZ4RmRScm9Ldm0wQWFSRDFIUzhBM3YxejlUZlNQMTRJd3hTaTdfbVRsR0ZrZW9tdE1rUERKX3AxTEtUMGd0aXNINW4xUzVNQ213bThLWndUX1hCQjRDRVJqZg?oc=5",
+  "published": "Thu, 18 Jun 2026 10:29:49 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
