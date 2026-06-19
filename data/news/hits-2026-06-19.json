@@ -90,29 +90,7 @@
  {
   "headline": "Gulf exporters' quest to bypass Hormuz will reshape the region - Reuters",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzRlM3pLU0tDUDc4VnVLMVQxV2JBMWlPcV9jQURUb25ienRWeDMtUWRKNkRIdGpjczg5bll3VnJDUFNSMW10Z1IxQ2hiVXp5ZmVIREVNQnlDb0dXZXhSQjNnN2ppdVBtNHEyNHVSa0ktUlBGQzRZM3hrRUktSTZta1J6eHJwbUVvaEczTnBqT0luQzkyMFNuallCTFBwLWNJT0wtd1AxZ1hTQnBBREo1dTdVSUUwbHFNcmdNMW9kS3I?oc=5",
-  "published": "Thu, 18 Jun 2026 06:06:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis - The New York Times",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkktcjdHb1d5YVFMTTBGaDJmd2hNWkF6b2hJcnU1VzdyQzd5Y1RvenVmY3hsV1p0VXNwa1MtR09QdmxxOEtQRlJybXA4bHVTT21NcXZTQXZRTUNsMG1vWnRCRzJCTGZ6eUh5VVdVZTl5UVRqMDY3YWJja0JHbUtDdENwajVCdkVYLUM2ZFRUUl9wZDI2bm13Ug?oc=5",
-  "published": "Mon, 15 Jun 2026 13:03:50 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Goldman Sachs: Strait of Hormuz Oil Traffic May Only Reach 70% of Pre-War Levels - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGNpRllQOThWMVJZS1NfejlkYkhXanNESG8wMUdVNEFUVWY2eVRPX1F3VEJXdnlGVllfd1NIcFNyUUpFRUxzZW10blMyN0M5SHBkV3hzX2VQOE5LRnRpTk5kX29nTk5yN0g4M2dyN2FCNDI3Y1dYZlN6dF9JT21xQ0Z4SmhiUXVfbGg5UFVqV0ptZw?oc=5",
-  "published": "Fri, 19 Jun 2026 19:30:00 GMT",
+  "published": "Thu, 18 Jun 2026 10:02:17 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -124,6 +102,17 @@
   "headline": "Oil flows through Hormuz will take time to recover, banks say - Reuters",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSklzcF9FV19DVVdBUGtWUnJMZ2x5OXRXQnZiUmFtLUV5RWk4dkxIRkxuM1AzQ3ZzOWRnaWYtZ3JaWHdlZXBRb0UtNHN3ZHlPamg3VWxUb2xHai1paFJpbkhPWFkzZlhqeVhJREVjaTdfczZTcUwxTzR5YXdxV1haVEpJenllMWVCcXZMckQ4b0Y4Um9vVjJNVklWUFBJR2RMZXBiYUZaaVJGUnNzY2c?oc=5",
   "published": "Thu, 18 Jun 2026 14:42:09 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Goldman Sachs: Strait of Hormuz Oil Traffic May Only Reach 70% of Pre-War Levels - News and Statistics - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGNpRllQOThWMVJZS1NfejlkYkhXanNESG8wMUdVNEFUVWY2eVRPX1F3VEJXdnlGVllfd1NIcFNyUUpFRUxzZW10blMyN0M5SHBkV3hzX2VQOE5LRnRpTk5kX29nTk5yN0g4M2dyN2FCNDI3Y1dYZlN6dF9JT21xQ0Z4SmhiUXVfbGg5UFVqV0ptZw?oc=5",
+  "published": "Fri, 19 Jun 2026 19:30:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -165,20 +154,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian attacks could cut Ukraine grain exports by a third, say officials - The Straits Times",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzhqTWtpTzZSUEJtSkFxZUgxVFdaX2N6M2luX2hWclYzZHJFTnpGZm55OEhHTU9EU255Mmx5eU1sbGdTVEVSbmVvMmgzZXZ1Q01sakdYZHV5ZkdrRmxIanRQRmZNU0taelA2SkVUQkRaRkdKeWg3MndFZlBTdkJBSzU5cTB6QTNjRDhSY01iekloSTRyeUhnOElDQmR4bHYweWc?oc=5",
-  "published": "Thu, 18 Jun 2026 10:29:49 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russian attacks could cut Ukraine grain exports by a third - The Straits Times",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekFUc0IwYmJWbFVjWGNJSGpBcGRRZFFRbkotTFRYZWU3Qnltel9ZUTM5bldYYkE5RGo3YnZNdDd2UkU0REdHZDhWeGdLaUJnWFJ4WU51UEZ4RmRScm9Ldm0wQWFSRDFIUzhBM3YxejlUZlNQMTRJd3hTaTdfbVRsR0ZrZW9tdE1rUERKX3AxTEtUMGd0aXNINW4xUzVNQ213bThLWndUX1hCQjRDRVJqZg?oc=5",
-  "published": "Thu, 18 Jun 2026 10:29:49 GMT",
+  "headline": "Focus: Russian attacks could cut Ukraine grain exports by a third - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0FIaWZ2NkJHbHdNdHplV1NLQWtCUERzSjRjUlZ6NGhaTi1Udzc1TnNKNFJReXVoU0pnZHRaT3NmU0hXR3VFWlNjMGFEV0tMSkF1MkJuLURUeWRfbGQ1OVdIQW80TVhlb0p6aDdZU05NTDB1dWVMOEV0SUNJTjZMU0dUeFMtVUFzOGx4SWRXR3k3MWN2aGxLa25pN3Y1NjQ?oc=5",
+  "published": "Thu, 18 Jun 2026 14:12:59 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
