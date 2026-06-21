@@ -33,6 +33,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Gulf exporters' quest to bypass Hormuz will reshape the region - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzRlM3pLU0tDUDc4VnVLMVQxV2JBMWlPcV9jQURUb25ienRWeDMtUWRKNkRIdGpjczg5bll3VnJDUFNSMW10Z1IxQ2hiVXp5ZmVIREVNQnlDb0dXZXhSQjNnN2ppdVBtNHEyNHVSa0ktUlBGQzRZM3hrRUktSTZta1J6eHJwbUVvaEczTnBqT0luQzkyMFNuallCTFBwLWNJT0wtd1AxZ1hTQnBBREo1dTdVSUUwbHFNcmdNMW9kS3I?oc=5",
+  "published": "Thu, 18 Jun 2026 06:25:45 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "What\u2019s the State of Play in the Strait of Hormuz? - WSJ",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5",
   "published": "Fri, 19 Jun 2026 14:12:00 GMT",
@@ -66,17 +77,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Gulf exporters' quest to bypass Hormuz will reshape the region - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzRlM3pLU0tDUDc4VnVLMVQxV2JBMWlPcV9jQURUb25ienRWeDMtUWRKNkRIdGpjczg5bll3VnJDUFNSMW10Z1IxQ2hiVXp5ZmVIREVNQnlDb0dXZXhSQjNnN2ppdVBtNHEyNHVSa0ktUlBGQzRZM3hrRUktSTZta1J6eHJwbUVvaEczTnBqT0luQzkyMFNuallCTFBwLWNJT0wtd1AxZ1hTQnBBREo1dTdVSUUwbHFNcmdNMW9kS3I?oc=5",
-  "published": "Thu, 18 Jun 2026 06:25:45 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Oil flows through Hormuz will take time to recover, banks say - Reuters",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSklzcF9FV19DVVdBUGtWUnJMZ2x5OXRXQnZiUmFtLUV5RWk4dkxIRkxuM1AzQ3ZzOWRnaWYtZ3JaWHdlZXBRb0UtNHN3ZHlPamg3VWxUb2xHai1paFJpbkhPWFkzZlhqeVhJREVjaTdfczZTcUwxTzR5YXdxV1haVEpJenllMWVCcXZMckQ4b0Y4Um9vVjJNVklWUFBJR2RMZXBiYUZaaVJGUnNzY2c?oc=5",
   "published": "Thu, 18 Jun 2026 14:42:09 GMT",
@@ -88,9 +88,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Confident in the full resumption of shipping through the Strait of Hormuz? OPEC's second-largest oil producer calls for oil fields to ramp up production at full capacity. - \u5bcc\u9014\u725b\u725b",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVhOSWNDY25jRUkzTDAwWUIxXzc1QWJWN1RaaWJfeVJlT014UWtIQ3MxR3BCTU9ZM3pQMk53YVBsV3U3NV81TTJMYnlIdzFvaWlySEVsTE5IbjE4WXJNY1JzZFdiVDRhd1dhR3gwenFudnBMMm9qNnBYSUtSczUwV2txMkhMR000QUZoeWFUQ2Z6ZGR1NGI0elI1LVFRYkthTkNLb1B4MA?oc=5",
-  "published": "Sun, 21 Jun 2026 04:33:00 GMT",
+  "headline": "IEA sees significant 2027 oil surplus after Hormuz recovery - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQazMyeHVJZDM1MVBBamxXaVI2NnNfSjUyb3NtYUdETUk4MWRBQk41SDZKcWRLWUhrblhJVnlwV2hLS011TXZWSjVQWFNReDRjc3F6Q0xBc0k1YU5ESnhtTU5oMUgya2prWlZIRVFLamlVWXlaN0xrWS1sd01mT05rN3p5UmVoRG1Sb3dYWkp5YmZydHpjUlE5a2JtOXlZSlg1WkR0eUUtTTY4TGYzNnlTUC1TREE3QmRrd3FBeUk4Yw?oc=5",
+  "published": "Wed, 17 Jun 2026 15:47:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "IEA sees significant 2027 oil surplus after Hormuz recovery - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQazMyeHVJZDM1MVBBamxXaVI2NnNfSjUyb3NtYUdETUk4MWRBQk41SDZKcWRLWUhrblhJVnlwV2hLS011TXZWSjVQWFNReDRjc3F6Q0xBc0k1YU5ESnhtTU5oMUgya2prWlZIRVFLamlVWXlaN0xrWS1sd01mT05rN3p5UmVoRG1Sb3dYWkp5YmZydHpjUlE5a2JtOXlZSlg1WkR0eUUtTTY4TGYzNnlTUC1TREE3QmRrd3FBeUk4Yw?oc=5",
-  "published": "Wed, 17 Jun 2026 15:47:22 GMT",
+  "headline": "Confident in the full resumption of shipping through the Strait of Hormuz? OPEC's second-largest oil producer calls for oil fields to ramp up production at full capacity. - \u5bcc\u9014\u725b\u725b",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVhOSWNDY25jRUkzTDAwWUIxXzc1QWJWN1RaaWJfeVJlT014UWtIQ3MxR3BCTU9ZM3pQMk53YVBsV3U3NV81TTJMYnlIdzFvaWlySEVsTE5IbjE4WXJNY1JzZFdiVDRhd1dhR3gwenFudnBMMm9qNnBYSUtSczUwV2txMkhMR000QUZoeWFUQ2Z6ZGR1NGI0elI1LVFRYkthTkNLb1B4MA?oc=5",
+  "published": "Sun, 21 Jun 2026 04:33:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -151,17 +151,6 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "The Democratic Republic of Congo\u2019s Cobalt Export Ban Spells Trouble For The World, Puts EV Battery Supply A - News18",
-  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVJ5YzlGRnRVMFFHdXZhbXVyWE0yMGdaTVFWODQ4ZjdDVEJuaXdTSGRwQTdILW5xVHV4RzQ1dE5lOWdiY2ZwZW9SbUgwS0NrbWFoUjV3SENpX1dlWU9jSDdmS1hRS0VmNFVNaktiQWZldnM1TXJ2c2psTHM3c0hBSHBNQklrZXE2bjZHeEp2eVczNVFLN1FFaGRaSlJyWUdlcDlHUHNELTdFUmF3RmYyUXJEcVVWQ05JRWlpcFFrYmVrcjhSREpQLVJYVmNpcHFRME9MZ3hBT3lBc012RV9yR1dGMFhvS2w4Tm9BRW1aUEfSAfYBQVVfeXFMTzhuSkd2ZjJKem1mSUJ5RFhVbXcwWGpZVWxVbUVIMTU1c3VDbHdTZ1NYdU5TNVIwRE9pclVVM1g5NFhpRThyeHpfQTBjQ0NPSzRCQVFIR1hjRTVtU1gtdlFiUjlFNkFYMmhCVDFHMWJDSUZpckljN21kU0ZSMGtaV1JBazA3SF95YnhDQ3dweUpVSDhITU9uOUFCakFCVHFfVUZlbzFJaUl3X3N3NVV4anZJMmhQRFljMmgzR2tKSWhZTmUtU3c5Ml9IWjVLM0VkcEt2UkpSQXE4bTlMVzc1c2lQeWN0czYxam5lSDZ1OHp2YUhaNTJB?oc=5",
-  "published": "Thu, 11 Jun 2026 17:44:18 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {
