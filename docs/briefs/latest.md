@@ -21,14 +21,14 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
+_12 corroborating headline(s):_
 - [Gulf exporters' quest to bypass Hormuz will reshape the region - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzRlM3pLU0tDUDc4VnVLMVQxV2JBMWlPcV9jQURUb25ienRWeDMtUWRKNkRIdGpjczg5bll3VnJDUFNSMW10Z1IxQ2hiVXp5ZmVIREVNQnlDb0dXZXhSQjNnN2ppdVBtNHEyNHVSa0ktUlBGQzRZM3hrRUktSTZta1J6eHJwbUVvaEczTnBqT0luQzkyMFNuallCTFBwLWNJT0wtd1AxZ1hTQnBBREo1dTdVSUUwbHFNcmdNMW9kS3I?oc=5)
 - [Why the oil may start flowing through the Strait of Hormuz faster than many believe - CNBC](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFREalZfLWJKTmI1WkxOS2QwVE4xaGhtZXdObzFhV3BCUExCM2F3UUp6NksyZWQ0elpaUEROUGdNbFJENGZBX3gtUkJGZGpmajAyN1RzZzJpOXhNbTNOZ3lqdkkwMEdoSXR0RkZDRHlqN1o5OW1rM2EyNFgxb1BMTldnbk9NNlNjYm9ZeHNhcmw2Q3BaRVJPTDBQQ0FNcHhfYUFoV2ZxNktibTdKVW5nZGxQcmY1V1JYMTljbtIBwgFBVV95cUxOblFXZ2JnOU5jckVHYmhWNy0tdzJVZWNTS1BIOTBLVHRFek1jcGg1MktCSFpUTmx6Qmd4R1hOcnJmNzdWYncycjVHSDd2aVV5eWZRa1R2X2lmanRCeWVkZkQ1VDgxcTllNmNRNHBoYVVQYXJVRHo4UTU3Tjk5U0k4UDJXYlllTHlDT1dzZXlpcWdXcjF0QXp0dGlJQmJ1U2N4V010QUxwRDJLOWtrTWdzSGNCVWNVRkQ5VnZqQ0tqTDE4dw?oc=5)
 - [Strait of Hormuz: Oil and gas supplies could take months to return to normal after Iran deal, energy experts say - ABC7 Bay Area](https://news.google.com/rss/articles/CBMixgFBVV95cUxQWG1nX1lhZG9PaTZYX0xtR3BxUnphbk9VSmw0cjJQZi1BTURVcVFzMEx2LUI5S3FMR2htYThkU0JCTmpEZUV3bUJ5Qlh0NE82ZU51MHVzSDhHOVZvMlFmVlJTZlpjSWw2YnlqVEtIM0xiczhfYnNfY2gyLXA3NlY2ZG9VRzR5cjkyNkZkWXRndWxsZWg0SGJGa3R6cnVsOUliZ0ZKSVZGVjg3QkhwUVc0cElZVjJGRFdjLVJaRGE3RzNJV29yakHSAcsBQVVfeXFMUENoRVRNZFNiSUxDNGN0VkRFdGI4NE9ad0E3c3Ztd0Zna0NnQ1ZRZ0VSSGk4R2dhaHJYNEpBZGVxRnpTbENBemt4Z0xRdldMR2Z4N3kwcnVSQXdRZC03V1V0Y2JuUXJFd2FNVlAyOG9uRXM2N2pYNjh0eHYyaXBjb1E2THF4WTlkWlM4ZWdsaEVuYmgxYXlFVnhiZ1Y2aExoczhpMmJESXJjLUt3WE1mUmZDcENaNmVsRm1XVUYtczlfUFpFaXp0NXVQUzQ?oc=5)
-- …and 7 more
+- …and 9 more
 
-## Russian attacks could cut Ukraine grain exports by a third, say officials - The Straits Times
-*Thu, 18 Jun 2026 10:29:49 GMT* — [source](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzhqTWtpTzZSUEJtSkFxZUgxVFdaX2N6M2luX2hWclYzZHJFTnpGZm55OEhHTU9EU255Mmx5eU1sbGdTVEVSbmVvMmgzZXZ1Q01sakdYZHV5ZkdrRmxIanRQRmZNU0taelA2SkVUQkRaRkdKeWg3MndFZlBTdkJBSzU5cTB6QTNjRDhSY01iekloSTRyeUhnOElDQmR4bHYweWc?oc=5)
+## Focus: Russian attacks could cut Ukraine grain exports by a third - Reuters
+*Thu, 18 Jun 2026 14:12:59 GMT* — [source](https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0FIaWZ2NkJHbHdNdHplV1NLQWtCUERzSjRjUlZ6NGhaTi1Udzc1TnNKNFJReXVoU0pnZHRaT3NmU0hXR3VFWlNjMGFEV0tMSkF1MkJuLURUeWRfbGQ1OVdIQW80TVhlb0p6aDdZU05NTDB1dWVMOEV0SUNJTjZMU0dUeFMtVUFzOGx4SWRXR3k3MWN2aGxLa25pN3Y1NjQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
