@@ -1,5 +1,16 @@
 [
  {
+  "headline": "What\u2019s the State of Play in the Strait of Hormuz? - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5",
+  "published": "Mon, 22 Jun 2026 19:11:17 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Iraq's export crisis: Hormuz and pipeline uncertainty - Vortexa",
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLSEhITm52TDFnckVwZGl6SzZza3ZGaHZVc1lLdlF5UUd3SG10LVRvdU1EaWdFdm5ESTlQQ2UtZDlScFQ0YkV0bndVVlBpeUNiXzJGazhYODBwM05SaE5SWXdyclFpR01XSDREVHk1a1lZdHJsQkU4SXNJa3U?oc=5",
   "published": "Mon, 22 Jun 2026 10:00:11 GMT",
@@ -44,17 +55,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Tumble as Strait of Hormuz Reopens - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODFzYXNhaWxJWmhLTzZWdmVmRTgycE9KUjFaa29ZSVREY09TYWxOQzJud0VNRkowYktuUVlmdkZyV0dteXJBZ3dGTDJWa2dMSV9URGZBR2hvTzFvWUNPVUYxUmUyWktMeF9EemxUV3hkSGVmZnVtRVRkSmxoMk1wSUhHTnlUckNjMnBzeTdaV0pLczg5R1RlLUdWWEg2Qjhuak9TaXlCZWFRanNkeUE?oc=5",
-  "published": "Thu, 18 Jun 2026 15:34:39 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Why the oil may start flowing through the Strait of Hormuz faster than many believe - CNBC",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFREalZfLWJKTmI1WkxOS2QwVE4xaGhtZXdObzFhV3BCUExCM2F3UUp6NksyZWQ0elpaUEROUGdNbFJENGZBX3gtUkJGZGpmajAyN1RzZzJpOXhNbTNOZ3lqdkkwMEdoSXR0RkZDRHlqN1o5OW1rM2EyNFgxb1BMTldnbk9NNlNjYm9ZeHNhcmw2Q3BaRVJPTDBQQ0FNcHhfYUFoV2ZxNktibTdKVW5nZGxQcmY1V1JYMTljbtIBwgFBVV95cUxOblFXZ2JnOU5jckVHYmhWNy0tdzJVZWNTS1BIOTBLVHRFek1jcGg1MktCSFpUTmx6Qmd4R1hOcnJmNzdWYncycjVHSDd2aVV5eWZRa1R2X2lmanRCeWVkZkQ1VDgxcTllNmNRNHBoYVVQYXJVRHo4UTU3Tjk5U0k4UDJXYlllTHlDT1dzZXlpcWdXcjF0QXp0dGlJQmJ1U2N4V010QUxwRDJLOWtrTWdzSGNCVWNVRkQ5VnZqQ0tqTDE4dw?oc=5",
   "published": "Thu, 18 Jun 2026 11:40:06 GMT",
@@ -88,9 +88,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Prices Surge on Trump\u2019s Strait of Hormuz Threat | Market Update 2026 - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaURhZ01Wa0N0V3Q0XzhKZ0pueHQ3X1BPRjZIdVpkQ3BvUDctbkt2N19KQWdsTjFqSjh0WGJBRXJKUW9MVzVIVEtPTl9VcU9CQ1RVVFdlYXBWTHhqY2RkQ25tUzVtNm1VQmxPVHBhYmFGY29CTi12bVQ1VkNveVRVWjljMFduQS1lRDVuVVNZdDJ2djZHdkstV1BGWWRnOWxoakZFLWxITU1MRExBRDFXbEFuTGNBWlF0SlE?oc=5",
-  "published": "Mon, 22 Jun 2026 03:10:00 GMT",
+  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
+  "published": "Fri, 19 Jun 2026 11:34:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Kuwait to lift oil output to two million bpd within a week as Strait of Hormuz reopens - The National",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGtSUkJWTGlkdEtxejk4R0xPdW5rTU1feWZJSkxQNDJnUUVyVUwyRnU4X2paUFFpTk1mZ1k0bDVlQzVNdEFsMkJZSVpQazNwUmJRTlVzZFhJMTdSNTZGcjB4VFZiUzF4aUk5c0hpQjc4ci0xLXc4QXhqTVEzWTRPZDlfaGZ4V3JOWlRrWmpHelljQmwwaEZ5NWxwY0ZnbnhZQ2VSZlFPSm1tNWpmTFllUXRYQ2dZZ1lQRm5zam1kVE1ObEhIWnNjSlJhN2x6ZTE4dmdyci16cldLQUZrZDdudlFlaw?oc=5",
-  "published": "Fri, 19 Jun 2026 08:27:07 GMT",
+  "headline": "Oil Prices Surge on Trump\u2019s Strait of Hormuz Threat | Market Update 2026 - News and Statistics - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaURhZ01Wa0N0V3Q0XzhKZ0pueHQ3X1BPRjZIdVpkQ3BvUDctbkt2N19KQWdsTjFqSjh0WGJBRXJKUW9MVzVIVEtPTl9VcU9CQ1RVVFdlYXBWTHhqY2RkQ25tUzVtNm1VQmxPVHBhYmFGY29CTi12bVQ1VkNveVRVWjljMFduQS1lRDVuVVNZdDJ2djZHdkstV1BGWWRnOWxoakZFLWxITU1MRExBRDFXbEFuTGNBWlF0SlE?oc=5",
+  "published": "Mon, 22 Jun 2026 03:10:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
