@@ -22,17 +22,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Kuwait Offers Gulf Oil Loadings as Producers Seek Hormuz Outlet - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3JFdVpZcV9lNzBJX19SUFRtOUhvNVpEbm9MUW5uQkV6b25GY3RSM3RLUnRLNkxJczRldGRTSWs4V1RyMkFsUXEwQ2V6RjJkRm0wOTl1d3JaZG5aVFhDX1lGZVEyeXQxRUYxSmJEdUhEeHZwQ0c4WTBZZ2JBX1E5T2ZvSWh4b3hfQjhVTjJidkwzZXJrRmhQUWdCazhvUWRYV25mTGt4c1MwMjdPZlY1MGZnN2szQVJGRVo00gHAAUFVX3lxTE9ieURxbnVmZDlBTkxob0pLV1Boel94dzlEWnRPTkJNV0QxWEhXakJXMHlCN0hETmxOb2xHdDRiR3E2VU9tUTdLQXFPUWVGbzg5N0JyRFo0UURyMFB6WE1CT3J5cnpyRTR2UktUVXZDM0VQZE5mY2d5eXg0Q01KbXZ4cW9DTjVZLWRVS0NkZTFYNFoyN1RVbGpza2JyLUJxWExRdF9BY29MMlJoQ1RhclNqV2ZMNzJWTDdaOHF3eXdrWA?oc=5",
-  "published": "Mon, 22 Jun 2026 11:30:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "What\u2019s the State of Play in the Strait of Hormuz? - WSJ",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5",
   "published": "Wed, 17 Jun 2026 14:25:58 GMT",
@@ -58,6 +47,17 @@
   "headline": "Why the oil may start flowing through the Strait of Hormuz faster than many believe - CNBC",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFREalZfLWJKTmI1WkxOS2QwVE4xaGhtZXdObzFhV3BCUExCM2F3UUp6NksyZWQ0elpaUEROUGdNbFJENGZBX3gtUkJGZGpmajAyN1RzZzJpOXhNbTNOZ3lqdkkwMEdoSXR0RkZDRHlqN1o5OW1rM2EyNFgxb1BMTldnbk9NNlNjYm9ZeHNhcmw2Q3BaRVJPTDBQQ0FNcHhfYUFoV2ZxNktibTdKVW5nZGxQcmY1V1JYMTljbtIBwgFBVV95cUxOblFXZ2JnOU5jckVHYmhWNy0tdzJVZWNTS1BIOTBLVHRFek1jcGg1MktCSFpUTmx6Qmd4R1hOcnJmNzdWYncycjVHSDd2aVV5eWZRa1R2X2lmanRCeWVkZkQ1VDgxcTllNmNRNHBoYVVQYXJVRHo4UTU3Tjk5U0k4UDJXYlllTHlDT1dzZXlpcWdXcjF0QXp0dGlJQmJ1U2N4V010QUxwRDJLOWtrTWdzSGNCVWNVRkQ5VnZqQ0tqTDE4dw?oc=5",
   "published": "Thu, 18 Jun 2026 11:40:06 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Kuwait Offers Gulf Oil Loadings as Producers Seek Hormuz Outlet - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3JFdVpZcV9lNzBJX19SUFRtOUhvNVpEbm9MUW5uQkV6b25GY3RSM3RLUnRLNkxJczRldGRTSWs4V1RyMkFsUXEwQ2V6RjJkRm0wOTl1d3JaZG5aVFhDX1lGZVEyeXQxRUYxSmJEdUhEeHZwQ0c4WTBZZ2JBX1E5T2ZvSWh4b3hfQjhVTjJidkwzZXJrRmhQUWdCazhvUWRYV25mTGt4c1MwMjdPZlY1MGZnN2szQVJGRVo00gHAAUFVX3lxTE9ieURxbnVmZDlBTkxob0pLV1Boel94dzlEWnRPTkJNV0QxWEhXakJXMHlCN0hETmxOb2xHdDRiR3E2VU9tUTdLQXFPUWVGbzg5N0JyRFo0UURyMFB6WE1CT3J5cnpyRTR2UktUVXZDM0VQZE5mY2d5eXg0Q01KbXZ4cW9DTjVZLWRVS0NkZTFYNFoyN1RVbGpza2JyLUJxWExRdF9BY29MMlJoQ1RhclNqV2ZMNzJWTDdaOHF3eXdrWA?oc=5",
+  "published": "Mon, 22 Jun 2026 11:30:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",

@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _7 corroborating headline(s):_
 - [Iraq's export crisis: Hormuz and pipeline uncertainty - Vortexa](https://news.google.com/rss/articles/CBMifEFVX3lxTFBLSEhITm52TDFnckVwZGl6SzZza3ZGaHZVc1lLdlF5UUd3SG10LVRvdU1EaWdFdm5ESTlQQ2UtZDlScFQ0YkV0bndVVlBpeUNiXzJGazhYODBwM05SaE5SWXdyclFpR01XSDREVHk1a1lZdHJsQkU4SXNJa3U?oc=5)
-- [Kuwait Offers Gulf Oil Loadings as Producers Seek Hormuz Outlet - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3JFdVpZcV9lNzBJX19SUFRtOUhvNVpEbm9MUW5uQkV6b25GY3RSM3RLUnRLNkxJczRldGRTSWs4V1RyMkFsUXEwQ2V6RjJkRm0wOTl1d3JaZG5aVFhDX1lGZVEyeXQxRUYxSmJEdUhEeHZwQ0c4WTBZZ2JBX1E5T2ZvSWh4b3hfQjhVTjJidkwzZXJrRmhQUWdCazhvUWRYV25mTGt4c1MwMjdPZlY1MGZnN2szQVJGRVo00gHAAUFVX3lxTE9ieURxbnVmZDlBTkxob0pLV1Boel94dzlEWnRPTkJNV0QxWEhXakJXMHlCN0hETmxOb2xHdDRiR3E2VU9tUTdLQXFPUWVGbzg5N0JyRFo0UURyMFB6WE1CT3J5cnpyRTR2UktUVXZDM0VQZE5mY2d5eXg0Q01KbXZ4cW9DTjVZLWRVS0NkZTFYNFoyN1RVbGpza2JyLUJxWExRdF9BY29MMlJoQ1RhclNqV2ZMNzJWTDdaOHF3eXdrWA?oc=5)
 - [What’s the State of Play in the Strait of Hormuz? - WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5)
+- [Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5)
 - …and 4 more
 
 ## Focus: Russian attacks could cut Ukraine grain exports by a third - Reuters
