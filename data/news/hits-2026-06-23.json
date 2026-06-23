@@ -1,5 +1,16 @@
 [
  {
+  "headline": "Energy briefs\u2014Iran and the Strait of Hormuz - Oklahoma Energy Today",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWVheEpzbG9lOGJtU3NUX3lLZHFLZW4yTXp0Zk1JcF9qdlAyelVOcmdHeXZkd1lqQXZ6U0VJcmZwRmlPY0F5b1o4cFpndERXeWVxTlNwS0NLSkZVbEJXaFN2TENtRUQ5eEI1X1dGbmotQTk3ajg2UlVVXzBmMUdncXFoS2o?oc=5",
+  "published": "Tue, 23 Jun 2026 17:30:37 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "What\u2019s the State of Play in the Strait of Hormuz? - WSJ",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5",
   "published": "Sun, 21 Jun 2026 07:00:00 GMT",
@@ -25,17 +36,6 @@
   "headline": "Iraq's export crisis: Hormuz and pipeline uncertainty - Vortexa",
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLSEhITm52TDFnckVwZGl6SzZza3ZGaHZVc1lLdlF5UUd3SG10LVRvdU1EaWdFdm5ESTlQQ2UtZDlScFQ0YkV0bndVVlBpeUNiXzJGazhYODBwM05SaE5SWXdyclFpR01XSDREVHk1a1lZdHJsQkU4SXNJa3U?oc=5",
   "published": "Mon, 22 Jun 2026 10:00:11 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Crude Oil Prices Tumble as Strait of Hormuz Reopens - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODFzYXNhaWxJWmhLTzZWdmVmRTgycE9KUjFaa29ZSVREY09TYWxOQzJud0VNRkowYktuUVlmdkZyV0dteXJBZ3dGTDJWa2dMSV9URGZBR2hvTzFvWUNPVUYxUmUyWktMeF9EemxUV3hkSGVmZnVtRVRkSmxoMk1wSUhHTnlUckNjMnBzeTdaV0pLczg5R1RlLUdWWEg2Qjhuak9TaXlCZWFRanNkeUE?oc=5",
-  "published": "Thu, 18 Jun 2026 15:34:39 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens - The Guardian",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU45NVQ5dkNpUzlweDg3UVlyMkVKX1hVWS1NbkxqNE0wOHBLWEFYZk1zYUFnX0hGTXRURk1ITTlFSHZkUnJpUXlWUW5ZXzN1YVhvQXYxTFZ0Um5EOUZXTFptRFJyem9RMjl6VjBnUVd1NFRRLXlfMlRZN0dQUVprRnVFRllLbHl6ejhzS0NHZ2FIRHZXQm1sc3VoSFd3dnF2VGdTRENhQ0p5RkduanVKLVlQRENYQThX?oc=5",
-  "published": "Mon, 15 Jun 2026 13:13:00 GMT",
+  "headline": "Crude Oil Prices Tumble as Strait of Hormuz Reopens - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODFzYXNhaWxJWmhLTzZWdmVmRTgycE9KUjFaa29ZSVREY09TYWxOQzJud0VNRkowYktuUVlmdkZyV0dteXJBZ3dGTDJWa2dMSV9URGZBR2hvTzFvWUNPVUYxUmUyWktMeF9EemxUV3hkSGVmZnVtRVRkSmxoMk1wSUhHTnlUckNjMnBzeTdaV0pLczg5R1RlLUdWWEg2Qjhuak9TaXlCZWFRanNkeUE?oc=5",
+  "published": "Thu, 18 Jun 2026 15:34:39 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
