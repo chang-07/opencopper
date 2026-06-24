@@ -11,6 +11,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Ships Are Moving Through the Strait of Hormuz - The Institute for Energy Research",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ2MtV2ZkUldQZkxlemdGeEk4NE9HM2JYLWJPa3hmZE5MZk1Sa0JOSzdNM1ZvSFJiR0hpbTBCSkdOT25KYUphVTkteUs0bm9NNldGampjWldhOVYyQlhPUTBkZnhWcEhZTk1Fd2NoaGQxaHQwLU9ON2pVTjFoOUhFYktLZHZfblhjdXJXVXl0dmVKX1llc2Z0UG1BZWZNLXI4aE9OTFlhN1lBVzZJOEZF?oc=5",
+  "published": "Tue, 23 Jun 2026 18:56:50 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "What\u2019s the State of Play in the Strait of Hormuz? - WSJ",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5",
   "published": "Sun, 21 Jun 2026 07:00:00 GMT",
@@ -22,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Fall as Oil Supplies Flow Through the Strait of Hormuz - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNXpBODJqdnJPVmpqaWk4YjFSTVB4Z29jbHFJNTkwSXlob1dnR2l5MWJza1ZCZGZYdEdsSzluRGNwcmx4SkdfSDI3TlJYbkJxcGZXLUlEeERmM3QwcVVzWVhZdXdfUVIwQ18yanpOMkR6M3FNSGdmVFQtNEo1WlVMcGMzNjFlWFhQcGNqcERBNDZYa0pQSDMxcDJhd3ZkNG12WmtBQ1BvaEpfM1NYWGRSRzgyN1kzamFlSFdxMm1Ecmk2bkJic3k0eThR?oc=5",
-  "published": "Tue, 23 Jun 2026 15:33:38 GMT",
+  "headline": "Strait of Hormuz: Oil and gas supplies could take months to return to normal after Iran deal, energy experts say - ABC7 Bay Area",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWG1nX1lhZG9PaTZYX0xtR3BxUnphbk9VSmw0cjJQZi1BTURVcVFzMEx2LUI5S3FMR2htYThkU0JCTmpEZUV3bUJ5Qlh0NE82ZU51MHVzSDhHOVZvMlFmVlJTZlpjSWw2YnlqVEtIM0xiczhfYnNfY2gyLXA3NlY2ZG9VRzR5cjkyNkZkWXRndWxsZWg0SGJGa3R6cnVsOUliZ0ZKSVZGVjg3QkhwUVc0cElZVjJGRFdjLVJaRGE3RzNJV29yakHSAcsBQVVfeXFMUENoRVRNZFNiSUxDNGN0VkRFdGI4NE9ad0E3c3Ztd0Zna0NnQ1ZRZ0VSSGk4R2dhaHJYNEpBZGVxRnpTbENBemt4Z0xRdldMR2Z4N3kwcnVSQXdRZC03V1V0Y2JuUXJFd2FNVlAyOG9uRXM2N2pYNjh0eHYyaXBjb1E2THF4WTlkWlM4ZWdsaEVuYmgxYXlFVnhiZ1Y2aExoczhpMmJESXJjLUt3WE1mUmZDcENaNmVsRm1XVUYtczlfUFpFaXp0NXVQUzQ?oc=5",
+  "published": "Mon, 15 Jun 2026 03:02:20 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -33,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Strait of Hormuz: Oil and gas supplies could take months to return to normal after Iran deal, energy experts say - ABC7 Bay Area",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWG1nX1lhZG9PaTZYX0xtR3BxUnphbk9VSmw0cjJQZi1BTURVcVFzMEx2LUI5S3FMR2htYThkU0JCTmpEZUV3bUJ5Qlh0NE82ZU51MHVzSDhHOVZvMlFmVlJTZlpjSWw2YnlqVEtIM0xiczhfYnNfY2gyLXA3NlY2ZG9VRzR5cjkyNkZkWXRndWxsZWg0SGJGa3R6cnVsOUliZ0ZKSVZGVjg3QkhwUVc0cElZVjJGRFdjLVJaRGE3RzNJV29yakHSAcsBQVVfeXFMUENoRVRNZFNiSUxDNGN0VkRFdGI4NE9ad0E3c3Ztd0Zna0NnQ1ZRZ0VSSGk4R2dhaHJYNEpBZGVxRnpTbENBemt4Z0xRdldMR2Z4N3kwcnVSQXdRZC03V1V0Y2JuUXJFd2FNVlAyOG9uRXM2N2pYNjh0eHYyaXBjb1E2THF4WTlkWlM4ZWdsaEVuYmgxYXlFVnhiZ1Y2aExoczhpMmJESXJjLUt3WE1mUmZDcENaNmVsRm1XVUYtczlfUFpFaXp0NXVQUzQ?oc=5",
-  "published": "Mon, 15 Jun 2026 03:02:20 GMT",
+  "headline": "Crude Oil Prices Fall as Oil Supplies Flow Through the Strait of Hormuz - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNXpBODJqdnJPVmpqaWk4YjFSTVB4Z29jbHFJNTkwSXlob1dnR2l5MWJza1ZCZGZYdEdsSzluRGNwcmx4SkdfSDI3TlJYbkJxcGZXLUlEeERmM3QwcVVzWVhZdXdfUVIwQ18yanpOMkR6M3FNSGdmVFQtNEo1WlVMcGMzNjFlWFhQcGNqcERBNDZYa0pQSDMxcDJhd3ZkNG12WmtBQ1BvaEpfM1NYWGRSRzgyN1kzamFlSFdxMm1Ecmk2bkJic3k0eThR?oc=5",
+  "published": "Tue, 23 Jun 2026 15:33:38 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -80,6 +91,17 @@
   "headline": "Hormuz reopening could be OPEC\u2019s undoing - Reuters",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmdfVUZJbE5ORWIyZV9HYUhiTHRVOHMtZ1lOUFUwOXhiU2xzSWprczRMeUNESlJGUnNieGVnYlJZMG1LZG9WczRaaWptZEJJUUhpZHVDSTZhQ2tXYW0wNzhEZUdNQ0RIaFFIUExZYV9SMGFXZjQ0bVlseUNkRldYMTlWSDBjTWJoT2E5N3RnLWF4dHZWOFVDSXktc01WTmtwV0w5dk5IV1BiSDR5?oc=5",
   "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens - The Guardian",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU45NVQ5dkNpUzlweDg3UVlyMkVKX1hVWS1NbkxqNE0wOHBLWEFYZk1zYUFnX0hGTXRURk1ITTlFSHZkUnJpUXlWUW5ZXzN1YVhvQXYxTFZ0Um5EOUZXTFptRFJyem9RMjl6VjBnUVd1NFRRLXlfMlRZN0dQUVprRnVFRllLbHl6ejhzS0NHZ2FIRHZXQm1sc3VoSFd3dnF2VGdTRENhQ0p5RkduanVKLVlQRENYQThX?oc=5",
+  "published": "Mon, 15 Jun 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",

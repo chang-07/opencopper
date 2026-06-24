@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_9 corroborating headline(s):_
+- [Ships Are Moving Through the Strait of Hormuz - The Institute for Energy Research](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ2MtV2ZkUldQZkxlemdGeEk4NE9HM2JYLWJPa3hmZE5MZk1Sa0JOSzdNM1ZvSFJiR0hpbTBCSkdOT25KYUphVTkteUs0bm9NNldGampjWldhOVYyQlhPUTBkZnhWcEhZTk1Fd2NoaGQxaHQwLU9ON2pVTjFoOUhFYktLZHZfblhjdXJXVXl0dmVKX1llc2Z0UG1BZWZNLXI4aE9OTFlhN1lBVzZJOEZF?oc=5)
 - [What’s the State of Play in the Strait of Hormuz? - WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5)
-- [Crude Oil Prices Fall as Oil Supplies Flow Through the Strait of Hormuz - TradingView](https://news.google.com/rss/articles/CBMiygFBVV95cUxQNXpBODJqdnJPVmpqaWk4YjFSTVB4Z29jbHFJNTkwSXlob1dnR2l5MWJza1ZCZGZYdEdsSzluRGNwcmx4SkdfSDI3TlJYbkJxcGZXLUlEeERmM3QwcVVzWVhZdXdfUVIwQ18yanpOMkR6M3FNSGdmVFQtNEo1WlVMcGMzNjFlWFhQcGNqcERBNDZYa0pQSDMxcDJhd3ZkNG12WmtBQ1BvaEpfM1NYWGRSRzgyN1kzamFlSFdxMm1Ecmk2bkJic3k0eThR?oc=5)
 - [Strait of Hormuz: Oil and gas supplies could take months to return to normal after Iran deal, energy experts say - ABC7 Bay Area](https://news.google.com/rss/articles/CBMixgFBVV95cUxQWG1nX1lhZG9PaTZYX0xtR3BxUnphbk9VSmw0cjJQZi1BTURVcVFzMEx2LUI5S3FMR2htYThkU0JCTmpEZUV3bUJ5Qlh0NE82ZU51MHVzSDhHOVZvMlFmVlJTZlpjSWw2YnlqVEtIM0xiczhfYnNfY2gyLXA3NlY2ZG9VRzR5cjkyNkZkWXRndWxsZWg0SGJGa3R6cnVsOUliZ0ZKSVZGVjg3QkhwUVc0cElZVjJGRFdjLVJaRGE3RzNJV29yakHSAcsBQVVfeXFMUENoRVRNZFNiSUxDNGN0VkRFdGI4NE9ad0E3c3Ztd0Zna0NnQ1ZRZ0VSSGk4R2dhaHJYNEpBZGVxRnpTbENBemt4Z0xRdldMR2Z4N3kwcnVSQXdRZC03V1V0Y2JuUXJFd2FNVlAyOG9uRXM2N2pYNjh0eHYyaXBjb1E2THF4WTlkWlM4ZWdsaEVuYmgxYXlFVnhiZ1Y2aExoczhpMmJESXJjLUt3WE1mUmZDcENaNmVsRm1XVUYtczlfUFpFaXp0NXVQUzQ?oc=5)
-- …and 4 more
+- …and 6 more
 
 ## Focus: Russian attacks could cut Ukraine grain exports by a third - Reuters
 *Thu, 18 Jun 2026 14:12:59 GMT* — [source](https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0FIaWZ2NkJHbHdNdHplV1NLQWtCUERzSjRjUlZ6NGhaTi1Udzc1TnNKNFJReXVoU0pnZHRaT3NmU0hXR3VFWlNjMGFEV0tMSkF1MkJuLURUeWRfbGQ1OVdIQW80TVhlb0p6aDdZU05NTDB1dWVMOEV0SUNJTjZMU0dUeFMtVUFzOGx4SWRXR3k3MWN2aGxLa25pN3Y1NjQ?oc=5)
