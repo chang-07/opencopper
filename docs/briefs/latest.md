@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Iran’s Hormuz Gamble Ushers in a Tense New Normal for Gulf Energy: Bousso - EnergyNow.com
-*Sat, 20 Jun 2026 10:12:28 GMT* — [source](https://news.google.com/rss/articles/CBMipAFBVV95cUxQckNFUTVWYlA3MDIyWi1sUmd1NVdVbHlZdXVDamFxZk1qWTVRWkVBMm9fUmNJeDJfTndWcGtDcGtVaTRpMG1PS0NSMkxUai1HUTNzYVRKRlJaV0pjNTcyY3FsbWZtdEQxTnNpOG1vcU1HMEdBd1c0eXVySF9ER3BPUlNUbjA1YVJXQmlFdlcwV0NBR0w0eXFpNzBWZGcwSFI3VExZdg?oc=5)
+## What’s the State of Play in the Strait of Hormuz? - WSJ
+*Thu, 25 Jun 2026 07:46:04 GMT* — [source](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
-- [Crude Oil Prices Sink on Deal to Reopen Strait of Hormuz - TradingView](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19UWFJ4X0g3a2p6bGxqMEZ1c3F0NV9kQURMZUlVM3FVVzBPVmx1cW00R3JLb2tDSUNRNTZaSlhsLVFkdHdMZm45WFlOaF95RWJZb2FhOGNZdWNIUl9faWloRmlZRHlMUkdldWtDZ3pSaWdKemRfY0RwZmtBai1ncHg1N2FPTVZxUVhkMHZKOXN0NTR5Y19Ja2REd090RF9oTzE4U1Z3aXRsZFNTUnMySFU1TU4?oc=5)
-- [US claims 125 million barrels of oil escorted through Strait of Hormuz - Anadolu Ajansı](https://news.google.com/rss/articles/CBMisgFBVV95cUxONDdkRzNQUWRSbnF2VnpOTk1FMW1PR0R1S0tRcmFSYU5sV2Q3U1E1Q2xDVl84bnhwb3ZiOEcwZlA0OHU5MEhtZk9TUTkyWkJaSGFHamQ0eEJVamhoekY0bE43Y3pfaDY5ZDlOS2QtUE9RNmUweWNsUnlGYzRMTWJvaDZtZjdpM2x6SnJTNVQxaktCblBGa3h4c2YzMEs3SUtzMUpPdWRsc2c5MDVLV1gzbW9n0gG6AUFVX3lxTE9LOTZFRGF0MlpVQW83V2R5LTAwZjl1dlBSMEhuMzZDQ2l2ak9ia196UEt1dlhfOFBjVWJiR0pqMFFUcHpZTDQzdDczOHBTemotUnllRFZTYW1fUjhtOUVHZnhtT0NTOHR6SzR1Q3I2QTNXUmt5OVF2bGZNaTBtdXAtck91a3RFX01YMDBGYjVucVJSTnVJQWZnaUdrcU1mUVV4MkZ3UEFDZU95MkdEUDNCR0NKUjF6ZkktQQ?oc=5)
-- [Oil hits 3-month low as US, Iran reach peace deal to reopen Strait of Hormuz - CNBC Africa](https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkNtWTdLWmx2Vmx4YTl0RGZacUV5TXF2RVMxTlp6TXlubUZOZGluRkNGVVNKckpVd3lwQ3NfVUNLbjhFWHhURUZEcnJFM0lGMGlUZXN3ejNaR1p0WHFNcVgtUlYxcl9kQWdpTFBxQWh6RmtBTjlBVnVKUVRqUkxtdUQwWUxHZEwzY2lPaFFaVGNUMDhVamZmeHliR2lMbDFZ?oc=5)
-- …and 7 more
+_7 corroborating headline(s):_
+- [Middle Eastern producers prepare to resume oil production after Strait of Hormuz reopens - mezha.net](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vWnNGaWNXVVBnRWFfWVFxbTl6M1pidktpZDBiTVVzbFVxTmlvOEFrOUdsMUdxRGFrWkthRUV6OXN0RndjR1RRODVPUm01V1F6S0xDZ0ZFUVRaUTBxTXFvSVJBSXlNbmRYQlcyVGN4dw?oc=5)
+- [Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5)
+- [Iraq's export crisis: Hormuz and pipeline uncertainty - Vortexa](https://news.google.com/rss/articles/CBMifEFVX3lxTFBLSEhITm52TDFnckVwZGl6SzZza3ZGaHZVc1lLdlF5UUd3SG10LVRvdU1EaWdFdm5ESTlQQ2UtZDlScFQ0YkV0bndVVlBpeUNiXzJGazhYODBwM05SaE5SWXdyclFpR01XSDREVHk1a1lZdHJsQkU4SXNJa3U?oc=5)
+- …and 4 more
 
 ## Focus: Russian attacks could cut Ukraine grain exports by a third - Reuters
 *Thu, 18 Jun 2026 14:12:59 GMT* — [source](https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0FIaWZ2NkJHbHdNdHplV1NLQWtCUERzSjRjUlZ6NGhaTi1Udzc1TnNKNFJReXVoU0pnZHRaT3NmU0hXR3VFWlNjMGFEV0tMSkF1MkJuLURUeWRfbGQ1OVdIQW80TVhlb0p6aDdZU05NTDB1dWVMOEV0SUNJTjZMU0dUeFMtVUFzOGx4SWRXR3k3MWN2aGxLa25pN3Y1NjQ?oc=5)
