@@ -1,16 +1,5 @@
 [
  {
-  "headline": "Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5",
-  "published": "Tue, 23 Jun 2026 21:54:06 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Middle Eastern producers prepare to resume oil production after Strait of Hormuz reopens - mezha.net",
   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vWnNGaWNXVVBnRWFfWVFxbTl6M1pidktpZDBiTVVzbFVxTmlvOEFrOUdsMUdxRGFrWkthRUV6OXN0RndjR1RRODVPUm01V1F6S0xDZ0ZFUVRaUTBxTXFvSVJBSXlNbmRYQlcyVGN4dw?oc=5",
   "published": "Thu, 25 Jun 2026 09:22:22 GMT",
@@ -33,8 +22,19 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "WTI rebounds while traders monitor fresh developments in the Strait of Hormuz - FXStreet",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVFdLanFSekZnOC1lQUJOVURyYVRNRFk0ZW1wcHUzU2VPTEFDTDctTllTTXJqZldCampOdDNVazRtMHdDTHQxNGJyYU5paG01M09nWlpQQ042bWZhZW9fbldKdVNvWXpJY1pZTTRqdUc0R3Q3Q3NEMXpKMXJoRGRwTGNoeUx4eW1yWXhqMkQybUJUc1REdmxuYUNkQXhEY080akh4TGpSeU81TnE4NzFmRVI0TXozWXZWTTNGNg?oc=5",
+  "published": "Thu, 25 Jun 2026 17:32:15 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Oil Prices Drop 4% As Strait Of Hormuz Shipping Recovers Following US-Iran Agreement - Marine Insight",
-  "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZFVfLTZLWkpaMGVhOXg3S1RJTEQ1bzhpTVdZaGpOd2xTMVgzQjZaLUN0SkVxQ1ZBQjN3TDA4a3dVWGZkc0NOOHhVZEtQNGxFQWVzcnVYOHIxdU9JS0NEZFROWUpLTUR0UV9UdC1fNW5rcW1wV3hWQjdCZWFGbHVNQ01CVXFHQjVXV0tWZmppNEV6RkgzSmJvbGlNNExQaVRKN3JZbjNzM0xlQ21PUVlTQTF6d296aVdRRUxIc3h5UEpRRngwN0lvQVpXRFBKdUF3SVZ0cVZGV2NsOUVYLUd4RkMzUWZvRFpMS1dwQ004eGNtSHVyR0k1QUJielhSXzk3dVc3VEtLRTN4ZGhXUFJSWC1xcFRSeGotQVN4NnZ2a1JhbG5MOEwwQVpXUC1kWDlrVlBWYWE2b19OTHpBenFGVTZfMUFONUluQWk1ZVBUTmZWcXlxQVp2SHQ0R1JWZw?oc=5",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjJMZUJ2TlRQWmZUWDNsd0hfRVpydUhiUjhMbENwcDJlWkNTb01uR0RoSnAtbGNZZ0pkZnhQNFZVdjB0LXdnWEwxZjliWXgyR2QxR2NfUXNXZkRnQmhudnJPTEpXRnR0cDdnODFMaUlmbEh6Rk5BV3hOdGJ5LVlrZjBOcmJYLTlLTXJNVVdCcElKZ1JxVF9vVElqcGVRYVI4bkJodmduNmpHUFhVXzhNYy1hbTM?oc=5",
   "published": "Thu, 25 Jun 2026 12:31:01 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
@@ -66,9 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Kuwait Offers Gulf Oil Loadings as Producers Seek Hormuz Outlet - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3JFdVpZcV9lNzBJX19SUFRtOUhvNVpEbm9MUW5uQkV6b25GY3RSM3RLUnRLNkxJczRldGRTSWs4V1RyMkFsUXEwQ2V6RjJkRm0wOTl1d3JaZG5aVFhDX1lGZVEyeXQxRUYxSmJEdUhEeHZwQ0c4WTBZZ2JBX1E5T2ZvSWh4b3hfQjhVTjJidkwzZXJrRmhQUWdCazhvUWRYV25mTGt4c1MwMjdPZlY1MGZnN2szQVJGRVo00gHAAUFVX3lxTE9ieURxbnVmZDlBTkxob0pLV1Boel94dzlEWnRPTkJNV0QxWEhXakJXMHlCN0hETmxOb2xHdDRiR3E2VU9tUTdLQXFPUWVGbzg5N0JyRFo0UURyMFB6WE1CT3J5cnpyRTR2UktUVXZDM0VQZE5mY2d5eXg0Q01KbXZ4cW9DTjVZLWRVS0NkZTFYNFoyN1RVbGpza2JyLUJxWExRdF9BY29MMlJoQ1RhclNqV2ZMNzJWTDdaOHF3eXdrWA?oc=5",
-  "published": "Mon, 22 Jun 2026 11:30:00 GMT",
+  "headline": "Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5",
+  "published": "Tue, 23 Jun 2026 21:54:06 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
