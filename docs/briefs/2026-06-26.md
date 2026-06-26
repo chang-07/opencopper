@@ -21,14 +21,14 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_9 corroborating headline(s):_
+_10 corroborating headline(s):_
 - [Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5)
-- [Crude Oil Prices Sharply Higher on Concerns of Reopening of Strait of Hormuz - TradingView](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeFgxZVB1MmgwQlc5R0RoMDZQbzFjUVlwU1lGQko3MExyUlE1aEhuRW9rOUlWaU9nV20zWVZaYTJ3WFEwSHU0VWh6R01vMDRPWGlyOS1GUUdweGpaYmZZSGpkQ3JHMWRIWFJsQ1NiLS1scFU2TWVFVjNLNFJfWENxbFdCMVJFei1HOEJDM3JYZ2hPdHhOSnYtcjNrLUx0LXdteDZlU05VaVNCS01fN251MWd5NlpSTEtRZm04ZWxYNTBZQTZDYmQ2WXBaMGZwUzhG?oc=5)
+- [Crude Oil Prices Sharply Higher on Concerns of Reopening of Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3hIT280YnlOazE4VVlyQnlPZnFkU3M5aWtoQ3FNcFJFeldST3hYX2Y2X1BQNkNHT0h3YlNSLXZGYkJPbm44clNyeG5jVU9oc0txc2lwcDFNWWhCRkR3V05CWEhNOTdheDg4Q2xnNFdkZDVwVEt6SENqMURETkN1VEFvTExaYzJoYV9vYTVKRnh4ODh5WkNQaExRaTZvOXFTel9ZQi0wY09sNnVOa240WkZxcUlvejJH?oc=5)
 - [Iraq's export crisis: Hormuz and pipeline uncertainty - Vortexa](https://news.google.com/rss/articles/CBMifEFVX3lxTFBLSEhITm52TDFnckVwZGl6SzZza3ZGaHZVc1lLdlF5UUd3SG10LVRvdU1EaWdFdm5ESTlQQ2UtZDlScFQ0YkV0bndVVlBpeUNiXzJGazhYODBwM05SaE5SWXdyclFpR01XSDREVHk1a1lZdHJsQkU4SXNJa3U?oc=5)
-- …and 6 more
+- …and 7 more
 
 ## Focus: Russian attacks could cut Ukraine grain exports by a third - Reuters
-*Thu, 18 Jun 2026 14:12:59 GMT* — [source](https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0FIaWZ2NkJHbHdNdHplV1NLQWtCUERzSjRjUlZ6NGhaTi1Udzc1TnNKNFJReXVoU0pnZHRaT3NmU0hXR3VFWlNjMGFEV0tMSkF1MkJuLURUeWRfbGQ1OVdIQW80TVhlb0p6aDdZU05NTDB1dWVMOEV0SUNJTjZMU0dUeFMtVUFzOGx4SWRXR3k3MWN2aGxLa25pN3Y1NjQ?oc=5)
+*Thu, 18 Jun 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0FIaWZ2NkJHbHdNdHplV1NLQWtCUERzSjRjUlZ6NGhaTi1Udzc1TnNKNFJReXVoU0pnZHRaT3NmU0hXR3VFWlNjMGFEV0tMSkF1MkJuLURUeWRfbGQ1OVdIQW80TVhlb0p6aDdZU05NTDB1dWVMOEV0SUNJTjZMU0dUeFMtVUFzOGx4SWRXR3k3MWN2aGxLa25pN3Y1NjQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
