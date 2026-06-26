@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_13 corroborating headline(s):_
+_12 corroborating headline(s):_
 - [Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5)
 - [Oil prices fall as Strait of Hormuz traffic rebounds after ceasefire - Anadolu Ajansı](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlp1dllYVDNaSzNmTUQzU1VoUHNqZ3RTVUlHUnBjaWZVSXFranVMN05lbXFOOHoxR0xvUnEwZVFZODcyc3NUZWw2RWZZUklmR2Z5ckczNXRqSEl2OVdwMmRJelpBdks4N1B3RnZhTXZGN3F6SGE2T1ptVExiSUI5elhDNmJOdmdZR1RMMm1VdThudUUyWE80QkJfYjVKa0QwVU8xUDFITHZoWkpMZkQ00gG3AUFVX3lxTFBTUUdCZXRKWGVhN2J1QmNvUUcyeVlIVUQ1bmV6MkpHZWNRZktWQU5oT1lUMlQwSFdMVU5iM2hraGhGaFN3dUVrYmgtcUZ6SVZEU2sxc1g1RmFjeWFjSS1wUnNZQml6YXZGblhlOS0ycW92ZThQejY4c21SS0l1MXNtUnVlajZHNEZWWllha1ZTYzRfaXVGXzFCb0I2RXoyVjFRTmpHd0tkeW5aMmplck5Cei04RUZBVQ?oc=5)
-- [Crude Oil Prices Sharply Higher on Concerns of Reopening of Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3hIT280YnlOazE4VVlyQnlPZnFkU3M5aWtoQ3FNcFJFeldST3hYX2Y2X1BQNkNHT0h3YlNSLXZGYkJPbm44clNyeG5jVU9oc0txc2lwcDFNWWhCRkR3V05CWEhNOTdheDg4Q2xnNFdkZDVwVEt6SENqMURETkN1VEFvTExaYzJoYV9vYTVKRnh4ODh5WkNQaExRaTZvOXFTel9ZQi0wY09sNnVOa240WkZxcUlvejJH?oc=5)
-- …and 10 more
+- [Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz - Marine Insight](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW9lM1lMOXhPbk5KaHN1d3VraXB3RnI0WUtSU3U2bm9uNkExQ3ZMb2ROcTNIampIaGpENjlER0pIOHF6WFc1MF84WVI5cXllZ0k4aHRPSkJTN3BvZG9mdDhoU1EwcE5GZTV4RVRRWWpEdDlqMGZmMVVpN19odndzdzVSLUV4d0R0X3FYdXF2WFVtRFQ4dWRXaU5PTmRfR3NWU2VjNmtuN2otVFJXUUlubEFEcF9IZlEwQ185cmV2VDU?oc=5)
+- …and 9 more
 
 ## Focus: Russian attacks could cut Ukraine grain exports by a third - Reuters
 *Thu, 18 Jun 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0FIaWZ2NkJHbHdNdHplV1NLQWtCUERzSjRjUlZ6NGhaTi1Udzc1TnNKNFJReXVoU0pnZHRaT3NmU0hXR3VFWlNjMGFEV0tMSkF1MkJuLURUeWRfbGQ1OVdIQW80TVhlb0p6aDdZU05NTDB1dWVMOEV0SUNJTjZMU0dUeFMtVUFzOGx4SWRXR3k3MWN2aGxLa25pN3Y1NjQ?oc=5)
