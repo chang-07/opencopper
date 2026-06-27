@@ -66,31 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Sharply Higher on Concerns of Reopening of Strait of Hormuz - Barchart.com",
+  "headline": "Crude Oil Prices Sharply Higher on Concerns of Reopening of Strait of Hormuz - Barchart",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3hIT280YnlOazE4VVlyQnlPZnFkU3M5aWtoQ3FNcFJFeldST3hYX2Y2X1BQNkNHT0h3YlNSLXZGYkJPbm44clNyeG5jVU9oc0txc2lwcDFNWWhCRkR3V05CWEhNOTdheDg4Q2xnNFdkZDVwVEt6SENqMURETkN1VEFvTExaYzJoYV9vYTVKRnh4ODh5WkNQaExRaTZvOXFTel9ZQi0wY09sNnVOa240WkZxcUlvejJH?oc=5",
   "published": "Thu, 25 Jun 2026 19:18:40 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz - Marine Insight",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW9lM1lMOXhPbk5KaHN1d3VraXB3RnI0WUtSU3U2bm9uNkExQ3ZMb2ROcTNIampIaGpENjlER0pIOHF6WFc1MF84WVI5cXllZ0k4aHRPSkJTN3BvZG9mdDhoU1EwcE5GZTV4RVRRWWpEdDlqMGZmMVVpN19odndzdzVSLUV4d0R0X3FYdXF2WFVtRFQ4dWRXaU5PTmRfR3NWU2VjNmtuN2otVFJXUUlubEFEcF9IZlEwQ185cmV2VDU?oc=5",
-  "published": "Fri, 26 Jun 2026 12:55:03 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Middle Eastern producers prepare to resume oil production after Strait of Hormuz reopens - mezha.net",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vWnNGaWNXVVBnRWFfWVFxbTl6M1pidktpZDBiTVVzbFVxTmlvOEFrOUdsMUdxRGFrWkthRUV6OXN0RndjR1RRODVPUm01V1F6S0xDZ0ZFUVRaUTBxTXFvSVJBSXlNbmRYQlcyVGN4dw?oc=5",
-  "published": "Thu, 25 Jun 2026 09:22:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -113,6 +91,17 @@
   "headline": "Oil prices fall as Strait of Hormuz traffic rebounds after ceasefire - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlp1dllYVDNaSzNmTUQzU1VoUHNqZ3RTVUlHUnBjaWZVSXFranVMN05lbXFOOHoxR0xvUnEwZVFZODcyc3NUZWw2RWZZUklmR2Z5ckczNXRqSEl2OVdwMmRJelpBdks4N1B3RnZhTXZGN3F6SGE2T1ptVExiSUI5elhDNmJOdmdZR1RMMm1VdThudUUyWE80QkJfYjVKa0QwVU8xUDFITHZoWkpMZkQ00gG3AUFVX3lxTFBTUUdCZXRKWGVhN2J1QmNvUUcyeVlIVUQ1bmV6MkpHZWNRZktWQU5oT1lUMlQwSFdMVU5iM2hraGhGaFN3dUVrYmgtcUZ6SVZEU2sxc1g1RmFjeWFjSS1wUnNZQml6YXZGblhlOS0ycW92ZThQejY4c21SS0l1MXNtUnVlajZHNEZWWllha1ZTYzRfaXVGXzFCb0I2RXoyVjFRTmpHd0tkeW5aMmplck5Cei04RUZBVQ?oc=5",
   "published": "Fri, 26 Jun 2026 07:59:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz - Marine Insight",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW9lM1lMOXhPbk5KaHN1d3VraXB3RnI0WUtSU3U2bm9uNkExQ3ZMb2ROcTNIampIaGpENjlER0pIOHF6WFc1MF84WVI5cXllZ0k4aHRPSkJTN3BvZG9mdDhoU1EwcE5GZTV4RVRRWWpEdDlqMGZmMVVpN19odndzdzVSLUV4d0R0X3FYdXF2WFVtRFQ4dWRXaU5PTmRfR3NWU2VjNmtuN2otVFJXUUlubEFEcF9IZlEwQ185cmV2VDU?oc=5",
+  "published": "Fri, 26 Jun 2026 12:55:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
