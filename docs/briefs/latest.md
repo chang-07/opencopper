@@ -27,6 +27,25 @@ _13 corroborating headline(s):_
 - [U.S. oil plunges below $70 as ships keep crossing Strait of Hormuz - Los Angeles Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWcxWXZ5ZWw0Uk5ablM5WGcyYnRMbkl6WU1oNVhwZ0RfRXA1UXBqMFdhd0wxQUhBU29uSUtzZXBuTmVFWXFOTk5TZTY5TmVwY3NGWDBUV24zbWJBZnJ1V1ZyS2tyRWk1OFVCT3dwUFpCSkYyT2hubW8yYVF3TlIxNHNXVnB2bWFwTUh6cXhfSnY4UURnZHd0UkgxNC1WbnVlcVhKS3V1N0JpYTU1Y1VnWHhZRWo?oc=5)
 - …and 10 more
 
+## Focus: Russian attacks could cut Ukraine grain exports by a third - Reuters
+*Thu, 18 Jun 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0FIaWZ2NkJHbHdNdHplV1NLQWtCUERzSjRjUlZ6NGhaTi1Udzc1TnNKNFJReXVoU0pnZHRaT3NmU0hXR3VFWlNjMGFEV0tMSkF1MkJuLURUeWRfbGQ1OVdIQW80TVhlb0p6aDdZU05NTDB1dWVMOEV0SUNJTjZMU0dUeFMtVUFzOGx4SWRXR3k3MWN2aGxLa25pN3Y1NjQ?oc=5)
+Rule: wheat / Russia / severity prior +15%
+
+```
+CROSS-COMMODITY RIPPLE — Russia wheat -15% (prior)
+commodity    channel       via                          price Δ
+----------------------------------------------------------------
+wheat        direct        Russia                           +6%  [+3..+13%]
+
+One first-order round through data/seed/linkages.yaml (byproduct /
+substitution / input-cost); couplings are disputable seed-estimates.
+[..] = the same shock across the seeded elasticity RANGES — when the
+band is wide, the elasticities are doing the work, not the event.
+```
+
+_1 corroborating headline(s):_
+- [Russian attacks may reduce Ukraine's grain exports by up to a third - Marine News Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUhUaTBjNlN6NkxuMXhFS0dETzc3Q3pNSklITkxrSTBROUtERXR3S21pTUpzakQxSVBrek5UNmFPeWRQNDNCcFhwZjhxcFAxNmVYcWtxV0ZiQTNyUnBzeWdMVFZ4TlZpd0c0bjdYOHpYWFVXLW4zMEJ0eEFWVTlXOHZWMWdQZEdaVnkzMVpHellrY1pFY25odE4yWXB4UWtxbWJNSEFmUm4?oc=5)
+
 ---
 
 ## Scorecard
