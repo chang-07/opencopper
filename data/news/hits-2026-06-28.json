@@ -77,7 +77,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Commodities Feed: Oil bounces back after vessel hit in Strait of Hormuz - ING Think",
+  "headline": "The Commodities Feed: Oil bounces back after vessel hit in Strait of Hormuz - ING THINK economic and financial analysis | ING THINK",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1EwSUpSd3FCWFh1SFBlcmNJcWMyUEhWM25ZTW5GS29QNTREMGh1Z3RuNF9yYWtDTXVFU29vQWJPZVN0TkZieUVFaG5NRjNhOXAyT2hyS0duTktsSmwwN1o3Rk82d2o2NXBhYjBBZjNWamtUcHh4ODdnMEI3Yi13YTZvQ1pMVkI5LTJrODFVWGlqT0tlX18tUjhn?oc=5",
   "published": "Fri, 26 Jun 2026 04:27:56 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -99,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz - Marine Insight",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW9lM1lMOXhPbk5KaHN1d3VraXB3RnI0WUtSU3U2bm9uNkExQ3ZMb2ROcTNIampIaGpENjlER0pIOHF6WFc1MF84WVI5cXllZ0k4aHRPSkJTN3BvZG9mdDhoU1EwcE5GZTV4RVRRWWpEdDlqMGZmMVVpN19odndzdzVSLUV4d0R0X3FYdXF2WFVtRFQ4dWRXaU5PTmRfR3NWU2VjNmtuN2otVFJXUUlubEFEcF9IZlEwQ185cmV2VDU?oc=5",
-  "published": "Fri, 26 Jun 2026 12:55:03 GMT",
+  "headline": "Middle Eastern producers prepare to resume oil production after Strait of Hormuz reopens - mezha.net",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vWnNGaWNXVVBnRWFfWVFxbTl6M1pidktpZDBiTVVzbFVxTmlvOEFrOUdsMUdxRGFrWkthRUV6OXN0RndjR1RRODVPUm01V1F6S0xDZ0ZFUVRaUTBxTXFvSVJBSXlNbmRYQlcyVGN4dw?oc=5",
+  "published": "Thu, 25 Jun 2026 09:22:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -124,6 +124,17 @@
   "headline": "Oil slides to lowest since U.S.-Iran war outbreak as more ships cross Strait of Hormuz - Seeking Alpha",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVTJYTkdodjJ1ZV8xMElJSlpXV0pjMVlHNW1sdlFZU3NZNTdlNDJhaEphOU01YmR4cjd3U0hCaFJVeUhvX1NTN29tcjI1Z1dqRUREaUhkZG9PdzNQXzZtZnJTWkpwaldPcl9NNENaaERXRnlEdTdTNlJIeFZzSWRkanZ5NkJPSUJUZ3BtOTFfeWZiMW1jdE1iMExSanJOMDdValpEa2FzdTBTbEtLcG9INDY2bFRwajluUGNFZ1VZaw?oc=5",
   "published": "Wed, 24 Jun 2026 23:55:25 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz - Marine Insight",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW9lM1lMOXhPbk5KaHN1d3VraXB3RnI0WUtSU3U2bm9uNkExQ3ZMb2ROcTNIampIaGpENjlER0pIOHF6WFc1MF84WVI5cXllZ0k4aHRPSkJTN3BvZG9mdDhoU1EwcE5GZTV4RVRRWWpEdDlqMGZmMVVpN19odndzdzVSLUV4d0R0X3FYdXF2WFVtRFQ4dWRXaU5PTmRfR3NWU2VjNmtuN2otVFJXUUlubEFEcF9IZlEwQ185cmV2VDU?oc=5",
+  "published": "Fri, 26 Jun 2026 12:55:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
