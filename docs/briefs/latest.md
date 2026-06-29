@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Why falling oil prices don't mean Hormuz crisis is over - ایران اینترنشنال
-*Mon, 29 Jun 2026 03:58:15 GMT* — [source](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5)
+## Hormuz oil exodus sets stage for chaotic rebalancing act - Reuters
+*Mon, 29 Jun 2026 06:06:00 GMT* — [source](https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2p4V01TS19VbzhydC1vMzhvNlBuMXdmS0ZyekVuZmk0aU9GVlc2MGM2bFdJQlcxdEZOQVpYeGJqUW5QUVI2am1hY3NrZ2dfSzVPbXVOdE1PM1lMRnE5UkFEdUpfNUVOVjV6VXhaWkhsVEZ6eklsOXpvcUVFdVVRYXBGVy1DaU9hdkZfbU01YkVCakJGX2p0R1JXNmpOenhmNXVlOElWMGczVlo5RkVuOHNwWmQ4Y3pYX3htQ0RR?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,8 +22,8 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _9 corroborating headline(s):_
+- [Why falling oil prices don't mean Hormuz crisis is over - ایران اینترنشنال](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5)
 - [What’s the State of Play in the Strait of Hormuz? - WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5)
-- [Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5)
 - [U.S. oil plunges below $70 as ships keep crossing Strait of Hormuz - Los Angeles Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWcxWXZ5ZWw0Uk5ablM5WGcyYnRMbkl6WU1oNVhwZ0RfRXA1UXBqMFdhd0wxQUhBU29uSUtzZXBuTmVFWXFOTk5TZTY5TmVwY3NGWDBUV24zbWJBZnJ1V1ZyS2tyRWk1OFVCT3dwUFpCSkYyT2hubW8yYVF3TlIxNHNXVnB2bWFwTUh6cXhfSnY4UURnZHd0UkgxNC1WbnVlcVhKS3V1N0JpYTU1Y1VnWHhZRWo?oc=5)
 - …and 6 more
 
