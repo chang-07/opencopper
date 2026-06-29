@@ -33,6 +33,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Iraq faces challenges in resuming oil shipments through Hormuz - IraqiNews",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkV3VndzUVB4Vk5BcmNaRkZtUFZ2c1FzaGhiVmhoOTU0YVRDanNNU2piWjBld2xxUk9WUGJhbWVyREh1ZzRhZ3BHVUl1S2dLcmNnQ3RobjEtU3VYX2YtVGhPTkRoVDVMODVWNVVfWDVlNkxKejhmT3JtSXFiQWQ4Qlk4UFhiRTEtd3pHZlBDVWpmanJGU3dCUDRR?oc=5",
+  "published": "Mon, 29 Jun 2026 12:20:14 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "U.S. oil plunges below $70 as ships keep crossing Strait of Hormuz - Los Angeles Times",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWcxWXZ5ZWw0Uk5ablM5WGcyYnRMbkl6WU1oNVhwZ0RfRXA1UXBqMFdhd0wxQUhBU29uSUtzZXBuTmVFWXFOTk5TZTY5TmVwY3NGWDBUV24zbWJBZnJ1V1ZyS2tyRWk1OFVCT3dwUFpCSkYyT2hubW8yYVF3TlIxNHNXVnB2bWFwTUh6cXhfSnY4UURnZHd0UkgxNC1WbnVlcVhKS3V1N0JpYTU1Y1VnWHhZRWo?oc=5",
   "published": "Fri, 26 Jun 2026 20:17:29 GMT",
@@ -47,17 +58,6 @@
   "headline": "The Commodities Feed: Oil bounces back after vessel hit in Strait of Hormuz - ING Think",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1EwSUpSd3FCWFh1SFBlcmNJcWMyUEhWM25ZTW5GS29QNTREMGh1Z3RuNF9yYWtDTXVFU29vQWJPZVN0TkZieUVFaG5NRjNhOXAyT2hyS0duTktsSmwwN1o3Rk82d2o2NXBhYjBBZjNWamtUcHh4ODdnMEI3Yi13YTZvQ1pMVkI5LTJrODFVWGlqT0tlX18tUjhn?oc=5",
   "published": "Fri, 26 Jun 2026 04:27:56 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Crude Oil Prices Sharply Higher on Concerns of Reopening of Strait of Hormuz - Barchart.com",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3hIT280YnlOazE4VVlyQnlPZnFkU3M5aWtoQ3FNcFJFeldST3hYX2Y2X1BQNkNHT0h3YlNSLXZGYkJPbm44clNyeG5jVU9oc0txc2lwcDFNWWhCRkR3V05CWEhNOTdheDg4Q2xnNFdkZDVwVEt6SENqMURETkN1VEFvTExaYzJoYV9vYTVKRnh4ODh5WkNQaExRaTZvOXFTel9ZQi0wY09sNnVOa240WkZxcUlvejJH?oc=5",
-  "published": "Thu, 25 Jun 2026 19:18:40 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,14 +99,47 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "WTI Crude Oil Price Forecast: $68.97 Support Strained as Strait of Hormuz Normalization Unleashes Iranian Crude Flood - FXLeaders",
-  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZzJpaHdycUthbjdHLXREVy0zSWxnZlVMcmhwWDZiMHZnUFJCZG1RV0tfYi10N0d0Y1lRQXYwQWpTY09Jc0J6M1N4aU53el8wSVpZdXA0NlZJY2l5bDFUVU9xS0NsNlM2ZTNfM0hNNUwyYTFMQm1YOFhUV01mdld5bUZNVl9NbHBRRmFIbzdOdVRPUWdLbHlRbk41MlliTC02VlpVVVFYUGRFSWRRXzlpRmZ4TUstMF93RU4xUHo4UF9JVks2ZVlob3lyUF8wTm90cUUtWEtYVF9weWgyZWJ4eEFvb21CSmw5TWpWei1MVQ?oc=5",
-  "published": "Mon, 29 Jun 2026 06:11:46 GMT",
+  "headline": "Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz - Marine Insight",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW9lM1lMOXhPbk5KaHN1d3VraXB3RnI0WUtSU3U2bm9uNkExQ3ZMb2ROcTNIampIaGpENjlER0pIOHF6WFc1MF84WVI5cXllZ0k4aHRPSkJTN3BvZG9mdDhoU1EwcE5GZTV4RVRRWWpEdDlqMGZmMVVpN19odndzdzVSLUV4d0R0X3FYdXF2WFVtRFQ4dWRXaU5PTmRfR3NWU2VjNmtuN2otVFJXUUlubEFEcF9IZlEwQ185cmV2VDU?oc=5",
+  "published": "Fri, 26 Jun 2026 12:55:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo withdraws unused cobalt export quotas - Mining.com",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tazlRNVdrRWZsNUFXNmsxN1VNeVJ5cFV5QVVKVDhkZ3pqaTM3VGZSc1RZQnBDakEydFRzMS1xTFVNUGxMdmFpXzJmTXE5UF9TTE5GSHRrT2N3a002UEhXS3B3T0pKQ3VvWXZ6aEZhR19XakZ4YjNicVNWSQ?oc=5",
+  "published": "Mon, 29 Jun 2026 17:47:14 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo Tightens Cobalt Export Quotas With New Deadlines - Finimize",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNfYVBtZjB1TUJyeVo4d2E2b2hwdnN4WFN0RkNBbHhKNmtIaThCQUk0dENuMjBhb2FLYlk0YzJnbkRoOWlPQkNHcTIzS3p0LXNWYURfallJSjlBanJJLS1UV0hOUGhabGg0V0NQRTc5V25ZOW81VFVEamtORTZsQ3d5dXcySWx6NUlZ?oc=5",
+  "published": "Mon, 29 Jun 2026 16:03:17 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5",
+  "published": "Mon, 29 Jun 2026 16:05:33 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {
