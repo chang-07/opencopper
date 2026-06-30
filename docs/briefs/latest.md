@@ -64,7 +64,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _1 corroborating headline(s):_
-- [Russian attacks may reduce Ukraine's grain exports by up to a third - Marine News Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUhUaTBjNlN6NkxuMXhFS0dETzc3Q3pNSklITkxrSTBROUtERXR3S21pTUpzakQxSVBrek5UNmFPeWRQNDNCcFhwZjhxcFAxNmVYcWtxV0ZiQTNyUnBzeWdMVFZ4TlZpd0c0bjdYOHpYWFVXLW4zMEJ0eEFWVTlXOHZWMWdQZEdaVnkzMVpHellrY1pFY25odE4yWXB4UWtxbWJNSEFmUm4?oc=5)
+- [Russian attacks may reduce Ukraine's grain exports by up to a third - Marine Link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUhUaTBjNlN6NkxuMXhFS0dETzc3Q3pNSklITkxrSTBROUtERXR3S21pTUpzakQxSVBrek5UNmFPeWRQNDNCcFhwZjhxcFAxNmVYcWtxV0ZiQTNyUnBzeWdMVFZ4TlZpd0c0bjdYOHpYWFVXLW4zMEJ0eEFWVTlXOHZWMWdQZEdaVnkzMVpHellrY1pFY25odE4yWXB4UWtxbWJNSEFmUm4?oc=5)
 
 ---
 
