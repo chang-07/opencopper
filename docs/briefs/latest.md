@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _10 corroborating headline(s):_
-- [What’s the State of Play in the Strait of Hormuz? - WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dSRTY1VW5EWGxNeFpZYV82T29tUUhEUHVQMVFqcVVOb1MycTVCVW5obC1mVmc5a0lFWHpFMGtLUFFxZXhpZHFSLTRUUWJxMWZhWW91V3RnMzlEd3VaTXRvb0FfbWt3cmdkQmNqcFdEYnI3cFByMDZtWU1FMDA2SWJvVHV2a2ltcnE3aGFCOWRSSW9pbXBBUER2dEl6VExuNTJLSXdSX0J2QW9YX0E?oc=5)
 - [Why falling oil prices don't mean Hormuz crisis is over - ایران اینترنشنال](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5)
-- [U.S. oil plunges below $70 as ships keep crossing Strait of Hormuz - Los Angeles Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWcxWXZ5ZWw0Uk5ablM5WGcyYnRMbkl6WU1oNVhwZ0RfRXA1UXBqMFdhd0wxQUhBU29uSUtzZXBuTmVFWXFOTk5TZTY5TmVwY3NGWDBUV24zbWJBZnJ1V1ZyS2tyRWk1OFVCT3dwUFpCSkYyT2hubW8yYVF3TlIxNHNXVnB2bWFwTUh6cXhfSnY4UURnZHd0UkgxNC1WbnVlcVhKS3V1N0JpYTU1Y1VnWHhZRWo?oc=5)
+- [Crude Oil Prices Climb as Tanker Traffic Slows Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmZ3V1FhSTRibWpqRk9VcEF2Z1hMUVZjdk0yc3JpZlR2VmtyZUN5WURmbVdZbkV5S2RMX2hmUkVjNm1sSFByYm9HRnFwNmVEUnZTR2J1TndieTU0cWh4NE5Vd0VqbmdSMnNGV282SlVGVU9OTzc0OXMxOEhXS2Jwc1B2NTBsVVhad29qNlNkRk5ON1ZLQnN4bVVDNHVzNjc0MTNyZnJFWUFpUnMtODd5WFlRc2xGZw?oc=5)
+- [Middle East Oil, LNG Shipments Continue Despite Hormuz Tensions - Egypt Oil & Gas](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWtTVFpZaWo4X1VqOGFoNS1xU0huU1Fqc256SWZVd3p6YVE3aXlqN2ZoS3hyME4zV083T0NES1BWbnBCWURnOEl4RTlISU8zQzNPMFh5TlBDZWNkY2JOVUJ0OEtLV0tab0lDR29uMzQtcFduREczazFaNThVWFNMZ3h2MEtDcjJXOTJwYzZvaEVOYWxUdVotNg?oc=5)
 - …and 7 more
 
 ## Congo withdraws unused cobalt export quotas - KITCO
@@ -63,6 +63,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 [..] = the same shock across the seeded elasticity RANGES — when the
 band is wide, the elasticities are doing the work, not the event.
 ```
+
+_1 corroborating headline(s):_
+- [Russian attacks may reduce Ukraine's grain exports by up to a third - Marine News Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUhUaTBjNlN6NkxuMXhFS0dETzc3Q3pNSklITkxrSTBROUtERXR3S21pTUpzakQxSVBrek5UNmFPeWRQNDNCcFhwZjhxcFAxNmVYcWtxV0ZiQTNyUnBzeWdMVFZ4TlZpd0c0bjdYOHpYWFVXLW4zMEJ0eEFWVTlXOHZWMWdQZEdaVnkzMVpHellrY1pFY25odE4yWXB4UWtxbWJNSEFmUm4?oc=5)
 
 ---
 
