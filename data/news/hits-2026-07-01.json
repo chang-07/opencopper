@@ -1,8 +1,8 @@
 [
  {
-  "headline": "Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z?oc=5",
-  "published": "Tue, 30 Jun 2026 11:38:05 GMT",
+  "headline": "Hormuz oil exodus sets stage for chaotic rebalancing act - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2p4V01TS19VbzhydC1vMzhvNlBuMXdmS0ZyekVuZmk0aU9GVlc2MGM2bFdJQlcxdEZOQVpYeGJqUW5QUVI2am1hY3NrZ2dfSzVPbXVOdE1PM1lMRnE5UkFEdUpfNUVOVjV6VXhaWkhsVEZ6eklsOXpvcUVFdVVRYXBGVy1DaU9hdkZfbU01YkVCakJGX2p0R1JXNmpOenhmNXVlOElWMGczVlo5RkVuOHNwWmQ4Y3pYX3htQ0RR?oc=5",
+  "published": "Mon, 29 Jun 2026 06:06:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -33,9 +33,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Hormuz oil exodus sets stage for chaotic rebalancing act - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2p4V01TS19VbzhydC1vMzhvNlBuMXdmS0ZyekVuZmk0aU9GVlc2MGM2bFdJQlcxdEZOQVpYeGJqUW5QUVI2am1hY3NrZ2dfSzVPbXVOdE1PM1lMRnE5UkFEdUpfNUVOVjV6VXhaWkhsVEZ6eklsOXpvcUVFdVVRYXBGVy1DaU9hdkZfbU01YkVCakJGX2p0R1JXNmpOenhmNXVlOElWMGczVlo5RkVuOHNwWmQ4Y3pYX3htQ0RR?oc=5",
-  "published": "Mon, 29 Jun 2026 06:06:00 GMT",
+  "headline": "Iraq's export crisis: Hormuz and pipeline uncertainty - Vortexa",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLSEhITm52TDFnckVwZGl6SzZza3ZGaHZVc1lLdlF5UUd3SG10LVRvdU1EaWdFdm5ESTlQQ2UtZDlScFQ0YkV0bndVVlBpeUNiXzJGazhYODBwM05SaE5SWXdyclFpR01XSDREVHk1a1lZdHJsQkU4SXNJa3U?oc=5",
+  "published": "Mon, 22 Jun 2026 10:00:11 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z?oc=5",
+  "published": "Tue, 30 Jun 2026 11:38:05 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -58,6 +69,17 @@
   "headline": "Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks - Reuters",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5",
   "published": "Tue, 23 Jun 2026 21:54:06 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "The Oil Market Canceled The Hormuz Crisis Before The Ceasefire - Forbes",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0NDa0t5RzFXWURmTTRnUV9tcnc1VmZZcDBaVG56Tmh4ZVVwT3JXeDEyOTZMWU1rRGUwLVVrYjhaQXktTlMxelNrck54RWNVRHlueEMtbzlORk9XUGZRZ195M0l0RUFrY1hzeGVFdlM4aUV0ODJ4TWRsckd0bFZFRWQ1cHl0ZWZRUW5oRFJ6Vkd1VkNGV2pveklLeE0zQmFZT0JEcXZ3WDR6bFd6eFd1eU1Tck5VWkVHampQdExyM2o?oc=5",
+  "published": "Thu, 18 Jun 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
