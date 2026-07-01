@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [Why falling oil prices don't mean Hormuz crisis is over - ایران اینترنشنال](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5)
 - [Crude Oil Prices Climb as Tanker Traffic Slows Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmZ3V1FhSTRibWpqRk9VcEF2Z1hMUVZjdk0yc3JpZlR2VmtyZUN5WURmbVdZbkV5S2RMX2hmUkVjNm1sSFByYm9HRnFwNmVEUnZTR2J1TndieTU0cWh4NE5Vd0VqbmdSMnNGV282SlVGVU9OTzc0OXMxOEhXS2Jwc1B2NTBsVVhad29qNlNkRk5ON1ZLQnN4bVVDNHVzNjc0MTNyZnJFWUFpUnMtODd5WFlRc2xGZw?oc=5)
-- [Iraq's export crisis: Hormuz and pipeline uncertainty - Vortexa](https://news.google.com/rss/articles/CBMifEFVX3lxTFBLSEhITm52TDFnckVwZGl6SzZza3ZGaHZVc1lLdlF5UUd3SG10LVRvdU1EaWdFdm5ESTlQQ2UtZDlScFQ0YkV0bndVVlBpeUNiXzJGazhYODBwM05SaE5SWXdyclFpR01XSDREVHk1a1lZdHJsQkU4SXNJa3U?oc=5)
-- …and 4 more
+- [Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z?oc=5)
+- …and 2 more
 
 ## Congo withdraws unused cobalt export quotas - Mining.com
 *Mon, 29 Jun 2026 17:47:14 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE1tazlRNVdrRWZsNUFXNmsxN1VNeVJ5cFV5QVVKVDhkZ3pqaTM3VGZSc1RZQnBDakEydFRzMS1xTFVNUGxMdmFpXzJmTXE5UF9TTE5GSHRrT2N3a002UEhXS3B3T0pKQ3VvWXZ6aEZhR19XakZ4YjNicVNWSQ?oc=5)
