@@ -66,28 +66,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq's export crisis: Hormuz and pipeline uncertainty - Vortexa",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLSEhITm52TDFnckVwZGl6SzZza3ZGaHZVc1lLdlF5UUd3SG10LVRvdU1EaWdFdm5ESTlQQ2UtZDlScFQ0YkV0bndVVlBpeUNiXzJGazhYODBwM05SaE5SWXdyclFpR01XSDREVHk1a1lZdHJsQkU4SXNJa3U?oc=5",
-  "published": "Mon, 22 Jun 2026 10:00:11 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "The Oil Market Canceled The Hormuz Crisis Before The Ceasefire - Forbes",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0NDa0t5RzFXWURmTTRnUV9tcnc1VmZZcDBaVG56Tmh4ZVVwT3JXeDEyOTZMWU1rRGUwLVVrYjhaQXktTlMxelNrck54RWNVRHlueEMtbzlORk9XUGZRZ195M0l0RUFrY1hzeGVFdlM4aUV0ODJ4TWRsckd0bFZFRWQ1cHl0ZWZRUW5oRFJ6Vkd1VkNGV2pveklLeE0zQmFZT0JEcXZ3WDR6bFd6eFd1eU1Tck5VWkVHampQdExyM2o?oc=5",
-  "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Congo withdraws unused cobalt export quotas - Mining.com",
   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tazlRNVdrRWZsNUFXNmsxN1VNeVJ5cFV5QVVKVDhkZ3pqaTM3VGZSc1RZQnBDakEydFRzMS1xTFVNUGxMdmFpXzJmTXE5UF9TTE5GSHRrT2N3a002UEhXS3B3T0pKQ3VvWXZ6aEZhR19XakZ4YjNicVNWSQ?oc=5",
   "published": "Mon, 29 Jun 2026 17:47:14 GMT",
@@ -102,6 +80,17 @@
   "headline": "Congo Tightens Cobalt Export Quotas With New Deadlines - Finimize",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNfYVBtZjB1TUJyeVo4d2E2b2hwdnN4WFN0RkNBbHhKNmtIaThCQUk0dENuMjBhb2FLYlk0YzJnbkRoOWlPQkNHcTIzS3p0LXNWYURfallJSjlBanJJLS1UV0hOUGhabGg0V0NQRTc5V25ZOW81VFVEamtORTZsQ3d5dXcySWx6NUlZ?oc=5",
   "published": "Mon, 29 Jun 2026 21:43:17 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5",
+  "published": "Mon, 29 Jun 2026 16:05:33 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
