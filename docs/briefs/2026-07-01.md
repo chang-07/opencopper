@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Hormuz oil exodus sets stage for chaotic rebalancing act - Reuters
-*Mon, 29 Jun 2026 06:06:00 GMT* — [source](https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2p4V01TS19VbzhydC1vMzhvNlBuMXdmS0ZyekVuZmk0aU9GVlc2MGM2bFdJQlcxdEZOQVpYeGJqUW5QUVI2am1hY3NrZ2dfSzVPbXVOdE1PM1lMRnE5UkFEdUpfNUVOVjV6VXhaWkhsVEZ6eklsOXpvcUVFdVVRYXBGVy1DaU9hdkZfbU01YkVCakJGX2p0R1JXNmpOenhmNXVlOElWMGczVlo5RkVuOHNwWmQ4Y3pYX3htQ0RR?oc=5)
+## Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll - Reuters
+*Tue, 30 Jun 2026 11:38:05 GMT* — [source](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -49,8 +49,8 @@ _4 corroborating headline(s):_
 - [Congo Withdraws Unused Cobalt Export Quotas in 2026 - Discovery Alert](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJ0dm4tYXRkaWZHcjlfcnZFZHBtSjhkNmxXU0RvM1VXRFhCMjYzT1huLWwwbnE1RmllMmlsaWZDMWhBZXNOVmUzWkxtbXBfVVBBVmxTQkRPNi1WNFlUbUtKOUNEUDQxdjFTYkppOERQWDJCZmJQQWFQY3NrZ2NLRTJmekdpMFVsU3gwdEJR?oc=5)
 - …and 1 more
 
-## Wheat climbs 5.5% as Russia withdraws from Black Sea export agreement - Business Recorder
-*Wed, 01 Jul 2026 05:59:21 GMT* — [source](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kOFNQZTNHYWdjNTVoTnk5NkVhYmlfNzNPelRiYUNmZFQ3bENLOE54V3ZhUXc4ZGdoOGVWZ1ZRd2N0ck8ta0tDbkxDUVFjRjRV0gFWQVVfeXFMUEwzcGJZeXFDX1VDNDRpaDlMb2gtWFFmSVRWYU1wQ3YtTWkwUUhaZEp4NjA5MGt1a3Y0SFE3N1oxbDNzeFhlX080ZzBUS2wxYVNkMnYyRnc?oc=5)
+## Russian attacks may reduce Ukraine's grain exports by up to a third - Marine Link
+*Thu, 18 Jun 2026 15:44:50 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUhUaTBjNlN6NkxuMXhFS0dETzc3Q3pNSklITkxrSTBROUtERXR3S21pTUpzakQxSVBrek5UNmFPeWRQNDNCcFhwZjhxcFAxNmVYcWtxV0ZiQTNyUnBzeWdMVFZ4TlZpd0c0bjdYOHpYWFVXLW4zMEJ0eEFWVTlXOHZWMWdQZEdaVnkzMVpHellrY1pFY25odE4yWXB4UWtxbWJNSEFmUm4?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -65,8 +65,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
-- [Russian attacks may reduce Ukraine's grain exports by up to a third - Marine Link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUhUaTBjNlN6NkxuMXhFS0dETzc3Q3pNSklITkxrSTBROUtERXR3S21pTUpzakQxSVBrek5UNmFPeWRQNDNCcFhwZjhxcFAxNmVYcWtxV0ZiQTNyUnBzeWdMVFZ4TlZpd0c0bjdYOHpYWFVXLW4zMEJ0eEFWVTlXOHZWMWdQZEdaVnkzMVpHellrY1pFY25odE4yWXB4UWtxbWJNSEFmUm4?oc=5)
+_1 corroborating headline(s):_
 - [Russian attacks could cut Ukraine grain exports by a third, say officials - The Straits Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzhqTWtpTzZSUEJtSkFxZUgxVFdaX2N6M2luX2hWclYzZHJFTnpGZm55OEhHTU9EU255Mmx5eU1sbGdTVEVSbmVvMmgzZXZ1Q01sakdYZHV5ZkdrRmxIanRQRmZNU0taelA2SkVUQkRaRkdKeWg3MndFZlBTdkJBSzU5cTB6QTNjRDhSY01iekloSTRyeUhnOElDQmR4bHYweWc?oc=5)
 
 ---
