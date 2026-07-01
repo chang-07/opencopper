@@ -14,6 +14,20 @@
     "coal": 0.125
    },
    "realized_ret": null
+  },
+  {
+   "month": "2026-07-01",
+   "weights": {
+    "natural-gas": 0.125,
+    "corn": 0.125,
+    "soybeans": 0.125,
+    "nickel": 0.125,
+    "iron-ore": 0.125,
+    "lead": 0.125,
+    "uranium": 0.125,
+    "coal": 0.125
+   },
+   "realized_ret": null
   }
  ]
 }
