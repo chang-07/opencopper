@@ -21,33 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
+_9 corroborating headline(s):_
 - [Saudi Arabia Rushes Crude Exports Through Reopened Strait of Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYThENzYyU3RjcjhQZHVoX2g2MFlaMUg3OXNZZ3U1SW5uLXZ5ZV9xYU5HQUFRM0s2QVBEdGJyRmloRFdETjU4RklwclBjcUVtdDVqVkFrTWNLN0F6MkMtczdaSGtiQ2ZQMS1wdUJjOXFPek5nRDRCdm9NMVBOVFduTG9nWU1kM1liVlVUaWcwVGpBRFpFLXFzM2Z1ZHE4NHE4cjBHQ3dGclRERWlRLXVXMVpoU1ZZMk9KVjJzOTEwN0LSAcYBQVVfeXFMUFFLc2kzZ0hvVlY1Z3R6Z3R6ck1kR0NfbDI3OWpMQUJZS0VqNm5ZQ0l4WGpNVWVJUlhTc0RrLXl4ZjNuRml0cEpEckRGZjQ5TTV4N2Z0MmRtU1FmRmg2NC1TVnE0aDZzel9UT2g1cE5Fdm9nbjBzNWJWRTRTQ2NoNFVkRmZhd2dicW16NmhPWGFCZzRFUjR2OG1ZWFdaU0g5WGpWdUhyMDE1UEZpeGt2NlU0cW9Fd29lbHBvQmR2eE1lYjZzV1JR?oc=5)
+- [Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z?oc=5)
 - [Why falling oil prices don't mean Hormuz crisis is over - ایران اینترنشنال](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5)
-- [14 million barrels of stranded Iraq oil travels through Strait of Hormuz - South China Morning Post](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeEQ5RmR5U2dPWUJuY2F2WFYtWE42TC1SSFc0X3ZEeHdXNDNnU3BOMjJlbUVKVENyWlZVMEkzMHlTeURvaThzcUpvLUVPejJwX3FmVDgwN1BDZ3Y3SHc3dVJkUDl1Z3lIM0lSYmM2aG1TeEJfUW05dEp4THdKRlhkZ20tVHRWc214cjNSNFVubWhYNzVXOG8wNlRWVk5ZUzlFZXBVTVF4YTFZWUlrUWV4NEdraVNPQngxZ2pLbTk3MnhIZ3JD0gHEAUFVX3lxTE5Ed1dmTlA2Q2M4SkVUZ2pNcVVPLVB5UnJ4Q1A5VmVtdGhxQVZlY0FWZVNPTmMxTDNDRzFqcTdKLUxna1hTVDVkSFlfMUpxNTdQOGRSOG53YmtGZHh2RmNhQUFwUERoUmRxcVpuaTdQTUhTUVZVYlpHend2aWRsbmtJMGlHUkJNMEE2YjhVSFBmVGdZV2p3azRYZm14a2I1b2R1Ynd4NXF4UzduVEJWQ1FWYmpOVUk3RFhLajJjUUI1TnQwdXg?oc=5)
-- …and 5 more
-
-## Congo withdraws unused cobalt export quotas - Mining.com
-*Mon, 29 Jun 2026 17:47:14 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE1tazlRNVdrRWZsNUFXNmsxN1VNeVJ5cFV5QVVKVDhkZ3pqaTM3VGZSc1RZQnBDakEydFRzMS1xTFVNUGxMdmFpXzJmTXE5UF9TTE5GSHRrT2N3a002UEhXS3B3T0pKQ3VvWXZ6aEZhR19XakZ4YjNicVNWSQ?oc=5)
-Rule: cobalt / Congo (Kinshasa) / severity prior +40%
-
-```
-CROSS-COMMODITY RIPPLE — Congo (Kinshasa) cobalt -40% (prior)
-commodity    channel       via                          price Δ
-----------------------------------------------------------------
-cobalt       direct        Congo (Kinshasa)          ≥     +300%  [+90..+300%]
-
-One first-order round through data/seed/linkages.yaml (byproduct /
-substitution / input-cost); couplings are disputable seed-estimates.
-[..] = the same shock across the seeded elasticity RANGES — when the
-band is wide, the elasticities are doing the work, not the event.
-```
-
-_4 corroborating headline(s):_
-- [Congo Tightens Cobalt Export Quotas With New Deadlines - Finimize](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNfYVBtZjB1TUJyeVo4d2E2b2hwdnN4WFN0RkNBbHhKNmtIaThCQUk0dENuMjBhb2FLYlk0YzJnbkRoOWlPQkNHcTIzS3p0LXNWYURfallJSjlBanJJLS1UV0hOUGhabGg0V0NQRTc5V25ZOW81VFVEamtORTZsQ3d5dXcySWx6NUlZ?oc=5)
-- [Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5)
-- [Congo Withdraws Unused Cobalt Export Quotas in 2026 - Discovery Alert](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJ0dm4tYXRkaWZHcjlfcnZFZHBtSjhkNmxXU0RvM1VXRFhCMjYzT1huLWwwbnE1RmllMmlsaWZDMWhBZXNOVmUzWkxtbXBfVVBBVmxTQkRPNi1WNFlUbUtKOUNEUDQxdjFTYkppOERQWDJCZmJQQWFQY3NrZ2NLRTJmekdpMFVsU3gwdEJR?oc=5)
-- …and 1 more
+- …and 6 more
 
 ## Russian attacks could slash Ukraine grain exports - The Western Producer
 *Thu, 02 Jul 2026 06:49:34 GMT* — [source](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5)
@@ -64,6 +42,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 [..] = the same shock across the seeded elasticity RANGES — when the
 band is wide, the elasticities are doing the work, not the event.
 ```
+
+_1 corroborating headline(s):_
+- [Wheat climbs 5.5% as Russia withdraws from Black Sea export agreement - Business Recorder](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kOFNQZTNHYWdjNTVoTnk5NkVhYmlfNzNPelRiYUNmZFQ3bENLOE54V3ZhUXc4ZGdoOGVWZ1ZRd2N0ck8ta0tDbkxDUVFjRjRV0gFWQVVfeXFMUEwzcGJZeXFDX1VDNDRpaDlMb2gtWFFmSVRWYU1wQ3YtTWkwUUhaZEp4NjA5MGt1a3Y0SFE3N1oxbDNzeFhlX080ZzBUS2wxYVNkMnYyRnc?oc=5)
 
 ---
 

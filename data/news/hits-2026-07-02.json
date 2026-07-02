@@ -22,6 +22,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z?oc=5",
+  "published": "Tue, 30 Jun 2026 11:38:05 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Why falling oil prices don't mean Hormuz crisis is over - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5",
   "published": "Mon, 29 Jun 2026 03:58:15 GMT",
@@ -66,17 +77,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z?oc=5",
-  "published": "Tue, 30 Jun 2026 11:38:05 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks - Reuters",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5",
   "published": "Tue, 23 Jun 2026 07:00:00 GMT",
@@ -99,64 +99,31 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo withdraws unused cobalt export quotas - Mining.com",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tazlRNVdrRWZsNUFXNmsxN1VNeVJ5cFV5QVVKVDhkZ3pqaTM3VGZSc1RZQnBDakEydFRzMS1xTFVNUGxMdmFpXzJmTXE5UF9TTE5GSHRrT2N3a002UEhXS3B3T0pKQ3VvWXZ6aEZhR19XakZ4YjNicVNWSQ?oc=5",
-  "published": "Mon, 29 Jun 2026 17:47:14 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Congo Tightens Cobalt Export Quotas With New Deadlines - Finimize",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNfYVBtZjB1TUJyeVo4d2E2b2hwdnN4WFN0RkNBbHhKNmtIaThCQUk0dENuMjBhb2FLYlk0YzJnbkRoOWlPQkNHcTIzS3p0LXNWYURfallJSjlBanJJLS1UV0hOUGhabGg0V0NQRTc5V25ZOW81VFVEamtORTZsQ3d5dXcySWx6NUlZ?oc=5",
-  "published": "Mon, 29 Jun 2026 21:43:17 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5",
-  "published": "Mon, 29 Jun 2026 16:05:33 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Congo Withdraws Unused Cobalt Export Quotas in 2026 - Discovery Alert",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJ0dm4tYXRkaWZHcjlfcnZFZHBtSjhkNmxXU0RvM1VXRFhCMjYzT1huLWwwbnE1RmllMmlsaWZDMWhBZXNOVmUzWkxtbXBfVVBBVmxTQkRPNi1WNFlUbUtKOUNEUDQxdjFTYkppOERQWDJCZmJQQWFQY3NrZ2NLRTJmekdpMFVsU3gwdEJR?oc=5",
-  "published": "Wed, 01 Jul 2026 09:59:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC Congo Cobalt Export Quotas: 2026 Supply Control Explained - Discovery Alert",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT18wSGxGcEJfVzJxVWZDajdfbVBZOXBmdVBSaWo3elhRNW81NXJMRkVicWhuWkYxWnlyWVMyOWdjNFlzZXVNa3FIOE1Vb0RUSF9CR2h6blRVelZRSlFCbnBfZ19DREc3bGVrd25tSHhybTJfeFVTSUt4M1d4dkYtVVhibmdVWUxG?oc=5",
-  "published": "Wed, 01 Jul 2026 09:59:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
+  "headline": "Iraq's export crisis: Hormuz and pipeline uncertainty - Vortexa",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLSEhITm52TDFnckVwZGl6SzZza3ZGaHZVc1lLdlF5UUd3SG10LVRvdU1EaWdFdm5ESTlQQ2UtZDlScFQ0YkV0bndVVlBpeUNiXzJGazhYODBwM05SaE5SWXdyclFpR01XSDREVHk1a1lZdHJsQkU4SXNJa3U?oc=5",
+  "published": "Mon, 22 Jun 2026 10:00:11 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
   "source": "keyword-rule"
  },
  {
   "headline": "Russian attacks could slash Ukraine grain exports - The Western Producer",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5",
   "published": "Thu, 02 Jul 2026 06:49:34 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Wheat climbs 5.5% as Russia withdraws from Black Sea export agreement - Business Recorder",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kOFNQZTNHYWdjNTVoTnk5NkVhYmlfNzNPelRiYUNmZFQ3bENLOE54V3ZhUXc4ZGdoOGVWZ1ZRd2N0ck8ta0tDbkxDUVFjRjRV0gFWQVVfeXFMUEwzcGJZeXFDX1VDNDRpaDlMb2gtWFFmSVRWYU1wQ3YtTWkwUUhaZEp4NjA5MGt1a3Y0SFE3N1oxbDNzeFhlX080ZzBUS2wxYVNkMnYyRnc?oc=5",
+  "published": "Wed, 01 Jul 2026 05:59:21 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
