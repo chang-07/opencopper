@@ -22,6 +22,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "14 million barrels of stranded Iraq oil travels through Strait of Hormuz - South China Morning Post",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeEQ5RmR5U2dPWUJuY2F2WFYtWE42TC1SSFc0X3ZEeHdXNDNnU3BOMjJlbUVKVENyWlZVMEkzMHlTeURvaThzcUpvLUVPejJwX3FmVDgwN1BDZ3Y3SHc3dVJkUDl1Z3lIM0lSYmM2aG1TeEJfUW05dEp4THdKRlhkZ20tVHRWc214cjNSNFVubWhYNzVXOG8wNlRWVk5ZUzlFZXBVTVF4YTFZWUlrUWV4NEdraVNPQngxZ2pLbTk3MnhIZ3JD0gHEAUFVX3lxTE5Ed1dmTlA2Q2M4SkVUZ2pNcVVPLVB5UnJ4Q1A5VmVtdGhxQVZlY0FWZVNPTmMxTDNDRzFqcTdKLUxna1hTVDVkSFlfMUpxNTdQOGRSOG53YmtGZHh2RmNhQUFwUERoUmRxcVpuaTdQTUhTUVZVYlpHend2aWRsbmtJMGlHUkJNMEE2YjhVSFBmVGdZV2p3azRYZm14a2I1b2R1Ynd4NXF4UzduVEJWQ1FWYmpOVUk3RFhLajJjUUI1TnQwdXg?oc=5",
+  "published": "Tue, 30 Jun 2026 11:36:51 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Crude Oil Prices Climb as Tanker Traffic Slows Through Strait of Hormuz - Barchart.com",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmZ3V1FhSTRibWpqRk9VcEF2Z1hMUVZjdk0yc3JpZlR2VmtyZUN5WURmbVdZbkV5S2RMX2hmUkVjNm1sSFByYm9HRnFwNmVEUnZTR2J1TndieTU0cWh4NE5Vd0VqbmdSMnNGV282SlVGVU9OTzc0OXMxOEhXS2Jwc1B2NTBsVVhad29qNlNkRk5ON1ZLQnN4bVVDNHVzNjc0MTNyZnJFWUFpUnMtODd5WFlRc2xGZw?oc=5",
   "published": "Mon, 29 Jun 2026 15:35:02 GMT",
@@ -33,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z?oc=5",
-  "published": "Tue, 30 Jun 2026 11:38:05 GMT",
+  "headline": "Iraq's export crisis: Hormuz and pipeline uncertainty - Vortexa",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLSEhITm52TDFnckVwZGl6SzZza3ZGaHZVc1lLdlF5UUd3SG10LVRvdU1EaWdFdm5ESTlQQ2UtZDlScFQ0YkV0bndVVlBpeUNiXzJGazhYODBwM05SaE5SWXdyclFpR01XSDREVHk1a1lZdHJsQkU4SXNJa3U?oc=5",
+  "published": "Mon, 22 Jun 2026 10:00:11 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -44,9 +55,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Why the oil may start flowing through the Strait of Hormuz faster than many believe - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFREalZfLWJKTmI1WkxOS2QwVE4xaGhtZXdObzFhV3BCUExCM2F3UUp6NksyZWQ0elpaUEROUGdNbFJENGZBX3gtUkJGZGpmajAyN1RzZzJpOXhNbTNOZ3lqdkkwMEdoSXR0RkZDRHlqN1o5OW1rM2EyNFgxb1BMTldnbk9NNlNjYm9ZeHNhcmw2Q3BaRVJPTDBQQ0FNcHhfYUFoV2ZxNktibTdKVW5nZGxQcmY1V1JYMTljbtIBwgFBVV95cUxOblFXZ2JnOU5jckVHYmhWNy0tdzJVZWNTS1BIOTBLVHRFek1jcGg1MktCSFpUTmx6Qmd4R1hOcnJmNzdWYncycjVHSDd2aVV5eWZRa1R2X2lmanRCeWVkZkQ1VDgxcTllNmNRNHBoYVVQYXJVRHo4UTU3Tjk5U0k4UDJXYlllTHlDT1dzZXlpcWdXcjF0QXp0dGlJQmJ1U2N4V010QUxwRDJLOWtrTWdzSGNCVWNVRkQ5VnZqQ0tqTDE4dw?oc=5",
-  "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+  "headline": "Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z?oc=5",
+  "published": "Tue, 30 Jun 2026 11:38:05 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,20 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo Withdraws Unused Cobalt Export Quotas in 2026 - Discovery Alert",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJ0dm4tYXRkaWZHcjlfcnZFZHBtSjhkNmxXU0RvM1VXRFhCMjYzT1huLWwwbnE1RmllMmlsaWZDMWhBZXNOVmUzWkxtbXBfVVBBVmxTQkRPNi1WNFlUbUtKOUNEUDQxdjFTYkppOERQWDJCZmJQQWFQY3NrZ2NLRTJmekdpMFVsU3gwdEJR?oc=5",
-  "published": "Wed, 01 Jul 2026 09:59:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russian attacks could slash Ukraine grain exports - The Western Producer",
-  "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjUnRnWTJDanZHbFRvWW1zMUZYVzJ1Z2toRVIycV91Y1g1MFZOWUp0N1ZjMGtpX1ZrQlBPd0Z0UXdsQ3gxbEV5WnNR?oc=5",
-  "published": "Wed, 01 Jul 2026 17:30:28 GMT",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5",
+  "published": "Wed, 01 Jul 2026 17:20:54 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
