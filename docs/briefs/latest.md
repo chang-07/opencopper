@@ -47,6 +47,25 @@ _2 corroborating headline(s):_
 - [Congo Tightens Cobalt Export Quotas With New Deadlines - Finimize](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNfYVBtZjB1TUJyeVo4d2E2b2hwdnN4WFN0RkNBbHhKNmtIaThCQUk0dENuMjBhb2FLYlk0YzJnbkRoOWlPQkNHcTIzS3p0LXNWYURfallJSjlBanJJLS1UV0hOUGhabGg0V0NQRTc5V25ZOW81VFVEamtORTZsQ3d5dXcySWx6NUlZ?oc=5)
 - [Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5)
 
+## Russian attacks could slash Ukraine grain exports - The Western Producer
+*Wed, 01 Jul 2026 17:23:30 GMT* — [source](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5)
+Rule: wheat / Russia / severity prior +15%
+
+```
+CROSS-COMMODITY RIPPLE — Russia wheat -15% (prior)
+commodity    channel       via                          price Δ
+----------------------------------------------------------------
+wheat        direct        Russia                           +6%  [+3..+13%]
+
+One first-order round through data/seed/linkages.yaml (byproduct /
+substitution / input-cost); couplings are disputable seed-estimates.
+[..] = the same shock across the seeded elasticity RANGES — when the
+band is wide, the elasticities are doing the work, not the event.
+```
+
+_1 corroborating headline(s):_
+- [Wheat climbs 5.5% as Russia withdraws from Black Sea export agreement - Business Recorder](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kOFNQZTNHYWdjNTVoTnk5NkVhYmlfNzNPelRiYUNmZFQ3bENLOE54V3ZhUXc4ZGdoOGVWZ1ZRd2N0ck8ta0tDbkxDUVFjRjRV0gFWQVVfeXFMUEwzcGJZeXFDX1VDNDRpaDlMb2gtWFFmSVRWYU1wQ3YtTWkwUUhaZEp4NjA5MGt1a3Y0SFE3N1oxbDNzeFhlX080ZzBUS2wxYVNkMnYyRnc?oc=5)
+
 ---
 
 ## Scorecard
