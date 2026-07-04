@@ -44,6 +44,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC oil output rises with reopening of Strait of Hormuz - ISNA News Agency",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KX2lNU21ZckNBMEV5dUFfQnc5Wmhremo2NlBrOEVjbFQ2c0Z1Ql9GSGg5Rm1HY2VNclFjSlZzbk9oNWZDZk41NkhGanppQdIBTkFVX3lxTE1KX2lNU21ZckNBMEV5dUFfQnc5Wmhremo2NlBrOEVjbFQ2c0Z1Ql9GSGg5Rm1HY2VNclFjSlZzbk9oNWZDZk41NkhGanppQQ?oc=5",
+  "published": "Sat, 04 Jul 2026 11:49:01 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Why falling oil prices don't mean Hormuz crisis is over - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5",
   "published": "Mon, 29 Jun 2026 03:58:15 GMT",
@@ -58,17 +69,6 @@
   "headline": "14 million barrels of stranded Iraq oil travels through Strait of Hormuz - South China Morning Post",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeEQ5RmR5U2dPWUJuY2F2WFYtWE42TC1SSFc0X3ZEeHdXNDNnU3BOMjJlbUVKVENyWlZVMEkzMHlTeURvaThzcUpvLUVPejJwX3FmVDgwN1BDZ3Y3SHc3dVJkUDl1Z3lIM0lSYmM2aG1TeEJfUW05dEp4THdKRlhkZ20tVHRWc214cjNSNFVubWhYNzVXOG8wNlRWVk5ZUzlFZXBVTVF4YTFZWUlrUWV4NEdraVNPQngxZ2pLbTk3MnhIZ3JD0gHEAUFVX3lxTE5Ed1dmTlA2Q2M4SkVUZ2pNcVVPLVB5UnJ4Q1A5VmVtdGhxQVZlY0FWZVNPTmMxTDNDRzFqcTdKLUxna1hTVDVkSFlfMUpxNTdQOGRSOG53YmtGZHh2RmNhQUFwUERoUmRxcVpuaTdQTUhTUVZVYlpHend2aWRsbmtJMGlHUkJNMEE2YjhVSFBmVGdZV2p3azRYZm14a2I1b2R1Ynd4NXF4UzduVEJWQ1FWYmpOVUk3RFhLajJjUUI1TnQwdXg?oc=5",
   "published": "Tue, 30 Jun 2026 11:36:51 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "OPEC Output Surged In June As Hormuz Flows Jumped, Survey Shows - NDTV Profit",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVG5LUU56XzVlZVp5NUFfdkZMNXo4VlR0VzBBQnFMc1Fzblo5cGlaQ3hpTHBRVS01UGhLRDdEbFpMZ2VTVmVIdnE0VUFNVEE1N1R2MVpqbHF6MzJDaWlqd2l0cFo2eVBxakVpNDJMNEhYbHpiNlhjcG53TVFxRFFOYllqTk9ZM2NEVVloTHMya21mUXJKYzdlTGl6U29YVFdXamNsbnJteGdmd9IBsgFBVV95cUxNMWVsc3JCNEI1X29JTXlqdzc0N0xuZ2NiSEZ4aHVFNEJaN0ZteGxHSWxvWTNxQTBMbjlCZ0NVR3dmNHI5eFd4eUxnRkpUVFFRb2xFcVR6UVUwOEV2MjJzSTlCRVFnUERkcGJTeE5UXy1KVHc0MHZmZWUtNWxiRmFKMWVYOXFsZUgtWmFyWTNGZTdLazRzdmJXYWdHUUZfUEhxQXlrZS00TUcxUU1jMjh5Q2RR?oc=5",
-  "published": "Fri, 03 Jul 2026 17:08:02 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -118,6 +118,17 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "DR Congo\u2019s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5",
+  "published": "Sat, 04 Jul 2026 12:54:02 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {

@@ -27,8 +27,8 @@ _10 corroborating headline(s):_
 - [Reopening of the Strait of Hormuz sparks surge in energy supply! OPEC output surges in June as Citi bets on crude oil falling toward $60. - 富途牛牛](https://news.google.com/rss/articles/CBMingFBVV95cUxQWG1KeVhFLVRvNEh1NHExd3dPT0t0dE5kYlNUWUFuVE52U3VuSENXS1NLRVZvX0xjajFjRFhPS2p6Ny1TMUsxZDJGSmc5djlNRHl5YkRFbTVLcW1WTHF6N0tCUWdNZXVHX1BJOGhVN2hfamFZa09Cdk5FX3BvN2JGODk2ckJBdGZ1ZW1VQjdUX2dXaEZDSkdhQjlOc2o3UQ?oc=5)
 - …and 7 more
 
-## Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - CNBC Africa
-*Fri, 03 Jul 2026 23:50:22 GMT* — [source](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDduV1dNSzJLcTBRcHNyU05rT2U4SnFZMzJjSkdZSU5jeUtULUxNRkVsUmtFNVFrTDRmYVRHUHk0Zk1UUTBOckp1YUdmSHZ5d1A4YzZ0N2ZkR29jc3VIRkpLXzNpV2dBSjk0UkxxU1hkOWZQUlFRN1Bqc1pGay1qV09vWmZJSzJaWkFudHhZQTJmYkMtSjF6UERhSmZXT3FXdUpYVFlNRDBVZER5S0VRYi1kZ21Fdw?oc=5)
+## DR Congo’s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa
+*Sat, 04 Jul 2026 12:54:02 GMT* — [source](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
 
 ```
@@ -43,10 +43,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
+_4 corroborating headline(s):_
+- [Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - CNBC Africa](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDduV1dNSzJLcTBRcHNyU05rT2U4SnFZMzJjSkdZSU5jeUtULUxNRkVsUmtFNVFrTDRmYVRHUHk0Zk1UUTBOckp1YUdmSHZ5d1A4YzZ0N2ZkR29jc3VIRkpLXzNpV2dBSjk0UkxxU1hkOWZQUlFRN1Bqc1pGay1qV09vWmZJSzJaWkFudHhZQTJmYkMtSjF6UERhSmZXT3FXdUpYVFlNRDBVZER5S0VRYi1kZ21Fdw?oc=5)
 - [Congo withdraws unused cobalt export quotas - Mining.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE1tazlRNVdrRWZsNUFXNmsxN1VNeVJ5cFV5QVVKVDhkZ3pqaTM3VGZSc1RZQnBDakEydFRzMS1xTFVNUGxMdmFpXzJmTXE5UF9TTE5GSHRrT2N3a002UEhXS3B3T0pKQ3VvWXZ6aEZhR19XakZ4YjNicVNWSQ?oc=5)
 - [Congo Tightens Cobalt Export Quotas With New Deadlines - Finimize](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNfYVBtZjB1TUJyeVo4d2E2b2hwdnN4WFN0RkNBbHhKNmtIaThCQUk0dENuMjBhb2FLYlk0YzJnbkRoOWlPQkNHcTIzS3p0LXNWYURfallJSjlBanJJLS1UV0hOUGhabGg0V0NQRTc5V25ZOW81VFVEamtORTZsQ3d5dXcySWx6NUlZ?oc=5)
-- [Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5)
+- …and 1 more
 
 ## Russian attacks could slash Ukraine grain exports - The Western Producer
 *Thu, 02 Jul 2026 06:49:34 GMT* — [source](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5)
