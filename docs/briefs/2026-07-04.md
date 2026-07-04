@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## With Hormuz reopened, has the oil shortage turned into a glut? - Al Jazeera
-*Thu, 02 Jul 2026 13:50:21 GMT* — [source](https://news.google.com/rss/articles/CBMiogFBVV95cUxQOW8zOUZMYnVCVi1hdkI1azRmRlhrV0l6NTVYdmhjaXRNNmJUdUp4Z2Rzcko2c2JyWGl0UklWN1NpS3pyWFNlZU5qelpuM2NPc1JveFJpNTVmZXVzRF84VkJsZEdzMl8tM01GdTVaLUV0d3NBSk1MWDRPaDUzTUNMMnl3dDZxWEVpUTU4SE5HSUVwd3NsTms4VXlwZ1JWVThJTnfSAacBQVVfeXFMT29obURrRzhQaElSOTVKUlpSdkhJYkhMaUh5OXc2VlYzRi1DM3RhRlAtRUNBbWVMQUppY2RpTFpTZ25Qc19adFlRemRLQzllMGtfNnI0RDVWLVd2LWRLX1hhV0hNeE5qclA4aTJUZkN0SC13YlowT01yYXFwLXJ4bTBIcVY1RDFWdXJyOTZMQ0dld2YtT3FhMFVhN3BVTzhBa2p2NHhEUHc?oc=5)
+## OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com
+*Fri, 03 Jul 2026 14:36:39 GMT* — [source](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFM2SHNJRnJjLXpYOVVYdm9jM2JVU3pDbVdXbUVUTnNQVFZ6NnlIWjNoZ1F3NnhDUkxYSG5Cb0wwZ1RhSHFuNnc5Y0hPZDdMM2k0cXNlMngxWXZKckVXYldZYVp3QjZFbHVpNEpPTW1uWWFpRU1uRGFWRGRWbDU2SGp6cmhZT3ZFZVVfSG5XODYxbzhVdkRfTlJiQjBLMnUxZnh1cVh4VExwN1ZPbl9OTkNTSQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,7 +22,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _10 corroborating headline(s):_
-- [OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFM2SHNJRnJjLXpYOVVYdm9jM2JVU3pDbVdXbUVUTnNQVFZ6NnlIWjNoZ1F3NnhDUkxYSG5Cb0wwZ1RhSHFuNnc5Y0hPZDdMM2k0cXNlMngxWXZKckVXYldZYVp3QjZFbHVpNEpPTW1uWWFpRU1uRGFWRGRWbDU2SGp6cmhZT3ZFZVVfSG5XODYxbzhVdkRfTlJiQjBLMnUxZnh1cVh4VExwN1ZPbl9OTkNTSQ?oc=5)
+- [With Hormuz reopened, has the oil shortage turned into a glut? - Al Jazeera](https://news.google.com/rss/articles/CBMiogFBVV95cUxQOW8zOUZMYnVCVi1hdkI1azRmRlhrV0l6NTVYdmhjaXRNNmJUdUp4Z2Rzcko2c2JyWGl0UklWN1NpS3pyWFNlZU5qelpuM2NPc1JveFJpNTVmZXVzRF84VkJsZEdzMl8tM01GdTVaLUV0d3NBSk1MWDRPaDUzTUNMMnl3dDZxWEVpUTU4SE5HSUVwd3NsTms4VXlwZ1JWVThJTnfSAacBQVVfeXFMT29obURrRzhQaElSOTVKUlpSdkhJYkhMaUh5OXc2VlYzRi1DM3RhRlAtRUNBbWVMQUppY2RpTFpTZ25Qc19adFlRemRLQzllMGtfNnI0RDVWLVd2LWRLX1hhV0hNeE5qclA4aTJUZkN0SC13YlowT01yYXFwLXJ4bTBIcVY1RDFWdXJyOTZMQ0dld2YtT3FhMFVhN3BVTzhBa2p2NHhEUHc?oc=5)
 - [Saudi Arabia Rushes Crude Exports Through Reopened Strait of Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYThENzYyU3RjcjhQZHVoX2g2MFlaMUg3OXNZZ3U1SW5uLXZ5ZV9xYU5HQUFRM0s2QVBEdGJyRmloRFdETjU4RklwclBjcUVtdDVqVkFrTWNLN0F6MkMtczdaSGtiQ2ZQMS1wdUJjOXFPek5nRDRCdm9NMVBOVFduTG9nWU1kM1liVlVUaWcwVGpBRFpFLXFzM2Z1ZHE4NHE4cjBHQ3dGclRERWlRLXVXMVpoU1ZZMk9KVjJzOTEwN0LSAcYBQVVfeXFMUFFLc2kzZ0hvVlY1Z3R6Z3R6ck1kR0NfbDI3OWpMQUJZS0VqNm5ZQ0l4WGpNVWVJUlhTc0RrLXl4ZjNuRml0cEpEckRGZjQ5TTV4N2Z0MmRtU1FmRmg2NC1TVnE0aDZzel9UT2g1cE5Fdm9nbjBzNWJWRTRTQ2NoNFVkRmZhd2dicW16NmhPWGFCZzRFUjR2OG1ZWFdaU0g5WGpWdUhyMDE1UEZpeGt2NlU0cW9Fd29lbHBvQmR2eE1lYjZzV1JR?oc=5)
 - [Reopening of the Strait of Hormuz sparks surge in energy supply! OPEC output surges in June as Citi bets on crude oil falling toward $60. - 富途牛牛](https://news.google.com/rss/articles/CBMingFBVV95cUxQWG1KeVhFLVRvNEh1NHExd3dPT0t0dE5kYlNUWUFuVE52U3VuSENXS1NLRVZvX0xjajFjRFhPS2p6Ny1TMUsxZDJGSmc5djlNRHl5YkRFbTVLcW1WTHF6N0tCUWdNZXVHX1BJOGhVN2hfamFZa09Cdk5FX3BvN2JGODk2ckJBdGZ1ZW1VQjdUX2dXaEZDSkdhQjlOc2o3UQ?oc=5)
 - …and 7 more
