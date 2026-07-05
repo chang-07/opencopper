@@ -11,9 +11,31 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC+ agrees on new oil output hike as Hormuz gradually recovers | Daily Sabah - Daily Sabah",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXFsZTcySXJzRklLc19EZ1dpbmFrZGlGZnhJWGJ3YVZ2a1BUSlVOOXlHbkI3amdCcHYxS1dYemdIMkg1Sm5lRWJjMVZWeUxPeTlKUmVRTTBzeFFEUDJzQWhuS2o4TGF6WHNQbHJqcThiRHM1MnE4WHZVVzFRVHMzYldJd2pvbFMtYWZWenZMT21MQWFBNTlWbXZWZ1Z0dmJJS3JRU0FtWGtyRVFtdjBZ0gGvAUFVX3lxTE1VcWxlNzJJcnNGSUtzX0RnV2luYWtkaUZmeElYYndhVnZrUFRKVU45eUduQjdqZ0JwdjFLV1h6Z0gySDVKbmVFYmMxVlZ5TE95OUpSZVFNMHN4UURQMnNBaG5LajhMYXpYc1BscmpxOGJEczUycThYdlVXMVFUczNiV0l3am9sUy1hZlZ6dkxPbUxBYUE1OVZtdlZnVnR2YklLclFTQW1Ya3JFUW12MFk?oc=5",
+  "published": "Sun, 05 Jul 2026 12:44:53 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFM2SHNJRnJjLXpYOVVYdm9jM2JVU3pDbVdXbUVUTnNQVFZ6NnlIWjNoZ1F3NnhDUkxYSG5Cb0wwZ1RhSHFuNnc5Y0hPZDdMM2k0cXNlMngxWXZKckVXYldZYVp3QjZFbHVpNEpPTW1uWWFpRU1uRGFWRGRWbDU2SGp6cmhZT3ZFZVVfSG5XODYxbzhVdkRfTlJiQjBLMnUxZnh1cVh4VExwN1ZPbl9OTkNTSQ?oc=5",
   "published": "Fri, 03 Jul 2026 14:36:39 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "OPEC+ Agrees To Raise Output Even as Hormuz Shipping Security Remains Uncertain - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUk9RNHhXMzdvcThjNjBBY3c4SnYyYTJRaTBJVmV4OThIT2hXQ2xNLWtZTmhKbUd1RElmUkVhaEFNTnJsZEo0ZUJOMnhVZUVlUmxpNWtpempLQmtKNkxvcGpoR2JMVXZPaDlTeXpSZnFFTU94NVdtWjd4T1c2ZHh4VjNvYVNVYXdNMWJRUEY2dDB4UGN0YlNpdk1lMGt3R3p0RjZOdWRXLUw4NEVaWV9LLVNybzB6dnc2WEs3RlN0SUJPWm0zanRSLXJZV2N6M2QxZWoxbw?oc=5",
+  "published": "Sun, 05 Jul 2026 15:09:18 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -33,6 +55,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC+ agrees fresh August oil output hike as Strait of Hormuz reopens - The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeEZPOUh0ZE10UjQ1VFVDWmpMakVEQl9oTWRWSUxSZ1lsUkNMa3hHM21iQUc5enZqd21USm9JWk5wbUpSRDFISnY4NHdSenU5ME1HRHNmaTV5dHQ0ekkzRnFYcEJiWlg3MUwzVW9ibVo4MTFObmNhaXcyNkNFRlpyNk9JRG1kV21Cci1Dd19nNW4tUm5SeVlZYzJpSWxTWHpLZUVCNTJNOHJSM2w2WExVVTdjZl9PRjZCNDJ3eDROZXc5SXE5b1dzem5saWpXUV9DYTZ3TmVfdWR0WUhfZVJQRU5FdmVwNlJEd0dRNmw4amdIR0Y20gH6AUFVX3lxTE0yeGc0TDhJTDVqNnp1eGlQRHlUcFY5Q3VUcktZNlFhMlhGOVZzZ1dndGJlc2QtMldINVpKdUFMUjZKWF80ZlFFOG9INEdRbldFazFvRnp0cW9BRi1nQjk3dUd6Zll1OTNCZHFjV1prU1Jnb3pOWFpPQzJ5eUQ4NFM5LUZjVmVDREdXS2hRMW5pWkNaUFltdVhFOWtYMHBvckNVN2hGMmxpYy0xNW1yZm1QM0o4bTJ6bEJaaVl2MlJMSUt0ZjBpSktXeUdwOXBmWGF0TjFMUUJ2cFdrTTBmbDdKRjlYWTUtQVFwM2lIMkNncUxIWkpzN3RYQkE?oc=5",
+  "published": "Sun, 05 Jul 2026 14:18:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Saudi Arabia Rushes Crude Exports Through Reopened Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYThENzYyU3RjcjhQZHVoX2g2MFlaMUg3OXNZZ3U1SW5uLXZ5ZV9xYU5HQUFRM0s2QVBEdGJyRmloRFdETjU4RklwclBjcUVtdDVqVkFrTWNLN0F6MkMtczdaSGtiQ2ZQMS1wdUJjOXFPek5nRDRCdm9NMVBOVFduTG9nWU1kM1liVlVUaWcwVGpBRFpFLXFzM2Z1ZHE4NHE4cjBHQ3dGclRERWlRLXVXMVpoU1ZZMk9KVjJzOTEwN0LSAcYBQVVfeXFMUFFLc2kzZ0hvVlY1Z3R6Z3R6ck1kR0NfbDI3OWpMQUJZS0VqNm5ZQ0l4WGpNVWVJUlhTc0RrLXl4ZjNuRml0cEpEckRGZjQ5TTV4N2Z0MmRtU1FmRmg2NC1TVnE0aDZzel9UT2g1cE5Fdm9nbjBzNWJWRTRTQ2NoNFVkRmZhd2dicW16NmhPWGFCZzRFUjR2OG1ZWFdaU0g5WGpWdUhyMDE1UEZpeGt2NlU0cW9Fd29lbHBvQmR2eE1lYjZzV1JR?oc=5",
   "published": "Thu, 02 Jul 2026 10:00:00 GMT",
@@ -44,9 +77,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC, allies hike output again as Hormuz traffic starts recovering - MSN",
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUUlvN3lBem9kZDVkZ3BXNkxaQ2w3dENKUTJGb2NoMkgtT3l1NW9heHQtTktNNXFMOUNacTJ1TnkyYWZ4ZklHVmNjS1JBcVZkZzJYZFpsSUF4NE0wQXVVc3JZM1hlVFZycDZZVXFvdkVLNjFQeDFwdGN5ZXlsX0pqUGp0Z0oza0JlOGdwYXQ5Ty1oQTI0YWU1V3pxQ054V2NrQXZDeWhCS3FpVnl6MjJ5cXJTWG8yQjBjSnNlQUVBQVVpMUQ2eTRXa2lGLWlDamZNb09VYUVnS25lTG8?oc=5",
-  "published": "Sun, 05 Jul 2026 11:43:26 GMT",
+  "headline": "OPEC+ to lift output again as Hormuz reopens, oil prices ease - Egyptian Gazette",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeVdocGRhTS1Ya0ZGeUxVb3JFamowMnd4aTg4amJadXVLS1lMT0J6dEg3REtUVlJncE5aZ2hvcV9raUd5YlY0VUpxS0JqbVJGNWs4YkY3X1Y4Y01qNVNnaFlEVU55cEJNd3phY3lQMnAyQ3k4NnZtZ082SjRtcDNsOTJ3RGZYT21IakpJa1JranY0Y1lrbTZLVmdBMjljV0E?oc=5",
+  "published": "Sun, 05 Jul 2026 12:16:06 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Opec+ approves further oil output increase as Hormuz exports start to recover - Dawn",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0hnaEg1dU9rVkJaWktTVDloN3BkRFF0QjJrcHRWLUowZmNxekxEbUctN2ZmSU5zWkRhZWx5S0drZGlMQUtEVXJWYUtMRWdpaUZhTlNjcUx2Ny01N0E5RHNHNlVBbUpjb0phQ3FFWklzN1RIR0pmODVobG95eF83UFZ6YTY2aTk3anZsM1I1LWxRSXYzZ3FSMXVObU9IcGVGaklsUEFHa2l5T185VG1R?oc=5",
+  "published": "Sun, 05 Jul 2026 12:08:05 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -66,6 +110,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - The Straits Times",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVWNsZzBqV0hDZ1lnc0ZQMEtMUDhqcm51bWZielpDQ2hIXzNmMTFWRjVnLVo2aXBMVXh1dUtDT3E3SVBDMFVYSXBGZFlzRkhCYWV0aGNqaU9kNWlQUmdXMWFZTjlfVVhQQWZqTHkxd005Wk5iZzVxcE1rdk4xMUlxMTJ1YzBpcVJydDUyTm5RZmVKOHBSVXh6OWZnVQ?oc=5",
+  "published": "Sun, 05 Jul 2026 09:15:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Why falling oil prices don't mean Hormuz crisis is over - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5",
   "published": "Mon, 29 Jun 2026 03:58:15 GMT",
@@ -74,83 +129,6 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Opec+ set for modest August oil output hike as Hormuz shipments resume - Business Standard",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGZQZElfMXpZSDl1REVzTzJxMWduQnlQakJmTzN6c2JuN0V2YVdmelp0dUY0YVRXQm4zY25PeFRVWldJdG1vcC1hb1VQVUdXdkM3cExlQXNDSzNkcXU1bGx3M2VweS1pejFGT2s2N1JENnlObkk0M2MwdkF4a2FwbnJNRkxiNVB1WDQ4bHM5cXpWcjBPYzdwR0ZyMEdWdnBPelo1V1dsSkFkSW1ldDZLcE5seTE4WlgxdDU3bUJXRTFzSlp1Ym93QmF5aUZyXzDSAdQBQVVfeXFMTnRSazFCc3ZBV3pmbzl2T0pyT0RZWHg2Umd2a3BBdmJuLU03VFk0S2Z3MS1ETm1OVjVvVkluR2szRUd1VVhtem1LN1Ruc09OUHpubUNGS2pKYU5tSjFzelZHUkRWaHhELWQ0S3RBbU9SY3hfa0pMRWZzdlY5SEY1MDd5ajNlaVN4WTNuU05ORDJVOC1OQ3pmeWxmWXE1YTZaYThMLUNsUlJUdGFwZGxWYWF2NXk0WnVLdFo0WDBNdGJadHA3OVZodmd2ZjZKWlB4ZDBTWFQ?oc=5",
-  "published": "Sun, 05 Jul 2026 08:33:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Copper's Next Move Depends On Washington, Not The Strait Of Hormuz - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXI4VXVyWjBFMDhFWGEyU0p4X0RKbEVubUp5a1p3WWhRVmFxQkNVX1dvOGJwNFZHeU1pRjFBbFYzMkZMZEgyWi1UTGRENnN5SVlBbE54dld6V1dZQnhXd1NfX3JCaHNkM1d0MVM1clk1aEdEWEpvVnFZVnY4VVU0aExZSVl2QjVFb3RhT3NTTVhRTEticFdhVVdvQ3hiQXBzY1pKVDA0bk50dXBpamfSAbMBQVVfeXFMTzZRb0cydW5BanFXTUhPQjBmSEpUcE9WUlVWV2I4cjV4M2NDZWQ0aDQtd3lJRlJvVlN0VUQzSUJ0Nk1aWGVPT0xrWVRlbldJcmF3RWs5NWxnR0RCekhJWnBIcUlVLTBCX1JCZjI0NjVHNWFIZ0pLWmlfZXRnUUlWNXF0Z004c015X2d6ZmF2WnBuMVQ4VEkybGhiSmhzeExnczZoSUZSalA1ZmNzaWN0TzlsckE?oc=5",
-  "published": "Fri, 03 Jul 2026 19:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "14 million barrels of stranded Iraq oil travels through Strait of Hormuz - South China Morning Post",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeEQ5RmR5U2dPWUJuY2F2WFYtWE42TC1SSFc0X3ZEeHdXNDNnU3BOMjJlbUVKVENyWlZVMEkzMHlTeURvaThzcUpvLUVPejJwX3FmVDgwN1BDZ3Y3SHc3dVJkUDl1Z3lIM0lSYmM2aG1TeEJfUW05dEp4THdKRlhkZ20tVHRWc214cjNSNFVubWhYNzVXOG8wNlRWVk5ZUzlFZXBVTVF4YTFZWUlrUWV4NEdraVNPQngxZ2pLbTk3MnhIZ3JD0gHEAUFVX3lxTE5Ed1dmTlA2Q2M4SkVUZ2pNcVVPLVB5UnJ4Q1A5VmVtdGhxQVZlY0FWZVNPTmMxTDNDRzFqcTdKLUxna1hTVDVkSFlfMUpxNTdQOGRSOG53YmtGZHh2RmNhQUFwUERoUmRxcVpuaTdQTUhTUVZVYlpHend2aWRsbmtJMGlHUkJNMEE2YjhVSFBmVGdZV2p3azRYZm14a2I1b2R1Ynd4NXF4UzduVEJWQ1FWYmpOVUk3RFhLajJjUUI1TnQwdXg?oc=5",
-  "published": "Tue, 30 Jun 2026 11:36:51 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5",
-  "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Reopening of the Strait of Hormuz sparks surge in energy supply! OPEC output surges in June as Citi bets on crude oil falling toward $60. - \u5bcc\u9014\u725b\u725b",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWG1KeVhFLVRvNEh1NHExd3dPT0t0dE5kYlNUWUFuVE52U3VuSENXS1NLRVZvX0xjajFjRFhPS2p6Ny1TMUsxZDJGSmc5djlNRHl5YkRFbTVLcW1WTHF6N0tCUWdNZXVHX1BJOGhVN2hfamFZa09Cdk5FX3BvN2JGODk2ckJBdGZ1ZW1VQjdUX2dXaEZDSkdhQjlOc2o3UQ?oc=5",
-  "published": "Sat, 04 Jul 2026 01:53:15 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "OPEC oil output rises with reopening of Strait of Hormuz - \u0627\u0642\u062a\u0635\u0627\u062f \u0622\u0646\u0644\u0627\u06cc\u0646",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHUtY25YZFlJUVUtRHVfRGxYS2JJYVZkTkw4eHFYYzBHOXZ3eWt2TU9fUjlNdGtpdWN1cXRkOHdoQUFHNXNGSVdYcTQtYmRCMkxaNjljalJPSktaSzVBU0kzUzVLd3psaThPM3RGLXZxd0poVVE0RDJkdjhZYzdPZUc3Z05TX0ZLWnY0M3czS3ZPQXREV3NTdFVMY19qaE01c0hoTQ?oc=5",
-  "published": "Sat, 04 Jul 2026 13:48:54 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DR Congo\u2019s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5",
-  "published": "Sat, 04 Jul 2026 12:54:02 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {
@@ -187,6 +165,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "DR Congo\u2019s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5",
+  "published": "Sat, 04 Jul 2026 12:54:02 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing",
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5",
   "published": "Mon, 29 Jun 2026 16:05:33 GMT",
@@ -198,14 +187,25 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian attacks could slash Ukraine grain exports - The Western Producer",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5",
-  "published": "Thu, 02 Jul 2026 06:49:34 GMT",
+  "headline": "Congo Withdraws Unused Cobalt Export Quotas in 2026 - Discovery Alert",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJ0dm4tYXRkaWZHcjlfcnZFZHBtSjhkNmxXU0RvM1VXRFhCMjYzT1huLWwwbnE1RmllMmlsaWZDMWhBZXNOVmUzWkxtbXBfVVBBVmxTQkRPNi1WNFlUbUtKOUNEUDQxdjFTYkppOERQWDJCZmJQQWFQY3NrZ2NLRTJmekdpMFVsU3gwdEJR?oc=5",
+  "published": "Wed, 01 Jul 2026 09:59:00 GMT",
   "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "DRC Congo Cobalt Export Quotas: 2026 Supply Control Explained - Discovery Alert",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT18wSGxGcEJfVzJxVWZDajdfbVBZOXBmdVBSaWo3elhRNW81NXJMRkVicWhuWkYxWnlyWVMyOWdjNFlzZXVNa3FIOE1Vb0RUSF9CR2h6blRVelZRSlFCbnBfZ19DREc3bGVrd25tSHhybTJfeFVTSUt4M1d4dkYtVVhibmdVWUxG?oc=5",
+  "published": "Wed, 01 Jul 2026 09:59:00 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  }
 ]
