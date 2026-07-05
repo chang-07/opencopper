@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ agrees on new oil output hike as Hormuz gradually recovers | Daily Sabah - Daily Sabah",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXFsZTcySXJzRklLc19EZ1dpbmFrZGlGZnhJWGJ3YVZ2a1BUSlVOOXlHbkI3amdCcHYxS1dYemdIMkg1Sm5lRWJjMVZWeUxPeTlKUmVRTTBzeFFEUDJzQWhuS2o4TGF6WHNQbHJqcThiRHM1MnE4WHZVVzFRVHMzYldJd2pvbFMtYWZWenZMT21MQWFBNTlWbXZWZ1Z0dmJJS3JRU0FtWGtyRVFtdjBZ0gGvAUFVX3lxTE1VcWxlNzJJcnNGSUtzX0RnV2luYWtkaUZmeElYYndhVnZrUFRKVU45eUduQjdqZ0JwdjFLV1h6Z0gySDVKbmVFYmMxVlZ5TE95OUpSZVFNMHN4UURQMnNBaG5LajhMYXpYc1BscmpxOGJEczUycThYdlVXMVFUczNiV0l3am9sUy1hZlZ6dkxPbUxBYUE1OVZtdlZnVnR2YklLclFTQW1Ya3JFUW12MFk?oc=5",
-  "published": "Sun, 05 Jul 2026 12:44:53 GMT",
+  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
+  "published": "Sun, 05 Jul 2026 11:29:35 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,6 +77,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC+ boosts oil output again as Strait of Hormuz exports recover - The News International",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWVCYTZIbVpuYl9wT2JwVUgwdl9aMC1jN2prXzJQWklubXc5MzF0cUVsb0UzWGtBdzBpeVMxVkNraDhQZWhRX21sVzNCRW80aUt0WkJVcmxoRFJCeWpHMDFwZzlZSnNTOUpOd3BWS0xiMHlKQ3hyOEJocjFmaVZaV2UtRVl4SXhxMFBTRHM0QWZVY0FjbGtmU2g1djF6Nnd0d0JwZVVqX0JoZw?oc=5",
+  "published": "Sun, 05 Jul 2026 17:04:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "OPEC+ to lift output again as Hormuz reopens, oil prices ease - Egyptian Gazette",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeVdocGRhTS1Ya0ZGeUxVb3JFamowMnd4aTg4amJadXVLS1lMT0J6dEg3REtUVlJncE5aZ2hvcV9raUd5YlY0VUpxS0JqbVJGNWs4YkY3X1Y4Y01qNVNnaFlEVU55cEJNd3phY3lQMnAyQ3k4NnZtZ082SjRtcDNsOTJ3RGZYT21IakpJa1JranY0Y1lrbTZLVmdBMjljV0E?oc=5",
   "published": "Sun, 05 Jul 2026 12:16:06 GMT",
@@ -110,17 +121,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - The Straits Times",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVWNsZzBqV0hDZ1lnc0ZQMEtMUDhqcm51bWZielpDQ2hIXzNmMTFWRjVnLVo2aXBMVXh1dUtDT3E3SVBDMFVYSXBGZFlzRkhCYWV0aGNqaU9kNWlQUmdXMWFZTjlfVVhQQWZqTHkxd005Wk5iZzVxcE1rdk4xMUlxMTJ1YzBpcVJydDUyTm5RZmVKOHBSVXh6OWZnVQ?oc=5",
-  "published": "Sun, 05 Jul 2026 09:15:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Why falling oil prices don't mean Hormuz crisis is over - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5",
   "published": "Mon, 29 Jun 2026 03:58:15 GMT",
@@ -143,20 +143,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo withdraws unused cobalt export quotas - Mining.com",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tazlRNVdrRWZsNUFXNmsxN1VNeVJ5cFV5QVVKVDhkZ3pqaTM3VGZSc1RZQnBDakEydFRzMS1xTFVNUGxMdmFpXzJmTXE5UF9TTE5GSHRrT2N3a002UEhXS3B3T0pKQ3VvWXZ6aEZhR19XakZ4YjNicVNWSQ?oc=5",
-  "published": "Mon, 29 Jun 2026 17:47:14 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Congo Tightens Cobalt Export Quotas With New Deadlines - Finimize",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNfYVBtZjB1TUJyeVo4d2E2b2hwdnN4WFN0RkNBbHhKNmtIaThCQUk0dENuMjBhb2FLYlk0YzJnbkRoOWlPQkNHcTIzS3p0LXNWYURfallJSjlBanJJLS1UV0hOUGhabGg0V0NQRTc5V25ZOW81VFVEamtORTZsQ3d5dXcySWx6NUlZ?oc=5",
-  "published": "Mon, 29 Jun 2026 21:43:17 GMT",
+  "headline": "Congo withdraws unused cobalt export quotas - KITCO",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnpvMF96M0xoaGYzRXlqR0dYUno1ak9wMjUtbEs0OGJ1TklhZC1XaUdpV3UzT0oydC1ybVFLQWZpakpwMzI3eUttd24yR1FXLWdwTmo0dWJOTkZkNTEzN2lGUzg3a0s1c0IxS1RDdjRBNDdwT1VvOENTaXlJLWlkOFdmdjdMY0RuWHZfVVZ5MTZPUTc0UU9ublJR?oc=5",
+  "published": "Mon, 29 Jun 2026 15:31:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -179,6 +168,17 @@
   "headline": "Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing",
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5",
   "published": "Mon, 29 Jun 2026 16:05:33 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo Tightens Cobalt Export Quotas With New Deadlines - Finimize",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNfYVBtZjB1TUJyeVo4d2E2b2hwdnN4WFN0RkNBbHhKNmtIaThCQUk0dENuMjBhb2FLYlk0YzJnbkRoOWlPQkNHcTIzS3p0LXNWYURfallJSjlBanJJLS1UV0hOUGhabGg0V0NQRTc5V25ZOW81VFVEamtORTZsQ3d5dXcySWx6NUlZ?oc=5",
+  "published": "Mon, 29 Jun 2026 15:52:49 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",

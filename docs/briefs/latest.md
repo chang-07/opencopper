@@ -22,7 +22,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _11 corroborating headline(s):_
-- [OPEC+ agrees on new oil output hike as Hormuz gradually recovers | Daily Sabah - Daily Sabah](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXFsZTcySXJzRklLc19EZ1dpbmFrZGlGZnhJWGJ3YVZ2a1BUSlVOOXlHbkI3amdCcHYxS1dYemdIMkg1Sm5lRWJjMVZWeUxPeTlKUmVRTTBzeFFEUDJzQWhuS2o4TGF6WHNQbHJqcThiRHM1MnE4WHZVVzFRVHMzYldJd2pvbFMtYWZWenZMT21MQWFBNTlWbXZWZ1Z0dmJJS3JRU0FtWGtyRVFtdjBZ0gGvAUFVX3lxTE1VcWxlNzJJcnNGSUtzX0RnV2luYWtkaUZmeElYYndhVnZrUFRKVU45eUduQjdqZ0JwdjFLV1h6Z0gySDVKbmVFYmMxVlZ5TE95OUpSZVFNMHN4UURQMnNBaG5LajhMYXpYc1BscmpxOGJEczUycThYdlVXMVFUczNiV0l3am9sUy1hZlZ6dkxPbUxBYUE1OVZtdlZnVnR2YklLclFTQW1Ya3JFUW12MFk?oc=5)
+- [OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5)
 - [OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFM2SHNJRnJjLXpYOVVYdm9jM2JVU3pDbVdXbUVUTnNQVFZ6NnlIWjNoZ1F3NnhDUkxYSG5Cb0wwZ1RhSHFuNnc5Y0hPZDdMM2k0cXNlMngxWXZKckVXYldZYVp3QjZFbHVpNEpPTW1uWWFpRU1uRGFWRGRWbDU2SGp6cmhZT3ZFZVVfSG5XODYxbzhVdkRfTlJiQjBLMnUxZnh1cVh4VExwN1ZPbl9OTkNTSQ?oc=5)
 - [OPEC+ Agrees To Raise Output Even as Hormuz Shipping Security Remains Uncertain - Benzinga](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUk9RNHhXMzdvcThjNjBBY3c4SnYyYTJRaTBJVmV4OThIT2hXQ2xNLWtZTmhKbUd1RElmUkVhaEFNTnJsZEo0ZUJOMnhVZUVlUmxpNWtpempLQmtKNkxvcGpoR2JMVXZPaDlTeXpSZnFFTU94NVdtWjd4T1c2ZHh4VjNvYVNVYXdNMWJRUEY2dDB4UGN0YlNpdk1lMGt3R3p0RjZOdWRXLUw4NEVaWV9LLVNybzB6dnc2WEs3RlN0SUJPWm0zanRSLXJZV2N6M2QxZWoxbw?oc=5)
 - …and 8 more
@@ -44,9 +44,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _6 corroborating headline(s):_
-- [Congo withdraws unused cobalt export quotas - Mining.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE1tazlRNVdrRWZsNUFXNmsxN1VNeVJ5cFV5QVVKVDhkZ3pqaTM3VGZSc1RZQnBDakEydFRzMS1xTFVNUGxMdmFpXzJmTXE5UF9TTE5GSHRrT2N3a002UEhXS3B3T0pKQ3VvWXZ6aEZhR19XakZ4YjNicVNWSQ?oc=5)
-- [Congo Tightens Cobalt Export Quotas With New Deadlines - Finimize](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNfYVBtZjB1TUJyeVo4d2E2b2hwdnN4WFN0RkNBbHhKNmtIaThCQUk0dENuMjBhb2FLYlk0YzJnbkRoOWlPQkNHcTIzS3p0LXNWYURfallJSjlBanJJLS1UV0hOUGhabGg0V0NQRTc5V25ZOW81VFVEamtORTZsQ3d5dXcySWx6NUlZ?oc=5)
+- [Congo withdraws unused cobalt export quotas - KITCO](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnpvMF96M0xoaGYzRXlqR0dYUno1ak9wMjUtbEs0OGJ1TklhZC1XaUdpV3UzT0oydC1ybVFLQWZpakpwMzI3eUttd24yR1FXLWdwTmo0dWJOTkZkNTEzN2lGUzg3a0s1c0IxS1RDdjRBNDdwT1VvOENTaXlJLWlkOFdmdjdMY0RuWHZfVVZ5MTZPUTc0UU9ublJR?oc=5)
 - [DR Congo’s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5)
+- [Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5)
 - …and 3 more
 
 ---
