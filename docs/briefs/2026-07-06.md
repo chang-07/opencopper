@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_13 corroborating headline(s):_
+_14 corroborating headline(s):_
 - [OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5)
-- [OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFM2SHNJRnJjLXpYOVVYdm9jM2JVU3pDbVdXbUVUTnNQVFZ6NnlIWjNoZ1F3NnhDUkxYSG5Cb0wwZ1RhSHFuNnc5Y0hPZDdMM2k0cXNlMngxWXZKckVXYldZYVp3QjZFbHVpNEpPTW1uWWFpRU1uRGFWRGRWbDU2SGp6cmhZT3ZFZVVfSG5XODYxbzhVdkRfTlJiQjBLMnUxZnh1cVh4VExwN1ZPbl9OTkNTSQ?oc=5)
-- [OPEC+ is raising oil output quotas for a fourth straight month — but the Strait of Hormuz is still shut - qz.com](https://news.google.com/rss/articles/CBMid0FVX3lxTFBfR1ZRNkZHbFRYRHctQXA2QVFJWnA2UEhiMzdoZXJYRU4zNGJDZ3ZHby1FOE5BNnp4aXpzNmhxcF9HMmVQdE55cDFQNlFZWkFUaUpNSDdrX1JDLVVCVG9XNTFoUUtUTzhuNEVPS2ZEVGJaaFRHVEtN?oc=5)
-- …and 10 more
+- [Oil Prices Fall as Hormuz Exports Recover and OPEC+ Boosts Output - IranWire](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkdPczRlam50MXZDcGhlR3BaNjJsUHJ1dGFEc1hLSG1TeGw1XzRjNEc1UWkwQjU3Wm5MYkd6WVFnRkxQMG5ua2hqd054VXNWSDA1eUdCaTllU25kTlExem9mQWwzd0xoWFlmckMzVURIVWItclBYUkt0MWxGSktUSnlEX2s0Y3JOT1c5My1ieW5iR1FzZ1NqamFELWVfS2dEamJj?oc=5)
+- [WTI Crude Oil Price Forecast: OPEC Production Increase Combined With Hormuz Strait Navigation May Drag Prices Down to $60. - TradingKey](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHRvdVdGWjduRTk1LTZSVHJiQlNWeFJYWkF4eTQwRXpHUklLSEpYTzZtNTFEbWE0X3pYczRXXzRUbkJnVzM2OV94RDJvQndXZkJLQkVYbDlXaHkxRGRzeEZiU2N6Q0RqQzBJeVJ4ay15TWFxUkMtbER1c2ZZRlh4ejVoc3p6d0VHU2tFRW43TXZWOGRvSE1nYTFTeWo1MDJXcEhwbjN6NkJ1SEUxR1Mzck84WXAxdl9SSEo0UmdKWDF3blgzazdUaGUtUVFORVl1TFBicjJ2Nk9Nc28?oc=5)
+- …and 11 more
 
 ## Congo withdraws unused cobalt export quotas - Reuters
 *Mon, 29 Jun 2026 16:33:35 GMT* — [source](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkFfNC1NQldLdTdlT04tR2dRRElmRUg3endBUVgyT3Rpb2psS2xBUy1QSUtPT05ndkJIYmE0dm9BREdKMzFWdlY0LWpONUhZN1Y0ejlvaWR0Q2dLRUZkZDZGUzFUUTFoSV9zQWt4OVF3RFhvUm5tZkFGbXNINnVXOHROOFl0SHQ5aUFnaFZwZjVtRnF0eTU0?oc=5)
