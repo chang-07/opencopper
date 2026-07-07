@@ -121,28 +121,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Wood Mackenzie Report: Strait of Hormuz Closure Caused Severe Oil Supply Disruption in 2026 - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNzVtWDNWLWtfTEtZMlFuclNUakxjeW5ubTZwMnhlYU1pMmpKZXRHWGN3dEJuelpmSG5QU0QxZTlyUDNrMVZPSjMyUXduT0FZQVRtTUZyUjBGQ2lXZTUtYi10TnNsb2NFcnQyODFKS0RrX3VXWThPVmhZMF9zc0hLUVJ5R2RKcDdILTlJUXdhTldfaklaSEVabE41U2wtZw?oc=5",
-  "published": "Tue, 07 Jul 2026 00:12:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "OPEC+ approves another output increase as Hormuz reopening boosts supply outlook - Seeking Alpha",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWItS1ZYYlA1Wjd2dXpwUGpRWS0wQXpya2cwQnVEX1RfdmZZT1ZZaUxESWxVTHpqbEt0UURKbjdNbERueWltREhMNkl3UWNLcFBDRk9TYkFwdzRncHRJa3pBaXdmTW8wZXlCMUhudTlJSktFS1FoVEhqeUU4RmtZTXpNY2oxQXNrUUdmazNPTEZpNWNFb2d5Y3RGampQdWFVVDhYR2NjY0F4eEUyUWQ3VHRWaGxWX1Zm?oc=5",
-  "published": "Sun, 05 Jul 2026 13:23:32 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Congo withdraws unused cobalt export quotas - Reuters",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkFfNC1NQldLdTdlT04tR2dRRElmRUg3endBUVgyT3Rpb2psS2xBUy1QSUtPT05ndkJIYmE0dm9BREdKMzFWdlY0LWpONUhZN1Y0ejlvaWR0Q2dLRUZkZDZGUzFUUTFoSV9zQWt4OVF3RFhvUm5tZkFGbXNINnVXOHROOFl0SHQ5aUFnaFZwZjVtRnF0eTU0?oc=5",
   "published": "Mon, 29 Jun 2026 16:33:35 GMT",
@@ -178,7 +156,7 @@
  {
   "headline": "Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing",
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5",
-  "published": "Mon, 29 Jun 2026 16:05:33 GMT",
+  "published": "Mon, 29 Jun 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -190,17 +168,6 @@
   "headline": "Congo Tightens Cobalt Export Quotas With New Deadlines - Finimize",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNfYVBtZjB1TUJyeVo4d2E2b2hwdnN4WFN0RkNBbHhKNmtIaThCQUk0dENuMjBhb2FLYlk0YzJnbkRoOWlPQkNHcTIzS3p0LXNWYURfallJSjlBanJJLS1UV0hOUGhabGg0V0NQRTc5V25ZOW81VFVEamtORTZsQ3d5dXcySWx6NUlZ?oc=5",
   "published": "Mon, 29 Jun 2026 15:52:49 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Congo Withdraws Unused Cobalt Export Quotas in 2026 - Discovery Alert",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJ0dm4tYXRkaWZHcjlfcnZFZHBtSjhkNmxXU0RvM1VXRFhCMjYzT1huLWwwbnE1RmllMmlsaWZDMWhBZXNOVmUzWkxtbXBfVVBBVmxTQkRPNi1WNFlUbUtKOUNEUDQxdjFTYkppOERQWDJCZmJQQWFQY3NrZ2NLRTJmekdpMFVsU3gwdEJR?oc=5",
-  "published": "Wed, 01 Jul 2026 09:59:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
