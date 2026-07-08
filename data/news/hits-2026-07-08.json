@@ -1,8 +1,8 @@
 [
  {
-  "headline": "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5",
-  "published": "Sun, 05 Jul 2026 11:24:00 GMT",
+  "headline": "EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5",
+  "published": "Tue, 07 Jul 2026 18:54:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5",
-  "published": "Tue, 07 Jul 2026 18:54:03 GMT",
+  "headline": "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5",
+  "published": "Sun, 05 Jul 2026 11:24:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -36,17 +36,6 @@
   "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - CNBC",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2hIVlN3T2xXekl4NzRBN0xWcE8yVnZoMkJEUWRFc2lDLWhSUjVaLXFLbTJhWWc1dzY0YlJaUXVtQ2FmRXdPZGJtSzJ3SnJWM1REVWhvVGNjRHF2T1FEaG1fNHJGR2VuWktvVHNZNFpkbHhRODVBSllaaGNCV1Y4cUdOaFVDcFZqTWNXVtIBkgFBVV95cUxNaV9JVVVaUGRVTXFFSFVBdWZDLUwxcjl4dTJIb21CZFRCX2prVndxLVV6RVphUzFhSlRFRzNJQlRXb0h2WW9reUtsaS1iVDNMMG9LUWZsdEhYN2gzLUwtM1JYaVVScnk0STlyMHl1emRJU0k4dE1SZnB5VXVkM3pyYXNBZGtzaVdSOGpMejBjRTlKQQ?oc=5",
   "published": "Sun, 05 Jul 2026 10:13:46 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "OPEC+ is raising oil output for a fifth straight month as Strait of Hormuz shipping recovers - qz.com",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVXltSHVDWGlLb1VMMFNCXzVrcnYzTXlnTzctYW92bHQwYUFlVzZEZ01lc0dYZUtzZW1BN2tYWjFNT2tRWVpUNUNIQzM0TkFkc3ZhdEZlX1RLSjNjSjQwVlliYUxyRHZHTWRWaUo2Zw?oc=5",
-  "published": "Tue, 07 Jul 2026 11:56:47 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,6 +88,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC+ is raising oil output for a fifth straight month as Strait of Hormuz shipping recovers - qz.com",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVXltSHVDWGlLb1VMMFNCXzVrcnYzTXlnTzctYW92bHQwYUFlVzZEZ01lc0dYZUtzZW1BN2tYWjFNT2tRWVpUNUNIQzM0TkFkc3ZhdEZlX1RLSjNjSjQwVlliYUxyRHZHTWRWaUo2Zw?oc=5",
+  "published": "Mon, 06 Jul 2026 13:43:32 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Oil Prices Fall as Hormuz Exports Recover and OPEC+ Boosts Output - IranWire",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkdPczRlam50MXZDcGhlR3BaNjJsUHJ1dGFEc1hLSG1TeGw1XzRjNEc1UWkwQjU3Wm5MYkd6WVFnRkxQMG5ua2hqd054VXNWSDA1eUdCaTllU25kTlExem9mQWwzd0xoWFlmckMzVURIVWItclBYUkt0MWxGSktUSnlEX2s0Y3JOT1c5My1ieW5iR1FzZ1NqamFELWVfS2dEamJj?oc=5",
   "published": "Mon, 06 Jul 2026 10:27:15 GMT",
@@ -121,9 +121,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "U.S. revokes Iranian oil waivers after Strait of Hormuz attacks - Seeking Alpha",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUh4N2Z3MXA4MVhHU1ZmeWROcHExdV9NMkJ2WEx0Y052clNZWTFYWFVGMUFpdWxpMHg4dG4tVndvdW5GUVMxRFdhZWJfMHBrelIzZS1ob1MyNE51RWFUQmNOYlBuNFJtdGdtQVg2N0t4MWZteV9YamZOYXBQV2tjenZ1NTJPRkt1MDRxVDVOWHF2VmVvbnJ5NWtRT1FtTGdLTmc?oc=5",
-  "published": "Tue, 07 Jul 2026 19:51:55 GMT",
+  "headline": "EIA Slashes 2026-2027 Oil Price Forecasts by Over 13%, Sees Strait of Hormuz Flows Normalizing by Year-End - finance.biggo.com",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JY3lDQ3cwT3hSVy1UUnFEM2pWWDZSN21sR2RFMU14SlJuNW51Zlp6TkpuU080Q2ZPem4tdGlKSmV3WkQ3VUl5N09LeXZMbldZVVRndDd5RGdRcTc3ckxyT1ZrOUxscWR4aWJQZ09RNXM4cWppeHc?oc=5",
+  "published": "Tue, 07 Jul 2026 20:35:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",

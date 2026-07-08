@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ
-*Sun, 05 Jul 2026 11:24:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
+## EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil
+*Tue, 07 Jul 2026 18:54:03 GMT* — [source](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,7 +22,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _10 corroborating headline(s):_
-- [EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5)
+- [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
 - [OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFM2SHNJRnJjLXpYOVVYdm9jM2JVU3pDbVdXbUVUTnNQVFZ6NnlIWjNoZ1F3NnhDUkxYSG5Cb0wwZ1RhSHFuNnc5Y0hPZDdMM2k0cXNlMngxWXZKckVXYldZYVp3QjZFbHVpNEpPTW1uWWFpRU1uRGFWRGRWbDU2SGp6cmhZT3ZFZVVfSG5XODYxbzhVdkRfTlJiQjBLMnUxZnh1cVh4VExwN1ZPbl9OTkNTSQ?oc=5)
 - [OPEC+ approves further oil output increase as Hormuz exports start to recover - CNBC](https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2hIVlN3T2xXekl4NzRBN0xWcE8yVnZoMkJEUWRFc2lDLWhSUjVaLXFLbTJhWWc1dzY0YlJaUXVtQ2FmRXdPZGJtSzJ3SnJWM1REVWhvVGNjRHF2T1FEaG1fNHJGR2VuWktvVHNZNFpkbHhRODVBSllaaGNCV1Y4cUdOaFVDcFZqTWNXVtIBkgFBVV95cUxNaV9JVVVaUGRVTXFFSFVBdWZDLUwxcjl4dTJIb21CZFRCX2prVndxLVV6RVphUzFhSlRFRzNJQlRXb0h2WW9reUtsaS1iVDNMMG9LUWZsdEhYN2gzLUwtM1JYaVVScnk0STlyMHl1emRJU0k4dE1SZnB5VXVkM3pyYXNBZGtzaVdSOGpMejBjRTlKQQ?oc=5)
 - …and 7 more
