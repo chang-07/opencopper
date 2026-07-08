@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil
-*Tue, 07 Jul 2026 18:54:03 GMT* — [source](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5)
+## OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ
+*Sun, 05 Jul 2026 11:24:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,7 +22,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _10 corroborating headline(s):_
-- [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
+- [EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5)
 - [OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFM2SHNJRnJjLXpYOVVYdm9jM2JVU3pDbVdXbUVUTnNQVFZ6NnlIWjNoZ1F3NnhDUkxYSG5Cb0wwZ1RhSHFuNnc5Y0hPZDdMM2k0cXNlMngxWXZKckVXYldZYVp3QjZFbHVpNEpPTW1uWWFpRU1uRGFWRGRWbDU2SGp6cmhZT3ZFZVVfSG5XODYxbzhVdkRfTlJiQjBLMnUxZnh1cVh4VExwN1ZPbl9OTkNTSQ?oc=5)
 - [OPEC+ approves further oil output increase as Hormuz exports start to recover - CNBC](https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2hIVlN3T2xXekl4NzRBN0xWcE8yVnZoMkJEUWRFc2lDLWhSUjVaLXFLbTJhWWc1dzY0YlJaUXVtQ2FmRXdPZGJtSzJ3SnJWM1REVWhvVGNjRHF2T1FEaG1fNHJGR2VuWktvVHNZNFpkbHhRODVBSllaaGNCV1Y4cUdOaFVDcFZqTWNXVtIBkgFBVV95cUxNaV9JVVVaUGRVTXFFSFVBdWZDLUwxcjl4dTJIb21CZFRCX2prVndxLVV6RVphUzFhSlRFRzNJQlRXb0h2WW9reUtsaS1iVDNMMG9LUWZsdEhYN2gzLUwtM1JYaVVScnk0STlyMHl1emRJU0k4dE1SZnB5VXVkM3pyYXNBZGtzaVdSOGpMejBjRTlKQQ?oc=5)
 - …and 7 more
@@ -66,8 +66,8 @@ _4 corroborating headline(s):_
 - [Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5)
 - …and 1 more
 
-## Russian attacks could slash Ukraine grain exports - The Western Producer
-*Thu, 02 Jul 2026 06:49:34 GMT* — [source](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5)
+## Black Sea Wheat Market: Can Russia Manage Fuel And Export Challenges? - UkrAgroConsult
+*Wed, 08 Jul 2026 08:31:28 GMT* — [source](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3ZuTnM5dFFtYkljUFRWQnBpaWVBRTJKS3YwRldMQTk4SXNDOGR1bEU5VmtKRUV5TkgtRU95S2hEaTBXR3lFV3l3YjZaclI4QUZ5cEtXN3FST0Z1NU82ci02aUNoOGxQX25tOVhWM2lVQlNrSnYwZnQwcl9zRmlaa3F2S2c0UU11VF8wRmpFdXdEbUI0UmdGcjlJRlR1OTdyWmJuUTFB?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -82,7 +82,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_3 corroborating headline(s):_
+- [Russian attacks could slash Ukraine grain exports - The Western Producer](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5)
 - [Russia can’t blockade Ukraine’s grain ports, so it bombs them—exports could drop a third - Euromaidan Press](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWZLeXE2ZHNaclIzdFRjUzVLbUxSd1hsSVZ0bTV0UERFbG84STRGWXQ2X1ltVjlCR2RSNFlpeEFPYk1ybHk5cEVNYUR2NlB0UWxsT1hkejhqdTIwT0FOVWxYd1ZjZnczMlR4ZHFWRTlHa2x6TjhIUTM4Uk1WcFRwLWUzd0Rpa0Zi?oc=5)
 - [Wheat climbs 5.5% as Russia withdraws from Black Sea export agreement - Business Recorder](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kOFNQZTNHYWdjNTVoTnk5NkVhYmlfNzNPelRiYUNmZFQ3bENLOE54V3ZhUXc4ZGdoOGVWZ1ZRd2N0ck8ta0tDbkxDUVFjRjRV0gFWQVVfeXFMUEwzcGJZeXFDX1VDNDRpaDlMb2gtWFFmSVRWYU1wQ3YtTWkwUUhaZEp4NjA5MGt1a3Y0SFE3N1oxbDNzeFhlX080ZzBUS2wxYVNkMnYyRnc?oc=5)
 
