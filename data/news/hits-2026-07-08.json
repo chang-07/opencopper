@@ -22,7 +22,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com",
+  "headline": "OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFM2SHNJRnJjLXpYOVVYdm9jM2JVU3pDbVdXbUVUTnNQVFZ6NnlIWjNoZ1F3NnhDUkxYSG5Cb0wwZ1RhSHFuNnc5Y0hPZDdMM2k0cXNlMngxWXZKckVXYldZYVp3QjZFbHVpNEpPTW1uWWFpRU1uRGFWRGRWbDU2SGp6cmhZT3ZFZVVfSG5XODYxbzhVdkRfTlJiQjBLMnUxZnh1cVh4VExwN1ZPbl9OTkNTSQ?oc=5",
   "published": "Fri, 03 Jul 2026 14:36:39 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -99,6 +99,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC+ Approves Fifth Consecutive Output Hike - Mexico Business News",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmdrUnl6bF9JZktxV0hMQ2JQWnhuWDI0bFF0anlFQnpNUThPYXJQRU4wbk1EQ2hDSExscmZoMUhrWXJ3TkNUYVFjVFNudXE3X3ZaME5jRG10NTVPenlHUWV5WjN1SGhQYWg3VUIxYlJZRlpaUm05Tkx2YkN5RXlITzhWUmxWaGZSRGNpaW03cw?oc=5",
+  "published": "Tue, 07 Jul 2026 15:26:12 GMT",
+  "rule_note": "",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.08,
+  "rule_id": "opec-cut",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Saudi, Qatari tankers hit as Strait of Hormuz risks worsen - Al Jazeera",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY09EYjkycFVkd2xiR3o4OUFpRUpzeFg0MC1zczF2bTRlTTgxOU9oenQ1Wm96VUtRcnJsbUNKc2FscTZUTzd1aWJZZFNnU21uY196NVhCM2Q0MTJjc0FZUUFlOUlEeVVTMnlHclU5Z3lHUXczYWVVRXJZZ1JzRGl1QVBDRnRMMWFQSjcwSDllb01Xc3NrUXNzVGZBc214eE5HLTFrWNIBqgFBVV95cUxNeUxUdWZqVlg1bTR3Qk9kS3NZYWxpUTNHbFhUTUdJM0M4TEpnQTJFUXVDRlUtWl9CRUl2cnF6Uk1Ba2o0c1FTV3Fab3ZCN1RnQ2diMTAwQzZ4VEl5dWc0ZVVtaXJHdVBjTTlBMjVfRWtZMGEzQUVKUkFhTlh6alVOWHFBYnhxYkxzelFiMUNlanFCWnI1ckpJdUtFeVJLU0hpMkR5dU5NU19rQQ?oc=5",
   "published": "Tue, 07 Jul 2026 22:27:25 GMT",
@@ -121,14 +132,25 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ Approves Fifth Consecutive Output Hike - Mexico Business News",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmdrUnl6bF9JZktxV0hMQ2JQWnhuWDI0bFF0anlFQnpNUThPYXJQRU4wbk1EQ2hDSExscmZoMUhrWXJ3TkNUYVFjVFNudXE3X3ZaME5jRG10NTVPenlHUWV5WjN1SGhQYWg3VUIxYlJZRlpaUm05Tkx2YkN5RXlITzhWUmxWaGZSRGNpaW03cw?oc=5",
-  "published": "Tue, 07 Jul 2026 15:26:12 GMT",
-  "rule_note": "",
+  "headline": "Saudi Arabia Ships 34 Million Barrels Through Hormuz Despite Thin Tanker Traffic - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMkdObUN2WmE1TDdYVkVsRG5lUmdaZjY3b05YNFJCd1dYOXhfR3pxUDJOcnBQRU14dXJBMVdTM0tEajB6QmdKWW1JU0RicEc1VGFWbEx2bEc4dEw5WU8zOXE1dG02M204UXZOOERmRHNwQVVFOGRPVHBhYllUSHowVVZIN1RLdVRqVmd3NmNCcElhV18zcnRlVi1KVzhWck1YQzJ6VjA5Sm5mVXg3UmRoME9VTzg4S3o4NzFGaE5nTVNuVnNhSUcycDJaSkVuMU53aEHSAdcBQVVfeXFMTVh4VUQzMTl2S0tTSklwUG95YkZKQ3BYblJCMG84UlpzYnlWVmVNUHhVRXJyeGdKcUhWSFMyUDQ5Mm1tTlJLN3JCR2ZyOGpxR3RZWDNDb09pa1JmU3c1Y2d3aWZ6bFJXYTlMelotdlNEUHhEcjBvSDFBQmd6Y2R0Zm5oU3FRWEptZVFGZUJJclBOaWlpT2dydV8zZVJMbVNjTmc1OGVOSmNVWF9yT3g5ZUltXzZHUFRFU2dnaWJ1ZmtFR0IxOERubTVYeTJSQ19CcWxnM3JoV1U?oc=5",
+  "published": "Mon, 06 Jul 2026 20:30:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
-  "severity": 0.08,
-  "rule_id": "opec-cut",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Hormuz oil exodus sets stage for chaotic rebalancing act - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2p4V01TS19VbzhydC1vMzhvNlBuMXdmS0ZyekVuZmk0aU9GVlc2MGM2bFdJQlcxdEZOQVpYeGJqUW5QUVI2am1hY3NrZ2dfSzVPbXVOdE1PM1lMRnE5UkFEdUpfNUVOVjV6VXhaWkhsVEZ6eklsOXpvcUVFdVVRYXBGVy1DaU9hdkZfbU01YkVCakJGX2p0R1JXNmpOenhmNXVlOElWMGczVlo5RkVuOHNwWmQ4Y3pYX3htQ0RR?oc=5",
+  "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
   "source": "keyword-rule"
  },
  {
