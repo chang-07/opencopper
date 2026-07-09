@@ -88,17 +88,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Gulf Oil Output Likely to Rebound Within Months after Hormuz Reopening - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYk1DNEh1M0ZuZHdnRGVOcTB3cXZZUkxVUVVuNDZWZUlyS2dEQVNTbDZ4Nno4LUszbEhVbElYenMtVW13bHA0Zlh2UlpsME5sV3VjREluYVFJSjZHNjl6ZmR2X3NGaUdBSVEzRUpZT0hfWC0xSnpRRkFndXBfcXQ0V3FrajRkODBIaUZOODBJRnNVSTVIWUNKNEcxdTdNMVlhZjBN?oc=5",
-  "published": "Wed, 08 Jul 2026 16:07:30 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Oil prices ease as OPEC+ increases production, Hormuz traffic rebounds - Al-Monitor",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWlSTndqay1xcE13NmRzRDhnZnNXX3RYYmItUjRKbl96djNsLS10aHdFcUk5UjZpUHBfYnY0elFnUUswV05Gd3JWYzM1dlZidDJWVm5Xc0IxSy1mZnBXX0pCcTFnOGVZTXNqQmd4b1NpaV82U0o5cUl4MERvSjNJWWpsVndpVzd4a1laVHg4dFlXRWZvZlNYajJRa0lBYndaWHJHQVRBWVV4S1ZwUm5R?oc=5",
   "published": "Mon, 06 Jul 2026 14:59:21 GMT",
@@ -110,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Jump as Ships Attacked in the Strait of Hormuz - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGc0aVc3MkY2XzRQSlp5QXpxS0hNU1MzWDBVVXRNRDBfcjVFZUFHWTlMdVh5emdXTTRUa3V0OXBaLU4wTXFQUk1FcldhWUM0VmR6SG5xcTJhaTg3cGVrZWJYUGxFU3JRU1RHdGVRczd0YW53MVhoSEx3RjlUZGtkaVkyOGQ1T3E4QU1KYg?oc=5",
-  "published": "Tue, 07 Jul 2026 15:37:06 GMT",
+  "headline": "OPEC+ is raising oil output for a fifth straight month as Strait of Hormuz shipping recovers - qz.com",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVXltSHVDWGlLb1VMMFNCXzVrcnYzTXlnTzctYW92bHQwYUFlVzZEZ01lc0dYZUtzZW1BN2tYWjFNT2tRWVpUNUNIQzM0TkFkc3ZhdEZlX1RLSjNjSjQwVlliYUxyRHZHTWRWaUo2Zw?oc=5",
+  "published": "Mon, 06 Jul 2026 13:43:32 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -121,9 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ is raising oil output for a fifth straight month as Strait of Hormuz shipping recovers - qz.com",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVXltSHVDWGlLb1VMMFNCXzVrcnYzTXlnTzctYW92bHQwYUFlVzZEZ01lc0dYZUtzZW1BN2tYWjFNT2tRWVpUNUNIQzM0TkFkc3ZhdEZlX1RLSjNjSjQwVlliYUxyRHZHTWRWaUo2Zw?oc=5",
-  "published": "Mon, 06 Jul 2026 13:43:32 GMT",
+  "headline": "Gulf Oil Output Likely to Rebound Within Months after Hormuz Reopening - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYk1DNEh1M0ZuZHdnRGVOcTB3cXZZUkxVUVVuNDZWZUlyS2dEQVNTbDZ4Nno4LUszbEhVbElYenMtVW13bHA0Zlh2UlpsME5sV3VjREluYVFJSjZHNjl6ZmR2X3NGaUdBSVEzRUpZT0hfWC0xSnpRRkFndXBfcXQ0V3FrajRkODBIaUZOODBJRnNVSTVIWUNKNEcxdTdNMVlhZjBN?oc=5",
+  "published": "Wed, 08 Jul 2026 16:07:30 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -187,9 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DR Congo\u2019s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5",
-  "published": "Sat, 04 Jul 2026 12:54:02 GMT",
+  "headline": "Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - CNBC Africa",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDduV1dNSzJLcTBRcHNyU05rT2U4SnFZMzJjSkdZSU5jeUtULUxNRkVsUmtFNVFrTDRmYVRHUHk0Zk1UUTBOckp1YUdmSHZ5d1A4YzZ0N2ZkR29jc3VIRkpLXzNpV2dBSjk0UkxxU1hkOWZQUlFRN1Bqc1pGay1qV09vWmZJSzJaWkFudHhZQTJmYkMtSjF6UERhSmZXT3FXdUpYVFlNRDBVZER5S0VRYi1kZ21Fdw?oc=5",
+  "published": "Fri, 03 Jul 2026 23:50:22 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -198,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - CNBC Africa",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDduV1dNSzJLcTBRcHNyU05rT2U4SnFZMzJjSkdZSU5jeUtULUxNRkVsUmtFNVFrTDRmYVRHUHk0Zk1UUTBOckp1YUdmSHZ5d1A4YzZ0N2ZkR29jc3VIRkpLXzNpV2dBSjk0UkxxU1hkOWZQUlFRN1Bqc1pGay1qV09vWmZJSzJaWkFudHhZQTJmYkMtSjF6UERhSmZXT3FXdUpYVFlNRDBVZER5S0VRYi1kZ21Fdw?oc=5",
-  "published": "Fri, 03 Jul 2026 23:50:22 GMT",
+  "headline": "DR Congo\u2019s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5",
+  "published": "Sat, 04 Jul 2026 12:54:02 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
