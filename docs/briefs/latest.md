@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _16 corroborating headline(s):_
 - [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
+- [EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjNITUFKSEJWOUNzcFRzRTRSTG1rSmJBR044ZFpGand5SE5NcG14R1I3cHVBbzduakhyTGVia1EyZlZ4a0hKMl9fVmRSaUl1N2h6dE1JZDNodWFCUmxyWHNxQkhnYkVMLUY0Q2g3cVBHVVEtZ1hvMXlaY1ZlWHl5UkVTX0FwWkJMZVFyLXJxdExzZkJxc0pGX3NLSWxkaGlnTmlyY0doRWZOcW8?oc=5)
 - [Global oil production recovers as Hormuz shipments resume, IEA says - Anadolu Ajansı](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWtWa0NMNkdackhKenVBX3lIOW9zVjRLeHZQSDQ3Z09wMm0wOC1jU1pWUnJjM0UtaWtuNng0bFp6TjM0ZW9iTExTOUppYXZfd1R6WjVyVXJXNGFUZDZKekhxcXBwdjZ2aVBaak0xR1VJWkcyN0Nod2xTZG9pWlY5andOQTI3NEI2NUdndHRvWW5kd3Z6enVWejVpb21PUUZZRTRmUVREZzJqdEk?oc=5)
-- [Gulf Oil Output Likely to Rebound Within Months after Hormuz Reopening - EnergyNow.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYk1DNEh1M0ZuZHdnRGVOcTB3cXZZUkxVUVVuNDZWZUlyS2dEQVNTbDZ4Nno4LUszbEhVbElYenMtVW13bHA0Zlh2UlpsME5sV3VjREluYVFJSjZHNjl6ZmR2X3NGaUdBSVEzRUpZT0hfWC0xSnpRRkFndXBfcXQ0V3FrajRkODBIaUZOODBJRnNVSTVIWUNKNEcxdTdNMVlhZjBN?oc=5)
 - …and 13 more
 
 ## Congo withdraws unused cobalt export quotas - Reuters
