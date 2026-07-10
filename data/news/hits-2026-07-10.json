@@ -99,17 +99,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Global oil production recovers as Hormuz shipments resume: IEA report - Fibre2Fashion",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQclQ1ZDFXMzlnY2dGV0VTdHRqZlRkLWdzTHlHZkpmMWN0UmpvWHB6TWZqWDVfR3dzczdobzdGYkp2cjh2ZlNsQXVXSlZYV1dUaURJS0t6R2htR0dOMXkxZS1uQmVPa1hBeGF6Wi1SSHZ4aGhXVVlkT3pYSjFrN3lVOUxtbldkT09ucmJXMEl6YXN3NGl2OWw2djN3b2hwdTRfZFAza3QyTzRsZDNDYUpEaldRbEQ0VE91by0wTm1yVHg4VkU2UDNHZXZRZVhwMUttaERYOWVR?oc=5",
-  "published": "Fri, 10 Jul 2026 13:49:32 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC+ raises oil output as Strait of Hormuz shipping recovers - Yahoo Finance",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFFrNTZVNEh6OGtzWlNNUlh4QWxVQktpVTVXdlRReE1NRTAtVlNMdkRUREhOWkRvYmhURDFaZmZIQWY1MlEzWHZnRERBX2RSc043bjgyLUVGMnVSNnlob0xrOGZyZjllNGJNaXBISkR3b1VSVDdNNmo0WFI0bkRjS2lkMFQzS2o2V1BsR1dB?oc=5",
   "published": "Mon, 06 Jul 2026 12:13:28 GMT",
@@ -121,9 +110,31 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Global oil production recovers as Hormuz shipments resume: IEA report - Fibre2Fashion",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQclQ1ZDFXMzlnY2dGV0VTdHRqZlRkLWdzTHlHZkpmMWN0UmpvWHB6TWZqWDVfR3dzczdobzdGYkp2cjh2ZlNsQXVXSlZYV1dUaURJS0t6R2htR0dOMXkxZS1uQmVPa1hBeGF6Wi1SSHZ4aGhXVVlkT3pYSjFrN3lVOUxtbldkT09ucmJXMEl6YXN3NGl2OWw2djN3b2hwdTRfZFAza3QyTzRsZDNDYUpEaldRbEQ0VE91by0wTm1yVHg4VkU2UDNHZXZRZVhwMUttaERYOWVR?oc=5",
+  "published": "Fri, 10 Jul 2026 13:49:32 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Oil prices ease as OPEC+ increases production, Hormuz traffic rebounds - Al-Monitor",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWlSTndqay1xcE13NmRzRDhnZnNXX3RYYmItUjRKbl96djNsLS10aHdFcUk5UjZpUHBfYnY0elFnUUswV05Gd3JWYzM1dlZidDJWVm5Xc0IxSy1mZnBXX0pCcTFnOGVZTXNqQmd4b1NpaV82U0o5cUl4MERvSjNJWWpsVndpVzd4a1laVHg4dFlXRWZvZlNYajJRa0lBYndaWHJHQVRBWVV4S1ZwUm5R?oc=5",
   "published": "Mon, 06 Jul 2026 14:59:21 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Saudi, Qatari tankers hit as Strait of Hormuz risks worsen - Al Jazeera",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY09EYjkycFVkd2xiR3o4OUFpRUpzeFg0MC1zczF2bTRlTTgxOU9oenQ1Wm96VUtRcnJsbUNKc2FscTZUTzd1aWJZZFNnU21uY196NVhCM2Q0MTJjc0FZUUFlOUlEeVVTMnlHclU5Z3lHUXczYWVVRXJZZ1JzRGl1QVBDRnRMMWFQSjcwSDllb01Xc3NrUXNzVGZBc214eE5HLTFrWNIBqgFBVV95cUxNeUxUdWZqVlg1bTR3Qk9kS3NZYWxpUTNHbFhUTUdJM0M4TEpnQTJFUXVDRlUtWl9CRUl2cnF6Uk1Ba2o0c1FTV3Fab3ZCN1RnQ2diMTAwQzZ4VEl5dWc0ZVVtaXJHdVBjTTlBMjVfRWtZMGEzQUVKUkFhTlh6alVOWHFBYnhxYkxzelFiMUNlanFCWnI1ckpJdUtFeVJLU0hpMkR5dU5NU19rQQ?oc=5",
+  "published": "Tue, 07 Jul 2026 22:27:25 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -146,17 +157,6 @@
   "headline": "IEA: 2026 Oil Demand to Fall for First Time in 5 Years; Strait of Hormuz Reopening Assumed, but U.S.-Iran Clashes Cloud Outlook - finance.biggo.com",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHYTREQW1jdWFEY0FJUlZELUtBZ28ydTBfSm1PdGNWRXk3azU1YkgwQmhYcV9kclRZWUs2eF9wTFpqU2NCeS12LTcwLVdENVFZcXFSMFkybmljeGhBZGxUYk85enBvVzViTV9vNXZ0TVlWMXVMaGc?oc=5",
   "published": "Fri, 10 Jul 2026 09:16:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Saudi, Qatari tankers hit as Strait of Hormuz risks worsen - Al Jazeera",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY09EYjkycFVkd2xiR3o4OUFpRUpzeFg0MC1zczF2bTRlTTgxOU9oenQ1Wm96VUtRcnJsbUNKc2FscTZUTzd1aWJZZFNnU21uY196NVhCM2Q0MTJjc0FZUUFlOUlEeVVTMnlHclU5Z3lHUXczYWVVRXJZZ1JzRGl1QVBDRnRMMWFQSjcwSDllb01Xc3NrUXNzVGZBc214eE5HLTFrWNIBqgFBVV95cUxNeUxUdWZqVlg1bTR3Qk9kS3NZYWxpUTNHbFhUTUdJM0M4TEpnQTJFUXVDRlUtWl9CRUl2cnF6Uk1Ba2o0c1FTV3Fab3ZCN1RnQ2diMTAwQzZ4VEl5dWc0ZVVtaXJHdVBjTTlBMjVfRWtZMGEzQUVKUkFhTlh6alVOWHFBYnhxYkxzelFiMUNlanFCWnI1ckpJdUtFeVJLU0hpMkR5dU5NU19rQQ?oc=5",
-  "published": "Tue, 07 Jul 2026 22:27:25 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -223,17 +223,6 @@
   "headline": "DR Congo\u2019s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa",
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5",
   "published": "Sat, 04 Jul 2026 12:54:02 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC withdraws unused cobalt export quotas - TRT Afrika",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95eUNnZ19WZGxJQTJjNW10WmJHUWpEaVE3ck0wZ0kyT0Y0TVdOeUR4T09qWFkzWmswU3BldjNyR2lRVEhsRjhLWUMxeF9BZHFJYXQxTmx0cFBVRDQyNnlfUkU2WGE?oc=5",
-  "published": "Mon, 29 Jun 2026 18:39:28 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
