@@ -66,9 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
-  "published": "Sun, 05 Jul 2026 11:29:35 GMT",
+  "headline": "OPEC to boost daily oil production by 188,000 barrels amid Strait of Hormuz disruptions - cbs19.tv",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONkJUMlNkS3A1T3BWU1QwdUhXVzRZM0dsOXdDM0NqemcxNmplYmRTcFprbzV0V2RKX3R6dUQwUmxMZGRBX0tBVzN4ZGpHdW9oLVNxQ2M2SWYyaDJOV05vZ3dOanp5V2ZTcmgwZmxJSkFHcVlwenBYdWRQX0pYdm10TGJ4VFNHTnVmdXJVRm1HdUx3OFB6OEp4VDh5RTAxRWU1N0VHZ280Nk12bUw2eUNRek9OTjN3cDBZZ3E3RTRDa3BZR0pueGRCR3NNTjhxd0h5QmxVa2FnQWNPQkd0M0EzNlBZXzBjVk9mZWZBWV9NMEtYeWlNZEZ5Zg?oc=5",
+  "published": "Mon, 06 Jul 2026 18:03:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC to boost daily oil production by 188,000 barrels amid Strait of Hormuz disruptions - cbs19.tv",
-  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONkJUMlNkS3A1T3BWU1QwdUhXVzRZM0dsOXdDM0NqemcxNmplYmRTcFprbzV0V2RKX3R6dUQwUmxMZGRBX0tBVzN4ZGpHdW9oLVNxQ2M2SWYyaDJOV05vZ3dOanp5V2ZTcmgwZmxJSkFHcVlwenBYdWRQX0pYdm10TGJ4VFNHTnVmdXJVRm1HdUx3OFB6OEp4VDh5RTAxRWU1N0VHZ280Nk12bUw2eUNRek9OTjN3cDBZZ3E3RTRDa3BZR0pueGRCR3NNTjhxd0h5QmxVa2FnQWNPQkd0M0EzNlBZXzBjVk9mZWZBWV9NMEtYeWlNZEZ5Zg?oc=5",
-  "published": "Mon, 06 Jul 2026 18:03:00 GMT",
+  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
+  "published": "Sun, 05 Jul 2026 11:29:35 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -154,17 +154,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "IEA: 2026 Oil Demand to Fall for First Time in 5 Years; Strait of Hormuz Reopening Assumed, but U.S.-Iran Clashes Cloud Outlook - finance.biggo.com",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHYTREQW1jdWFEY0FJUlZELUtBZ28ydTBfSm1PdGNWRXk3azU1YkgwQmhYcV9kclRZWUs2eF9wTFpqU2NCeS12LTcwLVdENVFZcXFSMFkybmljeGhBZGxUYk85enBvVzViTV9vNXZ0TVlWMXVMaGc?oc=5",
-  "published": "Fri, 10 Jul 2026 09:16:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "With Hormuz reopened, has the oil shortage turned into a glut? - Al Jazeera",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOW8zOUZMYnVCVi1hdkI1azRmRlhrV0l6NTVYdmhjaXRNNmJUdUp4Z2Rzcko2c2JyWGl0UklWN1NpS3pyWFNlZU5qelpuM2NPc1JveFJpNTVmZXVzRF84VkJsZEdzMl8tM01GdTVaLUV0d3NBSk1MWDRPaDUzTUNMMnl3dDZxWEVpUTU4SE5HSUVwd3NsTms4VXlwZ1JWVThJTnfSAacBQVVfeXFMT29obURrRzhQaElSOTVKUlpSdkhJYkhMaUh5OXc2VlYzRi1DM3RhRlAtRUNBbWVMQUppY2RpTFpTZ25Qc19adFlRemRLQzllMGtfNnI0RDVWLVd2LWRLX1hhV0hNeE5qclA4aTJUZkN0SC13YlowT01yYXFwLXJ4bTBIcVY1RDFWdXJyOTZMQ0dld2YtT3FhMFVhN3BVTzhBa2p2NHhEUHc?oc=5",
   "published": "Thu, 02 Jul 2026 13:50:21 GMT",
@@ -198,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - CNBC Africa",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDduV1dNSzJLcTBRcHNyU05rT2U4SnFZMzJjSkdZSU5jeUtULUxNRkVsUmtFNVFrTDRmYVRHUHk0Zk1UUTBOckp1YUdmSHZ5d1A4YzZ0N2ZkR29jc3VIRkpLXzNpV2dBSjk0UkxxU1hkOWZQUlFRN1Bqc1pGay1qV09vWmZJSzJaWkFudHhZQTJmYkMtSjF6UERhSmZXT3FXdUpYVFlNRDBVZER5S0VRYi1kZ21Fdw?oc=5",
-  "published": "Fri, 03 Jul 2026 23:50:22 GMT",
+  "headline": "Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5",
+  "published": "Fri, 03 Jul 2026 14:45:43 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -228,6 +217,28 @@
   "country": "Congo (Kinshasa)",
   "severity": 0.4,
   "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "DRC withdraws unused cobalt export quotas - TRT Afrika",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95eUNnZ19WZGxJQTJjNW10WmJHUWpEaVE3ck0wZ0kyT0Y0TVdOeUR4T09qWFkzWmswU3BldjNyR2lRVEhsRjhLWUMxeF9BZHFJYXQxTmx0cFBVRDQyNnlfUkU2WGE?oc=5",
+  "published": "Mon, 29 Jun 2026 18:39:28 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia's Grain Export Route Halted Amidst Conflict - Devdiscourse",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanl4RXFzZmZzUHMzMl84SlRia2JDUkFqWXBiR2JCZ3RvV0JCUTVUZ0pCZThBM21pQzU5emxJUm5LVjJJUHdtSU5hcUhxbFRZMjFBSlphYXYtaFBaQTdLSWdFRlN4MFh6Uk9EUy1EWllDRVdZRnQ3Z2ZEaTFCQVdLYW4tTzNGenltTlBRb1p2QUlMVkNUeF84WkFlblNIcFVNRTJKVkp1M1VOTlnSAasBQVVfeXFMUGp5eEVxc2Zmc1BzMzJfOEpUYmtiQ1JBallwYkdiQmd0b1dCQlE1VGdKQmU4QTNtaUM1OXpsSVJuS1YySVB3bUlOYXFIcWxUWTIxQUpaYWF2LWhQWkE3S0lnRUZTeDBYelJPRFMtRFpZQ0VXWUZ0N2dmRGkxQkFXS2FuLU8zRnp5bU5QUW9adkFJTFZDVHhfOFpBZW5TSHBVTUUySlZKdTNVTk5Z?oc=5",
+  "published": "Fri, 10 Jul 2026 19:56:24 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  },
  {
