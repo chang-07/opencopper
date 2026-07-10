@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_15 corroborating headline(s):_
-- [Global oil production recovers as Hormuz shipments resume, IEA says - Anadolu Ajansı](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWtWa0NMNkdackhKenVBX3lIOW9zVjRLeHZQSDQ3Z09wMm0wOC1jU1pWUnJjM0UtaWtuNng0bFp6TjM0ZW9iTExTOUppYXZfd1R6WjVyVXJXNGFUZDZKekhxcXBwdjZ2aVBaak0xR1VJWkcyN0Nod2xTZG9pWlY5andOQTI3NEI2NUdndHRvWW5kd3Z6enVWejVpb21PUUZZRTRmUVREZzJqdEk?oc=5)
+_16 corroborating headline(s):_
 - [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
-- [EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5)
-- …and 12 more
+- [Global oil production recovers as Hormuz shipments resume, IEA says - Anadolu Ajansı](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWtWa0NMNkdackhKenVBX3lIOW9zVjRLeHZQSDQ3Z09wMm0wOC1jU1pWUnJjM0UtaWtuNng0bFp6TjM0ZW9iTExTOUppYXZfd1R6WjVyVXJXNGFUZDZKekhxcXBwdjZ2aVBaak0xR1VJWkcyN0Nod2xTZG9pWlY5andOQTI3NEI2NUdndHRvWW5kd3Z6enVWejVpb21PUUZZRTRmUVREZzJqdEk?oc=5)
+- [Gulf Oil Output Likely to Rebound Within Months after Hormuz Reopening - EnergyNow.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYk1DNEh1M0ZuZHdnRGVOcTB3cXZZUkxVUVVuNDZWZUlyS2dEQVNTbDZ4Nno4LUszbEhVbElYenMtVW13bHA0Zlh2UlpsME5sV3VjREluYVFJSjZHNjl6ZmR2X3NGaUdBSVEzRUpZT0hfWC0xSnpRRkFndXBfcXQ0V3FrajRkODBIaUZOODBJRnNVSTVIWUNKNEcxdTdNMVlhZjBN?oc=5)
+- …and 13 more
 
 ## Congo withdraws unused cobalt export quotas - Reuters
 *Mon, 29 Jun 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkFfNC1NQldLdTdlT04tR2dRRElmRUg3endBUVgyT3Rpb2psS2xBUy1QSUtPT05ndkJIYmE0dm9BREdKMzFWdlY0LWpONUhZN1Y0ejlvaWR0Q2dLRUZkZDZGUzFUUTFoSV9zQWt4OVF3RFhvUm5tZkFGbXNINnVXOHROOFl0SHQ5aUFnaFZwZjVtRnF0eTU0?oc=5)
