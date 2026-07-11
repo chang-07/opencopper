@@ -132,6 +132,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Crude Oil Market Slips as Strait of Hormuz Shipping Outlook Improves | - Business Post Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazNPTmZqOWJEVVRlNkdBOFpPUWpmd2V5Nl8yZ2Z6cVhVeWptRTlCUnJYZVVuRzRJV0I3VFRfSGlGdXZSZmRmSTVTbFhwd19JUmh4VTdDZlBBYzNXbkVGV0NYOFNFWGFXVmZhRFRqRkZBV1hpcnR2ZXlpQW1nMlZfVkR0NVlOU2ZYaUF4a3lsdUZJOW1rTHFpLVdpSGoyT2w2dFdB?oc=5",
+  "published": "Sat, 11 Jul 2026 21:18:26 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "With Hormuz reopened, has the oil shortage turned into a glut? - Al Jazeera",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOW8zOUZMYnVCVi1hdkI1azRmRlhrV0l6NTVYdmhjaXRNNmJUdUp4Z2Rzcko2c2JyWGl0UklWN1NpS3pyWFNlZU5qelpuM2NPc1JveFJpNTVmZXVzRF84VkJsZEdzMl8tM01GdTVaLUV0d3NBSk1MWDRPaDUzTUNMMnl3dDZxWEVpUTU4SE5HSUVwd3NsTms4VXlwZ1JWVThJTnfSAacBQVVfeXFMT29obURrRzhQaElSOTVKUlpSdkhJYkhMaUh5OXc2VlYzRi1DM3RhRlAtRUNBbWVMQUppY2RpTFpTZ25Qc19adFlRemRLQzllMGtfNnI0RDVWLVd2LWRLX1hhV0hNeE5qclA4aTJUZkN0SC13YlowT01yYXFwLXJ4bTBIcVY1RDFWdXJyOTZMQ0dld2YtT3FhMFVhN3BVTzhBa2p2NHhEUHc?oc=5",
   "published": "Thu, 02 Jul 2026 07:00:00 GMT",
@@ -143,20 +154,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Saudi Arabia Explores East-West Pipeline Expansion to Bypass Strait of Hormuz - Egypt Oil & Gas",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemFrSHUxMlNHQWRjWXhrOGVTQWtfU2hBUV8weWxsbm1ZMkZJMGFJNDE3WkMtZUVCOU4yYUJMQ2lKa1NnQWFSUmdXSGRNSklKeWdMZjBoenBLLTVWb3UxZXoyemhVRWxhaFJZYzlJelBON0psOC1ubTkwUThOZGo0b3N2ZDNtOWY2MEJ5QWFzdzNCRmFFQ2JQSEZuT2NnQzBJY2d1SGZTclVxbEN4?oc=5",
-  "published": "Wed, 08 Jul 2026 05:43:52 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Crude Oil Market Slips as Strait of Hormuz Shipping Outlook Improves | - Business Post Nigeria",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazNPTmZqOWJEVVRlNkdBOFpPUWpmd2V5Nl8yZ2Z6cVhVeWptRTlCUnJYZVVuRzRJV0I3VFRfSGlGdXZSZmRmSTVTbFhwd19JUmh4VTdDZlBBYzNXbkVGV0NYOFNFWGFXVmZhRFRqRkZBV1hpcnR2ZXlpQW1nMlZfVkR0NVlOU2ZYaUF4a3lsdUZJOW1rTHFpLVdpSGoyT2w2dFdB?oc=5",
-  "published": "Sat, 11 Jul 2026 15:18:26 GMT",
+  "headline": "Hormuz oil exodus sets stage for chaotic rebalancing act - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2p4V01TS19VbzhydC1vMzhvNlBuMXdmS0ZyekVuZmk0aU9GVlc2MGM2bFdJQlcxdEZOQVpYeGJqUW5QUVI2am1hY3NrZ2dfSzVPbXVOdE1PM1lMRnE5UkFEdUpfNUVOVjV6VXhaWkhsVEZ6eklsOXpvcUVFdVVRYXBGVy1DaU9hdkZfbU01YkVCakJGX2p0R1JXNmpOenhmNXVlOElWMGczVlo5RkVuOHNwWmQ4Y3pYX3htQ0RR?oc=5",
+  "published": "Mon, 29 Jun 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
