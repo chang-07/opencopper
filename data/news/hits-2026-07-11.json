@@ -66,17 +66,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
-  "published": "Sun, 05 Jul 2026 11:29:35 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Global oil production recovers as Hormuz shipments resume, IEA says - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTWtWa0NMNkdackhKenVBX3lIOW9zVjRLeHZQSDQ3Z09wMm0wOC1jU1pWUnJjM0UtaWtuNng0bFp6TjM0ZW9iTExTOUppYXZfd1R6WjVyVXJXNGFUZDZKekhxcXBwdjZ2aVBaak0xR1VJWkcyN0Nod2xTZG9pWlY5andOQTI3NEI2NUdndHRvWW5kd3Z6enVWejVpb21PUUZZRTRmUVREZzJqdEk?oc=5",
   "published": "Fri, 10 Jul 2026 08:56:52 GMT",
@@ -121,9 +110,31 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
+  "published": "Sun, 05 Jul 2026 11:29:35 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Saudi, Qatari tankers hit as Strait of Hormuz risks worsen - Al Jazeera",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY09EYjkycFVkd2xiR3o4OUFpRUpzeFg0MC1zczF2bTRlTTgxOU9oenQ1Wm96VUtRcnJsbUNKc2FscTZUTzd1aWJZZFNnU21uY196NVhCM2Q0MTJjc0FZUUFlOUlEeVVTMnlHclU5Z3lHUXczYWVVRXJZZ1JzRGl1QVBDRnRMMWFQSjcwSDllb01Xc3NrUXNzVGZBc214eE5HLTFrWNIBqgFBVV95cUxNeUxUdWZqVlg1bTR3Qk9kS3NZYWxpUTNHbFhUTUdJM0M4TEpnQTJFUXVDRlUtWl9CRUl2cnF6Uk1Ba2o0c1FTV3Fab3ZCN1RnQ2diMTAwQzZ4VEl5dWc0ZVVtaXJHdVBjTTlBMjVfRWtZMGEzQUVKUkFhTlh6alVOWHFBYnhxYkxzelFiMUNlanFCWnI1ckpJdUtFeVJLU0hpMkR5dU5NU19rQQ?oc=5",
   "published": "Tue, 07 Jul 2026 22:27:25 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Crude Oil Market Slips as Strait of Hormuz Shipping Outlook Improves | - Business Post Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazNPTmZqOWJEVVRlNkdBOFpPUWpmd2V5Nl8yZ2Z6cVhVeWptRTlCUnJYZVVuRzRJV0I3VFRfSGlGdXZSZmRmSTVTbFhwd19JUmh4VTdDZlBBYzNXbkVGV0NYOFNFWGFXVmZhRFRqRkZBV1hpcnR2ZXlpQW1nMlZfVkR0NVlOU2ZYaUF4a3lsdUZJOW1rTHFpLVdpSGoyT2w2dFdB?oc=5",
+  "published": "Sat, 11 Jul 2026 15:18:26 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -165,42 +176,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5",
-  "published": "Fri, 03 Jul 2026 14:45:43 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5",
-  "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC withdraws unused cobalt export quotas - TRT Afrika",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95eUNnZ19WZGxJQTJjNW10WmJHUWpEaVE3ck0wZ0kyT0Y0TVdOeUR4T09qWFkzWmswU3BldjNyR2lRVEhsRjhLWUMxeF9BZHFJYXQxTmx0cFBVRDQyNnlfUkU2WGE?oc=5",
-  "published": "Mon, 29 Jun 2026 18:39:28 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
   "headline": "DR Congo\u2019s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa",
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5",
   "published": "Sat, 04 Jul 2026 12:54:02 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5",
+  "published": "Fri, 03 Jul 2026 14:45:43 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
