@@ -23,7 +23,7 @@
  },
  {
   "headline": "EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjNITUFKSEJWOUNzcFRzRTRSTG1rSmJBR044ZFpGand5SE5NcG14R1I3cHVBbzduakhyTGVia1EyZlZ4a0hKMl9fVmRSaUl1N2h6dE1JZDNodWFCUmxyWHNxQkhnYkVMLUY0Q2g3cVBHVVEtZ1hvMXlaY1ZlWHl5UkVTX0FwWkJMZVFyLXJxdExzZkJxc0pGX3NLSWxkaGlnTmlyY0doRWZOcW8?oc=5",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5",
   "published": "Tue, 07 Jul 2026 18:54:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
@@ -143,17 +143,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Market Slips as Strait of Hormuz Shipping Outlook Improves | - Business Post Nigeria",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazNPTmZqOWJEVVRlNkdBOFpPUWpmd2V5Nl8yZ2Z6cVhVeWptRTlCUnJYZVVuRzRJV0I3VFRfSGlGdXZSZmRmSTVTbFhwd19JUmh4VTdDZlBBYzNXbkVGV0NYOFNFWGFXVmZhRFRqRkZBV1hpcnR2ZXlpQW1nMlZfVkR0NVlOU2ZYaUF4a3lsdUZJOW1rTHFpLVdpSGoyT2w2dFdB?oc=5",
-  "published": "Sat, 11 Jul 2026 10:12:49 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Saudi Arabia Explores East-West Pipeline Expansion to Bypass Strait of Hormuz - Egypt Oil & Gas",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemFrSHUxMlNHQWRjWXhrOGVTQWtfU2hBUV8weWxsbm1ZMkZJMGFJNDE3WkMtZUVCOU4yYUJMQ2lKa1NnQWFSUmdXSGRNSklKeWdMZjBoenBLLTVWb3UxZXoyemhVRWxhaFJZYzlJelBON0psOC1ubTkwUThOZGo0b3N2ZDNtOWY2MEJ5QWFzdzNCRmFFQ2JQSEZuT2NnQzBJY2d1SGZTclVxbEN4?oc=5",
   "published": "Wed, 08 Jul 2026 05:43:52 GMT",
@@ -179,6 +168,28 @@
   "headline": "Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5",
   "published": "Fri, 03 Jul 2026 14:45:43 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5",
+  "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "DRC withdraws unused cobalt export quotas - TRT Afrika",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95eUNnZ19WZGxJQTJjNW10WmJHUWpEaVE3ck0wZ0kyT0Y0TVdOeUR4T09qWFkzWmswU3BldjNyR2lRVEhsRjhLWUMxeF9BZHFJYXQxTmx0cFBVRDQyNnlfUkU2WGE?oc=5",
+  "published": "Mon, 29 Jun 2026 18:39:28 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
