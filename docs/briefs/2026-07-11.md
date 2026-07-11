@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
+_16 corroborating headline(s):_
 - [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
 - [EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjNITUFKSEJWOUNzcFRzRTRSTG1rSmJBR044ZFpGand5SE5NcG14R1I3cHVBbzduakhyTGVia1EyZlZ4a0hKMl9fVmRSaUl1N2h6dE1JZDNodWFCUmxyWHNxQkhnYkVMLUY0Q2g3cVBHVVEtZ1hvMXlaY1ZlWHl5UkVTX0FwWkJMZVFyLXJxdExzZkJxc0pGX3NLSWxkaGlnTmlyY0doRWZOcW8?oc=5)
-- [Oil Prices Rally on Renewed Hormuz Supply Risks - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHptbG1ianVmSlpOZVBlM294cGNHVEx0djNuX0c4Z0NydGZ2TDlhN2dRMnlMOW1xYTVyenVWOTl0SXJEQURwNVZGcUxLQ21hMktJaGNaSGo4N2dsbU9vYmY2dnZtcjYzNzU4NTJFaURIWkV0Z3h5TmlkZU9oX2pkQnpEMkNtVlBKTHlEOTA4Z0t6VGFHMmpaTHNjb9IBoAFBVV95cUxPMDdoMDBkYlMtQ2xvRUpQdEd5NWMwR3Y4UGNCMzFVSXhPNHVRMkVIT2xiU2kxWGxOSmFhWms1REU0aXBMbkplN3IzU0VhQl9UcWsxUEVwNlNQdURPa2xvWHpwSHczR3lTMmtoZnVrX3YwNXJWYWRoc2dGeHJ3R3daRGhVd3NYemlpNUhVU0g0RUktUjJMVTRIeUxHaUNhOGRf?oc=5)
-- …and 7 more
+- [EIA increases global oil production forecast after the opening of the Strait of Hormuz - Hydrocarbon Engineering](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFFNbUJOM0h2OGlOQ3ZlRm9iOGZQQy1nSTdFRXYtbFFHR2FUWUIxWDdZdkFOTld0Z3BKOVlaOTR2MDB0OHgxNnprRjdlc29zSDNVSkF4STQ4eUUwLTZ2VXZIWDdfYnF4aEdXSjZ0X29ieUhZN1BsT1I1SHhPT1ZxUDRYY19GbWpjTTVYT3NUYVQ2d19TM3FBX1NlZTJETUQzNWVWTFNVaUhkdXBjZnlsUmludUdCYWJ0ZDRCbzVNUFA5dXRiNXZhVjFtSmh0bUJfSGRPaVd3M0NRYmtt0gHiAUFVX3lxTE9sY0Y5aXlGeWZBdzJkWWh4UE5lWGNzTXB3d3ZsMGcwQUNUU3JrVHlkMm02anc4S2h1c3RsYzVMbzEySTNIaFg4amtGcFN4aGlVS3dNb0toM2pjNzlILWpvQUJuSTh5WDJUYlp1aTVCSnc1NFNSY3JPVERSVkNmb1RMUmV6T1ljSjdEdXZsbnB4WlJXYUlxN1hYdWk0M1JNQ0o1T2EtT0JWWmROcGRMRVRBRVdoN1RFQ21kcjlWcGNqTy1ud3didm1DOTR0Q0hKc3c0UVBOT083T3lVaUFYYThWcXc?oc=5)
+- …and 13 more
 
 ## Congo withdraws unused cobalt export quotas - Reuters
 *Mon, 29 Jun 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkFfNC1NQldLdTdlT04tR2dRRElmRUg3endBUVgyT3Rpb2psS2xBUy1QSUtPT05ndkJIYmE0dm9BREdKMzFWdlY0LWpONUhZN1Y0ejlvaWR0Q2dLRUZkZDZGUzFUUTFoSV9zQWt4OVF3RFhvUm5tZkFGbXNINnVXOHROOFl0SHQ5aUFnaFZwZjVtRnF0eTU0?oc=5)
@@ -43,11 +43,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5)
-- [Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5)
-- [DRC withdraws unused cobalt export quotas - TRT Afrika](https://news.google.com/rss/articles/CBMiZEFVX3lxTE95eUNnZ19WZGxJQTJjNW10WmJHUWpEaVE3ck0wZ0kyT0Y0TVdOeUR4T09qWFkzWmswU3BldjNyR2lRVEhsRjhLWUMxeF9BZHFJYXQxTmx0cFBVRDQyNnlfUkU2WGE?oc=5)
-- …and 1 more
+- [DR Congo’s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5)
 
 ## Black Sea Wheat Market: Can Russia Manage Fuel And Export Challenges? - UkrAgroConsult
 *Wed, 08 Jul 2026 08:31:28 GMT* — [source](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3ZuTnM5dFFtYkljUFRWQnBpaWVBRTJKS3YwRldMQTk4SXNDOGR1bEU5VmtKRUV5TkgtRU95S2hEaTBXR3lFV3l3YjZaclI4QUZ5cEtXN3FST0Z1NU82ci02aUNoOGxQX25tOVhWM2lVQlNrSnYwZnQwcl9zRmlaa3F2S2c0UU11VF8wRmpFdXdEbUI0UmdGcjlJRlR1OTdyWmJuUTFB?oc=5)
