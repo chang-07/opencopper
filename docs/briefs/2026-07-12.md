@@ -22,8 +22,8 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _14 corroborating headline(s):_
-- [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
 - [After Iran Says Strait of Hormuz Is Closed Again, Oil’s Risk to Economy Rises Once More - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUENjWUowR2todHRPWF96dzNyRXZfSEh3U0JzVUNiQkxtSlpJaFZMNEl3WGdxTzgxc1ZjT0FUVzlKQTNaZlMyX1U0VnNaSDBWVmZlcW9GbkFJZUxfVnQ4NmNHUWNWajVxU3ZhcEZWY09ldzBncUV6ZTNwWE1ycy1pZURfU2NSWVdzMVhZUmlkaTg4QVlCLTlvcDdIZ2lYR01nNnN6SUdBdThQTE9qSV85OWt4eHJYWWxHZ1pJQVhWSjlOV1I1V202aA?oc=5)
+- [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
 - [EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5)
 - …and 11 more
 
@@ -63,8 +63,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
-- [Russian attacks could slash Ukraine grain exports - The Western Producer](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5)
+_2 corroborating headline(s):_
 - [EU wheat jumps on talk of disruption to Russian export route - Business Recorder](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FWFM0R0oyQzZkTmZKSE4zbGptZkJwWXB3RERRMHd3cjgwSHVFYmFaY1VYZmdmNHU3MlA1c1dpV2FEa3BXbV9DVHBua3Q1Qzh5TnlCTjdB0gFWQVVfeXFMTUVYUzRHSjJDNmROZkpITjNsam1mQnBZcHdERFEwd3dyODBIdUViYVpjVVhmZ2Y0dTcyUDVzV2lXYURrcFdtX0NUcG5rdDVDOHlOeUJON0E?oc=5)
 - [Russia's Grain Export Route Halted Amidst Conflict - Devdiscourse](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanl4RXFzZmZzUHMzMl84SlRia2JDUkFqWXBiR2JCZ3RvV0JCUTVUZ0pCZThBM21pQzU5emxJUm5LVjJJUHdtSU5hcUhxbFRZMjFBSlphYXYtaFBaQTdLSWdFRlN4MFh6Uk9EUy1EWllDRVdZRnQ3Z2ZEaTFCQVdLYW4tTzNGenltTlBRb1p2QUlMVkNUeF84WkFlblNIcFVNRTJKVkp1M1VOTlnSAasBQVVfeXFMUGp5eEVxc2Zmc1BzMzJfOEpUYmtiQ1JBallwYkdiQmd0b1dCQlE1VGdKQmU4QTNtaUM1OXpsSVJuS1YySVB3bUlOYXFIcWxUWTIxQUpaYWF2LWhQWkE3S0lnRUZTeDBYelJPRFMtRFpZQ0VXWUZ0N2dmRGkxQkFXS2FuLU8zRnp5bU5QUW9adkFJTFZDVHhfOFpBZW5TSHBVTUUySlZKdTNVTk5Z?oc=5)
 
