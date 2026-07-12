@@ -33,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5",
-  "published": "Tue, 07 Jul 2026 18:54:03 GMT",
+  "headline": "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5",
+  "published": "Sun, 05 Jul 2026 11:24:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -44,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5",
-  "published": "Sun, 05 Jul 2026 11:24:00 GMT",
+  "headline": "EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5",
+  "published": "Tue, 07 Jul 2026 18:54:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -256,17 +256,6 @@
   "headline": "Black Sea Wheat Market: Can Russia Manage Fuel And Export Challenges? - UkrAgroConsult",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3ZuTnM5dFFtYkljUFRWQnBpaWVBRTJKS3YwRldMQTk4SXNDOGR1bEU5VmtKRUV5TkgtRU95S2hEaTBXR3lFV3l3YjZaclI4QUZ5cEtXN3FST0Z1NU82ci02aUNoOGxQX25tOVhWM2lVQlNrSnYwZnQwcl9zRmlaa3F2S2c0UU11VF8wRmpFdXdEbUI0UmdGcjlJRlR1OTdyWmJuUTFB?oc=5",
   "published": "Wed, 08 Jul 2026 08:31:28 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russian attacks could slash Ukraine grain exports - The Western Producer",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5",
-  "published": "Wed, 01 Jul 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
