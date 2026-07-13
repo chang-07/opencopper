@@ -24,11 +24,11 @@ band is wide, the elasticities are doing the work, not the event.
 _16 corroborating headline(s):_
 - [Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5)
 - [Oil prices jump as US and Iran clash over Strait of Hormuz - Crypto Briefing](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTNHbThneDc2Sm9xOEdyN0huYjVQSUtPU2JXX216c0JuekZ3NEZ2ajJ5VnhON0NUX2lLWmEzNDJZcDNmVWh0a1RHdGh4WFowa3ctLTB4WkdURFVHNWM5VXk0Y0RWNjdtbEQ2aE9CcWJHalRrTWtJeEtJMWFBbXI1Y2xOcFUwb0pmdHFaN1NjVQ?oc=5)
-- [After Iran Says Strait of Hormuz Is Closed Again, Oil’s Risk to Economy Rises Once More - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUENjWUowR2todHRPWF96dzNyRXZfSEh3U0JzVUNiQkxtSlpJaFZMNEl3WGdxTzgxc1ZjT0FUVzlKQTNaZlMyX1U0VnNaSDBWVmZlcW9GbkFJZUxfVnQ4NmNHUWNWajVxU3ZhcEZWY09ldzBncUV6ZTNwWE1ycy1pZURfU2NSWVdzMVhZUmlkaTg4QVlCLTlvcDdIZ2lYR01nNnN6SUdBdThQTE9qSV85OWt4eHJYWWxHZ1pJQVhWSjlOV1I1V202aA?oc=5)
+- [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
 - …and 13 more
 
-## Congo withdraws unused cobalt export quotas - Reuters
-*Mon, 29 Jun 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkFfNC1NQldLdTdlT04tR2dRRElmRUg3endBUVgyT3Rpb2psS2xBUy1QSUtPT05ndkJIYmE0dm9BREdKMzFWdlY0LWpONUhZN1Y0ejlvaWR0Q2dLRUZkZDZGUzFUUTFoSV9zQWt4OVF3RFhvUm5tZkFGbXNINnVXOHROOFl0SHQ5aUFnaFZwZjVtRnF0eTU0?oc=5)
+## Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters
+*Fri, 03 Jul 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
 
 ```
@@ -43,10 +43,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
-- [Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5)
+_2 corroborating headline(s):_
+- [DRC withdraws unused cobalt export quotas - TRT Afrika](https://news.google.com/rss/articles/CBMiZEFVX3lxTE95eUNnZ19WZGxJQTJjNW10WmJHUWpEaVE3ck0wZ0kyT0Y0TVdOeUR4T09qWFkzWmswU3BldjNyR2lRVEhsRjhLWUMxeF9BZHFJYXQxTmx0cFBVRDQyNnlfUkU2WGE?oc=5)
 - [DR Congo’s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5)
-- [Congo orders cobalt miners to forfeit unused export quotas - Crypto Briefing](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXNCYXdZU2JYalhOeDVLZHYxeldFQzVxR0ozOVlUcDI0UEdEUkt3alBZZy1feUdIeG5URnduVHJpd3UyN2loZFp3ZDR2NklDODVGcWVFQXJrQ1d6aWpteUxvOW1FVDktQXVmOUR1a016UWdKXzR3Ml81c1dQX0gxb2FR?oc=5)
 
 ## Russia and Ukraine Strikes Hit Key Grain Sea Export Ports - gCaptain
 *Sun, 12 Jul 2026 18:28:19 GMT* — [source](https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkdGY0tIbkVqVFRZRUF1V21JRkp6Zm1CX3VPNl9uNENIUUduZEUwV1QwZ0Juc2w3eTk4TFNUMXZoTkdMZHM0bG1kaFNLWHkya2xGUkFBV1hNM1QxSVZZOU1sa3pqMzlkS3pJdG5DTTNkZUYzU2hqZlVNd04xZm02dGs1U3dYdw?oc=5)
@@ -64,11 +63,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [EU Wheat Jumps on Talk of Disruption to Russian Export Route - Marine News Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWQyYk5obW04aVVHYzB6c0Q1OU9BLVRVZ3VwY2cxWlc4cHlJaVpvLXhXTVd0c2p0bVJidnFxaW1oRkZIQ2s1Q21kRS1RdEJ3NDVHbkhBcHpvT2k2RE01djhoaDdZcVVCM3lSUHhpT3d5YmF3ckphZkU4ODhwV1YyN0hrdzFaejd5YVNnTkItZ2VGMzRCTWM1eGlwWGtFLWIzRDlJVFotOFA?oc=5)
 - [Black Sea Wheat Market: Can Russia Manage Fuel And Export Challenges? - UkrAgroConsult](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3ZuTnM5dFFtYkljUFRWQnBpaWVBRTJKS3YwRldMQTk4SXNDOGR1bEU5VmtKRUV5TkgtRU95S2hEaTBXR3lFV3l3YjZaclI4QUZ5cEtXN3FST0Z1NU82ci02aUNoOGxQX25tOVhWM2lVQlNrSnYwZnQwcl9zRmlaa3F2S2c0UU11VF8wRmpFdXdEbUI0UmdGcjlJRlR1OTdyWmJuUTFB?oc=5)
-- [Russia's Grain Export Route Halted Amidst Conflict - Devdiscourse](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanl4RXFzZmZzUHMzMl84SlRia2JDUkFqWXBiR2JCZ3RvV0JCUTVUZ0pCZThBM21pQzU5emxJUm5LVjJJUHdtSU5hcUhxbFRZMjFBSlphYXYtaFBaQTdLSWdFRlN4MFh6Uk9EUy1EWllDRVdZRnQ3Z2ZEaTFCQVdLYW4tTzNGenltTlBRb1p2QUlMVkNUeF84WkFlblNIcFVNRTJKVkp1M1VOTlnSAasBQVVfeXFMUGp5eEVxc2Zmc1BzMzJfOEpUYmtiQ1JBallwYkdiQmd0b1dCQlE1VGdKQmU4QTNtaUM1OXpsSVJuS1YySVB3bUlOYXFIcWxUWTIxQUpaYWF2LWhQWkE3S0lnRUZTeDBYelJPRFMtRFpZQ0VXWUZ0N2dmRGkxQkFXS2FuLU8zRnp5bU5QUW9adkFJTFZDVHhfOFpBZW5TSHBVTUUySlZKdTNVTk5Z?oc=5)
-- …and 1 more
+- [Russian attacks could slash Ukraine grain exports - The Western Producer](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5)
+- …and 2 more
 
 ---
 
