@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _16 corroborating headline(s):_
 - [Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5)
-- [Oil prices jump as US and Iran clash over Strait of Hormuz - Crypto Briefing](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTNHbThneDc2Sm9xOEdyN0huYjVQSUtPU2JXX216c0JuekZ3NEZ2ajJ5VnhON0NUX2lLWmEzNDJZcDNmVWh0a1RHdGh4WFowa3ctLTB4WkdURFVHNWM5VXk0Y0RWNjdtbEQ2aE9CcWJHalRrTWtJeEtJMWFBbXI1Y2xOcFUwb0pmdHFaN1NjVQ?oc=5)
 - [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
+- [Strait of Hormuz disruption drives crude oil prices higher - Crypto Briefing](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWkM4bjVmck9McG5OSV80SEtsSnhGcUg3cmoyTkhINHJqekVpUUFTOXItX3BLYUxxbnF6LXpySndBZTYyNnBndjRGNllVSEhQejVSU0E0UUR1cmVFRWpsQmxDb21JZ1JZUTIxLTBhdFlJSTcwNVhHV0Zaa2t4dUF6enl4dUZfWDY3NjNxcVB1UQ?oc=5)
 - …and 13 more
 
 ## Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters
@@ -63,11 +63,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_4 corroborating headline(s):_
 - [EU Wheat Jumps on Talk of Disruption to Russian Export Route - Marine News Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWQyYk5obW04aVVHYzB6c0Q1OU9BLVRVZ3VwY2cxWlc4cHlJaVpvLXhXTVd0c2p0bVJidnFxaW1oRkZIQ2s1Q21kRS1RdEJ3NDVHbkhBcHpvT2k2RE01djhoaDdZcVVCM3lSUHhpT3d5YmF3ckphZkU4ODhwV1YyN0hrdzFaejd5YVNnTkItZ2VGMzRCTWM1eGlwWGtFLWIzRDlJVFotOFA?oc=5)
 - [Black Sea Wheat Market: Can Russia Manage Fuel And Export Challenges? - UkrAgroConsult](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3ZuTnM5dFFtYkljUFRWQnBpaWVBRTJKS3YwRldMQTk4SXNDOGR1bEU5VmtKRUV5TkgtRU95S2hEaTBXR3lFV3l3YjZaclI4QUZ5cEtXN3FST0Z1NU82ci02aUNoOGxQX25tOVhWM2lVQlNrSnYwZnQwcl9zRmlaa3F2S2c0UU11VF8wRmpFdXdEbUI0UmdGcjlJRlR1OTdyWmJuUTFB?oc=5)
 - [Russian attacks could slash Ukraine grain exports - The Western Producer](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5)
-- …and 2 more
+- …and 1 more
 
 ---
 
