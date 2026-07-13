@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _17 corroborating headline(s):_
-- [Shipping through Strait of Hormuz falls to lowest level in several weeks - Middle East Monitor](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTEwS1Jnc1c0blJvRmtlczMyQTJoQms3WDlvMHBROUZUc2w0SUJfZEZjTThPOUZLajNEVUxNOG56ZHJITkFkVHJzYmJqYXdQb3NaQ0RtdzZDZ2c3RS01LVJ6U3ZWR0xWSlZYV2REZlhtU05rcFVFY05nLU1NdnNRSG9nU05Gdm9Xa3p0RFZHeEtOZFREeUxMZDFwakNETFRjU19jTHBObEZack1TRXVxUmYwVkpRUjjSAbwBQVVfeXFMUDRtMXd5WU8tZ1pFTXB2N2MzSXpVTDFSbENFN01mcXFSbld4U3JlWUJZMWVITVFFV2hxSDFNVlZHTlhtQzRjWkZWUnBXVk1LRFd3Y3dVd0NWdUZFWlM1NVRoc2dqUTlUZll5V1pHWko1Y3ZQbklHZ1ZGSWRZWm1vb21NZEluV2ctZmtZd0NHbkg3cXpwUDNEUUg3VHNwUlJ0Smx0ZlMxLWRpdlFna2lMUGJXeTRJbk5DZDE5RnA?oc=5)
-- [Iran expands attacks on US bases, disrupting Strait of Hormuz oil flow - Crypto Briefing](https://news.google.com/rss/articles/CBMingFBVV95cUxNTV9OX0RRUWVPZVcyT0diVkFxU3llMEhTOVZWanVuaTlKYi15T0ZoUFdZeFZURTNKclBiLXR2RDBNZWdNWVRpZjFfbzRTQ0t0dEtTN1BWM1JXSllHVWFlVzJhRmdUdmtqbnR6ay1CR3JDVm1wdFd6NXNfVTFLbVFJSDR2Rm4yLWFvcXVfcGFIVmF5N1FXV3d4bE1qVGpkUQ?oc=5)
 - [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
+- [Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5)
+- [Iran expands attacks on US bases, disrupting Strait of Hormuz oil flow - Crypto Briefing](https://news.google.com/rss/articles/CBMingFBVV95cUxNTV9OX0RRUWVPZVcyT0diVkFxU3llMEhTOVZWanVuaTlKYi15T0ZoUFdZeFZURTNKclBiLXR2RDBNZWdNWVRpZjFfbzRTQ0t0dEtTN1BWM1JXSllHVWFlVzJhRmdUdmtqbnR6ay1CR3JDVm1wdFd6NXNfVTFLbVFJSDR2Rm4yLWFvcXVfcGFIVmF5N1FXV3d4bE1qVGpkUQ?oc=5)
 - …and 14 more
 
 ## Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters
@@ -62,16 +62,16 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [EU Wheat Jumps on Talk of Disruption to Russian Export Route - Marine News Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWQyYk5obW04aVVHYzB6c0Q1OU9BLVRVZ3VwY2cxWlc4cHlJaVpvLXhXTVd0c2p0bVJidnFxaW1oRkZIQ2s1Q21kRS1RdEJ3NDVHbkhBcHpvT2k2RE01djhoaDdZcVVCM3lSUHhpT3d5YmF3ckphZkU4ODhwV1YyN0hrdzFaejd5YVNnTkItZ2VGMzRCTWM1eGlwWGtFLWIzRDlJVFotOFA?oc=5)
+- [Grain Exports in Jeopardy: Ukraine-Russia Conflict Tightens Sea of Azov - Devdiscourse](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUs3TWljZ21FV2NwZUQ3VlJNYm5fVWVtWHFIdHl3WURXbVZ2NlY2aXptMDFDNDkxU2lOTDM1TnFUUS1oUnA0azd6RnpJaWpHNFpHWFVUak1mQ0Y1UGtQekJQWFFqQVRkZ0ZmenpHRUNLQzZMZmxRbTFGcmp0cjZiZ0xPeEd5dHRldi1VMWpQaFBGSWd5WGFWUFNkQ1Jxdkw2NnRWanh4bjhRVzlpRHY4b2oxX1Zyd3VWd0xEZk9tbmd3cnloNzhV0gHHAUFVX3lxTE51SzdNaWNnbUVXY3BlRDdWUk1ibl9VZW1YcUh0eXdZRFdtVnY2VjZpem0wMUM0OTFTaU5MMzVOcVRRLWhScDRrN3pGeklpakc0WkdYVVRqTWZDRjVQa1B6QlBYUWpBVGRnRmZ6ekdFQ0tDNkxmbFFtMUZyanRyNmJnTE94R3l0dGV2LVUxalBoUEZJZ3lYYVZQU2RDUnF2TDY2dFZqeHhuOFFXOWlEdjhvajFfVnJ3dVZ3TERmT21uZ3dyeWg3OFU?oc=5)
 - [Black Sea Wheat Market: Can Russia Manage Fuel And Export Challenges? - UkrAgroConsult](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3ZuTnM5dFFtYkljUFRWQnBpaWVBRTJKS3YwRldMQTk4SXNDOGR1bEU5VmtKRUV5TkgtRU95S2hEaTBXR3lFV3l3YjZaclI4QUZ5cEtXN3FST0Z1NU82ci02aUNoOGxQX25tOVhWM2lVQlNrSnYwZnQwcl9zRmlaa3F2S2c0UU11VF8wRmpFdXdEbUI0UmdGcjlJRlR1OTdyWmJuUTFB?oc=5)
-- [Russian attacks could slash Ukraine grain exports - The Western Producer](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjUW9rbzVQZl9RWVpiaEh1bFp4OFhXOWpsb290X3JfMlhJRFpldTB5eF9QeFc4VlZrSHUtYnFXRjhWU3VlZnNMRGlGR2JRc1BLTUZMZ01JLWdaOGJpczBscWxha3paenh1VWcyM1FrRGZMTlFqUUltZ2hjejY3QnR5RWJpWGs?oc=5)
-- …and 1 more
+- …and 2 more
 
 ---
 
 ## Scorecard
-9 theses: 1 hit / 0 miss / 8 open / 0 need resolution · hit rate 100% · open auto avg move +0.0%
+9 theses: 1 hit / 0 miss / 8 open / 0 need resolution · hit rate 100% · open auto avg move -13.2%
 
 
 Full ledger: `opencopper theses` / the demo's Scorecard tab.
