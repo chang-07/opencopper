@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_17 corroborating headline(s):_
+_15 corroborating headline(s):_
 - [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
 - [Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5)
 - [Iran expands attacks on US bases, disrupting Strait of Hormuz oil flow - Crypto Briefing](https://news.google.com/rss/articles/CBMingFBVV95cUxNTV9OX0RRUWVPZVcyT0diVkFxU3llMEhTOVZWanVuaTlKYi15T0ZoUFdZeFZURTNKclBiLXR2RDBNZWdNWVRpZjFfbzRTQ0t0dEtTN1BWM1JXSllHVWFlVzJhRmdUdmtqbnR6ay1CR3JDVm1wdFd6NXNfVTFLbVFJSDR2Rm4yLWFvcXVfcGFIVmF5N1FXV3d4bE1qVGpkUQ?oc=5)
-- …and 14 more
+- …and 12 more
 
 ## Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters
 *Fri, 03 Jul 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5)
