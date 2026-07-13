@@ -24,7 +24,7 @@ band is wide, the elasticities are doing the work, not the event.
 _15 corroborating headline(s):_
 - [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
 - [Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5)
-- [Iran expands attacks on US bases, disrupting Strait of Hormuz oil flow - Crypto Briefing](https://news.google.com/rss/articles/CBMingFBVV95cUxNTV9OX0RRUWVPZVcyT0diVkFxU3llMEhTOVZWanVuaTlKYi15T0ZoUFdZeFZURTNKclBiLXR2RDBNZWdNWVRpZjFfbzRTQ0t0dEtTN1BWM1JXSllHVWFlVzJhRmdUdmtqbnR6ay1CR3JDVm1wdFd6NXNfVTFLbVFJSDR2Rm4yLWFvcXVfcGFIVmF5N1FXV3d4bE1qVGpkUQ?oc=5)
+- [EIA increases global oil production forecast after the opening of the Strait of Hormuz - Hydrocarbon Engineering](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFFNbUJOM0h2OGlOQ3ZlRm9iOGZQQy1nSTdFRXYtbFFHR2FUWUIxWDdZdkFOTld0Z3BKOVlaOTR2MDB0OHgxNnprRjdlc29zSDNVSkF4STQ4eUUwLTZ2VXZIWDdfYnF4aEdXSjZ0X29ieUhZN1BsT1I1SHhPT1ZxUDRYY19GbWpjTTVYT3NUYVQ2d19TM3FBX1NlZTJETUQzNWVWTFNVaUhkdXBjZnlsUmludUdCYWJ0ZDRCbzVNUFA5dXRiNXZhVjFtSmh0bUJfSGRPaVd3M0NRYmtt0gHiAUFVX3lxTE9sY0Y5aXlGeWZBdzJkWWh4UE5lWGNzTXB3d3ZsMGcwQUNUU3JrVHlkMm02anc4S2h1c3RsYzVMbzEySTNIaFg4amtGcFN4aGlVS3dNb0toM2pjNzlILWpvQUJuSTh5WDJUYlp1aTVCSnc1NFNSY3JPVERSVkNmb1RMUmV6T1ljSjdEdXZsbnB4WlJXYUlxN1hYdWk0M1JNQ0o1T2EtT0JWWmROcGRMRVRBRVdoN1RFQ21kcjlWcGNqTy1ud3didm1DOTR0Q0hKc3c0UVBOT083T3lVaUFYYThWcXc?oc=5)
 - …and 12 more
 
 ## Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters
@@ -62,11 +62,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_4 corroborating headline(s):_
 - [EU Wheat Jumps on Talk of Disruption to Russian Export Route - Marine News Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWQyYk5obW04aVVHYzB6c0Q1OU9BLVRVZ3VwY2cxWlc4cHlJaVpvLXhXTVd0c2p0bVJidnFxaW1oRkZIQ2s1Q21kRS1RdEJ3NDVHbkhBcHpvT2k2RE01djhoaDdZcVVCM3lSUHhpT3d5YmF3ckphZkU4ODhwV1YyN0hrdzFaejd5YVNnTkItZ2VGMzRCTWM1eGlwWGtFLWIzRDlJVFotOFA?oc=5)
 - [Grain Exports in Jeopardy: Ukraine-Russia Conflict Tightens Sea of Azov - Devdiscourse](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUs3TWljZ21FV2NwZUQ3VlJNYm5fVWVtWHFIdHl3WURXbVZ2NlY2aXptMDFDNDkxU2lOTDM1TnFUUS1oUnA0azd6RnpJaWpHNFpHWFVUak1mQ0Y1UGtQekJQWFFqQVRkZ0ZmenpHRUNLQzZMZmxRbTFGcmp0cjZiZ0xPeEd5dHRldi1VMWpQaFBGSWd5WGFWUFNkQ1Jxdkw2NnRWanh4bjhRVzlpRHY4b2oxX1Zyd3VWd0xEZk9tbmd3cnloNzhV0gHHAUFVX3lxTE51SzdNaWNnbUVXY3BlRDdWUk1ibl9VZW1YcUh0eXdZRFdtVnY2VjZpem0wMUM0OTFTaU5MMzVOcVRRLWhScDRrN3pGeklpakc0WkdYVVRqTWZDRjVQa1B6QlBYUWpBVGRnRmZ6ekdFQ0tDNkxmbFFtMUZyanRyNmJnTE94R3l0dGV2LVUxalBoUEZJZ3lYYVZQU2RDUnF2TDY2dFZqeHhuOFFXOWlEdjhvajFfVnJ3dVZ3TERmT21uZ3dyeWg3OFU?oc=5)
 - [Black Sea Wheat Market: Can Russia Manage Fuel And Export Challenges? - UkrAgroConsult](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3ZuTnM5dFFtYkljUFRWQnBpaWVBRTJKS3YwRldMQTk4SXNDOGR1bEU5VmtKRUV5TkgtRU95S2hEaTBXR3lFV3l3YjZaclI4QUZ5cEtXN3FST0Z1NU82ci02aUNoOGxQX25tOVhWM2lVQlNrSnYwZnQwcl9zRmlaa3F2S2c0UU11VF8wRmpFdXdEbUI0UmdGcjlJRlR1OTdyWmJuUTFB?oc=5)
-- …and 2 more
+- …and 1 more
 
 ---
 
