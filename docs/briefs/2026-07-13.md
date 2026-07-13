@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_16 corroborating headline(s):_
-- [Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5)
+_17 corroborating headline(s):_
+- [Shipping through Strait of Hormuz falls to lowest level in several weeks - Middle East Monitor](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTEwS1Jnc1c0blJvRmtlczMyQTJoQms3WDlvMHBROUZUc2w0SUJfZEZjTThPOUZLajNEVUxNOG56ZHJITkFkVHJzYmJqYXdQb3NaQ0RtdzZDZ2c3RS01LVJ6U3ZWR0xWSlZYV2REZlhtU05rcFVFY05nLU1NdnNRSG9nU05Gdm9Xa3p0RFZHeEtOZFREeUxMZDFwakNETFRjU19jTHBObEZack1TRXVxUmYwVkpRUjjSAbwBQVVfeXFMUDRtMXd5WU8tZ1pFTXB2N2MzSXpVTDFSbENFN01mcXFSbld4U3JlWUJZMWVITVFFV2hxSDFNVlZHTlhtQzRjWkZWUnBXVk1LRFd3Y3dVd0NWdUZFWlM1NVRoc2dqUTlUZll5V1pHWko1Y3ZQbklHZ1ZGSWRZWm1vb21NZEluV2ctZmtZd0NHbkg3cXpwUDNEUUg3VHNwUlJ0Smx0ZlMxLWRpdlFna2lMUGJXeTRJbk5DZDE5RnA?oc=5)
+- [Iran expands attacks on US bases, disrupting Strait of Hormuz oil flow - Crypto Briefing](https://news.google.com/rss/articles/CBMingFBVV95cUxNTV9OX0RRUWVPZVcyT0diVkFxU3llMEhTOVZWanVuaTlKYi15T0ZoUFdZeFZURTNKclBiLXR2RDBNZWdNWVRpZjFfbzRTQ0t0dEtTN1BWM1JXSllHVWFlVzJhRmdUdmtqbnR6ay1CR3JDVm1wdFd6NXNfVTFLbVFJSDR2Rm4yLWFvcXVfcGFIVmF5N1FXV3d4bE1qVGpkUQ?oc=5)
 - [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
-- [Strait of Hormuz disruption drives crude oil prices higher - Crypto Briefing](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWkM4bjVmck9McG5OSV80SEtsSnhGcUg3cmoyTkhINHJqekVpUUFTOXItX3BLYUxxbnF6LXpySndBZTYyNnBndjRGNllVSEhQejVSU0E0UUR1cmVFRWpsQmxDb21JZ1JZUTIxLTBhdFlJSTcwNVhHV0Zaa2t4dUF6enl4dUZfWDY3NjNxcVB1UQ?oc=5)
-- …and 13 more
+- …and 14 more
 
 ## Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters
 *Fri, 03 Jul 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5)
@@ -43,8 +43,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
-- [DRC withdraws unused cobalt export quotas - TRT Afrika](https://news.google.com/rss/articles/CBMiZEFVX3lxTE95eUNnZ19WZGxJQTJjNW10WmJHUWpEaVE3ck0wZ0kyT0Y0TVdOeUR4T09qWFkzWmswU3BldjNyR2lRVEhsRjhLWUMxeF9BZHFJYXQxTmx0cFBVRDQyNnlfUkU2WGE?oc=5)
+_1 corroborating headline(s):_
 - [DR Congo’s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5)
 
 ## Russia and Ukraine Strikes Hit Key Grain Sea Export Ports - gCaptain
