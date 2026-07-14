@@ -44,6 +44,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Trump\u2019s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5",
+  "published": "Sun, 12 Jul 2026 07:13:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Oil prices jump after Trump\u2019s threats on Strait of Hormuz - Crypto Briefing",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDg1ZDh3N3haRXNudlFLc1RfUk1lWDhscHNhRU5CN3lmRWRwU1JXVUhZTERuREpaMjdtZlpmYUFwaDBNNDJwUXFSU2pxa3kyVEdYYVNNZW9YTDd0OTRVXzhER2Q5aS1mVFRWQnZMcjJJZV9Pb3B3YzV3d3dqYnR2TDdBRG9MbW1UME50Ug?oc=5",
   "published": "Tue, 14 Jul 2026 12:22:30 GMT",
@@ -58,17 +69,6 @@
   "headline": "Oil rises as US-Iran tensions intensify around Strait of Hormuz - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHUyMEdXTXpJSm5Hb0NZN3RWa0NmQXB3SUVSa19sM29uLXVodmUzQWNvNG9vQ29GT0l0NDlyR2hzb0RKdGVodm9UQl94cFN6Mi05dk1vUUNzVS1oZGhSNXc5NG1OR1lkUnhnbFJocGJjSU5DS2hhMG84cjZkdmNzbEVtVEpHUnhLV2dfckhxd2Z1MGQxNHl2VllhUll5OE5HbnFMZ3lHelA?oc=5",
   "published": "Tue, 14 Jul 2026 09:37:47 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Trump\u2019s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5",
-  "published": "Sun, 12 Jul 2026 07:13:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Trump, Iraq PM Ali al-Zaidi discuss oil, US troop withdrawal and Strait of Hormuz - WION",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUk9HVlJacXFZMWtYZTFvaDd5MklOcjF4UTU4NngzV3V4NXNxbDBGbzZRWnFSYXNGWkd3M3MtNkNVQ05nWUlFczc5MUMtSWxhQVRMMnYxODJIU1FuRXJ0Z0V1ckd5LTd0bEo1X1N4RC0zNjkxSHc1aFNDWkVYaEphQ0NaSnA2MEdma3A1bDdIUUN5R1pKR05wNFVkdC1QVEFfbGtkLW0zUdIBrAFBVV95cUxQUC1qcG5uQlN5WGpLQVNmdTB3R2FDbEFBNlpFVDFvbGVfSUJlZExSbHl0LXFpVG9ocUtoWE1OV0YtUFdMbVY2M2J5c1VEalhNcDAzV1R2b05naW5fWWtZN0VHeUJtdXAwa2tvNHdtMTgxSDRkTENuajNseER3NkpyOGJRUW9GT0R2cnVSdXNpbkI4Z1BSTkxFVUJwd21ZNk91NjBva2gyUTRpUXpf?oc=5",
-  "published": "Tue, 14 Jul 2026 18:31:00 GMT",
+  "headline": "EIA increases global oil production forecast after the opening of the Strait of Hormuz - Hydrocarbon Engineering",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFFNbUJOM0h2OGlOQ3ZlRm9iOGZQQy1nSTdFRXYtbFFHR2FUWUIxWDdZdkFOTld0Z3BKOVlaOTR2MDB0OHgxNnprRjdlc29zSDNVSkF4STQ4eUUwLTZ2VXZIWDdfYnF4aEdXSjZ0X29ieUhZN1BsT1I1SHhPT1ZxUDRYY19GbWpjTTVYT3NUYVQ2d19TM3FBX1NlZTJETUQzNWVWTFNVaUhkdXBjZnlsUmludUdCYWJ0ZDRCbzVNUFA5dXRiNXZhVjFtSmh0bUJfSGRPaVd3M0NRYmtt0gHiAUFVX3lxTE9sY0Y5aXlGeWZBdzJkWWh4UE5lWGNzTXB3d3ZsMGcwQUNUU3JrVHlkMm02anc4S2h1c3RsYzVMbzEySTNIaFg4amtGcFN4aGlVS3dNb0toM2pjNzlILWpvQUJuSTh5WDJUYlp1aTVCSnc1NFNSY3JPVERSVkNmb1RMUmV6T1ljSjdEdXZsbnB4WlJXYUlxN1hYdWk0M1JNQ0o1T2EtT0JWWmROcGRMRVRBRVdoN1RFQ21kcjlWcGNqTy1ud3didm1DOTR0Q0hKc3c0UVBOT083T3lVaUFYYThWcXc?oc=5",
+  "published": "Thu, 09 Jul 2026 10:00:44 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -110,9 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EIA increases global oil production forecast after the opening of the Strait of Hormuz - Hydrocarbon Engineering",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFFNbUJOM0h2OGlOQ3ZlRm9iOGZQQy1nSTdFRXYtbFFHR2FUWUIxWDdZdkFOTld0Z3BKOVlaOTR2MDB0OHgxNnprRjdlc29zSDNVSkF4STQ4eUUwLTZ2VXZIWDdfYnF4aEdXSjZ0X29ieUhZN1BsT1I1SHhPT1ZxUDRYY19GbWpjTTVYT3NUYVQ2d19TM3FBX1NlZTJETUQzNWVWTFNVaUhkdXBjZnlsUmludUdCYWJ0ZDRCbzVNUFA5dXRiNXZhVjFtSmh0bUJfSGRPaVd3M0NRYmtt0gHiAUFVX3lxTE9sY0Y5aXlGeWZBdzJkWWh4UE5lWGNzTXB3d3ZsMGcwQUNUU3JrVHlkMm02anc4S2h1c3RsYzVMbzEySTNIaFg4amtGcFN4aGlVS3dNb0toM2pjNzlILWpvQUJuSTh5WDJUYlp1aTVCSnc1NFNSY3JPVERSVkNmb1RMUmV6T1ljSjdEdXZsbnB4WlJXYUlxN1hYdWk0M1JNQ0o1T2EtT0JWWmROcGRMRVRBRVdoN1RFQ21kcjlWcGNqTy1ud3didm1DOTR0Q0hKc3c0UVBOT083T3lVaUFYYThWcXc?oc=5",
-  "published": "Thu, 09 Jul 2026 10:00:44 GMT",
+  "headline": "Trump, Iraq PM Ali al-Zaidi discuss oil, US troop withdrawal and Strait of Hormuz - WION",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUk9HVlJacXFZMWtYZTFvaDd5MklOcjF4UTU4NngzV3V4NXNxbDBGbzZRWnFSYXNGWkd3M3MtNkNVQ05nWUlFczc5MUMtSWxhQVRMMnYxODJIU1FuRXJ0Z0V1ckd5LTd0bEo1X1N4RC0zNjkxSHc1aFNDWkVYaEphQ0NaSnA2MEdma3A1bDdIUUN5R1pKR05wNFVkdC1QVEFfbGtkLW0zUdIBrAFBVV95cUxQUC1qcG5uQlN5WGpLQVNmdTB3R2FDbEFBNlpFVDFvbGVfSUJlZExSbHl0LXFpVG9ocUtoWE1OV0YtUFdMbVY2M2J5c1VEalhNcDAzV1R2b05naW5fWWtZN0VHeUJtdXAwa2tvNHdtMTgxSDRkTENuajNseER3NkpyOGJRUW9GT0R2cnVSdXNpbkI4Z1BSTkxFVUJwd21ZNk91NjBva2gyUTRpUXpf?oc=5",
+  "published": "Tue, 14 Jul 2026 18:31:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -165,9 +165,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices jump over 3% amid US-Iran tensions in Strait of Hormuz - Crypto Briefing",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHR6Zkw5Q2YxX3pKZ19ESkR4X0IySzRhVjdpUHFCRHltNndLbjBGSEFkaW1YRW90N3RZd2s5QUw0d2RtTm1Pdl9KdUF3cTIxX2RnZDRUYXJQNjh4YUJ5Rk1tVlkwODM3M19uYzZnNnoxUXllRU1jMW1Fb2MtRXY1ckhpdnVEbjRJVF9nX21fT0lLOV9iajNj?oc=5",
-  "published": "Mon, 13 Jul 2026 22:58:10 GMT",
+  "headline": "EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5",
+  "published": "Tue, 07 Jul 2026 18:54:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -176,9 +176,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EIA boosts oil production forecast after Strait of Hormuz reopening - World Oil",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFFkRkRrS3g3SlFJZTFDSlByLTRMNmFNalV3ZXhUeE53T1BNajVmOVh5WDh4LXlQak9KdUM2cllOYzM0LUpvVENCb0dEOEtLcXVBQmpaVmxzV3RkVGxUbXVlY0t2YkNfa1VHVFF0VXJoRmpoMkZuQ1UzanUtNFBBbzFCZFNnakd2M1FYcDNjaVQzb29xbGtuZHc2bXVVRkdxY3FsMnVB?oc=5",
-  "published": "Tue, 07 Jul 2026 18:54:03 GMT",
+  "headline": "OPEC to boost daily oil production by 188,000 barrels amid Strait of Hormuz disruptions - cbs19.tv",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONkJUMlNkS3A1T3BWU1QwdUhXVzRZM0dsOXdDM0NqemcxNmplYmRTcFprbzV0V2RKX3R6dUQwUmxMZGRBX0tBVzN4ZGpHdW9oLVNxQ2M2SWYyaDJOV05vZ3dOanp5V2ZTcmgwZmxJSkFHcVlwenBYdWRQX0pYdm10TGJ4VFNHTnVmdXJVRm1HdUx3OFB6OEp4VDh5RTAxRWU1N0VHZ280Nk12bUw2eUNRek9OTjN3cDBZZ3E3RTRDa3BZR0pueGRCR3NNTjhxd0h5QmxVa2FnQWNPQkd0M0EzNlBZXzBjVk9mZWZBWV9NMEtYeWlNZEZ5Zg?oc=5",
+  "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil prices jump over 3% amid US-Iran tensions in Strait of Hormuz - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHR6Zkw5Q2YxX3pKZ19ESkR4X0IySzRhVjdpUHFCRHltNndLbjBGSEFkaW1YRW90N3RZd2s5QUw0d2RtTm1Pdl9KdUF3cTIxX2RnZDRUYXJQNjh4YUJ5Rk1tVlkwODM3M19uYzZnNnoxUXllRU1jMW1Fb2MtRXY1ckhpdnVEbjRJVF9nX21fT0lLOV9iajNj?oc=5",
+  "published": "Mon, 13 Jul 2026 22:58:10 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
