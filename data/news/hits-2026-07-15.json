@@ -33,17 +33,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5",
-  "published": "Sun, 05 Jul 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWlkQjgxaWhiTnhfYmcyeXFvakF0QnJxX0NLaFZLLVIxTk42R0ZmRnJudklCMEpQVnI1RnF1TmZfWElaRVhFV1VKbmw4WGJiMWw0THBidG9BSUxQYzZiMzUxa2hCeDYyMWNYaTB1MkRvMTdLdzFDZWFVUzVQbThoVUs5NFJ4VWlna0ZZT0JyaXhBVDFQV0Z3b1dKOVN0YkZ3MGZ4c3pMYUxtYlY2T3JiYUE2bTdfTFE2cGlvWGY3NXVNYl90RHhjZGVCZGjSAdIBQVVfeXFMUGh4N1VxZ1FsRnlBWE95aEZ0X2xueXpveGZfaEdGejRpUVVkN29aVDRvNGRmZjlTcmhKTmRvRTItRjA1MGp4N3N2TmIxTnE1LVBSNmJnZ2NJUHFRblVTYXZfa3lTR2k0d0tVTDA4eU1Jb29LU0JEVk5kMU1NMmZIRVFHemtsbzVrbnFHQWNibmZ0WGNfTGFBZm1VclZDZ291cjZNZnNMelFNc0FIV2c3eFExVnc3Y2l1T1pRUHdwRmNqUjJfRlVJVDQ3N3o5SDNEckl3?oc=5",
   "published": "Mon, 13 Jul 2026 21:30:00 GMT",
@@ -88,6 +77,28 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5",
+  "published": "Sun, 05 Jul 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
+  "published": "Sun, 05 Jul 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "EIA increases global oil production forecast after the opening of the Strait of Hormuz - Hydrocarbon Engineering",
   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFFNbUJOM0h2OGlOQ3ZlRm9iOGZQQy1nSTdFRXYtbFFHR2FUWUIxWDdZdkFOTld0Z3BKOVlaOTR2MDB0OHgxNnprRjdlc29zSDNVSkF4STQ4eUUwLTZ2VXZIWDdfYnF4aEdXSjZ0X29ieUhZN1BsT1I1SHhPT1ZxUDRYY19GbWpjTTVYT3NUYVQ2d19TM3FBX1NlZTJETUQzNWVWTFNVaUhkdXBjZnlsUmludUdCYWJ0ZDRCbzVNUFA5dXRiNXZhVjFtSmh0bUJfSGRPaVd3M0NRYmtt0gHiAUFVX3lxTE9sY0Y5aXlGeWZBdzJkWWh4UE5lWGNzTXB3d3ZsMGcwQUNUU3JrVHlkMm02anc4S2h1c3RsYzVMbzEySTNIaFg4amtGcFN4aGlVS3dNb0toM2pjNzlILWpvQUJuSTh5WDJUYlp1aTVCSnc1NFNSY3JPVERSVkNmb1RMUmV6T1ljSjdEdXZsbnB4WlJXYUlxN1hYdWk0M1JNQ0o1T2EtT0JWWmROcGRMRVRBRVdoN1RFQ21kcjlWcGNqTy1ud3didm1DOTR0Q0hKc3c0UVBOT083T3lVaUFYYThWcXc?oc=5",
   "published": "Thu, 09 Jul 2026 10:00:44 GMT",
@@ -99,9 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2hIVlN3T2xXekl4NzRBN0xWcE8yVnZoMkJEUWRFc2lDLWhSUjVaLXFLbTJhWWc1dzY0YlJaUXVtQ2FmRXdPZGJtSzJ3SnJWM1REVWhvVGNjRHF2T1FEaG1fNHJGR2VuWktvVHNZNFpkbHhRODVBSllaaGNCV1Y4cUdOaFVDcFZqTWNXVtIBkgFBVV95cUxNaV9JVVVaUGRVTXFFSFVBdWZDLUwxcjl4dTJIb21CZFRCX2prVndxLVV6RVphUzFhSlRFRzNJQlRXb0h2WW9reUtsaS1iVDNMMG9LUWZsdEhYN2gzLUwtM1JYaVVScnk0STlyMHl1emRJU0k4dE1SZnB5VXVkM3pyYXNBZGtzaVdSOGpMejBjRTlKQQ?oc=5",
-  "published": "Sun, 05 Jul 2026 07:00:00 GMT",
+  "headline": "WSJ Reports Tankers Hit Outside Strait of Hormuz at the Port of Fujairah; Potential Disruption to Key UAE Export Hub - Energy News Beat",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOVRTMEYwZ2tBU3R5anM4dzJIYWwzNEVyeXBHUEU5NEU1OUNsUzA3djg1Qndsdk5LM25wTXZWZnBDRUNWZ3NWbkY1ZERVQTRaWDBURDZBUVdIVmFiY1lzUUtNb05PODZHczlBOHNJTEtLVzkyZnFkQzR2V2w2cDlCRjZpazNwVkk4eWRuX0UzZGZiYzlvTkRmZHo0MVd0b3hITzBDQlFIc3VpWUVGZVlnMEZRS0dnNHg1b3FjaXRJa0J3RnBqSjdla0ZUYlhqOGNQY0FXTVp3NkVpWklaQWZQX0xxdi1qblk?oc=5",
+  "published": "Wed, 15 Jul 2026 14:30:12 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -143,9 +154,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices jump after Trump\u2019s threats on Strait of Hormuz - Crypto Briefing",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDg1ZDh3N3haRXNudlFLc1RfUk1lWDhscHNhRU5CN3lmRWRwU1JXVUhZTERuREpaMjdtZlpmYUFwaDBNNDJwUXFSU2pxa3kyVEdYYVNNZW9YTDd0OTRVXzhER2Q5aS1mVFRWQnZMcjJJZV9Pb3B3YzV3d3dqYnR2TDdBRG9MbW1UME50Ug?oc=5",
-  "published": "Tue, 14 Jul 2026 12:22:30 GMT",
+  "headline": "Global oil production recovers as Hormuz shipments resume, IEA says - Anadolu Ajans\u0131",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTkzUmFDRFZjYjVKS3A5N296MHl3VVE3ZTY1Qzd6M2VpZzRFNi1DaWR2cmhqZVJ2bVJjMHpWQk5ESUJEVi13ZndkcHJqVXJuT0xfM0xKbEJuUVN4V2JnMS1IVTNCd0FDc2FPXzZ2eml1T1NGOU93M0lxUldGN1VqcXB6eW5qWkYyWjlvSzB5U3RjU0JQMm5BUlZPemxacWcxNHVPQ2pmejhLQVQz0gG0AUFVX3lxTFBKcWNCdmNpWGh6SkZvQi1LS3VaMzY3TWdBMjFPbzdvSm1zTEVWWXRjV1Jod1FrMEU5Q05rbFVUZklZZk01dk9LTXlYY2lJZVpYZHJCMHJWeTFTZDRCb3QwU1JrRndBR0drN1ZJRHAwZmduZFNPeVpxXzU4QW5rdDhXM2ZGREtfVnhVUzc5QmVTRmVQVjdxVHNUaTEwVXF2Wm81MVNITUZjTDlkak1EeEtzMnNmdg?oc=5",
+  "published": "Fri, 10 Jul 2026 09:31:40 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -154,9 +165,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Global oil production recovers as Hormuz shipments resume, IEA says - Anadolu Ajans\u0131",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTkzUmFDRFZjYjVKS3A5N296MHl3VVE3ZTY1Qzd6M2VpZzRFNi1DaWR2cmhqZVJ2bVJjMHpWQk5ESUJEVi13ZndkcHJqVXJuT0xfM0xKbEJuUVN4V2JnMS1IVTNCd0FDc2FPXzZ2eml1T1NGOU93M0lxUldGN1VqcXB6eW5qWkYyWjlvSzB5U3RjU0JQMm5BUlZPemxacWcxNHVPQ2pmejhLQVQz0gG0AUFVX3lxTFBKcWNCdmNpWGh6SkZvQi1LS3VaMzY3TWdBMjFPbzdvSm1zTEVWWXRjV1Jod1FrMEU5Q05rbFVUZklZZk01dk9LTXlYY2lJZVpYZHJCMHJWeTFTZDRCb3QwU1JrRndBR0drN1ZJRHAwZmduZFNPeVpxXzU4QW5rdDhXM2ZGREtfVnhVUzc5QmVTRmVQVjdxVHNUaTEwVXF2Wm81MVNITUZjTDlkak1EeEtzMnNmdg?oc=5",
-  "published": "Fri, 10 Jul 2026 09:31:40 GMT",
+  "headline": "Oil prices jump after Trump\u2019s threats on Strait of Hormuz - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDg1ZDh3N3haRXNudlFLc1RfUk1lWDhscHNhRU5CN3lmRWRwU1JXVUhZTERuREpaMjdtZlpmYUFwaDBNNDJwUXFSU2pxa3kyVEdYYVNNZW9YTDd0OTRVXzhER2Q5aS1mVFRWQnZMcjJJZV9Pb3B3YzV3d3dqYnR2TDdBRG9MbW1UME50Ug?oc=5",
+  "published": "Tue, 14 Jul 2026 12:22:30 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -179,17 +190,6 @@
   "headline": "OPEC to boost daily oil production by 188,000 barrels amid Strait of Hormuz disruptions - cbs19.tv",
   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONkJUMlNkS3A1T3BWU1QwdUhXVzRZM0dsOXdDM0NqemcxNmplYmRTcFprbzV0V2RKX3R6dUQwUmxMZGRBX0tBVzN4ZGpHdW9oLVNxQ2M2SWYyaDJOV05vZ3dOanp5V2ZTcmgwZmxJSkFHcVlwenBYdWRQX0pYdm10TGJ4VFNHTnVmdXJVRm1HdUx3OFB6OEp4VDh5RTAxRWU1N0VHZ280Nk12bUw2eUNRek9OTjN3cDBZZ3E3RTRDa3BZR0pueGRCR3NNTjhxd0h5QmxVa2FnQWNPQkd0M0EzNlBZXzBjVk9mZWZBWV9NMEtYeWlNZEZ5Zg?oc=5",
   "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Trump, Iraq PM Ali al-Zaidi discuss oil, US troop withdrawal and Strait of Hormuz - WION",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUk9HVlJacXFZMWtYZTFvaDd5MklOcjF4UTU4NngzV3V4NXNxbDBGbzZRWnFSYXNGWkd3M3MtNkNVQ05nWUlFczc5MUMtSWxhQVRMMnYxODJIU1FuRXJ0Z0V1ckd5LTd0bEo1X1N4RC0zNjkxSHc1aFNDWkVYaEphQ0NaSnA2MEdma3A1bDdIUUN5R1pKR05wNFVkdC1QVEFfbGtkLW0zUdIBrAFBVV95cUxQUC1qcG5uQlN5WGpLQVNmdTB3R2FDbEFBNlpFVDFvbGVfSUJlZExSbHl0LXFpVG9ocUtoWE1OV0YtUFdMbVY2M2J5c1VEalhNcDAzV1R2b05naW5fWWtZN0VHeUJtdXAwa2tvNHdtMTgxSDRkTENuajNseER3NkpyOGJRUW9GT0R2cnVSdXNpbkI4Z1BSTkxFVUJwd21ZNk91NjBva2gyUTRpUXpf?oc=5",
-  "published": "Tue, 14 Jul 2026 18:31:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -308,9 +308,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Grain Exports in Jeopardy: Ukraine-Russia Conflict Tightens Sea of Azov - Devdiscourse",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUs3TWljZ21FV2NwZUQ3VlJNYm5fVWVtWHFIdHl3WURXbVZ2NlY2aXptMDFDNDkxU2lOTDM1TnFUUS1oUnA0azd6RnpJaWpHNFpHWFVUak1mQ0Y1UGtQekJQWFFqQVRkZ0ZmenpHRUNLQzZMZmxRbTFGcmp0cjZiZ0xPeEd5dHRldi1VMWpQaFBGSWd5WGFWUFNkQ1Jxdkw2NnRWanh4bjhRVzlpRHY4b2oxX1Zyd3VWd0xEZk9tbmd3cnloNzhV0gHHAUFVX3lxTE51SzdNaWNnbUVXY3BlRDdWUk1ibl9VZW1YcUh0eXdZRFdtVnY2VjZpem0wMUM0OTFTaU5MMzVOcVRRLWhScDRrN3pGeklpakc0WkdYVVRqTWZDRjVQa1B6QlBYUWpBVGRnRmZ6ekdFQ0tDNkxmbFFtMUZyanRyNmJnTE94R3l0dGV2LVUxalBoUEZJZ3lYYVZQU2RDUnF2TDY2dFZqeHhuOFFXOWlEdjhvajFfVnJ3dVZ3TERmT21uZ3dyeWg3OFU?oc=5",
-  "published": "Mon, 13 Jul 2026 14:00:03 GMT",
+  "headline": "Ukraine Vows to Safeguard Grain Exports Amid Intensified Attacks - Devdiscourse",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWhIUk51N0hfakNCQjVjd3NVZjYzOGYxOVZEclNhX0t6QThOdHc5Sk5HU1FhRW94b1lIUWp0MTFMNWx0U3VsWXFQb1BRRWxxX1VKQjdKekdjTTFxcmZKdmMxT0FUWkpvVmNTcFlPUHNhMW9lZDM3bmVUdUIteDRQWGxWRWpLTl9rZjg5SDdXbWNxZk5HazlrQzNRWThLZEROdEtNM0hTS3JFeDlqdTc3UjR4eDR6dGlLOWJwT05Xd9IBvwFBVV95cUxNLWhIUk51N0hfakNCQjVjd3NVZjYzOGYxOVZEclNhX0t6QThOdHc5Sk5HU1FhRW94b1lIUWp0MTFMNWx0U3VsWXFQb1BRRWxxX1VKQjdKekdjTTFxcmZKdmMxT0FUWkpvVmNTcFlPUHNhMW9lZDM3bmVUdUIteDRQWGxWRWpLTl9rZjg5SDdXbWNxZk5HazlrQzNRWThLZEROdEtNM0hTS3JFeDlqdTc3UjR4eDR6dGlLOWJwT05Xdw?oc=5",
+  "published": "Wed, 15 Jul 2026 13:03:27 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -319,9 +319,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia says grain exports will not be affected, but the situation in the Sea of Azov suggests otherwise - UkrAgroConsult",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ05OQlFMU3hZSk1XOEdFZEtqQzgzLXBvYzBwc0pKUVM0eVFKT3NpX1dJTXFwN3NHMU5BcFlaR1dwTzR6MmdwamVsRGllUnZmMWpubk1OU2czY0tpVU9JSTllakIxcHhxT05ZYmdRcE92VnNMbUpzOEdVWDBsOVd4STlYZFpvdUJHVmdWMWFhSWhTbHJsX2JWS2xuNzhGc0ZtX2VlNjQ1SzhBV3RwRlFVcldVaW9yU1JnbVNIZGVjMlE5NjBVYnRoNlFnN2tpNHZZTG5NVA?oc=5",
-  "published": "Tue, 14 Jul 2026 13:34:46 GMT",
+  "headline": "Grain Exports in Jeopardy: Ukraine-Russia Conflict Tightens Sea of Azov - Devdiscourse",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUs3TWljZ21FV2NwZUQ3VlJNYm5fVWVtWHFIdHl3WURXbVZ2NlY2aXptMDFDNDkxU2lOTDM1TnFUUS1oUnA0azd6RnpJaWpHNFpHWFVUak1mQ0Y1UGtQekJQWFFqQVRkZ0ZmenpHRUNLQzZMZmxRbTFGcmp0cjZiZ0xPeEd5dHRldi1VMWpQaFBGSWd5WGFWUFNkQ1Jxdkw2NnRWanh4bjhRVzlpRHY4b2oxX1Zyd3VWd0xEZk9tbmd3cnloNzhV0gHHAUFVX3lxTE51SzdNaWNnbUVXY3BlRDdWUk1ibl9VZW1YcUh0eXdZRFdtVnY2VjZpem0wMUM0OTFTaU5MMzVOcVRRLWhScDRrN3pGeklpakc0WkdYVVRqTWZDRjVQa1B6QlBYUWpBVGRnRmZ6ekdFQ0tDNkxmbFFtMUZyanRyNmJnTE94R3l0dGV2LVUxalBoUEZJZ3lYYVZQU2RDUnF2TDY2dFZqeHhuOFFXOWlEdjhvajFfVnJ3dVZ3TERmT21uZ3dyeWg3OFU?oc=5",
+  "published": "Mon, 13 Jul 2026 14:00:03 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
