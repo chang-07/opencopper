@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Beyond the Strait of Hormuz: How Gulf countries are preparing for life without the waterway - The Independent
-*Wed, 15 Jul 2026 04:33:00 GMT* — [source](https://news.google.com/rss/articles/CBMiswFBVV95cUxNb2Y4NVpwZFZqOTdfeERINktsemF2N1pCejZ6Nlc5bWlIdW1FX3RhNXlEVS1BZmo4R1AwcnJkc0VyZXpjVGhSbmdJUUFxX25aRXdkOVVYR2RjTTdYdHVqZmhZRHVPM1Q4X1BCUmVraGxzUEdpRl9CRjNPV1oyUEtobXYxU1lKY3RNOXpFN3JiYW5kc0czNXoxbWR4bXNXR2JFdGZfZ1Z0S3ZZbmliVFZ3Tk5ybw?oc=5)
+## Iran war: What is the Strait of Hormuz and why does it matter? - BBC
+*Tue, 14 Jul 2026 15:45:38 GMT* — [source](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tN3d3SGFFOS1kb0ctMnU0WDdib1hmYUVaLXQ3bm5vRUFlUjVhN05nLVBJOUozTXo2ZnpDZ0NHQUJzMXpBNkdqbHdJNy13bUF0aDJSLUdLR19OQQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _17 corroborating headline(s):_
-- [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
 - [Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It - Time Magazine](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjk1OEVEdlZCbFk0V3JqZmQzd2d3TDRzYTQ4S3FTY1F6OVRMTGxqaUxXUC05OHpFTzFGQ2Y2VXZLSlo3dzd5VV9fRVhiZHBPSm5EOUd1ZFFaRkF6c0w1RVJPdWsyRlowcFJhOUJCcVViM215dWhXOTJfbWNOZHNMV29qTm4xbkM3aU1fb1gzNFNlZWN0eHlXZlNZcw?oc=5)
-- [OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWlkQjgxaWhiTnhfYmcyeXFvakF0QnJxX0NLaFZLLVIxTk42R0ZmRnJudklCMEpQVnI1RnF1TmZfWElaRVhFV1VKbmw4WGJiMWw0THBidG9BSUxQYzZiMzUxa2hCeDYyMWNYaTB1MkRvMTdLdzFDZWFVUzVQbThoVUs5NFJ4VWlna0ZZT0JyaXhBVDFQV0Z3b1dKOVN0YkZ3MGZ4c3pMYUxtYlY2T3JiYUE2bTdfTFE2cGlvWGY3NXVNYl90RHhjZGVCZGjSAdIBQVVfeXFMUGh4N1VxZ1FsRnlBWE95aEZ0X2xueXpveGZfaEdGejRpUVVkN29aVDRvNGRmZjlTcmhKTmRvRTItRjA1MGp4N3N2TmIxTnE1LVBSNmJnZ2NJUHFRblVTYXZfa3lTR2k0d0tVTDA4eU1Jb29LU0JEVk5kMU1NMmZIRVFHemtsbzVrbnFHQWNibmZ0WGNfTGFBZm1VclZDZ291cjZNZnNMelFNc0FIV2c3eFExVnc3Y2l1T1pRUHdwRmNqUjJfRlVJVDQ3N3o5SDNEckl3?oc=5)
+- [How Gulf countries are preparing for life without the Strait of Hormuz - The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxNb2Y4NVpwZFZqOTdfeERINktsemF2N1pCejZ6Nlc5bWlIdW1FX3RhNXlEVS1BZmo4R1AwcnJkc0VyZXpjVGhSbmdJUUFxX25aRXdkOVVYR2RjTTdYdHVqZmhZRHVPM1Q4X1BCUmVraGxzUEdpRl9CRjNPV1oyUEtobXYxU1lKY3RNOXpFN3JiYW5kc0czNXoxbWR4bXNXR2JFdGZfZ1Z0S3ZZbmliVFZ3Tk5ybw?oc=5)
+- [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
 - …and 14 more
 
 ## OPEC Cuts 2026 Global Oil Demand Growth Forecast for Third Straight Month - Egypt Oil & Gas
@@ -79,11 +79,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
+_8 corroborating headline(s):_
 - [Azov Sea Blockage Forces Russian Wheat Exporters to Rethink Logistics - StoneX](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0VmTlJXUUFnSnhlRXpfRFNBQzltc0ZJWERVakpfRjF6UWRpeGlFaG9IWElKNmoxdENEbXZjTzZPZVE4X2liNlhVLXV3UW9zODhNN0hVdGJtdm5yQnBVQWRyd3k3M1kxNGt3WVNDSU1FTnVqTWRkOUdNNEVtWXNNdFhvWHpaUUI3SS1OX1FXenhaQ2lSLUloMGRIS0otekFjOE9ZMUxuRXM?oc=5)
-- [Ukraine loses one-third of Black Sea grain export capacity, Reuters says - Українська правда](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZ3ZrOTFXX2lvX2tfRFBPZFQ2NU45SXRhLVhEdVB0Z3dobFQxclNwWXhVWlhkTnVtWnBlNWt6OVdkYlBpaW9EVmJZNmEyVWduYXZ3X0pUSThvMy1VZ3ZJOVBjeVTSAXBBVV95cUxNNGdVVWtUaFlQcV9wLVYxZjZORG5vVTBET2FRT3g1S0lNYzhocDV5YzVjaFVuaEQ2WGxXMzUtVHZjd0VEZTZneXNIVEY3dlczVV93aTM2Y2d5MzhLdDhRU2s2cl93RHAzMWtMMWZ2endy?oc=5)
 - [Russian wheat exports constrained following Ukrainian attacks - Kpler](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMTQybkdlWi1SaEFVNjh2VVNCNnhkX211QUZVaTVLbjVxTFVZdGJVWjBxYldNXzlNYW9NZWpyQTB1UXdpajZ0UGhXV1VSeVhNWk1hUjNRLWc3eDRFNzhfVFkxX3ltbmZPcFc0bVZnMm5QZmRyX3M1Um9KemVIYndvZU9kMmNGMjhTQUpqeV9xeVhudw?oc=5)
-- …and 7 more
+- [Ukraine loses one-third of Black Sea grain export capacity, Reuters says - Українська правда](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZ3ZrOTFXX2lvX2tfRFBPZFQ2NU45SXRhLVhEdVB0Z3dobFQxclNwWXhVWlhkTnVtWnBlNWt6OVdkYlBpaW9EVmJZNmEyVWduYXZ3X0pUSThvMy1VZ3ZJOVBjeVTSAXBBVV95cUxNNGdVVWtUaFlQcV9wLVYxZjZORG5vVTBET2FRT3g1S0lNYzhocDV5YzVjaFVuaEQ2WGxXMzUtVHZjd0VEZTZneXNIVEY3dlczVV93aTM2Y2d5MzhLdDhRU2s2cl93RHAzMWtMMWZ2endy?oc=5)
+- …and 5 more
 
 ---
 
