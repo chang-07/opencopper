@@ -23,7 +23,7 @@ band is wide, the elasticities are doing the work, not the event.
 
 _15 corroborating headline(s):_
 - [Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It - Time Magazine](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjk1OEVEdlZCbFk0V3JqZmQzd2d3TDRzYTQ4S3FTY1F6OVRMTGxqaUxXUC05OHpFTzFGQ2Y2VXZLSlo3dzd5VV9fRVhiZHBPSm5EOUd1ZFFaRkF6c0w1RVJPdWsyRlowcFJhOUJCcVViM215dWhXOTJfbWNOZHNMV29qTm4xbkM3aU1fb1gzNFNlZWN0eHlXZlNZcw?oc=5)
-- [OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWlkQjgxaWhiTnhfYmcyeXFvakF0QnJxX0NLaFZLLVIxTk42R0ZmRnJudklCMEpQVnI1RnF1TmZfWElaRVhFV1VKbmw4WGJiMWw0THBidG9BSUxQYzZiMzUxa2hCeDYyMWNYaTB1MkRvMTdLdzFDZWFVUzVQbThoVUs5NFJ4VWlna0ZZT0JyaXhBVDFQV0Z3b1dKOVN0YkZ3MGZ4c3pMYUxtYlY2T3JiYUE2bTdfTFE2cGlvWGY3NXVNYl90RHhjZGVCZGjSAdIBQVVfeXFMUGh4N1VxZ1FsRnlBWE95aEZ0X2xueXpveGZfaEdGejRpUVVkN29aVDRvNGRmZjlTcmhKTmRvRTItRjA1MGp4N3N2TmIxTnE1LVBSNmJnZ2NJUHFRblVTYXZfa3lTR2k0d0tVTDA4eU1Jb29LU0JEVk5kMU1NMmZIRVFHemtsbzVrbnFHQWNibmZ0WGNfTGFBZm1VclZDZ291cjZNZnNMelFNc0FIV2c3eFExVnc3Y2l1T1pRUHdwRmNqUjJfRlVJVDQ3N3o5SDNEckl3?oc=5)
+- [How Gulf countries are preparing for life without the Strait of Hormuz - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXA3ODVNRGlaV0hRQzBFTGlvLXlfYmFqOV9pdzUtQXlUaWNxalFVRzdWVktsUk1PeS1ZQlFNVFJMXy1sbW1WTHJxemFzeE5pMkhMbHZTRGk0M3BlbUZmVGt3OXloX0M0LUJZY0JsbjVjTlN0SFNQRXN4MnctdzI4TDhLOW54RnN3UGw5c3JpbDJlUldsUTl2WldIdnN2X2s?oc=5)
 - [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
 - …and 12 more
 
@@ -63,8 +63,8 @@ band is wide, the elasticities are doing the work, not the event.
 _1 corroborating headline(s):_
 - [Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5)
 
-## Russia Plans New Grain Export Routes After Ukrainian Attacks - Modern Diplomacy
-*Tue, 14 Jul 2026 08:37:40 GMT* — [source](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlFCY0k4MU50cWN5M0x2Mkx1QmFrelczbEFmZy1hRG16ekN0aFVZWlhSWTdwbTV2SDhkMFlWa2ZnYlRDTUZJbkNUSGsxQ2N1eWh6a1ZEaGN4WmgyY0p6NVMwbHdvSlRibjdDUkpfOUdXc1Z6LWhram1tbGRQcmo2Q2dJR3d5bjNiLVVUZzVvS0NiS2RHM0g1bnNCNDU1ZlRG?oc=5)
+## Russia and Ukraine Strikes Hit Key Grain Sea Export Ports - gCaptain
+*Sun, 12 Jul 2026 18:28:19 GMT* — [source](https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkdGY0tIbkVqVFRZRUF1V21JRkp6Zm1CX3VPNl9uNENIUUduZEUwV1QwZ0Juc2w3eTk4TFNUMXZoTkdMZHM0bG1kaFNLWHkya2xGUkFBV1hNM1QxSVZZOU1sa3pqMzlkS3pJdG5DTTNkZUYzU2hqZlVNd04xZm02dGs1U3dYdw?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -79,11 +79,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
-- [Russia and Ukraine Strikes Hit Key Grain Sea Export Ports - gCaptain](https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkdGY0tIbkVqVFRZRUF1V21JRkp6Zm1CX3VPNl9uNENIUUduZEUwV1QwZ0Juc2w3eTk4TFNUMXZoTkdMZHM0bG1kaFNLWHkya2xGUkFBV1hNM1QxSVZZOU1sa3pqMzlkS3pJdG5DTTNkZUYzU2hqZlVNd04xZm02dGs1U3dYdw?oc=5)
+_5 corroborating headline(s):_
+- [Russia Plans New Grain Export Routes After Ukrainian Attacks - Modern Diplomacy](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlFCY0k4MU50cWN5M0x2Mkx1QmFrelczbEFmZy1hRG16ekN0aFVZWlhSWTdwbTV2SDhkMFlWa2ZnYlRDTUZJbkNUSGsxQ2N1eWh6a1ZEaGN4WmgyY0p6NVMwbHdvSlRibjdDUkpfOUdXc1Z6LWhram1tbGRQcmo2Q2dJR3d5bjNiLVVUZzVvS0NiS2RHM0g1bnNCNDU1ZlRG?oc=5)
 - [EU Wheat Jumps on Talk of Disruption to Russian Export Route - Marine News Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWQyYk5obW04aVVHYzB6c0Q1OU9BLVRVZ3VwY2cxWlc4cHlJaVpvLXhXTVd0c2p0bVJidnFxaW1oRkZIQ2s1Q21kRS1RdEJ3NDVHbkhBcHpvT2k2RE01djhoaDdZcVVCM3lSUHhpT3d5YmF3ckphZkU4ODhwV1YyN0hrdzFaejd5YVNnTkItZ2VGMzRCTWM1eGlwWGtFLWIzRDlJVFotOFA?oc=5)
-- [Russia says grain exports will not be affected, but the situation in the Sea of Azov suggests otherwise - UkrAgroConsult](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ05OQlFMU3hZSk1XOEdFZEtqQzgzLXBvYzBwc0pKUVM0eVFKT3NpX1dJTXFwN3NHMU5BcFlaR1dwTzR6MmdwamVsRGllUnZmMWpubk1OU2czY0tpVU9JSTllakIxcHhxT05ZYmdRcE92VnNMbUpzOEdVWDBsOVd4STlYZFpvdUJHVmdWMWFhSWhTbHJsX2JWS2xuNzhGc0ZtX2VlNjQ1SzhBV3RwRlFVcldVaW9yU1JnbVNIZGVjMlE5NjBVYnRoNlFnN2tpNHZZTG5NVA?oc=5)
-- …and 3 more
+- [Grain Exports in Jeopardy: Ukraine-Russia Conflict Tightens Sea of Azov - Devdiscourse](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUs3TWljZ21FV2NwZUQ3VlJNYm5fVWVtWHFIdHl3WURXbVZ2NlY2aXptMDFDNDkxU2lOTDM1TnFUUS1oUnA0azd6RnpJaWpHNFpHWFVUak1mQ0Y1UGtQekJQWFFqQVRkZ0ZmenpHRUNLQzZMZmxRbTFGcmp0cjZiZ0xPeEd5dHRldi1VMWpQaFBGSWd5WGFWUFNkQ1Jxdkw2NnRWanh4bjhRVzlpRHY4b2oxX1Zyd3VWd0xEZk9tbmd3cnloNzhV0gHHAUFVX3lxTE51SzdNaWNnbUVXY3BlRDdWUk1ibl9VZW1YcUh0eXdZRFdtVnY2VjZpem0wMUM0OTFTaU5MMzVOcVRRLWhScDRrN3pGeklpakc0WkdYVVRqTWZDRjVQa1B6QlBYUWpBVGRnRmZ6ekdFQ0tDNkxmbFFtMUZyanRyNmJnTE94R3l0dGV2LVUxalBoUEZJZ3lYYVZQU2RDUnF2TDY2dFZqeHhuOFFXOWlEdjhvajFfVnJ3dVZ3TERmT21uZ3dyeWg3OFU?oc=5)
+- …and 2 more
 
 ---
 
