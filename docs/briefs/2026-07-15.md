@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _17 corroborating headline(s):_
 - [Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It - Time Magazine](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjk1OEVEdlZCbFk0V3JqZmQzd2d3TDRzYTQ4S3FTY1F6OVRMTGxqaUxXUC05OHpFTzFGQ2Y2VXZLSlo3dzd5VV9fRVhiZHBPSm5EOUd1ZFFaRkF6c0w1RVJPdWsyRlowcFJhOUJCcVViM215dWhXOTJfbWNOZHNMV29qTm4xbkM3aU1fb1gzNFNlZWN0eHlXZlNZcw?oc=5)
-- [How Gulf countries are preparing for life without the Strait of Hormuz - The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxNb2Y4NVpwZFZqOTdfeERINktsemF2N1pCejZ6Nlc5bWlIdW1FX3RhNXlEVS1BZmo4R1AwcnJkc0VyZXpjVGhSbmdJUUFxX25aRXdkOVVYR2RjTTdYdHVqZmhZRHVPM1Q4X1BCUmVraGxzUEdpRl9CRjNPV1oyUEtobXYxU1lKY3RNOXpFN3JiYW5kc0czNXoxbWR4bXNXR2JFdGZfZ1Z0S3ZZbmliVFZ3Tk5ybw?oc=5)
 - [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
+- [How Gulf countries are preparing for life without the Strait of Hormuz - The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxNb2Y4NVpwZFZqOTdfeERINktsemF2N1pCejZ6Nlc5bWlIdW1FX3RhNXlEVS1BZmo4R1AwcnJkc0VyZXpjVGhSbmdJUUFxX25aRXdkOVVYR2RjTTdYdHVqZmhZRHVPM1Q4X1BCUmVraGxzUEdpRl9CRjNPV1oyUEtobXYxU1lKY3RNOXpFN3JiYW5kc0czNXoxbWR4bXNXR2JFdGZfZ1Z0S3ZZbmliVFZ3Tk5ybw?oc=5)
 - …and 14 more
 
 ## OPEC Cuts 2026 Global Oil Demand Growth Forecast for Third Straight Month - Egypt Oil & Gas
@@ -79,11 +79,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
+_9 corroborating headline(s):_
+- [Wheat futures surge as escalating Russia-Ukraine war threatens Black Sea exports (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMiugFBVV95cUxQYjVSb3FqdjFRVUZ2SU9sNC13N0VoLVM4Y0hiUEZDMGhQUDlRNmptaW1fbHhoZFNLVDdNdWw0aVFrVVJ3QzFvZEJMUTFscFZybnFPVjl1RzU4bWdpZ1FGZ0ZYYWk1dHFwMmtRMGNULWVUSWJjU0VEakFDNmxHWDhOMWh0RGQtZVhxbWE4aUhoLVZXaUJvb2ZZekF0UVBGd0JHdUs4SERESkFEcnlOT2Y2bkRzQ3RqbHdFQkE?oc=5)
 - [Azov Sea Blockage Forces Russian Wheat Exporters to Rethink Logistics - StoneX](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0VmTlJXUUFnSnhlRXpfRFNBQzltc0ZJWERVakpfRjF6UWRpeGlFaG9IWElKNmoxdENEbXZjTzZPZVE4X2liNlhVLXV3UW9zODhNN0hVdGJtdm5yQnBVQWRyd3k3M1kxNGt3WVNDSU1FTnVqTWRkOUdNNEVtWXNNdFhvWHpaUUI3SS1OX1FXenhaQ2lSLUloMGRIS0otekFjOE9ZMUxuRXM?oc=5)
-- [Russian wheat exports constrained following Ukrainian attacks - Kpler](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMTQybkdlWi1SaEFVNjh2VVNCNnhkX211QUZVaTVLbjVxTFVZdGJVWjBxYldNXzlNYW9NZWpyQTB1UXdpajZ0UGhXV1VSeVhNWk1hUjNRLWc3eDRFNzhfVFkxX3ltbmZPcFc0bVZnMm5QZmRyX3M1Um9KemVIYndvZU9kMmNGMjhTQUpqeV9xeVhudw?oc=5)
-- [Ukraine loses one-third of Black Sea grain export capacity, Reuters says - Українська правда](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZ3ZrOTFXX2lvX2tfRFBPZFQ2NU45SXRhLVhEdVB0Z3dobFQxclNwWXhVWlhkTnVtWnBlNWt6OVdkYlBpaW9EVmJZNmEyVWduYXZ3X0pUSThvMy1VZ3ZJOVBjeVTSAXBBVV95cUxNNGdVVWtUaFlQcV9wLVYxZjZORG5vVTBET2FRT3g1S0lNYzhocDV5YzVjaFVuaEQ2WGxXMzUtVHZjd0VEZTZneXNIVEY3dlczVV93aTM2Y2d5MzhLdDhRU2s2cl93RHAzMWtMMWZ2endy?oc=5)
-- …and 5 more
+- [Russian Strikes Knocked Out About a Third of Ukraine’s Grain Export Capacity - SFG Media](https://news.google.com/rss/articles/CBMieEFVX3lxTFA3YjAwYUVuRXNTemNHVThKXzA2WUhSbVdzWjZ2X1N2TmtRMENEX29iUmljLXhZNU83NjFXWjFXM3pZQl9yTG9DZWstc3NCaUd6eTZma0psTThKMzNtWUk2V2tESmh6R3BteTE2SG5ObHVXYjl5eWNuNg?oc=5)
+- …and 6 more
 
 ---
 
