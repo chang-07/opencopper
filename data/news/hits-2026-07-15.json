@@ -112,7 +112,7 @@
  {
   "headline": "WSJ Reports Tankers Hit Outside Strait of Hormuz at the Port of Fujairah; Potential Disruption to Key UAE Export Hub - Energy News Beat",
   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOVRTMEYwZ2tBU3R5anM4dzJIYWwzNEVyeXBHUEU5NEU1OUNsUzA3djg1Qndsdk5LM25wTXZWZnBDRUNWZ3NWbkY1ZERVQTRaWDBURDZBUVdIVmFiY1lzUUtNb05PODZHczlBOHNJTEtLVzkyZnFkQzR2V2w2cDlCRjZpazNwVkk4eWRuX0UzZGZiYzlvTkRmZHo0MVd0b3hITzBDQlFIc3VpWUVGZVlnMEZRS0dnNHg1b3FjaXRJa0J3RnBqSjdla0ZUYlhqOGNQY0FXTVp3NkVpWklaQWZQX0xxdi1qblk?oc=5",
-  "published": "Wed, 15 Jul 2026 14:30:12 GMT",
+  "published": "Wed, 15 Jul 2026 15:30:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -198,17 +198,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Indonesia Rejects a Broad Nickel Quota Increase, Challenging the Market's Oversupply Outlook for Battery Metals - Crux Investor",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWjh4eUI2NURkcUZLcl94bWJoZXJYUEwyQU9TWUExWG5rVlF0cGpXdTR0eU9WczV6VC1SLURoUDVSNTJxN1RvWlBqNnlNaTg5M0p0NUJQMVcwSjlyNWNTT1ZlMVlUNzdqQlQ4SkIzMVIzT0NFNXJOYzZnRk45blN2eEhJTE1WLXJrWkV6SnJPd0JyTWpmd1A4aml4R3FPR2ZscG1wWk1jSTRUU0FLTzRISHBlTXVwcENYbF9OdHZreHM1MklSa0pMYmVzUXRKOVNhZHZRZ1R6aDVBVmN2?oc=5",
-  "published": "Tue, 14 Jul 2026 13:30:32 GMT",
-  "rule_note": "",
-  "commodity": "nickel",
-  "country": "Indonesia",
-  "severity": 0.25,
-  "rule_id": "indonesia-nickel",
-  "source": "keyword-rule"
- },
- {
   "headline": "DR Congo\u2019s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa",
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5",
   "published": "Sat, 04 Jul 2026 07:00:00 GMT",
@@ -233,7 +222,7 @@
  {
   "headline": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5",
-  "published": "Wed, 15 Jul 2026 11:39:44 GMT",
+  "published": "Wed, 15 Jul 2026 17:45:09 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -341,6 +330,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Taking A Cue From Iran? How Ukraine Is Choking Russia\u2019s \u2018Strait Of Hormuz\u2019 In Black Sea Region - News18",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFNER2J4cm9fMF9SU0F5WkIzMUNiSy14eTNSVnF0MnNLU0VFb3oyR0NXYnlUUHk5eHEyNnF0Q2Z2NE5jbk94UG9WSElvM1BpTVd6NHEwQUlXZkFqR2o2dk9CUXBfRzRuMGFQWG9qQlFiRU91Sm44NnhrS2dRV0h1eDNEblY3R2I4QmMtMDJUSUtTZGNhbm5PQ1AtM3lYQzBfQjRPT1JWTFVrNWJtakhJ0gG0AUFVX3lxTE1KUnJfNURIR0hnY1pXemx5OGwwRUdwU2VzWDhSRTR1UXF4emxieWlUeUFuLXRTbUN0SGtXNnBjZlhPSmpkeG1Gejl0Rzk3eDBTdFFpY0JtYVZFT3ZwSXZwQnBKemZ2WlRoR2x5Y0xkRUVLOWhUTTltTXdpLTREQ0xZYlVBVjhXVWIzUHVfLVFOSFNUM0phd0dsUWduVUZDV2Z1ZWk2WG13V0NlVWtxeERBdEJ6OA?oc=5",
+  "published": "Wed, 15 Jul 2026 16:22:08 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Ukraine Vows to Safeguard Grain Exports Amid Intensified Attacks - Devdiscourse",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWhIUk51N0hfakNCQjVjd3NVZjYzOGYxOVZEclNhX0t6QThOdHc5Sk5HU1FhRW94b1lIUWp0MTFMNWx0U3VsWXFQb1BRRWxxX1VKQjdKekdjTTFxcmZKdmMxT0FUWkpvVmNTcFlPUHNhMW9lZDM3bmVUdUIteDRQWGxWRWpLTl9rZjg5SDdXbWNxZk5HazlrQzNRWThLZEROdEtNM0hTS3JFeDlqdTc3UjR4eDR6dGlLOWJwT05Xd9IBvwFBVV95cUxNLWhIUk51N0hfakNCQjVjd3NVZjYzOGYxOVZEclNhX0t6QThOdHc5Sk5HU1FhRW94b1lIUWp0MTFMNWx0U3VsWXFQb1BRRWxxX1VKQjdKekdjTTFxcmZKdmMxT0FUWkpvVmNTcFlPUHNhMW9lZDM3bmVUdUIteDRQWGxWRWpLTl9rZjg5SDdXbWNxZk5HazlrQzNRWThLZEROdEtNM0hTS3JFeDlqdTc3UjR4eDR6dGlLOWJwT05Xdw?oc=5",
   "published": "Wed, 15 Jul 2026 13:03:27 GMT",
@@ -349,17 +349,6 @@
   "country": "Russia",
   "severity": 0.15,
   "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Taking A Cue From Iran? How Ukraine Is Choking Russia\u2019s \u2018Strait Of Hormuz\u2019 In Black Sea Region | World News - News18",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFNER2J4cm9fMF9SU0F5WkIzMUNiSy14eTNSVnF0MnNLU0VFb3oyR0NXYnlUUHk5eHEyNnF0Q2Z2NE5jbk94UG9WSElvM1BpTVd6NHEwQUlXZkFqR2o2dk9CUXBfRzRuMGFQWG9qQlFiRU91Sm44NnhrS2dRV0h1eDNEblY3R2I4QmMtMDJUSUtTZGNhbm5PQ1AtM3lYQzBfQjRPT1JWTFVrNWJtakhJ?oc=5",
-  "published": "Wed, 15 Jul 2026 16:22:08 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
   "source": "keyword-rule"
  }
 ]

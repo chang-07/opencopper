@@ -44,23 +44,6 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Indonesia Rejects a Broad Nickel Quota Increase, Challenging the Market's Oversupply Outlook for Battery Metals - Crux Investor
-*Tue, 14 Jul 2026 13:30:32 GMT* — [source](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWjh4eUI2NURkcUZLcl94bWJoZXJYUEwyQU9TWUExWG5rVlF0cGpXdTR0eU9WczV6VC1SLURoUDVSNTJxN1RvWlBqNnlNaTg5M0p0NUJQMVcwSjlyNWNTT1ZlMVlUNzdqQlQ4SkIzMVIzT0NFNXJOYzZnRk45blN2eEhJTE1WLXJrWkV6SnJPd0JyTWpmd1A4aml4R3FPR2ZscG1wWk1jSTRUU0FLTzRISHBlTXVwcENYbF9OdHZreHM1MklSa0pMYmVzUXRKOVNhZHZRZ1R6aDVBVmN2?oc=5)
-Rule: nickel / Indonesia / severity prior +25%
-
-```
-CROSS-COMMODITY RIPPLE — Indonesia nickel -25% (prior)
-commodity    channel       via                          price Δ
-----------------------------------------------------------------
-nickel       direct        Indonesia                       +50%  [+20..+192%]
-cobalt       byproduct     nickel@Indonesia                 +5%  [+2..+20%]
-
-One first-order round through data/seed/linkages.yaml (byproduct /
-substitution / input-cost); couplings are disputable seed-estimates.
-[..] = the same shock across the seeded elasticity RANGES — when the
-band is wide, the elasticities are doing the work, not the event.
-```
-
 ## DR Congo’s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa
 *Sat, 04 Jul 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeS1PZlhoZzd5Z0JwNktFeHdpVEQ3WXM0TEptd3pzV0dmcllSOWQzYUw3bXNacVN2SDF2ck94WlBhOUdwM3FIZUN0eVFiMkdyUFV0RHJZMFIzbHd1Tk94Q3NWNGxscFFNSHl4cEVjUXc3WmRzWjExV2FlTlA0NGd6RjFhYV85TS1Uejk2TTBtN3Ixdkl2QjdnOHFSN1luM2I1ZGtDUzdTakZpR2lBd24wLWdqYXhJR0tzd2tVNHNWNDJ3dEVLNl9yUzJhN2FhVmVyMEZzSjRaWQ?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
@@ -81,7 +64,7 @@ _1 corroborating headline(s):_
 - [Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5)
 
 ## Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters
-*Wed, 15 Jul 2026 11:39:44 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
+*Wed, 15 Jul 2026 17:45:09 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
