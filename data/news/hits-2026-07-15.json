@@ -1,6 +1,6 @@
 [
  {
-  "headline": "How Gulf countries are preparing for life without the Strait of Hormuz - The Independent",
+  "headline": "Beyond the Strait of Hormuz: How Gulf countries are preparing for life without the waterway - The Independent",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb2Y4NVpwZFZqOTdfeERINktsemF2N1pCejZ6Nlc5bWlIdW1FX3RhNXlEVS1BZmo4R1AwcnJkc0VyZXpjVGhSbmdJUUFxX25aRXdkOVVYR2RjTTdYdHVqZmhZRHVPM1Q4X1BCUmVraGxzUEdpRl9CRjNPV1oyUEtobXYxU1lKY3RNOXpFN3JiYW5kc0czNXoxbWR4bXNXR2JFdGZfZ1Z0S3ZZbmliVFZ3Tk5ybw?oc=5",
   "published": "Wed, 15 Jul 2026 04:33:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -55,17 +55,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "US backs Iraq-Syria oil pipeline amid efforts to find alternatives to Strait of Hormuz - thenationalnews.com",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORWV1ZjZWYTJfWENyRkRfVGFUbjI1bHVFSFo3RTBoaUN2TlhRaUVoMWVqSEtFNTdHcmpGazVjU3cxOE9WUjRDMURzOXFFYUlJX2JhMmlnc0RqTVlNb0ZmeXlLc3NUUWpFekNyWG9QekhWblRsd2VGQ2lpekdxd3d1QjNmSTQwdlBDVDh4dG10RUJ1YjFqaWNLanlHSV9LbVRBc2N4RGR0MV9JQ05Ob296ckNDU3JLUXFrYzFSa2F5WmNhUV9JOU9CN2VfWHZNTURXY00tV0RWMkhBWnMySGRr?oc=5",
-  "published": "Wed, 15 Jul 2026 05:29:32 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC Output Surged in June as Hormuz Flows Jumped, Survey Shows - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFM2SHNJRnJjLXpYOVVYdm9jM2JVU3pDbVdXbUVUTnNQVFZ6NnlIWjNoZ1F3NnhDUkxYSG5Cb0wwZ1RhSHFuNnc5Y0hPZDdMM2k0cXNlMngxWXZKckVXYldZYVp3QjZFbHVpNEpPTW1uWWFpRU1uRGFWRGRWbDU2SGp6cmhZT3ZFZVVfSG5XODYxbzhVdkRfTlJiQjBLMnUxZnh1cVh4VExwN1ZPbl9OTkNTSQ?oc=5",
   "published": "Fri, 03 Jul 2026 07:00:00 GMT",
@@ -80,6 +69,17 @@
   "headline": "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5",
   "published": "Sun, 05 Jul 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "US backs Iraq-Syria oil pipeline amid efforts to find alternatives to Strait of Hormuz - thenationalnews.com",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORWV1ZjZWYTJfWENyRkRfVGFUbjI1bHVFSFo3RTBoaUN2TlhRaUVoMWVqSEtFNTdHcmpGazVjU3cxOE9WUjRDMURzOXFFYUlJX2JhMmlnc0RqTVlNb0ZmeXlLc3NUUWpFekNyWG9QekhWblRsd2VGQ2lpekdxd3d1QjNmSTQwdlBDVDh4dG10RUJ1YjFqaWNLanlHSV9LbVRBc2N4RGR0MV9JQ05Ob296ckNDU3JLUXFrYzFSa2F5WmNhUV9JOU9CN2VfWHZNTURXY00tV0RWMkhBWnMySGRr?oc=5",
+  "published": "Wed, 15 Jul 2026 05:29:32 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -242,9 +242,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian wheat exports constrained following Ukrainian attacks - Kpler",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMTQybkdlWi1SaEFVNjh2VVNCNnhkX211QUZVaTVLbjVxTFVZdGJVWjBxYldNXzlNYW9NZWpyQTB1UXdpajZ0UGhXV1VSeVhNWk1hUjNRLWc3eDRFNzhfVFkxX3ltbmZPcFc0bVZnMm5QZmRyX3M1Um9KemVIYndvZU9kMmNGMjhTQUpqeV9xeVhudw?oc=5",
-  "published": "Wed, 15 Jul 2026 10:44:42 GMT",
+  "headline": "Azov Sea Blockage Forces Russian Wheat Exporters to Rethink Logistics - StoneX",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0VmTlJXUUFnSnhlRXpfRFNBQzltc0ZJWERVakpfRjF6UWRpeGlFaG9IWElKNmoxdENEbXZjTzZPZVE4X2liNlhVLXV3UW9zODhNN0hVdGJtdm5yQnBVQWRyd3k3M1kxNGt3WVNDSU1FTnVqTWRkOUdNNEVtWXNNdFhvWHpaUUI3SS1OX1FXenhaQ2lSLUloMGRIS0otekFjOE9ZMUxuRXM?oc=5",
+  "published": "Wed, 15 Jul 2026 14:23:06 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -256,6 +256,39 @@
   "headline": "Ukraine loses one-third of Black Sea grain export capacity, Reuters says - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZ3ZrOTFXX2lvX2tfRFBPZFQ2NU45SXRhLVhEdVB0Z3dobFQxclNwWXhVWlhkTnVtWnBlNWt6OVdkYlBpaW9EVmJZNmEyVWduYXZ3X0pUSThvMy1VZ3ZJOVBjeVTSAXBBVV95cUxNNGdVVWtUaFlQcV9wLVYxZjZORG5vVTBET2FRT3g1S0lNYzhocDV5YzVjaFVuaEQ2WGxXMzUtVHZjd0VEZTZneXNIVEY3dlczVV93aTM2Y2d5MzhLdDhRU2s2cl93RHAzMWtMMWZ2endy?oc=5",
   "published": "Wed, 15 Jul 2026 12:38:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian wheat exports constrained following Ukrainian attacks - Kpler",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMTQybkdlWi1SaEFVNjh2VVNCNnhkX211QUZVaTVLbjVxTFVZdGJVWjBxYldNXzlNYW9NZWpyQTB1UXdpajZ0UGhXV1VSeVhNWk1hUjNRLWc3eDRFNzhfVFkxX3ltbmZPcFc0bVZnMm5QZmRyX3M1Um9KemVIYndvZU9kMmNGMjhTQUpqeV9xeVhudw?oc=5",
+  "published": "Wed, 15 Jul 2026 10:44:42 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian attacks cut Ukraine grain exports by one third through Black Sea ports - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3cVIzTnM3aWMzeklwS2N5QXVuNzdOWVM1bWtIbi0xQ01ZdjFMa3FLOXZQeElTUktHNXh3S0xLMEtIX3VZTV9KZEx6bXd5MEdydVUyTElLSV9STUE2UkNaZTI0b3BqNkg0RVJObUZqckRqd2c?oc=5",
+  "published": "Wed, 15 Jul 2026 14:10:02 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Ukraine has lost third of its grain export capacity in Black Sea \u2013 Reuters - ukranews.com",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVdwdFhDek5KVDFnN0F6RDBGNExiWmZXVjlCdHh4My1vR0dKLWFEcUR3dDJXX2o2dGxhQVI4WGZUVlh6SFM0R0lCNEF3NmN4LVJEXzlMZGRfc216eXRSd1ctTzBVekYwUmhjeDVLRy1OMndLQUdSREpyQUQtbFE4ZlItcjdqUFVCM0hVRDV3YXBEUFRVTl9GakNKWEJvN1ljdENrUzF0UC01a28wOFJUZGFnMnFZYkVsWGJ1NDNn0gHDAUFVX3lxTE1yTHhVQVNPMWxfa0lYMmNYTGdsSW5SeXFjZ3dsTU1MVVhfOEIxQUNuNzNOczF1V3JoMHJJNFMwT2N6ajlTTHMyaXgwQ2tZZF9URktmV1JTS1N3Qk10TWZRM1JuSXdkdTRZeEFkRHRGVUxETW1ObzcydFNPR0lBSlJOVXVyWHRuX19RNEp3M1BUODEtcHltcklXX2pReERZNmZJZHN6cGlxSmp6QVVlNzRvVFJoUTdBaWFGdFFjei1MbHZFZw?oc=5",
+  "published": "Wed, 15 Jul 2026 16:21:26 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -319,25 +352,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Grain Exports in Jeopardy: Ukraine-Russia Conflict Tightens Sea of Azov - Devdiscourse",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUs3TWljZ21FV2NwZUQ3VlJNYm5fVWVtWHFIdHl3WURXbVZ2NlY2aXptMDFDNDkxU2lOTDM1TnFUUS1oUnA0azd6RnpJaWpHNFpHWFVUak1mQ0Y1UGtQekJQWFFqQVRkZ0ZmenpHRUNLQzZMZmxRbTFGcmp0cjZiZ0xPeEd5dHRldi1VMWpQaFBGSWd5WGFWUFNkQ1Jxdkw2NnRWanh4bjhRVzlpRHY4b2oxX1Zyd3VWd0xEZk9tbmd3cnloNzhV0gHHAUFVX3lxTE51SzdNaWNnbUVXY3BlRDdWUk1ibl9VZW1YcUh0eXdZRFdtVnY2VjZpem0wMUM0OTFTaU5MMzVOcVRRLWhScDRrN3pGeklpakc0WkdYVVRqTWZDRjVQa1B6QlBYUWpBVGRnRmZ6ekdFQ0tDNkxmbFFtMUZyanRyNmJnTE94R3l0dGV2LVUxalBoUEZJZ3lYYVZQU2RDUnF2TDY2dFZqeHhuOFFXOWlEdjhvajFfVnJ3dVZ3TERmT21uZ3dyeWg3OFU?oc=5",
-  "published": "Mon, 13 Jul 2026 14:00:03 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Black Sea Wheat Market: Can Russia Manage Fuel And Export Challenges? - UkrAgroConsult",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3ZuTnM5dFFtYkljUFRWQnBpaWVBRTJKS3YwRldMQTk4SXNDOGR1bEU5VmtKRUV5TkgtRU95S2hEaTBXR3lFV3l3YjZaclI4QUZ5cEtXN3FST0Z1NU82ci02aUNoOGxQX25tOVhWM2lVQlNrSnYwZnQwcl9zRmlaa3F2S2c0UU11VF8wRmpFdXdEbUI0UmdGcjlJRlR1OTdyWmJuUTFB?oc=5",
-  "published": "Wed, 08 Jul 2026 08:31:28 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
+  "headline": "Taking A Cue From Iran? How Ukraine Is Choking Russia\u2019s \u2018Strait Of Hormuz\u2019 In Black Sea Region | World News - News18",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFNER2J4cm9fMF9SU0F5WkIzMUNiSy14eTNSVnF0MnNLU0VFb3oyR0NXYnlUUHk5eHEyNnF0Q2Z2NE5jbk94UG9WSElvM1BpTVd6NHEwQUlXZkFqR2o2dk9CUXBfRzRuMGFQWG9qQlFiRU91Sm44NnhrS2dRV0h1eDNEblY3R2I4QmMtMDJUSUtTZGNhbm5PQ1AtM3lYQzBfQjRPT1JWTFVrNWJtakhJ?oc=5",
+  "published": "Wed, 15 Jul 2026 16:22:08 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
   "source": "keyword-rule"
  }
 ]
