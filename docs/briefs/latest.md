@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## How Gulf countries are preparing for life without the Strait of Hormuz - The Independent
-*Tue, 14 Jul 2026 15:54:00 GMT* — [source](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXA3ODVNRGlaV0hRQzBFTGlvLXlfYmFqOV9pdzUtQXlUaWNxalFVRzdWVktsUk1PeS1ZQlFNVFJMXy1sbW1WTHJxemFzeE5pMkhMbHZTRGk0M3BlbUZmVGt3OXloX0M0LUJZY0JsbjVjTlN0SFNQRXN4MnctdzI4TDhLOW54RnN3UGw5c3JpbDJlUldsUTl2WldIdnN2X2s?oc=5)
+## Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations
+*Thu, 09 Jul 2026 09:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _15 corroborating headline(s):_
-- [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
 - [Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It - Time Magazine](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjk1OEVEdlZCbFk0V3JqZmQzd2d3TDRzYTQ4S3FTY1F6OVRMTGxqaUxXUC05OHpFTzFGQ2Y2VXZLSlo3dzd5VV9fRVhiZHBPSm5EOUd1ZFFaRkF6c0w1RVJPdWsyRlowcFJhOUJCcVViM215dWhXOTJfbWNOZHNMV29qTm4xbkM3aU1fb1gzNFNlZWN0eHlXZlNZcw?oc=5)
 - [OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWlkQjgxaWhiTnhfYmcyeXFvakF0QnJxX0NLaFZLLVIxTk42R0ZmRnJudklCMEpQVnI1RnF1TmZfWElaRVhFV1VKbmw4WGJiMWw0THBidG9BSUxQYzZiMzUxa2hCeDYyMWNYaTB1MkRvMTdLdzFDZWFVUzVQbThoVUs5NFJ4VWlna0ZZT0JyaXhBVDFQV0Z3b1dKOVN0YkZ3MGZ4c3pMYUxtYlY2T3JiYUE2bTdfTFE2cGlvWGY3NXVNYl90RHhjZGVCZGjSAdIBQVVfeXFMUGh4N1VxZ1FsRnlBWE95aEZ0X2xueXpveGZfaEdGejRpUVVkN29aVDRvNGRmZjlTcmhKTmRvRTItRjA1MGp4N3N2TmIxTnE1LVBSNmJnZ2NJUHFRblVTYXZfa3lTR2k0d0tVTDA4eU1Jb29LU0JEVk5kMU1NMmZIRVFHemtsbzVrbnFHQWNibmZ0WGNfTGFBZm1VclZDZ291cjZNZnNMelFNc0FIV2c3eFExVnc3Y2l1T1pRUHdwRmNqUjJfRlVJVDQ3N3o5SDNEckl3?oc=5)
+- [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
 - …and 12 more
 
 ## OPEC Cuts 2026 Global Oil Demand Growth Forecast for Third Straight Month - Egypt Oil & Gas
