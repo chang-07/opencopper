@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _18 corroborating headline(s):_
-- [OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWlkQjgxaWhiTnhfYmcyeXFvakF0QnJxX0NLaFZLLVIxTk42R0ZmRnJudklCMEpQVnI1RnF1TmZfWElaRVhFV1VKbmw4WGJiMWw0THBidG9BSUxQYzZiMzUxa2hCeDYyMWNYaTB1MkRvMTdLdzFDZWFVUzVQbThoVUs5NFJ4VWlna0ZZT0JyaXhBVDFQV0Z3b1dKOVN0YkZ3MGZ4c3pMYUxtYlY2T3JiYUE2bTdfTFE2cGlvWGY3NXVNYl90RHhjZGVCZGjSAdIBQVVfeXFMUGh4N1VxZ1FsRnlBWE95aEZ0X2xueXpveGZfaEdGejRpUVVkN29aVDRvNGRmZjlTcmhKTmRvRTItRjA1MGp4N3N2TmIxTnE1LVBSNmJnZ2NJUHFRblVTYXZfa3lTR2k0d0tVTDA4eU1Jb29LU0JEVk5kMU1NMmZIRVFHemtsbzVrbnFHQWNibmZ0WGNfTGFBZm1VclZDZ291cjZNZnNMelFNc0FIV2c3eFExVnc3Y2l1T1pRUHdwRmNqUjJfRlVJVDQ3N3o5SDNEckl3?oc=5)
 - [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
-- [Oil prices surge as US-Iran tensions threaten Strait of Hormuz - Crypto Briefing](https://news.google.com/rss/articles/CBMilAFBVV95cUxPSnRXLTZWUGxPcmM0eWFmRm5NRDNSdXFWTUR0UGRDQmdlajFSYm1FQVFmaTA1NnVVVkRZM05lUVZQdG14MXZlYWRUckhMUl82QTE4cUo1VkMyckd1OURMRk5kWWJIWlB2OG5OZlV4dmQ2aEtSVHJ6Nnp3YlhsZ2YxODY1T1pfdG5ZNU1yNTFoYnNCd0I3?oc=5)
+- [OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWlkQjgxaWhiTnhfYmcyeXFvakF0QnJxX0NLaFZLLVIxTk42R0ZmRnJudklCMEpQVnI1RnF1TmZfWElaRVhFV1VKbmw4WGJiMWw0THBidG9BSUxQYzZiMzUxa2hCeDYyMWNYaTB1MkRvMTdLdzFDZWFVUzVQbThoVUs5NFJ4VWlna0ZZT0JyaXhBVDFQV0Z3b1dKOVN0YkZ3MGZ4c3pMYUxtYlY2T3JiYUE2bTdfTFE2cGlvWGY3NXVNYl90RHhjZGVCZGjSAdIBQVVfeXFMUGh4N1VxZ1FsRnlBWE95aEZ0X2xueXpveGZfaEdGejRpUVVkN29aVDRvNGRmZjlTcmhKTmRvRTItRjA1MGp4N3N2TmIxTnE1LVBSNmJnZ2NJUHFRblVTYXZfa3lTR2k0d0tVTDA4eU1Jb29LU0JEVk5kMU1NMmZIRVFHemtsbzVrbnFHQWNibmZ0WGNfTGFBZm1VclZDZ291cjZNZnNMelFNc0FIV2c3eFExVnc3Y2l1T1pRUHdwRmNqUjJfRlVJVDQ3N3o5SDNEckl3?oc=5)
+- [Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5)
 - …and 15 more
 
 ## OPEC Cuts 2026 Global Oil Demand Growth Forecast for Third Straight Month - Egypt Oil & Gas
@@ -79,11 +79,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_8 corroborating headline(s):_
+- [Russian strikes threaten Ukraine’s Black Sea grain trade - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVhhOU9vNFBzTllQZG9WbE1uRUZhWGtDSWN1TjNEVWZKeGtZWlNLQ2FqNHVUbFQtRXpLZGpxMmk4S2FLcWtIX0EtcWJlVHdMLThFZ3VYVVh6MWVIQXZTaVUzR2xHX0pVRTJ5TENybG5MbC14ODBXZHpMN25FSTVrQjFwbUQ?oc=5)
+- [Russia and Ukraine strike vessels in Black Sea, wheat prices jump - KWSN](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHRsV1BYeXhGNmxLVko0TnNkRUtEVVBrd0lpbnlJZTd0dE4wOUh0bHMxTEtmb3BqbmFiT05QSlVRSW5ycFJjSkNjamUzbnNSQ2pwWkt4QkI2TDJLbUdsUlpBalpyeGRFQjdJX1I2VF83ZzQ0WnlSQkNaZ2lGNHAtVTBQX0Jqcld5VWNuX0xOZTVsd2M?oc=5)
 - [Wheat futures surge as escalating Russia-Ukraine war threatens Black Sea exports (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMiugFBVV95cUxQYjVSb3FqdjFRVUZ2SU9sNC13N0VoLVM4Y0hiUEZDMGhQUDlRNmptaW1fbHhoZFNLVDdNdWw0aVFrVVJ3QzFvZEJMUTFscFZybnFPVjl1RzU4bWdpZ1FGZ0ZYYWk1dHFwMmtRMGNULWVUSWJjU0VEakFDNmxHWDhOMWh0RGQtZVhxbWE4aUhoLVZXaUJvb2ZZekF0UVBGd0JHdUs4SERESkFEcnlOT2Y2bkRzQ3RqbHdFQkE?oc=5)
-- [Ukraine Vows To Protect Black Sea Ports After Russian Attacks Disrupt Key Grain Export Routes - Marine Insight](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTFDV3pFaGd4UlRsVHBTV2R3RlgtNlNRd2ktX0JjaW5VaEM2Q2J6eWlGSkF0WF9MN2VIaS1wYXBkRjdFdkJBeUp2Q3ZrUG81aDlUNDdIVks5RS02NFFLUGtmc1F2eDFKT0VrcEhkb3RuQ0g0VFE2aG02T0dWLVFuejlld0JnMkxWbFdGX3lIeDlvaEpHeXBHRHdLelRFeFY1eFJRekR1YmM2UWFHWTJ6SDEtdkxjVHNydjM0VUEzdmZqdw?oc=5)
-- [Wheat futures hit two-year high 🔼 Russian exports at risk - XTB.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1lPOU16X0E2ZWswVnA3V3lMcmVxbDUxeHlBMXJ2VWE4RUJfdGktWTNZRGYwYS1GUkRvTnhLY09NVmRvaEdJZEdkbVROWmVQLW1Cdmt3QWoyVzRDMlpTeWZlUGw3RUxIcUlkb1FXM0VTZFphT1Jid0RWTV9lcXM0WjY3U3RmTngzVzE5cEFkVjVhUW5CcGJiQjFOd0Yxc3dlVVh1Y1BHRVlWQnpNdTI0eGdVRQ?oc=5)
-- …and 4 more
+- …and 5 more
 
 ---
 
