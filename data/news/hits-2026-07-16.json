@@ -1,5 +1,16 @@
 [
  {
+  "headline": "Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline - Financial Times",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW1PQk53QzVRbW4xa29CNWRsbGtCSmpCS2pRR3N6dmJoMnNXbjdBRDhwMFN6UVZpM2MxSm5zakZaVkxRQjhIWWMxaDBIOWxjM0w5Y3BRUHBLWFJSNUp3elFoMWRTdXBvaElxamdwQlJVTS1BVzJUYjN3ek5DUjNFTmYtalc?oc=5",
+  "published": "Thu, 16 Jul 2026 16:14:17 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Strait of Hormuz crisis prompts Iraq and Jordan to revisit oil pipeline plan - thenationalnews.com",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV00wNDZWa1FLY0h5YzZkMVFVY016N1Z2TVRsNlV3VVBVV2RnVmpEWXpuNmxrQ1BCMW5qeG41Y0lkYUdBaThJbExaanZRVXA1NG1TTDZqQ2RiZmtVeko5X2Vjb1ZfTkxmTnFIOGkxbDhURGtsOHhqOVo5WnNxMVp6ZmVrTU1SM1d1THJPdw?oc=5",
   "published": "Thu, 16 Jul 2026 17:30:13 GMT",
@@ -88,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices surge as US-Iran tensions threaten Strait of Hormuz - Crypto Briefing",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSnRXLTZWUGxPcmM0eWFmRm5NRDNSdXFWTUR0UGRDQmdlajFSYm1FQVFmaTA1NnVVVkRZM05lUVZQdG14MXZlYWRUckhMUl82QTE4cUo1VkMyckd1OURMRk5kWWJIWlB2OG5OZlV4dmQ2aEtSVHJ6Nnp3YlhsZ2YxODY1T1pfdG5ZNU1yNTFoYnNCd0I3?oc=5",
-  "published": "Thu, 16 Jul 2026 00:42:12 GMT",
+  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
+  "published": "Sun, 05 Jul 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,9 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
-  "published": "Sun, 05 Jul 2026 07:00:00 GMT",
+  "headline": "Oil prices surge as US-Iran tensions threaten Strait of Hormuz - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSnRXLTZWUGxPcmM0eWFmRm5NRDNSdXFWTUR0UGRDQmdlajFSYm1FQVFmaTA1NnVVVkRZM05lUVZQdG14MXZlYWRUckhMUl82QTE4cUo1VkMyckd1OURMRk5kWWJIWlB2OG5OZlV4dmQ2aEtSVHJ6Nnp3YlhsZ2YxODY1T1pfdG5ZNU1yNTFoYnNCd0I3?oc=5",
+  "published": "Thu, 16 Jul 2026 00:42:12 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -176,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil hits $85 as battle for Strait of Hormuz alarms energy markets - Crypto Briefing",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVkJaWVZ0dGRRNmJ1R2R4SnVYQTBGMXR0Rm9Od3h0ZWhvX2dBdk9HUVU1aEVmVnp3LUh3Q2FwaHV1QUdZcXBJWm02dXJtMmViR0owc29XQXR0dERiUFBPMGFGMzZ2RWYxcjNKWDViSWJMTU5DY21YTEZKUGZFZDFBcDB1bUE3U3JqUG0wOTNNMjVBZVIwclNz?oc=5",
-  "published": "Tue, 14 Jul 2026 07:59:27 GMT",
+  "headline": "OPEC+ is raising oil output for a fifth straight month as Strait of Hormuz shipping recovers - qz.com",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVXltSHVDWGlLb1VMMFNCXzVrcnYzTXlnTzctYW92bHQwYUFlVzZEZ01lc0dYZUtzZW1BN2tYWjFNT2tRWVpUNUNIQzM0TkFkc3ZhdEZlX1RLSjNjSjQwVlliYUxyRHZHTWRWaUo2Zw?oc=5",
+  "published": "Mon, 06 Jul 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -198,9 +209,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ is raising oil output for a fifth straight month as Strait of Hormuz shipping recovers - qz.com",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVXltSHVDWGlLb1VMMFNCXzVrcnYzTXlnTzctYW92bHQwYUFlVzZEZ01lc0dYZUtzZW1BN2tYWjFNT2tRWVpUNUNIQzM0TkFkc3ZhdEZlX1RLSjNjSjQwVlliYUxyRHZHTWRWaUo2Zw?oc=5",
-  "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+  "headline": "Oil hits $85 as battle for Strait of Hormuz alarms energy markets - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVkJaWVZ0dGRRNmJ1R2R4SnVYQTBGMXR0Rm9Od3h0ZWhvX2dBdk9HUVU1aEVmVnp3LUh3Q2FwaHV1QUdZcXBJWm02dXJtMmViR0owc29XQXR0dERiUFBPMGFGMzZ2RWYxcjNKWDViSWJMTU5DY21YTEZKUGZFZDFBcDB1bUE3U3JqUG0wOTNNMjVBZVIwclNz?oc=5",
+  "published": "Tue, 14 Jul 2026 07:59:27 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -222,17 +233,6 @@
  {
   "headline": "Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5",
-  "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - CNBC Africa",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2xFZlpTMURrN1FEci1OU3BSaWZNRGFHNkxzaS1uMHZ2NW1Zc19Jdm5aZ01obUtXX2htbWMwTU9pZHdxcnBBLTlzSXg3RUEtXzJpWjFWRjh4eGs5LS1SYzVMMmxGWFV2b3dTbWZwdFFIUVhqZlRXMWIyX1JENGszV2hISGxFcjJia1A0S1ZUdnA3NWVNeVZqVWJYbTYxenoyODhVeFJZV1AxY1dfbXpvRjAwSnc?oc=5",
   "published": "Fri, 03 Jul 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
