@@ -22,8 +22,8 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _18 corroborating headline(s):_
-- [Strait of Hormuz crisis prompts Iraq and Jordan to revisit oil pipeline plan - thenationalnews.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxQV00wNDZWa1FLY0h5YzZkMVFVY016N1Z2TVRsNlV3VVBVV2RnVmpEWXpuNmxrQ1BCMW5qeG41Y0lkYUdBaThJbExaanZRVXA1NG1TTDZqQ2RiZmtVeko5X2Vjb1ZfTkxmTnFIOGkxbDhURGtsOHhqOVo5WnNxMVp6ZmVrTU1SM1d1THJPdw?oc=5)
 - [Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It - Time Magazine](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjk1OEVEdlZCbFk0V3JqZmQzd2d3TDRzYTQ4S3FTY1F6OVRMTGxqaUxXUC05OHpFTzFGQ2Y2VXZLSlo3dzd5VV9fRVhiZHBPSm5EOUd1ZFFaRkF6c0w1RVJPdWsyRlowcFJhOUJCcVViM215dWhXOTJfbWNOZHNMV29qTm4xbkM3aU1fb1gzNFNlZWN0eHlXZlNZcw?oc=5)
+- [Strait of Hormuz crisis prompts Iraq and Jordan to revisit oil pipeline plan - thenationalnews.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxQV00wNDZWa1FLY0h5YzZkMVFVY016N1Z2TVRsNlV3VVBVV2RnVmpEWXpuNmxrQ1BCMW5qeG41Y0lkYUdBaThJbExaanZRVXA1NG1TTDZqQ2RiZmtVeko5X2Vjb1ZfTkxmTnFIOGkxbDhURGtsOHhqOVo5WnNxMVp6ZmVrTU1SM1d1THJPdw?oc=5)
 - [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
 - …and 15 more
 
@@ -60,8 +60,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDViRTQyU1cwbEZUdllsdXZUNTkxMEtYU0twdk1ubXNhQ25pckh0a2hVdm9hVndXdmx6dE5Za25uSS1IQjk1UU5nNU1GZ2dWYXptQkwwM1FQMGJhR3hZRXFhVzEzTk5qcXB4VV9EQ2pIT3pxS3A1TW5rZjdGQ0RXNkhKNTVZY2xWb1dZcnI5WnFjVVA5Y0hzZm5rTjVxRXZEUUgwQWtycEZqY21KRFBHYXVIZ1NxNkRIbFhkanJZSWlpWFJCdDVz?oc=5)
+- [Congo cobalt exporters fear losing quotas due to administrative glitch, sources say - CNBC Africa](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2xFZlpTMURrN1FEci1OU3BSaWZNRGFHNkxzaS1uMHZ2NW1Zc19Jdm5aZ01obUtXX2htbWMwTU9pZHdxcnBBLTlzSXg3RUEtXzJpWjFWRjh4eGs5LS1SYzVMMmxGWFV2b3dTbWZwdFFIUVhqZlRXMWIyX1JENGszV2hISGxFcjJia1A0S1ZUdnA3NWVNeVZqVWJYbTYxenoyODhVeFJZV1AxY1dfbXpvRjAwSnc?oc=5)
 
 ## Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters
 *Wed, 15 Jul 2026 17:45:09 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
@@ -82,7 +83,7 @@ band is wide, the elasticities are doing the work, not the event.
 _7 corroborating headline(s):_
 - [Russian strikes threaten Ukraine’s Black Sea grain trade - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVhhOU9vNFBzTllQZG9WbE1uRUZhWGtDSWN1TjNEVWZKeGtZWlNLQ2FqNHVUbFQtRXpLZGpxMmk4S2FLcWtIX0EtcWJlVHdMLThFZ3VYVVh6MWVIQXZTaVUzR2xHX0pVRTJ5TENybG5MbC14ODBXZHpMN25FSTVrQjFwbUQ?oc=5)
 - [Russia and Ukraine strike vessels in Black Sea, wheat prices jump - KWSN](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHRsV1BYeXhGNmxLVko0TnNkRUtEVVBrd0lpbnlJZTd0dE4wOUh0bHMxTEtmb3BqbmFiT05QSlVRSW5ycFJjSkNjamUzbnNSQ2pwWkt4QkI2TDJLbUdsUlpBalpyeGRFQjdJX1I2VF83ZzQ0WnlSQkNaZ2lGNHAtVTBQX0Jqcld5VWNuX0xOZTVsd2M?oc=5)
-- [Wheat futures surge as escalating Russia-Ukraine war threatens Black Sea exports (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMiugFBVV95cUxQYjVSb3FqdjFRVUZ2SU9sNC13N0VoLVM4Y0hiUEZDMGhQUDlRNmptaW1fbHhoZFNLVDdNdWw0aVFrVVJ3QzFvZEJMUTFscFZybnFPVjl1RzU4bWdpZ1FGZ0ZYYWk1dHFwMmtRMGNULWVUSWJjU0VEakFDNmxHWDhOMWh0RGQtZVhxbWE4aUhoLVZXaUJvb2ZZekF0UVBGd0JHdUs4SERESkFEcnlOT2Y2bkRzQ3RqbHdFQkE?oc=5)
+- [Russia and Ukraine strike vessels in Black Sea, wheat prices jump By Reuters - Investing.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnZ5NEdJa0xCTEhjVnBmWmtMWlRKUWJkZmtWMFdQR21fOFFreVdISEpFV1U1Vzg4V2FqQ0JOVTJIeDhKM0hVUDdBRU9kMlFYdUcxNUhXcXlqdHBYN1Z5QTladkdHRkdWY2JRTnNFbEx6WlRYVnUxSVFmYllfSElQVXlOX2Q0bXJDRlZSaVQ3SzJfUS1jYkJkSFBhVXBtbDRYM2E5WDlZaGIydUxtY0xLTGpVNUNjblU?oc=5)
 - …and 4 more
 
 ---
