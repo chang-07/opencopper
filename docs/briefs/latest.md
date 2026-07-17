@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _18 corroborating headline(s):_
+- [Strait of Hormuz closure: Why crude oil prices haven’t spiralled out of control amid US-Iran conflict - The Times of India](https://news.google.com/rss/articles/CBMingJBVV95cUxNWERKdzM4UURvejlVMmluNHVDX0ZNT1ZRTmxlVjJ6NnRuRmU1RFBhNmphUm9IVHhNZ2sydmJJdHZiVGdTajZtaG9MVF94RFA0eVNVVGp1N1oxM01VdFZWYnJCUE4yNUxFcTVWcWp2VjlDYXhhRlI5dWE4TmU0VEFjRlhCUjAwUGpOQ1VqM0pPZTdBTkIwYy1PaFlySmxNbjdwUXR1QTh6a1JqZjIzeDdLcHJocV9fUWg2SjVkcUNkNnBndTdUVmI4UE44Y3I1WnFMYVA3YVQ0bWNwZ0Z3RFU2MTlNRnF4T3VHdHpRNHFMVnVBc3daSXhnV01oSWhZODgwNlNoUHZzeldReDV2VFZwRVhRNEoxa1FHNXJSZGtn?oc=5)
 - [Oil Producers Are Trying to Leave the Strait of Hormuz Behind. Iran Has Other Plans. - International Business Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVU2cm5uX3FWNVRSRjhmM3UtU1Foc2JIcy1hdVZ4OEliZ0RJZGdfYzBueXRlQW5uZW1zUUxUWjUtdGhRLWg0QzNkaHdRSzJTdXdSVEtEUmRzZ19LV0kzV0RvbVhhQzVEZUVQMFAwalVUdGE3MzAwRFJ4TjF6Zm1FZFVPcVc0elhqQld6VG1TRDBlTVNKRjdlNTBtYVdUUUVYdEdrbWktVQ?oc=5)
-- [Strait of Hormuz closure: Why crude oil prices haven’t spiralled out of control amid US-Iran conflict - The Times of India](https://news.google.com/rss/articles/CBMingJBVV95cUxNWERKdzM4UURvejlVMmluNHVDX0ZNT1ZRTmxlVjJ6NnRuRmU1RFBhNmphUm9IVHhNZ2sydmJJdHZiVGdTajZtaG9MVF94RFA0eVNVVGp1N1oxM01VdFZWYnJCUE4yNUxFcTVWcWp2VjlDYXhhRlI5dWE4TmU0VEFjRlhCUjAwUGpOQ1VqM0pPZTdBTkIwYy1PaFlySmxNbjdwUXR1QTh6a1JqZjIzeDdLcHJocV9fUWg2SjVkcUNkNnBndTdUVmI4UE44Y3I1WnFMYVA3YVQ0bWNwZ0Z3RFU2MTlNRnF4T3VHdHpRNHFMVnVBc3daSXhnV01oSWhZODgwNlNoUHZzeldReDV2VFZwRVhRNEoxa1FHNXJSZGtn0gGjAkFVX3lxTE15dE5GWHJWaTdxUkM3bHVOU25xZTZ1eENUYl82Q3p3cmMtMHhSR0s3UkxBckZ1RkVfOWd1bFZDVmR2enFhQ3MtTWxlVTRjeENvR3NYVF8zR2E4eVo4STN4akVWUk5rdFdLUWtTTzR1N0lUMktDc0ZUbVluTHBQeFN6Vk9xVUpoYnZVMm5rNTFCd25MWWZWcEhiSm9LR0pEaUxMMmVtN2hJRG4wZ2ZfTUZZOGNyd05TSGxjeVFlQVdITnNtWDV1X0w5YUxzWVBwdi15VU16amJreldFMGp0d25HOXhoTUF2eW9lQ21Xd2dJdjNKTDJ3a2JMS0ZvS1M3ZDlnY1dvblEtNHlubzh4c3RXQkRDOFEweUJPYmtjYVE0Tjllbw?oc=5)
-- [Chevron Moves Closer to Iraq's Biggest Oil Prizeand a Hormuz Exit Strategy - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWx6UWxYN1ZMVkgxaVNpZVJ3eW1GMHltZGlZLVlIOHFiSGpINWNzd0tLUEszOXdxN3lLZExxMVJ5dzg1MmtBY3Y2c3hJNmxWOGFiWk9LYkR0Tno4ME5RSUs3TGRrQWVHaXV6djJRYnQ3MlBwdlR4bWpTSHZyblpSeG1JQkhNTHZld0tQLUlDRHRIYnZrNzIzVS1VVzI4dlFDNUFUd2Rzdms4c211Nmh0aDl5SjRHSE9EZm53R3NPVXZlMGdiLUsycNIBzgFBVV95cUxPeEN6UDBFVm8tY0p4bnFlSlpSNkM2S1FYbHBLaFFQMzNBUG9ScURsWlMzakhBUVVNVDA5NkVDYUo2QV9wd09pMWRlNWpzT3RJZnA3dGk4SEZ3elVkVjlFcDJmT1djSTUtenJWV085Y0o3TEMtY3Blb0lqaXlBWUFodngwT0xuTVdRb1VjVmNhaWY2MVpZaHhiVnB2S0tIajM0Ni1fOUhrSDNqVk9PUmY3NUZrclJTaVVNTmt1V0tDdFpDNVU4dWxvaUJobHdMUQ?oc=5)
+- [Big-time oil price hikes loom in the third week of July as the United States and Iran battled over the vital Strait of Hormuz in the renewed Middle East war, the Department of Energy said. | via ANC 24/7 Link to full story in the comment section. - facebook.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU3JoYzFMc3FRWnp0bVh5VHVRcXdVU29rUGc1QkRaVjFKZzFjaE5XWXZZUmdrME9QZnhRVjVIUnlZR0RIYzNaQzRGN040MENZRUh5b2I5SHV0Z25MbEN2cVNVR1FDa1VZVHptWkxiODBrNlBVSnlvcEVMVDBDcms3MG5vTTloTTd3VkxlYkhfbklYUlRqSXJWZXpQUGgzeTUzLWduOUEzeEl4VEN2RFY0Ql82dXY1UUJFWlB6d2VHaHU3Nk10QlkzMXpuMFlsaUNQZDVDR1g3Zw?oc=5)
 - …and 15 more
 
 ## DR Congo’s top cobalt miners risk losing export quotas over government system glitch - Business Insider Africa
@@ -59,11 +59,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_7 corroborating headline(s):_
 - [Russian strikes threaten Ukraine’s Black Sea grain trade - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVhhOU9vNFBzTllQZG9WbE1uRUZhWGtDSWN1TjNEVWZKeGtZWlNLQ2FqNHVUbFQtRXpLZGpxMmk4S2FLcWtIX0EtcWJlVHdMLThFZ3VYVVh6MWVIQXZTaVUzR2xHX0pVRTJ5TENybG5MbC14ODBXZHpMN25FSTVrQjFwbUQ?oc=5)
 - [Wheat futures surge as escalating Russia-Ukraine war threatens Black Sea exports (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMiugFBVV95cUxQYjVSb3FqdjFRVUZ2SU9sNC13N0VoLVM4Y0hiUEZDMGhQUDlRNmptaW1fbHhoZFNLVDdNdWw0aVFrVVJ3QzFvZEJMUTFscFZybnFPVjl1RzU4bWdpZ1FGZ0ZYYWk1dHFwMmtRMGNULWVUSWJjU0VEakFDNmxHWDhOMWh0RGQtZVhxbWE4aUhoLVZXaUJvb2ZZekF0UVBGd0JHdUs4SERESkFEcnlOT2Y2bkRzQ3RqbHdFQkE?oc=5)
 - [Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5)
-- …and 3 more
+- …and 4 more
 
 ---
 
