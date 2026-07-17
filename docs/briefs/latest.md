@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_16 corroborating headline(s):_
+_17 corroborating headline(s):_
 - [Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW1PQk53QzVRbW4xa29CNWRsbGtCSmpCS2pRR3N6dmJoMnNXbjdBRDhwMFN6UVZpM2MxSm5zakZaVkxRQjhIWWMxaDBIOWxjM0w5Y3BRUHBLWFJSNUp3elFoMWRTdXBvaElxamdwQlJVTS1BVzJUYjN3ek5DUjNFTmYtalc?oc=5)
 - [Chevron Moves Closer to Iraq's Biggest Oil Prizeand a Hormuz Exit Strategy - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWx6UWxYN1ZMVkgxaVNpZVJ3eW1GMHltZGlZLVlIOHFiSGpINWNzd0tLUEszOXdxN3lLZExxMVJ5dzg1MmtBY3Y2c3hJNmxWOGFiWk9LYkR0Tno4ME5RSUs3TGRrQWVHaXV6djJRYnQ3MlBwdlR4bWpTSHZyblpSeG1JQkhNTHZld0tQLUlDRHRIYnZrNzIzVS1VVzI4dlFDNUFUd2Rzdms4c211Nmh0aDl5SjRHSE9EZm53R3NPVXZlMGdiLUsycNIBzgFBVV95cUxPeEN6UDBFVm8tY0p4bnFlSlpSNkM2S1FYbHBLaFFQMzNBUG9ScURsWlMzakhBUVVNVDA5NkVDYUo2QV9wd09pMWRlNWpzT3RJZnA3dGk4SEZ3elVkVjlFcDJmT1djSTUtenJWV085Y0o3TEMtY3Blb0lqaXlBWUFodngwT0xuTVdRb1VjVmNhaWY2MVpZaHhiVnB2S0tIajM0Ni1fOUhrSDNqVk9PUmY3NUZrclJTaVVNTmt1V0tDdFpDNVU4dWxvaUJobHdMUQ?oc=5)
 - [Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It - Time Magazine](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjk1OEVEdlZCbFk0V3JqZmQzd2d3TDRzYTQ4S3FTY1F6OVRMTGxqaUxXUC05OHpFTzFGQ2Y2VXZLSlo3dzd5VV9fRVhiZHBPSm5EOUd1ZFFaRkF6c0w1RVJPdWsyRlowcFJhOUJCcVViM215dWhXOTJfbWNOZHNMV29qTm4xbkM3aU1fb1gzNFNlZWN0eHlXZlNZcw?oc=5)
-- …and 13 more
+- …and 14 more
 
 ## OPEC Cuts 2026 Global Oil Demand Growth Forecast for Third Straight Month - Egypt Oil & Gas
 *Tue, 14 Jul 2026 06:40:08 GMT* — [source](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEdEaEk5TWptOVRmX3Q1WElwTWVua3QyRnFySnRwU1FrcTZkODBBc3ZrQUtjOFRQUkFjS1p5S3Zfa2g3NnN4Z3c1VF9vS2NUSmcwSllycFpvdng3OVoxbV9OMDUyYlNIZGhZNU5uNDROWlZaOTh0NXRLYklEM01pb1VoR2JvU0lTcUdrdXZQVll5NmJ4LU5jVFRVUlhHVFFUU1lqMDZ2MA?oc=5)
@@ -83,7 +83,7 @@ band is wide, the elasticities are doing the work, not the event.
 _7 corroborating headline(s):_
 - [Russian strikes threaten Ukraine’s Black Sea grain trade - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVhhOU9vNFBzTllQZG9WbE1uRUZhWGtDSWN1TjNEVWZKeGtZWlNLQ2FqNHVUbFQtRXpLZGpxMmk4S2FLcWtIX0EtcWJlVHdMLThFZ3VYVVh6MWVIQXZTaVUzR2xHX0pVRTJ5TENybG5MbC14ODBXZHpMN25FSTVrQjFwbUQ?oc=5)
 - [Wheat futures surge as escalating Russia-Ukraine war threatens Black Sea exports (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMiugFBVV95cUxQYjVSb3FqdjFRVUZ2SU9sNC13N0VoLVM4Y0hiUEZDMGhQUDlRNmptaW1fbHhoZFNLVDdNdWw0aVFrVVJ3QzFvZEJMUTFscFZybnFPVjl1RzU4bWdpZ1FGZ0ZYYWk1dHFwMmtRMGNULWVUSWJjU0VEakFDNmxHWDhOMWh0RGQtZVhxbWE4aUhoLVZXaUJvb2ZZekF0UVBGd0JHdUs4SERESkFEcnlOT2Y2bkRzQ3RqbHdFQkE?oc=5)
-- [Ukraine Vows To Protect Black Sea Ports After Russian Attacks Disrupt Key Grain Export Routes - Marine Insight](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTFDV3pFaGd4UlRsVHBTV2R3RlgtNlNRd2ktX0JjaW5VaEM2Q2J6eWlGSkF0WF9MN2VIaS1wYXBkRjdFdkJBeUp2Q3ZrUG81aDlUNDdIVks5RS02NFFLUGtmc1F2eDFKT0VrcEhkb3RuQ0g0VFE2aG02T0dWLVFuejlld0JnMkxWbFdGX3lIeDlvaEpHeXBHRHdLelRFeFY1eFJRekR1YmM2UWFHWTJ6SDEtdkxjVHNydjM0VUEzdmZqdw?oc=5)
+- [Azov Sea Blockage Forces Russian Wheat Exporters to Rethink Logistics - StoneX](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0VmTlJXUUFnSnhlRXpfRFNBQzltc0ZJWERVakpfRjF6UWRpeGlFaG9IWElKNmoxdENEbXZjTzZPZVE4X2liNlhVLXV3UW9zODhNN0hVdGJtdm5yQnBVQWRyd3k3M1kxNGt3WVNDSU1FTnVqTWRkOUdNNEVtWXNNdFhvWHpaUUI3SS1OX1FXenhaQ2lSLUloMGRIS0otekFjOE9ZMUxuRXM?oc=5)
 - …and 4 more
 
 ---
