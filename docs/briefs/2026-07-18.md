@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC
-*Fri, 17 Jul 2026 18:47:39 GMT* — [source](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdklMSnhYQmNTWnBFZ3JGTkRkckE1RTg1QVBpd3hWb291ZGsxSGNqSlF2VGtxWWtIdWtzY2VGUDZ1eFBxN0RZb0huWFZ3U2FoaWtBVTZ1MmQtWFZGOVFncW1nVW9uaGhfd1lZZXlVUmcyZVdFektMajJSTVhXYk50a0pEbFI1RFBPQ3Y00gGQAUFVX3lxTE1xSEFicjl2X29zZ1IxQ1NONUNycjlJbDlkRTd0UWM5cjA2eU9oczE3OEg5cEVzcEd5ZTlveEV5aVZ4MjB5c0hqVW9SaklKLTJrMEpSMHlPRWtHMDR6YUFPalg5el9ISTM3SmRpSW1XbW04eFBGS1JZXzBQVE1jVlVvRFd5OWdSVU0yMVZDeWFlSA?oc=5)
+## Iraq Looks to Syria for a Solution to the Strait of Hormuz Dilemma - الحرة
+*Sat, 18 Jul 2026 16:34:43 GMT* — [source](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvbHd6c0ZIN2NGUHVKRnZTYnJGVy1hMlhiOEZmZWt1eGk4VTZyMEI2S2ljbE9xekZDZkNwSmhPMWRrdw?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _17 corroborating headline(s):_
+- [Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdklMSnhYQmNTWnBFZ3JGTkRkckE1RTg1QVBpd3hWb291ZGsxSGNqSlF2VGtxWWtIdWtzY2VGUDZ1eFBxN0RZb0huWFZ3U2FoaWtBVTZ1MmQtWFZGOVFncW1nVW9uaGhfd1lZZXlVUmcyZVdFektMajJSTVhXYk50a0pEbFI1RFBPQ3Y00gGQAUFVX3lxTE1xSEFicjl2X29zZ1IxQ1NONUNycjlJbDlkRTd0UWM5cjA2eU9oczE3OEg5cEVzcEd5ZTlveEV5aVZ4MjB5c0hqVW9SaklKLTJrMEpSMHlPRWtHMDR6YUFPalg5el9ISTM3SmRpSW1XbW04eFBGS1JZXzBQVE1jVlVvRFd5OWdSVU0yMVZDeWFlSA?oc=5)
 - [Iraq And Syria Have Signed A Deal To Restore A Major Oil Pipeline. It Would Create An Alternative To The Strait Of Hormuz. - International Business Times](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUzdkZjMtb0pOVHp0dzlBT05UU1NTRlZrXzJaOHBfSDR2ODlzNXFjUWlab1ppNjZYU0hTY1hoQzRzbERkcXlKS3FqUjVmeTdacjdjYjNLalJieEFwU3N4NnJ3U0RIQ1NvY1ViM2FsVVpNbERucUJVSEJPSWZtc1lwdGRCSHI1dTZnRG1zV05YQnhnZmh0aE5wVXVXb1FKREZfQkFYd0JNemd6QXV4TkNSRjRkbGVIY0d2bzk0cGtB?oc=5)
 - [OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5)
-- [US backs Iraq-Syria oil pipeline bypassing Strait of Hormuz - Washington Examiner](https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHdzRmFyVkxoeFJVNW1nY2pSREVTNVVFMEdIaVB4SnkzaDNYWThKTHVRVTczR3k3RTJObVBtUm9hVGhOWFB6b3BmbkxVQ3Nod2dTRndvd3BoWHBNdlFpYkpmblJLdzlaU1hrTlNESS0tajNreWNkOGhDeUl1MkRFTDY0cEE?oc=5)
 - …and 14 more
 
 ## Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters
