@@ -22,6 +22,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Iraq And Syria Have Signed A Deal To Restore A Major Oil Pipeline. It Would Create An Alternative To The Strait Of Hormuz. - International Business Times",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUzdkZjMtb0pOVHp0dzlBT05UU1NTRlZrXzJaOHBfSDR2ODlzNXFjUWlab1ppNjZYU0hTY1hoQzRzbERkcXlKS3FqUjVmeTdacjdjYjNLalJieEFwU3N4NnJ3U0RIQ1NvY1ViM2FsVVpNbERucUJVSEJPSWZtc1lwdGRCSHI1dTZnRG1zV05YQnhnZmh0aE5wVXVXb1FKREZfQkFYd0JNemd6QXV4TkNSRjRkbGVIY0d2bzk0cGtB?oc=5",
+  "published": "Sat, 18 Jul 2026 12:25:54 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering - WSJ",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmRieE9oLWVtVmlhZTcteVFKVGxvN0ctb05DZUo5N0hTTXA5TkZXdkFQLTItb2ZSc2JoWWF4TGhaamIxWC0zSHJja1NrWGtwMVZrNHJKUDdyaEgtc0NUV3pOX21UdnFPM3pUTjBoNjBsc1UyOS1Fb0F6WUhyQnpHZFd0TEpjN0NocUNuWFN1cnZxMVhzSWtDTmcyOG55YjBuVmQyLVV6UWxRSU1xbGdKUFNSRVY?oc=5",
   "published": "Sun, 05 Jul 2026 07:00:00 GMT",
@@ -44,9 +55,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The race to find routes around the Strait of Hormuz and which nation is winning - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEhLTXVoRTl2VlAzMDBNc1ExdUtxbGtxZWtsRWhycVhPQmNhSjdJTjB2T2tTeVd5aVJOU2NHUnFmTS1uX3ZrVV84YW9pMmRUeUx0STZCZjBsLUZsUF9WNmlGQUZ3b0NCV3pSUzRQcGhjTXBUSThzZWdkMVRZLU0xSjZfODdVNkpqWV9GczNxMHllbmhwM1k2dkZuZXZwYkpWQVRtVzRR?oc=5",
-  "published": "Fri, 17 Jul 2026 18:46:21 GMT",
+  "headline": "Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5",
+  "published": "Thu, 09 Jul 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -66,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5",
-  "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+  "headline": "The race to find routes around the Strait of Hormuz and which nation is winning - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEhLTXVoRTl2VlAzMDBNc1ExdUtxbGtxZWtsRWhycVhPQmNhSjdJTjB2T2tTeVd5aVJOU2NHUnFmTS1uX3ZrVV84YW9pMmRUeUx0STZCZjBsLUZsUF9WNmlGQUZ3b0NCV3pSUzRQcGhjTXBUSThzZWdkMVRZLU0xSjZfODdVNkpqWV9GczNxMHllbmhwM1k2dkZuZXZwYkpWQVRtVzRR?oc=5",
+  "published": "Fri, 17 Jul 2026 18:46:21 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -88,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Strait of Hormuz closure: Why crude oil prices haven\u2019t spiralled out of control amid US-Iran conflict - The Times of India",
-  "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNWERKdzM4UURvejlVMmluNHVDX0ZNT1ZRTmxlVjJ6NnRuRmU1RFBhNmphUm9IVHhNZ2sydmJJdHZiVGdTajZtaG9MVF94RFA0eVNVVGp1N1oxM01VdFZWYnJCUE4yNUxFcTVWcWp2VjlDYXhhRlI5dWE4TmU0VEFjRlhCUjAwUGpOQ1VqM0pPZTdBTkIwYy1PaFlySmxNbjdwUXR1QTh6a1JqZjIzeDdLcHJocV9fUWg2SjVkcUNkNnBndTdUVmI4UE44Y3I1WnFMYVA3YVQ0bWNwZ0Z3RFU2MTlNRnF4T3VHdHpRNHFMVnVBc3daSXhnV01oSWhZODgwNlNoUHZzeldReDV2VFZwRVhRNEoxa1FHNXJSZGtn?oc=5",
-  "published": "Fri, 17 Jul 2026 12:29:00 GMT",
+  "headline": "Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline - Financial Times",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW1PQk53QzVRbW4xa29CNWRsbGtCSmpCS2pRR3N6dmJoMnNXbjdBRDhwMFN6UVZpM2MxSm5zakZaVkxRQjhIWWMxaDBIOWxjM0w5Y3BRUHBLWFJSNUp3elFoMWRTdXBvaElxamdwQlJVTS1BVzJUYjN3ek5DUjNFTmYtalc?oc=5",
+  "published": "Thu, 16 Jul 2026 16:14:17 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,9 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline - Financial Times",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW1PQk53QzVRbW4xa29CNWRsbGtCSmpCS2pRR3N6dmJoMnNXbjdBRDhwMFN6UVZpM2MxSm5zakZaVkxRQjhIWWMxaDBIOWxjM0w5Y3BRUHBLWFJSNUp3elFoMWRTdXBvaElxamdwQlJVTS1BVzJUYjN3ek5DUjNFTmYtalc?oc=5",
-  "published": "Thu, 16 Jul 2026 16:14:17 GMT",
+  "headline": "Strait of Hormuz closure: Why crude oil prices haven\u2019t spiralled out of control amid US-Iran conflict - The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNWERKdzM4UURvejlVMmluNHVDX0ZNT1ZRTmxlVjJ6NnRuRmU1RFBhNmphUm9IVHhNZ2sydmJJdHZiVGdTajZtaG9MVF94RFA0eVNVVGp1N1oxM01VdFZWYnJCUE4yNUxFcTVWcWp2VjlDYXhhRlI5dWE4TmU0VEFjRlhCUjAwUGpOQ1VqM0pPZTdBTkIwYy1PaFlySmxNbjdwUXR1QTh6a1JqZjIzeDdLcHJocV9fUWg2SjVkcUNkNnBndTdUVmI4UE44Y3I1WnFMYVA3YVQ0bWNwZ0Z3RFU2MTlNRnF4T3VHdHpRNHFMVnVBc3daSXhnV01oSWhZODgwNlNoUHZzeldReDV2VFZwRVhRNEoxa1FHNXJSZGtn?oc=5",
+  "published": "Fri, 17 Jul 2026 12:29:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -132,31 +143,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Producers Are Trying to Leave the Strait of Hormuz Behind. Iran Has Other Plans. - International Business Times",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVU2cm5uX3FWNVRSRjhmM3UtU1Foc2JIcy1hdVZ4OEliZ0RJZGdfYzBueXRlQW5uZW1zUUxUWjUtdGhRLWg0QzNkaHdRSzJTdXdSVEtEUmRzZ19LV0kzV0RvbVhhQzVEZUVQMFAwalVUdGE3MzAwRFJ4TjF6Zm1FZFVPcVc0elhqQld6VG1TRDBlTVNKRjdlNTBtYVdUUUVYdEdrbWktVQ?oc=5",
-  "published": "Fri, 17 Jul 2026 09:52:52 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "U.S. Supports Kirkuk-Baniyas Pipeline Reconstruction to Reduce Strait of Hormuz Dependence - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTVTTmlZYmdxUEVkOU1YT1dUbzdLSko4cGZjN1doclhRdHZPRWFycENWX0V1ZWx3cEhXcWVKajF2OE5VM0NxSURqckpMdVZuU3FVWnh5eWotUHdlOGFqMlBKUzVPNVM0NGdrREJSTnFHVHpBVFg5eVJYV2FMNkxNMU40eWpiQjRRSkFEaTRCa25VRUhS?oc=5",
-  "published": "Sat, 18 Jul 2026 00:40:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports - CNBC",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUhYdDhnVU1uVjNMVHh2OFdNdzM4M05FbVlCdU84TkI2ZEFpWGlOMkdSaXB6M1RTUnFaZkVlRlhlUy1EdDhoNmRCRTF2a2M2bHNOV3ZTRi04bjNfdUZwd1UwTy1mM1VrTWQ1OXJsZHpGa002QUhrdk9DcFhvOFRGVzhFVmZXd1N1dWFNZHhMbDdxcF8yb3fSAZsBQVVfeXFMTVlTekM4aU4xQnZpUDcxNlZvQldZM2RUaGdXSTJ0U2JQQnZMcWlCOWdUYUZtUE1DZ0twY05RWW1zZFVLb2gxMTJMQ3hzdW1BVlY1Z1hzUTNnekk5UG5tenVMXzZzbEhZSVB5RFF2N0szTG1TRVRHQVEtSDduYktkSno1MjQ4T1Q0ZXVjYlZlUzVTRU8zY0IxeTEzTWc?oc=5",
   "published": "Thu, 16 Jul 2026 19:13:07 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil Producers Are Trying to Leave the Strait of Hormuz Behind. Iran Has Other Plans. - International Business Times",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVU2cm5uX3FWNVRSRjhmM3UtU1Foc2JIcy1hdVZ4OEliZ0RJZGdfYzBueXRlQW5uZW1zUUxUWjUtdGhRLWg0QzNkaHdRSzJTdXdSVEtEUmRzZ19LV0kzV0RvbVhhQzVEZUVQMFAwalVUdGE3MzAwRFJ4TjF6Zm1FZFVPcVc0elhqQld6VG1TRDBlTVNKRjdlNTBtYVdUUUVYdEdrbWktVQ?oc=5",
+  "published": "Fri, 17 Jul 2026 09:52:52 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -179,6 +179,17 @@
   "headline": "How Gulf countries are preparing for life without the Strait of Hormuz - The Independent",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb2Y4NVpwZFZqOTdfeERINktsemF2N1pCejZ6Nlc5bWlIdW1FX3RhNXlEVS1BZmo4R1AwcnJkc0VyZXpjVGhSbmdJUUFxX25aRXdkOVVYR2RjTTdYdHVqZmhZRHVPM1Q4X1BCUmVraGxzUEdpRl9CRjNPV1oyUEtobXYxU1lKY3RNOXpFN3JiYW5kc0czNXoxbWR4bXNXR2JFdGZfZ1Z0S3ZZbmliVFZ3Tk5ybw?oc=5",
   "published": "Wed, 15 Jul 2026 04:33:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "U.S. Supports Kirkuk-Baniyas Pipeline Reconstruction to Reduce Strait of Hormuz Dependence - News and Statistics - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTVTTmlZYmdxUEVkOU1YT1dUbzdLSko4cGZjN1doclhRdHZPRWFycENWX0V1ZWx3cEhXcWVKajF2OE5VM0NxSURqckpMdVZuU3FVWnh5eWotUHdlOGFqMlBKUzVPNVM0NGdrREJSTnFHVHpBVFg5eVJYV2FMNkxNMU40eWpiQjRRSkFEaTRCa25VRUhS?oc=5",
+  "published": "Sat, 18 Jul 2026 00:40:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -256,17 +267,6 @@
   "headline": "Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5",
   "published": "Thu, 16 Jul 2026 05:40:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Reuters: Ukraine\u02bcs Black Sea ports lose a third of grain export capacity due to increased Russian shelling - \u0411\u0430\u0431\u0435\u043b\u044c",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdFR0R1ZkNDB4c2d0a01QTTZUbVhHSWdpYjJKa3BvQ24wTTIwb3YtUC1BUEtEc29xT3BRRTVpQklEajhMRUpnV0V2ellzVTVWbVJreGdKVzhIaGpvd0M3RnE5angwVjNna2FkUm1RdWZjSEhjVjAxUjBMSFctd2NNMXU1VVVVSTBfRjhjVW1Fa3Vxc3MybnVDemQzY3VsdEh5Ny1OM1d2ZS1taWFJMDloOEFMVXhVWkppNVdBRnJZa19mRmhLSkZBR0duMUtjWGljR25v0gHYAUFVX3lxTE41aFRzSnkyYkpfSWlJdTV0cVNNSVUxSmJXNlpNY3g5NnYxR2lPX0szM1I3TjQ1ekZRRzhNSldUaTRtcFBhbGVoNFBuN1lWOF9nRmJnNkJVR2l5cUd3QTRzbTVJZG9XNDVzRXVTQ08tVkljRlg0LTFRYWltdTl6VlVlem1GM01pek1DZjFzdVF6dFRFNFJuRW02NDFxXzhhRTF6LVN1eVJnZWhyR0NmWDQ5am1HeUI4OXNwOTIySXRnVmxTM3ZWWmRmejhjWW9DY2FudjlMYVpPeQ?oc=5",
-  "published": "Wed, 15 Jul 2026 14:02:29 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
