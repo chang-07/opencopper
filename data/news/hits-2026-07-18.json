@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "US backs Iraq-Syria oil pipeline bypassing Strait of Hormuz - Washington Examiner",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHdzRmFyVkxoeFJVNW1nY2pSREVTNVVFMEdIaVB4SnkzaDNYWThKTHVRVTczR3k3RTJObVBtUm9hVGhOWFB6b3BmbkxVQ3Nod2dTRndvd3BoWHBNdlFpYkpmblJLdzlaU1hrTlNESS0tajNreWNkOGhDeUl1MkRFTDY0cEE?oc=5",
-  "published": "Fri, 17 Jul 2026 21:00:00 GMT",
+  "headline": "Iraq And Syria Have Signed A Deal To Restore A Major Oil Pipeline. It Would Create An Alternative To The Strait Of Hormuz. - International Business Times",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUzdkZjMtb0pOVHp0dzlBT05UU1NTRlZrXzJaOHBfSDR2ODlzNXFjUWlab1ppNjZYU0hTY1hoQzRzbERkcXlKS3FqUjVmeTdacjdjYjNLalJieEFwU3N4NnJ3U0RIQ1NvY1ViM2FsVVpNbERucUJVSEJPSWZtc1lwdGRCSHI1dTZnRG1zV05YQnhnZmh0aE5wVXVXb1FKREZfQkFYd0JNemd6QXV4TkNSRjRkbGVIY0d2bzk0cGtB?oc=5",
+  "published": "Sat, 18 Jul 2026 12:25:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -22,9 +22,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq And Syria Have Signed A Deal To Restore A Major Oil Pipeline. It Would Create An Alternative To The Strait Of Hormuz. - International Business Times",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUzdkZjMtb0pOVHp0dzlBT05UU1NTRlZrXzJaOHBfSDR2ODlzNXFjUWlab1ppNjZYU0hTY1hoQzRzbERkcXlKS3FqUjVmeTdacjdjYjNLalJieEFwU3N4NnJ3U0RIQ1NvY1ViM2FsVVpNbERucUJVSEJPSWZtc1lwdGRCSHI1dTZnRG1zV05YQnhnZmh0aE5wVXVXb1FKREZfQkFYd0JNemd6QXV4TkNSRjRkbGVIY0d2bzk0cGtB?oc=5",
-  "published": "Sat, 18 Jul 2026 12:25:54 GMT",
+  "headline": "US backs Iraq-Syria oil pipeline bypassing Strait of Hormuz - Washington Examiner",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHdzRmFyVkxoeFJVNW1nY2pSREVTNVVFMEdIaVB4SnkzaDNYWThKTHVRVTczR3k3RTJObVBtUm9hVGhOWFB6b3BmbkxVQ3Nod2dTRndvd3BoWHBNdlFpYkpmblJLdzlaU1hrTlNESS0tajNreWNkOGhDeUl1MkRFTDY0cEE?oc=5",
+  "published": "Fri, 17 Jul 2026 21:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,17 +77,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The race to find routes around the Strait of Hormuz and which nation is winning - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEhLTXVoRTl2VlAzMDBNc1ExdUtxbGtxZWtsRWhycVhPQmNhSjdJTjB2T2tTeVd5aVJOU2NHUnFmTS1uX3ZrVV84YW9pMmRUeUx0STZCZjBsLUZsUF9WNmlGQUZ3b0NCV3pSUzRQcGhjTXBUSThzZWdkMVRZLU0xSjZfODdVNkpqWV9GczNxMHllbmhwM1k2dkZuZXZwYkpWQVRtVzRR?oc=5",
-  "published": "Fri, 17 Jul 2026 18:46:21 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
   "published": "Sun, 05 Jul 2026 07:00:00 GMT",
@@ -102,6 +91,17 @@
   "headline": "Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline - Financial Times",
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW1PQk53QzVRbW4xa29CNWRsbGtCSmpCS2pRR3N6dmJoMnNXbjdBRDhwMFN6UVZpM2MxSm5zakZaVkxRQjhIWWMxaDBIOWxjM0w5Y3BRUHBLWFJSNUp3elFoMWRTdXBvaElxamdwQlJVTS1BVzJUYjN3ek5DUjNFTmYtalc?oc=5",
   "published": "Thu, 16 Jul 2026 16:14:17 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "The race to find routes around the Strait of Hormuz and which nation is winning - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEhLTXVoRTl2VlAzMDBNc1ExdUtxbGtxZWtsRWhycVhPQmNhSjdJTjB2T2tTeVd5aVJOU2NHUnFmTS1uX3ZrVV84YW9pMmRUeUx0STZCZjBsLUZsUF9WNmlGQUZ3b0NCV3pSUzRQcGhjTXBUSThzZWdkMVRZLU0xSjZfODdVNkpqWV9GczNxMHllbmhwM1k2dkZuZXZwYkpWQVRtVzRR?oc=5",
+  "published": "Fri, 17 Jul 2026 18:46:21 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -187,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "U.S. Supports Kirkuk-Baniyas Pipeline Reconstruction to Reduce Strait of Hormuz Dependence - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTVTTmlZYmdxUEVkOU1YT1dUbzdLSko4cGZjN1doclhRdHZPRWFycENWX0V1ZWx3cEhXcWVKajF2OE5VM0NxSURqckpMdVZuU3FVWnh5eWotUHdlOGFqMlBKUzVPNVM0NGdrREJSTnFHVHpBVFg5eVJYV2FMNkxNMU40eWpiQjRRSkFEaTRCa25VRUhS?oc=5",
-  "published": "Sat, 18 Jul 2026 00:40:00 GMT",
+  "headline": "Trump\u2019s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5",
+  "published": "Sun, 12 Jul 2026 07:13:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
