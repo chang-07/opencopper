@@ -44,17 +44,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq, Syria Revive Oil Pipeline Shut Since 2003 in Bid to Bypass Strait of Hormuz After Iran War Disrupts Exports - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVHJzblQ3NEx4WkctcGMydmx3eTVydzk5ZnRmQUd1NmdBTGZiNHVuSXllczJicVBLQlFJLUlNM3BmX28ya1RwM1VwMUlSanF5WlM0R3QwbUttSXp5UmJzWHN1TkpPUnZXMDM0Z2xsVjBlTkpsT0ZGeHhBNmFtYkhUblJfMzk1SlVfZHNsWmVlLURMcTRVN1BuOWpZdS02d3k3ZGVtWWctR3VSNTFTYU9pZWpaZHpJLWVKRHpMUXk4TDNBdERCbEFnazh1bFhiSHFJdWFoSUtQVnRkTzRqM1JNVTN3Vm1LS3ZqdFE4RDhGNVJ6U092Y21oWXB3?oc=5",
-  "published": "Sat, 18 Jul 2026 02:19:16 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5",
   "published": "Thu, 09 Jul 2026 07:00:00 GMT",
@@ -69,6 +58,17 @@
   "headline": "Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It - Time Magazine",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjk1OEVEdlZCbFk0V3JqZmQzd2d3TDRzYTQ4S3FTY1F6OVRMTGxqaUxXUC05OHpFTzFGQ2Y2VXZLSlo3dzd5VV9fRVhiZHBPSm5EOUd1ZFFaRkF6c0w1RVJPdWsyRlowcFJhOUJCcVViM215dWhXOTJfbWNOZHNMV29qTm4xbkM3aU1fb1gzNFNlZWN0eHlXZlNZcw?oc=5",
   "published": "Mon, 13 Jul 2026 22:39:22 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Iraq, Syria Revive Oil Pipeline Shut Since 2003 in Bid to Bypass Strait of Hormuz After Iran War Disrupts Exports - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVHJzblQ3NEx4WkctcGMydmx3eTVydzk5ZnRmQUd1NmdBTGZiNHVuSXllczJicVBLQlFJLUlNM3BmX28ya1RwM1VwMUlSanF5WlM0R3QwbUttSXp5UmJzWHN1TkpPUnZXMDM0Z2xsVjBlTkpsT0ZGeHhBNmFtYkhUblJfMzk1SlVfZHNsWmVlLURMcTRVN1BuOWpZdS02d3k3ZGVtWWctR3VSNTFTYU9pZWpaZHpJLWVKRHpMUXk4TDNBdERCbEFnazh1bFhiSHFJdWFoSUtQVnRkTzRqM1JNVTN3Vm1LS3ZqdFE4RDhGNVJ6U092Y21oWXB3?oc=5",
+  "published": "Sat, 18 Jul 2026 02:19:16 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -190,17 +190,6 @@
   "headline": "U.S. Supports Kirkuk-Baniyas Pipeline Reconstruction to Reduce Strait of Hormuz Dependence - News and Statistics - IndexBox",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTVTTmlZYmdxUEVkOU1YT1dUbzdLSko4cGZjN1doclhRdHZPRWFycENWX0V1ZWx3cEhXcWVKajF2OE5VM0NxSURqckpMdVZuU3FVWnh5eWotUHdlOGFqMlBKUzVPNVM0NGdrREJSTnFHVHpBVFg5eVJYV2FMNkxNMU40eWpiQjRRSkFEaTRCa25VRUhS?oc=5",
   "published": "Sat, 18 Jul 2026 00:40:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Trump\u2019s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5",
-  "published": "Sun, 12 Jul 2026 07:13:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
