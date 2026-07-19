@@ -33,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "IEA Urges Restoration of Strait of Hormuz Oil Flows to Safeguard Energy Security - Egypt Oil & Gas",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2xOREFwMW5RVTNoNGo0R3QwaFhXODdMbXJaTHRNUjhhR1RZTVlodjJrX1ZPVDY1akRyQmpSa1NTX0Jxb3pQTGs1cWljTzM5c19wSzJ0XzBlR1ZEamxRVnpyRjhhZEU0SU9NVXdyelpCS1BnS2pHaTBweF9wUVNuT1FfYVNZRjhQVzVJRW9pUnVhWGtTQWhNNC0tdThIekJiTUV0QjJKMmVLZnJfMTI5Zw?oc=5",
-  "published": "Sun, 19 Jul 2026 07:19:47 GMT",
+  "headline": "US backs Iraq-Syria oil pipeline bypassing Strait of Hormuz - Washington Examiner",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHdzRmFyVkxoeFJVNW1nY2pSREVTNVVFMEdIaVB4SnkzaDNYWThKTHVRVTczR3k3RTJObVBtUm9hVGhOWFB6b3BmbkxVQ3Nod2dTRndvd3BoWHBNdlFpYkpmblJLdzlaU1hrTlNESS0tajNreWNkOGhDeUl1MkRFTDY0cEE?oc=5",
+  "published": "Fri, 17 Jul 2026 21:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -44,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "US backs Iraq-Syria oil pipeline bypassing Strait of Hormuz - Washington Examiner",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHdzRmFyVkxoeFJVNW1nY2pSREVTNVVFMEdIaVB4SnkzaDNYWThKTHVRVTczR3k3RTJObVBtUm9hVGhOWFB6b3BmbkxVQ3Nod2dTRndvd3BoWHBNdlFpYkpmblJLdzlaU1hrTlNESS0tajNreWNkOGhDeUl1MkRFTDY0cEE?oc=5",
-  "published": "Fri, 17 Jul 2026 21:00:00 GMT",
+  "headline": "IEA Urges Restoration of Strait of Hormuz Oil Flows to Safeguard Energy Security - Egypt Oil & Gas",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2xOREFwMW5RVTNoNGo0R3QwaFhXODdMbXJaTHRNUjhhR1RZTVlodjJrX1ZPVDY1akRyQmpSa1NTX0Jxb3pQTGs1cWljTzM5c19wSzJ0XzBlR1ZEamxRVnpyRjhhZEU0SU9NVXdyelpCS1BnS2pHaTBweF9wUVNuT1FfYVNZRjhQVzVJRW9pUnVhWGtTQWhNNC0tdThIekJiTUV0QjJKMmVLZnJfMTI5Zw?oc=5",
+  "published": "Sun, 19 Jul 2026 07:19:47 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -220,6 +220,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Russian missile strike on civilian grain ship in Black Sea kills 5 - The Kyiv Independent",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbWVpem9KbDc5bFZPLWdlX1Yzd0VJNDlEQmk4d09QNzVLWjVIWDlTZ0szWUgwY3pUOFdKRkF4QzdyckpJbTdQUXIyeFpPSzN4M3VhV0Fwb1hoYzZtVmlwXzQwY2VBaU1pS0s3anVZd0NLOGM3dmZhMFdJc2lpSGxQblZSQVJvLVI0UjZISkFUU1VvbVE?oc=5",
+  "published": "Sun, 19 Jul 2026 20:44:23 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Russia and Ukraine strike vessels in Black Sea, wheat prices jump - KWSN",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHRsV1BYeXhGNmxLVko0TnNkRUtEVVBrd0lpbnlJZTd0dE4wOUh0bHMxTEtmb3BqbmFiT05QSlVRSW5ycFJjSkNjamUzbnNSQ2pwWkt4QkI2TDJLbUdsUlpBalpyeGRFQjdJX1I2VF83ZzQ0WnlSQkNaZ2lGNHAtVTBQX0Jqcld5VWNuX0xOZTVsd2M?oc=5",
   "published": "Thu, 16 Jul 2026 07:00:19 GMT",
@@ -231,9 +242,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Reuters: Ukraine\u02bcs Black Sea ports lose a third of grain export capacity due to increased Russian shelling - \u0411\u0430\u0431\u0435\u043b\u044c",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdFR0R1ZkNDB4c2d0a01QTTZUbVhHSWdpYjJKa3BvQ24wTTIwb3YtUC1BUEtEc29xT3BRRTVpQklEajhMRUpnV0V2ellzVTVWbVJreGdKVzhIaGpvd0M3RnE5angwVjNna2FkUm1RdWZjSEhjVjAxUjBMSFctd2NNMXU1VVVVSTBfRjhjVW1Fa3Vxc3MybnVDemQzY3VsdEh5Ny1OM1d2ZS1taWFJMDloOEFMVXhVWkppNVdBRnJZa19mRmhLSkZBR0duMUtjWGljR25v0gHYAUFVX3lxTE41aFRzSnkyYkpfSWlJdTV0cVNNSVUxSmJXNlpNY3g5NnYxR2lPX0szM1I3TjQ1ekZRRzhNSldUaTRtcFBhbGVoNFBuN1lWOF9nRmJnNkJVR2l5cUd3QTRzbTVJZG9XNDVzRXVTQ08tVkljRlg0LTFRYWltdTl6VlVlem1GM01pek1DZjFzdVF6dFRFNFJuRW02NDFxXzhhRTF6LVN1eVJnZWhyR0NmWDQ5am1HeUI4OXNwOTIySXRnVmxTM3ZWWmRmejhjWW9DY2FudjlMYVpPeQ?oc=5",
-  "published": "Wed, 15 Jul 2026 14:02:29 GMT",
+  "headline": "Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5",
+  "published": "Thu, 16 Jul 2026 15:16:47 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -242,9 +253,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5",
-  "published": "Thu, 16 Jul 2026 15:16:47 GMT",
+  "headline": "Reuters: Ukraine\u02bcs Black Sea ports lose a third of grain export capacity due to increased Russian shelling - \u0411\u0430\u0431\u0435\u043b\u044c",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdFR0R1ZkNDB4c2d0a01QTTZUbVhHSWdpYjJKa3BvQ24wTTIwb3YtUC1BUEtEc29xT3BRRTVpQklEajhMRUpnV0V2ellzVTVWbVJreGdKVzhIaGpvd0M3RnE5angwVjNna2FkUm1RdWZjSEhjVjAxUjBMSFctd2NNMXU1VVVVSTBfRjhjVW1Fa3Vxc3MybnVDemQzY3VsdEh5Ny1OM1d2ZS1taWFJMDloOEFMVXhVWkppNVdBRnJZa19mRmhLSkZBR0duMUtjWGljR25v0gHYAUFVX3lxTE41aFRzSnkyYkpfSWlJdTV0cVNNSVUxSmJXNlpNY3g5NnYxR2lPX0szM1I3TjQ1ekZRRzhNSldUaTRtcFBhbGVoNFBuN1lWOF9nRmJnNkJVR2l5cUd3QTRzbTVJZG9XNDVzRXVTQ08tVkljRlg0LTFRYWltdTl6VlVlem1GM01pek1DZjFzdVF6dFRFNFJuRW02NDFxXzhhRTF6LVN1eVJnZWhyR0NmWDQ5am1HeUI4OXNwOTIySXRnVmxTM3ZWWmRmejhjWW9DY2FudjlMYVpPeQ?oc=5",
+  "published": "Wed, 15 Jul 2026 14:02:29 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
