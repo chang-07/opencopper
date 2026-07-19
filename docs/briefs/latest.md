@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _15 corroborating headline(s):_
 - [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
+- [Iraq Looks to Syria for a Solution to the Strait of Hormuz Dilemma - الحرة](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvbHd6c0ZIN2NGUHVKRnZTYnJGVy1hMlhiOEZmZWt1eGk4VTZyMEI2S2ljbE9xekZDZkNwSmhPMWRrdw?oc=5)
 - [IEA Urges Restoration of Strait of Hormuz Oil Flows to Safeguard Energy Security - Egypt Oil & Gas](https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2xOREFwMW5RVTNoNGo0R3QwaFhXODdMbXJaTHRNUjhhR1RZTVlodjJrX1ZPVDY1akRyQmpSa1NTX0Jxb3pQTGs1cWljTzM5c19wSzJ0XzBlR1ZEamxRVnpyRjhhZEU0SU9NVXdyelpCS1BnS2pHaTBweF9wUVNuT1FfYVNZRjhQVzVJRW9pUnVhWGtTQWhNNC0tdThIekJiTUV0QjJKMmVLZnJfMTI5Zw?oc=5)
-- [US backs Iraq-Syria oil pipeline bypassing Strait of Hormuz - Washington Examiner](https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHdzRmFyVkxoeFJVNW1nY2pSREVTNVVFMEdIaVB4SnkzaDNYWThKTHVRVTczR3k3RTJObVBtUm9hVGhOWFB6b3BmbkxVQ3Nod2dTRndvd3BoWHBNdlFpYkpmblJLdzlaU1hrTlNESS0tajNreWNkOGhDeUl1MkRFTDY0cEE?oc=5)
 - …and 12 more
 
 ## Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters
