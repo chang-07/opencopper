@@ -99,6 +99,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "The race to find routes around the Strait of Hormuz and which nation is winning - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEhLTXVoRTl2VlAzMDBNc1ExdUtxbGtxZWtsRWhycVhPQmNhSjdJTjB2T2tTeVd5aVJOU2NHUnFmTS1uX3ZrVV84YW9pMmRUeUx0STZCZjBsLUZsUF9WNmlGQUZ3b0NCV3pSUzRQcGhjTXBUSThzZWdkMVRZLU0xSjZfODdVNkpqWV9GczNxMHllbmhwM1k2dkZuZXZwYkpWQVRtVzRR?oc=5",
+  "published": "Fri, 17 Jul 2026 18:46:21 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Global Energy Security at Risk if Strait of Hormuz Does Not Open in Weeks, IEA Chief Says - EnergyNow.com",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDBFZVBWX0NZcWtPdmRsdmxyT3p4ZUJ2T1RYMTl1c1VwaDVVQ2NaMFp5ZFJnQmc4U21ZUXhXNXpPQzZ0eFB4UDBYaVFCU1k0MFRwVG14U0w1TGViMGJINmpYZi12QXUweU5yZmVIaFZZcGRvVnBlWlp2cXRYNlI2dy1feWltQW1Vd1l5bE1ob3g3YkwxbnR5RUN6MF9JNXd4eFgtV2dwS3JKM0x0T0w2SkJBMXBwWC0tcjNr?oc=5",
   "published": "Fri, 17 Jul 2026 11:20:59 GMT",
@@ -113,17 +124,6 @@
   "headline": "Chevron Moves Closer to Iraq's Biggest Oil Prizeand a Hormuz Exit Strategy - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWx6UWxYN1ZMVkgxaVNpZVJ3eW1GMHltZGlZLVlIOHFiSGpINWNzd0tLUEszOXdxN3lLZExxMVJ5dzg1MmtBY3Y2c3hJNmxWOGFiWk9LYkR0Tno4ME5RSUs3TGRrQWVHaXV6djJRYnQ3MlBwdlR4bWpTSHZyblpSeG1JQkhNTHZld0tQLUlDRHRIYnZrNzIzVS1VVzI4dlFDNUFUd2Rzdms4c211Nmh0aDl5SjRHSE9EZm53R3NPVXZlMGdiLUsycNIBzgFBVV95cUxPeEN6UDBFVm8tY0p4bnFlSlpSNkM2S1FYbHBLaFFQMzNBUG9ScURsWlMzakhBUVVNVDA5NkVDYUo2QV9wd09pMWRlNWpzT3RJZnA3dGk4SEZ3elVkVjlFcDJmT1djSTUtenJWV085Y0o3TEMtY3Blb0lqaXlBWUFodngwT0xuTVdRb1VjVmNhaWY2MVpZaHhiVnB2S0tIajM0Ni1fOUhrSDNqVk9PUmY3NUZrclJTaVVNTmt1V0tDdFpDNVU4dWxvaUJobHdMUQ?oc=5",
   "published": "Thu, 16 Jul 2026 20:30:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "The race to find routes around the Strait of Hormuz and which nation is winning - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEhLTXVoRTl2VlAzMDBNc1ExdUtxbGtxZWtsRWhycVhPQmNhSjdJTjB2T2tTeVd5aVJOU2NHUnFmTS1uX3ZrVV84YW9pMmRUeUx0STZCZjBsLUZsUF9WNmlGQUZ3b0NCV3pSUzRQcGhjTXBUSThzZWdkMVRZLU0xSjZfODdVNkpqWV9GczNxMHllbmhwM1k2dkZuZXZwYkpWQVRtVzRR?oc=5",
-  "published": "Fri, 17 Jul 2026 18:46:21 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -209,9 +209,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Azov Sea Blockage Forces Russian Wheat Exporters to Rethink Logistics - StoneX",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0VmTlJXUUFnSnhlRXpfRFNBQzltc0ZJWERVakpfRjF6UWRpeGlFaG9IWElKNmoxdENEbXZjTzZPZVE4X2liNlhVLXV3UW9zODhNN0hVdGJtdm5yQnBVQWRyd3k3M1kxNGt3WVNDSU1FTnVqTWRkOUdNNEVtWXNNdFhvWHpaUUI3SS1OX1FXenhaQ2lSLUloMGRIS0otekFjOE9ZMUxuRXM?oc=5",
-  "published": "Wed, 15 Jul 2026 14:23:06 GMT",
+  "headline": "Russian missile strike on civilian grain ship in Black Sea kills 5 - The Kyiv Independent",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbWVpem9KbDc5bFZPLWdlX1Yzd0VJNDlEQmk4d09QNzVLWjVIWDlTZ0szWUgwY3pUOFdKRkF4QzdyckpJbTdQUXIyeFpPSzN4M3VhV0Fwb1hoYzZtVmlwXzQwY2VBaU1pS0s3anVZd0NLOGM3dmZhMFdJc2lpSGxQblZSQVJvLVI0UjZISkFUU1VvbVE?oc=5",
+  "published": "Sun, 19 Jul 2026 20:44:23 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -220,9 +220,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian missile strike on civilian grain ship in Black Sea kills 5 - The Kyiv Independent",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbWVpem9KbDc5bFZPLWdlX1Yzd0VJNDlEQmk4d09QNzVLWjVIWDlTZ0szWUgwY3pUOFdKRkF4QzdyckpJbTdQUXIyeFpPSzN4M3VhV0Fwb1hoYzZtVmlwXzQwY2VBaU1pS0s3anVZd0NLOGM3dmZhMFdJc2lpSGxQblZSQVJvLVI0UjZISkFUU1VvbVE?oc=5",
-  "published": "Sun, 19 Jul 2026 20:44:23 GMT",
+  "headline": "Azov Sea Blockage Forces Russian Wheat Exporters to Rethink Logistics - StoneX",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0VmTlJXUUFnSnhlRXpfRFNBQzltc0ZJWERVakpfRjF6UWRpeGlFaG9IWElKNmoxdENEbXZjTzZPZVE4X2liNlhVLXV3UW9zODhNN0hVdGJtdm5yQnBVQWRyd3k3M1kxNGt3WVNDSU1FTnVqTWRkOUdNNEVtWXNNdFhvWHpaUUI3SS1OX1FXenhaQ2lSLUloMGRIS0otekFjOE9ZMUxuRXM?oc=5",
+  "published": "Wed, 15 Jul 2026 14:23:06 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",

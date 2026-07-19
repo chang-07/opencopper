@@ -46,7 +46,7 @@ band is wide, the elasticities are doing the work, not the event.
 _7 corroborating headline(s):_
 - [Russian strikes threaten Ukraine’s Black Sea grain trade - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVhhOU9vNFBzTllQZG9WbE1uRUZhWGtDSWN1TjNEVWZKeGtZWlNLQ2FqNHVUbFQtRXpLZGpxMmk4S2FLcWtIX0EtcWJlVHdMLThFZ3VYVVh6MWVIQXZTaVUzR2xHX0pVRTJ5TENybG5MbC14ODBXZHpMN25FSTVrQjFwbUQ?oc=5)
 - [Wheat futures surge as escalating Russia-Ukraine war threatens Black Sea exports (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMiugFBVV95cUxQYjVSb3FqdjFRVUZ2SU9sNC13N0VoLVM4Y0hiUEZDMGhQUDlRNmptaW1fbHhoZFNLVDdNdWw0aVFrVVJ3QzFvZEJMUTFscFZybnFPVjl1RzU4bWdpZ1FGZ0ZYYWk1dHFwMmtRMGNULWVUSWJjU0VEakFDNmxHWDhOMWh0RGQtZVhxbWE4aUhoLVZXaUJvb2ZZekF0UVBGd0JHdUs4SERESkFEcnlOT2Y2bkRzQ3RqbHdFQkE?oc=5)
-- [Azov Sea Blockage Forces Russian Wheat Exporters to Rethink Logistics - StoneX](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0VmTlJXUUFnSnhlRXpfRFNBQzltc0ZJWERVakpfRjF6UWRpeGlFaG9IWElKNmoxdENEbXZjTzZPZVE4X2liNlhVLXV3UW9zODhNN0hVdGJtdm5yQnBVQWRyd3k3M1kxNGt3WVNDSU1FTnVqTWRkOUdNNEVtWXNNdFhvWHpaUUI3SS1OX1FXenhaQ2lSLUloMGRIS0otekFjOE9ZMUxuRXM?oc=5)
+- [Russian missile strike on civilian grain ship in Black Sea kills 5 - The Kyiv Independent](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbWVpem9KbDc5bFZPLWdlX1Yzd0VJNDlEQmk4d09QNzVLWjVIWDlTZ0szWUgwY3pUOFdKRkF4QzdyckpJbTdQUXIyeFpPSzN4M3VhV0Fwb1hoYzZtVmlwXzQwY2VBaU1pS0s3anVZd0NLOGM3dmZhMFdJc2lpSGxQblZSQVJvLVI0UjZISkFUU1VvbVE?oc=5)
 - …and 4 more
 
 ---
