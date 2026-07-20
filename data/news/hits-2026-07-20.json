@@ -132,17 +132,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It - Time Magazine",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjk1OEVEdlZCbFk0V3JqZmQzd2d3TDRzYTQ4S3FTY1F6OVRMTGxqaUxXUC05OHpFTzFGQ2Y2VXZLSlo3dzd5VV9fRVhiZHBPSm5EOUd1ZFFaRkF6c0w1RVJPdWsyRlowcFJhOUJCcVViM215dWhXOTJfbWNOZHNMV29qTm4xbkM3aU1fb1gzNFNlZWN0eHlXZlNZcw?oc=5",
-  "published": "Mon, 13 Jul 2026 22:39:22 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Chevron Moves Closer to Iraq's Biggest Oil Prizeand a Hormuz Exit Strategy - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWx6UWxYN1ZMVkgxaVNpZVJ3eW1GMHltZGlZLVlIOHFiSGpINWNzd0tLUEszOXdxN3lLZExxMVJ5dzg1MmtBY3Y2c3hJNmxWOGFiWk9LYkR0Tno4ME5RSUs3TGRrQWVHaXV6djJRYnQ3MlBwdlR4bWpTSHZyblpSeG1JQkhNTHZld0tQLUlDRHRIYnZrNzIzVS1VVzI4dlFDNUFUd2Rzdms4c211Nmh0aDl5SjRHSE9EZm53R3NPVXZlMGdiLUsycNIBzgFBVV95cUxPeEN6UDBFVm8tY0p4bnFlSlpSNkM2S1FYbHBLaFFQMzNBUG9ScURsWlMzakhBUVVNVDA5NkVDYUo2QV9wd09pMWRlNWpzT3RJZnA3dGk4SEZ3elVkVjlFcDJmT1djSTUtenJWV085Y0o3TEMtY3Blb0lqaXlBWUFodngwT0xuTVdRb1VjVmNhaWY2MVpZaHhiVnB2S0tIajM0Ni1fOUhrSDNqVk9PUmY3NUZrclJTaVVNTmt1V0tDdFpDNVU4dWxvaUJobHdMUQ?oc=5",
   "published": "Thu, 16 Jul 2026 20:30:00 GMT",
@@ -154,9 +143,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian Wheat Export Prices Soar Amidst Escalating Hostilities - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb016dWtmNVBud2J2US1rcTBVQTM4dFZTb3ZhaFd2NDQ5SkxzMm9sWEZQSzBndmRnbVdFbzRUbjZaMU1oQlhCZTZ6UjRKNW9OUUFVZC1XTFo3R1N2Yk5WMV9CRDY4M1R1ZmtaMHB3TllZR1RidmFaaWxnd2xKdWZoVjRvRms?oc=5",
-  "published": "Mon, 20 Jul 2026 17:39:44 GMT",
+  "headline": "Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It - Time Magazine",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjk1OEVEdlZCbFk0V3JqZmQzd2d3TDRzYTQ4S3FTY1F6OVRMTGxqaUxXUC05OHpFTzFGQ2Y2VXZLSlo3dzd5VV9fRVhiZHBPSm5EOUd1ZFFaRkF6c0w1RVJPdWsyRlowcFJhOUJCcVViM215dWhXOTJfbWNOZHNMV29qTm4xbkM3aU1fb1gzNFNlZWN0eHlXZlNZcw?oc=5",
+  "published": "Mon, 13 Jul 2026 22:39:22 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5",
+  "published": "Wed, 15 Jul 2026 17:45:09 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -165,9 +165,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5",
-  "published": "Wed, 15 Jul 2026 17:45:09 GMT",
+  "headline": "Russian Wheat Export Prices Soar Amidst Escalating Hostilities - maritimeprofessional.com",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVdWaGpoUmJ5MGRSSWxneXNlMmFEd0VIS21mZmR4MlNqbkRPRDZSMmg5MjNKM0hJQXFJbkNqWnd0RXRYLXVnXzZab1NNMTluS0pnQzBIRDBLZ2pzZW5oUEJBUEpUYmwyX2hkLU9FeWN5bEsxQkFjcGJuWWY5SkdhQ0xmTV9DOGVOQlhGWW1R0gGOAUFVX3lxTE45V1ZoamhSYnkwZFJJbGd5c2UyYUR3RUhLbWZmZHgyU2puRE9ENlIyaDkyM0ozSElBcUluQ2pad3RFdFgtdWdfNlpvU00xOW5LSmdDMEhEMEtnanNlbmhQQkFQSlRibDJfaGQtT0V5Y3lsSzFCQWNwYm5ZZjlKR2FDTGZNX0M4ZU5CWEZZbVE?oc=5",
+  "published": "Mon, 20 Jul 2026 18:05:25 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",

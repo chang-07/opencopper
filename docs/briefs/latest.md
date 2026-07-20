@@ -27,8 +27,8 @@ _15 corroborating headline(s):_
 - [Iraq Looks to Syria for a Solution to the Strait of Hormuz Dilemma - الحرة](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvbHd6c0ZIN2NGUHVKRnZTYnJGVy1hMlhiOEZmZWt1eGk4VTZyMEI2S2ljbE9xekZDZkNwSmhPMWRrdw?oc=5)
 - …and 12 more
 
-## Russian Wheat Export Prices Soar Amidst Escalating Hostilities - Marine News Magazine
-*Mon, 20 Jul 2026 17:39:44 GMT* — [source](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb016dWtmNVBud2J2US1rcTBVQTM4dFZTb3ZhaFd2NDQ5SkxzMm9sWEZQSzBndmRnbVdFbzRUbjZaMU1oQlhCZTZ6UjRKNW9OUUFVZC1XTFo3R1N2Yk5WMV9CRDY4M1R1ZmtaMHB3TllZR1RidmFaaWxnd2xKdWZoVjRvRms?oc=5)
+## Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters
+*Wed, 15 Jul 2026 17:45:09 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -44,7 +44,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _6 corroborating headline(s):_
-- [Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
+- [Russian Wheat Export Prices Soar Amidst Escalating Hostilities - maritimeprofessional.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVdWaGpoUmJ5MGRSSWxneXNlMmFEd0VIS21mZmR4MlNqbkRPRDZSMmg5MjNKM0hJQXFJbkNqWnd0RXRYLXVnXzZab1NNMTluS0pnQzBIRDBLZ2pzZW5oUEJBUEpUYmwyX2hkLU9FeWN5bEsxQkFjcGJuWWY5SkdhQ0xmTV9DOGVOQlhGWW1R0gGOAUFVX3lxTE45V1ZoamhSYnkwZFJJbGd5c2UyYUR3RUhLbWZmZHgyU2puRE9ENlIyaDkyM0ozSElBcUluQ2pad3RFdFgtdWdfNlpvU00xOW5LSmdDMEhEMEtnanNlbmhQQkFQSlRibDJfaGQtT0V5Y3lsSzFCQWNwYm5ZZjlKR2FDTGZNX0M4ZU5CWEZZbVE?oc=5)
 - [Ukrainian Strikes Slash Russian Grain Exports, Analysts Say - The Moscow Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmpEYXNPMVFwLXNOdzVkenpYV0pJMDlBSjdUMzdPTzFzdGloN2RzS09LeVBFRVV5Z1dka2RyQ1ozd0haV1VpdFpNZlJKX19YeXprVjdKbURFVjl5X085TWt1QmFTMUZMMUFnYk9kcGJOZVlYc0w1bUZCT1BzcUV3S19WR3NwTGNzeDFBNUNFU2NnM1VxVkZnNnNCOWxxd2c4US1ST2RtVGZ5SjQ?oc=5)
 - [Russian strikes threaten Ukraine’s Black Sea grain trade - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVhhOU9vNFBzTllQZG9WbE1uRUZhWGtDSWN1TjNEVWZKeGtZWlNLQ2FqNHVUbFQtRXpLZGpxMmk4S2FLcWtIX0EtcWJlVHdMLThFZ3VYVVh6MWVIQXZTaVUzR2xHX0pVRTJ5TENybG5MbC14ODBXZHpMN25FSTVrQjFwbUQ?oc=5)
 - …and 3 more
