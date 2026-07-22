@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _14 corroborating headline(s):_
 - [Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdklMSnhYQmNTWnBFZ3JGTkRkckE1RTg1QVBpd3hWb291ZGsxSGNqSlF2VGtxWWtIdWtzY2VGUDZ1eFBxN0RZb0huWFZ3U2FoaWtBVTZ1MmQtWFZGOVFncW1nVW9uaGhfd1lZZXlVUmcyZVdFektMajJSTVhXYk50a0pEbFI1RFBPQ3Y00gGQAUFVX3lxTE1xSEFicjl2X29zZ1IxQ1NONUNycjlJbDlkRTd0UWM5cjA2eU9oczE3OEg5cEVzcEd5ZTlveEV5aVZ4MjB5c0hqVW9SaklKLTJrMEpSMHlPRWtHMDR6YUFPalg5el9ISTM3SmRpSW1XbW04eFBGS1JZXzBQVE1jVlVvRFd5OWdSVU0yMVZDeWFlSA?oc=5)
-- [Opec-Plus: Brief Hormuz Opening Spurs Production Rebound - Energy Intelligence](https://news.google.com/rss/articles/CBMickFVX3lxTE1JbVBpVV9iNm9ZZXNzaXBRd2J6TUkzaUNCUkk3R2NEQ2VTbDZ0QnBqVDJreHB5YmhNd3lNeldON0kyUnl3MFZET0UwdWp1Q3lRSl9CNTdVdlJraVlya09JV3Zqb05zZDZPN2t2U1BaRTNndw?oc=5)
 - [Not So Strait-Forward: Hormuz, Iran, and the Future of Gulf Oil and Gas Flows - Council on Foreign Relations](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY21HQVFqNUlCcUJ2aUdGRE5DWGJFMnlKZER1RFdaSThJUjB3SC1MLTZYWU1RY09hd1NTSE52TDhSZ2Ftd2EzUFc0cTd6cnZ2SHMwcHRpdEVlczBUbWdsXzAxb2JNXzhYZ1R4M2E3UE1CaTN5TXRJRE5qaldIUW5xWUVWNXJaRlVxZmVLZDJzWkl4RHZ4ckVPS2FITmtUcWc?oc=5)
+- [Opec-Plus: Brief Hormuz Opening Spurs Production Rebound - Energy Intelligence](https://news.google.com/rss/articles/CBMickFVX3lxTE1JbVBpVV9iNm9ZZXNzaXBRd2J6TUkzaUNCUkk3R2NEQ2VTbDZ0QnBqVDJreHB5YmhNd3lNeldON0kyUnl3MFZET0UwdWp1Q3lRSl9CNTdVdlJraVlya09JV3Zqb05zZDZPN2t2U1BaRTNndw?oc=5)
 - …and 11 more
 
 ## Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters
@@ -43,11 +43,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_4 corroborating headline(s):_
 - [Russian Wheat Export Prices Soar Amidst Escalating Hostilities - Marine News Magazine](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb016dWtmNVBud2J2US1rcTBVQTM4dFZTb3ZhaFd2NDQ5SkxzMm9sWEZQSzBndmRnbVdFbzRUbjZaMU1oQlhCZTZ6UjRKNW9OUUFVZC1XTFo3R1N2Yk5WMV9CRDY4M1R1ZmtaMHB3TllZR1RidmFaaWxnd2xKdWZoVjRvRms?oc=5)
 - [Russian strikes threaten Ukraine’s Black Sea grain trade - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVhhOU9vNFBzTllQZG9WbE1uRUZhWGtDSWN1TjNEVWZKeGtZWlNLQ2FqNHVUbFQtRXpLZGpxMmk4S2FLcWtIX0EtcWJlVHdMLThFZ3VYVVh6MWVIQXZTaVUzR2xHX0pVRTJ5TENybG5MbC14ODBXZHpMN25FSTVrQjFwbUQ?oc=5)
 - [Russian wheat exports expected to fall by third due to attacks in Sea of Azov - Українська правда](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rTlBqX3hqOS1ZVW9fa015TFh1blU1ZDV3X2VYUlZ0RFZpcXJUN0MyaDFDSUp1X2tsTzBKVWJzMmhGcVg4R3BXeXUyeVc5MHdueU54WGhTN0toVTFBaC0zYjU0Nm7SAXBBVV95cUxQNWczWnZvTHpYUlhmX3NNaXVuWDd6LUh3aUtVUDBtaWZvWGpBc0JrNnZnN1lXcURnNFdYUkVmb1gwVEllTVVmR1lwTGszZnhuRTlaM2ZtVTFHUTBRTFlHWUNRRGN1RzMzN3JIZWlXQ3dk?oc=5)
-- …and 2 more
+- …and 1 more
 
 ---
 
