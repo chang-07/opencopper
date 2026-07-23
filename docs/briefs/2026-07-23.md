@@ -24,11 +24,11 @@ band is wide, the elasticities are doing the work, not the event.
 _11 corroborating headline(s):_
 - [From Syria to UAE, the race to bypass Strait of Hormuz is on - Middle East Eye](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGNWblBiX0dRcmlVZTM3X2ktZkxHbmp1bU9aNTdFdklRcWd0Ujk1Q09Jc0FrcnlXQXdySzBLU1Jpc0F0NndaeE5lellSS21PYkVrMHRWa1Nod0RUUkgwQkJEaU1oVzdjaE1GQ3VUbHA5MDZoMUJGUUxZaC1fdDhnTThQZ1ZSRThrZ0o3MGRuRXo5WXpO?oc=5)
 - [Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdklMSnhYQmNTWnBFZ3JGTkRkckE1RTg1QVBpd3hWb291ZGsxSGNqSlF2VGtxWWtIdWtzY2VGUDZ1eFBxN0RZb0huWFZ3U2FoaWtBVTZ1MmQtWFZGOVFncW1nVW9uaGhfd1lZZXlVUmcyZVdFektMajJSTVhXYk50a0pEbFI1RFBPQ3Y00gGQAUFVX3lxTE1xSEFicjl2X29zZ1IxQ1NONUNycjlJbDlkRTd0UWM5cjA2eU9oczE3OEg5cEVzcEd5ZTlveEV5aVZ4MjB5c0hqVW9SaklKLTJrMEpSMHlPRWtHMDR6YUFPalg5el9ISTM3SmRpSW1XbW04eFBGS1JZXzBQVE1jVlVvRFd5OWdSVU0yMVZDeWFlSA?oc=5)
-- [Hormuz Closure Extends Well Beyond Oil to Threaten Chinese EVs: Russell - EnergyNow](https://news.google.com/rss/articles/CBMiogFBVV95cUxQenFGeVI4UjJkYnYycUJZdEFQZW9jZTRPcmU5alR3dkt1N0hzS0JYZkFJNmo2NUxBRVpaUm52akNYb1RkelhuLVJNMDFKVVc3d1B3X1F3OHlwX0Q0eGE3VS1BSk1taERDQkpPblRhSzlTbXRQRm0tbWlGazBxdlVFXzhSbW10ZENVWWRfcEtqQURzY2xrYnFpOUhqUmdjSzdWTnc?oc=5)
+- [Norway's Oil Output Beats Forecasts as Hormuz Traffic Stays Near Crisis Lows - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOODdhR3ZGOVNqZjQ2OHUyOXo4d0l4VWpxLUNvbzdOWE45N0FqX19SLXFNeDhObDAwVTJyUVA1NDlpVEU0NEt3dkE5c2QydGxCRG9JbXF6M0dSOThrS3Y2cGUwb2REcXdvY0pRZzZDZVhMazZkY2h5dWFmdkE2VTJfaUFwY0lDeFFoemI0T0dRbG5hcF9pM0Q2V2xFVFY3YkpEVkdKcDdwWmxsdzBHNV9XTy1TWXQ1b2UwbnfSAb8BQVVfeXFMUGxLaUllQ0wxMk00MEtRTlQ0dlRiRzlNVGFKSDNveU1FLUFDa2IxOEI0eG45ZzN5QVM4N295eE9BTXBkY1FWN2VTT0tZeFoyTXY5S0toeFZqeEVOSGRnODJjZ2x2NmVmdS1NdEYyUHJrQmx6NXRrSzY4Rk9kODFMaTBJenI3NjRzMjdTSjJ0QUhpOUYwUDBYX3ZoYmsydEcxMVhPTEstZ0t0NG1SelYwWGQ4TUpHd3FPbkpVUkYwcDg?oc=5)
 - …and 8 more
 
-## Why Have Ukraine's Black Sea Grain Exports Suddenly Stopped? - Agrolatam
-*Thu, 23 Jul 2026 12:50:03 GMT* — [source](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWZCdjVkU3BWZ3hyZk9kb08xdFBYeHhGeXhHWVBiUWFRZ29yV2ZDcmpnVTdhZTd2alNhNnVPSGNZX3k2aEktcDVCLWV2eXd3SjZqRk1ITWFMRDc2WnRRUEVuRTFSOFNObDh2VXdMREVBUFl1S1N2TGhzZVRCVW9tRjBCaTR0NzhpWlpaMHQxSkMydThaaGRF?oc=5)
+## Ukraine Grain Exports Halt as Shipowners Suspend Black Sea Port Calls - Agrolatam
+*Thu, 23 Jul 2026 12:30:30 GMT* — [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb002UGh0YjVJRWpSOGxXX2FxLWFJQUhMT2tpcHllb2xoSXlSWU9KdW9tdWIwSmloZE9UczRuRExheEFsdmRGLU9vM0hRX1dEXzR3T01QR3VmMmVXZGxsakxkdjBEbFgxRjhrcVRObGt6MEhZVVFMbDIzZ1YyNVBlOHZXR2lkaUJlbFMwWG5GY1dFaDZSQ0V2VA?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
