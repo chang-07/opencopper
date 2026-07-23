@@ -21,14 +21,14 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_12 corroborating headline(s):_
+_11 corroborating headline(s):_
 - [From Syria to UAE, the race to bypass Strait of Hormuz is on - Middle East Eye](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGNWblBiX0dRcmlVZTM3X2ktZkxHbmp1bU9aNTdFdklRcWd0Ujk1Q09Jc0FrcnlXQXdySzBLU1Jpc0F0NndaeE5lellSS21PYkVrMHRWa1Nod0RUUkgwQkJEaU1oVzdjaE1GQ3VUbHA5MDZoMUJGUUxZaC1fdDhnTThQZ1ZSRThrZ0o3MGRuRXo5WXpO?oc=5)
 - [Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdklMSnhYQmNTWnBFZ3JGTkRkckE1RTg1QVBpd3hWb291ZGsxSGNqSlF2VGtxWWtIdWtzY2VGUDZ1eFBxN0RZb0huWFZ3U2FoaWtBVTZ1MmQtWFZGOVFncW1nVW9uaGhfd1lZZXlVUmcyZVdFektMajJSTVhXYk50a0pEbFI1RFBPQ3Y00gGQAUFVX3lxTE1xSEFicjl2X29zZ1IxQ1NONUNycjlJbDlkRTd0UWM5cjA2eU9oczE3OEg5cEVzcEd5ZTlveEV5aVZ4MjB5c0hqVW9SaklKLTJrMEpSMHlPRWtHMDR6YUFPalg5el9ISTM3SmRpSW1XbW04eFBGS1JZXzBQVE1jVlVvRFd5OWdSVU0yMVZDeWFlSA?oc=5)
 - [Hormuz Closure Extends Well Beyond Oil to Threaten Chinese EVs: Russell - EnergyNow](https://news.google.com/rss/articles/CBMiogFBVV95cUxQenFGeVI4UjJkYnYycUJZdEFQZW9jZTRPcmU5alR3dkt1N0hzS0JYZkFJNmo2NUxBRVpaUm52akNYb1RkelhuLVJNMDFKVVc3d1B3X1F3OHlwX0Q0eGE3VS1BSk1taERDQkpPblRhSzlTbXRQRm0tbWlGazBxdlVFXzhSbW10ZENVWWRfcEtqQURzY2xrYnFpOUhqUmdjSzdWTnc?oc=5)
-- …and 9 more
+- …and 8 more
 
-## Ukraine Grain Exports Halt as Shipowners Suspend Black Sea Port Calls - Agrolatam
-*Thu, 23 Jul 2026 12:15:53 GMT* — [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb002UGh0YjVJRWpSOGxXX2FxLWFJQUhMT2tpcHllb2xoSXlSWU9KdW9tdWIwSmloZE9UczRuRExheEFsdmRGLU9vM0hRX1dEXzR3T01QR3VmMmVXZGxsakxkdjBEbFgxRjhrcVRObGt6MEhZVVFMbDIzZ1YyNVBlOHZXR2lkaUJlbFMwWG5GY1dFaDZSQ0V2VA?oc=5)
+## Why Have Ukraine's Black Sea Grain Exports Suddenly Stopped? - Agrolatam
+*Thu, 23 Jul 2026 12:50:03 GMT* — [source](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWZCdjVkU3BWZ3hyZk9kb08xdFBYeHhGeXhHWVBiUWFRZ29yV2ZDcmpnVTdhZTd2alNhNnVPSGNZX3k2aEktcDVCLWV2eXd3SjZqRk1ITWFMRDc2WnRRUEVuRTFSOFNObDh2VXdMREVBUFl1S1N2TGhzZVRCVW9tRjBCaTR0NzhpWlpaMHQxSkMydThaaGRF?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -44,8 +44,8 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _3 corroborating headline(s):_
-- [Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5)
 - [Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
+- [Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5)
 - [Russian Wheat Export Prices Soar Amidst Escalating Hostilities - Marine News Magazine](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb016dWtmNVBud2J2US1rcTBVQTM4dFZTb3ZhaFd2NDQ5SkxzMm9sWEZQSzBndmRnbVdFbzRUbjZaMU1oQlhCZTZ6UjRKNW9OUUFVZC1XTFo3R1N2Yk5WMV9CRDY4M1R1ZmtaMHB3TllZR1RidmFaaWxnd2xKdWZoVjRvRms?oc=5)
 
 ---
