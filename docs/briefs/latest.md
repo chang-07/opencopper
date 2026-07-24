@@ -24,8 +24,24 @@ band is wide, the elasticities are doing the work, not the event.
 _11 corroborating headline(s):_
 - [From Syria to UAE, the race to bypass Strait of Hormuz is on - Middle East Eye](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGNWblBiX0dRcmlVZTM3X2ktZkxHbmp1bU9aNTdFdklRcWd0Ujk1Q09Jc0FrcnlXQXdySzBLU1Jpc0F0NndaeE5lellSS21PYkVrMHRWa1Nod0RUUkgwQkJEaU1oVzdjaE1GQ3VUbHA5MDZoMUJGUUxZaC1fdDhnTThQZ1ZSRThrZ0o3MGRuRXo5WXpO?oc=5)
 - [Global Oil Reroutes: Pipeline Projects Surge Amid Strait of Hormuz Blockade - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTItWnZfSlpNQ3k2aVN4OWpLLS1CeTNyaUduTlRERm02bTFGeVZtYk9sQnh1RXQ0eFVNYjlfM21ROWVSWDFFd0FidnB0WllYeGQxbURmeHhsc1h1U3JDdGJITjE3NHVkcGpzVFVtb0llMXZ3TUZRMlZyQTVpNi15NktYeVNyaVdtYmx5Tmowc2YteTVuVFE?oc=5)
-- [Norway's Oil Output Beats Forecasts as Hormuz Traffic Stays Near Crisis Lows - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOODdhR3ZGOVNqZjQ2OHUyOXo4d0l4VWpxLUNvbzdOWE45N0FqX19SLXFNeDhObDAwVTJyUVA1NDlpVEU0NEt3dkE5c2QydGxCRG9JbXF6M0dSOThrS3Y2cGUwb2REcXdvY0pRZzZDZVhMazZkY2h5dWFmdkE2VTJfaUFwY0lDeFFoemI0T0dRbG5hcF9pM0Q2V2xFVFY3YkpEVkdKcDdwWmxsdzBHNV9XTy1TWXQ1b2UwbnfSAb8BQVVfeXFMUGxLaUllQ0wxMk00MEtRTlQ0dlRiRzlNVGFKSDNveU1FLUFDa2IxOEI0eG45ZzN5QVM4N295eE9BTXBkY1FWN2VTT0tZeFoyTXY5S0toeFZqeEVOSGRnODJjZ2x2NmVmdS1NdEYyUHJrQmx6NXRrSzY4Rk9kODFMaTBJenI3NjRzMjdTSjJ0QUhpOUYwUDBYX3ZoYmsydEcxMVhPTEstZ0t0NG1SelYwWGQ4TUpHd3FPbkpVUkYwcDg?oc=5)
+- [Iran war: What is the Strait of Hormuz and why does it matter? - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tN3d3SGFFOS1kb0ctMnU0WDdib1hmYUVaLXQ3bm5vRUFlUjVhN05nLVBJOUozTXo2ZnpDZ0NHQUJzMXpBNkdqbHdJNy13bUF0aDJSLUdLR19OQQ?oc=5)
 - …and 8 more
+
+## DRC Cobalt Export Quotas Fuelling a Global Cobalt Deficit - Discovery Alert
+*Fri, 24 Jul 2026 08:22:05 GMT* — [source](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXYzRFlQaXBFNVJENHdrZ3kxLW5odWM4emtqWm5iOTQ1TWRpaGtra1pZWDRscHZLTEtjdU5DZEJLbE9tc1dqVFJUeS1BVUllV2xyNDFlWHlUUEpxSElYM0R6bWhZc0FGZzNYX09jeTJfTmhLM0pxQ1hfdDFNMWNxR19FM2RMTUluRTF3bExqeDU2cWhM?oc=5)
+Rule: cobalt / Congo (Kinshasa) / severity prior +40%
+
+```
+CROSS-COMMODITY RIPPLE — Congo (Kinshasa) cobalt -40% (prior)
+commodity    channel       via                          price Δ
+----------------------------------------------------------------
+cobalt       direct        Congo (Kinshasa)          ≥     +300%  [+90..+300%]
+
+One first-order round through data/seed/linkages.yaml (byproduct /
+substitution / input-cost); couplings are disputable seed-estimates.
+[..] = the same shock across the seeded elasticity RANGES — when the
+band is wide, the elasticities are doing the work, not the event.
+```
 
 ## Ukraine Grain Exports Halt as Shipowners Suspend Black Sea Port Calls - Agrolatam
 *Thu, 23 Jul 2026 12:30:30 GMT* — [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb002UGh0YjVJRWpSOGxXX2FxLWFJQUhMT2tpcHllb2xoSXlSWU9KdW9tdWIwSmloZE9UczRuRExheEFsdmRGLU9vM0hRX1dEXzR3T01QR3VmMmVXZGxsakxkdjBEbFgxRjhrcVRObGt6MEhZVVFMbDIzZ1YyNVBlOHZXR2lkaUJlbFMwWG5GY1dFaDZSQ0V2VA?oc=5)
