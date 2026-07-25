@@ -62,7 +62,7 @@ band is wide, the elasticities are doing the work, not the event.
 _3 corroborating headline(s):_
 - [Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
 - [Russian Wheat Export Prices Soar Amidst Escalating Hostilities - Marine News Magazine](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb016dWtmNVBud2J2US1rcTBVQTM4dFZTb3ZhaFd2NDQ5SkxzMm9sWEZQSzBndmRnbVdFbzRUbjZaMU1oQlhCZTZ6UjRKNW9OUUFVZC1XTFo3R1N2Yk5WMV9CRDY4M1R1ZmtaMHB3TllZR1RidmFaaWxnd2xKdWZoVjRvRms?oc=5)
-- [Euronext wheat falls 4.2% after Ukraine denies export talks - Investing.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOLVNuZjU2Z0lqNGtvaU5YZFV6V1Y3eDlnNDRIOE1JSS05LWFENjQ5R0ZmX1NNandIcEZFYVBaMF9IQTgtNFF4b1VUdUc3c19QckJBdElIZkdRTlZRMUg0X1FLek45TXJIZVdkNElLT21Sandtd2ZKRWpDb215d2REY0VxNk4xSEZMWHJ1OXBYX0ROZkJ3MXhpMnkzSVI3Y295YkJGQUFSM1JMdGpRdU0wRXg5U053YjdGejlUc2kySjYwOTlK?oc=5)
+- [Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5)
 
 ---
 
