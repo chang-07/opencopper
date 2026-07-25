@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _11 corroborating headline(s):_
 - [Amid Hormuz Crisis, Iraq Weighs Its Future in OPEC - الحرة](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TOWthVUxkVm5sQVpLdFBpQ0hfeVVzcnBnOG16Y19HUndtV3gyVnNISG9LbXFOMzdjSTJJNm8wZ3BfUQ?oc=5)
-- [Meet SLB: The $70 billion oil services giant poised to cash in on AI data centers and the post-Strait of Hormuz oil exploration boom - Fortune](https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3BSRVNXZi1LVEVwcFpqSEhRQkVzbjFVbDJseE94eGo2dGw1UVU2U2xQSXZ4aDhpNVhob01pNkFOV2cxTVo1SjhjTTZWNEVjQ18xbXhkTVhtVWgtSXpvT0c1WXJpSkZnMDNocGpBcldqcEdoYzRjaXZCVTdGNi1QeDVGdjkxcjVRRDJsWTJ2S1F2YzNleVRJ?oc=5)
 - [From Syria to UAE, the race to bypass Strait of Hormuz is on - Middle East Eye](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGNWblBiX0dRcmlVZTM3X2ktZkxHbmp1bU9aNTdFdklRcWd0Ujk1Q09Jc0FrcnlXQXdySzBLU1Jpc0F0NndaeE5lellSS21PYkVrMHRWa1Nod0RUUkgwQkJEaU1oVzdjaE1GQ3VUbHA5MDZoMUJGUUxZaC1fdDhnTThQZ1ZSRThrZ0o3MGRuRXo5WXpO?oc=5)
+- [Meet SLB: The $70 billion oil services giant poised to cash in on AI data centers and the post-Strait of Hormuz oil exploration boom - Fortune](https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3BSRVNXZi1LVEVwcFpqSEhRQkVzbjFVbDJseE94eGo2dGw1UVU2U2xQSXZ4aDhpNVhob01pNkFOV2cxTVo1SjhjTTZWNEVjQ18xbXhkTVhtVWgtSXpvT0c1WXJpSkZnMDNocGpBcldqcEdoYzRjaXZCVTdGNi1QeDVGdjkxcjVRRDJsWTJ2S1F2YzNleVRJ?oc=5)
 - …and 8 more
 
 ## DRC Cobalt Export Quotas Fuelling a Global Cobalt Deficit - Discovery Alert
@@ -59,11 +59,10 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
+_3 corroborating headline(s):_
 - [Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
 - [Russian Wheat Export Prices Soar Amidst Escalating Hostilities - Marine News Magazine](https://news.google.com/rss/articles/CBMihAFBVV95cUxOb016dWtmNVBud2J2US1rcTBVQTM4dFZTb3ZhaFd2NDQ5SkxzMm9sWEZQSzBndmRnbVdFbzRUbjZaMU1oQlhCZTZ6UjRKNW9OUUFVZC1XTFo3R1N2Yk5WMV9CRDY4M1R1ZmtaMHB3TllZR1RidmFaaWxnd2xKdWZoVjRvRms?oc=5)
 - [Euronext wheat falls 4.2% after Ukraine denies export talks - Investing.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOLVNuZjU2Z0lqNGtvaU5YZFV6V1Y3eDlnNDRIOE1JSS05LWFENjQ5R0ZmX1NNandIcEZFYVBaMF9IQTgtNFF4b1VUdUc3c19QckJBdElIZkdRTlZRMUg0X1FLek45TXJIZVdkNElLT21Sandtd2ZKRWpDb215d2REY0VxNk4xSEZMWHJ1OXBYX0ROZkJ3MXhpMnkzSVI3Y295YkJGQUFSM1JMdGpRdU0wRXg5U053YjdGejlUc2kySjYwOTlK?oc=5)
-- …and 1 more
 
 ---
 
