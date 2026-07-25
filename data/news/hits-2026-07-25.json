@@ -132,6 +132,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Global Oil Reroutes: Pipeline Projects Surge Amid Strait of Hormuz Blockade - News and Statistics - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTItWnZfSlpNQ3k2aVN4OWpLLS1CeTNyaUduTlRERm02bTFGeVZtYk9sQnh1RXQ0eFVNYjlfM21ROWVSWDFFd0FidnB0WllYeGQxbURmeHhsc1h1U3JDdGJITjE3NHVkcGpzVFVtb0llMXZ3TUZRMlZyQTVpNi15NktYeVNyaVdtYmx5Tmowc2YteTVuVFE?oc=5",
+  "published": "Fri, 24 Jul 2026 00:22:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "DRC Cobalt Export Quotas Fuelling a Global Cobalt Deficit - Discovery Alert",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXYzRFlQaXBFNVJENHdrZ3kxLW5odWM4emtqWm5iOTQ1TWRpaGtra1pZWDRscHZLTEtjdU5DZEJLbE9tc1dqVFJUeS1BVUllV2xyNDFlWHlUUEpxSElYM0R6bWhZc0FGZzNYX09jeTJfTmhLM0pxQ1hfdDFNMWNxR19FM2RMTUluRTF3bExqeDU2cWhM?oc=5",
   "published": "Fri, 24 Jul 2026 08:22:05 GMT",
