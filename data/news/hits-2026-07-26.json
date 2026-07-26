@@ -66,17 +66,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+\u2019s Upcoming August Meeting: Fuel Considerations due to Hormuz Volatility - Modern Diplomacy",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3VxY0dBQzcwOEhoZFBoUjYxZTljaGhnY0tyT3MtcGRoMGNxZk5ERG93MHhhcVlyNGdaV2tSUGFaaTlYU0puRl9XSUMzVmFnVGtLbzRad0NXcWpOUzRhWE5WalhMbEQtQkpiak5FelhuQTZPYjhfb1JSUmFRYXh6b3lTN1BlakIybC0xY1ZkdmhKTnQySE5VQ19zbnJ4VElISmJ6VUhCYnB4akNqWlJaZGhfWQ?oc=5",
-  "published": "Tue, 21 Jul 2026 05:00:54 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdklMSnhYQmNTWnBFZ3JGTkRkckE1RTg1QVBpd3hWb291ZGsxSGNqSlF2VGtxWWtIdWtzY2VGUDZ1eFBxN0RZb0huWFZ3U2FoaWtBVTZ1MmQtWFZGOVFncW1nVW9uaGhfd1lZZXlVUmcyZVdFektMajJSTVhXYk50a0pEbFI1RFBPQ3Y00gGQAUFVX3lxTE1xSEFicjl2X29zZ1IxQ1NONUNycjlJbDlkRTd0UWM5cjA2eU9oczE3OEg5cEVzcEd5ZTlveEV5aVZ4MjB5c0hqVW9SaklKLTJrMEpSMHlPRWtHMDR6YUFPalg5el9ISTM3SmRpSW1XbW04eFBGS1JZXzBQVE1jVlVvRFd5OWdSVU0yMVZDeWFlSA?oc=5",
   "published": "Fri, 17 Jul 2026 07:00:00 GMT",
@@ -157,6 +146,17 @@
   "headline": "Russian Wheat Export Prices Soar Amidst Escalating Hostilities - Marine News Magazine",
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb016dWtmNVBud2J2US1rcTBVQTM4dFZTb3ZhaFd2NDQ5SkxzMm9sWEZQSzBndmRnbVdFbzRUbjZaMU1oQlhCZTZ6UjRKNW9OUUFVZC1XTFo3R1N2Yk5WMV9CRDY4M1R1ZmtaMHB3TllZR1RidmFaaWxnd2xKdWZoVjRvRms?oc=5",
   "published": "Mon, 20 Jul 2026 17:39:44 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia's escalating port attacks choke Ukraine's grain exports as industry nears crisis - The Kyiv Independent",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDRyT1A3V0h3dERDcnk2LWRyT2pLamstYjY1c1ptYUk1RVhFWXExSmR1SDJKekZkUDYyUms2REM2YU9WNWVnUU5TVnU4UTA5Z1VwVXJMV3hyai1scHFVZ3NBdmlEdVdHeVVkVzl4QjBWRW1VYnItSk1XNURWNHNwbGdubVhaZ242VTY5anVqYlRSZVhRdEJlSm9saURHT1UxQkJlN3VWb2JRZXk5dDFHSUM0dkc?oc=5",
+  "published": "Fri, 24 Jul 2026 16:56:59 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
