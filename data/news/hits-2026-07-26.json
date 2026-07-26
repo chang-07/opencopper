@@ -66,6 +66,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC+\u2019s Upcoming August Meeting: Fuel Considerations due to Hormuz Volatility - Modern Diplomacy",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3VxY0dBQzcwOEhoZFBoUjYxZTljaGhnY0tyT3MtcGRoMGNxZk5ERG93MHhhcVlyNGdaV2tSUGFaaTlYU0puRl9XSUMzVmFnVGtLbzRad0NXcWpOUzRhWE5WalhMbEQtQkpiak5FelhuQTZPYjhfb1JSUmFRYXh6b3lTN1BlakIybC0xY1ZkdmhKTnQySE5VQ19zbnJ4VElISmJ6VUhCYnB4akNqWlJaZGhfWQ?oc=5",
+  "published": "Tue, 21 Jul 2026 05:00:54 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Iran Is Seeking To Dominate The Strait Of Hormuz. Gulf Countries Are Planning To Bypass It - International Business Times",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQl9QQmZybU9Cc040NC11bFdnZXVicUFXVUZTTDdKbERSamRkV19LVWRyOW1uX1hEN0NSQ01sLXZwTDhBSlVUbWtHYlNlTTdJaFl4SVdFdXhzV2g3TFpYUjMtNkhkZXh3U0VQdmsxVkFoMXZiVkdlS09zd21UYk1YakRvUElRTWhjV3dSMUNDS1ZwS09wMzNNQ2JMYU5sTzNlanZUdEJ0WEs?oc=5",
   "published": "Thu, 23 Jul 2026 13:31:11 GMT",
@@ -99,6 +110,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Opec-Plus: Brief Hormuz Opening Spurs Production Rebound - Energy Intelligence",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JbVBpVV9iNm9ZZXNzaXBRd2J6TUkzaUNCUkk3R2NEQ2VTbDZ0QnBqVDJreHB5YmhNd3lNeldON0kyUnl3MFZET0UwdWp1Q3lRSl9CNTdVdlJraVlya09JV3Zqb05zZDZPN2t2U1BaRTNndw?oc=5",
+  "published": "Tue, 21 Jul 2026 17:39:16 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It - Time Magazine",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjk1OEVEdlZCbFk0V3JqZmQzd2d3TDRzYTQ4S3FTY1F6OVRMTGxqaUxXUC05OHpFTzFGQ2Y2VXZLSlo3dzd5VV9fRVhiZHBPSm5EOUd1ZFFaRkF6c0w1RVJPdWsyRlowcFJhOUJCcVViM215dWhXOTJfbWNOZHNMV29qTm4xbkM3aU1fb1gzNFNlZWN0eHlXZlNZcw?oc=5",
   "published": "Mon, 13 Jul 2026 07:00:00 GMT",
@@ -113,17 +135,6 @@
   "headline": "Global Oil Reroutes: Pipeline Projects Surge Amid Strait of Hormuz Blockade - News and Statistics - IndexBox",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTItWnZfSlpNQ3k2aVN4OWpLLS1CeTNyaUduTlRERm02bTFGeVZtYk9sQnh1RXQ0eFVNYjlfM21ROWVSWDFFd0FidnB0WllYeGQxbURmeHhsc1h1U3JDdGJITjE3NHVkcGpzVFVtb0llMXZ3TUZRMlZyQTVpNi15NktYeVNyaVdtYmx5Tmowc2YteTVuVFE?oc=5",
   "published": "Fri, 24 Jul 2026 00:22:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Fresh Strait of Hormuz attacks deepen global oil security fears, says IEA chief - Upstream Online",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTXFON3FGLW1qeUdnZExqVVE0N1NxRzBNeGJHOVFfSXpDc3B3Y29KSXBxWF9zYzZpU2F1ZVdhNnMzR2FjdXlSbHhwVUllNFlnTGYwMk54WEZqYjZYczh3MVdIWTA0RnU5MHBORWNvV0Z4T3RfT01YeVRKMEw0dFlMajBFZmgwWndNb2U0bTRBQUFjYWlrb1dKSGhIeWY1U0xQaFBsVDhiYTRzcHVhN1dJdzFTZEtPSWxNQ0huYVlXS0hlZG1rdVFzSXdETVg1c05wOTJn?oc=5",
-  "published": "Tue, 21 Jul 2026 12:22:09 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -157,6 +168,17 @@
   "headline": "Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5",
   "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia's escalating port attacks choke Ukraine's grain exports as industry nears crisis - The Kyiv Independent",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDRyT1A3V0h3dERDcnk2LWRyT2pLamstYjY1c1ptYUk1RVhFWXExSmR1SDJKekZkUDYyUms2REM2YU9WNWVnUU5TVnU4UTA5Z1VwVXJMV3hyai1scHFVZ3NBdmlEdVdHeVVkVzl4QjBWRW1VYnItSk1XNURWNHNwbGdubVhaZ242VTY5anVqYlRSZVhRdEJlSm9saURHT1UxQkJlN3VWb2JRZXk5dDFHSUM0dkc?oc=5",
+  "published": "Fri, 24 Jul 2026 16:56:59 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",

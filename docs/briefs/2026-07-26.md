@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_11 corroborating headline(s):_
+_12 corroborating headline(s):_
 - [Oil tanker hits sea mine in Strait of Hormuz - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز](https://news.google.com/rss/articles/CBMifEFVX3lxTFAyZ1o4R1RBLTVnZk96eHdmblFva0JnN1VvWEtfR2Y2UWViaGx1Tnoxc3cybnhYbjc3TTg1dlFLNTRYWUpja3ZjUHF6d0ZFZXVsNlFRZUR0WEJYZWZlY0c2eDdpbDRzelVoOWdPZHNQbi0wWXExOFhuOURGWFI?oc=5)
 - [From Syria to UAE, the race to bypass Strait of Hormuz is on - Middle East Eye](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGNWblBiX0dRcmlVZTM3X2ktZkxHbmp1bU9aNTdFdklRcWd0Ujk1Q09Jc0FrcnlXQXdySzBLU1Jpc0F0NndaeE5lellSS21PYkVrMHRWa1Nod0RUUkgwQkJEaU1oVzdjaE1GQ3VUbHA5MDZoMUJGUUxZaC1fdDhnTThQZ1ZSRThrZ0o3MGRuRXo5WXpO?oc=5)
 - [Iran war: What is the Strait of Hormuz and why does it matter? - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tN3d3SGFFOS1kb0ctMnU0WDdib1hmYUVaLXQ3bm5vRUFlUjVhN05nLVBJOUozTXo2ZnpDZ0NHQUJzMXpBNkdqbHdJNy13bUF0aDJSLUdLR19OQQ?oc=5)
-- …and 8 more
+- …and 9 more
 
 ## Ukraine Grain Exports Halt as Shipowners Suspend Black Sea Port Calls - Agrolatam
 *Thu, 23 Jul 2026 12:30:30 GMT* — [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb002UGh0YjVJRWpSOGxXX2FxLWFJQUhMT2tpcHllb2xoSXlSWU9KdW9tdWIwSmloZE9UczRuRExheEFsdmRGLU9vM0hRX1dEXzR3T01QR3VmMmVXZGxsakxkdjBEbFgxRjhrcVRObGt6MEhZVVFMbDIzZ1YyNVBlOHZXR2lkaUJlbFMwWG5GY1dFaDZSQ0V2VA?oc=5)
@@ -43,9 +43,10 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_3 corroborating headline(s):_
 - [Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
 - [Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5)
+- [Russia's escalating port attacks choke Ukraine's grain exports as industry nears crisis - The Kyiv Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDRyT1A3V0h3dERDcnk2LWRyT2pLamstYjY1c1ptYUk1RVhFWXExSmR1SDJKekZkUDYyUms2REM2YU9WNWVnUU5TVnU4UTA5Z1VwVXJMV3hyai1scHFVZ3NBdmlEdVdHeVVkVzl4QjBWRW1VYnItSk1XNURWNHNwbGdubVhaZ242VTY5anVqYlRSZVhRdEJlSm9saURHT1UxQkJlN3VWb2JRZXk5dDFHSUM0dkc?oc=5)
 
 ---
 
