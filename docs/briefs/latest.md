@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_12 corroborating headline(s):_
-- [Oil tanker hits sea mine in Strait of Hormuz - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز](https://news.google.com/rss/articles/CBMifEFVX3lxTFAyZ1o4R1RBLTVnZk96eHdmblFva0JnN1VvWEtfR2Y2UWViaGx1Tnoxc3cybnhYbjc3TTg1dlFLNTRYWUpja3ZjUHF6d0ZFZXVsNlFRZUR0WEJYZWZlY0c2eDdpbDRzelVoOWdPZHNQbi0wWXExOFhuOURGWFI?oc=5)
+_10 corroborating headline(s):_
 - [From Syria to UAE, the race to bypass Strait of Hormuz is on - Middle East Eye](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGNWblBiX0dRcmlVZTM3X2ktZkxHbmp1bU9aNTdFdklRcWd0Ujk1Q09Jc0FrcnlXQXdySzBLU1Jpc0F0NndaeE5lellSS21PYkVrMHRWa1Nod0RUUkgwQkJEaU1oVzdjaE1GQ3VUbHA5MDZoMUJGUUxZaC1fdDhnTThQZ1ZSRThrZ0o3MGRuRXo5WXpO?oc=5)
+- [Oil tanker hits sea mine in Strait of Hormuz - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز](https://news.google.com/rss/articles/CBMifEFVX3lxTFAyZ1o4R1RBLTVnZk96eHdmblFva0JnN1VvWEtfR2Y2UWViaGx1Tnoxc3cybnhYbjc3TTg1dlFLNTRYWUpja3ZjUHF6d0ZFZXVsNlFRZUR0WEJYZWZlY0c2eDdpbDRzelVoOWdPZHNQbi0wWXExOFhuOURGWFI?oc=5)
 - [Iran war: What is the Strait of Hormuz and why does it matter? - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tN3d3SGFFOS1kb0ctMnU0WDdib1hmYUVaLXQ3bm5vRUFlUjVhN05nLVBJOUozTXo2ZnpDZ0NHQUJzMXpBNkdqbHdJNy13bUF0aDJSLUdLR19OQQ?oc=5)
-- …and 9 more
+- …and 7 more
 
 ## Ukraine Grain Exports Halt as Shipowners Suspend Black Sea Port Calls - Agrolatam
 *Thu, 23 Jul 2026 12:30:30 GMT* — [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb002UGh0YjVJRWpSOGxXX2FxLWFJQUhMT2tpcHllb2xoSXlSWU9KdW9tdWIwSmloZE9UczRuRExheEFsdmRGLU9vM0hRX1dEXzR3T01QR3VmMmVXZGxsakxkdjBEbFgxRjhrcVRObGt6MEhZVVFMbDIzZ1YyNVBlOHZXR2lkaUJlbFMwWG5GY1dFaDZSQ0V2VA?oc=5)
