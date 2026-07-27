@@ -43,11 +43,10 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
+_3 corroborating headline(s):_
 - [Ukraine Grain Exports Halt as Shipowners Suspend Black Sea Port Calls - Agrolatam](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb002UGh0YjVJRWpSOGxXX2FxLWFJQUhMT2tpcHllb2xoSXlSWU9KdW9tdWIwSmloZE9UczRuRExheEFsdmRGLU9vM0hRX1dEXzR3T01QR3VmMmVXZGxsakxkdjBEbFgxRjhrcVRObGt6MEhZVVFMbDIzZ1YyNVBlOHZXR2lkaUJlbFMwWG5GY1dFaDZSQ0V2VA?oc=5)
 - [Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5)
-- [Civilian grain ship sinks in Black Sea following Russian strike - The Kyiv Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzVzQmpTcHdXcFNmQjRLUXBIRXJpTkx3VFJMbGtCc2xILXBuZFVYQWx0bUh2MmZ1c29mbG9WR2FnYmlVY3ZORGJSOTA1dmFGSFJhclhENXVqd1BUdWUtMEVtdXd3RmlHOXdFOExwVUFpWWdfOFhoeUVDYms5UVoxNkVEdW9HS3k5RDk3alhuTTFSUUZTaFRz?oc=5)
-- …and 1 more
+- [Russia's escalating port attacks choke Ukraine's grain exports as industry nears crisis - The Kyiv Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDRyT1A3V0h3dERDcnk2LWRyT2pLamstYjY1c1ptYUk1RVhFWXExSmR1SDJKekZkUDYyUms2REM2YU9WNWVnUU5TVnU4UTA5Z1VwVXJMV3hyai1scHFVZ3NBdmlEdVdHeVVkVzl4QjBWRW1VYnItSk1XNURWNHNwbGdubVhaZ242VTY5anVqYlRSZVhRdEJlSm9saURHT1UxQkJlN3VWb2JRZXk5dDFHSUM0dkc?oc=5)
 
 ---
 

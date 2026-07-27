@@ -66,17 +66,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil tanker hits sea mine in Strait of Hormuz - Shafaq News | Latest breaking news in Iraq and the world - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyZ1o4R1RBLTVnZk96eHdmblFva0JnN1VvWEtfR2Y2UWViaGx1Tnoxc3cybnhYbjc3TTg1dlFLNTRYWUpja3ZjUHF6d0ZFZXVsNlFRZUR0WEJYZWZlY0c2eDdpbDRzelVoOWdPZHNQbi0wWXExOFhuOURGWFI?oc=5",
-  "published": "Sun, 26 Jul 2026 13:49:51 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdklMSnhYQmNTWnBFZ3JGTkRkckE1RTg1QVBpd3hWb291ZGsxSGNqSlF2VGtxWWtIdWtzY2VGUDZ1eFBxN0RZb0huWFZ3U2FoaWtBVTZ1MmQtWFZGOVFncW1nVW9uaGhfd1lZZXlVUmcyZVdFektMajJSTVhXYk50a0pEbFI1RFBPQ3Y00gGQAUFVX3lxTE1xSEFicjl2X29zZ1IxQ1NONUNycjlJbDlkRTd0UWM5cjA2eU9oczE3OEg5cEVzcEd5ZTlveEV5aVZ4MjB5c0hqVW9SaklKLTJrMEpSMHlPRWtHMDR6YUFPalg5el9ISTM3SmRpSW1XbW04eFBGS1JZXzBQVE1jVlVvRFd5OWdSVU0yMVZDeWFlSA?oc=5",
   "published": "Fri, 17 Jul 2026 07:00:00 GMT",
@@ -121,6 +110,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Oil tanker hits sea mine in Strait of Hormuz - Shafaq News | Latest breaking news in Iraq and the world - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyZ1o4R1RBLTVnZk96eHdmblFva0JnN1VvWEtfR2Y2UWViaGx1Tnoxc3cybnhYbjc3TTg1dlFLNTRYWUpja3ZjUHF6d0ZFZXVsNlFRZUR0WEJYZWZlY0c2eDdpbDRzelVoOWdPZHNQbi0wWXExOFhuOURGWFI?oc=5",
+  "published": "Sun, 26 Jul 2026 13:49:51 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Global Oil Reroutes: Pipeline Projects Surge Amid Strait of Hormuz Blockade - News and Statistics - IndexBox",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTItWnZfSlpNQ3k2aVN4OWpLLS1CeTNyaUduTlRERm02bTFGeVZtYk9sQnh1RXQ0eFVNYjlfM21ROWVSWDFFd0FidnB0WllYeGQxbURmeHhsc1h1U3JDdGJITjE3NHVkcGpzVFVtb0llMXZ3TUZRMlZyQTVpNi15NktYeVNyaVdtYmx5Tmowc2YteTVuVFE?oc=5",
   "published": "Fri, 24 Jul 2026 00:22:00 GMT",
@@ -157,17 +157,6 @@
   "headline": "Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5",
   "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Civilian grain ship sinks in Black Sea following Russian strike - The Kyiv Independent",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzVzQmpTcHdXcFNmQjRLUXBIRXJpTkx3VFJMbGtCc2xILXBuZFVYQWx0bUh2MmZ1c29mbG9WR2FnYmlVY3ZORGJSOTA1dmFGSFJhclhENXVqd1BUdWUtMEVtdXd3RmlHOXdFOExwVUFpWWdfOFhoeUVDYms5UVoxNkVEdW9HS3k5RDk3alhuTTFSUUZTaFRz?oc=5",
-  "published": "Sun, 26 Jul 2026 23:22:42 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
