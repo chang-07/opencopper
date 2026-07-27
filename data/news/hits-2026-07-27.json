@@ -1,5 +1,16 @@
 [
  {
+  "headline": "Lebanon offers Iraq transit route for crude oil to bypass Strait of Hormuz - thenationalnews.com",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONTcxSFU1NzRZbHZSTFpTNHVoZEdFNmQ0OHdqNmZ3NHRyaWtqNGtjSGlkSFZRcEFhWTE4LVVkV2ltbW40SV9nMWg2bFhBM2ZzbHRoNFRwSXdoMlBZTk1MY0ZFdmQ2Mlh4RDMtRnBvSlU3SXVhUDRpNGNJNmRsdUstYllrQWEyQ2VVMGc5ck5tYXMxREJMWmJOVTlPcE9CREZBbkpJenZIMlhDeXIxOXJsVnpoSTdZZE1HMEJZRzR2al8?oc=5",
+  "published": "Mon, 27 Jul 2026 16:24:58 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
   "published": "Fri, 24 Jul 2026 18:47:41 GMT",
@@ -121,14 +132,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Global Oil Reroutes: Pipeline Projects Surge Amid Strait of Hormuz Blockade - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTItWnZfSlpNQ3k2aVN4OWpLLS1CeTNyaUduTlRERm02bTFGeVZtYk9sQnh1RXQ0eFVNYjlfM21ROWVSWDFFd0FidnB0WllYeGQxbURmeHhsc1h1U3JDdGJITjE3NHVkcGpzVFVtb0llMXZ3TUZRMlZyQTVpNi15NktYeVNyaVdtYmx5Tmowc2YteTVuVFE?oc=5",
-  "published": "Fri, 24 Jul 2026 00:22:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
+  "headline": "Russian wheat export prices hold steady amid Black Sea tensions By Investing.com - Investing.com Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVG1FVE9DQ2lfeVpYZVBwck5sYm9FS0t4Vkp0UmNjU3JNX0ZmWU1mMTZuN0l2Mk1udjV6U25IekhianZFR2o2bUNLZHNIRkVZRWhKdHhJUFE4Q1M4T2VQeVJrMmxrOC1yNHBUWm5aMFI3OEtramlTUS1tZVpLcTh1SHZFTVFfdHhJcjVnRUI2M3JWUzZ5ZUROUGpfMV9PMVBhVzVvSlhlQjhyOVVFS3ZMMmlNeWxqQjY3X2h4c0FTeGVXZw?oc=5",
+  "published": "Mon, 27 Jul 2026 16:44:17 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  },
  {
@@ -157,17 +168,6 @@
   "headline": "Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5",
   "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russia's escalating port attacks choke Ukraine's grain exports as industry nears crisis - The Kyiv Independent",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDRyT1A3V0h3dERDcnk2LWRyT2pLamstYjY1c1ptYUk1RVhFWXExSmR1SDJKekZkUDYyUms2REM2YU9WNWVnUU5TVnU4UTA5Z1VwVXJMV3hyai1scHFVZ3NBdmlEdVdHeVVkVzl4QjBWRW1VYnItSk1XNURWNHNwbGdubVhaZ242VTY5anVqYlRSZVhRdEJlSm9saURHT1UxQkJlN3VWb2JRZXk5dDFHSUM0dkc?oc=5",
-  "published": "Fri, 24 Jul 2026 16:56:59 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
