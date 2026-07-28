@@ -27,8 +27,8 @@ _8 corroborating headline(s):_
 - [ADNOC Issues Seventh Crude Tender Since June Despite Hormuz, Red Sea Risks - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3RpaWl3dFFxbHRwb0dMWDhPaFdzRUVENWJQeHFGcU1rTXJvc3J2T3J2ajhPTXBjOUdkeml2b0tJTFk4OV80Y3otby15TXFzQ0lHZ2JOYVM4aUx2TUtkVGpXcHlUU3FleldoSWUwa0FPdjA4UnlrVllSZ3poS25kdmtHelFKREh0UldvTHhsNF9CenVDdlBpYzQtcWhqQjlVdHlPNUtrTHktUnV2aFAwYnZITmVuUE1VSUlEa296TTR0bE5ZN1d1QtIBzgFBVV95cUxPcEJ2aUU3RWdybFU3TFdkUE91ZE9mMmNBRlAtVUxMLUw1RjZBS2paeGY4bENZTE9yMHYxMUlpS1kxdFRWUTJWSW9pSEVHdm9XWXB5QkRLQmYwRDNkcDB5TkNVc0hWT2UxbHJGTTh1OWNXYjMxR05jMEZaTThNeW9pUFkzZFlFZm9tZmpFeTJVTHhxWkJWYTV3VTU0YXNybThPc2ZPR21lYTJTd1NSa0xLZmdRbTRwWHpBQkFmRHpMZGZDQ1pkWXcyeWhBWGZqQQ?oc=5)
 - …and 5 more
 
-## Ukraine Grain Exports Halt as Shipowners Suspend Black Sea Port Calls - Agrolatam
-*Thu, 23 Jul 2026 12:30:30 GMT* — [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb002UGh0YjVJRWpSOGxXX2FxLWFJQUhMT2tpcHllb2xoSXlSWU9KdW9tdWIwSmloZE9UczRuRExheEFsdmRGLU9vM0hRX1dEXzR3T01QR3VmMmVXZGxsakxkdjBEbFgxRjhrcVRObGt6MEhZVVFMbDIzZ1YyNVBlOHZXR2lkaUJlbFMwWG5GY1dFaDZSQ0V2VA?oc=5)
+## Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters
+*Wed, 15 Jul 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -43,10 +43,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
-- [Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
+_2 corroborating headline(s):_
 - [Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5)
-- [Russian Grain Export Terminals Under Threat: Rising Risks in Black Sea Shipping - Devdiscourse](https://news.google.com/rss/articles/CBMizAFBVV95cUxPNElvLXU2Zld0TzRmWW81a2xwWE1Yb3lPR0loSUgzaHR0ZUd5WWZ3dDc2a00tYzVwM2ZzZVR2bzF2RkJNdHc1bWFLaXNzSk9MU3MtVkI5UlJCelFKTlhwYWdVM2lxZXFSR0o0TGt3RXhyRzRmWmQ5Wko2NE4zbkZkWkYyckJicl96UnVYZGh3djZPTWRGU01ha3VWZndhbDlpZXIweGJUajU2WVQ2WnFXZ2ROeGZicTh1TnBSWWU5c05ZQjZDcEphbmJoZlDSAdIBQVVfeXFMT2lJVWY3TXdZdDhtdGNrVnNUZ2FUMENXTWVpWGZJcmw4X2FLY0kweXNCclFsYjNwVzNBR1pGS2VwVWxQTWpJMHRPZkRNU3pqYU0zWTdQdEZEQm4wQ196cl8yQVVlVzJjLVlKWjMtb19TRWdqMVZlSjJMRDVqN2ZxOUluTFBBZmRKbzNSeHV4MXp5MEJMdUNQZEhJc1ZpRXpUX3VULVpKYjJ5bFFSbFRvS2hHdFE1MzRwcVpjQXU4VTZOZnlRZlYtaFo3Z3Mzc2tmaHh3?oc=5)
+- [Ukraine Grain Exports Halt as Shipowners Suspend Black Sea Port Calls - Agrolatam](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb002UGh0YjVJRWpSOGxXX2FxLWFJQUhMT2tpcHllb2xoSXlSWU9KdW9tdWIwSmloZE9UczRuRExheEFsdmRGLU9vM0hRX1dEXzR3T01QR3VmMmVXZGxsakxkdjBEbFgxRjhrcVRObGt6MEhZVVFMbDIzZ1YyNVBlOHZXR2lkaUJlbFMwWG5GY1dFaDZSQ0V2VA?oc=5)
 
 ---
 

@@ -66,9 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran conflict prompts shift to local energy sources amid Strait of Hormuz disruptions - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWlBQMkVKZU5PQ1JLNXlhVnVPbFctT0VQXzZielBXSGxqMUQ5QkZpUnUtb3RScUlWZnRHRmlKSmoxZWpzSDk5c01MUEdxUEgxeVRIYVhYa1V1Q0RxZWFpRXg5RW4xU09jS0w2N3l6Mm43blhvb0k1WkhDcWt4WXlnRlRaZGV5SWxVeFVVUGZtTWk5VzlwMW5wX1dyZno3S0FXN1djU3dBTjFBcjhnV3lIMlZQWlNvdkh4WHZWREpmOWc4QndtclAwVmxsTXB1Umg4WHBmcUVQel9oV1JMTm9RYUFSbE0?oc=5",
-  "published": "Mon, 27 Jul 2026 04:03:00 GMT",
+  "headline": "Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUhYdDhnVU1uVjNMVHh2OFdNdzM4M05FbVlCdU84TkI2ZEFpWGlOMkdSaXB6M1RTUnFaZkVlRlhlUy1EdDhoNmRCRTF2a2M2bHNOV3ZTRi04bjNfdUZwd1UwTy1mM1VrTWQ1OXJsZHpGa002QUhrdk9DcFhvOFRGVzhFVmZXd1N1dWFNZHhMbDdxcF8yb3fSAZsBQVVfeXFMTVlTekM4aU4xQnZpUDcxNlZvQldZM2RUaGdXSTJ0U2JQQnZMcWlCOWdUYUZtUE1DZ0twY05RWW1zZFVLb2gxMTJMQ3hzdW1BVlY1Z1hzUTNnekk5UG5tenVMXzZzbEhZSVB5RFF2N0szTG1TRVRHQVEtSDduYktkSno1MjQ4T1Q0ZXVjYlZlUzVTRU8zY0IxeTEzTWc?oc=5",
+  "published": "Thu, 16 Jul 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUhYdDhnVU1uVjNMVHh2OFdNdzM4M05FbVlCdU84TkI2ZEFpWGlOMkdSaXB6M1RTUnFaZkVlRlhlUy1EdDhoNmRCRTF2a2M2bHNOV3ZTRi04bjNfdUZwd1UwTy1mM1VrTWQ1OXJsZHpGa002QUhrdk9DcFhvOFRGVzhFVmZXd1N1dWFNZHhMbDdxcF8yb3fSAZsBQVVfeXFMTVlTekM4aU4xQnZpUDcxNlZvQldZM2RUaGdXSTJ0U2JQQnZMcWlCOWdUYUZtUE1DZ0twY05RWW1zZFVLb2gxMTJMQ3hzdW1BVlY1Z1hzUTNnekk5UG5tenVMXzZzbEhZSVB5RFF2N0szTG1TRVRHQVEtSDduYktkSno1MjQ4T1Q0ZXVjYlZlUzVTRU8zY0IxeTEzTWc?oc=5",
-  "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+  "headline": "Iran conflict prompts shift to local energy sources amid Strait of Hormuz disruptions - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWlBQMkVKZU5PQ1JLNXlhVnVPbFctT0VQXzZielBXSGxqMUQ5QkZpUnUtb3RScUlWZnRHRmlKSmoxZWpzSDk5c01MUEdxUEgxeVRIYVhYa1V1Q0RxZWFpRXg5RW4xU09jS0w2N3l6Mm43blhvb0k1WkhDcWt4WXlnRlRaZGV5SWxVeFVVUGZtTWk5VzlwMW5wX1dyZno3S0FXN1djU3dBTjFBcjhnV3lIMlZQWlNvdkh4WHZWREpmOWc4QndtclAwVmxsTXB1Umg4WHBmcUVQel9oV1JMTm9RYUFSbE0?oc=5",
+  "published": "Mon, 27 Jul 2026 04:03:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -96,17 +96,6 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Ukraine Grain Exports Halt as Shipowners Suspend Black Sea Port Calls - Agrolatam",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb002UGh0YjVJRWpSOGxXX2FxLWFJQUhMT2tpcHllb2xoSXlSWU9KdW9tdWIwSmloZE9UczRuRExheEFsdmRGLU9vM0hRX1dEXzR3T01QR3VmMmVXZGxsakxkdjBEbFgxRjhrcVRObGt6MEhZVVFMbDIzZ1YyNVBlOHZXR2lkaUJlbFMwWG5GY1dFaDZSQ0V2VA?oc=5",
-  "published": "Thu, 23 Jul 2026 12:30:30 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  },
  {
@@ -132,9 +121,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian Grain Export Terminals Under Threat: Rising Risks in Black Sea Shipping - Devdiscourse",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNElvLXU2Zld0TzRmWW81a2xwWE1Yb3lPR0loSUgzaHR0ZUd5WWZ3dDc2a00tYzVwM2ZzZVR2bzF2RkJNdHc1bWFLaXNzSk9MU3MtVkI5UlJCelFKTlhwYWdVM2lxZXFSR0o0TGt3RXhyRzRmWmQ5Wko2NE4zbkZkWkYyckJicl96UnVYZGh3djZPTWRGU01ha3VWZndhbDlpZXIweGJUajU2WVQ2WnFXZ2ROeGZicTh1TnBSWWU5c05ZQjZDcEphbmJoZlDSAdIBQVVfeXFMT2lJVWY3TXdZdDhtdGNrVnNUZ2FUMENXTWVpWGZJcmw4X2FLY0kweXNCclFsYjNwVzNBR1pGS2VwVWxQTWpJMHRPZkRNU3pqYU0zWTdQdEZEQm4wQ196cl8yQVVlVzJjLVlKWjMtb19TRWdqMVZlSjJMRDVqN2ZxOUluTFBBZmRKbzNSeHV4MXp5MEJMdUNQZEhJc1ZpRXpUX3VULVpKYjJ5bFFSbFRvS2hHdFE1MzRwcVpjQXU4VTZOZnlRZlYtaFo3Z3Mzc2tmaHh3?oc=5",
-  "published": "Tue, 28 Jul 2026 16:25:21 GMT",
+  "headline": "Ukraine Grain Exports Halt as Shipowners Suspend Black Sea Port Calls - Agrolatam",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb002UGh0YjVJRWpSOGxXX2FxLWFJQUhMT2tpcHllb2xoSXlSWU9KdW9tdWIwSmloZE9UczRuRExheEFsdmRGLU9vM0hRX1dEXzR3T01QR3VmMmVXZGxsakxkdjBEbFgxRjhrcVRObGt6MEhZVVFMbDIzZ1YyNVBlOHZXR2lkaUJlbFMwWG5GY1dFaDZSQ0V2VA?oc=5",
+  "published": "Thu, 23 Jul 2026 12:30:30 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
