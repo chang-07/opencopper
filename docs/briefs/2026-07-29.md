@@ -21,27 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [Lebanon offers Iraq transit route for crude oil to bypass Strait of Hormuz - thenationalnews.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPelh4QW5LTzV6MUxGRzZUOVlyMDNPMEpaU2c3cUNCS0FnX2xvcXJ5UlpYR3ZtR3JjWVlsdVMwNzhPZjZxYmFxMmpyT21WYUg0aU1XeHlMclhGcTJ5clhVYU9PeEhGZ0xfb2FfX1duZy12bWhBeUUzV1lxbkgxWVItZ1FPcTlZdw?oc=5)
 - [Amid Hormuz Crisis, Iraq Weighs Its Future in OPEC - الحرة](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TOWthVUxkVm5sQVpLdFBpQ0hfeVVzcnBnOG16Y19HUndtV3gyVnNISG9LbXFOMzdjSTJJNm8wZ3BfUQ?oc=5)
-- [UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5)
-- …and 3 more
-
-## Russia and Ukraine strike vessels in Black Sea, wheat prices jump - Reuters
-*Fri, 17 Jul 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG10WDRNa3NnT0FNNFdmb0xMdU5GYzJSclVEM3Qzd3dZaVhRT2ZqTWVpVFVLVGtYa3hxOVg1UU8zeVRhLWlkYUdpbThmWVBfdmdJT3ktNl94bmQxSXVoQmpzQVpYTVZvd0Y1dVpaaDUyNXBoRnFKSGdRUGRzRFNHdEQ0MTFGaHFBZWJiMmZCYjJFSi1uV3daWkl4V1lWZjNvWm9HQjNtWkI5TGp1a2tDdk5zVGRzSU5BTFBjeQ?oc=5)
-Rule: wheat / Russia / severity prior +15%
-
-```
-CROSS-COMMODITY RIPPLE — Russia wheat -15% (prior)
-commodity    channel       via                          price Δ
-----------------------------------------------------------------
-wheat        direct        Russia                           +6%  [+3..+13%]
-
-One first-order round through data/seed/linkages.yaml (byproduct /
-substitution / input-cost); couplings are disputable seed-estimates.
-[..] = the same shock across the seeded elasticity RANGES — when the
-band is wide, the elasticities are doing the work, not the event.
-```
+- [Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdklMSnhYQmNTWnBFZ3JGTkRkckE1RTg1QVBpd3hWb291ZGsxSGNqSlF2VGtxWWtIdWtzY2VGUDZ1eFBxN0RZb0huWFZ3U2FoaWtBVTZ1MmQtWFZGOVFncW1nVW9uaGhfd1lZZXlVUmcyZVdFektMajJSTVhXYk50a0pEbFI1RFBPQ3Y00gGQAUFVX3lxTE1xSEFicjl2X29zZ1IxQ1NONUNycjlJbDlkRTd0UWM5cjA2eU9oczE3OEg5cEVzcEd5ZTlveEV5aVZ4MjB5c0hqVW9SaklKLTJrMEpSMHlPRWtHMDR6YUFPalg5el9ISTM3SmRpSW1XbW04eFBGS1JZXzBQVE1jVlVvRFd5OWdSVU0yMVZDeWFlSA?oc=5)
+- …and 2 more
 
 ---
 
