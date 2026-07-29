@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
+_7 corroborating headline(s):_
 - [UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5)
 - [Lebanon offers Iraq transit route for crude oil to bypass Strait of Hormuz - thenationalnews.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPelh4QW5LTzV6MUxGRzZUOVlyMDNPMEpaU2c3cUNCS0FnX2xvcXJ5UlpYR3ZtR3JjWVlsdVMwNzhPZjZxYmFxMmpyT21WYUg0aU1XeHlMclhGcTJ5clhVYU9PeEhGZ0xfb2FfX1duZy12bWhBeUUzV1lxbkgxWVItZ1FPcTlZdw?oc=5)
 - [Amid Hormuz Crisis, Iraq Weighs Its Future in OPEC - الحرة](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TOWthVUxkVm5sQVpLdFBpQ0hfeVVzcnBnOG16Y19HUndtV3gyVnNISG9LbXFOMzdjSTJJNm8wZ3BfUQ?oc=5)
-- …and 5 more
+- …and 4 more
 
 ## Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - Reuters
 *Wed, 15 Jul 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5)
