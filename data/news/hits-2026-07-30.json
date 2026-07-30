@@ -55,31 +55,31 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5",
+  "published": "Thu, 30 Jul 2026 13:04:51 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Ukrainian Drones Damage Russian Grain Export Terminal on Kerch Strait, Source Says - Successful Farming",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTFJZSUw4a2pWR3UxTzIyZmVOSUhxVnJhclZydVZ5WjBwSnRpOUpGWEVrVGZxaHE0b3VDYTVIR05Rc3FKeUxxeEUwYlZKR3ZORHU3ODgyLTFSUHRjeXNpRTNvcEdReS1NS0NaZklTaHNBRm9DdE5iUHV0bnRrSnRQMjkyNzlONU13UnRIVmJIWWZ1Mk1YTFF1SWxNazlwSE9zVzFoRU9BRXY2blc2UzdMbDRHTDlJUUVlNVpJYXhsZWhFTTRvQVE?oc=5",
+  "published": "Thu, 30 Jul 2026 14:54:17 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXJ3enctZUp5TFphMXQtbHRoMGkzUElzM3dqLVZQemdJc3JPVUVUWHlaUDNDcHJuTk5LcWc3QWMzaEhqc1JhVGhVRlcweWllYzZFUm16bEpkQzBYOU9TVmFhYmtSNjRQc2doZFQydkgyVE5pLUs2NUxTVGhBX0hjWFIwQkkzc0xOZGhITk0wa2c0NUQ2UW5MRGp4OHpYZ3ZHRFF3UUgwT1NHSll5UUE?oc=5",
   "published": "Thu, 30 Jul 2026 10:41:30 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Ukrainian drones damage Russian grain export terminal on Kerch Strait, source says - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTBVdDhQZ1lNandQTmN1ZmN0eE1FRERJMzNyZEtPWkN1a2JJWkVmcV92Y29WVkdyTDVNUUw5SGNWM0p0TllrMGtZcEVXejctcndiYm15YzJVUHg1X3NrNnNMRUFubzVYc1VaUllXZ3RzYVhrNnZUTXpHdEljY3hJZUlKeDRVdGFqQmNCMjBraHFkNFI4YzBQOW53ZmEtLUtRWmdGazFkY3lfZHVNTXVzMmRzVnlVQUNzTFFrT2ln?oc=5",
-  "published": "Thu, 30 Jul 2026 14:00:12 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Ukraine Slows Russian Grain Exports Through the Black Sea - ubn.news",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdE02TXFrNE9HNUlUbTRMYVNfS2NPOWx2bU9nTEJVaUtYMUw5bko4RFNZZnVnVFF2cVctenJibXYwX3YwSVVLckpBUjhlSFEwVTVyNEE0cmZJQzRGWjVQSi1aT00xQzdQX0EtQzB0Yi1uMHZ0dk5HUXQtSWFYamN3aNIBiAFBVV95cUxQdDJpVXQ3X0xWV0lIS1QtM19VcmpYc2RNSjh6RDUwNlJ5d0o0RHl1LTFHTzRtSTdGbUV5S2RlSDV1WS1tTXhjdFNyaWZpUDhKUDVGcEVORzJPaG4wY3FpenViRU93YVdvWlhJVUpSX0JJaEw4M3ZtdXBaR0wyQmVkNnFmQUg4dURG?oc=5",
-  "published": "Thu, 30 Jul 2026 00:04:54 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
