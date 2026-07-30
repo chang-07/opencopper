@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_4 corroborating headline(s):_
 - [Lebanon offers Iraq transit route for crude oil to bypass Strait of Hormuz - thenationalnews.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPelh4QW5LTzV6MUxGRzZUOVlyMDNPMEpaU2c3cUNCS0FnX2xvcXJ5UlpYR3ZtR3JjWVlsdVMwNzhPZjZxYmFxMmpyT21WYUg0aU1XeHlMclhGcTJ5clhVYU9PeEhGZ0xfb2FfX1duZy12bWhBeUUzV1lxbkgxWVItZ1FPcTlZdw?oc=5)
-- [UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - energynow.ca](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5)
+- [UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5)
 - [Amid Hormuz Crisis, Iraq Weighs Its Future in OPEC - الحرة](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TOWthVUxkVm5sQVpLdFBpQ0hfeVVzcnBnOG16Y19HUndtV3gyVnNISG9LbXFOMzdjSTJJNm8wZ3BfUQ?oc=5)
-- …and 2 more
+- …and 1 more
 
 ## Russia Says Ukraine Struck Key Black Sea Grain Export Port - Bloomberg.com
 *Thu, 30 Jul 2026 10:41:30 GMT* — [source](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXJ3enctZUp5TFphMXQtbHRoMGkzUElzM3dqLVZQemdJc3JPVUVUWHlaUDNDcHJuTk5LcWc3QWMzaEhqc1JhVGhVRlcweWllYzZFUm16bEpkQzBYOU9TVmFhYmtSNjRQc2doZFQydkgyVE5pLUs2NUxTVGhBX0hjWFIwQkkzc0xOZGhITk0wa2c0NUQ2UW5MRGp4OHpYZ3ZHRFF3UUgwT1NHSll5UUE?oc=5)
@@ -44,8 +44,8 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _2 corroborating headline(s):_
-- [Ukraine Slows Russian Grain Exports Through the Black Sea - ubn.news](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdE02TXFrNE9HNUlUbTRMYVNfS2NPOWx2bU9nTEJVaUtYMUw5bko4RFNZZnVnVFF2cVctenJibXYwX3YwSVVLckpBUjhlSFEwVTVyNEE0cmZJQzRGWjVQSi1aT00xQzdQX0EtQzB0Yi1uMHZ0dk5HUXQtSWFYamN3aNIBiAFBVV95cUxQdDJpVXQ3X0xWV0lIS1QtM19VcmpYc2RNSjh6RDUwNlJ5d0o0RHl1LTFHTzRtSTdGbUV5S2RlSDV1WS1tTXhjdFNyaWZpUDhKUDVGcEVORzJPaG4wY3FpenViRU93YVdvWlhJVUpSX0JJaEw4M3ZtdXBaR0wyQmVkNnFmQUg4dURG?oc=5)
 - [Ukrainian drones damage Russian grain export terminal on Kerch Strait, source says - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTBVdDhQZ1lNandQTmN1ZmN0eE1FRERJMzNyZEtPWkN1a2JJWkVmcV92Y29WVkdyTDVNUUw5SGNWM0p0TllrMGtZcEVXejctcndiYm15YzJVUHg1X3NrNnNMRUFubzVYc1VaUllXZ3RzYVhrNnZUTXpHdEljY3hJZUlKeDRVdGFqQmNCMjBraHFkNFI4YzBQOW53ZmEtLUtRWmdGazFkY3lfZHVNTXVzMmRzVnlVQUNzTFFrT2ln?oc=5)
+- [Ukraine Slows Russian Grain Exports Through the Black Sea - ubn.news](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdE02TXFrNE9HNUlUbTRMYVNfS2NPOWx2bU9nTEJVaUtYMUw5bko4RFNZZnVnVFF2cVctenJibXYwX3YwSVVLckpBUjhlSFEwVTVyNEE0cmZJQzRGWjVQSi1aT00xQzdQX0EtQzB0Yi1uMHZ0dk5HUXQtSWFYamN3aNIBiAFBVV95cUxQdDJpVXQ3X0xWV0lIS1QtM19VcmpYc2RNSjh6RDUwNlJ5d0o0RHl1LTFHTzRtSTdGbUV5S2RlSDV1WS1tTXhjdFNyaWZpUDhKUDVGcEVORzJPaG4wY3FpenViRU93YVdvWlhJVUpSX0JJaEw4M3ZtdXBaR0wyQmVkNnFmQUg4dURG?oc=5)
 
 ---
 

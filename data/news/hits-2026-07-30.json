@@ -22,7 +22,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - energynow.ca",
+  "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5",
   "published": "Tue, 28 Jul 2026 12:26:38 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -55,17 +55,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran conflict prompts shift to local energy sources amid Strait of Hormuz disruptions - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWlBQMkVKZU5PQ1JLNXlhVnVPbFctT0VQXzZielBXSGxqMUQ5QkZpUnUtb3RScUlWZnRHRmlKSmoxZWpzSDk5c01MUEdxUEgxeVRIYVhYa1V1Q0RxZWFpRXg5RW4xU09jS0w2N3l6Mm43blhvb0k1WkhDcWt4WXlnRlRaZGV5SWxVeFVVUGZtTWk5VzlwMW5wX1dyZno3S0FXN1djU3dBTjFBcjhnV3lIMlZQWlNvdkh4WHZWREpmOWc4QndtclAwVmxsTXB1Umg4WHBmcUVQel9oV1JMTm9RYUFSbE0?oc=5",
-  "published": "Mon, 27 Jul 2026 04:03:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXJ3enctZUp5TFphMXQtbHRoMGkzUElzM3dqLVZQemdJc3JPVUVUWHlaUDNDcHJuTk5LcWc3QWMzaEhqc1JhVGhVRlcweWllYzZFUm16bEpkQzBYOU9TVmFhYmtSNjRQc2doZFQydkgyVE5pLUs2NUxTVGhBX0hjWFIwQkkzc0xOZGhITk0wa2c0NUQ2UW5MRGp4OHpYZ3ZHRFF3UUgwT1NHSll5UUE?oc=5",
   "published": "Thu, 30 Jul 2026 10:41:30 GMT",
@@ -77,9 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine Slows Russian Grain Exports Through the Black Sea - ubn.news",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdE02TXFrNE9HNUlUbTRMYVNfS2NPOWx2bU9nTEJVaUtYMUw5bko4RFNZZnVnVFF2cVctenJibXYwX3YwSVVLckpBUjhlSFEwVTVyNEE0cmZJQzRGWjVQSi1aT00xQzdQX0EtQzB0Yi1uMHZ0dk5HUXQtSWFYamN3aNIBiAFBVV95cUxQdDJpVXQ3X0xWV0lIS1QtM19VcmpYc2RNSjh6RDUwNlJ5d0o0RHl1LTFHTzRtSTdGbUV5S2RlSDV1WS1tTXhjdFNyaWZpUDhKUDVGcEVORzJPaG4wY3FpenViRU93YVdvWlhJVUpSX0JJaEw4M3ZtdXBaR0wyQmVkNnFmQUg4dURG?oc=5",
-  "published": "Thu, 30 Jul 2026 00:04:54 GMT",
+  "headline": "Ukrainian drones damage Russian grain export terminal on Kerch Strait, source says - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTBVdDhQZ1lNandQTmN1ZmN0eE1FRERJMzNyZEtPWkN1a2JJWkVmcV92Y29WVkdyTDVNUUw5SGNWM0p0TllrMGtZcEVXejctcndiYm15YzJVUHg1X3NrNnNMRUFubzVYc1VaUllXZ3RzYVhrNnZUTXpHdEljY3hJZUlKeDRVdGFqQmNCMjBraHFkNFI4YzBQOW53ZmEtLUtRWmdGazFkY3lfZHVNTXVzMmRzVnlVQUNzTFFrT2ln?oc=5",
+  "published": "Thu, 30 Jul 2026 14:00:12 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -88,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukrainian drones damage Russian grain export terminal on Kerch Strait, source says - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTBVdDhQZ1lNandQTmN1ZmN0eE1FRERJMzNyZEtPWkN1a2JJWkVmcV92Y29WVkdyTDVNUUw5SGNWM0p0TllrMGtZcEVXejctcndiYm15YzJVUHg1X3NrNnNMRUFubzVYc1VaUllXZ3RzYVhrNnZUTXpHdEljY3hJZUlKeDRVdGFqQmNCMjBraHFkNFI4YzBQOW53ZmEtLUtRWmdGazFkY3lfZHVNTXVzMmRzVnlVQUNzTFFrT2ln?oc=5",
-  "published": "Thu, 30 Jul 2026 14:00:12 GMT",
+  "headline": "Ukraine Slows Russian Grain Exports Through the Black Sea - ubn.news",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdE02TXFrNE9HNUlUbTRMYVNfS2NPOWx2bU9nTEJVaUtYMUw5bko4RFNZZnVnVFF2cVctenJibXYwX3YwSVVLckpBUjhlSFEwVTVyNEE0cmZJQzRGWjVQSi1aT00xQzdQX0EtQzB0Yi1uMHZ0dk5HUXQtSWFYamN3aNIBiAFBVV95cUxQdDJpVXQ3X0xWV0lIS1QtM19VcmpYc2RNSjh6RDUwNlJ5d0o0RHl1LTFHTzRtSTdGbUV5S2RlSDV1WS1tTXhjdFNyaWZpUDhKUDVGcEVORzJPaG4wY3FpenViRU93YVdvWlhJVUpSX0JJaEw4M3ZtdXBaR0wyQmVkNnFmQUg4dURG?oc=5",
+  "published": "Thu, 30 Jul 2026 00:04:54 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
