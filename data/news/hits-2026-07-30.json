@@ -22,6 +22,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdklMSnhYQmNTWnBFZ3JGTkRkckE1RTg1QVBpd3hWb291ZGsxSGNqSlF2VGtxWWtIdWtzY2VGUDZ1eFBxN0RZb0huWFZ3U2FoaWtBVTZ1MmQtWFZGOVFncW1nVW9uaGhfd1lZZXlVUmcyZVdFektMajJSTVhXYk50a0pEbFI1RFBPQ3Y00gGQAUFVX3lxTE1xSEFicjl2X29zZ1IxQ1NONUNycjlJbDlkRTd0UWM5cjA2eU9oczE3OEg5cEVzcEd5ZTlveEV5aVZ4MjB5c0hqVW9SaklKLTJrMEpSMHlPRWtHMDR6YUFPalg5el9ISTM3SmRpSW1XbW04eFBGS1JZXzBQVE1jVlVvRFd5OWdSVU0yMVZDeWFlSA?oc=5",
+  "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Amid Hormuz Crisis, Iraq Weighs Its Future in OPEC - \u0627\u0644\u062d\u0631\u0629",
   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TOWthVUxkVm5sQVpLdFBpQ0hfeVVzcnBnOG16Y19HUndtV3gyVnNISG9LbXFOMzdjSTJJNm8wZ3BfUQ?oc=5",
   "published": "Fri, 24 Jul 2026 16:21:36 GMT",
@@ -36,39 +47,6 @@
   "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5",
   "published": "Tue, 28 Jul 2026 12:26:38 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUhYdDhnVU1uVjNMVHh2OFdNdzM4M05FbVlCdU84TkI2ZEFpWGlOMkdSaXB6M1RTUnFaZkVlRlhlUy1EdDhoNmRCRTF2a2M2bHNOV3ZTRi04bjNfdUZwd1UwTy1mM1VrTWQ1OXJsZHpGa002QUhrdk9DcFhvOFRGVzhFVmZXd1N1dWFNZHhMbDdxcF8yb3fSAZsBQVVfeXFMTVlTekM4aU4xQnZpUDcxNlZvQldZM2RUaGdXSTJ0U2JQQnZMcWlCOWdUYUZtUE1DZ0twY05RWW1zZFVLb2gxMTJMQ3hzdW1BVlY1Z1hzUTNnekk5UG5tenVMXzZzbEhZSVB5RFF2N0szTG1TRVRHQVEtSDduYktkSno1MjQ4T1Q0ZXVjYlZlUzVTRU8zY0IxeTEzTWc?oc=5",
-  "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdklMSnhYQmNTWnBFZ3JGTkRkckE1RTg1QVBpd3hWb291ZGsxSGNqSlF2VGtxWWtIdWtzY2VGUDZ1eFBxN0RZb0huWFZ3U2FoaWtBVTZ1MmQtWFZGOVFncW1nVW9uaGhfd1lZZXlVUmcyZVdFektMajJSTVhXYk50a0pEbFI1RFBPQ3Y00gGQAUFVX3lxTE1xSEFicjl2X29zZ1IxQ1NONUNycjlJbDlkRTd0UWM5cjA2eU9oczE3OEg5cEVzcEd5ZTlveEV5aVZ4MjB5c0hqVW9SaklKLTJrMEpSMHlPRWtHMDR6YUFPalg5el9ISTM3SmRpSW1XbW04eFBGS1JZXzBQVE1jVlVvRFd5OWdSVU0yMVZDeWFlSA?oc=5",
-  "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Iran conflict prompts shift to local energy sources amid Strait of Hormuz disruptions - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWlBQMkVKZU5PQ1JLNXlhVnVPbFctT0VQXzZielBXSGxqMUQ5QkZpUnUtb3RScUlWZnRHRmlKSmoxZWpzSDk5c01MUEdxUEgxeVRIYVhYa1V1Q0RxZWFpRXg5RW4xU09jS0w2N3l6Mm43blhvb0k1WkhDcWt4WXlnRlRaZGV5SWxVeFVVUGZtTWk5VzlwMW5wX1dyZno3S0FXN1djU3dBTjFBcjhnV3lIMlZQWlNvdkh4WHZWREpmOWc4QndtclAwVmxsTXB1Umg4WHBmcUVQel9oV1JMTm9RYUFSbE0?oc=5",
-  "published": "Mon, 27 Jul 2026 04:03:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
