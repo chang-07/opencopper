@@ -33,17 +33,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq Oil Exports Drop to 530,000 bpd in May-June 2026 Amid Hormuz Closure - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmtadDVzZENBM2hic2E0b2RrSlphdmZfYU1hZExuZ3JoNFZSWUkyWFZVWDdYTjRoNS00WWxGdDU2YmE3TnVUUTEzSVpiQ1BTNFNhQ2dmZGItUzE2aVMySzNJOElyU2dZbjlycnZZcmsyUVNRZXpJcVFiTk1SdzdvYXF6VmJtWWFuVzl2X291b04zX3pCbnhlRVhvRHp5cGlRSXRWRQ?oc=5",
-  "published": "Thu, 30 Jul 2026 10:51:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Lebanon offers Iraq transit route for crude oil to bypass Strait of Hormuz - thenationalnews.com",
   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelh4QW5LTzV6MUxGRzZUOVlyMDNPMEpaU2c3cUNCS0FnX2xvcXJ5UlpYR3ZtR3JjWVlsdVMwNzhPZjZxYmFxMmpyT21WYUg0aU1XeHlMclhGcTJ5clhVYU9PeEhGZ0xfb2FfX1duZy12bWhBeUUzV1lxbkgxWVItZ1FPcTlZdw?oc=5",
   "published": "Mon, 27 Jul 2026 16:55:01 GMT",
@@ -55,7 +44,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - cnbc.com",
+  "headline": "Iraq Oil Exports Drop to 530,000 bpd in May-June 2026 Amid Hormuz Closure - News and Statistics - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmtadDVzZENBM2hic2E0b2RrSlphdmZfYU1hZExuZ3JoNFZSWUkyWFZVWDdYTjRoNS00WWxGdDU2YmE3TnVUUTEzSVpiQ1BTNFNhQ2dmZGItUzE2aVMySzNJOElyU2dZbjlycnZZcmsyUVNRZXpJcVFiTk1SdzdvYXF6VmJtWWFuVzl2X291b04zX3pCbnhlRVhvRHp5cGlRSXRWRQ?oc=5",
+  "published": "Thu, 30 Jul 2026 10:51:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
   "published": "Fri, 24 Jul 2026 18:47:41 GMT",
   "rule_note": "transit proxy on Gulf supply",
