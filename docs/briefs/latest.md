@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Iran's oil supply threat extends beyond Strait of Hormuz - DW.com
-*Thu, 30 Jul 2026 04:34:58 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVNXMWtrWGR1b2VPTmo0cGVINGVBb0JqOG5pUDREQVEwcURRak5aWlFJOVMwM1RHZGVQMFFOYzREWGFXVzdXTTZma1A0VU45WFF5b3IzRnU4WW8wTVZjSlZVZjJrdGh5MXJteHRmYzlwNkl2OEFXQ0hEbEoxcW5KbG9vZGd3QTBPREhqWDUtX0tpN3lOaUFOQWVDYXV3cEhfdkItdDBPZm1Rel9nLVlnOExR0gGyAUFVX3lxTE0wTVJSeXBXUFpKTHgtbTdYSVNjMzhvaVZnVEVaSVp3QWlFQjE2WlFzei0xSmNEUUlwYlJkME9JMTAtTlBLNTBTU2F2eDdhNmRYSEI5clp3am45YlVHa3NfYnpzUTRVQnhzY0dRbkdEY0NPN3ZmclVoNDV2UlhBUmV5elBxQTJUODlTdkNsSUZSdlFZanVLdjM0eEJUR2hBeVFkVnJKdWpzNUNWN1dOUTd4Z3c?oc=5)
+## Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - Barchart.com
+*Thu, 30 Jul 2026 19:14:09 GMT* — [source](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWZlRVBYem5mV2VqbGhtOGRTWE1FbHZwb3V1UXpDYXhaTzhWQUtsMW1IV194ZzdsWkRGbmlWSDVuOWRxTTc3cmhVMy1JV2VYYWJseVF0ODIxbUV1TXpDOGlMRWc1MHFaOWNjclk4TjNReS16amZPc2tqblYxR01DNkd0dXF1VGNzUVlvdi1LWlhFQ2NxQ205bUxlek1QWmZyQkpVVjRuY19vY1N1VzhZag?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
-- [Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWZlRVBYem5mV2VqbGhtOGRTWE1FbHZwb3V1UXpDYXhaTzhWQUtsMW1IV194ZzdsWkRGbmlWSDVuOWRxTTc3cmhVMy1JV2VYYWJseVF0ODIxbUV1TXpDOGlMRWc1MHFaOWNjclk4TjNReS16amZPc2tqblYxR01DNkd0dXF1VGNzUVlvdi1LWlhFQ2NxQ205bUxlek1QWmZyQkpVVjRuY19vY1N1VzhZag?oc=5)
+_5 corroborating headline(s):_
 - [Iran Says Two Oil Tankers Ditched Attempt to Transit Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWllnbW9CdkhSbE53aHp2ejdBaVN6TC13djRxUXlfWXRoX1BpaXpYUkFCYS1SMWVWMDBxbDBYS0Y0WUJZdmVWd1cyd3lpZXJCdk1mdjhVV1FpZC1wd1liaVVCSWp0OW43WldRVlFXVlFTZlZWNUI5ZzA5LXJTWG5EM0NUVFp5eGZtb1VZTEJzR3h6WkR5Y2Q2WEtsaURyY1doLUZBc0Z4a1hLX255aXhMVVBBam9Sd9IBuwFBVV95cUxOSGR6NGhhUnJGMlRmNFY2b2poalpla1NNemJUeUd5QnZOQkNIOUtVSUN6NklDLVFzcTBDQ1FWb0RrQVVHb0FNVmhTdDJESE1LNU1sNE5KTGdLZ2p2WkxJdVFSaFRyektSRVJ0djI3ZzNCel9jVkFvLVJUdzA3SXROV0NPcHBEYjRFWExSenhtbk9UTkJ6MHdzcnhqNHRYd0M3SDdjcFRfY2sxc1dHT3ZpbHlndDBvczZSMlNN?oc=5)
-- [Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0FsYURSUGpfTVl4UDNHWWVad0ZmZGhZeEE5QTlzbnpLSjBtQktYdDF6UVZDcjFUbG9jdWJpUU5aMmEwbzhGLWVNeUZsb29KdkZzMVI3b05fV3p0U2hsZEVETi1vd0N4Z0puaWFkd2Vka2JMNUR6LUpZUGdCOGRndy1jZERKTFE1ZWhDTGVZWEUwQjd1QmJHNG9jUmdUM3FTUlFGMEQ2RnJ2U0JfVU1GZEZJQXhhTDJsQlHSAb8BQVVfeXFMTnVRVi1lLUNnSXQ1R2Z1TFB0Z0VRNGRTVExQVkFKeFFXdjlXeXpwemozZEJ3dUV3bXZxRXFZVGZTYzI3eVdQRVRwNjBjT2lfc09OQi1Hdlo1Q1BXZG9MVl9QZkNVRjc5cFUtQmpoSVhYcG9sMGhGN0VtY1RHQ3Z0Q3hWX1hvU1NjZG1iY212NnhHcDNsT2FveDYxd0pXaF9LcWl5ZlN2V3cwYW1OS3ZMbVF3NkdUcUhzNlU2aW1rN3M?oc=5)
-- …and 1 more
+- [Lebanon offers Iraq transit route for crude oil to bypass Strait of Hormuz - thenationalnews.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPelh4QW5LTzV6MUxGRzZUOVlyMDNPMEpaU2c3cUNCS0FnX2xvcXJ5UlpYR3ZtR3JjWVlsdVMwNzhPZjZxYmFxMmpyT21WYUg0aU1XeHlMclhGcTJ5clhVYU9PeEhGZ0xfb2FfX1duZy12bWhBeUUzV1lxbkgxWVItZ1FPcTlZdw?oc=5)
+- [Iraq Oil Exports Drop to 530,000 bpd in May-June 2026 Amid Hormuz Closure - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmtadDVzZENBM2hic2E0b2RrSlphdmZfYU1hZExuZ3JoNFZSWUkyWFZVWDdYTjRoNS00WWxGdDU2YmE3TnVUUTEzSVpiQ1BTNFNhQ2dmZGItUzE2aVMySzNJOElyU2dZbjlycnZZcmsyUVNRZXpJcVFiTk1SdzdvYXF6VmJtWWFuVzl2X291b04zX3pCbnhlRVhvRHp5cGlRSXRWRQ?oc=5)
+- …and 2 more
 
 ## EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters
 *Fri, 31 Jul 2026 18:34:09 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
