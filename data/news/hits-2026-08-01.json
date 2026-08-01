@@ -66,20 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain",
+  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - supplychainbrain.com",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5",
   "published": "Thu, 30 Jul 2026 13:04:51 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russian grain lobby: Kyiv's actions threaten Black Sea exports and global food security - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajdEbVBmY3kxYlB0ZHVrR0FUUmotWUtDZEhkZ1JuSzYySWxuMUY1cWUyeHhoUE5qM0wzVHZ6U1p3eG5BUVItYzR4UHJvb1RjVm1VR0stLVA0Zkt5d29aNlhwb0NxMW8xQUw2UDlnTWJ2SUVLUHdaZFNoeFJ6MEhjMVUtVm5CaTh1anFCdlVzM2VYUUR4czJZYVVkVHZ2ZEVvX3hkcTBGNjI?oc=5",
-  "published": "Sat, 01 Aug 2026 04:38:27 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -110,6 +99,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Russian grain lobby: Kyiv's attacks threaten Black Sea exports, global food security - marinelink.com",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmxPV1dJeG1VeHFGT2pocFNDU0Q4c0NHVWotU2xCM3UwZU1Ma1ZlZEY4T3I0eDlGWlhnV1VDNVdOeGNqVHJiVDhXZjREOTA4TnloRFA1ME9RYnoybXN3bFl4ZmRiOEE0SEIxNW5lVFQ4ZXlBZFhieEF0d3RFSXpSVnc3V3FndFBWX2FtSV9pLXVibGNTS1NQMXBQRDhkY3lMUG9KMjNmVXA?oc=5",
+  "published": "Fri, 31 Jul 2026 17:13:14 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Grain exports from Russia\u2019s Black Sea ports could nearly come to a halt due to drone attacks - UkrAgroConsult",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQblRfT05DQWZjcFItQ05QT3lRdkdtZ2R1dnM0V1RrdFB3RjJxMmxYSk5lUWd6a1U4TDFwZ0pqWV84SUhVNVkwMVhaQm5YaDJpSWFVSkhpOHNta21SamJSc21nOExzbEpuYnJVZ1M3VzAwNUo1US1yM2ppbzB5bFZzcDc2ZlhnYTBCaUdYX1EtQXRtU29ia09wbUJUY3hjS1gxNnh5T1FLX1dMS1Z6ODlkeEVuRFF5WVBkczVHbHd0cDB4RlZreUE?oc=5",
   "published": "Sat, 01 Aug 2026 14:23:26 GMT",
@@ -121,9 +121,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian grain lobby: Kyiv's attacks threaten Black Sea exports, global food security - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmxPV1dJeG1VeHFGT2pocFNDU0Q4c0NHVWotU2xCM3UwZU1Ma1ZlZEY4T3I0eDlGWlhnV1VDNVdOeGNqVHJiVDhXZjREOTA4TnloRFA1ME9RYnoybXN3bFl4ZmRiOEE0SEIxNW5lVFQ4ZXlBZFhieEF0d3RFSXpSVnc3V3FndFBWX2FtSV9pLXVibGNTS1NQMXBQRDhkY3lMUG9KMjNmVXA?oc=5",
-  "published": "Fri, 31 Jul 2026 17:13:14 GMT",
+  "headline": "Ukrainian drones damage Russian grain export terminal on Kerch Strait, source says - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTBVdDhQZ1lNandQTmN1ZmN0eE1FRERJMzNyZEtPWkN1a2JJWkVmcV92Y29WVkdyTDVNUUw5SGNWM0p0TllrMGtZcEVXejctcndiYm15YzJVUHg1X3NrNnNMRUFubzVYc1VaUllXZ3RzYVhrNnZUTXpHdEljY3hJZUlKeDRVdGFqQmNCMjBraHFkNFI4YzBQOW53ZmEtLUtRWmdGazFkY3lfZHVNTXVzMmRzVnlVQUNzTFFrT2ln?oc=5",
+  "published": "Thu, 30 Jul 2026 18:53:08 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
