@@ -44,6 +44,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Russian Grain Lobby Warns Black Sea Attacks Could Disrupt Exports And Raise Global Food Prices - Marine Insight",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGtzOU5xby1rdVk5MnZucHcxZExGX3B6ZVo3RnNRZFV3YlpPVFR6elh0SUx6SHZxOS1VRTBBT0lRZG8zeFlPUldaRGNsSVprX2xCclY3MWFLQWZURG16TGZLeVVFMmN4SktCYU45OWt2VVotZ2JjRVljNDdKR2V3bkplRkVJU2xpeEZweDRIa2JicV91a2hhMDEteVVTN1NGd3BWVFJuNzlhck4tSEFpc1Naa0FXMENyTm9yOXNLQXpGYjQ?oc=5",
+  "published": "Sat, 01 Aug 2026 11:07:51 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5",
   "published": "Thu, 30 Jul 2026 13:04:51 GMT",
@@ -88,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukrainian Drones Damage Russian Grain Export Terminal on Kerch Strait, Source Says - Successful Farming",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTFJZSUw4a2pWR3UxTzIyZmVOSUhxVnJhclZydVZ5WjBwSnRpOUpGWEVrVGZxaHE0b3VDYTVIR05Rc3FKeUxxeEUwYlZKR3ZORHU3ODgyLTFSUHRjeXNpRTNvcEdReS1NS0NaZklTaHNBRm9DdE5iUHV0bnRrSnRQMjkyNzlONU13UnRIVmJIWWZ1Mk1YTFF1SWxNazlwSE9zVzFoRU9BRXY2blc2UzdMbDRHTDlJUUVlNVpJYXhsZWhFTTRvQVE?oc=5",
-  "published": "Thu, 30 Jul 2026 14:54:17 GMT",
+  "headline": "Russian wheat export prices hold steady amid Black Sea tensions - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUJtNHJkSlNmbG1QQU1uak84U2d5VUM0TWpDQmJLbHNlc290dGN6UlJHd2NnVUlMMjZLVHEySGNNU3hFSmEzcDZnT1d1TGRhU3ViMFNrRWtWbnN3Z1p0ck1uVkU4NmZDalotbGc5ZGtBejhlYUwwOGl4TENZMmEwdDBJNVVkZnBYSF9aRUJWNFdJLUM2aEJGTGJRMV9zVGR4UDZfSlRPcWI0WDF2R1o1dW4wN0NyV01jekhuaHV2akYzUQ?oc=5",
+  "published": "Mon, 27 Jul 2026 22:37:18 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
