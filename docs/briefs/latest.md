@@ -21,11 +21,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [Iran Says Two Oil Tankers Ditched Attempt to Transit Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWllnbW9CdkhSbE53aHp2ejdBaVN6TC13djRxUXlfWXRoX1BpaXpYUkFCYS1SMWVWMDBxbDBYS0Y0WUJZdmVWd1cyd3lpZXJCdk1mdjhVV1FpZC1wd1liaVVCSWp0OW43WldRVlFXVlFTZlZWNUI5ZzA5LXJTWG5EM0NUVFp5eGZtb1VZTEJzR3h6WkR5Y2Q2WEtsaURyY1doLUZBc0Z4a1hLX255aXhMVVBBam9Sd9IBuwFBVV95cUxOSGR6NGhhUnJGMlRmNFY2b2poalpla1NNemJUeUd5QnZOQkNIOUtVSUN6NklDLVFzcTBDQ1FWb0RrQVVHb0FNVmhTdDJESE1LNU1sNE5KTGdLZ2p2WkxJdVFSaFRyektSRVJ0djI3ZzNCel9jVkFvLVJUdzA3SXROV0NPcHBEYjRFWExSenhtbk9UTkJ6MHdzcnhqNHRYd0M3SDdjcFRfY2sxc1dHT3ZpbHlndDBvczZSMlNN?oc=5)
-- [Lebanon offers Iraq transit route for crude oil to bypass Strait of Hormuz - thenationalnews.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPelh4QW5LTzV6MUxGRzZUOVlyMDNPMEpaU2c3cUNCS0FnX2xvcXJ5UlpYR3ZtR3JjWVlsdVMwNzhPZjZxYmFxMmpyT21WYUg0aU1XeHlMclhGcTJ5clhVYU9PeEhGZ0xfb2FfX1duZy12bWhBeUUzV1lxbkgxWVItZ1FPcTlZdw?oc=5)
 - [Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0FsYURSUGpfTVl4UDNHWWVad0ZmZGhZeEE5QTlzbnpLSjBtQktYdDF6UVZDcjFUbG9jdWJpUU5aMmEwbzhGLWVNeUZsb29KdkZzMVI3b05fV3p0U2hsZEVETi1vd0N4Z0puaWFkd2Vka2JMNUR6LUpZUGdCOGRndy1jZERKTFE1ZWhDTGVZWEUwQjd1QmJHNG9jUmdUM3FTUlFGMEQ2RnJ2U0JfVU1GZEZJQXhhTDJsQlHSAb8BQVVfeXFMTnVRVi1lLUNnSXQ1R2Z1TFB0Z0VRNGRTVExQVkFKeFFXdjlXeXpwemozZEJ3dUV3bXZxRXFZVGZTYzI3eVdQRVRwNjBjT2lfc09OQi1Hdlo1Q1BXZG9MVl9QZkNVRjc5cFUtQmpoSVhYcG9sMGhGN0VtY1RHQ3Z0Q3hWX1hvU1NjZG1iY212NnhHcDNsT2FveDYxd0pXaF9LcWl5ZlN2V3cwYW1OS3ZMbVF3NkdUcUhzNlU2aW1rN3M?oc=5)
-- …and 2 more
 
 ## EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters
 *Fri, 31 Jul 2026 18:34:09 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
@@ -54,7 +52,5 @@ _7 corroborating headline(s):_
 ## Scorecard
 12 theses: 1 hit / 0 miss / 11 open / 0 need resolution · hit rate 100% · open auto avg move -6.6%
 
-- new thesis: **auto-2026-08-crude-oil-saudi-arabia** — news-implied supply event (Saudi Arabia crude-oil -20% prior): price prints ≥+5% vs entry within 6m
-- new thesis: **auto-2026-08-wheat-russia** — news-implied supply event (Russia wheat -15% prior): price prints ≥+5% vs entry within 6m
 
 Full ledger: `opencopper theses` / the demo's Scorecard tab.

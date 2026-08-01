@@ -22,42 +22,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Lebanon offers Iraq transit route for crude oil to bypass Strait of Hormuz - thenationalnews.com",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelh4QW5LTzV6MUxGRzZUOVlyMDNPMEpaU2c3cUNCS0FnX2xvcXJ5UlpYR3ZtR3JjWVlsdVMwNzhPZjZxYmFxMmpyT21WYUg0aU1XeHlMclhGcTJ5clhVYU9PeEhGZ0xfb2FfX1duZy12bWhBeUUzV1lxbkgxWVItZ1FPcTlZdw?oc=5",
-  "published": "Mon, 27 Jul 2026 16:55:01 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0FsYURSUGpfTVl4UDNHWWVad0ZmZGhZeEE5QTlzbnpLSjBtQktYdDF6UVZDcjFUbG9jdWJpUU5aMmEwbzhGLWVNeUZsb29KdkZzMVI3b05fV3p0U2hsZEVETi1vd0N4Z0puaWFkd2Vka2JMNUR6LUpZUGdCOGRndy1jZERKTFE1ZWhDTGVZWEUwQjd1QmJHNG9jUmdUM3FTUlFGMEQ2RnJ2U0JfVU1GZEZJQXhhTDJsQlHSAb8BQVVfeXFMTnVRVi1lLUNnSXQ1R2Z1TFB0Z0VRNGRTVExQVkFKeFFXdjlXeXpwemozZEJ3dUV3bXZxRXFZVGZTYzI3eVdQRVRwNjBjT2lfc09OQi1Hdlo1Q1BXZG9MVl9QZkNVRjc5cFUtQmpoSVhYcG9sMGhGN0VtY1RHQ3Z0Q3hWX1hvU1NjZG1iY212NnhHcDNsT2FveDYxd0pXaF9LcWl5ZlN2V3cwYW1OS3ZMbVF3NkdUcUhzNlU2aW1rN3M?oc=5",
   "published": "Thu, 30 Jul 2026 07:30:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Iraq Oil Exports Drop to 530,000 bpd in May-June 2026 Amid Hormuz Closure - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmtadDVzZENBM2hic2E0b2RrSlphdmZfYU1hZExuZ3JoNFZSWUkyWFZVWDdYTjRoNS00WWxGdDU2YmE3TnVUUTEzSVpiQ1BTNFNhQ2dmZGItUzE2aVMySzNJOElyU2dZbjlycnZZcmsyUVNRZXpJcVFiTk1SdzdvYXF6VmJtWWFuVzl2X291b04zX3pCbnhlRVhvRHp5cGlRSXRWRQ?oc=5",
-  "published": "Thu, 30 Jul 2026 10:51:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
-  "published": "Fri, 24 Jul 2026 18:47:41 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -132,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukrainian drones damage Russian grain export terminal on Kerch Strait, source says - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTBVdDhQZ1lNandQTmN1ZmN0eE1FRERJMzNyZEtPWkN1a2JJWkVmcV92Y29WVkdyTDVNUUw5SGNWM0p0TllrMGtZcEVXejctcndiYm15YzJVUHg1X3NrNnNMRUFubzVYc1VaUllXZ3RzYVhrNnZUTXpHdEljY3hJZUlKeDRVdGFqQmNCMjBraHFkNFI4YzBQOW53ZmEtLUtRWmdGazFkY3lfZHVNTXVzMmRzVnlVQUNzTFFrT2ln?oc=5",
-  "published": "Thu, 30 Jul 2026 18:53:08 GMT",
+  "headline": "Exclusive-Russian grain lobby says Kyiv\u2019s attacks threaten Black Sea exports, global food security - Internazionale",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNb084UVBkY3oxOUlHQ2RxUndGc2xvOWJTMUlRdXphM0tPOXp5NWQ0MERnZGZPMzNxNFIweUNxR1plakYzMkM3ZGVja0pjck1xN2pTT29VdkQ5VjNyMXJhZ0R3VU1hdGtpVDJxOU90UTFldjdyYzE2U2g5bTNhTjR4bDZiQXpUUWptUEk2ZWI0MkVHNDVZZG5DUTN1MXdhWllpWFVLTHhpeThFbEFKa3RxbGtGNVV1aG0wcUJEZ3dDX3p6MFZoeGpQWTVyR2NWQ1ZsdHk4clctQlltSDl3U0ZJYWhMRUVLMF9GajB1WnFpcEtvclk?oc=5",
+  "published": "Fri, 31 Jul 2026 18:33:22 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -143,9 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Exclusive-Russian grain lobby says Kyiv\u2019s attacks threaten Black Sea exports, global food security - Internazionale",
-  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNb084UVBkY3oxOUlHQ2RxUndGc2xvOWJTMUlRdXphM0tPOXp5NWQ0MERnZGZPMzNxNFIweUNxR1plakYzMkM3ZGVja0pjck1xN2pTT29VdkQ5VjNyMXJhZ0R3VU1hdGtpVDJxOU90UTFldjdyYzE2U2g5bTNhTjR4bDZiQXpUUWptUEk2ZWI0MkVHNDVZZG5DUTN1MXdhWllpWFVLTHhpeThFbEFKa3RxbGtGNVV1aG0wcUJEZ3dDX3p6MFZoeGpQWTVyR2NWQ1ZsdHk4clctQlltSDl3U0ZJYWhMRUVLMF9GajB1WnFpcEtvclk?oc=5",
-  "published": "Fri, 31 Jul 2026 18:33:22 GMT",
+  "headline": "Ukrainian Drones Damage Russian Grain Export Terminal on Kerch Strait, Source Says - Successful Farming",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTFJZSUw4a2pWR3UxTzIyZmVOSUhxVnJhclZydVZ5WjBwSnRpOUpGWEVrVGZxaHE0b3VDYTVIR05Rc3FKeUxxeEUwYlZKR3ZORHU3ODgyLTFSUHRjeXNpRTNvcEdReS1NS0NaZklTaHNBRm9DdE5iUHV0bnRrSnRQMjkyNzlONU13UnRIVmJIWWZ1Mk1YTFF1SWxNazlwSE9zVzFoRU9BRXY2blc2UzdMbDRHTDlJUUVlNVpJYXhsZWhFTTRvQVE?oc=5",
+  "published": "Thu, 30 Jul 2026 14:54:17 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
