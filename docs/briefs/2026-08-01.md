@@ -21,9 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_4 corroborating headline(s):_
 - [Iran Says Two Oil Tankers Ditched Attempt to Transit Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWllnbW9CdkhSbE53aHp2ejdBaVN6TC13djRxUXlfWXRoX1BpaXpYUkFCYS1SMWVWMDBxbDBYS0Y0WUJZdmVWd1cyd3lpZXJCdk1mdjhVV1FpZC1wd1liaVVCSWp0OW43WldRVlFXVlFTZlZWNUI5ZzA5LXJTWG5EM0NUVFp5eGZtb1VZTEJzR3h6WkR5Y2Q2WEtsaURyY1doLUZBc0Z4a1hLX255aXhMVVBBam9Sd9IBuwFBVV95cUxOSGR6NGhhUnJGMlRmNFY2b2poalpla1NNemJUeUd5QnZOQkNIOUtVSUN6NklDLVFzcTBDQ1FWb0RrQVVHb0FNVmhTdDJESE1LNU1sNE5KTGdLZ2p2WkxJdVFSaFRyektSRVJ0djI3ZzNCel9jVkFvLVJUdzA3SXROV0NPcHBEYjRFWExSenhtbk9UTkJ6MHdzcnhqNHRYd0M3SDdjcFRfY2sxc1dHT3ZpbHlndDBvczZSMlNN?oc=5)
 - [Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0FsYURSUGpfTVl4UDNHWWVad0ZmZGhZeEE5QTlzbnpLSjBtQktYdDF6UVZDcjFUbG9jdWJpUU5aMmEwbzhGLWVNeUZsb29KdkZzMVI3b05fV3p0U2hsZEVETi1vd0N4Z0puaWFkd2Vka2JMNUR6LUpZUGdCOGRndy1jZERKTFE1ZWhDTGVZWEUwQjd1QmJHNG9jUmdUM3FTUlFGMEQ2RnJ2U0JfVU1GZEZJQXhhTDJsQlHSAb8BQVVfeXFMTnVRVi1lLUNnSXQ1R2Z1TFB0Z0VRNGRTVExQVkFKeFFXdjlXeXpwemozZEJ3dUV3bXZxRXFZVGZTYzI3eVdQRVRwNjBjT2lfc09OQi1Hdlo1Q1BXZG9MVl9QZkNVRjc5cFUtQmpoSVhYcG9sMGhGN0VtY1RHQ3Z0Q3hWX1hvU1NjZG1iY212NnhHcDNsT2FveDYxd0pXaF9LcWl5ZlN2V3cwYW1OS3ZMbVF3NkdUcUhzNlU2aW1rN3M?oc=5)
+- [Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5)
+- …and 1 more
 
 ## EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters
 *Fri, 31 Jul 2026 18:34:09 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
@@ -41,11 +43,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
-- [Black Sea Grain Exports Face Structural Crisis: Ukraine Destroys Taman Terminal, Russia Warns - Tech Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMUY2WC1CSzE3ZjlSMk5WbnAzWHRHMl9pd3F5NUFrWWJHMk9mbTZvcHR1MnMzNGlhX3NvUk9POS1CTDJXdTJIOXpnNW53U0o1TnhyOFRrcFV2amRDUWJUbmJKQVJtREIwNE9paENaMFZzN2l0b0hfczhmci1DYXc5aUlJcjVRd1ZxLVF6eWFyYTN6ZTN1SVpJVUN6bW9uYkdqNUdqM0lIWnAtVVdKTC1aMTNlX3gwUUVzTW9SVEFZWGdpMUJFZmZRcWUxUXVlaVdGYnpIZE5UWGdCU0dsRmpZ?oc=5)
+_4 corroborating headline(s):_
 - [Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5)
-- [Russia Says Ukraine Struck Key Black Sea Grain Export Port - bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXJ3enctZUp5TFphMXQtbHRoMGkzUElzM3dqLVZQemdJc3JPVUVUWHlaUDNDcHJuTk5LcWc3QWMzaEhqc1JhVGhVRlcweWllYzZFUm16bEpkQzBYOU9TVmFhYmtSNjRQc2doZFQydkgyVE5pLUs2NUxTVGhBX0hjWFIwQkkzc0xOZGhITk0wa2c0NUQ2UW5MRGp4OHpYZ3ZHRFF3UUgwT1NHSll5UUE?oc=5)
-- …and 4 more
+- [Black Sea Grain Exports Face Structural Crisis: Ukraine Destroys Taman Terminal, Russia Warns - Tech Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMUY2WC1CSzE3ZjlSMk5WbnAzWHRHMl9pd3F5NUFrWWJHMk9mbTZvcHR1MnMzNGlhX3NvUk9POS1CTDJXdTJIOXpnNW53U0o1TnhyOFRrcFV2amRDUWJUbmJKQVJtREIwNE9paENaMFZzN2l0b0hfczhmci1DYXc5aUlJcjVRd1ZxLVF6eWFyYTN6ZTN1SVpJVUN6bW9uYkdqNUdqM0lIWnAtVVdKTC1aMTNlX3gwUUVzTW9SVEFZWGdpMUJFZmZRcWUxUXVlaVdGYnpIZE5UWGdCU0dsRmpZ?oc=5)
+- [Russian grain lobby: Kyiv's attacks threaten Black Sea exports, global food security - Marine News Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmxPV1dJeG1VeHFGT2pocFNDU0Q4c0NHVWotU2xCM3UwZU1Ma1ZlZEY4T3I0eDlGWlhnV1VDNVdOeGNqVHJiVDhXZjREOTA4TnloRFA1ME9RYnoybXN3bFl4ZmRiOEE0SEIxNW5lVFQ4ZXlBZFhieEF0d3RFSXpSVnc3V3FndFBWX2FtSV9pLXVibGNTS1NQMXBQRDhkY3lMUG9KMjNmVXA?oc=5)
+- …and 1 more
 
 ---
 
