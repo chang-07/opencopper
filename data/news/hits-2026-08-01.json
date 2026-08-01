@@ -11,7 +11,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran Says Two Oil Tankers Ditched Attempt to Transit Hormuz - Crude Oil Prices Today | OilPrice.com",
+  "headline": "Iran Says Two Oil Tankers Ditched Attempt to Transit Hormuz - oilprice.com",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWllnbW9CdkhSbE53aHp2ejdBaVN6TC13djRxUXlfWXRoX1BpaXpYUkFCYS1SMWVWMDBxbDBYS0Y0WUJZdmVWd1cyd3lpZXJCdk1mdjhVV1FpZC1wd1liaVVCSWp0OW43WldRVlFXVlFTZlZWNUI5ZzA5LXJTWG5EM0NUVFp5eGZtb1VZTEJzR3h6WkR5Y2Q2WEtsaURyY1doLUZBc0Z4a1hLX255aXhMVVBBam9Sd9IBuwFBVV95cUxOSGR6NGhhUnJGMlRmNFY2b2poalpla1NNemJUeUd5QnZOQkNIOUtVSUN6NklDLVFzcTBDQ1FWb0RrQVVHb0FNVmhTdDJESE1LNU1sNE5KTGdLZ2p2WkxJdVFSaFRyektSRVJ0djI3ZzNCel9jVkFvLVJUdzA3SXROV0NPcHBEYjRFWExSenhtbk9UTkJ6MHdzcnhqNHRYd0M3SDdjcFRfY2sxc1dHT3ZpbHlndDBvczZSMlNN?oc=5",
   "published": "Thu, 30 Jul 2026 11:30:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -22,7 +22,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack - Crude Oil Prices Today | OilPrice.com",
+  "headline": "Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack - oilprice.com",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0FsYURSUGpfTVl4UDNHWWVad0ZmZGhZeEE5QTlzbnpLSjBtQktYdDF6UVZDcjFUbG9jdWJpUU5aMmEwbzhGLWVNeUZsb29KdkZzMVI3b05fV3p0U2hsZEVETi1vd0N4Z0puaWFkd2Vka2JMNUR6LUpZUGdCOGRndy1jZERKTFE1ZWhDTGVZWEUwQjd1QmJHNG9jUmdUM3FTUlFGMEQ2RnJ2U0JfVU1GZEZJQXhhTDJsQlHSAb8BQVVfeXFMTnVRVi1lLUNnSXQ1R2Z1TFB0Z0VRNGRTVExQVkFKeFFXdjlXeXpwemozZEJ3dUV3bXZxRXFZVGZTYzI3eVdQRVRwNjBjT2lfc09OQi1Hdlo1Q1BXZG9MVl9QZkNVRjc5cFUtQmpoSVhYcG9sMGhGN0VtY1RHQ3Z0Q3hWX1hvU1NjZG1iY212NnhHcDNsT2FveDYxd0pXaF9LcWl5ZlN2V3cwYW1OS3ZMbVF3NkdUcUhzNlU2aW1rN3M?oc=5",
   "published": "Thu, 30 Jul 2026 07:30:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -91,17 +91,6 @@
   "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXJ3enctZUp5TFphMXQtbHRoMGkzUElzM3dqLVZQemdJc3JPVUVUWHlaUDNDcHJuTk5LcWc3QWMzaEhqc1JhVGhVRlcweWllYzZFUm16bEpkQzBYOU9TVmFhYmtSNjRQc2doZFQydkgyVE5pLUs2NUxTVGhBX0hjWFIwQkkzc0xOZGhITk0wa2c0NUQ2UW5MRGp4OHpYZ3ZHRFF3UUgwT1NHSll5UUE?oc=5",
   "published": "Thu, 30 Jul 2026 10:41:30 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russian wheat export prices hold steady amid Black Sea tensions - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUJtNHJkSlNmbG1QQU1uak84U2d5VUM0TWpDQmJLbHNlc290dGN6UlJHd2NnVUlMMjZLVHEySGNNU3hFSmEzcDZnT1d1TGRhU3ViMFNrRWtWbnN3Z1p0ck1uVkU4NmZDalotbGc5ZGtBejhlYUwwOGl4TENZMmEwdDBJNVVkZnBYSF9aRUJWNFdJLUM2aEJGTGJRMV9zVGR4UDZfSlRPcWI0WDF2R1o1dW4wN0NyV01jekhuaHV2akYzUQ?oc=5",
-  "published": "Mon, 27 Jul 2026 22:37:18 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
