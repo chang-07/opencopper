@@ -33,28 +33,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
-  "published": "Fri, 24 Jul 2026 18:47:41 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Iraq Oil Exports Drop to 530,000 bpd in May-June 2026 Amid Hormuz Closure - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmtadDVzZENBM2hic2E0b2RrSlphdmZfYU1hZExuZ3JoNFZSWUkyWFZVWDdYTjRoNS00WWxGdDU2YmE3TnVUUTEzSVpiQ1BTNFNhQ2dmZGItUzE2aVMySzNJOElyU2dZbjlycnZZcmsyUVNRZXpJcVFiTk1SdzdvYXF6VmJtWWFuVzl2X291b04zX3pCbnhlRVhvRHp5cGlRSXRWRQ?oc=5",
-  "published": "Thu, 30 Jul 2026 10:51:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
   "published": "Fri, 31 Jul 2026 18:34:09 GMT",
@@ -99,9 +77,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - bloomberg.com",
+  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXJ3enctZUp5TFphMXQtbHRoMGkzUElzM3dqLVZQemdJc3JPVUVUWHlaUDNDcHJuTk5LcWc3QWMzaEhqc1JhVGhVRlcweWllYzZFUm16bEpkQzBYOU9TVmFhYmtSNjRQc2doZFQydkgyVE5pLUs2NUxTVGhBX0hjWFIwQkkzc0xOZGhITk0wa2c0NUQ2UW5MRGp4OHpYZ3ZHRFF3UUgwT1NHSll5UUE?oc=5",
   "published": "Thu, 30 Jul 2026 10:41:30 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Ukrainian Drones Damage Russian Grain Export Terminal on Kerch Strait, Source Says - Successful Farming",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTFJZSUw4a2pWR3UxTzIyZmVOSUhxVnJhclZydVZ5WjBwSnRpOUpGWEVrVGZxaHE0b3VDYTVIR05Rc3FKeUxxeEUwYlZKR3ZORHU3ODgyLTFSUHRjeXNpRTNvcEdReS1NS0NaZklTaHNBRm9DdE5iUHV0bnRrSnRQMjkyNzlONU13UnRIVmJIWWZ1Mk1YTFF1SWxNazlwSE9zVzFoRU9BRXY2blc2UzdMbDRHTDlJUUVlNVpJYXhsZWhFTTRvQVE?oc=5",
+  "published": "Thu, 30 Jul 2026 14:54:17 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
