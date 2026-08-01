@@ -33,31 +33,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
-  "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Iraq Oil Exports Drop to 530,000 bpd in May-June 2026 Amid Hormuz Closure - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmtadDVzZENBM2hic2E0b2RrSlphdmZfYU1hZExuZ3JoNFZSWUkyWFZVWDdYTjRoNS00WWxGdDU2YmE3TnVUUTEzSVpiQ1BTNFNhQ2dmZGItUzE2aVMySzNJOElyU2dZbjlycnZZcmsyUVNRZXpJcVFiTk1SdzdvYXF6VmJtWWFuVzl2X291b04zX3pCbnhlRVhvRHp5cGlRSXRWRQ?oc=5",
-  "published": "Thu, 30 Jul 2026 10:51:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
   "published": "Fri, 31 Jul 2026 18:34:09 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian grain lobby warns Black Sea attacks threaten wheat exports, spark famine - T\u00fcrkiye Today",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3FEREkwZWx0aUxNX004UGRkQjFzdlg2Y0FfWmNKUXlfc0NDejNsWXhOUlFFR1JYRVB3Uml1TXBXZlI2NUVQOFdzcXFabG5yZHVZVVJ1dFc3a0N5Y1BXWFdsOWQyOFNNTzJHa0xFekF2cm5aUHBSZnlkMUI2RmxkVC1YaldJZFdaUjlfc2FXQ1RqeWlVNTl4dm1tdmtrMmdFMEctWDdCaE9tcW9QdTVxZWFRVzI4VC1xX2tZSUlyYw?oc=5",
+  "published": "Sat, 01 Aug 2026 15:32:55 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -77,9 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian grain lobby: Kyiv's actions threaten Black Sea exports and global food security - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajdEbVBmY3kxYlB0ZHVrR0FUUmotWUtDZEhkZ1JuSzYySWxuMUY1cWUyeHhoUE5qM0wzVHZ6U1p3eG5BUVItYzR4UHJvb1RjVm1VR0stLVA0Zkt5d29aNlhwb0NxMW8xQUw2UDlnTWJ2SUVLUHdaZFNoeFJ6MEhjMVUtVm5CaTh1anFCdlVzM2VYUUR4czJZYVVkVHZ2ZEVvX3hkcTBGNjI?oc=5",
-  "published": "Sat, 01 Aug 2026 04:38:27 GMT",
+  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5",
+  "published": "Thu, 30 Jul 2026 13:04:51 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -88,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5",
-  "published": "Thu, 30 Jul 2026 13:04:51 GMT",
+  "headline": "Russian grain lobby: Kyiv's actions threaten Black Sea exports and global food security - Marine News Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajdEbVBmY3kxYlB0ZHVrR0FUUmotWUtDZEhkZ1JuSzYySWxuMUY1cWUyeHhoUE5qM0wzVHZ6U1p3eG5BUVItYzR4UHJvb1RjVm1VR0stLVA0Zkt5d29aNlhwb0NxMW8xQUw2UDlnTWJ2SUVLUHdaZFNoeFJ6MEhjMVUtVm5CaTh1anFCdlVzM2VYUUR4czJZYVVkVHZ2ZEVvX3hkcTBGNjI?oc=5",
+  "published": "Sat, 01 Aug 2026 04:38:27 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -124,6 +113,17 @@
   "headline": "Russian grain lobby: Kyiv's attacks threaten Black Sea exports, global food security - Marine News Magazine",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmxPV1dJeG1VeHFGT2pocFNDU0Q4c0NHVWotU2xCM3UwZU1Ma1ZlZEY4T3I0eDlGWlhnV1VDNVdOeGNqVHJiVDhXZjREOTA4TnloRFA1ME9RYnoybXN3bFl4ZmRiOEE0SEIxNW5lVFQ4ZXlBZFhieEF0d3RFSXpSVnc3V3FndFBWX2FtSV9pLXVibGNTS1NQMXBQRDhkY3lMUG9KMjNmVXA?oc=5",
   "published": "Fri, 31 Jul 2026 17:13:14 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Ukrainian drones damage Russian grain export terminal on Kerch Strait, source says - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTBVdDhQZ1lNandQTmN1ZmN0eE1FRERJMzNyZEtPWkN1a2JJWkVmcV92Y29WVkdyTDVNUUw5SGNWM0p0TllrMGtZcEVXejctcndiYm15YzJVUHg1X3NrNnNMRUFubzVYc1VaUllXZ3RzYVhrNnZUTXpHdEljY3hJZUlKeDRVdGFqQmNCMjBraHFkNFI4YzBQOW53ZmEtLUtRWmdGazFkY3lfZHVNTXVzMmRzVnlVQUNzTFFrT2ln?oc=5",
+  "published": "Thu, 30 Jul 2026 18:53:08 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
