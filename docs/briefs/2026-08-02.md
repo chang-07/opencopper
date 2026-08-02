@@ -4,7 +4,7 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Strait of Hormuz disruption raises market volatility, weakens efforts to support crude oil market stability: OPEC - Peoples Gazette Nigeria
+## Strait of Hormuz disruption raises market volatility, weakens efforts to support crude oil market stability: OPEC - gazettengr.com
 *Sun, 02 Aug 2026 20:27:29 GMT* — [source](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2I3RWJqdmIwS0NkNzQwX2xaVV9lWnEyQVVzYU5wZjhOSFZiNUtobjN0bE01WGRkVXZHWFIxclB5RmRud19oWVBXdW1UcjlCTVZTeWVTTlk3OEw0OWI4VkZwTDFPWXA5T3hIb0VONWZ4NlhFNkp4Z0tCTzNxejQ0OXlzTVJ4ZEhBaDFNbWFXTm51WU9GODVYNTNyLXJFS1RJSnNpWGpVLUJIOHZPOEJfRWF0aFBPc3BxcEIzLWxlVDNhdGNLNXNDcVVTSjJhMms3?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
