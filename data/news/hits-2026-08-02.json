@@ -1,5 +1,16 @@
 [
  {
+  "headline": "Strait of Hormuz disruption raises market volatility, weakens efforts to support crude oil market stability: OPEC - Peoples Gazette Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2I3RWJqdmIwS0NkNzQwX2xaVV9lWnEyQVVzYU5wZjhOSFZiNUtobjN0bE01WGRkVXZHWFIxclB5RmRud19oWVBXdW1UcjlCTVZTeWVTTlk3OEw0OWI4VkZwTDFPWXA5T3hIb0VONWZ4NlhFNkp4Z0tCTzNxejQ0OXlzTVJ4ZEhBaDFNbWFXTm51WU9GODVYNTNyLXJFS1RJSnNpWGpVLUJIOHZPOEJfRWF0aFBPc3BxcEIzLWxlVDNhdGNLNXNDcVVTSjJhMms3?oc=5",
+  "published": "Sun, 02 Aug 2026 20:27:29 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Oil Prices Retreat, But the Strait of Hormuz Remains the Wild Card - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGhfSnBYQWdLWUVabFNaLWl1cjREOXN1VG9Fc2R1X2VQdTNkS2NVMGpkM0ZlUUZMQ1hPRTF4WE95bWp2eF84MEVnbnl3QVpkYUgzOV8zbVdNU1BYWmJMeWJPa3pKeEYxWUNmbkdDXy1IUi1ZSjZZYmxSeXNxY0tyWDh4cW5odkxqNktXdHU2MW1zYm9jcldVdmxaNmZLX0Z2ZjZ1djhPTk9BN0tTcFRXbWlBb9IBuAFBVV95cUxNd2Y4ajlFNURBRFlQaWo4Vl9CMnlNbUhfTlVjaUdVSmlROW5RX2hXUWd6eFZyN2JKemdRWDNZZFdmTW9wRWNCdmp3ZkRjQkFVYXJNVUhaWWpmQURIVjdwbXh1YUFEUF9VSE83a053cTB4S1QybFN0dTFib215ZjNqZGloWWRuODA4SWtSQ1kzMVA1UncxVDhXMmUxX2FnVWpkVGJCZXdndkJvS003LUJwN19uNC1WRklF?oc=5",
   "published": "Tue, 28 Jul 2026 15:20:00 GMT",
@@ -66,7 +77,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - supplychainbrain.com",
+  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5",
   "published": "Thu, 30 Jul 2026 13:04:51 GMT",
   "rule_note": "",
@@ -132,9 +143,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia's wheat supply: Drone attacks raise fears of grain export shutdown - Modern Ghana",
-  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01VFlMaXVLYVVTc2kzeWxXY0dnNXNBSXVGOGgtbzY3SllHYWdpaVBxc3lTWXdJNUVsTGpkWjBkT25wQVdNYVRkc1R4RER0VnptZ25XeGJXcldza2h60gFcQVVfeXFMTTVUWUxpdUthVVNzaTN5bFdjR2c1c0FJdUY4aC1vNjdKWUdhZ2lpUHFzeVNZd0k1RWxMamRaMGRPbnBBV01hVGRzVHhERHRWem1nbld4YldyV3NraHo?oc=5",
-  "published": "Sun, 02 Aug 2026 13:20:00 GMT",
+  "headline": "Russian grain lobby: Kyiv's attacks threaten Black Sea exports, global food security - Marine News Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmxPV1dJeG1VeHFGT2pocFNDU0Q4c0NHVWotU2xCM3UwZU1Ma1ZlZEY4T3I0eDlGWlhnV1VDNVdOeGNqVHJiVDhXZjREOTA4TnloRFA1ME9RYnoybXN3bFl4ZmRiOEE0SEIxNW5lVFQ4ZXlBZFhieEF0d3RFSXpSVnc3V3FndFBWX2FtSV9pLXVibGNTS1NQMXBQRDhkY3lMUG9KMjNmVXA?oc=5",
+  "published": "Fri, 31 Jul 2026 17:13:14 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -143,9 +154,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian grain lobby: Kyiv's attacks threaten Black Sea exports, global food security - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmxPV1dJeG1VeHFGT2pocFNDU0Q4c0NHVWotU2xCM3UwZU1Ma1ZlZEY4T3I0eDlGWlhnV1VDNVdOeGNqVHJiVDhXZjREOTA4TnloRFA1ME9RYnoybXN3bFl4ZmRiOEE0SEIxNW5lVFQ4ZXlBZFhieEF0d3RFSXpSVnc3V3FndFBWX2FtSV9pLXVibGNTS1NQMXBQRDhkY3lMUG9KMjNmVXA?oc=5",
-  "published": "Fri, 31 Jul 2026 17:13:14 GMT",
+  "headline": "Russia's wheat supply: Drone attacks raise fears of grain export shutdown - Modern Ghana",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01VFlMaXVLYVVTc2kzeWxXY0dnNXNBSXVGOGgtbzY3SllHYWdpaVBxc3lTWXdJNUVsTGpkWjBkT25wQVdNYVRkc1R4RER0VnptZ25XeGJXcldza2h60gFcQVVfeXFMTTVUWUxpdUthVVNzaTN5bFdjR2c1c0FJdUY4aC1vNjdKWUdhZ2lpUHFzeVNZd0k1RWxMamRaMGRPbnBBV01hVGRzVHhERHRWem1nbld4YldyV3NraHo?oc=5",
+  "published": "Sun, 02 Aug 2026 13:20:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
