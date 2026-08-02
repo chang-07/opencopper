@@ -44,6 +44,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
+  "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
   "published": "Fri, 31 Jul 2026 18:34:09 GMT",
@@ -88,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian grain lobby: Kyiv's actions threaten Black Sea exports and global food security - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajdEbVBmY3kxYlB0ZHVrR0FUUmotWUtDZEhkZ1JuSzYySWxuMUY1cWUyeHhoUE5qM0wzVHZ6U1p3eG5BUVItYzR4UHJvb1RjVm1VR0stLVA0Zkt5d29aNlhwb0NxMW8xQUw2UDlnTWJ2SUVLUHdaZFNoeFJ6MEhjMVUtVm5CaTh1anFCdlVzM2VYUUR4czJZYVVkVHZ2ZEVvX3hkcTBGNjI?oc=5",
-  "published": "Sat, 01 Aug 2026 04:38:27 GMT",
+  "headline": "Black Sea Grain Exports Face Structural Crisis: Ukraine Destroys Taman Terminal, Russia Warns - Tech Times",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMUY2WC1CSzE3ZjlSMk5WbnAzWHRHMl9pd3F5NUFrWWJHMk9mbTZvcHR1MnMzNGlhX3NvUk9POS1CTDJXdTJIOXpnNW53U0o1TnhyOFRrcFV2amRDUWJUbmJKQVJtREIwNE9paENaMFZzN2l0b0hfczhmci1DYXc5aUlJcjVRd1ZxLVF6eWFyYTN6ZTN1SVpJVUN6bW9uYkdqNUdqM0lIWnAtVVdKTC1aMTNlX3gwUUVzTW9SVEFZWGdpMUJFZmZRcWUxUXVlaVdGYnpIZE5UWGdCU0dsRmpZ?oc=5",
+  "published": "Fri, 31 Jul 2026 18:49:49 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -99,9 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian grain lobby: Kyiv's attacks threaten Black Sea exports, global food security - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmxPV1dJeG1VeHFGT2pocFNDU0Q4c0NHVWotU2xCM3UwZU1Ma1ZlZEY4T3I0eDlGWlhnV1VDNVdOeGNqVHJiVDhXZjREOTA4TnloRFA1ME9RYnoybXN3bFl4ZmRiOEE0SEIxNW5lVFQ4ZXlBZFhieEF0d3RFSXpSVnc3V3FndFBWX2FtSV9pLXVibGNTS1NQMXBQRDhkY3lMUG9KMjNmVXA?oc=5",
-  "published": "Fri, 31 Jul 2026 17:13:14 GMT",
+  "headline": "Russian grain lobby: Kyiv's actions threaten Black Sea exports and global food security - Marine News Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajdEbVBmY3kxYlB0ZHVrR0FUUmotWUtDZEhkZ1JuSzYySWxuMUY1cWUyeHhoUE5qM0wzVHZ6U1p3eG5BUVItYzR4UHJvb1RjVm1VR0stLVA0Zkt5d29aNlhwb0NxMW8xQUw2UDlnTWJ2SUVLUHdaZFNoeFJ6MEhjMVUtVm5CaTh1anFCdlVzM2VYUUR4czJZYVVkVHZ2ZEVvX3hkcTBGNjI?oc=5",
+  "published": "Sat, 01 Aug 2026 04:38:27 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -121,9 +132,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea Grain Exports Face Structural Crisis: Ukraine Destroys Taman Terminal, Russia Warns - Tech Times",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMUY2WC1CSzE3ZjlSMk5WbnAzWHRHMl9pd3F5NUFrWWJHMk9mbTZvcHR1MnMzNGlhX3NvUk9POS1CTDJXdTJIOXpnNW53U0o1TnhyOFRrcFV2amRDUWJUbmJKQVJtREIwNE9paENaMFZzN2l0b0hfczhmci1DYXc5aUlJcjVRd1ZxLVF6eWFyYTN6ZTN1SVpJVUN6bW9uYkdqNUdqM0lIWnAtVVdKTC1aMTNlX3gwUUVzTW9SVEFZWGdpMUJFZmZRcWUxUXVlaVdGYnpIZE5UWGdCU0dsRmpZ?oc=5",
-  "published": "Fri, 31 Jul 2026 18:49:49 GMT",
+  "headline": "Russian grain lobby: Kyiv's attacks threaten Black Sea exports, global food security - Marine News Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmxPV1dJeG1VeHFGT2pocFNDU0Q4c0NHVWotU2xCM3UwZU1Ma1ZlZEY4T3I0eDlGWlhnV1VDNVdOeGNqVHJiVDhXZjREOTA4TnloRFA1ME9RYnoybXN3bFl4ZmRiOEE0SEIxNW5lVFQ4ZXlBZFhieEF0d3RFSXpSVnc3V3FndFBWX2FtSV9pLXVibGNTS1NQMXBQRDhkY3lMUG9KMjNmVXA?oc=5",
+  "published": "Fri, 31 Jul 2026 17:13:14 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
