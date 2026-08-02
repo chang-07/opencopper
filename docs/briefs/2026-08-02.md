@@ -44,7 +44,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _9 corroborating headline(s):_
-- [Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5)
+- [Russia Says Ukraine Struck Key Black Sea Grain Export Port - supplychainbrain.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5)
 - [Russian grain lobby warns Black Sea attacks threaten wheat exports, spark famine - Türkiye Today](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3FEREkwZWx0aUxNX004UGRkQjFzdlg2Y0FfWmNKUXlfc0NDejNsWXhOUlFFR1JYRVB3Uml1TXBXZlI2NUVQOFdzcXFabG5yZHVZVVJ1dFc3a0N5Y1BXWFdsOWQyOFNNTzJHa0xFekF2cm5aUHBSZnlkMUI2RmxkVC1YaldJZFdaUjlfc2FXQ1RqeWlVNTl4dm1tdmtrMmdFMEctWDdCaE9tcW9QdTVxZWFRVzI4VC1xX2tZSUlyYw?oc=5)
 - [Russian Grain Lobby Warns Black Sea Attacks Could Disrupt Exports And Raise Global Food Prices - Marine Insight](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGtzOU5xby1rdVk5MnZucHcxZExGX3B6ZVo3RnNRZFV3YlpPVFR6elh0SUx6SHZxOS1VRTBBT0lRZG8zeFlPUldaRGNsSVprX2xCclY3MWFLQWZURG16TGZLeVVFMmN4SktCYU45OWt2VVotZ2JjRVljNDdKR2V3bkplRkVJU2xpeEZweDRIa2JicV91a2hhMDEteVVTN1NGd3BWVFJuNzlhck4tSEFpc1Naa0FXMENyTm9yOXNLQXpGYjQ?oc=5)
 - …and 6 more

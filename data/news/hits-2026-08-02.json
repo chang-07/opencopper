@@ -66,7 +66,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain",
+  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - supplychainbrain.com",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5",
   "published": "Thu, 30 Jul 2026 13:04:51 GMT",
   "rule_note": "",
@@ -99,18 +99,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia's wheat supply: Drone attacks raise fears of grain export shutdown - Modern Ghana",
-  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01VFlMaXVLYVVTc2kzeWxXY0dnNXNBSXVGOGgtbzY3SllHYWdpaVBxc3lTWXdJNUVsTGpkWjBkT25wQVdNYVRkc1R4RER0VnptZ25XeGJXcldza2h60gFcQVVfeXFMTTVUWUxpdUthVVNzaTN5bFdjR2c1c0FJdUY4aC1vNjdKWUdhZ2lpUHFzeVNZd0k1RWxMamRaMGRPbnBBV01hVGRzVHhERHRWem1nbld4YldyV3NraHo?oc=5",
-  "published": "Sun, 02 Aug 2026 13:20:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Bloomberg.com",
+  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Bloomberg",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXJ3enctZUp5TFphMXQtbHRoMGkzUElzM3dqLVZQemdJc3JPVUVUWHlaUDNDcHJuTk5LcWc3QWMzaEhqc1JhVGhVRlcweWllYzZFUm16bEpkQzBYOU9TVmFhYmtSNjRQc2doZFQydkgyVE5pLUs2NUxTVGhBX0hjWFIwQkkzc0xOZGhITk0wa2c0NUQ2UW5MRGp4OHpYZ3ZHRFF3UUgwT1NHSll5UUE?oc=5",
   "published": "Thu, 30 Jul 2026 10:41:30 GMT",
   "rule_note": "",
@@ -135,6 +124,17 @@
   "headline": "Black Sea Grain Exports Face Structural Crisis: Ukraine Destroys Taman Terminal, Russia Warns - Tech Times",
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMUY2WC1CSzE3ZjlSMk5WbnAzWHRHMl9pd3F5NUFrWWJHMk9mbTZvcHR1MnMzNGlhX3NvUk9POS1CTDJXdTJIOXpnNW53U0o1TnhyOFRrcFV2amRDUWJUbmJKQVJtREIwNE9paENaMFZzN2l0b0hfczhmci1DYXc5aUlJcjVRd1ZxLVF6eWFyYTN6ZTN1SVpJVUN6bW9uYkdqNUdqM0lIWnAtVVdKTC1aMTNlX3gwUUVzTW9SVEFZWGdpMUJFZmZRcWUxUXVlaVdGYnpIZE5UWGdCU0dsRmpZ?oc=5",
   "published": "Fri, 31 Jul 2026 18:49:49 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia's wheat supply: Drone attacks raise fears of grain export shutdown - Modern Ghana",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01VFlMaXVLYVVTc2kzeWxXY0dnNXNBSXVGOGgtbzY3SllHYWdpaVBxc3lTWXdJNUVsTGpkWjBkT25wQVdNYVRkc1R4RER0VnptZ25XeGJXcldza2h60gFcQVVfeXFMTTVUWUxpdUthVVNzaTN5bFdjR2c1c0FJdUY4aC1vNjdKWUdhZ2lpUHFzeVNZd0k1RWxMamRaMGRPbnBBV01hVGRzVHhERHRWem1nbld4YldyV3NraHo?oc=5",
+  "published": "Sun, 02 Aug 2026 13:20:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
