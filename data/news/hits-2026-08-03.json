@@ -11,6 +11,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Iraq Is Struggling To Get Its Oil Through The Hormuz Strait. It's Offering Millions In Discounts To Those Daring To Take It - International Business Times",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEowUldEQW9ROVExUE5ldkZjUVBxTmplRkFac25SZ1VwNk82d2cxNy0yczR2RUplR3hBTjh6Mzh0UUFxTExXalRPVnhSSndDNnVaanJweHhJV2VwX1ZQQURqZGdTSTBUMzhJUEdPVVo5NTJrdHUyTDVid0JhQW5GSzZhNVNqSXdyRVA3ekp4ZC03X1dFczZQSURsbG5vQ1Zadk1ibFR2VWoyNTRBOWI4aEhzRldYcTF6TTBr?oc=5",
+  "published": "Mon, 03 Aug 2026 14:21:42 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Why reopening the Strait of Hormuz will no longer solve the global energy crisis - Latest news from Azerbaijan",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUtWRm5IM2dEcXNBUHpuYkdsQTV6bHJxc09mQklGQXdnc3JweUFSc04wWmlNZ0xTVFRCYjdWcGRuQnB4bUczV01LazNTVXRxLVVsbHQyOHZyRlJwVWZXQjVjZWcwVE1TMmg1dmFkRm9uWTNvLWh5YkZtcUoxX3FCUU9aM2NmenZYVmpOWFVRTWVqMkN2SzkyaXRCTHZlTHgxQS1R?oc=5",
   "published": "Mon, 03 Aug 2026 08:52:57 GMT",
@@ -33,7 +44,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - Barchart.com",
+  "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - barchart.com",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWZlRVBYem5mV2VqbGhtOGRTWE1FbHZwb3V1UXpDYXhaTzhWQUtsMW1IV194ZzdsWkRGbmlWSDVuOWRxTTc3cmhVMy1JV2VYYWJseVF0ODIxbUV1TXpDOGlMRWc1MHFaOWNjclk4TjNReS16amZPc2tqblYxR01DNkd0dXF1VGNzUVlvdi1LWlhFQ2NxQ205bUxlek1QWmZyQkpVVjRuY19vY1N1VzhZag?oc=5",
   "published": "Thu, 30 Jul 2026 19:14:09 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -44,9 +55,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Strait of Hormuz disruption raises market volatility, weakens efforts to support crude oil market stability: OPEC - Peoples Gazette Nigeria",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2I3RWJqdmIwS0NkNzQwX2xaVV9lWnEyQVVzYU5wZjhOSFZiNUtobjN0bE01WGRkVXZHWFIxclB5RmRud19oWVBXdW1UcjlCTVZTeWVTTlk3OEw0OWI4VkZwTDFPWXA5T3hIb0VONWZ4NlhFNkp4Z0tCTzNxejQ0OXlzTVJ4ZEhBaDFNbWFXTm51WU9GODVYNTNyLXJFS1RJSnNpWGpVLUJIOHZPOEJfRWF0aFBPc3BxcEIzLWxlVDNhdGNLNXNDcVVTSjJhMms3?oc=5",
-  "published": "Sun, 02 Aug 2026 22:12:49 GMT",
+  "headline": "OPEC+ increases daily oil production, recommits to market stability amid Hormuz blockade - Peoples Gazette Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS244X0d1VHlWWFpWRWJEdjR3dXdocjJLdm00azZCYkxURWRaRmZmNHlsOHo2UmdZbmFUbXBBbFN6a1JqNXN2Z3V5dUZOODYzRmgyMjZ4SWM2SV9nRVZwV1M0aHVNSGhGT1BUdHBpQmNTV19RMS01aHpld1puWnhBM1pZVjJLTUVkUnFYU3JzSlR3TmtnTGJhTDV2eEY2TmtaTGlKRGczMU1FcENnSFA0?oc=5",
+  "published": "Mon, 03 Aug 2026 08:40:13 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -66,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ increases daily oil production, recommits to market stability amid Hormuz blockade - Peoples Gazette Nigeria",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS244X0d1VHlWWFpWRWJEdjR3dXdocjJLdm00azZCYkxURWRaRmZmNHlsOHo2UmdZbmFUbXBBbFN6a1JqNXN2Z3V5dUZOODYzRmgyMjZ4SWM2SV9nRVZwV1M0aHVNSGhGT1BUdHBpQmNTV19RMS01aHpld1puWnhBM1pZVjJLTUVkUnFYU3JzSlR3TmtnTGJhTDV2eEY2TmtaTGlKRGczMU1FcENnSFA0?oc=5",
-  "published": "Mon, 03 Aug 2026 08:39:38 GMT",
+  "headline": "Strait of Hormuz disruption raises market volatility, weakens efforts to support crude oil market stability: OPEC - Peoples Gazette Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2I3RWJqdmIwS0NkNzQwX2xaVV9lWnEyQVVzYU5wZjhOSFZiNUtobjN0bE01WGRkVXZHWFIxclB5RmRud19oWVBXdW1UcjlCTVZTeWVTTlk3OEw0OWI4VkZwTDFPWXA5T3hIb0VONWZ4NlhFNkp4Z0tCTzNxejQ0OXlzTVJ4ZEhBaDFNbWFXTm51WU9GODVYNTNyLXJFS1RJSnNpWGpVLUJIOHZPOEJfRWF0aFBPc3BxcEIzLWxlVDNhdGNLNXNDcVVTSjJhMms3?oc=5",
+  "published": "Sun, 02 Aug 2026 22:12:49 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,18 +88,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran Says Two Oil Tankers Ditched Attempt to Transit Hormuz - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWllnbW9CdkhSbE53aHp2ejdBaVN6TC13djRxUXlfWXRoX1BpaXpYUkFCYS1SMWVWMDBxbDBYS0Y0WUJZdmVWd1cyd3lpZXJCdk1mdjhVV1FpZC1wd1liaVVCSWp0OW43WldRVlFXVlFTZlZWNUI5ZzA5LXJTWG5EM0NUVFp5eGZtb1VZTEJzR3h6WkR5Y2Q2WEtsaURyY1doLUZBc0Z4a1hLX255aXhMVVBBam9Sd9IBuwFBVV95cUxOSGR6NGhhUnJGMlRmNFY2b2poalpla1NNemJUeUd5QnZOQkNIOUtVSUN6NklDLVFzcTBDQ1FWb0RrQVVHb0FNVmhTdDJESE1LNU1sNE5KTGdLZ2p2WkxJdVFSaFRyektSRVJ0djI3ZzNCel9jVkFvLVJUdzA3SXROV0NPcHBEYjRFWExSenhtbk9UTkJ6MHdzcnhqNHRYd0M3SDdjcFRfY2sxc1dHT3ZpbHlndDBvczZSMlNN?oc=5",
-  "published": "Thu, 30 Jul 2026 11:30:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC",
+  "headline": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - cnbc.com",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
   "published": "Fri, 24 Jul 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -110,7 +110,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - themoscowtimes.com",
+  "headline": "Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5",
   "published": "Mon, 03 Aug 2026 08:46:00 GMT",
   "rule_note": "",
@@ -143,7 +143,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian Grain Lobby Warns Black Sea Attacks Could Disrupt Exports And Raise Global Food Prices - marineinsight.com",
+  "headline": "Russian Grain Lobby Warns Black Sea Attacks Could Disrupt Exports And Raise Global Food Prices - Marine Insight",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGtzOU5xby1rdVk5MnZucHcxZExGX3B6ZVo3RnNRZFV3YlpPVFR6elh0SUx6SHZxOS1VRTBBT0lRZG8zeFlPUldaRGNsSVprX2xCclY3MWFLQWZURG16TGZLeVVFMmN4SktCYU45OWt2VVotZ2JjRVljNDdKR2V3bkplRkVJU2xpeEZweDRIa2JicV91a2hhMDEteVVTN1NGd3BWVFJuNzlhck4tSEFpc1Naa0FXMENyTm9yOXNLQXpGYjQ?oc=5",
   "published": "Sat, 01 Aug 2026 11:07:51 GMT",
   "rule_note": "",
@@ -154,7 +154,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Bloomberg.com",
+  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXJ3enctZUp5TFphMXQtbHRoMGkzUElzM3dqLVZQemdJc3JPVUVUWHlaUDNDcHJuTk5LcWc3QWMzaEhqc1JhVGhVRlcweWllYzZFUm16bEpkQzBYOU9TVmFhYmtSNjRQc2doZFQydkgyVE5pLUs2NUxTVGhBX0hjWFIwQkkzc0xOZGhITk0wa2c0NUQ2UW5MRGp4OHpYZ3ZHRFF3UUgwT1NHSll5UUE?oc=5",
   "published": "Thu, 30 Jul 2026 10:41:30 GMT",
   "rule_note": "",
