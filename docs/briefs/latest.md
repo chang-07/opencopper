@@ -4,8 +4,25 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## How UAE's Adnoc is building a gas strategy beyond the Strait of Hormuz - thenationalnews.com
-*Mon, 03 Aug 2026 03:33:44 GMT* — [source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3BzRkRfVDEzZWJxTjdnU0VvblEya2JpWE1rTUdyZTRyR3FVQnZsY2pKVlVFMXJPWnMwX1VCVENpOFg1b3NFTkxGOThRWXBGZ2NENVNvTG8tbmZBekRGTnVWT3pJaHZiX3htcVVxR1E4cU9maXVjQV9NcmQ3eHF6WUpqU1dQaFM4VkFJQWhmR3A4LV9uUmxHdXpaVy1RRC1UaG9Zc0l2UTViNk1aUWZCbk9nZk9MVmNpMWEtUkxZdElHRmlGb1Ztcw?oc=5)
+## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com
+*Mon, 03 Aug 2026 08:30:00 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEJxV0FYQXJ4VjUxLVlrWDYxQ2JieVY0MTdEdjR1MWtFaklLSk9kX0dEa2JOWlBHbklMZTVocWVCbHh0LThxZ2Z0VEFXbGNPclN3SndpZlM4M3FNdF9LQ0FVRmlxMTUzWjFueG53a0Z4NnpmeXU5SFBROU53dmlJNHRGR0ZoTFRWcWlsemVSTUVPbGV0V202aE9QQkNHOHgzSnFCRklNVFg1LWNzbjI2TjhyTzhDcGduODBLZldoZ9IBxAFBVV95cUxPb1VMWi0xd21qazcyUXAxb3JBZWtGQnctNVJSM3B0LXBCWWdKM3E2aW5PYXFkU2Ntd1F0M1Q1N3puNWUxdXVhMVNlaVMtUXVhU1o0NTZCOG9nM1Q0NDZocnBqSkxnQWVGOWQyNTFWSVJhYnZYbVNHYmhzWWpOLU9LOGQzY04xb1dSREx5OGxrV2p0SEZNSjJWeVJXTGJxSXZONmM4eDkzeHRpT0M0UFBHamVPQlpNR0RaSVZ4SU5PQ3ozSjNM?oc=5)
+Rule: crude-oil / Saudi Arabia / severity prior +8%
+
+```
+CROSS-COMMODITY RIPPLE — Saudi Arabia crude-oil -8% (prior)
+commodity    channel       via                          price Δ
+----------------------------------------------------------------
+crude-oil    direct        Saudi Arabia                     +4%  [+2..+53%]
+wheat        input_cost    crude-oil price +4%              +0%
+
+One first-order round through data/seed/linkages.yaml (byproduct /
+substitution / input-cost); couplings are disputable seed-estimates.
+[..] = the same shock across the seeded elasticity RANGES — when the
+band is wide, the elasticities are doing the work, not the event.
+```
+
+## Why reopening the Strait of Hormuz will no longer solve the global energy crisis - Latest news from Azerbaijan
+*Mon, 03 Aug 2026 08:52:57 GMT* — [source](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUtWRm5IM2dEcXNBUHpuYkdsQTV6bHJxc09mQklGQXdnc3JweUFSc04wWmlNZ0xTVFRCYjdWcGRuQnB4bUczV01LazNTVXRxLVVsbHQyOHZyRlJwVWZXQjVjZWcwVE1TMmg1dmFkRm9uWTNvLWh5YkZtcUoxX3FCUU9aM2NmenZYVmpOWFVRTWVqMkN2SzkyaXRCTHZlTHgxQS1R?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +38,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_7 corroborating headline(s):_
+- [How UAE's Adnoc is building a gas strategy beyond the Strait of Hormuz - thenationalnews.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3BzRkRfVDEzZWJxTjdnU0VvblEya2JpWE1rTUdyZTRyR3FVQnZsY2pKVlVFMXJPWnMwX1VCVENpOFg1b3NFTkxGOThRWXBGZ2NENVNvTG8tbmZBekRGTnVWT3pJaHZiX3htcVVxR1E4cU9maXVjQV9NcmQ3eHF6WUpqU1dQaFM4VkFJQWhmR3A4LV9uUmxHdXpaVy1RRC1UaG9Zc0l2UTViNk1aUWZCbk9nZk9MVmNpMWEtUkxZdElHRmlGb1Ztcw?oc=5)
+- [Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWZlRVBYem5mV2VqbGhtOGRTWE1FbHZwb3V1UXpDYXhaTzhWQUtsMW1IV194ZzdsWkRGbmlWSDVuOWRxTTc3cmhVMy1JV2VYYWJseVF0ODIxbUV1TXpDOGlMRWc1MHFaOWNjclk4TjNReS16amZPc2tqblYxR01DNkd0dXF1VGNzUVlvdi1LWlhFQ2NxQ205bUxlek1QWmZyQkpVVjRuY19vY1N1VzhZag?oc=5)
 - [Strait of Hormuz disruption raises market volatility, weakens efforts to support crude oil market stability: OPEC - Peoples Gazette Nigeria](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2I3RWJqdmIwS0NkNzQwX2xaVV9lWnEyQVVzYU5wZjhOSFZiNUtobjN0bE01WGRkVXZHWFIxclB5RmRud19oWVBXdW1UcjlCTVZTeWVTTlk3OEw0OWI4VkZwTDFPWXA5T3hIb0VONWZ4NlhFNkp4Z0tCTzNxejQ0OXlzTVJ4ZEhBaDFNbWFXTm51WU9GODVYNTNyLXJFS1RJSnNpWGpVLUJIOHZPOEJfRWF0aFBPc3BxcEIzLWxlVDNhdGNLNXNDcVVTSjJhMms3?oc=5)
-- [Oil Prices Retreat, But the Strait of Hormuz Remains the Wild Card - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGhfSnBYQWdLWUVabFNaLWl1cjREOXN1VG9Fc2R1X2VQdTNkS2NVMGpkM0ZlUUZMQ1hPRTF4WE95bWp2eF84MEVnbnl3QVpkYUgzOV8zbVdNU1BYWmJMeWJPa3pKeEYxWUNmbkdDXy1IUi1ZSjZZYmxSeXNxY0tyWDh4cW5odkxqNktXdHU2MW1zYm9jcldVdmxaNmZLX0Z2ZjZ1djhPTk9BN0tTcFRXbWlBb9IBuAFBVV95cUxNd2Y4ajlFNURBRFlQaWo4Vl9CMnlNbUhfTlVjaUdVSmlROW5RX2hXUWd6eFZyN2JKemdRWDNZZFdmTW9wRWNCdmp3ZkRjQkFVYXJNVUhaWWpmQURIVjdwbXh1YUFEUF9VSE83a053cTB4S1QybFN0dTFib215ZjNqZGloWWRuODA4SWtSQ1kzMVA1UncxVDhXMmUxX2FnVWpkVGJCZXdndkJvS003LUJwN19uNC1WRklF?oc=5)
-- [Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - barchart.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWZlRVBYem5mV2VqbGhtOGRTWE1FbHZwb3V1UXpDYXhaTzhWQUtsMW1IV194ZzdsWkRGbmlWSDVuOWRxTTc3cmhVMy1JV2VYYWJseVF0ODIxbUV1TXpDOGlMRWc1MHFaOWNjclk4TjNReS16amZPc2tqblYxR01DNkd0dXF1VGNzUVlvdi1LWlhFQ2NxQ205bUxlek1QWmZyQkpVVjRuY19vY1N1VzhZag?oc=5)
-- …and 2 more
+- …and 4 more
 
 ## EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters
 *Fri, 31 Jul 2026 18:34:09 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
@@ -44,9 +61,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _8 corroborating headline(s):_
+- [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - themoscowtimes.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
 - [Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5)
 - [Russian grain lobby warns Black Sea attacks threaten wheat exports, spark famine - Türkiye Today](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3FEREkwZWx0aUxNX004UGRkQjFzdlg2Y0FfWmNKUXlfc0NDejNsWXhOUlFFR1JYRVB3Uml1TXBXZlI2NUVQOFdzcXFabG5yZHVZVVJ1dFc3a0N5Y1BXWFdsOWQyOFNNTzJHa0xFekF2cm5aUHBSZnlkMUI2RmxkVC1YaldJZFdaUjlfc2FXQ1RqeWlVNTl4dm1tdmtrMmdFMEctWDdCaE9tcW9QdTVxZWFRVzI4VC1xX2tZSUlyYw?oc=5)
-- [Russian Grain Lobby Warns Black Sea Attacks Could Disrupt Exports And Raise Global Food Prices - Marine Insight](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGtzOU5xby1rdVk5MnZucHcxZExGX3B6ZVo3RnNRZFV3YlpPVFR6elh0SUx6SHZxOS1VRTBBT0lRZG8zeFlPUldaRGNsSVprX2xCclY3MWFLQWZURG16TGZLeVVFMmN4SktCYU45OWt2VVotZ2JjRVljNDdKR2V3bkplRkVJU2xpeEZweDRIa2JicV91a2hhMDEteVVTN1NGd3BWVFJuNzlhck4tSEFpc1Naa0FXMENyTm9yOXNLQXpGYjQ?oc=5)
 - …and 5 more
 
 ---
