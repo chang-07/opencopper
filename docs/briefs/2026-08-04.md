@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
+_12 corroborating headline(s):_
 - [Iraq Exports Over 30 Million Barrels of Oil Through Hormuz in One Month - Kurdistan24](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdk1kTGtXVXRVdTdyMFF0OTZDamJ2N2I5SXF6Q1NweGttZzJ5Q1FldmVITlhqOWI2ckJxY3RFM0oybC1EV3ZvWU52MlY2RFJXeHlqU1hGRFEtYmQ1OFVVNGVJTFBGVGdteUw5MDU5U0N5X25zZi1HSEZHSHdBZ2JGLVZ0OExYY2FFUE1sdGV0SUx4SC0xc0FWdjZoaWhacDNFM25yNFk3V1owUmNsUlNIcTN0TU9BZw?oc=5)
 - [Oil falls 5% after Trump calls off Iran strikes, says Hormuz deal agreed - Al-Monitor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVE5GLXBWM1FBZnNBQnhLVDR2dGt4RFVpcV9selFWeng0aFJSQWVoSWNZVVd2cVBHR1FRaElqUVpvakNoSzIzM2xWYURFTHF0aXp4VjlILVVnMjF5U01aQ3JORzM3YUpQNXpleHVvbl9wRmdneWlWWDFxZE9ueHV2SlI5X0dVdFlSUTRDV01seGo2Zi1zS3lNcExBUmV0RWgyNmpoRDZ3TDU0WnVBeHR5Ng?oc=5)
-- [Mideast oil producers step up plans to bypass the Strait of Hormuz - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlFyUHBCdElCdDJDZ3cweXN4YlNmeXZ6YWZfOEdLSE5LUkxXQ2VIaUU0Nm5nbXhaOVBpZmJ3UWdKU09HRU1EdnpEbFZadDIwbVMxa1JvajFPRWRiaVRMaEpULWhKS0xuckZZN2tOYmdBeUdjak9fQW10WVNBWTRiTno3dXZXNXFmNy00SGg0bkNvXzNVNEJNdEtXd0IwSkpyMVdNN2tqZXBFVUnSAbABQVVfeXFMUEw0TE1IaDJ1S29LYjk1b3JYNmRjdkFBY1k1ZkpOVS1vX1B4RmcwalB3MGZnV256WkxOZTV3LWs0a0JsTFRyaldHMjNKVWdSZlZ3UmN6aFhiR0p6N3d4dmZPdXNpQk1JX3NxRkY4M2RPS2NYRjlaVUdEcE41Z1N1Y0R2Skxnd1pXUUdzU1pKM2EwS0dzR0Q4OWVmT2ptREF2T0JmNDN5elM3SFFLQ3BhTms?oc=5)
-- …and 7 more
+- [Oil Plunges Over 5% as US Signals Imminent Deal With Iran to Reopen Strait of Hormuz - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFBkYkZfYlRvOHl2ZUs5RUQydFE3dVA0NDRCVGcxcFpQUjgtTWJHcjA5WWVGSzdvQjNFMTdobUIzM3h3NGItTGlTZENzV1FRMXJIanVOT2pWZUhkdmtSUzZNTXZ4Q0RSeGJwSm1iRTR3NldjLVlJcGc?oc=5)
+- …and 9 more
 
 ## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com
 *Mon, 03 Aug 2026 08:30:00 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEJxV0FYQXJ4VjUxLVlrWDYxQ2JieVY0MTdEdjR1MWtFaklLSk9kX0dEa2JOWlBHbklMZTVocWVCbHh0LThxZ2Z0VEFXbGNPclN3SndpZlM4M3FNdF9LQ0FVRmlxMTUzWjFueG53a0Z4NnpmeXU5SFBROU53dmlJNHRGR0ZoTFRWcWlsemVSTUVPbGV0V202aE9QQkNHOHgzSnFCRklNVFg1LWNzbjI2TjhyTzhDcGduODBLZldoZ9IBxAFBVV95cUxPb1VMWi0xd21qazcyUXAxb3JBZWtGQnctNVJSM3B0LXBCWWdKM3E2aW5PYXFkU2Ntd1F0M1Q1N3puNWUxdXVhMVNlaVMtUXVhU1o0NTZCOG9nM1Q0NDZocnBqSkxnQWVGOWQyNTFWSVJhYnZYbVNHYmhzWWpOLU9LOGQzY04xb1dSREx5OGxrV2p0SEZNSjJWeVJXTGJxSXZONmM4eDkzeHRpT0M0UFBHamVPQlpNR0RaSVZ4SU5PQ3ozSjNM?oc=5)
@@ -60,11 +60,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_7 corroborating headline(s):_
+- [Can Ukraine Replace Black Sea Grain Export Routes? - Agrolatam](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVIyb0lhd25JalV4Rm5JZVF5WUdpbzdVZnlwQUhfTWg1V3FqcWNtUWJBWlZoeGMzLXUxM0g1WVBrRU1DaTFtbDNOaTRfdkN0YUdhTkYxZGVNblJqLUd1SDY4WDJoSUhtMDZNWnpsWFZmTXd3RWdHT0ZLOEhWbFJQR3lqbGUyQQ?oc=5)
 - [Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5)
 - [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
-- [Russian grain exports drop 37% in July following Black Sea disruptions - The New Voice of Ukraine](https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0pYVVN6UEhCWHdwZ2pYS2VZOE8xb3lvLWluNEs1bVUxblgtRzJzSUFreW42djh1QzVrWmhrT3BkQVc5aUVSRmtLZmdLN0JyQ1k5NzVVSXk3VkdiVEQ2ZjJqb0ZQV3g0WS04U1p0TU9yMUFVTGt1aW1SVU42LWYxcW9VU25HSzItbUROdFI1QkdTNzjSAYwBQVVfeXFMUGhvdHZpazhRdWU5TTY5YktZU1Foel9kVmZ4aDc1OXhla0pEQ3c4TjZTQzVUV21QbUZ3aXYyaUZ2Z0x6SlNNS1RSdFZPWFd5MkJsVnJpX1lPbm9xTDNST0p4ZFBUeHRHODJjTGpwdjlWU2NXV0pab3R0RTF0WlRoVzFMaTFDazBZTkdhUk4?oc=5)
-- …and 3 more
+- …and 4 more
 
 ---
 

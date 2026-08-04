@@ -44,6 +44,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Oil Plunges Over 5% as US Signals Imminent Deal With Iran to Reopen Strait of Hormuz - finance.biggo.com",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkYkZfYlRvOHl2ZUs5RUQydFE3dVA0NDRCVGcxcFpQUjgtTWJHcjA5WWVGSzdvQjNFMTdobUIzM3h3NGItTGlTZENzV1FRMXJIanVOT2pWZUhkdmtSUzZNTXZ4Q0RSeGJwSm1iRTR3NldjLVlJcGc?oc=5",
+  "published": "Tue, 04 Aug 2026 21:35:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Mideast oil producers step up plans to bypass the Strait of Hormuz - ABC News - Breaking News, Latest News and Videos",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlFyUHBCdElCdDJDZ3cweXN4YlNmeXZ6YWZfOEdLSE5LUkxXQ2VIaUU0Nm5nbXhaOVBpZmJ3UWdKU09HRU1EdnpEbFZadDIwbVMxa1JvajFPRWRiaVRMaEpULWhKS0xuckZZN2tOYmdBeUdjak9fQW10WVNBWTRiTno3dXZXNXFmNy00SGg0bkNvXzNVNEJNdEtXd0IwSkpyMVdNN2tqZXBFVUnSAbABQVVfeXFMUEw0TE1IaDJ1S29LYjk1b3JYNmRjdkFBY1k1ZkpOVS1vX1B4RmcwalB3MGZnV256WkxOZTV3LWs0a0JsTFRyaldHMjNKVWdSZlZ3UmN6aFhiR0p6N3d4dmZPdXNpQk1JX3NxRkY4M2RPS2NYRjlaVUdEcE41Z1N1Y0R2Skxnd1pXUUdzU1pKM2EwS0dzR0Q4OWVmT2ptREF2T0JmNDN5elM3SFFLQ3BhTms?oc=5",
   "published": "Thu, 23 Jul 2026 07:00:00 GMT",
@@ -88,6 +99,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWZlRVBYem5mV2VqbGhtOGRTWE1FbHZwb3V1UXpDYXhaTzhWQUtsMW1IV194ZzdsWkRGbmlWSDVuOWRxTTc3cmhVMy1JV2VYYWJseVF0ODIxbUV1TXpDOGlMRWc1MHFaOWNjclk4TjNReS16amZPc2tqblYxR01DNkd0dXF1VGNzUVlvdi1LWlhFQ2NxQ205bUxlek1QWmZyQkpVVjRuY19vY1N1VzhZag?oc=5",
+  "published": "Thu, 30 Jul 2026 19:14:09 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Middle East oil producers seek Strait of Hormuz alternatives as the U.S.-Iran war escalates - CBS News",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFJSZkxtVzE0eXhsZDFLTXQzS3VfN3JtM3Fnc2hJalVabFBTOFpzRzg4bllIOUtOT3I0Y3JsZmxHUnVtb0txczBlVV9fZWw3Zy1Eem1NNVlud1VNVElCZFp6Q0FYM01MLXlibHBQNzNFVXJsOGZJckpEdkJ6bmFabGN1YVp3ZTNNZHZ0S3pFS0NWVl9NUXdYT1dXZlhlWHRGNXVmNEJMNA?oc=5",
   "published": "Thu, 23 Jul 2026 07:00:00 GMT",
@@ -99,7 +121,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Why reopening the Strait of Hormuz will no longer solve the global energy crisis - Latest news from Azerbaijan",
+  "headline": "Why reopening the Strait of Hormuz will no longer solve the global energy crisis - news.az",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUtWRm5IM2dEcXNBUHpuYkdsQTV6bHJxc09mQklGQXdnc3JweUFSc04wWmlNZ0xTVFRCYjdWcGRuQnB4bUczV01LazNTVXRxLVVsbHQyOHZyRlJwVWZXQjVjZWcwVE1TMmg1dmFkRm9uWTNvLWh5YkZtcUoxX3FCUU9aM2NmenZYVmpOWFVRTWVqMkN2SzkyaXRCTHZlTHgxQS1R?oc=5",
   "published": "Mon, 03 Aug 2026 08:52:57 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -143,6 +165,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Can Ukraine Replace Black Sea Grain Export Routes? - Agrolatam",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVIyb0lhd25JalV4Rm5JZVF5WUdpbzdVZnlwQUhfTWg1V3FqcWNtUWJBWlZoeGMzLXUxM0g1WVBrRU1DaTFtbDNOaTRfdkN0YUdhTkYxZGVNblJqLUd1SDY4WDJoSUhtMDZNWnpsWFZmTXd3RWdHT0ZLOEhWbFJQR3lqbGUyQQ?oc=5",
+  "published": "Tue, 04 Aug 2026 19:43:14 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5",
   "published": "Thu, 30 Jul 2026 13:04:51 GMT",
@@ -165,9 +198,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian grain exports drop 37% in July following Black Sea disruptions - The New Voice of Ukraine",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0pYVVN6UEhCWHdwZ2pYS2VZOE8xb3lvLWluNEs1bVUxblgtRzJzSUFreW42djh1QzVrWmhrT3BkQVc5aUVSRmtLZmdLN0JyQ1k5NzVVSXk3VkdiVEQ2ZjJqb0ZQV3g0WS04U1p0TU9yMUFVTGt1aW1SVU42LWYxcW9VU25HSzItbUROdFI1QkdTNzjSAYwBQVVfeXFMUGhvdHZpazhRdWU5TTY5YktZU1Foel9kVmZ4aDc1OXhla0pEQ3c4TjZTQzVUV21QbUZ3aXYyaUZ2Z0x6SlNNS1RSdFZPWFd5MkJsVnJpX1lPbm9xTDNST0p4ZFBUeHRHODJjTGpwdjlWU2NXV0pab3R0RTF0WlRoVzFMaTFDazBZTkdhUk4?oc=5",
-  "published": "Tue, 04 Aug 2026 10:10:00 GMT",
+  "headline": "Russian grain lobby warns Black Sea attacks threaten wheat exports, spark famine - T\u00fcrkiye Today",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3FEREkwZWx0aUxNX004UGRkQjFzdlg2Y0FfWmNKUXlfc0NDejNsWXhOUlFFR1JYRVB3Uml1TXBXZlI2NUVQOFdzcXFabG5yZHVZVVJ1dFc3a0N5Y1BXWFdsOWQyOFNNTzJHa0xFekF2cm5aUHBSZnlkMUI2RmxkVC1YaldJZFdaUjlfc2FXQ1RqeWlVNTl4dm1tdmtrMmdFMEctWDdCaE9tcW9QdTVxZWFRVzI4VC1xX2tZSUlyYw?oc=5",
+  "published": "Sat, 01 Aug 2026 15:32:55 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -176,9 +209,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian grain lobby warns Black Sea attacks threaten wheat exports, spark famine - T\u00fcrkiye Today",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3FEREkwZWx0aUxNX004UGRkQjFzdlg2Y0FfWmNKUXlfc0NDejNsWXhOUlFFR1JYRVB3Uml1TXBXZlI2NUVQOFdzcXFabG5yZHVZVVJ1dFc3a0N5Y1BXWFdsOWQyOFNNTzJHa0xFekF2cm5aUHBSZnlkMUI2RmxkVC1YaldJZFdaUjlfc2FXQ1RqeWlVNTl4dm1tdmtrMmdFMEctWDdCaE9tcW9QdTVxZWFRVzI4VC1xX2tZSUlyYw?oc=5",
-  "published": "Sat, 01 Aug 2026 15:32:55 GMT",
+  "headline": "Russian grain exports drop 37% in July following Black Sea disruptions - The New Voice of Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0pYVVN6UEhCWHdwZ2pYS2VZOE8xb3lvLWluNEs1bVUxblgtRzJzSUFreW42djh1QzVrWmhrT3BkQVc5aUVSRmtLZmdLN0JyQ1k5NzVVSXk3VkdiVEQ2ZjJqb0ZQV3g0WS04U1p0TU9yMUFVTGt1aW1SVU42LWYxcW9VU25HSzItbUROdFI1QkdTNzjSAYwBQVVfeXFMUGhvdHZpazhRdWU5TTY5YktZU1Foel9kVmZ4aDc1OXhla0pEQ3c4TjZTQzVUV21QbUZ3aXYyaUZ2Z0x6SlNNS1RSdFZPWFd5MkJsVnJpX1lPbm9xTDNST0p4ZFBUeHRHODJjTGpwdjlWU2NXV0pab3R0RTF0WlRoVzFMaTFDazBZTkdhUk4?oc=5",
+  "published": "Tue, 04 Aug 2026 10:10:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
