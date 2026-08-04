@@ -55,6 +55,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "US oil reserve strategy: A futile gamble amid Iran's Strait of Hormuz leverage - Tehran Times",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHk3MUJIVHM5ZmZtQ1AwNHJ4OWE4R1NiWEFyTmtrR2xTUUIxUnpqbXcteWNFZF9tZk5WY1p2amo3UjEyTk83QU5SbTJPdXRiVHFXcUxuMGc2eXhTNmRNZzZaZ3g1Q0xOdlBUNWhyOThZUnlhaWlRNWs2TWFRenM5SGd4c2dXQ242VDRHbWJDNEViVHpzLUtwYXlVMTZWZXNmLUpr?oc=5",
+  "published": "Tue, 04 Aug 2026 05:12:56 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - TradingView",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2NqaGlWcHM5enpWclQ4bnotcGo4X0xHcW9USjBJVjgybHdSemJlSmtCczVNLXU1U3ZtR0dqRVE5a0VIVndfOEhhQV9qbU5VekI4R2RFdEtQX1N4bUUzOS1IWGNreDhlLVpSLURMc1JON2RwcDNxc1RvbXNETnExNDV5SDhLSXc1UGdTdDBQU2xyZl9VWVJ5dGVieG54akR2MlNOOFNUTDZxY2pxTGtwekZ4OTlEbGdFY2NOcGZyeE1ud0E?oc=5",
   "published": "Thu, 30 Jul 2026 19:14:09 GMT",
@@ -88,39 +99,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ increases daily oil production, recommits to market stability amid Hormuz blockade - Peoples Gazette Nigeria",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS244X0d1VHlWWFpWRWJEdjR3dXdocjJLdm00azZCYkxURWRaRmZmNHlsOHo2UmdZbmFUbXBBbFN6a1JqNXN2Z3V5dUZOODYzRmgyMjZ4SWM2SV9nRVZwV1M0aHVNSGhGT1BUdHBpQmNTV19RMS01aHpld1puWnhBM1pZVjJLTUVkUnFYU3JzSlR3TmtnTGJhTDV2eEY2TmtaTGlKRGczMU1FcENnSFA0?oc=5",
-  "published": "Mon, 03 Aug 2026 08:40:13 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "How UAE's Adnoc is building a gas strategy beyond the Strait of Hormuz - thenationalnews.com",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3BzRkRfVDEzZWJxTjdnU0VvblEya2JpWE1rTUdyZTRyR3FVQnZsY2pKVlVFMXJPWnMwX1VCVENpOFg1b3NFTkxGOThRWXBGZ2NENVNvTG8tbmZBekRGTnVWT3pJaHZiX3htcVVxR1E4cU9maXVjQV9NcmQ3eHF6WUpqU1dQaFM4VkFJQWhmR3A4LV9uUmxHdXpaVy1RRC1UaG9Zc0l2UTViNk1aUWZCbk9nZk9MVmNpMWEtUkxZdElHRmlGb1Ztcw?oc=5",
-  "published": "Mon, 03 Aug 2026 03:33:44 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Strait of Hormuz disruption raises market volatility, weakens efforts to support crude oil market stability: OPEC - Peoples Gazette Nigeria",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2I3RWJqdmIwS0NkNzQwX2xaVV9lWnEyQVVzYU5wZjhOSFZiNUtobjN0bE01WGRkVXZHWFIxclB5RmRud19oWVBXdW1UcjlCTVZTeWVTTlk3OEw0OWI4VkZwTDFPWXA5T3hIb0VONWZ4NlhFNkp4Z0tCTzNxejQ0OXlzTVJ4ZEhBaDFNbWFXTm51WU9GODVYNTNyLXJFS1RJSnNpWGpVLUJIOHZPOEJfRWF0aFBPc3BxcEIzLWxlVDNhdGNLNXNDcVVTSjJhMms3?oc=5",
-  "published": "Sun, 02 Aug 2026 22:12:49 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
   "published": "Fri, 31 Jul 2026 18:34:09 GMT",
@@ -132,7 +110,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times",
+  "headline": "Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - themoscowtimes.com",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5",
   "published": "Mon, 03 Aug 2026 08:46:00 GMT",
   "rule_note": "",
@@ -176,9 +154,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea Grain Exports Face Structural Crisis: Ukraine Destroys Taman Terminal, Russia Warns - Tech Times",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMUY2WC1CSzE3ZjlSMk5WbnAzWHRHMl9pd3F5NUFrWWJHMk9mbTZvcHR1MnMzNGlhX3NvUk9POS1CTDJXdTJIOXpnNW53U0o1TnhyOFRrcFV2amRDUWJUbmJKQVJtREIwNE9paENaMFZzN2l0b0hfczhmci1DYXc5aUlJcjVRd1ZxLVF6eWFyYTN6ZTN1SVpJVUN6bW9uYkdqNUdqM0lIWnAtVVdKTC1aMTNlX3gwUUVzTW9SVEFZWGdpMUJFZmZRcWUxUXVlaVdGYnpIZE5UWGdCU0dsRmpZ?oc=5",
-  "published": "Fri, 31 Jul 2026 18:49:49 GMT",
+  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXJ3enctZUp5TFphMXQtbHRoMGkzUElzM3dqLVZQemdJc3JPVUVUWHlaUDNDcHJuTk5LcWc3QWMzaEhqc1JhVGhVRlcweWllYzZFUm16bEpkQzBYOU9TVmFhYmtSNjRQc2doZFQydkgyVE5pLUs2NUxTVGhBX0hjWFIwQkkzc0xOZGhITk0wa2c0NUQ2UW5MRGp4OHpYZ3ZHRFF3UUgwT1NHSll5UUE?oc=5",
+  "published": "Thu, 30 Jul 2026 10:41:30 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -187,9 +165,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXJ3enctZUp5TFphMXQtbHRoMGkzUElzM3dqLVZQemdJc3JPVUVUWHlaUDNDcHJuTk5LcWc3QWMzaEhqc1JhVGhVRlcweWllYzZFUm16bEpkQzBYOU9TVmFhYmtSNjRQc2doZFQydkgyVE5pLUs2NUxTVGhBX0hjWFIwQkkzc0xOZGhITk0wa2c0NUQ2UW5MRGp4OHpYZ3ZHRFF3UUgwT1NHSll5UUE?oc=5",
-  "published": "Thu, 30 Jul 2026 10:41:30 GMT",
+  "headline": "Black Sea Grain Exports Face Structural Crisis: Ukraine Destroys Taman Terminal, Russia Warns - Tech Times",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMUY2WC1CSzE3ZjlSMk5WbnAzWHRHMl9pd3F5NUFrWWJHMk9mbTZvcHR1MnMzNGlhX3NvUk9POS1CTDJXdTJIOXpnNW53U0o1TnhyOFRrcFV2amRDUWJUbmJKQVJtREIwNE9paENaMFZzN2l0b0hfczhmci1DYXc5aUlJcjVRd1ZxLVF6eWFyYTN6ZTN1SVpJVUN6bW9uYkdqNUdqM0lIWnAtVVdKTC1aMTNlX3gwUUVzTW9SVEFZWGdpMUJFZmZRcWUxUXVlaVdGYnpIZE5UWGdCU0dsRmpZ?oc=5",
+  "published": "Fri, 31 Jul 2026 18:49:49 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
