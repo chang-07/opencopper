@@ -27,7 +27,7 @@ _12 corroborating headline(s):_
 - [Mideast oil producers step up plans to bypass the Strait of Hormuz - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlFyUHBCdElCdDJDZ3cweXN4YlNmeXZ6YWZfOEdLSE5LUkxXQ2VIaUU0Nm5nbXhaOVBpZmJ3UWdKU09HRU1EdnpEbFZadDIwbVMxa1JvajFPRWRiaVRMaEpULWhKS0xuckZZN2tOYmdBeUdjak9fQW10WVNBWTRiTno3dXZXNXFmNy00SGg0bkNvXzNVNEJNdEtXd0IwSkpyMVdNN2tqZXBFVUnSAbABQVVfeXFMUEw0TE1IaDJ1S29LYjk1b3JYNmRjdkFBY1k1ZkpOVS1vX1B4RmcwalB3MGZnV256WkxOZTV3LWs0a0JsTFRyaldHMjNKVWdSZlZ3UmN6aFhiR0p6N3d4dmZPdXNpQk1JX3NxRkY4M2RPS2NYRjlaVUdEcE41Z1N1Y0R2Skxnd1pXUUdzU1pKM2EwS0dzR0Q4OWVmT2ptREF2T0JmNDN5elM3SFFLQ3BhTms?oc=5)
 - …and 9 more
 
-## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - oilprice.com
+## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com
 *Mon, 03 Aug 2026 08:30:00 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEJxV0FYQXJ4VjUxLVlrWDYxQ2JieVY0MTdEdjR1MWtFaklLSk9kX0dEa2JOWlBHbklMZTVocWVCbHh0LThxZ2Z0VEFXbGNPclN3SndpZlM4M3FNdF9LQ0FVRmlxMTUzWjFueG53a0Z4NnpmeXU5SFBROU53dmlJNHRGR0ZoTFRWcWlsemVSTUVPbGV0V202aE9QQkNHOHgzSnFCRklNVFg1LWNzbjI2TjhyTzhDcGduODBLZldoZ9IBxAFBVV95cUxPb1VMWi0xd21qazcyUXAxb3JBZWtGQnctNVJSM3B0LXBCWWdKM3E2aW5PYXFkU2Ntd1F0M1Q1N3puNWUxdXVhMVNlaVMtUXVhU1o0NTZCOG9nM1Q0NDZocnBqSkxnQWVGOWQyNTFWSVJhYnZYbVNHYmhzWWpOLU9LOGQzY04xb1dSREx5OGxrV2p0SEZNSjJWeVJXTGJxSXZONmM4eDkzeHRpT0M0UFBHamVPQlpNR0RaSVZ4SU5PQ3ozSjNM?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +8%
 
@@ -61,9 +61,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _8 corroborating headline(s):_
-- [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
+- [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - themoscowtimes.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
 - [Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam](https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5)
-- [Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5)
+- [Russian grain lobby warns Black Sea attacks threaten wheat exports, spark famine - turkiyetoday.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3FEREkwZWx0aUxNX004UGRkQjFzdlg2Y0FfWmNKUXlfc0NDejNsWXhOUlFFR1JYRVB3Uml1TXBXZlI2NUVQOFdzcXFabG5yZHVZVVJ1dFc3a0N5Y1BXWFdsOWQyOFNNTzJHa0xFekF2cm5aUHBSZnlkMUI2RmxkVC1YaldJZFdaUjlfc2FXQ1RqeWlVNTl4dm1tdmtrMmdFMEctWDdCaE9tcW9QdTVxZWFRVzI4VC1xX2tZSUlyYw?oc=5)
 - …and 5 more
 
 ---
