@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _12 corroborating headline(s):_
 - [Oil falls 5% after Trump calls off Iran strikes, says Hormuz deal agreed - Al-Monitor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVE5GLXBWM1FBZnNBQnhLVDR2dGt4RFVpcV9selFWeng0aFJSQWVoSWNZVVd2cVBHR1FRaElqUVpvakNoSzIzM2xWYURFTHF0aXp4VjlILVVnMjF5U01aQ3JORzM3YUpQNXpleHVvbl9wRmdneWlWWDFxZE9ueHV2SlI5X0dVdFlSUTRDV01seGo2Zi1zS3lNcExBUmV0RWgyNmpoRDZ3TDU0WnVBeHR5Ng?oc=5)
-- [Iraq Is Struggling To Get Its Oil Through The Hormuz Strait. It's Offering Millions In Discounts To Those Daring To Take It - International Business Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEowUldEQW9ROVExUE5ldkZjUVBxTmplRkFac25SZ1VwNk82d2cxNy0yczR2RUplR3hBTjh6Mzh0UUFxTExXalRPVnhSSndDNnVaanJweHhJV2VwX1ZQQURqZGdTSTBUMzhJUEdPVVo5NTJrdHUyTDVid0JhQW5GSzZhNVNqSXdyRVA3ekp4ZC03X1dFczZQSURsbG5vQ1Zadk1ibFR2VWoyNTRBOWI4aEhzRldYcTF6TTBr?oc=5)
 - [Mideast oil producers step up plans to bypass the Strait of Hormuz - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlFyUHBCdElCdDJDZ3cweXN4YlNmeXZ6YWZfOEdLSE5LUkxXQ2VIaUU0Nm5nbXhaOVBpZmJ3UWdKU09HRU1EdnpEbFZadDIwbVMxa1JvajFPRWRiaVRMaEpULWhKS0xuckZZN2tOYmdBeUdjak9fQW10WVNBWTRiTno3dXZXNXFmNy00SGg0bkNvXzNVNEJNdEtXd0IwSkpyMVdNN2tqZXBFVUnSAbABQVVfeXFMUEw0TE1IaDJ1S29LYjk1b3JYNmRjdkFBY1k1ZkpOVS1vX1B4RmcwalB3MGZnV256WkxOZTV3LWs0a0JsTFRyaldHMjNKVWdSZlZ3UmN6aFhiR0p6N3d4dmZPdXNpQk1JX3NxRkY4M2RPS2NYRjlaVUdEcE41Z1N1Y0R2Skxnd1pXUUdzU1pKM2EwS0dzR0Q4OWVmT2ptREF2T0JmNDN5elM3SFFLQ3BhTms?oc=5)
+- [Iraq Is Struggling To Get Its Oil Through The Hormuz Strait. It's Offering Millions In Discounts To Those Daring To Take It - International Business Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEowUldEQW9ROVExUE5ldkZjUVBxTmplRkFac25SZ1VwNk82d2cxNy0yczR2RUplR3hBTjh6Mzh0UUFxTExXalRPVnhSSndDNnVaanJweHhJV2VwX1ZQQURqZGdTSTBUMzhJUEdPVVo5NTJrdHUyTDVid0JhQW5GSzZhNVNqSXdyRVA3ekp4ZC03X1dFczZQSURsbG5vQ1Zadk1ibFR2VWoyNTRBOWI4aEhzRldYcTF6TTBr?oc=5)
 - …and 9 more
 
 ## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com
@@ -60,11 +60,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_8 corroborating headline(s):_
 - [Russian strikes halt Ukraine’s Black Sea grain route at harvest peak - TVP World](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5)
-- [Can Ukraine Replace Black Sea Grain Export Routes? - Agrolatam](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVIyb0lhd25JalV4Rm5JZVF5WUdpbzdVZnlwQUhfTWg1V3FqcWNtUWJBWlZoeGMzLXUxM0g1WVBrRU1DaTFtbDNOaTRfdkN0YUdhTkYxZGVNblJqLUd1SDY4WDJoSUhtMDZNWnpsWFZmTXd3RWdHT0ZLOEhWbFJQR3lqbGUyQQ?oc=5)
 - [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
-- …and 4 more
+- [Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam](https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5)
+- …and 5 more
 
 ---
 
