@@ -24,10 +24,10 @@ band is wide, the elasticities are doing the work, not the event.
 _12 corroborating headline(s):_
 - [Oil falls 5% after Trump calls off Iran strikes, says Hormuz deal agreed - Al-Monitor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVE5GLXBWM1FBZnNBQnhLVDR2dGt4RFVpcV9selFWeng0aFJSQWVoSWNZVVd2cVBHR1FRaElqUVpvakNoSzIzM2xWYURFTHF0aXp4VjlILVVnMjF5U01aQ3JORzM3YUpQNXpleHVvbl9wRmdneWlWWDFxZE9ueHV2SlI5X0dVdFlSUTRDV01seGo2Zi1zS3lNcExBUmV0RWgyNmpoRDZ3TDU0WnVBeHR5Ng?oc=5)
 - [Mideast oil producers step up plans to bypass the Strait of Hormuz - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlFyUHBCdElCdDJDZ3cweXN4YlNmeXZ6YWZfOEdLSE5LUkxXQ2VIaUU0Nm5nbXhaOVBpZmJ3UWdKU09HRU1EdnpEbFZadDIwbVMxa1JvajFPRWRiaVRMaEpULWhKS0xuckZZN2tOYmdBeUdjak9fQW10WVNBWTRiTno3dXZXNXFmNy00SGg0bkNvXzNVNEJNdEtXd0IwSkpyMVdNN2tqZXBFVUnSAbABQVVfeXFMUEw0TE1IaDJ1S29LYjk1b3JYNmRjdkFBY1k1ZkpOVS1vX1B4RmcwalB3MGZnV256WkxOZTV3LWs0a0JsTFRyaldHMjNKVWdSZlZ3UmN6aFhiR0p6N3d4dmZPdXNpQk1JX3NxRkY4M2RPS2NYRjlaVUdEcE41Z1N1Y0R2Skxnd1pXUUdzU1pKM2EwS0dzR0Q4OWVmT2ptREF2T0JmNDN5elM3SFFLQ3BhTms?oc=5)
-- [Iraq Exports Over 30 Million Barrels of Oil Through Hormuz in One Month - Kurdistan24](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdk1kTGtXVXRVdTdyMFF0OTZDamJ2N2I5SXF6Q1NweGttZzJ5Q1FldmVITlhqOWI2ckJxY3RFM0oybC1EV3ZvWU52MlY2RFJXeHlqU1hGRFEtYmQ1OFVVNGVJTFBGVGdteUw5MDU5U0N5X25zZi1HSEZHSHdBZ2JGLVZ0OExYY2FFUE1sdGV0SUx4SC0xc0FWdjZoaWhacDNFM25yNFk3V1owUmNsUlNIcTN0TU9BZw?oc=5)
+- [Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - es.tradingview.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2NqaGlWcHM5enpWclQ4bnotcGo4X0xHcW9USjBJVjgybHdSemJlSmtCczVNLXU1U3ZtR0dqRVE5a0VIVndfOEhhQV9qbU5VekI4R2RFdEtQX1N4bUUzOS1IWGNreDhlLVpSLURMc1JON2RwcDNxc1RvbXNETnExNDV5SDhLSXc1UGdTdDBQU2xyZl9VWVJ5dGVieG54akR2MlNOOFNUTDZxY2pxTGtwekZ4OTlEbGdFY2NOcGZyeE1ud0E?oc=5)
 - …and 9 more
 
-## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com
+## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - oilprice.com
 *Mon, 03 Aug 2026 08:30:00 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEJxV0FYQXJ4VjUxLVlrWDYxQ2JieVY0MTdEdjR1MWtFaklLSk9kX0dEa2JOWlBHbklMZTVocWVCbHh0LThxZ2Z0VEFXbGNPclN3SndpZlM4M3FNdF9LQ0FVRmlxMTUzWjFueG53a0Z4NnpmeXU5SFBROU53dmlJNHRGR0ZoTFRWcWlsemVSTUVPbGV0V202aE9QQkNHOHgzSnFCRklNVFg1LWNzbjI2TjhyTzhDcGduODBLZldoZ9IBxAFBVV95cUxPb1VMWi0xd21qazcyUXAxb3JBZWtGQnctNVJSM3B0LXBCWWdKM3E2aW5PYXFkU2Ntd1F0M1Q1N3puNWUxdXVhMVNlaVMtUXVhU1o0NTZCOG9nM1Q0NDZocnBqSkxnQWVGOWQyNTFWSVJhYnZYbVNHYmhzWWpOLU9LOGQzY04xb1dSREx5OGxrV2p0SEZNSjJWeVJXTGJxSXZONmM4eDkzeHRpT0M0UFBHamVPQlpNR0RaSVZ4SU5PQ3ozSjNM?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +8%
 
@@ -44,8 +44,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - Reuters
-*Tue, 04 Aug 2026 17:01:04 GMT* — [source](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1dzNlFyVzBvZVo3TTVibFVsY3RKbkdTUWpkQ0VCZmg0MmFudEdqYm5OMkRKWExKbTRLVWpsa1BqVDl2NkV4cXBNcDlZSHlTeWdHWFBoQWYwVnBhSWlQM2IwMktWRHB5aGFnSkQwektXaUZYemltQWRvZjFXOE5ydURnaTZoSS1maTZBNXBxYkF5UmRhWmFiOVczeHBUeFlpZVgyMFZrVEdHV0Q0WVZPWWJEUmRQeXd1WGlOM3FR?oc=5)
+## EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters
+*Fri, 31 Jul 2026 18:34:09 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -61,7 +61,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _7 corroborating headline(s):_
-- [Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam](https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5)
+- [Can Ukraine Replace Black Sea Grain Export Routes? - Agrolatam](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVIyb0lhd25JalV4Rm5JZVF5WUdpbzdVZnlwQUhfTWg1V3FqcWNtUWJBWlZoeGMzLXUxM0g1WVBrRU1DaTFtbDNOaTRfdkN0YUdhTkYxZGVNblJqLUd1SDY4WDJoSUhtMDZNWnpsWFZmTXd3RWdHT0ZLOEhWbFJQR3lqbGUyQQ?oc=5)
 - [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
 - [Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5)
 - …and 4 more
