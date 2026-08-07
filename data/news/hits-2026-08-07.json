@@ -1,6 +1,6 @@
 [
  {
-  "headline": "Kuwait discusses oil pipeline with Arab neighbors to bypass Strait of Hormuz: Minister - Middle East Monitor",
+  "headline": "Kuwait discusses oil pipeline with Arab neighbors to bypass Strait of Hormuz: Minister - middleeastmonitor.com",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFZ3T1cwbkdXUnQ5bTVOWkJjTGVhUHdvUW9Pd05MZkdua1dMZE5kX0hybTUyZUNZODBZLUpJRjVKS3dHdGFIZzFjQmJXY2EtZkRQS1J6ekFjWEhmRTBCaWhfc3RMWnB5R1FUQ0Q4SGZXeEFwbFVWSjF0VlhaajUweWlGVDRUem1rMGVtTzU5YTQ0YVB1MWp3V3dBODhDejZaWVo0ZHhLektqeWlvWFl0WHF2bWJta2lVMi15OGt0cTZxSW96Vjc2dtIBzgFBVV95cUxNemowOGt3ZkVEQmJHUjBJZURFY3hwc0dKTlp1bTNWZGFpVE5HSlVGSVlHcm1pbzA0d1lmR0IzallWeVRYRE1DMWFHOXZjYVBOekVQV0VLcF8xZjhVUjlna2o0VHIzd1RaMVBTY0RyWUJ3Tmh0R0U0bnNyOG1aS2N5cTdLbVJXQUZiRjhTUmxOeTVGQmhGTEotQURBaW5McHpRcm1wWUVJbHJqMjRNZkdQRlQ2RWwyY0NuU3hhRWZnUHpVQlVveDVraVVPcng3UQ?oc=5",
   "published": "Mon, 03 Aug 2026 18:29:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -165,6 +165,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "DRC bans export of copper and cobalt concentrates; China Molybdenum unaffected - ChemNet",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vZk0tMGxKLUZ6V2d6VzIwdHdFWmwxZEdISmtTLWtfWUZuc3g3cUF0Uzh0OVY0bkdxVWctMEtJa3dtTXRTT2lmazhicldVRWlT?oc=5",
+  "published": "Fri, 07 Aug 2026 05:40:52 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Congo Bans Copper and Cobalt Concentrate Exports as Copper Prices Spike - Startup Fortune",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdi15THd5SEEweWh6TkZSYkZJa0dUa0xFTFBvRTZJUlI4TmkxLUtCaW1tVllfY3JUWC1US25hZXhYNXU2am93UlJQcmR0c0ZEWkthR0xsMHpzMTFrRnFtcl9oVnFCMFFJdTF0RktqcVlJZzc1YjNZLWtNRDdyZHp0QVFrLUk0dGVZQ1J4RnB0WTlkejk1RTN4V1d6QjAzWUY3?oc=5",
   "published": "Thu, 06 Aug 2026 23:47:08 GMT",
@@ -198,17 +209,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo bans exports of copper, cobalt concentrates, official order says - Mining Weekly",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0JyNjNXQVMtTWRNcGtla09udTNRb1NMeXBETkF0Mm1ER01uWGpYSU9Yd0xhTzBGZFp6WHliQk1QU3VWcWtTSGhnTWlwMXA0elFPNkR5ZTltOVNfT1dyZ1pZYTE4d1U4TEdsTjBSQ1UzV3NFSGFPZzQxR3ZFMm93YktSV2g3cjFmYTM2X05HaGtVZFdOZDNmOE9MVFJVcWVHd1BWTERmeHpIZkVYaFVxYkRYQ0FpRU0?oc=5",
-  "published": "Thu, 06 Aug 2026 09:03:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
   "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
   "published": "Thu, 06 Aug 2026 21:39:52 GMT",
@@ -220,7 +220,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo bans copper and cobalt concentrate exports, order says - News24",
+  "headline": "Congo bans exports of copper, cobalt concentrates, official order says - Mining Weekly",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0JyNjNXQVMtTWRNcGtla09udTNRb1NMeXBETkF0Mm1ER01uWGpYSU9Yd0xhTzBGZFp6WHliQk1QU3VWcWtTSGhnTWlwMXA0elFPNkR5ZTltOVNfT1dyZ1pZYTE4d1U4TEdsTjBSQ1UzV3NFSGFPZzQxR3ZFMm93YktSV2g3cjFmYTM2X05HaGtVZFdOZDNmOE9MVFJVcWVHd1BWTERmeHpIZkVYaFVxYkRYQ0FpRU0?oc=5",
+  "published": "Thu, 06 Aug 2026 09:03:00 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo bans copper and cobalt concentrate exports, order says - news24.com",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLXV0VXEzczJPYUlpLTdod3pISEkxMFFrWGZyT3RfdUxPa0dnal9HRzJhV2poSXFfNlh3X2sxTms2OVpnWEJBc3kzWDJjWEdTRkljZHJiX2NZeV8wMjd0OG5tMU4xRnpqaGM0QXBNemZvUjdEbXlLZW02TmF0OC10ZEUwRF84WWFuVlBxd2dPbndYa2lmcVEwM1VmT3VCQml0TXRBbkFRbXg4QWRlQlZRWlZzRnFna2pMOTF2bnZ3UWtBdUE?oc=5",
   "published": "Thu, 06 Aug 2026 15:49:57 GMT",
   "rule_note": "",
@@ -234,17 +245,6 @@
   "headline": "DR Congo Bans Exports of Copper and Cobalt Concentrates Citing Official Order - Sahi",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHJiUC01RHhfUThtTTY5V2xIRWI5SHFERDBnQU1xQk0tdFFHTElpWXBDQ3phUnZBRXZCQVNJckZiMUxNTjJMaFJIbW1uRHBHTnRILUJFSm1MVmRkQ1RQNnlOQS1KTTdYYURYdnFaR3VRUDREMjR4em9EeU40dm04VlJNaXdkWElUSG9NQTAwZmNYUkwtYk1LbjJQNWgxeVJLcUJjbkliTHV5Um5fUl84VHZtajlHTm8?oc=5",
   "published": "Thu, 06 Aug 2026 09:25:57 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC bans copper and cobalt concentrate exports to boost local processing - The Eastleigh Voice",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMXppaERsT3dyNkhpdFNNZnBGQlRGNzMwNlpXV0U0SFY2YkRaNndiTGhyLW5pdFY0ODJmMnExdEdCN2RhUGROVzQ5ZXFDR1hoMEs2Y29sNlY1VzNadVNUUTRzVll0SnZpbkx5cUs2LXhQWFZUVDZ6VE56V1plQUVJZ2tsLXJXTld6eEk1TlVnaGxQOWVsYmRVcVhCRXFiVzBfbG1KNmxNcldYdzZWUFFkOEZsbjhTNGdZ?oc=5",
-  "published": "Thu, 06 Aug 2026 18:18:54 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",

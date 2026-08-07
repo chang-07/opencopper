@@ -4,7 +4,7 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Kuwait discusses oil pipeline with Arab neighbors to bypass Strait of Hormuz: Minister - Middle East Monitor
+## Kuwait discusses oil pipeline with Arab neighbors to bypass Strait of Hormuz: Minister - middleeastmonitor.com
 *Mon, 03 Aug 2026 18:29:00 GMT* — [source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFZ3T1cwbkdXUnQ5bTVOWkJjTGVhUHdvUW9Pd05MZkdua1dMZE5kX0hybTUyZUNZODBZLUpJRjVKS3dHdGFIZzFjQmJXY2EtZkRQS1J6ekFjWEhmRTBCaWhfc3RMWnB5R1FUQ0Q4SGZXeEFwbFVWSjF0VlhaajUweWlGVDRUem1rMGVtTzU5YTQ0YVB1MWp3V3dBODhDejZaWVo0ZHhLektqeWlvWFl0WHF2bWJta2lVMi15OGt0cTZxSW96Vjc2dtIBzgFBVV95cUxNemowOGt3ZkVEQmJHUjBJZURFY3hwc0dKTlp1bTNWZGFpVE5HSlVGSVlHcm1pbzA0d1lmR0IzallWeVRYRE1DMWFHOXZjYVBOekVQV0VLcF8xZjhVUjlna2o0VHIzd1RaMVBTY0RyWUJ3Tmh0R0U0bnNyOG1aS2N5cTdLbVJXQUZiRjhTUmxOeTVGQmhGTEotQURBaW5McHpRcm1wWUVJbHJqMjRNZkdQRlQ2RWwyY0NuU3hhRWZnUHpVQlVveDVraVVPcng3UQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
@@ -61,9 +61,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _8 corroborating headline(s):_
+- [DRC bans export of copper and cobalt concentrates; China Molybdenum unaffected - ChemNet](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vZk0tMGxKLUZ6V2d6VzIwdHdFWmwxZEdISmtTLWtfWUZuc3g3cUF0Uzh0OVY0bkdxVWctMEtJa3dtTXRTT2lmazhicldVRWlT?oc=5)
 - [Congo Bans Copper and Cobalt Concentrate Exports as Copper Prices Spike - Startup Fortune](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdi15THd5SEEweWh6TkZSYkZJa0dUa0xFTFBvRTZJUlI4TmkxLUtCaW1tVllfY3JUWC1US25hZXhYNXU2am93UlJQcmR0c0ZEWkthR0xsMHpzMTFrRnFtcl9oVnFCMFFJdTF0RktqcVlJZzc1YjNZLWtNRDdyZHp0QVFrLUk0dGVZQ1J4RnB0WTlkejk1RTN4V1d6QjAzWUY3?oc=5)
 - [Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5)
-- [Ivanhoe Mines Provides Clarification to Reuters' Article Announcing the Ban of Copper and Cobalt Concentrate Exports from the DRC - Investing News Network](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajI4NFJsRThscG91dTNaeV9falpUYmVpUUVraVl5a3NTcFhBcjFyRDRTYUdLNDViQVRrMU5STjljdnphY1hSZ05WcUQ4d1NxYjAydnFCZmY4Q3JqTno0WXBITUJHdFRra01rU0hHZWFMS19ub1N3UER6ZVlSRkJJMlNjUjhaSTZGMmxla3lPNGhGcWd5eFV3MnBkUHlLLXFZMDdkOE82ajhlOEtoSjlmRm1FZGVfRGRVY2tVWWpKSmczQmJvSWszS3F1NWRWaTNQX1pUa0ltSVc2SmRscU9YM1B2dHB1bUZHdjJZ?oc=5)
 - …and 5 more
 
 ## EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters
