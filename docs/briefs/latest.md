@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _12 corroborating headline(s):_
 - [Crude Oil Prices Slump on Hopes of a Deal to Reopen Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlVjVDB4UFJQMC1YTmRXb2s5dG1TZDZwbE5FQUc4UUpvUV9UTEZwa1lNMHVQdFIwNURFcWRaRGdEWVlLZ3pnNEQ2NDhzQ2xjdUhFaHpUVVY5RkN1QmF6Zm1ydEhuQ19uUlRKSTE4dF9QQU9wLXRIX2NyNjE0MzFIS1BtdUF5Nmh4bDZ1WWo1NlFMQklWVGlLM1VrdjhqX2hrRDN3VGhZS2pXVkRnX0Z6Z2hB?oc=5)
-- [Oil falls 5% after Trump calls off Iran strikes, says Hormuz deal agreed - Al-Monitor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVE5GLXBWM1FBZnNBQnhLVDR2dGt4RFVpcV9selFWeng0aFJSQWVoSWNZVVd2cVBHR1FRaElqUVpvakNoSzIzM2xWYURFTHF0aXp4VjlILVVnMjF5U01aQ3JORzM3YUpQNXpleHVvbl9wRmdneWlWWDFxZE9ueHV2SlI5X0dVdFlSUTRDV01seGo2Zi1zS3lNcExBUmV0RWgyNmpoRDZ3TDU0WnVBeHR5Ng?oc=5)
 - [Israel, Gulf states pursue secret energy corridor to bypass Hormuz - www.israelhayom.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUhWTlNZRzVzeHdSLWtGenVscUx2SHJSVF95NXNfOEQ4YWhNVkE2SHNnZmdUZTZYc0VYVG1oci01QXB6ODF6RlMyTFM4RE52Z0tGdl8zYmtNZFpzUkdPalpoNmhaUnNwNExCa0dvWmc2eXpsZEh0TGd5djBuZUpYNnpjMnZyTnNYOHp1cU9KOFp3c3pRdkNFMDBOakZPalUyREZxUGxkVno?oc=5)
+- [Oil falls 5% after Trump calls off Iran strikes, says Hormuz deal agreed - Al-Monitor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVE5GLXBWM1FBZnNBQnhLVDR2dGt4RFVpcV9selFWeng0aFJSQWVoSWNZVVd2cVBHR1FRaElqUVpvakNoSzIzM2xWYURFTHF0aXp4VjlILVVnMjF5U01aQ3JORzM3YUpQNXpleHVvbl9wRmdneWlWWDFxZE9ueHV2SlI5X0dVdFlSUTRDV01seGo2Zi1zS3lNcExBUmV0RWgyNmpoRDZ3TDU0WnVBeHR5Ng?oc=5)
 - …and 9 more
 
 ## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com
@@ -60,11 +60,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_7 corroborating headline(s):_
+- [Congo Bans Copper and Cobalt Concentrate Exports as Copper Prices Spike - Startup Fortune](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdi15THd5SEEweWh6TkZSYkZJa0dUa0xFTFBvRTZJUlI4TmkxLUtCaW1tVllfY3JUWC1US25hZXhYNXU2am93UlJQcmR0c0ZEWkthR0xsMHpzMTFrRnFtcl9oVnFCMFFJdTF0RktqcVlJZzc1YjNZLWtNRDdyZHp0QVFrLUk0dGVZQ1J4RnB0WTlkejk1RTN4V1d6QjAzWUY3?oc=5)
 - [Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5)
-- [Congo bans exports of copper, cobalt concentrates, official order says - Mining Weekly](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0JyNjNXQVMtTWRNcGtla09udTNRb1NMeXBETkF0Mm1ER01uWGpYSU9Yd0xhTzBGZFp6WHliQk1QU3VWcWtTSGhnTWlwMXA0elFPNkR5ZTltOVNfT1dyZ1pZYTE4d1U4TEdsTjBSQ1UzV3NFSGFPZzQxR3ZFMm93YktSV2g3cjFmYTM2X05HaGtVZFdOZDNmOE9MVFJVcWVHd1BWTERmeHpIZkVYaFVxYkRYQ0FpRU0?oc=5)
 - [DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5)
-- …and 3 more
+- …and 4 more
 
 ## EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters
 *Fri, 31 Jul 2026 18:34:09 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
@@ -84,7 +84,7 @@ band is wide, the elasticities are doing the work, not the event.
 
 _5 corroborating headline(s):_
 - [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
-- [Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam](https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5)
+- [Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - agrolatam.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5)
 - [Russian strikes halt Ukraine’s Black Sea grain route at harvest peak - TVP World](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5)
 - …and 2 more
 
