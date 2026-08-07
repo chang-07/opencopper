@@ -11,7 +11,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Slump on Hopes of a Deal to Reopen Strait of Hormuz - Barchart.com",
+  "headline": "Crude Oil Prices Slump on Hopes of a Deal to Reopen Strait of Hormuz - barchart.com",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlVjVDB4UFJQMC1YTmRXb2s5dG1TZDZwbE5FQUc4UUpvUV9UTEZwa1lNMHVQdFIwNURFcWRaRGdEWVlLZ3pnNEQ2NDhzQ2xjdUhFaHpUVVY5RkN1QmF6Zm1ydEhuQ19uUlRKSTE4dF9QQU9wLXRIX2NyNjE0MzFIS1BtdUF5Nmh4bDZ1WWo1NlFMQklWVGlLM1VrdjhqX2hrRDN3VGhZS2pXVkRnX0Z6Z2hB?oc=5",
   "published": "Tue, 04 Aug 2026 15:35:06 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -77,7 +77,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices - Barchart.com",
+  "headline": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices - barchart.com",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGM0aVBmTVNJRWY0Z2RDSnZCS3lsTkpKbHRNME51dHBqMXBSekdFOS1Sd3VvcEl1bVM4VkVLcFJuYmdGRFhtdG51VWllUHh3MlltZW1LNS02eW1GdG1tVTItZEdLTzdGbW1QeDZoRFI0UHlrVGY4bjh0TnhISkNpMHpKOXhYdWdfZVJ1LUdaRVhIM0VjcmRSOWh1bHFwZFBRX3l1eHFFeEtRYUx5SzJGZw?oc=5",
   "published": "Wed, 05 Aug 2026 19:16:55 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -110,7 +110,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Tumble as Talks Resume to Reopen Strait of Hormuz - Barchart.com",
+  "headline": "Crude Oil Prices Tumble as Talks Resume to Reopen Strait of Hormuz - barchart.com",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1c0VmxuWVNBR2l0am9jczBUV1luX0stbGxfZFhzdkRqMGJpNU9MT2FPeXN3cHRCcFVJdEpqX25RcUJSb2tTNy1SMXpmaENzM0tQTHR1NjdRYkRZSy1ZUXpERHlCZnhtQkdQOFNnY2pPNG9OU3lXdVJvVHB0TTlwekktUGFKbUlKYklpYVMwTXp1WHAtV0kxbHoyWmxGUW1oWTg3NmRnc183LWxKSVNV?oc=5",
   "published": "Mon, 03 Aug 2026 15:45:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -165,20 +165,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC bans export of copper and cobalt concentrates; China Molybdenum unaffected - news.chemnet.com",
+  "headline": "DRC bans export of copper and cobalt concentrates; China Molybdenum unaffected - ChemNet",
   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vZk0tMGxKLUZ6V2d6VzIwdHdFWmwxZEdISmtTLWtfWUZuc3g3cUF0Uzh0OVY0bkdxVWctMEtJa3dtTXRTT2lmazhicldVRWlT?oc=5",
   "published": "Fri, 07 Aug 2026 05:40:52 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Ivanhoe Mines Provides Clarification to Reuters' Article Announcing the Ban of Copper and Cobalt Concentrate Exports from the DRC - Investing News Network",
-  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajI4NFJsRThscG91dTNaeV9falpUYmVpUUVraVl5a3NTcFhBcjFyRDRTYUdLNDViQVRrMU5STjljdnphY1hSZ05WcUQ4d1NxYjAydnFCZmY4Q3JqTno0WXBITUJHdFRra01rU0hHZWFMS19ub1N3UER6ZVlSRkJJMlNjUjhaSTZGMmxla3lPNGhGcWd5eFV3MnBkUHlLLXFZMDdkOE82ajhlOEtoSjlmRm1FZGVfRGRVY2tVWWpKSmczQmJvSWszS3F1NWRWaTNQX1pUa0ltSVc2SmRscU9YM1B2dHB1bUZHdjJZ?oc=5",
-  "published": "Thu, 06 Aug 2026 19:54:46 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -198,7 +187,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo bans exports of copper, cobalt concentrates, official order says - Mining Weekly",
+  "headline": "Ivanhoe Mines Provides Clarification to Reuters' Article Announcing the Ban of Copper and Cobalt Concentrate Exports from the DRC - Investing News Network",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajI4NFJsRThscG91dTNaeV9falpUYmVpUUVraVl5a3NTcFhBcjFyRDRTYUdLNDViQVRrMU5STjljdnphY1hSZ05WcUQ4d1NxYjAydnFCZmY4Q3JqTno0WXBITUJHdFRra01rU0hHZWFMS19ub1N3UER6ZVlSRkJJMlNjUjhaSTZGMmxla3lPNGhGcWd5eFV3MnBkUHlLLXFZMDdkOE82ajhlOEtoSjlmRm1FZGVfRGRVY2tVWWpKSmczQmJvSWszS3F1NWRWaTNQX1pUa0ltSVc2SmRscU9YM1B2dHB1bUZHdjJZ?oc=5",
+  "published": "Thu, 06 Aug 2026 19:54:46 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo bans exports of copper, cobalt concentrates, official order says - miningweekly.com",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0JyNjNXQVMtTWRNcGtla09udTNRb1NMeXBETkF0Mm1ER01uWGpYSU9Yd0xhTzBGZFp6WHliQk1QU3VWcWtTSGhnTWlwMXA0elFPNkR5ZTltOVNfT1dyZ1pZYTE4d1U4TEdsTjBSQ1UzV3NFSGFPZzQxR3ZFMm93YktSV2g3cjFmYTM2X05HaGtVZFdOZDNmOE9MVFJVcWVHd1BWTERmeHpIZkVYaFVxYkRYQ0FpRU0?oc=5",
   "published": "Thu, 06 Aug 2026 09:03:00 GMT",
   "rule_note": "",
