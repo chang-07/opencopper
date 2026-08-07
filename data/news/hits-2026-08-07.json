@@ -66,17 +66,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Why reopening the Strait of Hormuz will no longer solve the global energy crisis - Latest news from Azerbaijan",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUtWRm5IM2dEcXNBUHpuYkdsQTV6bHJxc09mQklGQXdnc3JweUFSc04wWmlNZ0xTVFRCYjdWcGRuQnB4bUczV01LazNTVXRxLVVsbHQyOHZyRlJwVWZXQjVjZWcwVE1TMmg1dmFkRm9uWTNvLWh5YkZtcUoxX3FCUU9aM2NmenZYVmpOWFVRTWVqMkN2SzkyaXRCTHZlTHgxQS1R?oc=5",
-  "published": "Mon, 03 Aug 2026 08:52:57 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - TradingView",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2NqaGlWcHM5enpWclQ4bnotcGo4X0xHcW9USjBJVjgybHdSemJlSmtCczVNLXU1U3ZtR0dqRVE5a0VIVndfOEhhQV9qbU5VekI4R2RFdEtQX1N4bUUzOS1IWGNreDhlLVpSLURMc1JON2RwcDNxc1RvbXNETnExNDV5SDhLSXc1UGdTdDBQU2xyZl9VWVJ5dGVieG54akR2MlNOOFNUTDZxY2pxTGtwekZ4OTlEbGdFY2NOcGZyeE1ud0E?oc=5",
   "published": "Thu, 30 Jul 2026 19:14:09 GMT",
@@ -187,9 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5",
-  "published": "Thu, 06 Aug 2026 13:39:58 GMT",
+  "headline": "Ivanhoe Mines Provides Clarification to Reuters' Article Announcing the Ban of Copper and Cobalt Concentrate Exports from the DRC - Investing News Network",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajI4NFJsRThscG91dTNaeV9falpUYmVpUUVraVl5a3NTcFhBcjFyRDRTYUdLNDViQVRrMU5STjljdnphY1hSZ05WcUQ4d1NxYjAydnFCZmY4Q3JqTno0WXBITUJHdFRra01rU0hHZWFMS19ub1N3UER6ZVlSRkJJMlNjUjhaSTZGMmxla3lPNGhGcWd5eFV3MnBkUHlLLXFZMDdkOE82ajhlOEtoSjlmRm1FZGVfRGRVY2tVWWpKSmczQmJvSWszS3F1NWRWaTNQX1pUa0ltSVc2SmRscU9YM1B2dHB1bUZHdjJZ?oc=5",
+  "published": "Thu, 06 Aug 2026 19:54:46 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -198,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ivanhoe Mines Provides Clarification to Reuters' Article Announcing the Ban of Copper and Cobalt Concentrate Exports from the DRC - Investing News Network",
-  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajI4NFJsRThscG91dTNaeV9falpUYmVpUUVraVl5a3NTcFhBcjFyRDRTYUdLNDViQVRrMU5STjljdnphY1hSZ05WcUQ4d1NxYjAydnFCZmY4Q3JqTno0WXBITUJHdFRra01rU0hHZWFMS19ub1N3UER6ZVlSRkJJMlNjUjhaSTZGMmxla3lPNGhGcWd5eFV3MnBkUHlLLXFZMDdkOE82ajhlOEtoSjlmRm1FZGVfRGRVY2tVWWpKSmczQmJvSWszS3F1NWRWaTNQX1pUa0ltSVc2SmRscU9YM1B2dHB1bUZHdjJZ?oc=5",
-  "published": "Thu, 06 Aug 2026 19:54:46 GMT",
+  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5",
+  "published": "Thu, 06 Aug 2026 13:39:58 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -239,6 +228,17 @@
   "country": "Congo (Kinshasa)",
   "severity": 0.4,
   "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Black Sea strikes by Russia, Ukraine disrupt global grain shipments - trtworld.com",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5",
+  "published": "Fri, 07 Aug 2026 11:07:04 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  },
  {
