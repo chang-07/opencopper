@@ -143,7 +143,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - energynow.ca",
+  "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5",
   "published": "Mon, 03 Aug 2026 17:34:08 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -187,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
-  "published": "Thu, 06 Aug 2026 21:33:45 GMT",
+  "headline": "Ivanhoe Mines Provides Clarification to Reuters' Article Announcing the Ban of Copper and Cobalt Concentrate Exports from the DRC - Investing News Network",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajI4NFJsRThscG91dTNaeV9falpUYmVpUUVraVl5a3NTcFhBcjFyRDRTYUdLNDViQVRrMU5STjljdnphY1hSZ05WcUQ4d1NxYjAydnFCZmY4Q3JqTno0WXBITUJHdFRra01rU0hHZWFMS19ub1N3UER6ZVlSRkJJMlNjUjhaSTZGMmxla3lPNGhGcWd5eFV3MnBkUHlLLXFZMDdkOE82ajhlOEtoSjlmRm1FZGVfRGRVY2tVWWpKSmczQmJvSWszS3F1NWRWaTNQX1pUa0ltSVc2SmRscU9YM1B2dHB1bUZHdjJZ?oc=5",
+  "published": "Thu, 06 Aug 2026 19:54:46 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -209,7 +209,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo bans copper and cobalt concentrate exports, order says - news24.com",
+  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
+  "published": "Thu, 06 Aug 2026 21:39:52 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo bans copper and cobalt concentrate exports, order says - News24",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLXV0VXEzczJPYUlpLTdod3pISEkxMFFrWGZyT3RfdUxPa0dnal9HRzJhV2poSXFfNlh3X2sxTms2OVpnWEJBc3kzWDJjWEdTRkljZHJiX2NZeV8wMjd0OG5tMU4xRnpqaGM0QXBNemZvUjdEbXlLZW02TmF0OC10ZEUwRF84WWFuVlBxd2dPbndYa2lmcVEwM1VmT3VCQml0TXRBbkFRbXg4QWRlQlZRWlZzRnFna2pMOTF2bnZ3UWtBdUE?oc=5",
   "published": "Thu, 06 Aug 2026 15:49:57 GMT",
   "rule_note": "",
@@ -264,7 +275,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - agrolatam.com",
+  "headline": "Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5",
   "published": "Tue, 04 Aug 2026 16:38:53 GMT",
   "rule_note": "",
