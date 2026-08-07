@@ -60,13 +60,13 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_6 corroborating headline(s):_
 - [Congo Bans Copper and Cobalt Concentrate Exports as Copper Prices Spike - Startup Fortune](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdi15THd5SEEweWh6TkZSYkZJa0dUa0xFTFBvRTZJUlI4TmkxLUtCaW1tVllfY3JUWC1US25hZXhYNXU2am93UlJQcmR0c0ZEWkthR0xsMHpzMTFrRnFtcl9oVnFCMFFJdTF0RktqcVlJZzc1YjNZLWtNRDdyZHp0QVFrLUk0dGVZQ1J4RnB0WTlkejk1RTN4V1d6QjAzWUY3?oc=5)
-- [DRC bans export of copper and cobalt concentrates; China Molybdenum unaffected - ChemNet](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vZk0tMGxKLUZ6V2d6VzIwdHdFWmwxZEdISmtTLWtfWUZuc3g3cUF0Uzh0OVY0bkdxVWctMEtJa3dtTXRTT2lmazhicldVRWlT?oc=5)
+- [DRC bans export of copper and cobalt concentrates; China Molybdenum unaffected - news.chemnet.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vZk0tMGxKLUZ6V2d6VzIwdHdFWmwxZEdISmtTLWtfWUZuc3g3cUF0Uzh0OVY0bkdxVWctMEtJa3dtTXRTT2lmazhicldVRWlT?oc=5)
 - [Ivanhoe Mines Provides Clarification to Reuters' Article Announcing the Ban of Copper and Cobalt Concentrate Exports from the DRC - Investing News Network](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajI4NFJsRThscG91dTNaeV9falpUYmVpUUVraVl5a3NTcFhBcjFyRDRTYUdLNDViQVRrMU5STjljdnphY1hSZ05WcUQ4d1NxYjAydnFCZmY4Q3JqTno0WXBITUJHdFRra01rU0hHZWFMS19ub1N3UER6ZVlSRkJJMlNjUjhaSTZGMmxla3lPNGhGcWd5eFV3MnBkUHlLLXFZMDdkOE82ajhlOEtoSjlmRm1FZGVfRGRVY2tVWWpKSmczQmJvSWszS3F1NWRWaTNQX1pUa0ltSVc2SmRscU9YM1B2dHB1bUZHdjJZ?oc=5)
-- …and 4 more
+- …and 3 more
 
-## Black Sea strikes by Russia, Ukraine disrupt global grain shipments - trtworld.com
+## Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World
 *Fri, 07 Aug 2026 11:07:04 GMT* — [source](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
