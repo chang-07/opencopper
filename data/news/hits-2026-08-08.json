@@ -11,7 +11,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - International Institute for Sustainable Development",
+  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - iisd.org",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5",
   "published": "Thu, 06 Aug 2026 11:48:58 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -33,7 +33,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Israel, Gulf states pursue secret energy corridor to bypass Hormuz - www.israelhayom.com",
+  "headline": "Israel, Gulf states pursue secret energy corridor to bypass Hormuz - israelhayom.com",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUhWTlNZRzVzeHdSLWtGenVscUx2SHJSVF95NXNfOEQ4YWhNVkE2SHNnZmdUZTZYc0VYVG1oci01QXB6ODF6RlMyTFM4RE52Z0tGdl8zYmtNZFpzUkdPalpoNmhaUnNwNExCa0dvWmc2eXpsZEh0TGd5djBuZUpYNnpjMnZyTnNYOHp1cU9KOFp3c3pRdkNFMDBOakZPalUyREZxUGxkVno?oc=5",
   "published": "Wed, 05 Aug 2026 19:33:35 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -55,9 +55,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - Euronews",
+  "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - Euronews.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlRjUk11N00zbWdRYUhkNGZVYzZKSzJ0eWJEMTUwa1VBTUNZdDR5MDh0clYwb1pEVElmcVBHSXhlYlJhOGI0RUdWM2R4ZDFlUmt6bHFaamdrUFdFTTBESWFNSXhGbW1jQnpiQVNJN1hTWTZpdGx1OVU1X3hoZmtGclBMY1FzWUMtVGczaHRmRGhCczczR3YtUGZNUGFUN3ZKcWRweENDMnJ6QzRDeTVTMzRuXzg?oc=5",
   "published": "Wed, 05 Aug 2026 11:38:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Iraq's oil exports dramatically plunge amid Strait of Hormuz closure - The Peninsula Qatar",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmFZdl9tVWtrQkRkOHZ3N2FkQ2U5d2RESTA4TUJFM2NKdTEyRmRxRmNDZTZrQWRpUjhzRFRZWDVDa2VhZDdvNENWaFY4VG1SdV94Q1ZBS2N5NG0wNnlaQTUwRlVkQ0M5eFpkZFc3VlpRV3hmeWMxb2VWT0VCcmNCSnQ1VXZNdkxETUdxeWFRSkhqVTZjT0VzSDk3WlNhNzNVbDBRdUlpTUU4eUFITDFRa2I3bjd6QlE?oc=5",
+  "published": "Sat, 08 Aug 2026 18:20:29 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -165,9 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC Export Ban on Copper and Cobalt Concentrates Explained 2026 - Discovery Alert",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzZpRVlUcFdpTm40bU5MTXRKcjJpaVhYM29FX0tfZzdKSTBRX25JMkNhU0g2TGJuOWNBdWt6dll0TmpjeDNLNHRqT3d6Xy1talVyTGZrSlIyR0JucEVkaHl4Vm9UdmdvQ21rQk5nNWQ0X0tTejg0UW11UG0zQk1kcVowRzJreU5acVVtWg?oc=5",
-  "published": "Sat, 08 Aug 2026 05:57:46 GMT",
+  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
+  "published": "Thu, 06 Aug 2026 21:39:52 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -176,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
-  "published": "Thu, 06 Aug 2026 21:39:52 GMT",
+  "headline": "DRC Export Ban on Copper and Cobalt Concentrates Explained 2026 - Discovery Alert",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzZpRVlUcFdpTm40bU5MTXRKcjJpaVhYM29FX0tfZzdKSTBRX25JMkNhU0g2TGJuOWNBdWt6dll0TmpjeDNLNHRqT3d6Xy1talVyTGZrSlIyR0JucEVkaHl4Vm9UdmdvQ21rQk5nNWQ0X0tTejg0UW11UG0zQk1kcVowRzJreU5acVVtWg?oc=5",
+  "published": "Sat, 08 Aug 2026 05:57:46 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -242,17 +253,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
-  "published": "Fri, 31 Jul 2026 18:34:09 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World",
   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5",
   "published": "Fri, 07 Aug 2026 11:07:04 GMT",
@@ -264,9 +264,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - AOL.com",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTEwxdllWcEppazhGSzBYaDhTUWlKT1NYWXlqcXExVXNTUC1Ba205UEtSV0ktbHdIdXl3clBBMkU0cFdOekFMdV8zT2VfNU1hRlhhSmFkY2dFSDlLQmxIbDhZMUFoXzczSUYybWRTd2QtWWNZQVpRVVdaeFh4MmY4aTc0cHY4SDZFVGRPU2s2SnZXVDQ4TjNZb3I0bnVsQmotaWpNTHUzdmdaMElCb0Jj?oc=5",
-  "published": "Fri, 07 Aug 2026 21:07:19 GMT",
+  "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
+  "published": "Fri, 31 Jul 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
