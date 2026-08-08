@@ -1,5 +1,16 @@
 [
  {
+  "headline": "US expects Iran to ensure safe oil flow through Strait of Hormuz: Vance - Anadolu Ajans\u0131",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFzdmlZcUZoZmd0SWdJM29tVW9vZnZsdmljNnRKT0c2Yi1ZSFF4RDRyWnVVZGNpbGVNLUdQR096OVVwa2R0Z1o4c1ZpanN5aHNSMG9kNWpGRWpXSlY3Ymc2cmQzdGRVT2ZLUFgtNUZpamRrMmJySm1Wd1NhLXlwNXZEM1FmZXNIM0hPVDUyalVGRXZkanlULWNURVFHRWk2c3dZNjhReTVlOHNRenpQX1RR?oc=5",
+  "published": "Sat, 08 Aug 2026 20:01:25 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
   "published": "Fri, 07 Aug 2026 16:04:46 GMT",
@@ -11,7 +22,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - iisd.org",
+  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - International Institute for Sustainable Development",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5",
   "published": "Thu, 06 Aug 2026 11:48:58 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -44,17 +55,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil falls 5% after Trump calls off Iran strikes, says Hormuz deal agreed - Al-Monitor",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVE5GLXBWM1FBZnNBQnhLVDR2dGt4RFVpcV9selFWeng0aFJSQWVoSWNZVVd2cVBHR1FRaElqUVpvakNoSzIzM2xWYURFTHF0aXp4VjlILVVnMjF5U01aQ3JORzM3YUpQNXpleHVvbl9wRmdneWlWWDFxZE9ueHV2SlI5X0dVdFlSUTRDV01seGo2Zi1zS3lNcExBUmV0RWgyNmpoRDZ3TDU0WnVBeHR5Ng?oc=5",
-  "published": "Mon, 03 Aug 2026 14:11:06 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - Euronews.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlRjUk11N00zbWdRYUhkNGZVYzZKSzJ0eWJEMTUwa1VBTUNZdDR5MDh0clYwb1pEVElmcVBHSXhlYlJhOGI0RUdWM2R4ZDFlUmt6bHFaamdrUFdFTTBESWFNSXhGbW1jQnpiQVNJN1hTWTZpdGx1OVU1X3hoZmtGclBMY1FzWUMtVGczaHRmRGhCczczR3YtUGZNUGFUN3ZKcWRweENDMnJ6QzRDeTVTMzRuXzg?oc=5",
   "published": "Wed, 05 Aug 2026 11:38:00 GMT",
@@ -66,9 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq's oil exports dramatically plunge amid Strait of Hormuz closure - The Peninsula Qatar",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmFZdl9tVWtrQkRkOHZ3N2FkQ2U5d2RESTA4TUJFM2NKdTEyRmRxRmNDZTZrQWRpUjhzRFRZWDVDa2VhZDdvNENWaFY4VG1SdV94Q1ZBS2N5NG0wNnlaQTUwRlVkQ0M5eFpkZFc3VlpRV3hmeWMxb2VWT0VCcmNCSnQ1VXZNdkxETUdxeWFRSkhqVTZjT0VzSDk3WlNhNzNVbDBRdUlpTUU4eUFITDFRa2I3bjd6QlE?oc=5",
-  "published": "Sat, 08 Aug 2026 18:20:29 GMT",
+  "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2NqaGlWcHM5enpWclQ4bnotcGo4X0xHcW9USjBJVjgybHdSemJlSmtCczVNLXU1U3ZtR0dqRVE5a0VIVndfOEhhQV9qbU5VekI4R2RFdEtQX1N4bUUzOS1IWGNreDhlLVpSLURMc1JON2RwcDNxc1RvbXNETnExNDV5SDhLSXc1UGdTdDBQU2xyZl9VWVJ5dGVieG54akR2MlNOOFNUTDZxY2pxTGtwekZ4OTlEbGdFY2NOcGZyeE1ud0E?oc=5",
+  "published": "Thu, 30 Jul 2026 19:14:09 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2NqaGlWcHM5enpWclQ4bnotcGo4X0xHcW9USjBJVjgybHdSemJlSmtCczVNLXU1U3ZtR0dqRVE5a0VIVndfOEhhQV9qbU5VekI4R2RFdEtQX1N4bUUzOS1IWGNreDhlLVpSLURMc1JON2RwcDNxc1RvbXNETnExNDV5SDhLSXc1UGdTdDBQU2xyZl9VWVJ5dGVieG54akR2MlNOOFNUTDZxY2pxTGtwekZ4OTlEbGdFY2NOcGZyeE1ud0E?oc=5",
-  "published": "Thu, 30 Jul 2026 19:14:09 GMT",
+  "headline": "Iraq's oil exports dramatically plunge amid Strait of Hormuz closure - The Peninsula Qatar",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmFZdl9tVWtrQkRkOHZ3N2FkQ2U5d2RESTA4TUJFM2NKdTEyRmRxRmNDZTZrQWRpUjhzRFRZWDVDa2VhZDdvNENWaFY4VG1SdV94Q1ZBS2N5NG0wNnlaQTUwRlVkQ0M5eFpkZFc3VlpRV3hmeWMxb2VWT0VCcmNCSnQ1VXZNdkxETUdxeWFRSkhqVTZjT0VzSDk3WlNhNzNVbDBRdUlpTUU4eUFITDFRa2I3bjd6QlE?oc=5",
+  "published": "Sat, 08 Aug 2026 18:21:08 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -107,17 +107,6 @@
   "country": "Saudi Arabia",
   "severity": 0.08,
   "rule_id": "opec-cut",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Crude Oil Prices Tumble as Talks Resume to Reopen Strait of Hormuz - Barchart.com",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1c0VmxuWVNBR2l0am9jczBUV1luX0stbGxfZFhzdkRqMGJpNU9MT2FPeXN3cHRCcFVJdEpqX25RcUJSb2tTNy1SMXpmaENzM0tQTHR1NjdRYkRZSy1ZUXpERHlCZnhtQkdQOFNnY2pPNG9OU3lXdVJvVHB0TTlwekktUGFKbUlKYklpYVMwTXp1WHAtV0kxbHoyWmxGUW1oWTg3NmRnc183LWxKSVNV?oc=5",
-  "published": "Mon, 03 Aug 2026 15:45:22 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
   "source": "keyword-rule"
  },
  {
@@ -187,9 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC Export Ban on Copper and Cobalt Concentrates Explained 2026 - Discovery Alert",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzZpRVlUcFdpTm40bU5MTXRKcjJpaVhYM29FX0tfZzdKSTBRX25JMkNhU0g2TGJuOWNBdWt6dll0TmpjeDNLNHRqT3d6Xy1talVyTGZrSlIyR0JucEVkaHl4Vm9UdmdvQ21rQk5nNWQ0X0tTejg0UW11UG0zQk1kcVowRzJreU5acVVtWg?oc=5",
-  "published": "Sat, 08 Aug 2026 05:57:46 GMT",
+  "headline": "DR Congo Bans Exports of Copper and Cobalt Concentrates Citing Official Order - Sahi",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHJiUC01RHhfUThtTTY5V2xIRWI5SHFERDBnQU1xQk0tdFFHTElpWXBDQ3phUnZBRXZCQVNJckZiMUxNTjJMaFJIbW1uRHBHTnRILUJFSm1MVmRkQ1RQNnlOQS1KTTdYYURYdnFaR3VRUDREMjR4em9EeU40dm04VlJNaXdkWElUSG9NQTAwZmNYUkwtYk1LbjJQNWgxeVJLcUJjbkliTHV5Um5fUl84VHZtajlHTm8?oc=5",
+  "published": "Thu, 06 Aug 2026 09:25:57 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -198,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DR Congo Bans Exports of Copper and Cobalt Concentrates Citing Official Order - Sahi",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHJiUC01RHhfUThtTTY5V2xIRWI5SHFERDBnQU1xQk0tdFFHTElpWXBDQ3phUnZBRXZCQVNJckZiMUxNTjJMaFJIbW1uRHBHTnRILUJFSm1MVmRkQ1RQNnlOQS1KTTdYYURYdnFaR3VRUDREMjR4em9EeU40dm04VlJNaXdkWElUSG9NQTAwZmNYUkwtYk1LbjJQNWgxeVJLcUJjbkliTHV5Um5fUl84VHZtajlHTm8?oc=5",
-  "published": "Thu, 06 Aug 2026 09:25:57 GMT",
+  "headline": "DRC Export Ban on Copper and Cobalt Concentrates Explained 2026 - Discovery Alert",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzZpRVlUcFdpTm40bU5MTXRKcjJpaVhYM29FX0tfZzdKSTBRX25JMkNhU0g2TGJuOWNBdWt6dll0TmpjeDNLNHRqT3d6Xy1talVyTGZrSlIyR0JucEVkaHl4Vm9UdmdvQ21rQk5nNWQ0X0tTejg0UW11UG0zQk1kcVowRzJreU5acVVtWg?oc=5",
+  "published": "Sat, 08 Aug 2026 05:57:46 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -231,7 +220,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam",
+  "headline": "Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - agrolatam.com",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5",
   "published": "Tue, 04 Aug 2026 16:38:53 GMT",
   "rule_note": "",
