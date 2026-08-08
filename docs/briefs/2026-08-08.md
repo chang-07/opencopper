@@ -22,7 +22,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _11 corroborating headline(s):_
-- [The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas—Not Expand It - International Institute for Sustainable Development](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5)
+- [The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas—Not Expand It - iisd.org](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5)
 - [Kuwait discusses oil pipeline with Arab neighbors to bypass Strait of Hormuz: Minister - middleeastmonitor.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFZ3T1cwbkdXUnQ5bTVOWkJjTGVhUHdvUW9Pd05MZkdua1dMZE5kX0hybTUyZUNZODBZLUpJRjVKS3dHdGFIZzFjQmJXY2EtZkRQS1J6ekFjWEhmRTBCaWhfc3RMWnB5R1FUQ0Q4SGZXeEFwbFVWSjF0VlhaajUweWlGVDRUem1rMGVtTzU5YTQ0YVB1MWp3V3dBODhDejZaWVo0ZHhLektqeWlvWFl0WHF2bWJta2lVMi15OGt0cTZxSW96Vjc2dtIBzgFBVV95cUxNemowOGt3ZkVEQmJHUjBJZURFY3hwc0dKTlp1bTNWZGFpVE5HSlVGSVlHcm1pbzA0d1lmR0IzallWeVRYRE1DMWFHOXZjYVBOekVQV0VLcF8xZjhVUjlna2o0VHIzd1RaMVBTY0RyWUJ3Tmh0R0U0bnNyOG1aS2N5cTdLbVJXQUZiRjhTUmxOeTVGQmhGTEotQURBaW5McHpRcm1wWUVJbHJqMjRNZkdQRlQ2RWwyY0NuU3hhRWZnUHpVQlVveDVraVVPcng3UQ?oc=5)
 - [Crude Oil Prices Slump on Hopes of a Deal to Reopen Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlVjVDB4UFJQMC1YTmRXb2s5dG1TZDZwbE5FQUc4UUpvUV9UTEZwa1lNMHVQdFIwNURFcWRaRGdEWVlLZ3pnNEQ2NDhzQ2xjdUhFaHpUVVY5RkN1QmF6Zm1ydEhuQ19uUlRKSTE4dF9QQU9wLXRIX2NyNjE0MzFIS1BtdUF5Nmh4bDZ1WWo1NlFMQklWVGlLM1VrdjhqX2hrRDN3VGhZS2pXVkRnX0Z6Z2hB?oc=5)
 - …and 8 more
@@ -60,11 +60,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_6 corroborating headline(s):_
 - [Congo Bans Copper and Cobalt Concentrate Exports as Copper Prices Spike - Startup Fortune](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdi15THd5SEEweWh6TkZSYkZJa0dUa0xFTFBvRTZJUlI4TmkxLUtCaW1tVllfY3JUWC1US25hZXhYNXU2am93UlJQcmR0c0ZEWkthR0xsMHpzMTFrRnFtcl9oVnFCMFFJdTF0RktqcVlJZzc1YjNZLWtNRDdyZHp0QVFrLUk0dGVZQ1J4RnB0WTlkejk1RTN4V1d6QjAzWUY3?oc=5)
 - [Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5)
 - [Congo bans exports of copper, cobalt concentrates, official order says - Mining Weekly](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0JyNjNXQVMtTWRNcGtla09udTNRb1NMeXBETkF0Mm1ER01uWGpYSU9Yd0xhTzBGZFp6WHliQk1QU3VWcWtTSGhnTWlwMXA0elFPNkR5ZTltOVNfT1dyZ1pZYTE4d1U4TEdsTjBSQ1UzV3NFSGFPZzQxR3ZFMm93YktSV2g3cjFmYTM2X05HaGtVZFdOZDNmOE9MVFJVcWVHd1BWTERmeHpIZkVYaFVxYkRYQ0FpRU0?oc=5)
-- …and 4 more
+- …and 3 more
 
 ## EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - Reuters
 *Tue, 04 Aug 2026 17:01:04 GMT* — [source](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1dzNlFyVzBvZVo3TTVibFVsY3RKbkdTUWpkQ0VCZmg0MmFudEdqYm5OMkRKWExKbTRLVWpsa1BqVDl2NkV4cXBNcDlZSHlTeWdHWFBoQWYwVnBhSWlQM2IwMktWRHB5aGFnSkQwektXaUZYemltQWRvZjFXOE5ydURnaTZoSS1maTZBNXBxYkF5UmRhWmFiOVczeHBUeFlpZVgyMFZrVEdHV0Q0WVZPWWJEUmRQeXd1WGlOM3FR?oc=5)
@@ -82,11 +82,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_6 corroborating headline(s):_
 - [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
 - [Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam](https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5)
-- [Russian strikes halt Ukraine’s Black Sea grain route at harvest peak - TVP World](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5)
-- …and 2 more
+- [EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
+- …and 3 more
 
 ---
 
