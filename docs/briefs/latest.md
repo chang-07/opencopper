@@ -22,7 +22,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _11 corroborating headline(s):_
-- [The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas—Not Expand It - iisd.org](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5)
+- [The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas—Not Expand It - International Institute for Sustainable Development](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5)
 - [Kuwait discusses oil pipeline with Arab neighbors to bypass Strait of Hormuz: Minister - middleeastmonitor.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFZ3T1cwbkdXUnQ5bTVOWkJjTGVhUHdvUW9Pd05MZkdua1dMZE5kX0hybTUyZUNZODBZLUpJRjVKS3dHdGFIZzFjQmJXY2EtZkRQS1J6ekFjWEhmRTBCaWhfc3RMWnB5R1FUQ0Q4SGZXeEFwbFVWSjF0VlhaajUweWlGVDRUem1rMGVtTzU5YTQ0YVB1MWp3V3dBODhDejZaWVo0ZHhLektqeWlvWFl0WHF2bWJta2lVMi15OGt0cTZxSW96Vjc2dtIBzgFBVV95cUxNemowOGt3ZkVEQmJHUjBJZURFY3hwc0dKTlp1bTNWZGFpVE5HSlVGSVlHcm1pbzA0d1lmR0IzallWeVRYRE1DMWFHOXZjYVBOekVQV0VLcF8xZjhVUjlna2o0VHIzd1RaMVBTY0RyWUJ3Tmh0R0U0bnNyOG1aS2N5cTdLbVJXQUZiRjhTUmxOeTVGQmhGTEotQURBaW5McHpRcm1wWUVJbHJqMjRNZkdQRlQ2RWwyY0NuU3hhRWZnUHpVQlVveDVraVVPcng3UQ?oc=5)
 - [Crude Oil Prices Slump on Hopes of a Deal to Reopen Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlVjVDB4UFJQMC1YTmRXb2s5dG1TZDZwbE5FQUc4UUpvUV9UTEZwa1lNMHVQdFIwNURFcWRaRGdEWVlLZ3pnNEQ2NDhzQ2xjdUhFaHpUVVY5RkN1QmF6Zm1ydEhuQ19uUlRKSTE4dF9QQU9wLXRIX2NyNjE0MzFIS1BtdUF5Nmh4bDZ1WWo1NlFMQklWVGlLM1VrdjhqX2hrRDN3VGhZS2pXVkRnX0Z6Z2hB?oc=5)
 - …and 8 more
@@ -84,8 +84,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _5 corroborating headline(s):_
 - [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
-- [Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5)
 - [Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam](https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5)
+- [Russian strikes halt Ukraine’s Black Sea grain route at harvest peak - TVP World](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5)
 - …and 2 more
 
 ---
