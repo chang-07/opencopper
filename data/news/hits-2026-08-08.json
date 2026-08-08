@@ -55,7 +55,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - Euronews.com",
+  "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - Euronews",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlRjUk11N00zbWdRYUhkNGZVYzZKSzJ0eWJEMTUwa1VBTUNZdDR5MDh0clYwb1pEVElmcVBHSXhlYlJhOGI0RUdWM2R4ZDFlUmt6bHFaamdrUFdFTTBESWFNSXhGbW1jQnpiQVNJN1hTWTZpdGx1OVU1X3hoZmtGclBMY1FzWUMtVGczaHRmRGhCczczR3YtUGZNUGFUN3ZKcWRweENDMnJ6QzRDeTVTMzRuXzg?oc=5",
   "published": "Wed, 05 Aug 2026 11:38:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -113,17 +113,6 @@
   "headline": "Oil Prices Retreat, But the Strait of Hormuz Remains the Wild Card - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGhfSnBYQWdLWUVabFNaLWl1cjREOXN1VG9Fc2R1X2VQdTNkS2NVMGpkM0ZlUUZMQ1hPRTF4WE95bWp2eF84MEVnbnl3QVpkYUgzOV8zbVdNU1BYWmJMeWJPa3pKeEYxWUNmbkdDXy1IUi1ZSjZZYmxSeXNxY0tyWDh4cW5odkxqNktXdHU2MW1zYm9jcldVdmxaNmZLX0Z2ZjZ1djhPTk9BN0tTcFRXbWlBb9IBuAFBVV95cUxNd2Y4ajlFNURBRFlQaWo4Vl9CMnlNbUhfTlVjaUdVSmlROW5RX2hXUWd6eFZyN2JKemdRWDNZZFdmTW9wRWNCdmp3ZkRjQkFVYXJNVUhaWWpmQURIVjdwbXh1YUFEUF9VSE83a053cTB4S1QybFN0dTFib215ZjNqZGloWWRuODA4SWtSQ1kzMVA1UncxVDhXMmUxX2FnVWpkVGJCZXdndkJvS003LUJwN19uNC1WRklF?oc=5",
   "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5",
-  "published": "Mon, 03 Aug 2026 17:34:08 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -275,7 +264,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - aol.com",
+  "headline": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says - AOL.com",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTEwxdllWcEppazhGSzBYaDhTUWlKT1NYWXlqcXExVXNTUC1Ba205UEtSV0ktbHdIdXl3clBBMkU0cFdOekFMdV8zT2VfNU1hRlhhSmFkY2dFSDlLQmxIbDhZMUFoXzczSUYybWRTd2QtWWNZQVpRVVdaeFh4MmY4aTc0cHY4SDZFVGRPU2s2SnZXVDQ4TjNZb3I0bnVsQmotaWpNTHUzdmdaMElCb0Jj?oc=5",
   "published": "Fri, 07 Aug 2026 21:07:19 GMT",
   "rule_note": "",
