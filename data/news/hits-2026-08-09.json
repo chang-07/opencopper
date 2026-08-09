@@ -22,9 +22,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "US expects Iran to ensure safe oil flow through Strait of Hormuz: Vance - Anadolu Ajans\u0131",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFzdmlZcUZoZmd0SWdJM29tVW9vZnZsdmljNnRKT0c2Yi1ZSFF4RDRyWnVVZGNpbGVNLUdQR096OVVwa2R0Z1o4c1ZpanN5aHNSMG9kNWpGRWpXSlY3Ymc2cmQzdGRVT2ZLUFgtNUZpamRrMmJySm1Wd1NhLXlwNXZEM1FmZXNIM0hPVDUyalVGRXZkanlULWNURVFHRWk2c3dZNjhReTVlOHNRenpQX1RR?oc=5",
-  "published": "Sat, 08 Aug 2026 20:01:25 GMT",
+  "headline": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGM0aVBmTVNJRWY0Z2RDSnZCS3lsTkpKbHRNME51dHBqMXBSekdFOS1Sd3VvcEl1bVM4VkVLcFJuYmdGRFhtdG51VWllUHh3MlltZW1LNS02eW1GdG1tVTItZEdLTzdGbW1QeDZoRFI0UHlrVGY4bjh0TnhISkNpMHpKOXhYdWdfZVJ1LUdaRVhIM0VjcmRSOWh1bHFwZFBRX3l1eHFFeEtRYUx5SzJGZw?oc=5",
+  "published": "Wed, 05 Aug 2026 19:16:55 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -33,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices - Barchart.com",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGM0aVBmTVNJRWY0Z2RDSnZCS3lsTkpKbHRNME51dHBqMXBSekdFOS1Sd3VvcEl1bVM4VkVLcFJuYmdGRFhtdG51VWllUHh3MlltZW1LNS02eW1GdG1tVTItZEdLTzdGbW1QeDZoRFI0UHlrVGY4bjh0TnhISkNpMHpKOXhYdWdfZVJ1LUdaRVhIM0VjcmRSOWh1bHFwZFBRX3l1eHFFeEtRYUx5SzJGZw?oc=5",
-  "published": "Wed, 05 Aug 2026 19:16:55 GMT",
+  "headline": "US expects Iran to ensure safe oil flow through Strait of Hormuz: Vance - Anadolu Ajans\u0131",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFzdmlZcUZoZmd0SWdJM29tVW9vZnZsdmljNnRKT0c2Yi1ZSFF4RDRyWnVVZGNpbGVNLUdQR096OVVwa2R0Z1o4c1ZpanN5aHNSMG9kNWpGRWpXSlY3Ymc2cmQzdGRVT2ZLUFgtNUZpamRrMmJySm1Wd1NhLXlwNXZEM1FmZXNIM0hPVDUyalVGRXZkanlULWNURVFHRWk2c3dZNjhReTVlOHNRenpQX1RR?oc=5",
+  "published": "Sat, 08 Aug 2026 20:01:25 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -176,17 +176,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5",
-  "published": "Mon, 03 Aug 2026 08:46:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World",
   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5",
   "published": "Fri, 07 Aug 2026 11:07:04 GMT",
@@ -201,6 +190,17 @@
   "headline": "Russian strikes halt Ukraine\u2019s Black Sea grain route at harvest peak - TVP World",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5",
   "published": "Wed, 05 Aug 2026 14:29:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5",
+  "published": "Mon, 03 Aug 2026 08:46:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",

@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _7 corroborating headline(s):_
 - [Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5)
-- [US expects Iran to ensure safe oil flow through Strait of Hormuz: Vance - Anadolu Ajansı](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFzdmlZcUZoZmd0SWdJM29tVW9vZnZsdmljNnRKT0c2Yi1ZSFF4RDRyWnVVZGNpbGVNLUdQR096OVVwa2R0Z1o4c1ZpanN5aHNSMG9kNWpGRWpXSlY3Ymc2cmQzdGRVT2ZLUFgtNUZpamRrMmJySm1Wd1NhLXlwNXZEM1FmZXNIM0hPVDUyalVGRXZkanlULWNURVFHRWk2c3dZNjhReTVlOHNRenpQX1RR?oc=5)
 - [Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices - Barchart.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGM0aVBmTVNJRWY0Z2RDSnZCS3lsTkpKbHRNME51dHBqMXBSekdFOS1Sd3VvcEl1bVM4VkVLcFJuYmdGRFhtdG51VWllUHh3MlltZW1LNS02eW1GdG1tVTItZEdLTzdGbW1QeDZoRFI0UHlrVGY4bjh0TnhISkNpMHpKOXhYdWdfZVJ1LUdaRVhIM0VjcmRSOWh1bHFwZFBRX3l1eHFFeEtRYUx5SzJGZw?oc=5)
+- [US expects Iran to ensure safe oil flow through Strait of Hormuz: Vance - Anadolu Ajansı](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFzdmlZcUZoZmd0SWdJM29tVW9vZnZsdmljNnRKT0c2Yi1ZSFF4RDRyWnVVZGNpbGVNLUdQR096OVVwa2R0Z1o4c1ZpanN5aHNSMG9kNWpGRWpXSlY3Ymc2cmQzdGRVT2ZLUFgtNUZpamRrMmJySm1Wd1NhLXlwNXZEM1FmZXNIM0hPVDUyalVGRXZkanlULWNURVFHRWk2c3dZNjhReTVlOHNRenpQX1RR?oc=5)
 - …and 4 more
 
 ## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com
@@ -83,9 +83,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _5 corroborating headline(s):_
-- [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
 - [Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5)
 - [Russian strikes halt Ukraine’s Black Sea grain route at harvest peak - TVP World](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5)
+- [Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5)
 - …and 2 more
 
 ---
