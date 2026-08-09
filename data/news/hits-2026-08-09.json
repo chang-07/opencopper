@@ -33,20 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Slump on Hopes of a Deal to Reopen Strait of Hormuz - barchart.com",
+  "headline": "Crude Oil Prices Slump on Hopes of a Deal to Reopen Strait of Hormuz - Barchart.com",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlVjVDB4UFJQMC1YTmRXb2s5dG1TZDZwbE5FQUc4UUpvUV9UTEZwa1lNMHVQdFIwNURFcWRaRGdEWVlLZ3pnNEQ2NDhzQ2xjdUhFaHpUVVY5RkN1QmF6Zm1ydEhuQ19uUlRKSTE4dF9QQU9wLXRIX2NyNjE0MzFIS1BtdUF5Nmh4bDZ1WWo1NlFMQklWVGlLM1VrdjhqX2hrRDN3VGhZS2pXVkRnX0Z6Z2hB?oc=5",
   "published": "Tue, 04 Aug 2026 15:35:06 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Israel, Gulf states pursue secret energy corridor to bypass Hormuz - www.israelhayom.com",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUhWTlNZRzVzeHdSLWtGenVscUx2SHJSVF95NXNfOEQ4YWhNVkE2SHNnZmdUZTZYc0VYVG1oci01QXB6ODF6RlMyTFM4RE52Z0tGdl8zYmtNZFpzUkdPalpoNmhaUnNwNExCa0dvWmc2eXpsZEh0TGd5djBuZUpYNnpjMnZyTnNYOHp1cU9KOFp3c3pRdkNFMDBOakZPalUyREZxUGxkVno?oc=5",
-  "published": "Wed, 05 Aug 2026 19:33:35 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,7 +66,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices - barchart.com",
+  "headline": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices - Barchart.com",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGM0aVBmTVNJRWY0Z2RDSnZCS3lsTkpKbHRNME51dHBqMXBSekdFOS1Sd3VvcEl1bVM4VkVLcFJuYmdGRFhtdG51VWllUHh3MlltZW1LNS02eW1GdG1tVTItZEdLTzdGbW1QeDZoRFI0UHlrVGY4bjh0TnhISkNpMHpKOXhYdWdfZVJ1LUdaRVhIM0VjcmRSOWh1bHFwZFBRX3l1eHFFeEtRYUx5SzJGZw?oc=5",
   "published": "Wed, 05 Aug 2026 19:16:55 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -110,7 +99,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters",
+  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
   "published": "Thu, 06 Aug 2026 16:50:48 GMT",
   "rule_note": "",
@@ -187,7 +176,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - Reuters",
+  "headline": "EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1dzNlFyVzBvZVo3TTVibFVsY3RKbkdTUWpkQ0VCZmg0MmFudEdqYm5OMkRKWExKbTRLVWpsa1BqVDl2NkV4cXBNcDlZSHlTeWdHWFBoQWYwVnBhSWlQM2IwMktWRHB5aGFnSkQwektXaUZYemltQWRvZjFXOE5ydURnaTZoSS1maTZBNXBxYkF5UmRhWmFiOVczeHBUeFlpZVgyMFZrVEdHV0Q0WVZPWWJEUmRQeXd1WGlOM3FR?oc=5",
   "published": "Tue, 04 Aug 2026 17:01:04 GMT",
   "rule_note": "",
@@ -209,7 +198,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian strikes halt Ukraine\u2019s Black Sea grain route at harvest peak - tvpworld.com",
+  "headline": "Russian strikes halt Ukraine\u2019s Black Sea grain route at harvest peak - TVP World",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5",
   "published": "Wed, 05 Aug 2026 14:29:00 GMT",
   "rule_note": "",
@@ -231,7 +220,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
+  "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
   "published": "Fri, 31 Jul 2026 07:00:00 GMT",
   "rule_note": "",
