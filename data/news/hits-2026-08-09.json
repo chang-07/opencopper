@@ -44,7 +44,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - Euronews",
+  "headline": "Iraq oil exports plunge on Strait of Hormuz closure - Gulf Times",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzBxQkZMX0pDTDlVbDlVX2NjT2d5YTAtT0Z0dS0wUXlxa2sxaEQwSmczb2JLQXRlLVdlMndTQmdWejlhV2lCS2syVEExR3pQN1JoQ2JPQVRPU2ZDYmxBczRfdTJlTEdZbFJlemZ4NWRaZVdaWVFIbWtISDl4S3piZ1pyY28zUkoxQ3dLQ21RSHFwVVppM2tyR1dUWFBzdHJzekhocA?oc=5",
+  "published": "Sun, 09 Aug 2026 15:52:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - Euronews.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlRjUk11N00zbWdRYUhkNGZVYzZKSzJ0eWJEMTUwa1VBTUNZdDR5MDh0clYwb1pEVElmcVBHSXhlYlJhOGI0RUdWM2R4ZDFlUmt6bHFaamdrUFdFTTBESWFNSXhGbW1jQnpiQVNJN1hTWTZpdGx1OVU1X3hoZmtGclBMY1FzWUMtVGczaHRmRGhCczczR3YtUGZNUGFUN3ZKcWRweENDMnJ6QzRDeTVTMzRuXzg?oc=5",
   "published": "Wed, 05 Aug 2026 11:38:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -176,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian strikes halt Ukraine\u2019s Black Sea grain route at harvest peak - TVP World",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5",
-  "published": "Wed, 05 Aug 2026 14:29:00 GMT",
+  "headline": "Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5",
+  "published": "Fri, 07 Aug 2026 11:07:04 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -187,9 +198,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World",
-  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5",
-  "published": "Fri, 07 Aug 2026 11:07:04 GMT",
+  "headline": "Russian strikes halt Ukraine\u2019s Black Sea grain route at harvest peak - TVP World",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5",
+  "published": "Wed, 05 Aug 2026 14:29:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
