@@ -33,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Slump on Hopes of a Deal to Reopen Strait of Hormuz - Barchart.com",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlVjVDB4UFJQMC1YTmRXb2s5dG1TZDZwbE5FQUc4UUpvUV9UTEZwa1lNMHVQdFIwNURFcWRaRGdEWVlLZ3pnNEQ2NDhzQ2xjdUhFaHpUVVY5RkN1QmF6Zm1ydEhuQ19uUlRKSTE4dF9QQU9wLXRIX2NyNjE0MzFIS1BtdUF5Nmh4bDZ1WWo1NlFMQklWVGlLM1VrdjhqX2hrRDN3VGhZS2pXVkRnX0Z6Z2hB?oc=5",
-  "published": "Tue, 04 Aug 2026 15:35:06 GMT",
+  "headline": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGM0aVBmTVNJRWY0Z2RDSnZCS3lsTkpKbHRNME51dHBqMXBSekdFOS1Sd3VvcEl1bVM4VkVLcFJuYmdGRFhtdG51VWllUHh3MlltZW1LNS02eW1GdG1tVTItZEdLTzdGbW1QeDZoRFI0UHlrVGY4bjh0TnhISkNpMHpKOXhYdWdfZVJ1LUdaRVhIM0VjcmRSOWh1bHFwZFBRX3l1eHFFeEtRYUx5SzJGZw?oc=5",
+  "published": "Wed, 05 Aug 2026 19:16:55 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -66,17 +66,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices - Barchart.com",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGM0aVBmTVNJRWY0Z2RDSnZCS3lsTkpKbHRNME51dHBqMXBSekdFOS1Sd3VvcEl1bVM4VkVLcFJuYmdGRFhtdG51VWllUHh3MlltZW1LNS02eW1GdG1tVTItZEdLTzdGbW1QeDZoRFI0UHlrVGY4bjh0TnhISkNpMHpKOXhYdWdfZVJ1LUdaRVhIM0VjcmRSOWh1bHFwZFBRX3l1eHFFeEtRYUx5SzJGZw?oc=5",
-  "published": "Wed, 05 Aug 2026 19:16:55 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEJxV0FYQXJ4VjUxLVlrWDYxQ2JieVY0MTdEdjR1MWtFaklLSk9kX0dEa2JOWlBHbklMZTVocWVCbHh0LThxZ2Z0VEFXbGNPclN3SndpZlM4M3FNdF9LQ0FVRmlxMTUzWjFueG53a0Z4NnpmeXU5SFBROU53dmlJNHRGR0ZoTFRWcWlsemVSTUVPbGV0V202aE9QQkNHOHgzSnFCRklNVFg1LWNzbjI2TjhyTzhDcGduODBLZldoZ9IBxAFBVV95cUxPb1VMWi0xd21qazcyUXAxb3JBZWtGQnctNVJSM3B0LXBCWWdKM3E2aW5PYXFkU2Ntd1F0M1Q1N3puNWUxdXVhMVNlaVMtUXVhU1o0NTZCOG9nM1Q0NDZocnBqSkxnQWVGOWQyNTFWSVJhYnZYbVNHYmhzWWpOLU9LOGQzY04xb1dSREx5OGxrV2p0SEZNSjJWeVJXTGJxSXZONmM4eDkzeHRpT0M0UFBHamVPQlpNR0RaSVZ4SU5PQ3ozSjNM?oc=5",
   "published": "Mon, 03 Aug 2026 08:30:00 GMT",
@@ -99,20 +88,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - reuters.com",
+  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
   "published": "Thu, 06 Aug 2026 16:50:48 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Ivanhoe Mines Provides Clarification to Reuters' Article Announcing the Ban of Copper and Cobalt Concentrate Exports from the DRC - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGhPcXdqWWRONDZ3UXdOblpTT1VoN0ZQaHQwWHNGRGRIVWExaDZBSWZENFBCRG1TLUNYeGQ1d1FnTTRXQTNxOUN2MTYxQ21sQWV6MkZsa2tQSU5OeFJOWnc3Z1RBdWZuaDBZajhjS2E4cFdFVWszQXVZNVhITUhJR24tSDFfZTBlNnRkLW4ybWxweWZDQnpPX3B1YVA0eFd3LVd3STZUOFVobXVXYkVISGczbGU?oc=5",
-  "published": "Thu, 06 Aug 2026 13:50:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -176,7 +154,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - reuters.com",
+  "headline": "EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1dzNlFyVzBvZVo3TTVibFVsY3RKbkdTUWpkQ0VCZmg0MmFudEdqYm5OMkRKWExKbTRLVWpsa1BqVDl2NkV4cXBNcDlZSHlTeWdHWFBoQWYwVnBhSWlQM2IwMktWRHB5aGFnSkQwektXaUZYemltQWRvZjFXOE5ydURnaTZoSS1maTZBNXBxYkF5UmRhWmFiOVczeHBUeFlpZVgyMFZrVEdHV0Q0WVZPWWJEUmRQeXd1WGlOM3FR?oc=5",
   "published": "Tue, 04 Aug 2026 17:01:04 GMT",
   "rule_note": "",
@@ -220,7 +198,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - reuters.com",
+  "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
   "published": "Fri, 31 Jul 2026 07:00:00 GMT",
   "rule_note": "",
