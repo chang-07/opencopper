@@ -66,6 +66,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2NqaGlWcHM5enpWclQ4bnotcGo4X0xHcW9USjBJVjgybHdSemJlSmtCczVNLXU1U3ZtR0dqRVE5a0VIVndfOEhhQV9qbU5VekI4R2RFdEtQX1N4bUUzOS1IWGNreDhlLVpSLURMc1JON2RwcDNxc1RvbXNETnExNDV5SDhLSXc1UGdTdDBQU2xyZl9VWVJ5dGVieG54akR2MlNOOFNUTDZxY2pxTGtwekZ4OTlEbGdFY2NOcGZyeE1ud0E?oc=5",
+  "published": "Thu, 30 Jul 2026 19:14:09 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Iraq oil exports plunge on Strait of Hormuz closure - Gulf Times",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzBxQkZMX0pDTDlVbDlVX2NjT2d5YTAtT0Z0dS0wUXlxa2sxaEQwSmczb2JLQXRlLVdlMndTQmdWejlhV2lCS2syVEExR3pQN1JoQ2JPQVRPU2ZDYmxBczRfdTJlTEdZbFJlemZ4NWRaZVdaWVFIbWtISDl4S3piZ1pyY28zUkoxQ3dLQ21RSHFwVVppM2tyR1dUWFBzdHJzekhocA?oc=5",
   "published": "Sun, 09 Aug 2026 15:52:00 GMT",
@@ -80,17 +91,6 @@
   "headline": "Crude Oil Prices Tumble as Talks Resume to Reopen Strait of Hormuz - TradingView",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3N4RjlTRGZjVExQT2tFT3M3TFlrdGhyNTUxZjZrd3FPYlBDS1JDZFZsRmdhQ3BPUjF0ODliVFJ1SU5jYjg1eml0TlRNblZ1YUZoUkRIQ3N4alpvR0FjVDNyRkV5TDVIWGNwc19ubXFYV3lKRWdmSUpOVU1hUXg5TEFVSHN4REUxMG1kdTR2czAyZlVWUU1kNWFQckZRZWd1NHdWbHotMkw2V2Mxdk9LSW14ODhGdGNXWk56QmsyOEVkQQ?oc=5",
   "published": "Mon, 03 Aug 2026 15:45:22 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2NqaGlWcHM5enpWclQ4bnotcGo4X0xHcW9USjBJVjgybHdSemJlSmtCczVNLXU1U3ZtR0dqRVE5a0VIVndfOEhhQV9qbU5VekI4R2RFdEtQX1N4bUUzOS1IWGNreDhlLVpSLURMc1JON2RwcDNxc1RvbXNETnExNDV5SDhLSXc1UGdTdDBQU2xyZl9VWVJ5dGVieG54akR2MlNOOFNUTDZxY2pxTGtwekZ4OTlEbGdFY2NOcGZyeE1ud0E?oc=5",
-  "published": "Thu, 30 Jul 2026 19:14:09 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -143,7 +143,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times",
+  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - techtimes.com",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5",
   "published": "Thu, 06 Aug 2026 13:39:58 GMT",
   "rule_note": "",
@@ -198,9 +198,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World",
-  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5",
-  "published": "Fri, 07 Aug 2026 11:07:04 GMT",
+  "headline": "Russian strike on Odesa adds pressure to Ukraine\u2019s strained grain-export corridor - eutoday.net",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zVVNBWjc1YnJkY3RIOUxRUlA4T1lGelNFZ01zcjNSNzZUN05vWU9Zd0xRTWZUUWhXbzJrNmFlY05QX0tfWjhQeFVJbWNIalEwTXN4elBxNjhsbmt4Q2htWVpwTmViQ3dMckRZekdySlk?oc=5",
+  "published": "Mon, 10 Aug 2026 08:49:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -209,9 +209,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian strikes halt Ukraine\u2019s Black Sea grain route at harvest peak - TVP World",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5",
-  "published": "Wed, 05 Aug 2026 14:29:00 GMT",
+  "headline": "Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5",
+  "published": "Fri, 07 Aug 2026 11:07:04 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -231,9 +231,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5",
-  "published": "Tue, 04 Aug 2026 16:38:53 GMT",
+  "headline": "Russian strikes halt Ukraine\u2019s Black Sea grain route at harvest peak - TVP World",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5",
+  "published": "Wed, 05 Aug 2026 14:29:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -242,9 +242,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Says Ukraine Struck Key Black Sea Grain Export Port - Supply Chain Brain",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBtSUtRV3Q5OEowS29uV19BS2ljb3N4LWl5cXZEaTh0X19YSllrREc1UDE0WW1fTmNreG1OdldmMUlxVUwwX0tYaHl3QnVndGNkSl96YzlsRi1mT0VtekotcHQ3QzktREtqZ0MyZ1R6cG5oekxlZVVKX3lySk0tVzYyTDViSWtiOTJQNUVDN2pwMG1ULW9jSzlzS3UzZmdCRWlzaXRDeE5iUQ?oc=5",
-  "published": "Thu, 30 Jul 2026 13:04:51 GMT",
+  "headline": "Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5",
+  "published": "Tue, 04 Aug 2026 16:38:53 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
