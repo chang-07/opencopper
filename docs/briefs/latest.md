@@ -4,7 +4,7 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas—Not Expand It - iisd.org
+## The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas—Not Expand It - International Institute for Sustainable Development
 *Thu, 06 Aug 2026 11:48:58 GMT* — [source](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
@@ -21,13 +21,13 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_9 corroborating headline(s):_
-- [Iran-Hormuz Deal Fails to Reopen Strait as Oil Holds Above $80: What It Means for U.S. Gas Prices, Inflation and Stocks - finchannel.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzhRVE9SSzJ4bkk4OVFkQ0dWMnFjcFpwX3dPRFRtWXJrdmtKNkgwQVBLellrVlZNb1hiWTQzOHZzWFc2dGhpeTh4SVRFY3pIVE9uSEEyQS1QQXJBbXRjZk1RLXBvT0h3cVU1Nk5KUDZxbGlqaUxZa1NPOFJTMi1zNHA0bmNtR1U2bFoxUW9xMA?oc=5)
-- [Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5)
+_8 corroborating headline(s):_
+- [Iran-Hormuz Deal Fails to Reopen Strait as Oil Holds Above $80: What It Means for U.S. Gas Prices, Inflation and Stocks - finchannel](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzhRVE9SSzJ4bkk4OVFkQ0dWMnFjcFpwX3dPRFRtWXJrdmtKNkgwQVBLellrVlZNb1hiWTQzOHZzWFc2dGhpeTh4SVRFY3pIVE9uSEEyQS1QQXJBbXRjZk1RLXBvT0h3cVU1Nk5KUDZxbGlqaUxZa1NPOFJTMi1zNHA0bmNtR1U2bFoxUW9xMA?oc=5)
+- [Is Iran Preparing to Permanently Block the Strait of Hormuz - oilprice.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5)
 - [Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices - Barchart.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGM0aVBmTVNJRWY0Z2RDSnZCS3lsTkpKbHRNME51dHBqMXBSekdFOS1Sd3VvcEl1bVM4VkVLcFJuYmdGRFhtdG51VWllUHh3MlltZW1LNS02eW1GdG1tVTItZEdLTzdGbW1QeDZoRFI0UHlrVGY4bjh0TnhISkNpMHpKOXhYdWdfZVJ1LUdaRVhIM0VjcmRSOWh1bHFwZFBRX3l1eHFFeEtRYUx5SzJGZw?oc=5)
-- …and 6 more
+- …and 5 more
 
-## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com
+## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - oilprice.com
 *Mon, 03 Aug 2026 08:30:00 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEJxV0FYQXJ4VjUxLVlrWDYxQ2JieVY0MTdEdjR1MWtFaklLSk9kX0dEa2JOWlBHbklMZTVocWVCbHh0LThxZ2Z0VEFXbGNPclN3SndpZlM4M3FNdF9LQ0FVRmlxMTUzWjFueG53a0Z4NnpmeXU5SFBROU53dmlJNHRGR0ZoTFRWcWlsemVSTUVPbGV0V202aE9QQkNHOHgzSnFCRklNVFg1LWNzbjI2TjhyTzhDcGduODBLZldoZ9IBxAFBVV95cUxPb1VMWi0xd21qazcyUXAxb3JBZWtGQnctNVJSM3B0LXBCWWdKM3E2aW5PYXFkU2Ntd1F0M1Q1N3puNWUxdXVhMVNlaVMtUXVhU1o0NTZCOG9nM1Q0NDZocnBqSkxnQWVGOWQyNTFWSVJhYnZYbVNHYmhzWWpOLU9LOGQzY04xb1dSREx5OGxrV2p0SEZNSjJWeVJXTGJxSXZONmM4eDkzeHRpT0M0UFBHamVPQlpNR0RaSVZ4SU5PQ3ozSjNM?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +8%
 
@@ -61,7 +61,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _7 corroborating headline(s):_
-- [Congo Bans Copper and Cobalt Concentrate Exports as Copper Prices Spike - Startup Fortune](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdi15THd5SEEweWh6TkZSYkZJa0dUa0xFTFBvRTZJUlI4TmkxLUtCaW1tVllfY3JUWC1US25hZXhYNXU2am93UlJQcmR0c0ZEWkthR0xsMHpzMTFrRnFtcl9oVnFCMFFJdTF0RktqcVlJZzc1YjNZLWtNRDdyZHp0QVFrLUk0dGVZQ1J4RnB0WTlkejk1RTN4V1d6QjAzWUY3?oc=5)
+- [Congo Bans Copper and Cobalt Concentrate Exports as Copper Prices Spike - startupfortune.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdi15THd5SEEweWh6TkZSYkZJa0dUa0xFTFBvRTZJUlI4TmkxLUtCaW1tVllfY3JUWC1US25hZXhYNXU2am93UlJQcmR0c0ZEWkthR0xsMHpzMTFrRnFtcl9oVnFCMFFJdTF0RktqcVlJZzc1YjNZLWtNRDdyZHp0QVFrLUk0dGVZQ1J4RnB0WTlkejk1RTN4V1d6QjAzWUY3?oc=5)
 - [Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - techtimes.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5)
 - [Congo bans exports of copper, cobalt concentrates, official order says - Mining Weekly](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0JyNjNXQVMtTWRNcGtla09udTNRb1NMeXBETkF0Mm1ER01uWGpYSU9Yd0xhTzBGZFp6WHliQk1QU3VWcWtTSGhnTWlwMXA0elFPNkR5ZTltOVNfT1dyZ1pZYTE4d1U4TEdsTjBSQ1UzV3NFSGFPZzQxR3ZFMm93YktSV2g3cjFmYTM2X05HaGtVZFdOZDNmOE9MVFJVcWVHd1BWTERmeHpIZkVYaFVxYkRYQ0FpRU0?oc=5)
 - …and 4 more
@@ -82,11 +82,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
-- [Russian strike on Odesa adds pressure to Ukraine’s strained grain-export corridor - EU Today](https://news.google.com/rss/articles/CBMicEFVX3lxTE4zVVNBWjc1YnJkY3RIOUxRUlA4T1lGelNFZ01zcjNSNzZUN05vWU9Zd0xRTWZUUWhXbzJrNmFlY05QX0tfWjhQeFVJbWNIalEwTXN4elBxNjhsbmt4Q2htWVpwTmViQ3dMckRZekdySlk?oc=5)
-- [Ukraine’s grain exports face new restrictions due to record-low water levels on the Danube — media - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeWRNelF5a1hIeGtKT2piZVByNnRVS3g5UVdxRWhoYURIOUtmeU5RODhjNklrRDdfRkFzYjUtTl8zbHhqcXJLN2tQeTlXUVdTRHdKbUhWWEtqZGlhbXJneEZSN0ZXSTZVcTdXOE5qYzFHaDJqTmluek1YdWwtWjdpYnlUS3A2bFZuNjBlajhIakpwUlozVE1NZ255dE45cHBDTEItbnlIejFpbUVsa1ZjS2VkZFFCenJTSnfSAbgBQVVfeXFMTUJvajBGbnlOZ3otNktXMDU4U3Y0bmFhc0ZNVlhzaGRSXzlQelRLeUVLRjBDODg0U0t1SFNRRlpJSkg2STdiMmhuNWRUMVlZSnItZDdud3lFaUp1eDJFdXZZY1NvSm9EY2FwWjBab014UFNObFdvX2hyQlRwMFEydFJFZ2M3cFhPZmZNdnVsRkxONVZGODJQWjY4X1h0SmdPSUJHay1oNXBfak9TR1BoeFgxRmZHcXNtbA?oc=5)
+_6 corroborating headline(s):_
+- [Ukraine lowers grain export outlook after Russian attacks disrupt ports - Türkiye Today](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWE3ZF9KSnFTVHQ2ZWdhYnB3UU41YVM4bVZrUEU3b1JpMll6aHdmeXNadGFBUXNpMTRZWjM1NUNOYlFCbDdmajZNbmJab2ZiZmlLR09ySHFpdXNQUl9hZVlDSGNLUlF0SHhpOEloeE4wQ3RjV2g4a0dNTTNiem1HRnRwY0Z1NGcyY0tCdGhkRWE0T3dyNFNjWkJ5Q1U2WUlqQXlOWTZZcENqU3FrWm84WEJMVWI?oc=5)
 - [EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1dzNlFyVzBvZVo3TTVibFVsY3RKbkdTUWpkQ0VCZmg0MmFudEdqYm5OMkRKWExKbTRLVWpsa1BqVDl2NkV4cXBNcDlZSHlTeWdHWFBoQWYwVnBhSWlQM2IwMktWRHB5aGFnSkQwektXaUZYemltQWRvZjFXOE5ydURnaTZoSS1maTZBNXBxYkF5UmRhWmFiOVczeHBUeFlpZVgyMFZrVEdHV0Q0WVZPWWJEUmRQeXd1WGlOM3FR?oc=5)
-- …and 2 more
+- [EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
+- …and 3 more
 
 ---
 
