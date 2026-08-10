@@ -88,17 +88,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEJxV0FYQXJ4VjUxLVlrWDYxQ2JieVY0MTdEdjR1MWtFaklLSk9kX0dEa2JOWlBHbklMZTVocWVCbHh0LThxZ2Z0VEFXbGNPclN3SndpZlM4M3FNdF9LQ0FVRmlxMTUzWjFueG53a0Z4NnpmeXU5SFBROU53dmlJNHRGR0ZoTFRWcWlsemVSTUVPbGV0V202aE9QQkNHOHgzSnFCRklNVFg1LWNzbjI2TjhyTzhDcGduODBLZldoZ9IBxAFBVV95cUxPb1VMWi0xd21qazcyUXAxb3JBZWtGQnctNVJSM3B0LXBCWWdKM3E2aW5PYXFkU2Ntd1F0M1Q1N3puNWUxdXVhMVNlaVMtUXVhU1o0NTZCOG9nM1Q0NDZocnBqSkxnQWVGOWQyNTFWSVJhYnZYbVNHYmhzWWpOLU9LOGQzY04xb1dSREx5OGxrV2p0SEZNSjJWeVJXTGJxSXZONmM4eDkzeHRpT0M0UFBHamVPQlpNR0RaSVZ4SU5PQ3ozSjNM?oc=5",
-  "published": "Mon, 03 Aug 2026 08:30:00 GMT",
-  "rule_note": "",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.08,
-  "rule_id": "opec-cut",
-  "source": "keyword-rule"
- },
- {
   "headline": "Crude Oil Prices Tumble as Talks Resume to Reopen Strait of Hormuz - TradingView",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3N4RjlTRGZjVExQT2tFT3M3TFlrdGhyNTUxZjZrd3FPYlBDS1JDZFZsRmdhQ3BPUjF0ODliVFJ1SU5jYjg1eml0TlRNblZ1YUZoUkRIQ3N4alpvR0FjVDNyRkV5TDVIWGNwc19ubXFYV3lKRWdmSUpOVU1hUXg5TEFVSHN4REUxMG1kdTR2czAyZlVWUU1kNWFQckZRZWd1NHdWbHotMkw2V2Mxdk9LSW14ODhGdGNXWk56QmsyOEVkQQ?oc=5",
   "published": "Mon, 03 Aug 2026 15:45:22 GMT",
@@ -110,7 +99,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - reuters.com",
+  "headline": "Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEJxV0FYQXJ4VjUxLVlrWDYxQ2JieVY0MTdEdjR1MWtFaklLSk9kX0dEa2JOWlBHbklMZTVocWVCbHh0LThxZ2Z0VEFXbGNPclN3SndpZlM4M3FNdF9LQ0FVRmlxMTUzWjFueG53a0Z4NnpmeXU5SFBROU53dmlJNHRGR0ZoTFRWcWlsemVSTUVPbGV0V202aE9QQkNHOHgzSnFCRklNVFg1LWNzbjI2TjhyTzhDcGduODBLZldoZ9IBxAFBVV95cUxPb1VMWi0xd21qazcyUXAxb3JBZWtGQnctNVJSM3B0LXBCWWdKM3E2aW5PYXFkU2Ntd1F0M1Q1N3puNWUxdXVhMVNlaVMtUXVhU1o0NTZCOG9nM1Q0NDZocnBqSkxnQWVGOWQyNTFWSVJhYnZYbVNHYmhzWWpOLU9LOGQzY04xb1dSREx5OGxrV2p0SEZNSjJWeVJXTGJxSXZONmM4eDkzeHRpT0M0UFBHamVPQlpNR0RaSVZ4SU5PQ3ozSjNM?oc=5",
+  "published": "Mon, 03 Aug 2026 08:30:00 GMT",
+  "rule_note": "",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.08,
+  "rule_id": "opec-cut",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
   "published": "Thu, 06 Aug 2026 08:57:00 GMT",
   "rule_note": "",
@@ -132,7 +132,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - techtimes.com",
+  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5",
   "published": "Thu, 06 Aug 2026 13:39:58 GMT",
   "rule_note": "",
@@ -154,7 +154,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - mining.com.au",
+  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
   "published": "Thu, 06 Aug 2026 21:39:52 GMT",
   "rule_note": "",
@@ -198,7 +198,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports - reuters.com",
+  "headline": "EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports - Reuters",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekxQUnMwU09VWk1GRXI5Y18xYkQ1MVV3THExMHlKU3JDaFVZVGFnX2xUV0tZbTY3RGNQamdCdkZHRndOV2p4OElDVkkxZW00M2tFWkZuN1dYaXVWZ0wydnZkTy1PeTVrLS1oU0M1X0Q4Tk1HZzVvemRuRzMtczdwWE10N1RQaUg4ZEpUM0lvMDc2RDIxTXZCSzFUUXJ2SGZKWmVhaDRR?oc=5",
   "published": "Mon, 10 Aug 2026 12:01:40 GMT",
   "rule_note": "",
@@ -209,9 +209,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine lowers grain export outlook after Russian attacks disrupt ports - T\u00fcrkiye Today",
+  "headline": "Ukraine lowers grain export outlook after Russian attacks disrupt ports - turkiyetoday.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWE3ZF9KSnFTVHQ2ZWdhYnB3UU41YVM4bVZrUEU3b1JpMll6aHdmeXNadGFBUXNpMTRZWjM1NUNOYlFCbDdmajZNbmJab2ZiZmlLR09ySHFpdXNQUl9hZVlDSGNLUlF0SHhpOEloeE4wQ3RjV2g4a0dNTTNiem1HRnRwY0Z1NGcyY0tCdGhkRWE0T3dyNFNjWkJ5Q1U2WUlqQXlOWTZZcENqU3FrWm84WEJMVWI?oc=5",
   "published": "Mon, 10 Aug 2026 14:11:03 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Ukraine, Moldova Explore Grain Rail Export Route Amid Black Sea Risks - Global Banking & Finance Review",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLTNlVGVaUFZ6T21QZWtPRUxJREh2TEpLYkNmRHpsVjBCbXUwckp6ajgzaTg0NE9IVXpKSXRBUGV2bFlPUmF0Q012YmFLV2tTaUFIUUVvRm5qR0JXNU5mZ0hLa2tfZU1tcmJFaGZtcUduWmxKWnhLNDlUMmtGa2VudXdPb1RvUUpjSG91Z0FINkdOcG1RT1BxcV9lMUlmVTg2YUww?oc=5",
+  "published": "Mon, 10 Aug 2026 20:41:14 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -231,7 +242,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - reuters.com",
+  "headline": "EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1dzNlFyVzBvZVo3TTVibFVsY3RKbkdTUWpkQ0VCZmg0MmFudEdqYm5OMkRKWExKbTRLVWpsa1BqVDl2NkV4cXBNcDlZSHlTeWdHWFBoQWYwVnBhSWlQM2IwMktWRHB5aGFnSkQwektXaUZYemltQWRvZjFXOE5ydURnaTZoSS1maTZBNXBxYkF5UmRhWmFiOVczeHBUeFlpZVgyMFZrVEdHV0Q0WVZPWWJEUmRQeXd1WGlOM3FR?oc=5",
   "published": "Tue, 04 Aug 2026 17:01:04 GMT",
   "rule_note": "",
@@ -242,20 +253,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - reuters.com",
+  "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
   "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russian strike on Odesa adds pressure to Ukraine\u2019s strained grain-export corridor - EU Today",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zVVNBWjc1YnJkY3RIOUxRUlA4T1lGelNFZ01zcjNSNzZUN05vWU9Zd0xRTWZUUWhXbzJrNmFlY05QX0tfWjhQeFVJbWNIalEwTXN4elBxNjhsbmt4Q2htWVpwTmViQ3dMckRZekdySlk?oc=5",
-  "published": "Mon, 10 Aug 2026 08:49:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
