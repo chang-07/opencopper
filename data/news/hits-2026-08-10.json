@@ -11,6 +11,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Iran-Hormuz Deal Fails to Reopen Strait as Oil Holds Above $80: What It Means for U.S. Gas Prices, Inflation and Stocks - finchannel",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzhRVE9SSzJ4bkk4OVFkQ0dWMnFjcFpwX3dPRFRtWXJrdmtKNkgwQVBLellrVlZNb1hiWTQzOHZzWFc2dGhpeTh4SVRFY3pIVE9uSEEyQS1QQXJBbXRjZk1RLXBvT0h3cVU1Nk5KUDZxbGlqaUxZa1NPOFJTMi1zNHA0bmNtR1U2bFoxUW9xMA?oc=5",
+  "published": "Sun, 09 Aug 2026 22:31:38 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
   "published": "Fri, 07 Aug 2026 16:04:46 GMT",
@@ -44,7 +55,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - Euronews",
+  "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - Euronews.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlRjUk11N00zbWdRYUhkNGZVYzZKSzJ0eWJEMTUwa1VBTUNZdDR5MDh0clYwb1pEVElmcVBHSXhlYlJhOGI0RUdWM2R4ZDFlUmt6bHFaamdrUFdFTTBESWFNSXhGbW1jQnpiQVNJN1hTWTZpdGx1OVU1X3hoZmtGclBMY1FzWUMtVGczaHRmRGhCczczR3YtUGZNUGFUN3ZKcWRweENDMnJ6QzRDeTVTMzRuXzg?oc=5",
   "published": "Wed, 05 Aug 2026 11:38:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -58,6 +69,17 @@
   "headline": "Iraq oil exports plunge on Strait of Hormuz closure - Gulf Times",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzBxQkZMX0pDTDlVbDlVX2NjT2d5YTAtT0Z0dS0wUXlxa2sxaEQwSmczb2JLQXRlLVdlMndTQmdWejlhV2lCS2syVEExR3pQN1JoQ2JPQVRPU2ZDYmxBczRfdTJlTEdZbFJlemZ4NWRaZVdaWVFIbWtISDl4S3piZ1pyY28zUkoxQ3dLQ21RSHFwVVppM2tyR1dUWFBzdHJzekhocA?oc=5",
   "published": "Sun, 09 Aug 2026 15:52:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Crude Oil Prices Tumble as Talks Resume to Reopen Strait of Hormuz - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3N4RjlTRGZjVExQT2tFT3M3TFlrdGhyNTUxZjZrd3FPYlBDS1JDZFZsRmdhQ3BPUjF0ODliVFJ1SU5jYjg1eml0TlRNblZ1YUZoUkRIQ3N4alpvR0FjVDNyRkV5TDVIWGNwc19ubXFYV3lKRWdmSUpOVU1hUXg5TEFVSHN4REUxMG1kdTR2czAyZlVWUU1kNWFQckZRZWd1NHdWbHotMkw2V2Mxdk9LSW14ODhGdGNXWk56QmsyOEVkQQ?oc=5",
+  "published": "Mon, 03 Aug 2026 15:45:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -121,7 +143,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - techtimes.com",
+  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5",
   "published": "Thu, 06 Aug 2026 13:39:58 GMT",
   "rule_note": "",
@@ -209,20 +231,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - agrolatam.com",
+  "headline": "Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5",
   "published": "Tue, 04 Aug 2026 16:38:53 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russia Steps Up Ship Protection in Black Sea as Attacks Threaten Grain Exports - The Moscow Times",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTJKMk43bnRiRW10aFdfTnhObEVGc0U4VDZ4eUM4ZUowaEZjZUo2Y0xVWHZPWktUNmxmQXlLMW1RUnh4OHRXXzV0MklLaDBqcUFYMDhDMEoxU3JiUi1kaVhYUzFmZENfbl9ud1VOZ1BWYl9ucFBneTlUaXhkRFFxOUhwLXJFT3ZrdkhlbnUyQzFMTHNIeGU3YWpha0RFQU8xY1ozM1BaWGItYmdFbWtBS0hCSTE2NWhsMjdRTldHeUZJdDY2Q1E?oc=5",
-  "published": "Mon, 03 Aug 2026 08:46:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
