@@ -55,7 +55,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - Euronews.com",
+  "headline": "Iraq announces huge oil find near Saudi border as Hormuz crisis bites - euronews.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlRjUk11N00zbWdRYUhkNGZVYzZKSzJ0eWJEMTUwa1VBTUNZdDR5MDh0clYwb1pEVElmcVBHSXhlYlJhOGI0RUdWM2R4ZDFlUmt6bHFaamdrUFdFTTBESWFNSXhGbW1jQnpiQVNJN1hTWTZpdGx1OVU1X3hoZmtGclBMY1FzWUMtVGczaHRmRGhCczczR3YtUGZNUGFUN3ZKcWRweENDMnJ6QzRDeTVTMzRuXzg?oc=5",
   "published": "Wed, 05 Aug 2026 11:38:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -121,9 +121,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters",
+  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
-  "published": "Thu, 06 Aug 2026 16:50:48 GMT",
+  "published": "Thu, 06 Aug 2026 08:57:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -143,7 +143,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - techtimes.com",
+  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5",
   "published": "Thu, 06 Aug 2026 13:39:58 GMT",
   "rule_note": "",
@@ -187,7 +187,29 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - Reuters",
+  "headline": "DR Congo Bans Copper, Cobalt Concentrate Exports To Boost Local Processing - Arise News",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjhvbG9HVU5zbXo4OGhUTkwyVEprWFlGSmc5TU5GYkFrOEpoVE9ULW9XWjFMd0dMY3p5Y01wZ1MxRF9XX081bmNVT2tHSUFNZjU2RVNyYXI1cEtfNEZWRkVEdDA1Q3Z6N1dhRndGMEo3cW5rSmZYRkFPeEpSZHprUFpXYUJ1QmNxZUZsMDJxYUFSSXNuSmYwUThoNA?oc=5",
+  "published": "Fri, 07 Aug 2026 13:44:35 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Congo bans copper and cobalt concentrate exports, order says - News24",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLXV0VXEzczJPYUlpLTdod3pISEkxMFFrWGZyT3RfdUxPa0dnal9HRzJhV2poSXFfNlh3X2sxTms2OVpnWEJBc3kzWDJjWEdTRkljZHJiX2NZeV8wMjd0OG5tMU4xRnpqaGM0QXBNemZvUjdEbXlLZW02TmF0OC10ZEUwRF84WWFuVlBxd2dPbndYa2lmcVEwM1VmT3VCQml0TXRBbkFRbXg4QWRlQlZRWlZzRnFna2pMOTF2bnZ3UWtBdUE?oc=5",
+  "published": "Thu, 06 Aug 2026 15:49:57 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "EXCLUSIVE: Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1dzNlFyVzBvZVo3TTVibFVsY3RKbkdTUWpkQ0VCZmg0MmFudEdqYm5OMkRKWExKbTRLVWpsa1BqVDl2NkV4cXBNcDlZSHlTeWdHWFBoQWYwVnBhSWlQM2IwMktWRHB5aGFnSkQwektXaUZYemltQWRvZjFXOE5ydURnaTZoSS1maTZBNXBxYkF5UmRhWmFiOVczeHBUeFlpZVgyMFZrVEdHV0Q0WVZPWWJEUmRQeXd1WGlOM3FR?oc=5",
   "published": "Tue, 04 Aug 2026 17:01:04 GMT",
   "rule_note": "",
@@ -198,9 +220,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian strike on Odesa adds pressure to Ukraine\u2019s strained grain-export corridor - eutoday.net",
+  "headline": "Russian strike on Odesa adds pressure to Ukraine\u2019s strained grain-export corridor - EU Today",
   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zVVNBWjc1YnJkY3RIOUxRUlA4T1lGelNFZ01zcjNSNzZUN05vWU9Zd0xRTWZUUWhXbzJrNmFlY05QX0tfWjhQeFVJbWNIalEwTXN4elBxNjhsbmt4Q2htWVpwTmViQ3dMckRZekdySlk?oc=5",
   "published": "Mon, 10 Aug 2026 08:49:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - reuters.com",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
+  "published": "Fri, 31 Jul 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -220,31 +253,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
-  "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russian strikes halt Ukraine\u2019s Black Sea grain route at harvest peak - TVP World",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWU8zWUlpRzJubmhqUkREV2RRYmI3RjJMOGVZYWh1cFlmdUt0QzN3MWRQTm5WTXJ1QjQzVExZMzlUTU10V09xbDV0aFNVNUw2X0tHdTRkVG82VWVoSllkZU1vMUM3SGxYU3RGc1lvZ0pkd1NvbXhuZkEzaFpmdnlwUTNhQ2NqajlGZ2xJRnM2b3FEUQ?oc=5",
   "published": "Wed, 05 Aug 2026 14:29:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Ukraine Races to Find New Grain Export Routes as Black Sea Ports Remain Blocked - Agrolatam",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU9kdF80UTNYUk1RMDE4Z1NQVWJSTFBQYXhpV0s5OVgxWEtRb3ktRUszNTVLa212X3FYRkF6cER6OE1vV19BMlpUcUdtblAwSmhWaVVMbjlBRF9fTHFMVGltRVJ6aGYtNVZQUnEwU284cVp3TzAxM1E2RU5CU3M2OUl5YW1GeGM?oc=5",
-  "published": "Tue, 04 Aug 2026 16:38:53 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
