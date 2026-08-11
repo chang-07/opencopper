@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas—Not Expand It - International Institute for Sustainable Development](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5)
-- [Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5)
+- [How the UAE Has Kept Its Oil Flowing Through Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXR5OEYyakZxXzh2NDktajBvUzBsWlFjbjA4Sks4T2JFeG1qUVZoVTN3VmZqQ3Z5Y1U5S1ZkaXQzTjg3ODNLa2hLZi1YTFpwd1RUTklVaFRldUxSX3hsdkloSVBwM2NMdEhYQ2Qyc2wxR3V3bzNHUWZpX1pmQTBTQS1ZajhZbUk1eVlsZmJmNENQQTlIRFlONWpNNXliRGRuRzBobFVaNUtSc0XSAbABQVVfeXFMUEtEeEItOWhpQU5feG9OM0VCdm8xR0VHT2ExbUpfVERIbWpKdkl1SXhUd0xCUTdSbEhhYktXQnIwTnViR25KMXpGUjRXdk9JUDlzMVA3WXRJVVgxeUJjb3dxZjJldjlOMDJMNWk1U1pzRDIyR2dCNlNjN0xuakVPazA0dTd2V0lTTjQ0Z2ZFS0x4bVdBODRNR0doMlgzWGF4dzktRFUzMmVfV1dvcHMwSnc?oc=5)
 - [Iran-Hormuz Deal Fails to Reopen Strait as Oil Holds Above $80: What It Means for U.S. Gas Prices, Inflation and Stocks - finchannel](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzhRVE9SSzJ4bkk4OVFkQ0dWMnFjcFpwX3dPRFRtWXJrdmtKNkgwQVBLellrVlZNb1hiWTQzOHZzWFc2dGhpeTh4SVRFY3pIVE9uSEEyQS1QQXJBbXRjZk1RLXBvT0h3cVU1Nk5KUDZxbGlqaUxZa1NPOFJTMi1zNHA0bmNtR1U2bFoxUW9xMA?oc=5)
-- …and 3 more
+- …and 2 more
 
 ## EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters
 *Thu, 06 Aug 2026 08:57:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)
@@ -65,11 +65,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_6 corroborating headline(s):_
 - [Ukraine lowers grain export outlook after Russian attacks disrupt ports - Türkiye Today](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWE3ZF9KSnFTVHQ2ZWdhYnB3UU41YVM4bVZrUEU3b1JpMll6aHdmeXNadGFBUXNpMTRZWjM1NUNOYlFCbDdmajZNbmJab2ZiZmlLR09ySHFpdXNQUl9hZVlDSGNLUlF0SHhpOEloeE4wQ3RjV2g4a0dNTTNiem1HRnRwY0Z1NGcyY0tCdGhkRWE0T3dyNFNjWkJ5Q1U2WUlqQXlOWTZZcENqU3FrWm84WEJMVWI?oc=5)
 - [Falling Danube Levels and Russian Strikes Threaten Black Sea Grain Exports - Межа. Новини України.](https://news.google.com/rss/articles/CBMicEFVX3lxTFAyalU2TlVHZEJ3S2FJekZkbmpEcFIzbnZJbHJLcFVDNG1yaGZ1YnZySnRqeUV6SnpIRUc1UHZvTjRzU1Q3anlBWnRSdVBZT0tCQ1BOOWUxWXpXdHd1VXZWbGFKYWY0T3pYWmttcXE3VS0?oc=5)
-- [EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
-- …and 4 more
+- [Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5)
+- …and 3 more
 
 ---
 
