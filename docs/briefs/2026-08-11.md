@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - Eurasia Review
-*Tue, 11 Aug 2026 00:40:51 GMT* — [source](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVRxeXhQeUlWb25rSmcwdlRNak5TZ252T1VTTjFaQUdONmJsbVRPUWk0bXQtbTlBaTRjLVFEMkxDRVE0Q3RQUmtMUy1tNVZ2Q19BMUpLZjdkUnFlLTIteGZ4WUE5NmhaYjhwQXBiSjZtNUliRlE5ZGYyZGpHLVBuLTl4aGR2d3N3dFpYT2d2Snl1RldQWXVEUFRVWk1aNDllNTBOX3U1OGlvRmdWYjNpUHNYTTdFY090UWZMMFBOeF9fUXpFX0pNMU9lX2JpZGFocUFLMw?oc=5)
+## OPEC Raises Oil Output in July After Hormuz Strait Blockade - energynews.pro
+*Tue, 11 Aug 2026 11:22:07 GMT* — [source](https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0ZJRGhkVUh5SjdIdm8xN1JBbVBZUHFtcTVoazloeWdwempXaUVGZWxlZmptMXI2b0xFOVZ5Xzc0c2duZXVpeUJSRnZOTktiTFZiNHYzTHdTU19aMHozZ3hBa25ONkVLVGRCUG9wLTUtWkhhU3BnVnpiejlTM2Eyb212dmpDY3I5Zm5VU0l3?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,14 +21,14 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_6 corroborating headline(s):_
+- [Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - Eurasia Review](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVRxeXhQeUlWb25rSmcwdlRNak5TZ252T1VTTjFaQUdONmJsbVRPUWk0bXQtbTlBaTRjLVFEMkxDRVE0Q3RQUmtMUy1tNVZ2Q19BMUpLZjdkUnFlLTIteGZ4WUE5NmhaYjhwQXBiSjZtNUliRlE5ZGYyZGpHLVBuLTl4aGR2d3N3dFpYT2d2Snl1RldQWXVEUFRVWk1aNDllNTBOX3U1OGlvRmdWYjNpUHNYTTdFY090UWZMMFBOeF9fUXpFX0pNMU9lX2JpZGFocUFLMw?oc=5)
 - [The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas—Not Expand It - International Institute for Sustainable Development](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5)
-- [How the UAE Has Kept Its Oil Flowing Through Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXR5OEYyakZxXzh2NDktajBvUzBsWlFjbjA4Sks4T2JFeG1qUVZoVTN3VmZqQ3Z5Y1U5S1ZkaXQzTjg3ODNLa2hLZi1YTFpwd1RUTklVaFRldUxSX3hsdkloSVBwM2NMdEhYQ2Qyc2wxR3V3bzNHUWZpX1pmQTBTQS1ZajhZbUk1eVlsZmJmNENQQTlIRFlONWpNNXliRGRuRzBobFVaNUtSc0XSAbABQVVfeXFMUEtEeEItOWhpQU5feG9OM0VCdm8xR0VHT2ExbUpfVERIbWpKdkl1SXhUd0xCUTdSbEhhYktXQnIwTnViR25KMXpGUjRXdk9JUDlzMVA3WXRJVVgxeUJjb3dxZjJldjlOMDJMNWk1U1pzRDIyR2dCNlNjN0xuakVPazA0dTd2V0lTTjQ0Z2ZFS0x4bVdBODRNR0doMlgzWGF4dzktRFUzMmVfV1dvcHMwSnc?oc=5)
-- [Iran-Hormuz Deal Fails to Reopen Strait as Oil Holds Above $80: What It Means for U.S. Gas Prices, Inflation and Stocks - finchannel](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzhRVE9SSzJ4bkk4OVFkQ0dWMnFjcFpwX3dPRFRtWXJrdmtKNkgwQVBLellrVlZNb1hiWTQzOHZzWFc2dGhpeTh4SVRFY3pIVE9uSEEyQS1QQXJBbXRjZk1RLXBvT0h3cVU1Nk5KUDZxbGlqaUxZa1NPOFJTMi1zNHA0bmNtR1U2bFoxUW9xMA?oc=5)
-- …and 2 more
+- [UAE's Adnoc announces $8bn gas expansion, as it mulls Hormuz bypass - Middle East Eye](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXdYbnVxcGNMUk43V2FYeGtZNFlMWjBNN2ZTUGF6ZFBNOEliZnQzbE5qOGVrMkUtS2dzbC1mZEg2Y2ZYeHljR25RWk4zN0prSHBFcEh2OEhtSDdDREFJeHR3aUxtNmd3RFdQWUEtVDJESjlLRlNVTkxoekhmTFhDbk4zcEp5cEo1ejBObDdyaE50N29hNmdkZGNYOG0?oc=5)
+- …and 3 more
 
 ## EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters
-*Thu, 06 Aug 2026 08:57:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)
+*Mon, 10 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
 
 ```
@@ -67,7 +67,7 @@ band is wide, the elasticities are doing the work, not the event.
 
 _5 corroborating headline(s):_
 - [Ukraine lowers grain export outlook after Russian attacks disrupt ports - Türkiye Today](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWE3ZF9KSnFTVHQ2ZWdhYnB3UU41YVM4bVZrUEU3b1JpMll6aHdmeXNadGFBUXNpMTRZWjM1NUNOYlFCbDdmajZNbmJab2ZiZmlLR09ySHFpdXNQUl9hZVlDSGNLUlF0SHhpOEloeE4wQ3RjV2g4a0dNTTNiem1HRnRwY0Z1NGcyY0tCdGhkRWE0T3dyNFNjWkJ5Q1U2WUlqQXlOWTZZcENqU3FrWm84WEJMVWI?oc=5)
-- [Black Sea strikes by Russia, Ukraine disrupt global grain shipments - TRT World](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wVkVRR2tFMTl4X3R5WlpnUjY1OWx5b1N0dWxERjVpMGpuS2pycDczYUFhN1VaYVlOT2p5ZURxTE9nLUdnV05zRG1IQXdGSFBOTmxCVWY5U28?oc=5)
+- [USDA slashes Ukraine grain export forecasts amid attacks - The New Voice of Ukraine](https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkMyWFdrZy1PN1FUcWJ3czlOVFJlQzhVMUFBQUZydGFGZUxCM3gtX2dINF9mWHgyNFhzclp3NHg5WlZsWlR1OTR1OThGSGFvMC1rcHo3dkQzcWc0Wk9iY29LSFV1cGcxWjFleTVValJmODNxdDR0Z29HU2NqZk13TVozNzgwUmhoekNkODNKOXlfOEJwQ2RkTkNtQ0RKbjZMNDdHUFFQcENPYjBrZWF5cm5lZ05Vb0VfcE9uSjh6bjZvcjRJd2RtX0ZR0gHGAUFVX3lxTE5RRDRlZG9kVzZMY3JCeVgzaGdzVlpHYm1EdHk1bkl1anNsc1dtUmxPMTMzUWxwd3pvNmEyTGF6R2RoNFBpMzZaRUNRYUkwbmlVb1VqdmdlTGZLdE5keGd5TGlLYXozNnBOLVBGSUtBSWFpaFBYLW5uVlZRR0RPX3JpamlBdzZKYnI1MXB2UmJ0ZF8wZHVGVVptd29PYXA3S2VoYlo0NTUtd2dpalVSY3c4aVY5NXphX2xhaXpENmFEbVJmcllJUQ?oc=5)
 - [EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
 - …and 2 more
 
