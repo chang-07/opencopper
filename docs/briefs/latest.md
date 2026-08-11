@@ -45,7 +45,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 ## EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters
-*Thu, 06 Aug 2026 08:57:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)
+*Mon, 10 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
 
 ```
@@ -82,11 +82,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [Russia’s Odesa strikes halve Ukraine’s grain export forecast - Euromaidan Press](https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3NzeW5xdWhMV0dURTFSQnVXbkpfZC15ZkRxcmx2czJ2VVV5OWdGYnFmR2RiTlRNVV84cUluM3ZMUE9xSnctWDA2bXh5UjJLWXh1LWJseTlmMnlZaFNrd0FPX3lGTERldW1tYldNWmFvODdiUVVJNHVlM1h1MTFwRWQ1bDRvc0lSRnFyejAxbGdmZw?oc=5)
 - [Ukraine grain exports fall to meagre levels in August, farmers union says - Arab News](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mLUw5Z1lUQzN1OE41ZkZVNXk3MFJCTWdReFZwcGYzd0NkR0JTd1lfWm9waExMUnkxNU9KdEg3Ti0wOUJMYmhxa2VfY01QWDBaRVRv?oc=5)
 - [EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxNekxQUnMwU09VWk1GRXI5Y18xYkQ1MVV3THExMHlKU3JDaFVZVGFnX2xUV0tZbTY3RGNQamdCdkZHRndOV2p4OElDVkkxZW00M2tFWkZuN1dYaXVWZ0wydnZkTy1PeTVrLS1oU0M1X0Q4Tk1HZzVvemRuRzMtczdwWE10N1RQaUg4ZEpUM0lvMDc2RDIxTXZCSzFUUXJ2SGZKWmVhaDRR?oc=5)
-- …and 3 more
+- …and 2 more
 
 ---
 
