@@ -66,17 +66,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
-  "published": "Fri, 07 Aug 2026 16:04:46 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "UAE's Adnoc announces $8bn gas expansion, as it mulls Hormuz bypass - Middle East Eye",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXdYbnVxcGNMUk43V2FYeGtZNFlMWjBNN2ZTUGF6ZFBNOEliZnQzbE5qOGVrMkUtS2dzbC1mZEg2Y2ZYeHljR25RWk4zN0prSHBFcEh2OEhtSDdDREFJeHR3aUxtNmd3RFdQWUEtVDJESjlLRlNVTkxoekhmTFhDbk4zcEp5cEo1ejBObDdyaE50N29hNmdkZGNYOG0?oc=5",
   "published": "Mon, 10 Aug 2026 17:39:58 GMT",
@@ -102,39 +91,6 @@
   "headline": "US expects Iran to ensure safe oil flow through Strait of Hormuz: Vance - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWFzdmlZcUZoZmd0SWdJM29tVW9vZnZsdmljNnRKT0c2Yi1ZSFF4RDRyWnVVZGNpbGVNLUdQR096OVVwa2R0Z1o4c1ZpanN5aHNSMG9kNWpGRWpXSlY3Ymc2cmQzdGRVT2ZLUFgtNUZpamRrMmJySm1Wd1NhLXlwNXZEM1FmZXNIM0hPVDUyalVGRXZkanlULWNURVFHRWk2c3dZNjhReTVlOHNRenpQX1RR?oc=5",
   "published": "Sat, 08 Aug 2026 20:01:25 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2NqaGlWcHM5enpWclQ4bnotcGo4X0xHcW9USjBJVjgybHdSemJlSmtCczVNLXU1U3ZtR0dqRVE5a0VIVndfOEhhQV9qbU5VekI4R2RFdEtQX1N4bUUzOS1IWGNreDhlLVpSLURMc1JON2RwcDNxc1RvbXNETnExNDV5SDhLSXc1UGdTdDBQU2xyZl9VWVJ5dGVieG54akR2MlNOOFNUTDZxY2pxTGtwekZ4OTlEbGdFY2NOcGZyeE1ud0E?oc=5",
-  "published": "Thu, 30 Jul 2026 19:14:09 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEJxV0FYQXJ4VjUxLVlrWDYxQ2JieVY0MTdEdjR1MWtFaklLSk9kX0dEa2JOWlBHbklMZTVocWVCbHh0LThxZ2Z0VEFXbGNPclN3SndpZlM4M3FNdF9LQ0FVRmlxMTUzWjFueG53a0Z4NnpmeXU5SFBROU53dmlJNHRGR0ZoTFRWcWlsemVSTUVPbGV0V202aE9QQkNHOHgzSnFCRklNVFg1LWNzbjI2TjhyTzhDcGduODBLZldoZ9IBxAFBVV95cUxPb1VMWi0xd21qazcyUXAxb3JBZWtGQnctNVJSM3B0LXBCWWdKM3E2aW5PYXFkU2Ntd1F0M1Q1N3puNWUxdXVhMVNlaVMtUXVhU1o0NTZCOG9nM1Q0NDZocnBqSkxnQWVGOWQyNTFWSVJhYnZYbVNHYmhzWWpOLU9LOGQzY04xb1dSREx5OGxrV2p0SEZNSjJWeVJXTGJxSXZONmM4eDkzeHRpT0M0UFBHamVPQlpNR0RaSVZ4SU5PQ3ozSjNM?oc=5",
-  "published": "Mon, 03 Aug 2026 08:30:00 GMT",
-  "rule_note": "",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.08,
-  "rule_id": "opec-cut",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Crude Oil Prices Tumble as Talks Resume to Reopen Strait of Hormuz - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3N4RjlTRGZjVExQT2tFT3M3TFlrdGhyNTUxZjZrd3FPYlBDS1JDZFZsRmdhQ3BPUjF0ODliVFJ1SU5jYjg1eml0TlRNblZ1YUZoUkRIQ3N4alpvR0FjVDNyRkV5TDVIWGNwc19ubXFYV3lKRWdmSUpOVU1hUXg5TEFVSHN4REUxMG1kdTR2czAyZlVWUU1kNWFQckZRZWd1NHdWbHotMkw2V2Mxdk9LSW14ODhGdGNXWk56QmsyOEVkQQ?oc=5",
-  "published": "Mon, 03 Aug 2026 15:45:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -198,7 +154,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - themoscowtimes.com",
+  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5",
   "published": "Tue, 11 Aug 2026 14:59:38 GMT",
   "rule_note": "",
@@ -231,17 +187,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine grain exports fall to meagre levels in August, farmers union says - Arab News",
-  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mLUw5Z1lUQzN1OE41ZkZVNXk3MFJCTWdReFZwcGYzd0NkR0JTd1lfWm9waExMUnkxNU9KdEg3Ti0wOUJMYmhxa2VfY01QWDBaRVRv?oc=5",
-  "published": "Tue, 11 Aug 2026 16:10:03 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
   "published": "Fri, 31 Jul 2026 07:00:00 GMT",
@@ -264,9 +209,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine Grain Exports to Slump After Russian Strikes on Odesa - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTm1zX2RMQU9WaGNkNlhLbXcwemxQMHRHMnJrWHZVWXlXbFF3SXg2OHYybjZfZ3UzdVhpOTB2N0c2bXNPaG9Kb3BpWXJMYl9LakZ3bkRJUnBlQlFWdVdXR0p3NHpvTHV3U3ZWVnFFc18xdWs0MExvdEN1clE4WnV3VzNKdDNRTTJOYVFTRUpnM1hKbUEzOW5yZFFDMmFrZDhLY1k5LVFrdVNJNERKb3R4Ykt3?oc=5",
-  "published": "Fri, 07 Aug 2026 14:50:10 GMT",
+  "headline": "Ukraine grain exports fall to meagre levels in August, farmers union says - Arab News",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mLUw5Z1lUQzN1OE41ZkZVNXk3MFJCTWdReFZwcGYzd0NkR0JTd1lfWm9waExMUnkxNU9KdEg3Ti0wOUJMYmhxa2VfY01QWDBaRVRv?oc=5",
+  "published": "Tue, 11 Aug 2026 16:10:03 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
