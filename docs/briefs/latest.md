@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
-- [Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5)
-- [IEA and OPEC split on global oil demand estimates as Strait of Hormuz closure drags - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibzBsd3NKLVVsaV9GWVRsZkpWNTA1VV9fcl9vSndydXgtTGZnYUk0VUN3dEo4WUtSN1BKSmlXUmdBN1ppRHJmNGhldmxSNjlaZ0hkdmVRMGh3MVBLc3dxemd2SlZPQ0Z4LURPMHRJaC00T2dkSUxCNE5POWpIX2s?oc=5)
-- [IEA sharply cuts 2026 global oil supply outlook amid Hormuz disruption - سانا](https://news.google.com/rss/articles/CBMiTEFVX3lxTE14LVdDRzlNd1Q3dHA4ZlEwMHQtcHlaSkpwdkRTTER4emVBNXYxTGRWbFVnejdyUmM1UnZ0V05NaEsxb0V6SjFXU1RGTzE?oc=5)
-- …and 7 more
+_9 corroborating headline(s):_
+- [Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - aljazeera.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5)
+- [IEA Warns Oil Market Risks Mount as Hormuz Disruptions Drain Inventories - gCaptain](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlh6ajJPTkptTDhNS3RQeXlQaVlWMTFiQXNKM180LVJ5Q1k2eUVnLUJ0cEpqY25YQ0wxMG9DeHBJR1Zpdl9WYkhId0NDcWlVT3BMS2FYU3p5YzdJbFJjMHBlTFU2bkxodnE1aXY5SkNnaEkwZGtGOEszRDBuU1RhQnFxb2FPUDVOYV9lZ2JlNkRYaVVSRW1helhR?oc=5)
+- [IEA and OPEC split on global oil demand estimates as Strait of Hormuz closure drags - sg.finance.yahoo.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibzBsd3NKLVVsaV9GWVRsZkpWNTA1VV9fcl9vSndydXgtTGZnYUk0VUN3dEo4WUtSN1BKSmlXUmdBN1ppRHJmNGhldmxSNjlaZ0hkdmVRMGh3MVBLc3dxemd2SlZPQ0Z4LURPMHRJaC00T2dkSUxCNE5POWpIX2s?oc=5)
+- …and 6 more
 
 ## EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters
 *Mon, 10 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)
@@ -67,8 +67,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _4 corroborating headline(s):_
 - [Ukraine Strikes Grain Terminals at Russia’s Key Black Sea Port - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXBEZ3BMM0pxbWdtcE1pYjhmUHl5c0hPaHVUejk2OFU5MWgtR0MycTc2TWdlbzlZQ1JNT3AxNmwxeDNrckEzSlNPWmx2a1NwbG5hU2drWUhiVFl3X2hfLUFtak9VUUdkbU9xNmpYQ0ItMVNfZDR0VGJwaEJHVmkwaWJFV09kMUhWREhuWmlaVm50LWloU01nNER1ZWZZQTAwUlVDQXJhZlBVY1hHcXNuRFRxbw?oc=5)
+- [Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HRERfeEJRa1ozRmNuUURrU1IzOUlWZWtyWFVBS1FGX3hOYXNpTGF2ZjJsMjV3cjc1Q1BFV1p5c19ldkh1V09FYy1hTzlnV2FXbl84MWxIUGQ4Rzl3?oc=5)
 - [EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxNekxQUnMwU09VWk1GRXI5Y18xYkQ1MVV3THExMHlKU3JDaFVZVGFnX2xUV0tZbTY3RGNQamdCdkZHRndOV2p4OElDVkkxZW00M2tFWkZuN1dYaXVWZ0wydnZkTy1PeTVrLS1oU0M1X0Q4Tk1HZzVvemRuRzMtczdwWE10N1RQaUg4ZEpUM0lvMDc2RDIxTXZCSzFUUXJ2SGZKWmVhaDRR?oc=5)
-- [EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5)
 - …and 1 more
 
 ---
