@@ -22,6 +22,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "IEA and OPEC split on global oil demand estimates as Strait of Hormuz closure drags - Yahoo Finance Singapore",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibzBsd3NKLVVsaV9GWVRsZkpWNTA1VV9fcl9vSndydXgtTGZnYUk0VUN3dEo4WUtSN1BKSmlXUmdBN1ppRHJmNGhldmxSNjlaZ0hkdmVRMGh3MVBLc3dxemd2SlZPQ0Z4LURPMHRJaC00T2dkSUxCNE5POWpIX2s?oc=5",
+  "published": "Wed, 12 Aug 2026 14:50:10 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "IEA sharply cuts 2026 global oil supply outlook amid Hormuz disruption - \u0633\u0627\u0646\u0627",
   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14LVdDRzlNd1Q3dHA4ZlEwMHQtcHlaSkpwdkRTTER4emVBNXYxTGRWbFVnejdyUmM1UnZ0V05NaEsxb0V6SjFXU1RGTzE?oc=5",
   "published": "Wed, 12 Aug 2026 14:13:26 GMT",
@@ -55,9 +66,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - eurasiareview.com",
+  "headline": "Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - Eurasia Review",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVRxeXhQeUlWb25rSmcwdlRNak5TZ252T1VTTjFaQUdONmJsbVRPUWk0bXQtbTlBaTRjLVFEMkxDRVE0Q3RQUmtMUy1tNVZ2Q19BMUpLZjdkUnFlLTIteGZ4WUE5NmhaYjhwQXBiSjZtNUliRlE5ZGYyZGpHLVBuLTl4aGR2d3N3dFpYT2d2Snl1RldQWXVEUFRVWk1aNDllNTBOX3U1OGlvRmdWYjNpUHNYTTdFY090UWZMMFBOeF9fUXpFX0pNMU9lX2JpZGFocUFLMw?oc=5",
   "published": "Tue, 11 Aug 2026 00:40:51 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "UAE's Adnoc announces $8bn gas expansion, as it mulls Hormuz bypass - Middle East Eye",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXdYbnVxcGNMUk43V2FYeGtZNFlMWjBNN2ZTUGF6ZFBNOEliZnQzbE5qOGVrMkUtS2dzbC1mZEg2Y2ZYeHljR25RWk4zN0prSHBFcEh2OEhtSDdDREFJeHR3aUxtNmd3RFdQWUEtVDJESjlLRlNVTkxoekhmTFhDbk4zcEp5cEo1ejBObDdyaE50N29hNmdkZGNYOG0?oc=5",
+  "published": "Mon, 10 Aug 2026 17:39:58 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -88,17 +110,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "UAE's Adnoc announces $8bn gas expansion, as it mulls Hormuz bypass - Middle East Eye",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXdYbnVxcGNMUk43V2FYeGtZNFlMWjBNN2ZTUGF6ZFBNOEliZnQzbE5qOGVrMkUtS2dzbC1mZEg2Y2ZYeHljR25RWk4zN0prSHBFcEh2OEhtSDdDREFJeHR3aUxtNmd3RFdQWUEtVDJESjlLRlNVTkxoekhmTFhDbk4zcEp5cEo1ejBObDdyaE50N29hNmdkZGNYOG0?oc=5",
-  "published": "Mon, 10 Aug 2026 17:39:58 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Iran-Hormuz Deal Fails to Reopen Strait as Oil Holds Above $80: What It Means for U.S. Gas Prices, Inflation and Stocks - finchannel",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzhRVE9SSzJ4bkk4OVFkQ0dWMnFjcFpwX3dPRFRtWXJrdmtKNkgwQVBLellrVlZNb1hiWTQzOHZzWFc2dGhpeTh4SVRFY3pIVE9uSEEyQS1QQXJBbXRjZk1RLXBvT0h3cVU1Nk5KUDZxbGlqaUxZa1NPOFJTMi1zNHA0bmNtR1U2bFoxUW9xMA?oc=5",
   "published": "Sun, 09 Aug 2026 22:31:38 GMT",
@@ -113,6 +124,17 @@
   "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
   "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5",
+  "published": "Wed, 12 Aug 2026 13:38:19 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -154,20 +176,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
-  "published": "Thu, 06 Aug 2026 21:39:52 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5",
   "published": "Tue, 11 Aug 2026 14:59:38 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Ukraine Strikes Grain Terminals at Russia\u2019s Key Black Sea Port - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXBEZ3BMM0pxbWdtcE1pYjhmUHl5c0hPaHVUejk2OFU5MWgtR0MycTc2TWdlbzlZQ1JNT3AxNmwxeDNrckEzSlNPWmx2a1NwbG5hU2drWUhiVFl3X2hfLUFtak9VUUdkbU9xNmpYQ0ItMVNfZDR0VGJwaEJHVmkwaWJFV09kMUhWREhuWmlaVm50LWloU01nNER1ZWZZQTAwUlVDQXJhZlBVY1hHcXNuRFRxbw?oc=5",
+  "published": "Wed, 12 Aug 2026 09:24:02 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -198,31 +220,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia\u2019s Odesa strikes halve Ukraine\u2019s grain export forecast - euromaidanpress.com",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3NzeW5xdWhMV0dURTFSQnVXbkpfZC15ZkRxcmx2czJ2VVV5OWdGYnFmR2RiTlRNVV84cUluM3ZMUE9xSnctWDA2bXh5UjJLWXh1LWJseTlmMnlZaFNrd0FPX3lGTERldW1tYldNWmFvODdiUVVJNHVlM1h1MTFwRWQ1bDRvc0lSRnFyejAxbGdmZw?oc=5",
-  "published": "Tue, 11 Aug 2026 17:49:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Ukraine lowers grain export outlook after Russian attacks disrupt ports - T\u00fcrkiye Today",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWE3ZF9KSnFTVHQ2ZWdhYnB3UU41YVM4bVZrUEU3b1JpMll6aHdmeXNadGFBUXNpMTRZWjM1NUNOYlFCbDdmajZNbmJab2ZiZmlLR09ySHFpdXNQUl9hZVlDSGNLUlF0SHhpOEloeE4wQ3RjV2g4a0dNTTNiem1HRnRwY0Z1NGcyY0tCdGhkRWE0T3dyNFNjWkJ5Q1U2WUlqQXlOWTZZcENqU3FrWm84WEJMVWI?oc=5",
   "published": "Mon, 10 Aug 2026 14:11:03 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Ukraine Grain Exports to Slump After Russian Strikes on Odesa - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTm1zX2RMQU9WaGNkNlhLbXcwemxQMHRHMnJrWHZVWXlXbFF3SXg2OHYybjZfZ3UzdVhpOTB2N0c2bXNPaG9Kb3BpWXJMYl9LakZ3bkRJUnBlQlFWdVdXR0p3NHpvTHV3U3ZWVnFFc18xdWs0MExvdEN1clE4WnV3VzNKdDNRTTJOYVFTRUpnM1hKbUEzOW5yZFFDMmFrZDhLY1k5LVFrdVNJNERKb3R4Ykt3?oc=5",
-  "published": "Fri, 07 Aug 2026 14:50:10 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
