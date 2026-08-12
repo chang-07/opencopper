@@ -24,7 +24,7 @@ band is wide, the elasticities are doing the work, not the event.
 _11 corroborating headline(s):_
 - [The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas—Not Expand It - International Institute for Sustainable Development](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5)
 - [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
-- [OPEC Raises Oil Output in July After Hormuz Strait Blockade - energynews.pro](https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0ZJRGhkVUh5SjdIdm8xN1JBbVBZUHFtcTVoazloeWdwempXaUVGZWxlZmptMXI2b0xFOVZ5Xzc0c2duZXVpeUJSRnZOTktiTFZiNHYzTHdTU19aMHozZ3hBa25ONkVLVGRCUG9wLTUtWkhhU3BnVnpiejlTM2Eyb212dmpDY3I5Zm5VU0l3?oc=5)
+- [Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - Eurasia Review](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVRxeXhQeUlWb25rSmcwdlRNak5TZ252T1VTTjFaQUdONmJsbVRPUWk0bXQtbTlBaTRjLVFEMkxDRVE0Q3RQUmtMUy1tNVZ2Q19BMUpLZjdkUnFlLTIteGZ4WUE5NmhaYjhwQXBiSjZtNUliRlE5ZGYyZGpHLVBuLTl4aGR2d3N3dFpYT2d2Snl1RldQWXVEUFRVWk1aNDllNTBOX3U1OGlvRmdWYjNpUHNYTTdFY090UWZMMFBOeF9fUXpFX0pNMU9lX2JpZGFocUFLMw?oc=5)
 - …and 8 more
 
 ## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com
@@ -66,7 +66,7 @@ _4 corroborating headline(s):_
 - [Congo bans exports of copper, cobalt concentrates, official order says - Mining Weekly](https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0JyNjNXQVMtTWRNcGtla09udTNRb1NMeXBETkF0Mm1ER01uWGpYSU9Yd0xhTzBGZFp6WHliQk1QU3VWcWtTSGhnTWlwMXA0elFPNkR5ZTltOVNfT1dyZ1pZYTE4d1U4TEdsTjBSQ1UzV3NFSGFPZzQxR3ZFMm93YktSV2g3cjFmYTM2X05HaGtVZFdOZDNmOE9MVFJVcWVHd1BWTERmeHpIZkVYaFVxYkRYQ0FpRU0?oc=5)
 - …and 1 more
 
-## Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times
+## Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - themoscowtimes.com
 *Tue, 11 Aug 2026 14:59:38 GMT* — [source](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
@@ -82,11 +82,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_6 corroborating headline(s):_
 - [EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxNekxQUnMwU09VWk1GRXI5Y18xYkQ1MVV3THExMHlKU3JDaFVZVGFnX2xUV0tZbTY3RGNQamdCdkZHRndOV2p4OElDVkkxZW00M2tFWkZuN1dYaXVWZ0wydnZkTy1PeTVrLS1oU0M1X0Q4Tk1HZzVvemRuRzMtczdwWE10N1RQaUg4ZEpUM0lvMDc2RDIxTXZCSzFUUXJ2SGZKWmVhaDRR?oc=5)
 - [Russia’s Odesa strikes halve Ukraine’s grain export forecast - Euromaidan Press](https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3NzeW5xdWhMV0dURTFSQnVXbkpfZC15ZkRxcmx2czJ2VVV5OWdGYnFmR2RiTlRNVV84cUluM3ZMUE9xSnctWDA2bXh5UjJLWXh1LWJseTlmMnlZaFNrd0FPX3lGTERldW1tYldNWmFvODdiUVVJNHVlM1h1MTFwRWQ1bDRvc0lSRnFyejAxbGdmZw?oc=5)
 - [Ukraine grain exports fall to meagre levels in August, farmers union says - Arab News](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mLUw5Z1lUQzN1OE41ZkZVNXk3MFJCTWdReFZwcGYzd0NkR0JTd1lfWm9waExMUnkxNU9KdEg3Ti0wOUJMYmhxa2VfY01QWDBaRVRv?oc=5)
-- …and 2 more
+- …and 3 more
 
 ---
 

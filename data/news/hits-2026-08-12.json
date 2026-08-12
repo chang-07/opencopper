@@ -33,17 +33,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC Raises Oil Output in July After Hormuz Strait Blockade - energynews.pro",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0ZJRGhkVUh5SjdIdm8xN1JBbVBZUHFtcTVoazloeWdwempXaUVGZWxlZmptMXI2b0xFOVZ5Xzc0c2duZXVpeUJSRnZOTktiTFZiNHYzTHdTU19aMHozZ3hBa25ONkVLVGRCUG9wLTUtWkhhU3BnVnpiejlTM2Eyb212dmpDY3I5Zm5VU0l3?oc=5",
-  "published": "Tue, 11 Aug 2026 11:22:07 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - Eurasia Review",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVRxeXhQeUlWb25rSmcwdlRNak5TZ252T1VTTjFaQUdONmJsbVRPUWk0bXQtbTlBaTRjLVFEMkxDRVE0Q3RQUmtMUy1tNVZ2Q19BMUpLZjdkUnFlLTIteGZ4WUE5NmhaYjhwQXBiSjZtNUliRlE5ZGYyZGpHLVBuLTl4aGR2d3N3dFpYT2d2Snl1RldQWXVEUFRVWk1aNDllNTBOX3U1OGlvRmdWYjNpUHNYTTdFY090UWZMMFBOeF9fUXpFX0pNMU9lX2JpZGFocUFLMw?oc=5",
   "published": "Tue, 11 Aug 2026 00:40:51 GMT",
@@ -55,9 +44,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Hits $90 As Iran Insists Strait Of Hormuz Will Remain Closed - arise.tv",
+  "headline": "Oil Hits $90 As Iran Insists Strait Of Hormuz Will Remain Closed - Arise News",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVG1qQTJSZWhuLS04Z1VFOHhYNHd5UzhXVDZieXRDYmhSOFBHN0lybHBPMW15N0l0Wm5aWEl0d2JwT2hUMmtVcGJSMVJid0FCSVNNX1dlakRQSjBkSnZncUhxVW1FYW9lRHJPMzBkYVBPd0s4dk5nUFZjSnR1aGJxaEw1WURsWmFaenBzSldR?oc=5",
   "published": "Wed, 12 Aug 2026 06:31:26 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "OPEC Raises Oil Output in July After Hormuz Strait Blockade - energynews.pro",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0ZJRGhkVUh5SjdIdm8xN1JBbVBZUHFtcTVoazloeWdwempXaUVGZWxlZmptMXI2b0xFOVZ5Xzc0c2duZXVpeUJSRnZOTktiTFZiNHYzTHdTU19aMHozZ3hBa25ONkVLVGRCUG9wLTUtWkhhU3BnVnpiejlTM2Eyb212dmpDY3I5Zm5VU0l3?oc=5",
+  "published": "Tue, 11 Aug 2026 11:22:07 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -110,7 +110,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - es.tradingview.com",
+  "headline": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz - TradingView",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2NqaGlWcHM5enpWclQ4bnotcGo4X0xHcW9USjBJVjgybHdSemJlSmtCczVNLXU1U3ZtR0dqRVE5a0VIVndfOEhhQV9qbU5VekI4R2RFdEtQX1N4bUUzOS1IWGNreDhlLVpSLURMc1JON2RwcDNxc1RvbXNETnExNDV5SDhLSXc1UGdTdDBQU2xyZl9VWVJ5dGVieG54akR2MlNOOFNUTDZxY2pxTGtwekZ4OTlEbGdFY2NOcGZyeE1ud0E?oc=5",
   "published": "Thu, 30 Jul 2026 19:14:09 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -132,7 +132,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Tumble as Talks Resume to Reopen Strait of Hormuz - es.tradingview.com",
+  "headline": "Crude Oil Prices Tumble as Talks Resume to Reopen Strait of Hormuz - TradingView",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3N4RjlTRGZjVExQT2tFT3M3TFlrdGhyNTUxZjZrd3FPYlBDS1JDZFZsRmdhQ3BPUjF0ODliVFJ1SU5jYjg1eml0TlRNblZ1YUZoUkRIQ3N4alpvR0FjVDNyRkV5TDVIWGNwc19ubXFYV3lKRWdmSUpOVU1hUXg5TEFVSHN4REUxMG1kdTR2czAyZlVWUU1kNWFQckZRZWd1NHdWbHotMkw2V2Mxdk9LSW14ODhGdGNXWk56QmsyOEVkQQ?oc=5",
   "published": "Mon, 03 Aug 2026 15:45:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -198,7 +198,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times",
+  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - themoscowtimes.com",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5",
   "published": "Tue, 11 Aug 2026 14:59:38 GMT",
   "rule_note": "",
@@ -256,6 +256,17 @@
   "headline": "Ukraine lowers grain export outlook after Russian attacks disrupt ports - T\u00fcrkiye Today",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWE3ZF9KSnFTVHQ2ZWdhYnB3UU41YVM4bVZrUEU3b1JpMll6aHdmeXNadGFBUXNpMTRZWjM1NUNOYlFCbDdmajZNbmJab2ZiZmlLR09ySHFpdXNQUl9hZVlDSGNLUlF0SHhpOEloeE4wQ3RjV2g4a0dNTTNiem1HRnRwY0Z1NGcyY0tCdGhkRWE0T3dyNFNjWkJ5Q1U2WUlqQXlOWTZZcENqU3FrWm84WEJMVWI?oc=5",
   "published": "Mon, 10 Aug 2026 14:11:03 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Ukraine Grain Exports to Slump After Russian Strikes on Odesa - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTm1zX2RMQU9WaGNkNlhLbXcwemxQMHRHMnJrWHZVWXlXbFF3SXg2OHYybjZfZ3UzdVhpOTB2N0c2bXNPaG9Kb3BpWXJMYl9LakZ3bkRJUnBlQlFWdVdXR0p3NHpvTHV3U3ZWVnFFc18xdWs0MExvdEN1clE4WnV3VzNKdDNRTTJOYVFTRUpnM1hKbUEzOW5yZFFDMmFrZDhLY1k5LVFrdVNJNERKb3R4Ykt3?oc=5",
+  "published": "Fri, 07 Aug 2026 14:50:10 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
