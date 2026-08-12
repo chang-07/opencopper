@@ -2,7 +2,7 @@
  {
   "headline": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5",
-  "published": "Wed, 12 Aug 2026 12:37:00 GMT",
+  "published": "Wed, 12 Aug 2026 13:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -14,6 +14,17 @@
   "headline": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5",
   "published": "Wed, 12 Aug 2026 06:36:04 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "IEA sharply cuts 2026 global oil supply outlook amid Hormuz disruption - \u0633\u0627\u0646\u0627",
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14LVdDRzlNd1Q3dHA4ZlEwMHQtcHlaSkpwdkRTTER4emVBNXYxTGRWbFVnejdyUmM1UnZ0V05NaEsxb0V6SjFXU1RGTzE?oc=5",
+  "published": "Wed, 12 Aug 2026 14:13:26 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -44,20 +55,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - Eurasia Review",
+  "headline": "Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - eurasiareview.com",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVRxeXhQeUlWb25rSmcwdlRNak5TZ252T1VTTjFaQUdONmJsbVRPUWk0bXQtbTlBaTRjLVFEMkxDRVE0Q3RQUmtMUy1tNVZ2Q19BMUpLZjdkUnFlLTIteGZ4WUE5NmhaYjhwQXBiSjZtNUliRlE5ZGYyZGpHLVBuLTl4aGR2d3N3dFpYT2d2Snl1RldQWXVEUFRVWk1aNDllNTBOX3U1OGlvRmdWYjNpUHNYTTdFY090UWZMMFBOeF9fUXpFX0pNMU9lX2JpZGFocUFLMw?oc=5",
   "published": "Tue, 11 Aug 2026 00:40:51 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil Hits $90 As Iran Insists Strait Of Hormuz Will Remain Closed - Arise News",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVG1qQTJSZWhuLS04Z1VFOHhYNHd5UzhXVDZieXRDYmhSOFBHN0lybHBPMW15N0l0Wm5aWEl0d2JwT2hUMmtVcGJSMVJid0FCSVNNX1dlakRQSjBkSnZncUhxVW1FYW9lRHJPMzBkYVBPd0s4dk5nUFZjSnR1aGJxaEw1WURsWmFaenBzSldR?oc=5",
-  "published": "Wed, 12 Aug 2026 06:31:26 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,7 +77,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "UAE's Adnoc announces $8bn gas expansion, as it mulls Hormuz bypass - middleeasteye.net",
+  "headline": "Oil Hits $90 As Iran Insists Strait Of Hormuz Will Remain Closed - Arise News",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVG1qQTJSZWhuLS04Z1VFOHhYNHd5UzhXVDZieXRDYmhSOFBHN0lybHBPMW15N0l0Wm5aWEl0d2JwT2hUMmtVcGJSMVJid0FCSVNNX1dlakRQSjBkSnZncUhxVW1FYW9lRHJPMzBkYVBPd0s4dk5nUFZjSnR1aGJxaEw1WURsWmFaenBzSldR?oc=5",
+  "published": "Wed, 12 Aug 2026 06:31:26 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "UAE's Adnoc announces $8bn gas expansion, as it mulls Hormuz bypass - Middle East Eye",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXdYbnVxcGNMUk43V2FYeGtZNFlMWjBNN2ZTUGF6ZFBNOEliZnQzbE5qOGVrMkUtS2dzbC1mZEg2Y2ZYeHljR25RWk4zN0prSHBFcEh2OEhtSDdDREFJeHR3aUxtNmd3RFdQWUEtVDJESjlLRlNVTkxoekhmTFhDbk4zcEp5cEo1ejBObDdyaE50N29hNmdkZGNYOG0?oc=5",
   "published": "Mon, 10 Aug 2026 17:39:58 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -187,7 +198,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia\u2019s Odesa strikes halve Ukraine\u2019s grain export forecast - Euromaidan Press",
+  "headline": "Russia\u2019s Odesa strikes halve Ukraine\u2019s grain export forecast - euromaidanpress.com",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3NzeW5xdWhMV0dURTFSQnVXbkpfZC15ZkRxcmx2czJ2VVV5OWdGYnFmR2RiTlRNVV84cUluM3ZMUE9xSnctWDA2bXh5UjJLWXh1LWJseTlmMnlZaFNrd0FPX3lGTERldW1tYldNWmFvODdiUVVJNHVlM1h1MTFwRWQ1bDRvc0lSRnFyejAxbGdmZw?oc=5",
   "published": "Tue, 11 Aug 2026 17:49:00 GMT",
   "rule_note": "",
