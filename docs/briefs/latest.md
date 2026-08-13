@@ -5,7 +5,7 @@ impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
 ## OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ
-*Wed, 12 Aug 2026 14:06:48 GMT* — [source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5)
+*Wed, 12 Aug 2026 13:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -65,11 +65,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_9 corroborating headline(s):_
+_7 corroborating headline(s):_
 - [Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets - CNBC](https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSWtXLXFuV3JTdHVRRG42UU5Iclp5dVpFOFh2RmNxXzQ4NWxXSlo0THo4X2VPSy1TalhwRk1SYjNva2lXQmsxN24tRVFnczhBT0ZjR1pybUVrbWVGUmtWd3c5bXhwSktVQVJtTHNSRWZNWENtZXhYLXB30gF_QVVfeXFMT2tUYml0RlZKY1R0U01td0Y0NUVPQ3loTU9FSTIyVVdZY3NNRWU4dGpEbzBfVVRXMEg2ZzYwTFVDRGVEODJRNXRUckxlajZ6LTZUZnBZQXh0eHJ5X1hUbWpXejJjV3Vuc3A5NEl2M3hrdmZPanBzT0IzbWt6Y2hwVQ?oc=5)
 - [Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5)
 - [Black Sea blockade traps Ukraine grain and raises risks for U.S. agriculture - Agrolatam](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmQ5YXlZcmstR21EcG9CbDZuZV9ZOEE5d01JaXBXV0pKblZObUVqZl9tN05WTHpWdnlTVUFvWU1sd09ldV9TUGJEaWUtaUJucUFmbVowRTAtUWdjSDVpakVoSWpRcW0yems0MUxjdmhzamh5ZFFVaHd6QzNtalp4TlhwakFoOW5xd1VPdzhB?oc=5)
-- …and 6 more
+- …and 4 more
 
 ---
 
