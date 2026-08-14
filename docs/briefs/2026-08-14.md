@@ -60,10 +60,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
-- [DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - fastmarkets.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5)
+_5 corroborating headline(s):_
+- [DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5)
 - [Congo bans copper and cobalt concentrate exports, Turkey and PKK close to ending forty-year conflict, Ukraine and Russia continue to trade blows - Yahoo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOd043dW40YjIwVmZSV3FCRnlYR2RSa25wYTJ5dGg2aWtPaGhQSzM1ZWoxQ2dKeVpSbjIzTmNZdzRVMGFvYTlESGwzeWdUQlZHZksyWFAzalNNSi0tX3RZYlBOdGFYMENUeGhsazZaZWN1b1pFeXYxMG91ZWtROEU0MFBTaTdsTGV5MDNmX3JsejE3bDA5Rmc?oc=5)
 - [Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5)
+- …and 2 more
 
 ## Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC
 *Thu, 13 Aug 2026 03:28:56 GMT* — [source](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5)
@@ -81,11 +82,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_7 corroborating headline(s):_
+- [Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security - The Conversation](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEowc05FNVhjbzJKVDZsY2hjOHVSQTdIZnh5MFhkVDJKVkVkY2lhWUhjV2lhWUQtU2FhcFUyZ1hSU050SjA0MWtwUGZLaFhDZjFRckpqdFFoMmdISW9kSVJzc1pKRHVhcnJ1a1ZDUWZOZ05MbWtJNGl1Q1IxUkFCQ2NpVGVyd0lkNXo2RzJPZy11aVI3eVFHWUhjbWE0R2d6LWpWcjVlOTBKVDY2Y3A5ODRCa016NXFHUWZveElndXp1LXByQXFqWkZIYVdSbkFXdkVna2U5NDQ?oc=5)
 - [Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - themoscowtimes.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5)
 - [Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets - CNBC](https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSWtXLXFuV3JTdHVRRG42UU5Iclp5dVpFOFh2RmNxXzQ4NWxXSlo0THo4X2VPSy1TalhwRk1SYjNva2lXQmsxN24tRVFnczhBT0ZjR1pybUVrbWVGUmtWd3c5bXhwSktVQVJtTHNSRWZNWENtZXhYLXB30gF_QVVfeXFMT2tUYml0RlZKY1R0U01td0Y0NUVPQ3loTU9FSTIyVVdZY3NNRWU4dGpEbzBfVVRXMEg2ZzYwTFVDRGVEODJRNXRUckxlajZ6LTZUZnBZQXh0eHJ5X1hUbWpXejJjV3Vuc3A5NEl2M3hrdmZPanBzT0IzbWt6Y2hwVQ?oc=5)
-- [Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security - The Conversation](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEowc05FNVhjbzJKVDZsY2hjOHVSQTdIZnh5MFhkVDJKVkVkY2lhWUhjV2lhWUQtU2FhcFUyZ1hSU050SjA0MWtwUGZLaFhDZjFRckpqdFFoMmdISW9kSVJzc1pKRHVhcnJ1a1ZDUWZOZ05MbWtJNGl1Q1IxUkFCQ2NpVGVyd0lkNXo2RzJPZy11aVI3eVFHWUhjbWE0R2d6LWpWcjVlOTBKVDY2Y3A5ODRCa016NXFHUWZveElndXp1LXByQXFqWkZIYVdSbkFXdkVna2U5NDQ?oc=5)
-- …and 2 more
+- …and 4 more
 
 ---
 
