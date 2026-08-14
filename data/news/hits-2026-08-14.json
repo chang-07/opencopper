@@ -33,7 +33,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - Atlantic Council",
+  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - atlanticcouncil.org",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5",
   "published": "Wed, 12 Aug 2026 20:15:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -66,7 +66,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - eurasiareview.com",
+  "headline": "Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - Eurasia Review",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVRxeXhQeUlWb25rSmcwdlRNak5TZ252T1VTTjFaQUdONmJsbVRPUWk0bXQtbTlBaTRjLVFEMkxDRVE0Q3RQUmtMUy1tNVZ2Q19BMUpLZjdkUnFlLTIteGZ4WUE5NmhaYjhwQXBiSjZtNUliRlE5ZGYyZGpHLVBuLTl4aGR2d3N3dFpYT2d2Snl1RldQWXVEUFRVWk1aNDllNTBOX3U1OGlvRmdWYjNpUHNYTTdFY090UWZMMFBOeF9fUXpFX0pNMU9lX2JpZGFocUFLMw?oc=5",
   "published": "Tue, 11 Aug 2026 00:40:51 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -88,17 +88,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "UAE\u2019s ADNOC helps keep Iraqi oil flowing through Strait of Hormuz - Iraqi News",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTNPMWFlMlNDR2JDeVl2eURQaFVGNXFvOHEtd1oyZmMzZHd6LXhkYjRrZGZySnJUUnpEdlp0RUx5a09ZQXpDWDBvbDloTXhKNTlIVWgwOXR4MFJyN1ozSnl0UVJ6aVMzbldXbmJBWmZKS2x1OU9wT3ExOTJYenA4bXNndExfMTNkR1Bfd2labV9ZQzZiY1hEdUtnUUM?oc=5",
-  "published": "Thu, 13 Aug 2026 13:40:03 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Kuwait\u2019s Oil Sector Hit by Prolonged Strait of Hormuz Closure - Khaama Press",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzlaR0Z4Z3hHQ0YzWjFwQ0ZBQi1TNGNDZExSc0JfT3g1TXVkWnpKZk45UDRFXzJuR2s1LTlpN3R0N1diQ01MQ2Rza0ltbmljOUxIeWtsbDR1a1gwRl9aUlpsRkpSell6MVptYlpzb25uYmI2dV85aVdxMUJ3MjhxYnN5anYxRnBEa2ZUTA?oc=5",
   "published": "Fri, 14 Aug 2026 08:15:00 GMT",
@@ -110,9 +99,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "IEA and OPEC split on global oil demand estimates as Strait of Hormuz closure drags - Yahoo Finance Singapore",
+  "headline": "IEA and OPEC split on global oil demand estimates as Strait of Hormuz closure drags - sg.finance.yahoo.com",
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibzBsd3NKLVVsaV9GWVRsZkpWNTA1VV9fcl9vSndydXgtTGZnYUk0VUN3dEo4WUtSN1BKSmlXUmdBN1ppRHJmNGhldmxSNjlaZ0hkdmVRMGh3MVBLc3dxemd2SlZPQ0Z4LURPMHRJaC00T2dkSUxCNE5POWpIX2s?oc=5",
   "published": "Wed, 12 Aug 2026 14:50:10 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "UAE\u2019s ADNOC helps keep Iraqi oil flowing through Strait of Hormuz - Iraqi News",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTNPMWFlMlNDR2JDeVl2eURQaFVGNXFvOHEtd1oyZmMzZHd6LXhkYjRrZGZySnJUUnpEdlp0RUx5a09ZQXpDWDBvbDloTXhKNTlIVWgwOXR4MFJyN1ozSnl0UVJ6aVMzbldXbmJBWmZKS2x1OU9wT3ExOTJYenA4bXNndExfMTNkR1Bfd2labV9ZQzZiY1hEdUtnUUM?oc=5",
+  "published": "Thu, 13 Aug 2026 13:40:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -242,7 +242,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo Bans Copper and Cobalt Concentrate Exports as Copper Prices Spike - startupfortune.com",
+  "headline": "Congo Bans Copper and Cobalt Concentrate Exports as Copper Prices Spike - Startup Fortune",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdi15THd5SEEweWh6TkZSYkZJa0dUa0xFTFBvRTZJUlI4TmkxLUtCaW1tVllfY3JUWC1US25hZXhYNXU2am93UlJQcmR0c0ZEWkthR0xsMHpzMTFrRnFtcl9oVnFCMFFJdTF0RktqcVlJZzc1YjNZLWtNRDdyZHp0QVFrLUk0dGVZQ1J4RnB0WTlkejk1RTN4V1d6QjAzWUY3?oc=5",
   "published": "Thu, 06 Aug 2026 23:47:08 GMT",
   "rule_note": "",
@@ -286,7 +286,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia is cutting off Ukraine\u2019s grain exports again, threatening a critical harvest and global food security - theconversation.com",
+  "headline": "Russia is cutting off Ukraine\u2019s grain exports again, threatening a critical harvest and global food security - The Conversation",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEowc05FNVhjbzJKVDZsY2hjOHVSQTdIZnh5MFhkVDJKVkVkY2lhWUhjV2lhWUQtU2FhcFUyZ1hSU050SjA0MWtwUGZLaFhDZjFRckpqdFFoMmdISW9kSVJzc1pKRHVhcnJ1a1ZDUWZOZ05MbWtJNGl1Q1IxUkFCQ2NpVGVyd0lkNXo2RzJPZy11aVI3eVFHWUhjbWE0R2d6LWpWcjVlOTBKVDY2Y3A5ODRCa016NXFHUWZveElndXp1LXByQXFqWkZIYVdSbkFXdkVna2U5NDQ?oc=5",
   "published": "Fri, 14 Aug 2026 02:28:00 GMT",
   "rule_note": "",
@@ -341,18 +341,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea Grain Corridor on the Brink of Collapse: Ukraine's Grain Exports Plunge 76% in August - finance.biggo.com",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1eE5GNHhqdzdsam5ScG5qNFlzRERKUDM2TFphbWlTLTVPWTh3a2gxUXlMTjdpdXAzcDQ4c3VqS1JJZkFGSEZaUHZQLXBGTzJPQ2dFNXY0VU9SdTByazRWVEFjYVg1WHlSLVFudmp5UkhjeWwycGc?oc=5",
-  "published": "Fri, 14 Aug 2026 00:55:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Ukraine Strikes Grain Terminals at Russia\u2019s Key Black Sea Port - Bloomberg.com",
+  "headline": "Ukraine Strikes Grain Terminals at Russia\u2019s Key Black Sea Port - Bloomberg",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXBEZ3BMM0pxbWdtcE1pYjhmUHl5c0hPaHVUejk2OFU5MWgtR0MycTc2TWdlbzlZQ1JNT3AxNmwxeDNrckEzSlNPWmx2a1NwbG5hU2drWUhiVFl3X2hfLUFtak9VUUdkbU9xNmpYQ0ItMVNfZDR0VGJwaEJHVmkwaWJFV09kMUhWREhuWmlaVm50LWloU01nNER1ZWZZQTAwUlVDQXJhZlBVY1hHcXNuRFRxbw?oc=5",
   "published": "Wed, 12 Aug 2026 18:28:39 GMT",
   "rule_note": "",
