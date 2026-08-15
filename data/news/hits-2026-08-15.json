@@ -33,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran hits back after Trump says he may declare Hormuz US territory - Iran International",
-  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ySWlQZDV2VEFEOWtycXU2Wl85MUFqc2QwVTE3bFpRQk9hLVI5N0ZYZS12RW50QXRVVjdJblQ2aXp4NndTM2xxOXFUbFJmQkpYbXc?oc=5",
-  "published": "Fri, 14 Aug 2026 21:28:17 GMT",
+  "headline": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5",
+  "published": "Wed, 12 Aug 2026 06:36:04 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -44,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5",
-  "published": "Wed, 12 Aug 2026 06:36:04 GMT",
+  "headline": "Iran hits back after Trump says he may declare Hormuz US territory - Iran International",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ySWlQZDV2VEFEOWtycXU2Wl85MUFqc2QwVTE3bFpRQk9hLVI5N0ZYZS12RW50QXRVVjdJblQ2aXp4NndTM2xxOXFUbFJmQkpYbXc?oc=5",
+  "published": "Fri, 14 Aug 2026 21:28:17 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,20 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices remain below $100 despite tensions surrounding the Strait of Hormuz - UA.NEWS",
+  "headline": "Oil prices remain below $100 despite tensions surrounding the Strait of Hormuz - ua.news",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUl2R1BYM1VORHA4TEtWN185ZFF5MktJMk12X0JmZFBKeWItUkV6cExKM2dURlBvelhwNGdCZEptcWw1V1ZrWWFUSUttZTRuWVhic085UFBvSnV0em14SjRTV1lzUUR1SERaZmpfcTR2Y21XYjB1QlNCV3pWRmNMNnFNY2hZOWs1Z1d1SVNkem9HMjZtN1didEhHTXdPVHB5emd3NUoxYw?oc=5",
   "published": "Thu, 13 Aug 2026 18:09:14 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil Prices Rise on Strait of Hormuz Attack | Weekly Gains - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVA5a2NjQnNNLWRoMUQ5TTVFRmtQX190VDRWQ0NHdWdVZzZTQVFLVVZZd2NfV1ZLa1VBZzVGNjgtNlh1Qk5zWVVCVHVnUU5wRVZKeHR5UHVmLXZibmZkbW54bEpWcWRvWjhsR21rYjhzWDhZc3lfU3dCRWx2blVPbGFNT29lQlNCVG03ZlluNW9hamlNX29vOHJvbw?oc=5",
-  "published": "Fri, 14 Aug 2026 10:51:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -110,9 +99,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - eurasiareview.com",
+  "headline": "Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis - Eurasia Review",
   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVRxeXhQeUlWb25rSmcwdlRNak5TZ252T1VTTjFaQUdONmJsbVRPUWk0bXQtbTlBaTRjLVFEMkxDRVE0Q3RQUmtMUy1tNVZ2Q19BMUpLZjdkUnFlLTIteGZ4WUE5NmhaYjhwQXBiSjZtNUliRlE5ZGYyZGpHLVBuLTl4aGR2d3N3dFpYT2d2Snl1RldQWXVEUFRVWk1aNDllNTBOX3U1OGlvRmdWYjNpUHNYTTdFY090UWZMMFBOeF9fUXpFX0pNMU9lX2JpZGFocUFLMw?oc=5",
   "published": "Tue, 11 Aug 2026 00:40:51 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil Prices Rise on Strait of Hormuz Attack | Weekly Gains - News and Statistics - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVA5a2NjQnNNLWRoMUQ5TTVFRmtQX190VDRWQ0NHdWdVZzZTQVFLVVZZd2NfV1ZLa1VBZzVGNjgtNlh1Qk5zWVVCVHVnUU5wRVZKeHR5UHVmLXZibmZkbW54bEpWcWRvWjhsR21rYjhzWDhZc3lfU3dCRWx2blVPbGFNT29lQlNCVG03ZlluNW9hamlNX29vOHJvbw?oc=5",
+  "published": "Fri, 14 Aug 2026 10:51:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -143,7 +143,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "UAE\u2019s ADNOC helps keep Iraqi oil flowing through Strait of Hormuz - iraqinews.com",
+  "headline": "UAE\u2019s ADNOC helps keep Iraqi oil flowing through Strait of Hormuz - Iraqi News",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTNPMWFlMlNDR2JDeVl2eURQaFVGNXFvOHEtd1oyZmMzZHd6LXhkYjRrZGZySnJUUnpEdlp0RUx5a09ZQXpDWDBvbDloTXhKNTlIVWgwOXR4MFJyN1ozSnl0UVJ6aVMzbldXbmJBWmZKS2x1OU9wT3ExOTJYenA4bXNndExfMTNkR1Bfd2labV9ZQzZiY1hEdUtnUUM?oc=5",
   "published": "Thu, 13 Aug 2026 13:40:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -176,9 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - energynow.ca",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5",
-  "published": "Tue, 11 Aug 2026 23:10:11 GMT",
+  "headline": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
+  "published": "Fri, 07 Aug 2026 16:04:46 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -187,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
-  "published": "Fri, 07 Aug 2026 16:04:46 GMT",
+  "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5",
+  "published": "Tue, 11 Aug 2026 23:10:11 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -209,7 +209,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets",
+  "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - fastmarkets.com",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5",
   "published": "Wed, 12 Aug 2026 13:38:19 GMT",
   "rule_note": "",
@@ -264,9 +264,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5",
-  "published": "Tue, 11 Aug 2026 14:59:38 GMT",
+  "headline": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSWtXLXFuV3JTdHVRRG42UU5Iclp5dVpFOFh2RmNxXzQ4NWxXSlo0THo4X2VPSy1TalhwRk1SYjNva2lXQmsxN24tRVFnczhBT0ZjR1pybUVrbWVGUmtWd3c5bXhwSktVQVJtTHNSRWZNWENtZXhYLXB30gF_QVVfeXFMT2tUYml0RlZKY1R0U01td0Y0NUVPQ3loTU9FSTIyVVdZY3NNRWU4dGpEbzBfVVRXMEg2ZzYwTFVDRGVEODJRNXRUckxlajZ6LTZUZnBZQXh0eHJ5X1hUbWpXejJjV3Vuc3A5NEl2M3hrdmZPanBzT0IzbWt6Y2hwVQ?oc=5",
+  "published": "Thu, 13 Aug 2026 07:20:28 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -275,9 +275,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSWtXLXFuV3JTdHVRRG42UU5Iclp5dVpFOFh2RmNxXzQ4NWxXSlo0THo4X2VPSy1TalhwRk1SYjNva2lXQmsxN24tRVFnczhBT0ZjR1pybUVrbWVGUmtWd3c5bXhwSktVQVJtTHNSRWZNWENtZXhYLXB30gF_QVVfeXFMT2tUYml0RlZKY1R0U01td0Y0NUVPQ3loTU9FSTIyVVdZY3NNRWU4dGpEbzBfVVRXMEg2ZzYwTFVDRGVEODJRNXRUckxlajZ6LTZUZnBZQXh0eHJ5X1hUbWpXejJjV3Vuc3A5NEl2M3hrdmZPanBzT0IzbWt6Y2hwVQ?oc=5",
-  "published": "Thu, 13 Aug 2026 07:20:28 GMT",
+  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5",
+  "published": "Tue, 11 Aug 2026 14:59:38 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -319,9 +319,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine Strikes Grain Terminals at Russia\u2019s Key Black Sea Port - bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXBEZ3BMM0pxbWdtcE1pYjhmUHl5c0hPaHVUejk2OFU5MWgtR0MycTc2TWdlbzlZQ1JNT3AxNmwxeDNrckEzSlNPWmx2a1NwbG5hU2drWUhiVFl3X2hfLUFtak9VUUdkbU9xNmpYQ0ItMVNfZDR0VGJwaEJHVmkwaWJFV09kMUhWREhuWmlaVm50LWloU01nNER1ZWZZQTAwUlVDQXJhZlBVY1hHcXNuRFRxbw?oc=5",
-  "published": "Wed, 12 Aug 2026 18:28:39 GMT",
+  "headline": "Black Sea blockade traps Ukraine grain and raises risks for U.S. agriculture - Agrolatam",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmQ5YXlZcmstR21EcG9CbDZuZV9ZOEE5d01JaXBXV0pKblZObUVqZl9tN05WTHpWdnlTVUFvWU1sd09ldV9TUGJEaWUtaUJucUFmbVowRTAtUWdjSDVpakVoSWpRcW0yems0MUxjdmhzamh5ZFFVaHd6QzNtalp4TlhwakFoOW5xd1VPdzhB?oc=5",
+  "published": "Thu, 13 Aug 2026 15:17:19 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -330,9 +330,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea blockade traps Ukraine grain and raises risks for U.S. agriculture - Agrolatam",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmQ5YXlZcmstR21EcG9CbDZuZV9ZOEE5d01JaXBXV0pKblZObUVqZl9tN05WTHpWdnlTVUFvWU1sd09ldV9TUGJEaWUtaUJucUFmbVowRTAtUWdjSDVpakVoSWpRcW0yems0MUxjdmhzamh5ZFFVaHd6QzNtalp4TlhwakFoOW5xd1VPdzhB?oc=5",
-  "published": "Thu, 13 Aug 2026 15:17:19 GMT",
+  "headline": "Ukraine Strikes Grain Terminals at Russia\u2019s Key Black Sea Port - Bloomberg",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXBEZ3BMM0pxbWdtcE1pYjhmUHl5c0hPaHVUejk2OFU5MWgtR0MycTc2TWdlbzlZQ1JNT3AxNmwxeDNrckEzSlNPWmx2a1NwbG5hU2drWUhiVFl3X2hfLUFtak9VUUdkbU9xNmpYQ0ItMVNfZDR0VGJwaEJHVmkwaWJFV09kMUhWREhuWmlaVm50LWloU01nNER1ZWZZQTAwUlVDQXJhZlBVY1hHcXNuRFRxbw?oc=5",
+  "published": "Wed, 12 Aug 2026 18:28:39 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
