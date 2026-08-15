@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _16 corroborating headline(s):_
 - [OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5)
-- [Aramco reports sharp drop in Q2 2026 hydrocarbon output to 9.5 million barrels per day amid Strait of Hormuz supply disruption - Energies Media](https://news.google.com/rss/articles/CBMidkFVX3lxTE8teVIwLWttQ1V2VVFjSEhoNXlkbFNPR21BN0llX29pbWdreEpRWlhMaV9RYmhnTzBmdndRYUJMbnpoUk0tMVhhSlBpSFVFMGVYQzlNREZ4MzBzay1oTnhOVGxOTWVCNnR2ZDRuUDZNM0pxbWZDRHc?oc=5)
 - [Iran is draining its leverage in the Strait of Hormuz. Trump’s best move is to let it happen. - Atlantic Council](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5)
+- [Aramco reports sharp drop in Q2 2026 hydrocarbon output to 9.5 million barrels per day amid Strait of Hormuz supply disruption - Energies Media](https://news.google.com/rss/articles/CBMidkFVX3lxTE8teVIwLWttQ1V2VVFjSEhoNXlkbFNPR21BN0llX29pbWdreEpRWlhMaV9RYmhnTzBmdndRYUJMbnpoUk0tMVhhSlBpSFVFMGVYQzlNREZ4MzBzay1oTnhOVGxOTWVCNnR2ZDRuUDZNM0pxbWZDRHc?oc=5)
 - …and 13 more
 
 ## Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com
@@ -62,7 +62,7 @@ band is wide, the elasticities are doing the work, not the event.
 
 _5 corroborating headline(s):_
 - [DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5)
-- [Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - techtimes.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5)
+- [Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5)
 - [Congo bans copper and cobalt concentrate exports, Turkey and PKK close to ending forty-year conflict, Ukraine and Russia continue to trade blows - Yahoo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOd043dW40YjIwVmZSV3FCRnlYR2RSa25wYTJ5dGg2aWtPaGhQSzM1ZWoxQ2dKeVpSbjIzTmNZdzRVMGFvYTlESGwzeWdUQlZHZksyWFAzalNNSi0tX3RZYlBOdGFYMENUeGhsazZaZWN1b1pFeXYxMG91ZWtROEU0MFBTaTdsTGV5MDNmX3JsejE3bDA5Rmc?oc=5)
 - …and 2 more
 
@@ -83,8 +83,8 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _6 corroborating headline(s):_
+- [Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security - The Conversation](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEowc05FNVhjbzJKVDZsY2hjOHVSQTdIZnh5MFhkVDJKVkVkY2lhWUhjV2lhWUQtU2FhcFUyZ1hSU050SjA0MWtwUGZLaFhDZjFRckpqdFFoMmdISW9kSVJzc1pKRHVhcnJ1a1ZDUWZOZ05MbWtJNGl1Q1IxUkFCQ2NpVGVyd0lkNXo2RzJPZy11aVI3eVFHWUhjbWE0R2d6LWpWcjVlOTBKVDY2Y3A5ODRCa016NXFHUWZveElndXp1LXByQXFqWkZIYVdSbkFXdkVna2U5NDQ?oc=5)
 - [Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5)
-- [Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security - theconversation.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEowc05FNVhjbzJKVDZsY2hjOHVSQTdIZnh5MFhkVDJKVkVkY2lhWUhjV2lhWUQtU2FhcFUyZ1hSU050SjA0MWtwUGZLaFhDZjFRckpqdFFoMmdISW9kSVJzc1pKRHVhcnJ1a1ZDUWZOZ05MbWtJNGl1Q1IxUkFCQ2NpVGVyd0lkNXo2RzJPZy11aVI3eVFHWUhjbWE0R2d6LWpWcjVlOTBKVDY2Y3A5ODRCa016NXFHUWZveElndXp1LXByQXFqWkZIYVdSbkFXdkVna2U5NDQ?oc=5)
 - [EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxNekxQUnMwU09VWk1GRXI5Y18xYkQ1MVV3THExMHlKU3JDaFVZVGFnX2xUV0tZbTY3RGNQamdCdkZHRndOV2p4OElDVkkxZW00M2tFWkZuN1dYaXVWZ0wydnZkTy1PeTVrLS1oU0M1X0Q4Tk1HZzVvemRuRzMtczdwWE10N1RQaUg4ZEpUM0lvMDc2RDIxTXZCSzFUUXJ2SGZKWmVhaDRR?oc=5)
 - …and 3 more
 
