@@ -44,17 +44,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Aramco reports sharp drop in Q2 2026 hydrocarbon output to 9.5 million barrels per day amid Strait of Hormuz supply disruption - Energies Media",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8teVIwLWttQ1V2VVFjSEhoNXlkbFNPR21BN0llX29pbWdreEpRWlhMaV9RYmhnTzBmdndRYUJMbnpoUk0tMVhhSlBpSFVFMGVYQzlNREZ4MzBzay1oTnhOVGxOTWVCNnR2ZDRuUDZNM0pxbWZDRHc?oc=5",
-  "published": "Sat, 15 Aug 2026 15:10:49 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Iran hits back after Trump says he may declare Hormuz US territory - Iran International",
   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ySWlQZDV2VEFEOWtycXU2Wl85MUFqc2QwVTE3bFpRQk9hLVI5N0ZYZS12RW50QXRVVjdJblQ2aXp4NndTM2xxOXFUbFJmQkpYbXc?oc=5",
   "published": "Fri, 14 Aug 2026 21:28:17 GMT",
@@ -69,6 +58,17 @@
   "headline": "EIA raises oil price forecast as disruptions in Strait of Hormuz persist - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTG0yd09pdk5jWGNrNEt0dXdHUzBuaVIwLW9XNEUtc1J6czBrM1Z0VGlBbl9ZWlhfR3JyQVRfRnZFMEsxUjF3SkVOM3NIWjRKTFBDQWdSX3plc1gzMDFmVU9RbFIyRjdMVEJhNU9Kd0Q2QWNIMXdrbEpWSTROLW5oMEpCWjVwalFqYjl2Ty02RnVkQWxZUE5GR2pXcWNpQTd6RUljY09FdWJHWkl4OG1XNDBESkzSAbwBQVVfeXFMT2dFVEJjQ3FkZjZTSksycDZNUXdHQ3EwckY0ZllHTTkySlFURThuOW85cHczeThidXgtR055Z0VOZzBHWHhwWkxGeGFwSWI3NmZVamV5TkcxZEZ3TUROaWpISHdyQ2Yxa0lZZ3lmN1dlVlFzTVp0Q3RHQWd0WTFSXzNiR0N3MFh2MHktaEJxaE0wLWJsM1hwMjVFRm42NUZCZU9sb1gydXJsM1EtM1lscm9zSmhNRXdCWkNMaWI?oc=5",
   "published": "Wed, 12 Aug 2026 07:15:38 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Aramco reports sharp drop in Q2 2026 hydrocarbon output to 9.5 million barrels per day amid Strait of Hormuz supply disruption - Energies Media",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8teVIwLWttQ1V2VVFjSEhoNXlkbFNPR21BN0llX29pbWdreEpRWlhMaV9RYmhnTzBmdndRYUJMbnpoUk0tMVhhSlBpSFVFMGVYQzlNREZ4MzBzay1oTnhOVGxOTWVCNnR2ZDRuUDZNM0pxbWZDRHc?oc=5",
+  "published": "Sat, 15 Aug 2026 15:10:49 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -176,9 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "KPC chief calls Strait of Hormuz closure Kuwait\u2019s biggest oil crisis since 1990 - Times Kuwait",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEdPVXhucFBKZ0xDWW1NLV9Rb1pmdmw0cHhOMThJUEY5THdxT1YtaWlQZzF3MHZ1eENnQW1odkMydFV5TnBueUlINHlGOFFkM1dzMkF5RWkwMTdDZmxxdnNfb09BNVJzYVhCc3d0TmcyVnZNUVNYMjA4YlRYMnRfNi1LWk5JVmd3Q0drWUdtcThXY0IxZ1c4VVVfMVllV3NfV0tlMUVR?oc=5",
-  "published": "Sun, 16 Aug 2026 07:22:01 GMT",
+  "headline": "IEA Worsens 2026 Global Oil Forecasts Amid Hormuz Strait Blockade - energynews.pro",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1B2NFdNRjl3eDlsX0gxdy1LRDRZMUVCS2lRdHZZNDBrN3N5TDRLazlwbi1CQ2FXZGpqeF9pR2JRWkRGUzlYRGVyVHBKbzh4cTQ0eTFnWHpPblZpTUNYQy10OVc3QXRpVURMVEUzRFlBeDN5OHpzY05rLWVGbXktY2hWOC1sQ3VuODE1OEtGVGxJcDlsMXc?oc=5",
+  "published": "Thu, 13 Aug 2026 07:26:31 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -187,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "IEA Worsens 2026 Global Oil Forecasts Amid Hormuz Strait Blockade - energynews.pro",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1B2NFdNRjl3eDlsX0gxdy1LRDRZMUVCS2lRdHZZNDBrN3N5TDRLazlwbi1CQ2FXZGpqeF9pR2JRWkRGUzlYRGVyVHBKbzh4cTQ0eTFnWHpPblZpTUNYQy10OVc3QXRpVURMVEUzRFlBeDN5OHpzY05rLWVGbXktY2hWOC1sQ3VuODE1OEtGVGxJcDlsMXc?oc=5",
-  "published": "Thu, 13 Aug 2026 07:26:31 GMT",
+  "headline": "KPC chief calls Strait of Hormuz closure Kuwait\u2019s biggest oil crisis since 1990 - Times Kuwait",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEdPVXhucFBKZ0xDWW1NLV9Rb1pmdmw0cHhOMThJUEY5THdxT1YtaWlQZzF3MHZ1eENnQW1odkMydFV5TnBueUlINHlGOFFkM1dzMkF5RWkwMTdDZmxxdnNfb09BNVJzYVhCc3d0TmcyVnZNUVNYMjA4YlRYMnRfNi1LWk5JVmd3Q0drWUdtcThXY0IxZ1c4VVVfMVllV3NfV0tlMUVR?oc=5",
+  "published": "Sun, 16 Aug 2026 07:22:01 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -253,7 +253,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets - CNBC",
+  "headline": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets - cnbc.com",
   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSWtXLXFuV3JTdHVRRG42UU5Iclp5dVpFOFh2RmNxXzQ4NWxXSlo0THo4X2VPSy1TalhwRk1SYjNva2lXQmsxN24tRVFnczhBT0ZjR1pybUVrbWVGUmtWd3c5bXhwSktVQVJtTHNSRWZNWENtZXhYLXB30gF_QVVfeXFMT2tUYml0RlZKY1R0U01td0Y0NUVPQ3loTU9FSTIyVVdZY3NNRWU4dGpEbzBfVVRXMEg2ZzYwTFVDRGVEODJRNXRUckxlajZ6LTZUZnBZQXh0eHJ5X1hUbWpXejJjV3Vuc3A5NEl2M3hrdmZPanBzT0IzbWt6Y2hwVQ?oc=5",
   "published": "Thu, 13 Aug 2026 07:20:28 GMT",
   "rule_note": "",
@@ -297,7 +297,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea blockade traps Ukraine grain and raises risks for U.S. agriculture - Agrolatam",
+  "headline": "Black Sea blockade traps Ukraine grain and raises risks for U.S. agriculture - agrolatam.com",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmQ5YXlZcmstR21EcG9CbDZuZV9ZOEE5d01JaXBXV0pKblZObUVqZl9tN05WTHpWdnlTVUFvWU1sd09ldV9TUGJEaWUtaUJucUFmbVowRTAtUWdjSDVpakVoSWpRcW0yems0MUxjdmhzamh5ZFFVaHd6QzNtalp4TlhwakFoOW5xd1VPdzhB?oc=5",
   "published": "Thu, 13 Aug 2026 15:17:19 GMT",
   "rule_note": "",
