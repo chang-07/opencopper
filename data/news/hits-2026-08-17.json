@@ -11,7 +11,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - atlanticcouncil.org",
+  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - Atlantic Council",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5",
   "published": "Wed, 12 Aug 2026 20:15:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -66,7 +66,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - iisd.org",
+  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - International Institute for Sustainable Development",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5",
   "published": "Thu, 06 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -132,17 +132,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "APAC oil and gas producers remain insulated from Hormuz disruption - investordaily.com.au",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkN0ZXFTN2loTGNtaWFiU3dpTGlodXdRSTFNb0UzalhVTUNJTzd6SzdzTmlzcF9mb0xRd2lyVEhMbGd0VS1UaEc4N1d0UFAydEliOFhmNm5nWkZVcjV5a0tObnFmdDV4VGF0UVVwaHA3c1FCQVc1NlJGbzFXMXpETVFVVkp0TmlQQnBYS3dFQmExemRXRzRlcmppMmIxZUNDT0E?oc=5",
-  "published": "Mon, 17 Aug 2026 08:16:06 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "UAE\u2019s ADNOC helps keep Iraqi oil flowing through Strait of Hormuz - Iraqi News",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTNPMWFlMlNDR2JDeVl2eURQaFVGNXFvOHEtd1oyZmMzZHd6LXhkYjRrZGZySnJUUnpEdlp0RUx5a09ZQXpDWDBvbDloTXhKNTlIVWgwOXR4MFJyN1ozSnl0UVJ6aVMzbldXbmJBWmZKS2x1OU9wT3ExOTJYenA4bXNndExfMTNkR1Bfd2labV9ZQzZiY1hEdUtnUUM?oc=5",
   "published": "Thu, 13 Aug 2026 13:40:03 GMT",
@@ -154,9 +143,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC Raises Oil Output in July After Hormuz Strait Blockade - energynews.pro",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0ZJRGhkVUh5SjdIdm8xN1JBbVBZUHFtcTVoazloeWdwempXaUVGZWxlZmptMXI2b0xFOVZ5Xzc0c2duZXVpeUJSRnZOTktiTFZiNHYzTHdTU19aMHozZ3hBa25ONkVLVGRCUG9wLTUtWkhhU3BnVnpiejlTM2Eyb212dmpDY3I5Zm5VU0l3?oc=5",
-  "published": "Tue, 11 Aug 2026 11:22:07 GMT",
+  "headline": "APAC oil and gas producers remain insulated from Hormuz disruption - investordaily.com.au",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkN0ZXFTN2loTGNtaWFiU3dpTGlodXdRSTFNb0UzalhVTUNJTzd6SzdzTmlzcF9mb0xRd2lyVEhMbGd0VS1UaEc4N1d0UFAydEliOFhmNm5nWkZVcjV5a0tObnFmdDV4VGF0UVVwaHA3c1FCQVc1NlJGbzFXMXpETVFVVkp0TmlQQnBYS3dFQmExemRXRzRlcmppMmIxZUNDT0E?oc=5",
+  "published": "Mon, 17 Aug 2026 08:16:06 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -176,7 +165,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters",
+  "headline": "OPEC Raises Oil Output in July After Hormuz Strait Blockade - energynews.pro",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0ZJRGhkVUh5SjdIdm8xN1JBbVBZUHFtcTVoazloeWdwempXaUVGZWxlZmptMXI2b0xFOVZ5Xzc0c2duZXVpeUJSRnZOTktiTFZiNHYzTHdTU19aMHozZ3hBa25ONkVLVGRCUG9wLTUtWkhhU3BnVnpiejlTM2Eyb212dmpDY3I5Zm5VU0l3?oc=5",
+  "published": "Tue, 11 Aug 2026 11:22:07 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
   "published": "Mon, 10 Aug 2026 07:00:00 GMT",
   "rule_note": "",
@@ -289,17 +289,6 @@
   "headline": "Black Sea blockade traps Ukraine grain and raises risks for U.S. agriculture - Agrolatam",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmQ5YXlZcmstR21EcG9CbDZuZV9ZOEE5d01JaXBXV0pKblZObUVqZl9tN05WTHpWdnlTVUFvWU1sd09ldV9TUGJEaWUtaUJucUFmbVowRTAtUWdjSDVpakVoSWpRcW0yems0MUxjdmhzamh5ZFFVaHd6QzNtalp4TlhwakFoOW5xd1VPdzhB?oc=5",
   "published": "Thu, 13 Aug 2026 15:17:19 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "GRAINS-Chicago Wheat flat after Ukraine strike raises Black Sea Export concerns - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDRUYVM2bFBILXFrWVM4cGRmNm1kQkFEMWNWX3Q1eWoyemtkbGFPWXU0ak1mQ0dUcnBzazlYc1J2Wm5IZF9NN09LbDd3UnFWcW9zbS1hVWpqVnlZbnc4RGNuNE1xWElmYWtTOWxvMlZNd29hdC1zOEZDMGw2R3lVWWJ6cS1lZWl1SWdKenNJbXJNSFRPNjN4VFNPdzlza3F1anNMdGFTbTJpNTA?oc=5",
-  "published": "Thu, 13 Aug 2026 05:30:06 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
