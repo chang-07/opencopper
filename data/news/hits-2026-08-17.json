@@ -1,6 +1,6 @@
 [
  {
-  "headline": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - wsj.com",
+  "headline": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5",
   "published": "Wed, 12 Aug 2026 13:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -66,7 +66,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Aramco reports sharp drop in Q2 2026 hydrocarbon output to 9.5 million barrels per day amid Strait of Hormuz supply disruption - energiesmedia.com",
+  "headline": "Aramco reports sharp drop in Q2 2026 hydrocarbon output to 9.5 million barrels per day amid Strait of Hormuz supply disruption - Energies Media",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8teVIwLWttQ1V2VVFjSEhoNXlkbFNPR21BN0llX29pbWdreEpRWlhMaV9RYmhnTzBmdndRYUJMbnpoUk0tMVhhSlBpSFVFMGVYQzlNREZ4MzBzay1oTnhOVGxOTWVCNnR2ZDRuUDZNM0pxbWZDRHc?oc=5",
   "published": "Sat, 15 Aug 2026 15:10:49 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -88,7 +88,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "IEA Warns Oil Market Risks Mount as Hormuz Disruptions Drain Inventories - gCaptain",
+  "headline": "IEA Warns Oil Market Risks Mount as Hormuz Disruptions Drain Inventories - gcaptain.com",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlh6ajJPTkptTDhNS3RQeXlQaVlWMTFiQXNKM180LVJ5Q1k2eUVnLUJ0cEpqY25YQ0wxMG9DeHBJR1Zpdl9WYkhId0NDcWlVT3BMS2FYU3p5YzdJbFJjMHBlTFU2bkxodnE1aXY5SkNnaEkwZGtGOEszRDBuU1RhQnFxb2FPUDVOYV9lZ2JlNkRYaVVSRW1helhR?oc=5",
   "published": "Wed, 12 Aug 2026 15:36:40 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -99,7 +99,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices remain below $100 despite tensions surrounding the Strait of Hormuz - UA.NEWS",
+  "headline": "Oil prices remain below $100 despite tensions surrounding the Strait of Hormuz - ua.news",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUl2R1BYM1VORHA4TEtWN185ZFF5MktJMk12X0JmZFBKeWItUkV6cExKM2dURlBvelhwNGdCZEptcWw1V1ZrWWFUSUttZTRuWVhic085UFBvSnV0em14SjRTV1lzUUR1SERaZmpfcTR2Y21XYjB1QlNCV3pWRmNMNnFNY2hZOWs1Z1d1SVNkem9HMjZtN1didEhHTXdPVHB5emd3NUoxYw?oc=5",
   "published": "Thu, 13 Aug 2026 18:09:14 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -143,7 +143,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says - Reuters",
+  "headline": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm5jZkFKN2RpUWZWbG9rSXctekpyeml5UDgwTENteGwtSmFWbHd0cGFjYV9LRVBXeHRENktmbWVKNVZCeFp0U0YxeTFQcFdqZTJ5Z0sxWjg1TGUwRm13Mm5rSWRoUWw2MzZhNlhFeUV2Wk9mRFNFWDB6QWhSckZDbUtlZ3pzSWQyU0pjS0Q1d2dRT1EtcWt0SVhuQXlPTHZiZlhZTzFWSUoxcXVDdl9qUnA0SnJWR1Zf?oc=5",
   "published": "Wed, 12 Aug 2026 13:45:33 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -151,17 +151,6 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Kuwait Oil Production Surges as OPEC Completes Output Cut Reversal - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEJxV0FYQXJ4VjUxLVlrWDYxQ2JieVY0MTdEdjR1MWtFaklLSk9kX0dEa2JOWlBHbklMZTVocWVCbHh0LThxZ2Z0VEFXbGNPclN3SndpZlM4M3FNdF9LQ0FVRmlxMTUzWjFueG53a0Z4NnpmeXU5SFBROU53dmlJNHRGR0ZoTFRWcWlsemVSTUVPbGV0V202aE9QQkNHOHgzSnFCRklNVFg1LWNzbjI2TjhyTzhDcGduODBLZldoZ9IBxAFBVV95cUxPb1VMWi0xd21qazcyUXAxb3JBZWtGQnctNVJSM3B0LXBCWWdKM3E2aW5PYXFkU2Ntd1F0M1Q1N3puNWUxdXVhMVNlaVMtUXVhU1o0NTZCOG9nM1Q0NDZocnBqSkxnQWVGOWQyNTFWSVJhYnZYbVNHYmhzWWpOLU9LOGQzY04xb1dSREx5OGxrV2p0SEZNSjJWeVJXTGJxSXZONmM4eDkzeHRpT0M0UFBHamVPQlpNR0RaSVZ4SU5PQ3ozSjNM?oc=5",
-  "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.08,
-  "rule_id": "opec-cut",
   "source": "keyword-rule"
  },
  {
@@ -198,7 +187,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters",
+  "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
   "published": "Mon, 10 Aug 2026 07:00:00 GMT",
   "rule_note": "",
@@ -209,7 +198,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets",
+  "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - fastmarkets.com",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5",
   "published": "Wed, 12 Aug 2026 13:38:19 GMT",
   "rule_note": "",
@@ -233,28 +222,6 @@
  {
   "headline": "Congo bans copper and cobalt concentrate exports, Turkey and PKK close to ending forty-year conflict, Ukraine and Russia continue to trade blows - Yahoo",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd043dW40YjIwVmZSV3FCRnlYR2RSa25wYTJ5dGg2aWtPaGhQSzM1ZWoxQ2dKeVpSbjIzTmNZdzRVMGFvYTlESGwzeWdUQlZHZksyWFAzalNNSi0tX3RZYlBOdGFYMENUeGhsazZaZWN1b1pFeXYxMG91ZWtROEU0MFBTaTdsTGV5MDNmX3JsejE3bDA5Rmc?oc=5",
-  "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
-  "published": "Thu, 06 Aug 2026 21:39:52 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DR Congo Bans Exports of Copper and Cobalt Concentrates Citing Official Order - Sahi",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHJiUC01RHhfUThtTTY5V2xIRWI5SHFERDBnQU1xQk0tdFFHTElpWXBDQ3phUnZBRXZCQVNJckZiMUxNTjJMaFJIbW1uRHBHTnRILUJFSm1MVmRkQ1RQNnlOQS1KTTdYYURYdnFaR3VRUDREMjR4em9EeU40dm04VlJNaXdkWElUSG9NQTAwZmNYUkwtYk1LbjJQNWgxeVJLcUJjbkliTHV5Um5fUl84VHZtajlHTm8?oc=5",
   "published": "Thu, 06 Aug 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
@@ -297,9 +264,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - Yahoo",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeDJsakFwbWJ2dHJJdFdLLWFVcVdiRVhwS1FQVkQzTUZPaVFIeFNmenF1WUdWYmpIMjh6QmVsdWpENTQweVV0V2xhakJjdTFEOVhsaWtmaTJQUGkwelhvd1NDZ3ZqVjNiQUNuTUNGeUVzMW1nWTBYZVVqLU9uanJkMGU2RTV0WGR1THZDUlRZY1IzcFh1aG1N?oc=5",
-  "published": "Thu, 13 Aug 2026 03:29:00 GMT",
+  "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HRERfeEJRa1ozRmNuUURrU1IzOUlWZWtyWFVBS1FGX3hOYXNpTGF2ZjJsMjV3cjc1Q1BFV1p5c19ldkh1V09FYy1hTzlnV2FXbl84MWxIUGQ4Rzl3?oc=5",
+  "published": "Wed, 12 Aug 2026 17:20:03 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -319,7 +286,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports - Reuters",
+  "headline": "EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekxQUnMwU09VWk1GRXI5Y18xYkQ1MVV3THExMHlKU3JDaFVZVGFnX2xUV0tZbTY3RGNQamdCdkZHRndOV2p4OElDVkkxZW00M2tFWkZuN1dYaXVWZ0wydnZkTy1PeTVrLS1oU0M1X0Q4Tk1HZzVvemRuRzMtczdwWE10N1RQaUg4ZEpUM0lvMDc2RDIxTXZCSzFUUXJ2SGZKWmVhaDRR?oc=5",
   "published": "Mon, 10 Aug 2026 12:01:40 GMT",
   "rule_note": "",
