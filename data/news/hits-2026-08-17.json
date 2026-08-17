@@ -55,9 +55,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EIA raises oil price forecast as disruptions in Strait of Hormuz persist - Anadolu Ajans\u0131",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTG0yd09pdk5jWGNrNEt0dXdHUzBuaVIwLW9XNEUtc1J6czBrM1Z0VGlBbl9ZWlhfR3JyQVRfRnZFMEsxUjF3SkVOM3NIWjRKTFBDQWdSX3plc1gzMDFmVU9RbFIyRjdMVEJhNU9Kd0Q2QWNIMXdrbEpWSTROLW5oMEpCWjVwalFqYjl2Ty02RnVkQWxZUE5GR2pXcWNpQTd6RUljY09FdWJHWkl4OG1XNDBESkzSAbwBQVVfeXFMT2dFVEJjQ3FkZjZTSksycDZNUXdHQ3EwckY0ZllHTTkySlFURThuOW85cHczeThidXgtR055Z0VOZzBHWHhwWkxGeGFwSWI3NmZVamV5TkcxZEZ3TUROaWpISHdyQ2Yxa0lZZ3lmN1dlVlFzTVp0Q3RHQWd0WTFSXzNiR0N3MFh2MHktaEJxaE0wLWJsM1hwMjVFRm42NUZCZU9sb1gydXJsM1EtM1lscm9zSmhNRXdCWkNMaWI?oc=5",
-  "published": "Wed, 12 Aug 2026 07:15:38 GMT",
+  "headline": "Oil gains as US-Iran tensions revive Strait of Hormuz supply fears - Anadolu Ajans\u0131",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3NrekpicDB0U0ZucUQyRG1GTGVyak45MDIteTZ6aHdPOFBoaUFVUlcwSjJlbDJOeVFCeFZ6RVlmSHBQUzI0dzltWUhrOXBzcUhLblZ6YUlnc3Z1dllVV2Uzd21tcno2QW9IZ05yUVo1REs2VmIzS1V4eElJVm12bXpyaHpBUFdnUURVdTdJREtkUW91UWdRektVZTBjb3F3SkNTMUtHakw0U2Fm?oc=5",
+  "published": "Fri, 14 Aug 2026 09:01:06 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -88,7 +88,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "IEA Warns Oil Market Risks Mount as Hormuz Disruptions Drain Inventories - gCaptain",
+  "headline": "IEA Warns Oil Market Risks Mount as Hormuz Disruptions Drain Inventories - gcaptain.com",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlh6ajJPTkptTDhNS3RQeXlQaVlWMTFiQXNKM180LVJ5Q1k2eUVnLUJ0cEpqY25YQ0wxMG9DeHBJR1Zpdl9WYkhId0NDcWlVT3BMS2FYU3p5YzdJbFJjMHBlTFU2bkxodnE1aXY5SkNnaEkwZGtGOEszRDBuU1RhQnFxb2FPUDVOYV9lZ2JlNkRYaVVSRW1helhR?oc=5",
   "published": "Wed, 12 Aug 2026 15:36:40 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -198,7 +198,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - fastmarkets.com",
+  "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5",
   "published": "Wed, 12 Aug 2026 13:38:19 GMT",
   "rule_note": "",
@@ -231,7 +231,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia is cutting off Ukraine\u2019s grain exports again, threatening a critical harvest and global food security - The Conversation",
+  "headline": "Ukrainian Strikes Halt Most Russian Grain Export Capacity in Black Sea Region - The Moscow Times",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3pyM25oRGE1T1FLMXpVSXpfcFBqME9XV3lGRHAtSmZ4UFJ0TXp5TkJFenlzNlZsUklnLUQtbk54OENBMF9KWEo2RWVGckNFc0VVMF9XQnlKVVBlYUQwb2k2TDdDN2luQ08xNUMxOVdROC1QSWc4YVR3T2lvdHc2TFEzd1llOGhhNHg3cUNhNXZneWd2WVpkelVoRG4zZGRHdG1iWU1kRWJxazROT0FUSFlmVnNIbGxlZlNTbUxxRlktb1RY?oc=5",
+  "published": "Mon, 17 Aug 2026 13:43:22 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia is cutting off Ukraine\u2019s grain exports again, threatening a critical harvest and global food security - theconversation.com",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEowc05FNVhjbzJKVDZsY2hjOHVSQTdIZnh5MFhkVDJKVkVkY2lhWUhjV2lhWUQtU2FhcFUyZ1hSU050SjA0MWtwUGZLaFhDZjFRckpqdFFoMmdISW9kSVJzc1pKRHVhcnJ1a1ZDUWZOZ05MbWtJNGl1Q1IxUkFCQ2NpVGVyd0lkNXo2RzJPZy11aVI3eVFHWUhjbWE0R2d6LWpWcjVlOTBKVDY2Y3A5ODRCa016NXFHUWZveElndXp1LXByQXFqWkZIYVdSbkFXdkVna2U5NDQ?oc=5",
   "published": "Fri, 14 Aug 2026 02:28:00 GMT",
   "rule_note": "",
@@ -253,20 +264,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - themoscowtimes.com",
+  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5",
   "published": "Tue, 11 Aug 2026 14:59:38 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Ukraine and Russia could start losing traditional grain markets amid Black Sea export disruptions - UkrAgroConsult",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaWR4Q1dBbDVuSDhjU05xUzRWSzVkb0x6RXdJRFhtc2pweDlYcVM5bTZWcTlpNFpiU2M0LWQ4cWxvY0Z2YXVyT3BkVjBTLTJSSVRVRFVKNWh2Wlpibnp6UmZpT04wbzBEaDcyTGhQYXBVekx0Y0Z6dnZVUXRONWF0MlpiOU11bkFIaW81ZHhPZ3VUcnVOVXJ4OExCbXoyS2J2RmM3QVd1WjFYcHhuSXhfRDVnWlM0TS1VdmFLQjZ2X2hlR3UtMEZ5VkZYLWZOZw?oc=5",
-  "published": "Mon, 17 Aug 2026 06:29:37 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -286,9 +286,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekxQUnMwU09VWk1GRXI5Y18xYkQ1MVV3THExMHlKU3JDaFVZVGFnX2xUV0tZbTY3RGNQamdCdkZHRndOV2p4OElDVkkxZW00M2tFWkZuN1dYaXVWZ0wydnZkTy1PeTVrLS1oU0M1X0Q4Tk1HZzVvemRuRzMtczdwWE10N1RQaUg4ZEpUM0lvMDc2RDIxTXZCSzFUUXJ2SGZKWmVhaDRR?oc=5",
-  "published": "Mon, 10 Aug 2026 12:01:40 GMT",
+  "headline": "Black Sea blockade traps Ukraine grain and raises risks for U.S. agriculture - Agrolatam",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmQ5YXlZcmstR21EcG9CbDZuZV9ZOEE5d01JaXBXV0pKblZObUVqZl9tN05WTHpWdnlTVUFvWU1sd09ldV9TUGJEaWUtaUJucUFmbVowRTAtUWdjSDVpakVoSWpRcW0yems0MUxjdmhzamh5ZFFVaHd6QzNtalp4TlhwakFoOW5xd1VPdzhB?oc=5",
+  "published": "Thu, 13 Aug 2026 15:17:19 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
