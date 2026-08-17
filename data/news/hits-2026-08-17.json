@@ -11,7 +11,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - Atlantic Council",
+  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - atlanticcouncil.org",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5",
   "published": "Wed, 12 Aug 2026 20:15:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -88,9 +88,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "IEA Warns Oil Market Risks Mount as Hormuz Disruptions Drain Inventories - gCaptain",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlh6ajJPTkptTDhNS3RQeXlQaVlWMTFiQXNKM180LVJ5Q1k2eUVnLUJ0cEpqY25YQ0wxMG9DeHBJR1Zpdl9WYkhId0NDcWlVT3BMS2FYU3p5YzdJbFJjMHBlTFU2bkxodnE1aXY5SkNnaEkwZGtGOEszRDBuU1RhQnFxb2FPUDVOYV9lZ2JlNkRYaVVSRW1helhR?oc=5",
-  "published": "Wed, 12 Aug 2026 15:36:40 GMT",
+  "headline": "\u2018Biggest crisis for oil sector\u2019: Kuwait\u2019s future tied to Hormuz fate - Arab News",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITGg1MjhlSjA5VXVUUWlxM2EwdTZSLXlPeURocWd4aWlFUEEwQUdIUEJZOHl1VnZOQ0taYVh5b1U4bjBHRmQzZWg3RGU2akVVYnFzb19xdy1BaVBzbmc?oc=5",
+  "published": "Fri, 14 Aug 2026 03:07:56 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "\u2018Biggest crisis for oil sector\u2019: Kuwait\u2019s future tied to Hormuz fate - Arab News",
-  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITGg1MjhlSjA5VXVUUWlxM2EwdTZSLXlPeURocWd4aWlFUEEwQUdIUEJZOHl1VnZOQ0taYVh5b1U4bjBHRmQzZWg3RGU2akVVYnFzb19xdy1BaVBzbmc?oc=5",
-  "published": "Fri, 14 Aug 2026 03:07:56 GMT",
+  "headline": "IEA Warns Oil Market Risks Mount as Hormuz Disruptions Drain Inventories - gCaptain",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlh6ajJPTkptTDhNS3RQeXlQaVlWMTFiQXNKM180LVJ5Q1k2eUVnLUJ0cEpqY25YQ0wxMG9DeHBJR1Zpdl9WYkhId0NDcWlVT3BMS2FYU3p5YzdJbFJjMHBlTFU2bkxodnE1aXY5SkNnaEkwZGtGOEszRDBuU1RhQnFxb2FPUDVOYV9lZ2JlNkRYaVVSRW1helhR?oc=5",
+  "published": "Wed, 12 Aug 2026 15:36:40 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -135,17 +135,6 @@
   "headline": "APAC oil and gas producers remain insulated from Hormuz disruption - investordaily.com.au",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkN0ZXFTN2loTGNtaWFiU3dpTGlodXdRSTFNb0UzalhVTUNJTzd6SzdzTmlzcF9mb0xRd2lyVEhMbGd0VS1UaEc4N1d0UFAydEliOFhmNm5nWkZVcjV5a0tObnFmdDV4VGF0UVVwaHA3c1FCQVc1NlJGbzFXMXpETVFVVkp0TmlQQnBYS3dFQmExemRXRzRlcmppMmIxZUNDT0E?oc=5",
   "published": "Mon, 17 Aug 2026 08:16:06 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm5jZkFKN2RpUWZWbG9rSXctekpyeml5UDgwTENteGwtSmFWbHd0cGFjYV9LRVBXeHRENktmbWVKNVZCeFp0U0YxeTFQcFdqZTJ5Z0sxWjg1TGUwRm13Mm5rSWRoUWw2MzZhNlhFeUV2Wk9mRFNFWDB6QWhSckZDbUtlZ3pzSWQyU0pjS0Q1d2dRT1EtcWt0SVhuQXlPTHZiZlhZTzFWSUoxcXVDdl9qUnA0SnJWR1Zf?oc=5",
-  "published": "Wed, 12 Aug 2026 13:45:33 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -198,7 +187,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - fastmarkets.com",
+  "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5",
   "published": "Wed, 12 Aug 2026 13:38:19 GMT",
   "rule_note": "",
@@ -209,7 +198,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - techtimes.com",
+  "headline": "Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5",
   "published": "Thu, 06 Aug 2026 13:39:58 GMT",
   "rule_note": "",
@@ -231,7 +220,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukrainian Strikes Halt Most Russian Grain Export Capacity in Black Sea Region - themoscowtimes.com",
+  "headline": "Ukrainian Strikes Halt Most Russian Grain Export Capacity in Black Sea Region - The Moscow Times",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3pyM25oRGE1T1FLMXpVSXpfcFBqME9XV3lGRHAtSmZ4UFJ0TXp5TkJFenlzNlZsUklnLUQtbk54OENBMF9KWEo2RWVGckNFc0VVMF9XQnlKVVBlYUQwb2k2TDdDN2luQ08xNUMxOVdROC1QSWc4YVR3T2lvdHc2TFEzd1llOGhhNHg3cUNhNXZneWd2WVpkelVoRG4zZGRHdG1iWU1kRWJxazROT0FUSFlmVnNIbGxlZlNTbUxxRlktb1RY?oc=5",
   "published": "Mon, 17 Aug 2026 13:43:22 GMT",
   "rule_note": "",
@@ -242,7 +231,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia\u2019s Grain Export Pipeline Paralyzed After Strikes on Sea Ports - united24media.com",
+  "headline": "Russia\u2019s Grain Export Pipeline Paralyzed After Strikes on Sea Ports - UNITED24 Media",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFdiS2FFcHk3TlhHanE4ZjlXcldnZ241VXFqOFJaQUNaOG9JNHdPVDdaektMTmt1ZW5zWm1KeUEzMHctZkMtOTdyRHdwNGpQQmlnc2RTNm9JMWlqclpzY0lCT1JhczJOZTktNmNBWXVqT3QxTFVoSzRMNXVlazZxQ0V2dEhfMFhkRlZOM254Xy1Cd3p6UGFUVXZrdmhKWHU4YmlTdTFTTmRfMFVjYW5uQkwwOA?oc=5",
   "published": "Mon, 17 Aug 2026 15:35:51 GMT",
   "rule_note": "",
@@ -286,7 +275,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - themoscowtimes.com",
+  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5",
   "published": "Tue, 11 Aug 2026 14:59:38 GMT",
   "rule_note": "",
