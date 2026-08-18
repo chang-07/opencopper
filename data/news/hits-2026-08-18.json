@@ -11,6 +11,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Oil Prices Advance on Middle East Tensions and Strait of Hormuz Closure | Investing.com - News and Statistics - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXVuVVFMZHBNS3VnMzNETmJ5OGJmYW92SHFtblp0RHJDTlYzZjJ4bXJsT05Ydm12b0lmRDdCY0RWMmdMTUFzOE9uNHRxM1ZRcHdiZ2Y0VG1QT2JGVS1ZZ2Exb2NiNi1ZXzFMckNWZW53QXltU2JIbURyUXBOQXRJYlYyMXpNVzJuY2VUb25NaXptX2k4cGFUVS1GRWhFSzhUdmd2S0pfbHNEdFdMQXZV?oc=5",
+  "published": "Tue, 18 Aug 2026 04:31:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - Atlantic Council",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5",
   "published": "Wed, 12 Aug 2026 20:15:03 GMT",
@@ -66,20 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EIA raises third-quarter Brent forecast to $85/bbl on Strait of Hormuz disruptions - ogj.com",
+  "headline": "EIA raises third-quarter Brent forecast to $85/bbl on Strait of Hormuz disruptions - Oil & Gas Journal",
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXlSby1Xci0weFVhR0s0TlNQR0RtczU2ajRjdkZhQUREZUlLWTVXTHY2WDdIREE2Tmk4eEsyWEZPSjZ6VDBJbURCZXc4ZndaUjBEMHR0VnlJNTlzT3k4dHU4SVpLVi0tRS10dEZ3LWU3eDJGV1lMWlZOSXRYRTJzUS1WMlFpY2U0Vk00NnlWeDFGTXRBMk1DR1FCWURsT01KeXZ4RFRyRjBWcDFmVER1aGNBQWJmb3ppLU1RTExZVklhSkotNmczTG5lR1RFRkgzaUZlLWhVQ1B5UVAzVlNTN2ctQTU?oc=5",
   "published": "Thu, 13 Aug 2026 06:19:42 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Shipping in the Strait of Hormuz is disrupted, OPEC+ crude oil production increases moderately - Bitget",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Pam0tTzhJclYtVWN6eEpLZHJsX2FqZkZGV0I1YUJKWnhHWWtoWDhYZ1dMSk1RamhQX0FLbkRIbEtOd2FqYXl3Y19QdEVWVmhCYVkzRWQtVFlNc2Jla096RlBOYjdvdFNpb3fSAWpBVV95cUxOT2ptLU84SXJWLVVjenhKS2RybF9hamZGRldCNWFCSlp4R1lraFg4WGdXTEpNUWpoUF9BS25ESGxLTndhamF5d2NfUHRFVlZoQmFZM0VkLVRZTXNiZWtPekZQTmI3b3RTaW93?oc=5",
-  "published": "Mon, 17 Aug 2026 14:02:14 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -91,6 +91,17 @@
   "headline": "Oil gains as US-Iran tensions revive Strait of Hormuz supply fears - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3NrekpicDB0U0ZucUQyRG1GTGVyak45MDIteTZ6aHdPOFBoaUFVUlcwSjJlbDJOeVFCeFZ6RVlmSHBQUzI0dzltWUhrOXBzcUhLblZ6YUlnc3Z1dllVV2Uzd21tcno2QW9IZ05yUVo1REs2VmIzS1V4eElJVm12bXpyaHpBUFdnUURVdTdJREtkUW91UWdRektVZTBjb3F3SkNTMUtHakw0U2Fm?oc=5",
   "published": "Fri, 14 Aug 2026 09:01:06 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Shipping in the Strait of Hormuz is disrupted, OPEC+ crude oil production increases moderately - Bitget",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Pam0tTzhJclYtVWN6eEpLZHJsX2FqZkZGV0I1YUJKWnhHWWtoWDhYZ1dMSk1RamhQX0FLbkRIbEtOd2FqYXl3Y19QdEVWVmhCYVkzRWQtVFlNc2Jla096RlBOYjdvdFNpb3fSAWpBVV95cUxOT2ptLU84SXJWLVVjenhKS2RybF9hamZGRldCNWFCSlp4R1lraFg4WGdXTEpNUWpoUF9BS25ESGxLTndhamF5d2NfUHRFVlZoQmFZM0VkLVRZTXNiZWtPekZQTmI3b3RTaW93?oc=5",
+  "published": "Mon, 17 Aug 2026 14:02:14 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -121,9 +132,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices remain below $100 despite tensions surrounding the Strait of Hormuz - UA.NEWS",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUl2R1BYM1VORHA4TEtWN185ZFF5MktJMk12X0JmZFBKeWItUkV6cExKM2dURlBvelhwNGdCZEptcWw1V1ZrWWFUSUttZTRuWVhic085UFBvSnV0em14SjRTV1lzUUR1SERaZmpfcTR2Y21XYjB1QlNCV3pWRmNMNnFNY2hZOWs1Z1d1SVNkem9HMjZtN1didEhHTXdPVHB5emd3NUoxYw?oc=5",
-  "published": "Thu, 13 Aug 2026 18:09:14 GMT",
+  "headline": "\u2018Biggest crisis for oil sector\u2019: Kuwait\u2019s future tied to Hormuz fate - Arab News",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITGg1MjhlSjA5VXVUUWlxM2EwdTZSLXlPeURocWd4aWlFUEEwQUdIUEJZOHl1VnZOQ0taYVh5b1U4bjBHRmQzZWg3RGU2akVVYnFzb19xdy1BaVBzbmc?oc=5",
+  "published": "Fri, 14 Aug 2026 03:07:56 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -132,9 +143,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "\u2018Biggest crisis for oil sector\u2019: Kuwait\u2019s future tied to Hormuz fate - arabnews.com",
-  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITGg1MjhlSjA5VXVUUWlxM2EwdTZSLXlPeURocWd4aWlFUEEwQUdIUEJZOHl1VnZOQ0taYVh5b1U4bjBHRmQzZWg3RGU2akVVYnFzb19xdy1BaVBzbmc?oc=5",
-  "published": "Fri, 14 Aug 2026 03:07:56 GMT",
+  "headline": "Oil prices remain below $100 despite tensions surrounding the Strait of Hormuz - UA.NEWS",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUl2R1BYM1VORHA4TEtWN185ZFF5MktJMk12X0JmZFBKeWItUkV6cExKM2dURlBvelhwNGdCZEptcWw1V1ZrWWFUSUttZTRuWVhic085UFBvSnV0em14SjRTV1lzUUR1SERaZmpfcTR2Y21XYjB1QlNCV3pWRmNMNnFNY2hZOWs1Z1d1SVNkem9HMjZtN1didEhHTXdPVHB5emd3NUoxYw?oc=5",
+  "published": "Thu, 13 Aug 2026 18:09:14 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -165,9 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "UAE\u2019s ADNOC helps keep Iraqi oil flowing through Strait of Hormuz - Iraqi News",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTNPMWFlMlNDR2JDeVl2eURQaFVGNXFvOHEtd1oyZmMzZHd6LXhkYjRrZGZySnJUUnpEdlp0RUx5a09ZQXpDWDBvbDloTXhKNTlIVWgwOXR4MFJyN1ozSnl0UVJ6aVMzbldXbmJBWmZKS2x1OU9wT3ExOTJYenA4bXNndExfMTNkR1Bfd2labV9ZQzZiY1hEdUtnUUM?oc=5",
-  "published": "Thu, 13 Aug 2026 13:40:03 GMT",
+  "headline": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
+  "published": "Fri, 07 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -176,9 +187,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
-  "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+  "headline": "UAE\u2019s ADNOC helps keep Iraqi oil flowing through Strait of Hormuz - Iraqi News",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTNPMWFlMlNDR2JDeVl2eURQaFVGNXFvOHEtd1oyZmMzZHd6LXhkYjRrZGZySnJUUnpEdlp0RUx5a09ZQXpDWDBvbDloTXhKNTlIVWgwOXR4MFJyN1ozSnl0UVJ6aVMzbldXbmJBWmZKS2x1OU9wT3ExOTJYenA4bXNndExfMTNkR1Bfd2labV9ZQzZiY1hEdUtnUUM?oc=5",
+  "published": "Thu, 13 Aug 2026 13:40:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -222,28 +233,6 @@
  {
   "headline": "Congo bans copper and cobalt concentrate exports, Turkey and PKK close to ending forty-year conflict, Ukraine and Russia continue to trade blows - Yahoo",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd043dW40YjIwVmZSV3FCRnlYR2RSa25wYTJ5dGg2aWtPaGhQSzM1ZWoxQ2dKeVpSbjIzTmNZdzRVMGFvYTlESGwzeWdUQlZHZksyWFAzalNNSi0tX3RZYlBOdGFYMENUeGhsazZaZWN1b1pFeXYxMG91ZWtROEU0MFBTaTdsTGV5MDNmX3JsejE3bDA5Rmc?oc=5",
-  "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
-  "published": "Thu, 06 Aug 2026 21:39:52 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DR Congo Bans Exports of Copper and Cobalt Concentrates Citing Official Order - Sahi",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHJiUC01RHhfUThtTTY5V2xIRWI5SHFERDBnQU1xQk0tdFFHTElpWXBDQ3phUnZBRXZCQVNJckZiMUxNTjJMaFJIbW1uRHBHTnRILUJFSm1MVmRkQ1RQNnlOQS1KTTdYYURYdnFaR3VRUDREMjR4em9EeU40dm04VlJNaXdkWElUSG9NQTAwZmNYUkwtYk1LbjJQNWgxeVJLcUJjbkliTHV5Um5fUl84VHZtajlHTm8?oc=5",
   "published": "Thu, 06 Aug 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
