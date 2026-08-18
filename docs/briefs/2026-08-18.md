@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_13 corroborating headline(s):_
+_15 corroborating headline(s):_
 - [Iran is draining its leverage in the Strait of Hormuz. Trump’s best move is to let it happen. - Atlantic Council](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5)
-- [Oil Prices Advance on Middle East Tensions and Strait of Hormuz Closure | Investing.com - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXVuVVFMZHBNS3VnMzNETmJ5OGJmYW92SHFtblp0RHJDTlYzZjJ4bXJsT05Ydm12b0lmRDdCY0RWMmdMTUFzOE9uNHRxM1ZRcHdiZ2Y0VG1QT2JGVS1ZZ2Exb2NiNi1ZXzFMckNWZW53QXltU2JIbURyUXBOQXRJYlYyMXpNVzJuY2VUb25NaXptX2k4cGFUVS1GRWhFSzhUdmd2S0pfbHNEdFdMQXZV?oc=5)
 - [If Iran Wins The Strait Of Hormuz, The US Economy Stays Steady - Forbes](https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUNFVi0ya2pwRzVtakFpU1VYcGlGMVh0MF83a2xYYVNjTHhDNUVHMzhRcjV1NW0zQzg4d0xnSWdhQUthcW1oYTFFUGFSbXgzOElLWjF0UXhkNFdhZzI1VU5uZVRXd1VkOEhZLUNnZVRvdS1tQlJMN0Fabm92VG1SczBWMHlRMjV0Y2tHd1U5eDlpdjlmM2lPaFl5ekpKWWhzMlBiMkN3dWFUSlZWT1lrNEV6RmY?oc=5)
-- …and 10 more
+- [Oil Prices Advance on Middle East Tensions and Strait of Hormuz Closure | Investing.com - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXVuVVFMZHBNS3VnMzNETmJ5OGJmYW92SHFtblp0RHJDTlYzZjJ4bXJsT05Ydm12b0lmRDdCY0RWMmdMTUFzOE9uNHRxM1ZRcHdiZ2Y0VG1QT2JGVS1ZZ2Exb2NiNi1ZXzFMckNWZW53QXltU2JIbURyUXBOQXRJYlYyMXpNVzJuY2VUb25NaXptX2k4cGFUVS1GRWhFSzhUdmd2S0pfbHNEdFdMQXZV?oc=5)
+- …and 12 more
 
 ## EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters
 *Mon, 10 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)
@@ -65,8 +65,8 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _7 corroborating headline(s):_
-- [Ukrainian Strikes Halt Most Russian Grain Exports in the Black Sea - The Moscow Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWFJYUZySVdOaTZSdlY0c1VXVlFGTGE2UkVXRm9hbUEtTThNa0RJcDdZRmxlSmY4dDRFTjRFUEdpc2Q4R0c4MGhRZUJWVndVRFVNWWZKVW81SlBkQUp2aTk5eHllMnp6dG1SWk1kMm4wRGFzQlRDekt4RnVvazh2dUJkajd3c0h6YVZrMTFLa0R6eHlGZDBWMGhEVTA5V0tVTVNaTTlMWE9yRVl6U0ttd2JkM2gzZw?oc=5)
 - [Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets - CNBC](https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSWtXLXFuV3JTdHVRRG42UU5Iclp5dVpFOFh2RmNxXzQ4NWxXSlo0THo4X2VPSy1TalhwRk1SYjNva2lXQmsxN24tRVFnczhBT0ZjR1pybUVrbWVGUmtWd3c5bXhwSktVQVJtTHNSRWZNWENtZXhYLXB30gF_QVVfeXFMT2tUYml0RlZKY1R0U01td0Y0NUVPQ3loTU9FSTIyVVdZY3NNRWU4dGpEbzBfVVRXMEg2ZzYwTFVDRGVEODJRNXRUckxlajZ6LTZUZnBZQXh0eHJ5X1hUbWpXejJjV3Vuc3A5NEl2M3hrdmZPanBzT0IzbWt6Y2hwVQ?oc=5)
+- [Ukrainian Strikes Halt Most Russian Grain Exports in the Black Sea - The Moscow Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWFJYUZySVdOaTZSdlY0c1VXVlFGTGE2UkVXRm9hbUEtTThNa0RJcDdZRmxlSmY4dDRFTjRFUEdpc2Q4R0c4MGhRZUJWVndVRFVNWWZKVW81SlBkQUp2aTk5eHllMnp6dG1SWk1kMm4wRGFzQlRDekt4RnVvazh2dUJkajd3c0h6YVZrMTFLa0R6eHlGZDBWMGhEVTA5V0tVTVNaTTlMWE9yRVl6U0ttd2JkM2gzZw?oc=5)
 - [Russia’s Grain Export Pipeline Paralyzed After Strikes on Sea Ports - UNITED24 Media](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFdiS2FFcHk3TlhHanE4ZjlXcldnZ241VXFqOFJaQUNaOG9JNHdPVDdaektMTmt1ZW5zWm1KeUEzMHctZkMtOTdyRHdwNGpQQmlnc2RTNm9JMWlqclpzY0lCT1JhczJOZTktNmNBWXVqT3QxTFVoSzRMNXVlazZxQ0V2dEhfMFhkRlZOM254Xy1Cd3p6UGFUVXZrdmhKWHU4YmlTdTFTTmRfMFVjYW5uQkwwOA?oc=5)
 - …and 4 more
 
