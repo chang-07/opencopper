@@ -77,6 +77,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "The Strait of Hormuz crisis may permanently change how the world moves oil - thetimes.com.au",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObC1KT0IwcFVDZk5hdEJBT2dwRzA1b3J3aUNCY1RuUFItaEw1WnVEbkxmY1pUdVNuOG5TWVhRS2lRU2h6UC1PREZ2ZktncU5PektmeGRYOWtYSnJXMl9NNVRFTVdBZFdQWlZPU0hEeWRmZWtUNmJPVVdHMFk5ckxtdUFZaC1UX0w4NzFuekxkQUxYdFV1aWV5MDFVVlNQUm5TRlYxMGY0SEVVa2cyLTJn?oc=5",
+  "published": "Mon, 17 Aug 2026 20:16:29 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - International Institute for Sustainable Development",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5",
   "published": "Thu, 06 Aug 2026 07:00:00 GMT",
@@ -99,7 +110,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "\u2018Biggest crisis for oil sector\u2019: Kuwait\u2019s future tied to Hormuz fate - arabnews.com",
+  "headline": "\u2018Biggest crisis for oil sector\u2019: Kuwait\u2019s future tied to Hormuz fate - Arab News",
   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITGg1MjhlSjA5VXVUUWlxM2EwdTZSLXlPeURocWd4aWlFUEEwQUdIUEJZOHl1VnZOQ0taYVh5b1U4bjBHRmQzZWg3RGU2akVVYnFzb19xdy1BaVBzbmc?oc=5",
   "published": "Fri, 14 Aug 2026 03:07:56 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -165,17 +176,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC Raises Oil Output in July After Hormuz Strait Blockade - energynews.pro",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0ZJRGhkVUh5SjdIdm8xN1JBbVBZUHFtcTVoazloeWdwempXaUVGZWxlZmptMXI2b0xFOVZ5Xzc0c2duZXVpeUJSRnZOTktiTFZiNHYzTHdTU19aMHozZ3hBa25ONkVLVGRCUG9wLTUtWkhhU3BnVnpiejlTM2Eyb212dmpDY3I5Zm5VU0l3?oc=5",
-  "published": "Tue, 11 Aug 2026 11:22:07 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
   "published": "Mon, 10 Aug 2026 07:00:00 GMT",
@@ -211,6 +211,28 @@
  {
   "headline": "Congo bans copper and cobalt concentrate exports, Turkey and PKK close to ending forty-year conflict, Ukraine and Russia continue to trade blows - Yahoo",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd043dW40YjIwVmZSV3FCRnlYR2RSa25wYTJ5dGg2aWtPaGhQSzM1ZWoxQ2dKeVpSbjIzTmNZdzRVMGFvYTlESGwzeWdUQlZHZksyWFAzalNNSi0tX3RZYlBOdGFYMENUeGhsazZaZWN1b1pFeXYxMG91ZWtROEU0MFBTaTdsTGV5MDNmX3JsejE3bDA5Rmc?oc=5",
+  "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
+  "published": "Thu, 06 Aug 2026 21:39:52 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "DR Congo Bans Exports of Copper and Cobalt Concentrates Citing Official Order - Sahi",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHJiUC01RHhfUThtTTY5V2xIRWI5SHFERDBnQU1xQk0tdFFHTElpWXBDQ3phUnZBRXZCQVNJckZiMUxNTjJMaFJIbW1uRHBHTnRILUJFSm1MVmRkQ1RQNnlOQS1KTTdYYURYdnFaR3VRUDREMjR4em9EeU40dm04VlJNaXdkWElUSG9NQTAwZmNYUkwtYk1LbjJQNWgxeVJLcUJjbkliTHV5Um5fUl84VHZtajlHTm8?oc=5",
   "published": "Thu, 06 Aug 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",

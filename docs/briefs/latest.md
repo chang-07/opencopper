@@ -43,10 +43,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5)
 - [Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5)
 - [Congo bans copper and cobalt concentrate exports, Turkey and PKK close to ending forty-year conflict, Ukraine and Russia continue to trade blows - Yahoo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOd043dW40YjIwVmZSV3FCRnlYR2RSa25wYTJ5dGg2aWtPaGhQSzM1ZWoxQ2dKeVpSbjIzTmNZdzRVMGFvYTlESGwzeWdUQlZHZksyWFAzalNNSi0tX3RZYlBOdGFYMENUeGhsazZaZWN1b1pFeXYxMG91ZWtROEU0MFBTaTdsTGV5MDNmX3JsejE3bDA5Rmc?oc=5)
+- …and 2 more
 
 ## Ukrainian Strikes Halt Most Russian Grain Export Capacity in Black Sea Region - The Moscow Times
 *Mon, 17 Aug 2026 13:43:22 GMT* — [source](https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3pyM25oRGE1T1FLMXpVSXpfcFBqME9XV3lGRHAtSmZ4UFJ0TXp5TkJFenlzNlZsUklnLUQtbk54OENBMF9KWEo2RWVGckNFc0VVMF9XQnlKVVBlYUQwb2k2TDdDN2luQ08xNUMxOVdROC1QSWc4YVR3T2lvdHc2TFEzd1llOGhhNHg3cUNhNXZneWd2WVpkelVoRG4zZGRHdG1iWU1kRWJxazROT0FUSFlmVnNIbGxlZlNTbUxxRlktb1RY?oc=5)
