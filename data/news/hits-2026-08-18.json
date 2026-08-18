@@ -11,7 +11,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - Atlantic Council",
+  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - atlanticcouncil.org",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5",
   "published": "Wed, 12 Aug 2026 20:15:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -77,17 +77,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Prices Surge as Iran Tensions Threaten Strait of Hormuz Shipping - Intellectia AI",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uTW4wdldKUS1IbW5JVEZSbjhEdVJCMHhaTFJRbWxfcElpZWRJUmpKaThNREJpVVJ5akszMXFldDJrdzFjMldFUzRhQjQ2YTJ1a3VBVHpyMzIyNFhteFk2Ukt2TDNqYVdIR09tZThGQjBsQU1ETlZvaQ?oc=5",
-  "published": "Tue, 18 Aug 2026 00:13:01 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "EIA raises third-quarter Brent forecast to $85/bbl on Strait of Hormuz disruptions - Oil & Gas Journal",
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXlSby1Xci0weFVhR0s0TlNQR0RtczU2ajRjdkZhQUREZUlLWTVXTHY2WDdIREE2Tmk4eEsyWEZPSjZ6VDBJbURCZXc4ZndaUjBEMHR0VnlJNTlzT3k4dHU4SVpLVi0tRS10dEZ3LWU3eDJGV1lMWlZOSXRYRTJzUS1WMlFpY2U0Vk00NnlWeDFGTXRBMk1DR1FCWURsT01KeXZ4RFRyRjBWcDFmVER1aGNBQWJmb3ppLU1RTExZVklhSkotNmczTG5lR1RFRkgzaUZlLWhVQ1B5UVAzVlNTN2ctQTU?oc=5",
   "published": "Thu, 13 Aug 2026 06:19:42 GMT",
@@ -99,7 +88,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - iisd.org",
+  "headline": "Oil Prices Surge as Iran Tensions Threaten Strait of Hormuz Shipping - Intellectia AI",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uTW4wdldKUS1IbW5JVEZSbjhEdVJCMHhaTFJRbWxfcElpZWRJUmpKaThNREJpVVJ5akszMXFldDJrdzFjMldFUzRhQjQ2YTJ1a3VBVHpyMzIyNFhteFk2Ukt2TDNqYVdIR09tZThGQjBsQU1ETlZvaQ?oc=5",
+  "published": "Tue, 18 Aug 2026 00:13:01 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - International Institute for Sustainable Development",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5",
   "published": "Thu, 06 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -242,17 +242,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - Yahoo",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeDJsakFwbWJ2dHJJdFdLLWFVcVdiRVhwS1FQVkQzTUZPaVFIeFNmenF1WUdWYmpIMjh6QmVsdWpENTQweVV0V2xhakJjdTFEOVhsaWtmaTJQUGkwelhvd1NDZ3ZqVjNiQUNuTUNGeUVzMW1nWTBYZVVqLU9uanJkMGU2RTV0WGR1THZDUlRZY1IzcFh1aG1N?oc=5",
-  "published": "Thu, 13 Aug 2026 03:29:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5",
   "published": "Tue, 11 Aug 2026 14:59:38 GMT",
@@ -264,9 +253,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekxQUnMwU09VWk1GRXI5Y18xYkQ1MVV3THExMHlKU3JDaFVZVGFnX2xUV0tZbTY3RGNQamdCdkZHRndOV2p4OElDVkkxZW00M2tFWkZuN1dYaXVWZ0wydnZkTy1PeTVrLS1oU0M1X0Q4Tk1HZzVvemRuRzMtczdwWE10N1RQaUg4ZEpUM0lvMDc2RDIxTXZCSzFUUXJ2SGZKWmVhaDRR?oc=5",
-  "published": "Mon, 10 Aug 2026 12:01:40 GMT",
+  "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - Yahoo",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeDJsakFwbWJ2dHJJdFdLLWFVcVdiRVhwS1FQVkQzTUZPaVFIeFNmenF1WUdWYmpIMjh6QmVsdWpENTQweVV0V2xhakJjdTFEOVhsaWtmaTJQUGkwelhvd1NDZ3ZqVjNiQUNuTUNGeUVzMW1nWTBYZVVqLU9uanJkMGU2RTV0WGR1THZDUlRZY1IzcFh1aG1N?oc=5",
+  "published": "Thu, 13 Aug 2026 03:29:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
