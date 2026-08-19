@@ -11,17 +11,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5",
-  "published": "Wed, 12 Aug 2026 13:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "If Iran Wins The Strait Of Hormuz, The US Economy Stays Steady - Forbes",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUNFVi0ya2pwRzVtakFpU1VYcGlGMVh0MF83a2xYYVNjTHhDNUVHMzhRcjV1NW0zQzg4d0xnSWdhQUthcW1oYTFFUGFSbXgzOElLWjF0UXhkNFdhZzI1VU5uZVRXd1VkOEhZLUNnZVRvdS1tQlJMN0Fabm92VG1SczBWMHlRMjV0Y2tHd1U5eDlpdjlmM2lPaFl5ekpKWWhzMlBiMkN3dWFUSlZWT1lrNEV6RmY?oc=5",
   "published": "Fri, 14 Aug 2026 11:30:00 GMT",
@@ -36,17 +25,6 @@
   "headline": "Iran hits back after Trump says he may declare Hormuz US territory - Iran International",
   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ySWlQZDV2VEFEOWtycXU2Wl85MUFqc2QwVTE3bFpRQk9hLVI5N0ZYZS12RW50QXRVVjdJblQ2aXp4NndTM2xxOXFUbFJmQkpYbXc?oc=5",
   "published": "Fri, 14 Aug 2026 21:28:17 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Saudi Arabia resumes oil shipments through Strait of Hormuz after weeks-long halt - Gulf Business",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSW5DUGtRTGpkTEtqZjRRcjU5ODJJcjB2UDZQc2VlcU5EY0dQT2lnOVZHM1JkSDB3WHAtaUFtQ2c2eWxBX2RSMUltSjF5U20tcVRlOVp1YmZKU3ZUYUsxV1lCNGQwcGpUWWhvZ0pVcXBCNTdIdW1JSzVCNzRWWXZOcV8ySXhOWWVXMXhyNTBOWGxCSXlhcDlBYnNTNHU0bVVHMkhGN0V1bWNLbXR2ZlRmajZ1YTZQTjhEakc5a0dLRWZZOG9ZcFNj?oc=5",
-  "published": "Tue, 18 Aug 2026 10:19:37 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,7 +55,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - International Institute for Sustainable Development",
+  "headline": "Saudi Arabia resumes oil shipments through Strait of Hormuz after weeks-long halt - Gulf Business",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSW5DUGtRTGpkTEtqZjRRcjU5ODJJcjB2UDZQc2VlcU5EY0dQT2lnOVZHM1JkSDB3WHAtaUFtQ2c2eWxBX2RSMUltSjF5U20tcVRlOVp1YmZKU3ZUYUsxV1lCNGQwcGpUWWhvZ0pVcXBCNTdIdW1JSzVCNzRWWXZOcV8ySXhOWWVXMXhyNTBOWGxCSXlhcDlBYnNTNHU0bVVHMkhGN0V1bWNLbXR2ZlRmajZ1YTZQTjhEakc5a0dLRWZZOG9ZcFNj?oc=5",
+  "published": "Tue, 18 Aug 2026 10:19:37 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - iisd.org",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5",
   "published": "Thu, 06 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -88,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Prices Advance on Middle East Tensions and Strait of Hormuz Closure | Investing.com - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXVuVVFMZHBNS3VnMzNETmJ5OGJmYW92SHFtblp0RHJDTlYzZjJ4bXJsT05Ydm12b0lmRDdCY0RWMmdMTUFzOE9uNHRxM1ZRcHdiZ2Y0VG1QT2JGVS1ZZ2Exb2NiNi1ZXzFMckNWZW53QXltU2JIbURyUXBOQXRJYlYyMXpNVzJuY2VUb25NaXptX2k4cGFUVS1GRWhFSzhUdmd2S0pfbHNEdFdMQXZV?oc=5",
-  "published": "Tue, 18 Aug 2026 04:31:00 GMT",
+  "headline": "Saudi Arabia resumes oil shipments via the Strait of Hormuz - idnfinancials.com",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOODBnWFdJZndjajF3NlFYdzZQRXp5UGFpaG1ZaDUzTjdGQTlUbm02aUlVS1V1SVZ5UDE5a0dxQnE2SHFhT1BPQWtSQWxpVFJrdWZ2VmpMdWI3ZHBrdmpWTHFhZjVWbHJGMzJDbE94bHRpbzgwdkxCLXVxMUgwRjVNU3BGVUlrcjFqUHhQckVkZlRqVzFlMlV2eFRLcUpzcmFpUGc?oc=5",
+  "published": "Tue, 18 Aug 2026 18:20:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -110,17 +99,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Saudis have resumed oil shipments through the Strait of Hormuz after a three-week hiatus - LIGA.net",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRS1YRTFONnktZ2txUHVMR19KMGEtam9lLVVvUHZQdUxITG9UbTdPYzRkVWVSQ3N4czVEYS1BY1dJX1ZRRGVBeWp1cEVKT2pWcmRON05CdGFDZlFXVVVCZTNXR2VpUDFqQVBIeEtSVG5ybjlsLTdEeV9YMDdXNTFrdGNrWllYMzVpWjBXQndpTWk5UjEwLU1nTjJFUHFjRjNmOVd0QzJHOGFEMnEyd0hWRGwxei1RYTRiX3RUTHRIRGZYV2U2S1BZ0gHMAUFVX3lxTE1TdG03aVB6N09GR29mdTR5VkFsSXRJSVUyT0pGcDJqd0ZKRVJwc1AxcHR5bEFTYUF6VVdGX1g5NVFNV01jVjNXSFhVUzhHLXJmNlU5TFVrYmQ4NGVDbVJZU1p5ZTZqaHhuZ1hoMnlxNi01RjhweGRqc3FCMjFsZUZfYXdSV0MtcENGdmVGLVRYQmNyNFhvYTA4TmhNdEdOcmtRaXNtRkhOSHBscmRzcUhSX3p0aWVNTnFZcHh2d0gtUjBUY0tWeFhsMmU1dg?oc=5",
-  "published": "Tue, 18 Aug 2026 14:44:18 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Bypass the Strait of Hormuz? Why That\u2019s Not So Easy - EnergyNow.com",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5",
   "published": "Thu, 06 Aug 2026 21:58:49 GMT",
@@ -132,9 +110,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices remain below $100 despite tensions surrounding the Strait of Hormuz - UA.NEWS",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUl2R1BYM1VORHA4TEtWN185ZFF5MktJMk12X0JmZFBKeWItUkV6cExKM2dURlBvelhwNGdCZEptcWw1V1ZrWWFUSUttZTRuWVhic085UFBvSnV0em14SjRTV1lzUUR1SERaZmpfcTR2Y21XYjB1QlNCV3pWRmNMNnFNY2hZOWs1Z1d1SVNkem9HMjZtN1didEhHTXdPVHB5emd3NUoxYw?oc=5",
-  "published": "Thu, 13 Aug 2026 18:09:14 GMT",
+  "headline": "The Saudis have resumed oil shipments through the Strait of Hormuz after a three-week hiatus - LIGA.net",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRS1YRTFONnktZ2txUHVMR19KMGEtam9lLVVvUHZQdUxITG9UbTdPYzRkVWVSQ3N4czVEYS1BY1dJX1ZRRGVBeWp1cEVKT2pWcmRON05CdGFDZlFXVVVCZTNXR2VpUDFqQVBIeEtSVG5ybjlsLTdEeV9YMDdXNTFrdGNrWllYMzVpWjBXQndpTWk5UjEwLU1nTjJFUHFjRjNmOVd0QzJHOGFEMnEyd0hWRGwxei1RYTRiX3RUTHRIRGZYV2U2S1BZ0gHMAUFVX3lxTE1TdG03aVB6N09GR29mdTR5VkFsSXRJSVUyT0pGcDJqd0ZKRVJwc1AxcHR5bEFTYUF6VVdGX1g5NVFNV01jVjNXSFhVUzhHLXJmNlU5TFVrYmQ4NGVDbVJZU1p5ZTZqaHhuZ1hoMnlxNi01RjhweGRqc3FCMjFsZUZfYXdSV0MtcENGdmVGLVRYQmNyNFhvYTA4TmhNdEdOcmtRaXNtRkhOSHBscmRzcUhSX3p0aWVNTnFZcHh2d0gtUjBUY0tWeFhsMmU1dg?oc=5",
+  "published": "Tue, 18 Aug 2026 14:44:18 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil Prices Advance on Middle East Tensions and Strait of Hormuz Closure | Investing.com - News and Statistics - indexbox.io",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXVuVVFMZHBNS3VnMzNETmJ5OGJmYW92SHFtblp0RHJDTlYzZjJ4bXJsT05Ydm12b0lmRDdCY0RWMmdMTUFzOE9uNHRxM1ZRcHdiZ2Y0VG1QT2JGVS1ZZ2Exb2NiNi1ZXzFMckNWZW53QXltU2JIbURyUXBOQXRJYlYyMXpNVzJuY2VUb25NaXptX2k4cGFUVS1GRWhFSzhUdmd2S0pfbHNEdFdMQXZV?oc=5",
+  "published": "Tue, 18 Aug 2026 04:31:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
