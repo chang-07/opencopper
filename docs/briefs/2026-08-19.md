@@ -23,11 +23,11 @@ band is wide, the elasticities are doing the work, not the event.
 
 _10 corroborating headline(s):_
 - [If Iran Wins The Strait Of Hormuz, The US Economy Stays Steady - Forbes](https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUNFVi0ya2pwRzVtakFpU1VYcGlGMVh0MF83a2xYYVNjTHhDNUVHMzhRcjV1NW0zQzg4d0xnSWdhQUthcW1oYTFFUGFSbXgzOElLWjF0UXhkNFdhZzI1VU5uZVRXd1VkOEhZLUNnZVRvdS1tQlJMN0Fabm92VG1SczBWMHlRMjV0Y2tHd1U5eDlpdjlmM2lPaFl5ekpKWWhzMlBiMkN3dWFUSlZWT1lrNEV6RmY?oc=5)
-- [Iran hits back after Trump says he may declare Hormuz US territory - Iran International](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ySWlQZDV2VEFEOWtycXU2Wl85MUFqc2QwVTE3bFpRQk9hLVI5N0ZYZS12RW50QXRVVjdJblQ2aXp4NndTM2xxOXFUbFJmQkpYbXc?oc=5)
-- [Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - aljazeera.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5)
+- [Iran hits back after Trump says he may declare Hormuz US territory - iranintl.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ySWlQZDV2VEFEOWtycXU2Wl85MUFqc2QwVTE3bFpRQk9hLVI5N0ZYZS12RW50QXRVVjdJblQ2aXp4NndTM2xxOXFUbFJmQkpYbXc?oc=5)
+- [Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5)
 - …and 7 more
 
-## EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - reuters.com
+## EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters
 *Mon, 10 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
 
@@ -45,7 +45,7 @@ band is wide, the elasticities are doing the work, not the event.
 
 _5 corroborating headline(s):_
 - [DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5)
-- [Congo bans copper and cobalt concentrate exports, Turkey and PKK close to ending forty-year conflict, Ukraine and Russia continue to trade blows - Yahoo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOd043dW40YjIwVmZSV3FCRnlYR2RSa25wYTJ5dGg2aWtPaGhQSzM1ZWoxQ2dKeVpSbjIzTmNZdzRVMGFvYTlESGwzeWdUQlZHZksyWFAzalNNSi0tX3RZYlBOdGFYMENUeGhsazZaZWN1b1pFeXYxMG91ZWtROEU0MFBTaTdsTGV5MDNmX3JsejE3bDA5Rmc?oc=5)
+- [Ivanhoe Mines Provides Clarification to Reuters' Article Announcing the Ban of Copper and Cobalt Concentrate Exports from the DRC - Yahoo Finance](https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGhPcXdqWWRONDZ3UXdOblpTT1VoN0ZQaHQwWHNGRGRIVWExaDZBSWZENFBCRG1TLUNYeGQ1d1FnTTRXQTNxOUN2MTYxQ21sQWV6MkZsa2tQSU5OeFJOWnc3Z1RBdWZuaDBZajhjS2E4cFdFVWszQXVZNVhITUhJR24tSDFfZTBlNnRkLW4ybWxweWZDQnpPX3B1YVA0eFd3LVd3STZUOFVobXVXYkVISGczbGU?oc=5)
 - [Congo Issues Immediate Copper and Cobalt Ban as Smelters Pay Miners for Feedstock - Tech Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWdpRFd0ZXdXSE4xamN4bC10RDk1QjVTczdRekZYb1N0SE9zYXBLcGtzVFNEdnN1SFRkY3Z0bjUxWkpIeDh1cm1lQ3RBcVE2cUlOZHMzOS1zc2p6VEdMMHo2VUNkSEhRQlhKa3l4M2hkWDVUWjdJaVcxWnpfbEVETENuZFdUdEVWOHF1TmtyRGZnbWZ2dWw3V19kZXllU3dkYnpTM3F4Yk1zMVBVOENWcHZKWnQ4U184NFFIOEJjT0ZCWWc?oc=5)
 - …and 2 more
 
