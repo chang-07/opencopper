@@ -46,7 +46,7 @@
  {
   "headline": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5",
-  "published": "Wed, 12 Aug 2026 06:36:04 GMT",
+  "published": "Wed, 12 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,17 +99,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EIA raises third-quarter Brent forecast to $85/bbl on Strait of Hormuz disruptions - Oil & Gas Journal",
-  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXlSby1Xci0weFVhR0s0TlNQR0RtczU2ajRjdkZhQUREZUlLWTVXTHY2WDdIREE2Tmk4eEsyWEZPSjZ6VDBJbURCZXc4ZndaUjBEMHR0VnlJNTlzT3k4dHU4SVpLVi0tRS10dEZ3LWU3eDJGV1lMWlZOSXRYRTJzUS1WMlFpY2U0Vk00NnlWeDFGTXRBMk1DR1FCWURsT01KeXZ4RFRyRjBWcDFmVER1aGNBQWJmb3ppLU1RTExZVklhSkotNmczTG5lR1RFRkgzaUZlLWhVQ1B5UVAzVlNTN2ctQTU?oc=5",
-  "published": "Thu, 13 Aug 2026 06:19:42 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
   "published": "Mon, 10 Aug 2026 07:00:00 GMT",
@@ -143,17 +132,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo bans exports of copper, cobalt concentrates, official order says - Mining Weekly",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0JyNjNXQVMtTWRNcGtla09udTNRb1NMeXBETkF0Mm1ER01uWGpYSU9Yd0xhTzBGZFp6WHliQk1QU3VWcWtTSGhnTWlwMXA0elFPNkR5ZTltOVNfT1dyZ1pZYTE4d1U4TEdsTjBSQ1UzV3NFSGFPZzQxR3ZFMm93YktSV2g3cjFmYTM2X05HaGtVZFdOZDNmOE9MVFJVcWVHd1BWTERmeHpIZkVYaFVxYkRYQ0FpRU0?oc=5",
-  "published": "Thu, 06 Aug 2026 09:03:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
   "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
   "published": "Fri, 07 Aug 2026 07:00:00 GMT",
@@ -176,7 +154,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia and Ukraine\u2019s Black Sea Grain Exports Grind to a Virtual Halt - gcaptain.com",
+  "headline": "Russia and Ukraine\u2019s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5",
   "published": "Wed, 19 Aug 2026 17:00:41 GMT",
   "rule_note": "",
