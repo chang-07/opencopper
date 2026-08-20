@@ -46,8 +46,8 @@ band is wide, the elasticities are doing the work, not the event.
 _1 corroborating headline(s):_
 - [DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5)
 
-## Russian Black Sea attacks choke Ukraine grain exports at peak harvest - DatamarNews
-*Thu, 20 Aug 2026 19:51:21 GMT* — [source](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmlmcEFkSWUyN25JeHRoOVNDRzc3RzY0SUpLWlFraVFzS2F2TWo2emVkTzR0ZTZFRTkzeG1DckVyTnJSaDJxaTRPNzk0RHhiVmxobzgtRDlnRHZWd2hyNFFRRlg5UExYUXhqekhUZ0cxT1BFLTRpX1lPd3JNamJqRmdpNTZXUENmOWxUbFB3QlhGYkxvVUtsZm1FRHZlaHB4V0txanR3?oc=5)
+## Grain prices surge after Ukraine war chokes off seaborne exports - Financial Times
+*Wed, 19 Aug 2026 16:55:03 GMT* — [source](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVuY3F4UFJQWWR2dDliZ2JLOGx5bXBQOElFYWNlNWFsX3hYc3lYNHg1NjczY0lJWjBSaWVRY3ltMkxPRGdmX2duYk1lRjhZMlJGX2lUb1VyTV9zcHJUVWtPdVJlUzlrdDdCX2pReVFCWHRFMEkxZXJZZExvWDdJTV9nb2U?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -62,11 +62,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_9 corroborating headline(s):_
-- [Black Sea attacks squeeze Ukraine’s grain exports, lifting wheat prices - TVP World](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMThBeDhZYzNnQ3hzVFVPWlhZR3NGZjFpN2lHaTdtVmtFMTZwMFBHTE5xUkY1WW41UDFHS2xaSmdrajVQM3hta0hBa1BjOUk3bDVRa1loMHVwS0tNMkZ3b2JfN3FhLWpiejJ2NVBXTG1OSGVNQ3E2Nmp1V1p0WVZRdVVsQWl4S2NUOV9hQ2U3Z3Q?oc=5)
-- [Russia-Ukraine clashes disrupt Black Sea grain exports; global wheat buyers brace for tighter supplies - Moomoo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2xoX0NvSUN6bUFybEI0QnY0dmlFcXpCNGxBLTlkczFYWElyb3YzdjNMN1FEX29OZFY2bFM4c1djQWxUWFRHUEtZRVdtTC1WZG95eUVyWmFpUmc2aXBTWjNaZGxYYzVwZVZnWmQ5ZjdYblF5QmNWcFprZXVjTXItdlZvUDQ0UjdMMlVPNTBtVlY3aGJNakZaUUdZbU1NeVozMVpBcUhEM3ZVUlhFVEE?oc=5)
-- [Grain prices surge after Ukraine war chokes off seaborne exports - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVuY3F4UFJQWWR2dDliZ2JLOGx5bXBQOElFYWNlNWFsX3hYc3lYNHg1NjczY0lJWjBSaWVRY3ltMkxPRGdmX2duYk1lRjhZMlJGX2lUb1VyTV9zcHJUVWtPdVJlUzlrdDdCX2pReVFCWHRFMEkxZXJZZExvWDdJTV9nb2U?oc=5)
-- …and 6 more
+_11 corroborating headline(s):_
+- [U.S. wheat futures jump as Russian exports slowed by Black Sea port damage (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzdXUldQdUdLQ2VrM2N2YzNib0pfa0VjaER2N0hXYXBYY21yNVNkRndfblJSdmt2UkJ2Vk1GVTNlZXhFN2piam9lVUg3R2xLd0k0U3FPcTRBY1FzdG8xQmE0LW9oNlh4UVhqMEVfOHRiZTgwc1ZnYXlpVWhhd2xEa2JOQnRGU2lpcjZfWEc3SFZtdUp0bDBOenhla1UwbjlERFVQQl9ocFEyMXRSTjhNZA?oc=5)
+- [Russia and Ukraine’s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5)
+- [Ukrainian Strikes Halt Most Russian Grain Exports in the Black Sea - The Moscow Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWFJYUZySVdOaTZSdlY0c1VXVlFGTGE2UkVXRm9hbUEtTThNa0RJcDdZRmxlSmY4dDRFTjRFUEdpc2Q4R0c4MGhRZUJWVndVRFVNWWZKVW81SlBkQUp2aTk5eHllMnp6dG1SWk1kMm4wRGFzQlRDekt4RnVvazh2dUJkajd3c0h6YVZrMTFLa0R6eHlGZDBWMGhEVTA5V0tVTVNaTTlMWE9yRVl6U0ttd2JkM2gzZw?oc=5)
+- …and 8 more
 
 ---
 
