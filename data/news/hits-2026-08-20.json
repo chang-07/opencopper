@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - Atlantic Council",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5",
-  "published": "Wed, 12 Aug 2026 20:15:03 GMT",
+  "headline": "Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5",
+  "published": "Fri, 14 Aug 2026 22:36:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -25,6 +25,17 @@
   "headline": "If Iran Wins The Strait Of Hormuz, The US Economy Stays Steady - Forbes",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUNFVi0ya2pwRzVtakFpU1VYcGlGMVh0MF83a2xYYVNjTHhDNUVHMzhRcjV1NW0zQzg4d0xnSWdhQUthcW1oYTFFUGFSbXgzOElLWjF0UXhkNFdhZzI1VU5uZVRXd1VkOEhZLUNnZVRvdS1tQlJMN0Fabm92VG1SczBWMHlRMjV0Y2tHd1U5eDlpdjlmM2lPaFl5ekpKWWhzMlBiMkN3dWFUSlZWT1lrNEV6RmY?oc=5",
   "published": "Fri, 14 Aug 2026 11:30:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - Atlantic Council",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5",
+  "published": "Wed, 12 Aug 2026 20:15:03 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -55,9 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - International Institute for Sustainable Development",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5",
-  "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+  "headline": "Saudi Arabia resumes oil shipments through Strait of Hormuz after weeks-long halt - Gulf Business",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalI4NW9VT0QzUGZqVVhlSUxFY0FBMVZaN0ROdXZ4VDFvTWFwNGg4SUJQZHJfc3JqZkR6Qk9GSUxrbTdfRVBIN1hUWndZS19RbWVueFFFRm12S0RCcDZWR3AxZVBVZEJHTmtqMklvNG9DbkYzTlM2V0l5MXZrUWMwZEhCTHdReHZpZ2QxalREalRiQ0dXc01NU2V4UXdDZ3NaVnJfUzVXcjFxb1RCc3FVVk5UM0hsWFRSSlY1dFJnOGpWVGo4QWc?oc=5",
+  "published": "Tue, 18 Aug 2026 10:19:37 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -66,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Bypass the Strait of Hormuz? Why That\u2019s Not So Easy - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5",
-  "published": "Thu, 06 Aug 2026 21:58:49 GMT",
+  "headline": "The Strait of Hormuz Crisis Emphasizes Why Canada Should Move Away From Oil and Gas\u2014Not Expand It - International Institute for Sustainable Development",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZ0M1JBcEpSZW05OGotS2dCV0ZLNE1kNjlpR0FlbXFKZEpLbWRXQ1JmVWVpamtaYVMzNm96WUd0NGFicjBDMEYzMUVMLUl6X2pJRTVBYmJKc253YngyTXAwbUc1U1hfTmlVOG91OVdoWXhWV1pHaXZzaEJOQzVNeWkyWmxaaFJDUmJGSjdnX2o2cGdRWHlZRFhfOWs?oc=5",
+  "published": "Thu, 06 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -88,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Saudi Arabia resumes oil shipments through Strait of Hormuz after weeks-long halt - Gulf Business",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalI4NW9VT0QzUGZqVVhlSUxFY0FBMVZaN0ROdXZ4VDFvTWFwNGg4SUJQZHJfc3JqZkR6Qk9GSUxrbTdfRVBIN1hUWndZS19RbWVueFFFRm12S0RCcDZWR3AxZVBVZEJHTmtqMklvNG9DbkYzTlM2V0l5MXZrUWMwZEhCTHdReHZpZ2QxalREalRiQ0dXc01NU2V4UXdDZ3NaVnJfUzVXcjFxb1RCc3FVVk5UM0hsWFRSSlY1dFJnOGpWVGo4QWc?oc=5",
-  "published": "Tue, 18 Aug 2026 10:19:37 GMT",
+  "headline": "Bypass the Strait of Hormuz? Why That\u2019s Not So Easy - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5",
+  "published": "Thu, 06 Aug 2026 21:58:49 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -113,6 +124,28 @@
   "headline": "How the UAE Has Kept Its Oil Flowing Through Hormuz - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXR5OEYyakZxXzh2NDktajBvUzBsWlFjbjA4Sks4T2JFeG1qUVZoVTN3VmZqQ3Z5Y1U5S1ZkaXQzTjg3ODNLa2hLZi1YTFpwd1RUTklVaFRldUxSX3hsdkloSVBwM2NMdEhYQ2Qyc2wxR3V3bzNHUWZpX1pmQTBTQS1ZajhZbUk1eVlsZmJmNENQQTlIRFlONWpNNXliRGRuRzBobFVaNUtSc0XSAbABQVVfeXFMUEtEeEItOWhpQU5feG9OM0VCdm8xR0VHT2ExbUpfVERIbWpKdkl1SXhUd0xCUTdSbEhhYktXQnIwTnViR25KMXpGUjRXdk9JUDlzMVA3WXRJVVgxeUJjb3dxZjJldjlOMDJMNWk1U1pzRDIyR2dCNlNjN0xuakVPazA0dTd2V0lTTjQ0Z2ZFS0x4bVdBODRNR0doMlgzWGF4dzktRFUzMmVfV1dvcHMwSnc?oc=5",
   "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Saudi Arabia resumes oil shipments via the Strait of Hormuz - idnfinancials.com",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOODBnWFdJZndjajF3NlFYdzZQRXp5UGFpaG1ZaDUzTjdGQTlUbm02aUlVS1V1SVZ5UDE5a0dxQnE2SHFhT1BPQWtSQWxpVFJrdWZ2VmpMdWI3ZHBrdmpWTHFhZjVWbHJGMzJDbE94bHRpbzgwdkxCLXVxMUgwRjVNU3BGVUlrcjFqUHhQckVkZlRqVzFlMlV2eFRLcUpzcmFpUGc?oc=5",
+  "published": "Tue, 18 Aug 2026 18:20:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Shipping in the Strait of Hormuz is disrupted, OPEC+ crude oil production increases moderately - Bitget",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Pam0tTzhJclYtVWN6eEpLZHJsX2FqZkZGV0I1YUJKWnhHWWtoWDhYZ1dMSk1RamhQX0FLbkRIbEtOd2FqYXl3Y19QdEVWVmhCYVkzRWQtVFlNc2Jla096RlBOYjdvdFNpb3fSAWpBVV95cUxOT2ptLU84SXJWLVVjenhKS2RybF9hamZGRldCNWFCSlp4R1lraFg4WGdXTEpNUWpoUF9BS25ESGxLTndhamF5d2NfUHRFVlZoQmFZM0VkLVRZTXNiZWtPekZQTmI3b3RTaW93?oc=5",
+  "published": "Mon, 17 Aug 2026 14:02:14 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -165,7 +198,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo bans exports of copper, cobalt concentrates, official order says - Mining Weekly",
+  "headline": "Congo bans exports of copper, cobalt concentrates, official order says - miningweekly.com",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0JyNjNXQVMtTWRNcGtla09udTNRb1NMeXBETkF0Mm1ER01uWGpYSU9Yd0xhTzBGZFp6WHliQk1QU3VWcWtTSGhnTWlwMXA0elFPNkR5ZTltOVNfT1dyZ1pZYTE4d1U4TEdsTjBSQ1UzV3NFSGFPZzQxR3ZFMm93YktSV2g3cjFmYTM2X05HaGtVZFdOZDNmOE9MVFJVcWVHd1BWTERmeHpIZkVYaFVxYkRYQ0FpRU0?oc=5",
   "published": "Thu, 06 Aug 2026 09:03:00 GMT",
   "rule_note": "",
@@ -176,7 +209,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - mining.com.au",
+  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
   "published": "Fri, 07 Aug 2026 07:00:00 GMT",
   "rule_note": "",
@@ -209,7 +242,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia and Ukraine\u2019s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain",
+  "headline": "Russia and Ukraine\u2019s Black Sea Grain Exports Grind to a Virtual Halt - gcaptain.com",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5",
   "published": "Wed, 19 Aug 2026 17:00:41 GMT",
   "rule_note": "",
@@ -242,7 +275,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - bbc.com",
+  "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
   "published": "Thu, 13 Aug 2026 03:28:56 GMT",
   "rule_note": "",
@@ -286,7 +319,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia\u2019s Grain Export Pipeline Paralyzed After Strikes on Sea Ports - united24media.com",
+  "headline": "Russia\u2019s Grain Export Pipeline Paralyzed After Strikes on Sea Ports - UNITED24 Media",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFdiS2FFcHk3TlhHanE4ZjlXcldnZ241VXFqOFJaQUNaOG9JNHdPVDdaektMTmt1ZW5zWm1KeUEzMHctZkMtOTdyRHdwNGpQQmlnc2RTNm9JMWlqclpzY0lCT1JhczJOZTktNmNBWXVqT3QxTFVoSzRMNXVlazZxQ0V2dEhfMFhkRlZOM254Xy1Cd3p6UGFUVXZrdmhKWHU4YmlTdTFTTmRfMFVjYW5uQkwwOA?oc=5",
   "published": "Mon, 17 Aug 2026 15:35:51 GMT",
   "rule_note": "",
