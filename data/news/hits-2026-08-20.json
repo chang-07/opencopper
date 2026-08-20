@@ -78,7 +78,7 @@
  },
  {
   "headline": "Saudi Arabia resumes oil shipments through Strait of Hormuz after weeks-long halt - Gulf Business",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQalI4NW9VT0QzUGZqVVhlSUxFY0FBMVZaN0ROdXZ4VDFvTWFwNGg4SUJQZHJfc3JqZkR6Qk9GSUxrbTdfRVBIN1hUWndZS19RbWVueFFFRm12S0RCcDZWR3AxZVBVZEJHTmtqMklvNG9DbkYzTlM2V0l5MXZrUWMwZEhCTHdReHZpZ2QxalREalRiQ0dXc01NU2V4UXdDZ3NaVnJfUzVXcjFxb1RCc3FVVk5UM0hsWFRSSlY1dFJnOGpWVGo4QWc?oc=5",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSW5DUGtRTGpkTEtqZjRRcjU5ODJJcjB2UDZQc2VlcU5EY0dQT2lnOVZHM1JkSDB3WHAtaUFtQ2c2eWxBX2RSMUltSjF5U20tcVRlOVp1YmZKU3ZUYUsxV1lCNGQwcGpUWWhvZ0pVcXBCNTdIdW1JSzVCNzRWWXZOcV8ySXhOWWVXMXhyNTBOWGxCSXlhcDlBYnNTNHU0bVVHMkhGN0V1bWNLbXR2ZlRmajZ1YTZQTjhEakc5a0dLRWZZOG9ZcFNj?oc=5",
   "published": "Tue, 18 Aug 2026 10:19:37 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
@@ -124,17 +124,6 @@
   "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5",
   "published": "Wed, 12 Aug 2026 13:38:19 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
-  "published": "Fri, 07 Aug 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",

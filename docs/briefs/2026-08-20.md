@@ -43,9 +43,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_1 corroborating headline(s):_
 - [DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5)
-- [DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5)
 
 ## Grain prices surge after Ukraine war chokes off seaborne exports - Financial Times
 *Wed, 19 Aug 2026 16:55:03 GMT* — [source](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVuY3F4UFJQWWR2dDliZ2JLOGx5bXBQOElFYWNlNWFsX3hYc3lYNHg1NjczY0lJWjBSaWVRY3ltMkxPRGdmX2duYk1lRjhZMlJGX2lUb1VyTV9zcHJUVWtPdVJlUzlrdDdCX2pReVFCWHRFMEkxZXJZZExvWDdJTV9nb2U?oc=5)
