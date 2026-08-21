@@ -1,8 +1,8 @@
 [
  {
-  "headline": "Iraq seeks to expand oil exports through T\u00fcrkiye\u2019s Ceyhan amid Hormuz disruption - T\u00fcrkiye Today",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR1FoOU1ZQWMtSmRvdDVzQndGWGljdWFmdlNoQUVnbnVJTTFzaG5xclluUENEOFR5blhnOUVaZVJXWTBkOHdvZFU0X2lLR25Ec19iaHpUQzRIMnpxM2g3Y1lDREZ2MmtoNWIzQk1vMUw3a2xMVENfcVI1LWdKZGxtUDBnakt1UTBzVUota1NERUY1Tmk5TDd0SWFfUkFkQXdpRVg1T2cxajdkeUJzVHZWdTQzREdqa0taend1MGpiVU9uczA?oc=5",
-  "published": "Fri, 21 Aug 2026 11:39:27 GMT",
+  "headline": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5",
+  "published": "Wed, 12 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5",
-  "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+  "headline": "Iraq seeks to expand oil exports through T\u00fcrkiye\u2019s Ceyhan amid Hormuz disruption - T\u00fcrkiye Today",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR1FoOU1ZQWMtSmRvdDVzQndGWGljdWFmdlNoQUVnbnVJTTFzaG5xclluUENEOFR5blhnOUVaZVJXWTBkOHdvZFU0X2lLR25Ec19iaHpUQzRIMnpxM2g3Y1lDREZ2MmtoNWIzQk1vMUw3a2xMVENfcVI1LWdKZGxtUDBnakt1UTBzVUota1NERUY1Tmk5TDd0SWFfUkFkQXdpRVg1T2cxajdkeUJzVHZWdTQzREdqa0taend1MGpiVU9uczA?oc=5",
+  "published": "Fri, 21 Aug 2026 11:39:27 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -209,31 +209,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian strikes leave Ukraine farmers with piles of unsold grain - The Japan Times",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeDI4RnM2V25HX2Z1YmJSX2dkVWVRVUhLRFJFek1DaW5jTGY1eklYblpfY3JaS0h2TWVZd3k0ZmhpNWwzZjNRYm1vT19iSW1xRU9qcWhMN3k3OHN4OTBUZkk1TktxOEc0Z2U2bzRubjd4ZktxQ3Ayb3h5QVI2by1kTndOUmU1eFk?oc=5",
-  "published": "Fri, 21 Aug 2026 07:51:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russia-Ukraine clashes disrupt Black Sea grain exports; global wheat buyers brace for tighter supplies - Moomoo",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2xoX0NvSUN6bUFybEI0QnY0dmlFcXpCNGxBLTlkczFYWElyb3YzdjNMN1FEX29OZFY2bFM4c1djQWxUWFRHUEtZRVdtTC1WZG95eUVyWmFpUmc2aXBTWjNaZGxYYzVwZVZnWmQ5ZjdYblF5QmNWcFprZXVjTXItdlZvUDQ0UjdMMlVPNTBtVlY3aGJNakZaUUdZbU1NeVozMVpBcUhEM3ZVUlhFVEE?oc=5",
   "published": "Thu, 20 Aug 2026 10:03:16 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russian Black Sea attacks choke Ukraine grain exports at peak harvest - DatamarNews",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmlmcEFkSWUyN25JeHRoOVNDRzc3RzY0SUpLWlFraVFzS2F2TWo2emVkTzR0ZTZFRTkzeG1DckVyTnJSaDJxaTRPNzk0RHhiVmxobzgtRDlnRHZWd2hyNFFRRlg5UExYUXhqekhUZ0cxT1BFLTRpX1lPd3JNamJqRmdpNTZXUENmOWxUbFB3QlhGYkxvVUtsZm1FRHZlaHB4V0txanR3?oc=5",
-  "published": "Thu, 20 Aug 2026 22:15:24 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",

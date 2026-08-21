@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Iraq seeks to expand oil exports through Türkiye’s Ceyhan amid Hormuz disruption - Türkiye Today
-*Fri, 21 Aug 2026 11:39:27 GMT* — [source](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR1FoOU1ZQWMtSmRvdDVzQndGWGljdWFmdlNoQUVnbnVJTTFzaG5xclluUENEOFR5blhnOUVaZVJXWTBkOHdvZFU0X2lLR25Ec19iaHpUQzRIMnpxM2g3Y1lDREZ2MmtoNWIzQk1vMUw3a2xMVENfcVI1LWdKZGxtUDBnakt1UTBzVUota1NERUY1Tmk5TDd0SWFfUkFkQXdpRVg1T2cxajdkeUJzVHZWdTQzREdqa0taend1MGpiVU9uczA?oc=5)
+## OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ
+*Wed, 12 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,7 +22,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _10 corroborating headline(s):_
-- [OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5)
+- [Iraq seeks to expand oil exports through Türkiye’s Ceyhan amid Hormuz disruption - Türkiye Today](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR1FoOU1ZQWMtSmRvdDVzQndGWGljdWFmdlNoQUVnbnVJTTFzaG5xclluUENEOFR5blhnOUVaZVJXWTBkOHdvZFU0X2lLR25Ec19iaHpUQzRIMnpxM2g3Y1lDREZ2MmtoNWIzQk1vMUw3a2xMVENfcVI1LWdKZGxtUDBnakt1UTBzVUota1NERUY1Tmk5TDd0SWFfUkFkQXdpRVg1T2cxajdkeUJzVHZWdTQzREdqa0taend1MGpiVU9uczA?oc=5)
 - [Iran is draining its leverage in the Strait of Hormuz. Trump’s best move is to let it happen. - Atlantic Council](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5)
 - [Shafaq News..Iraq secures alternative oil export routes amid Hormuz disruptions - شفق نيوز](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW5XU3I0ZVRMMVcwd2VGN2ZodnZMYkt2QnZWREVYS3FrNDQ5U1BuSTNQbzduRjEzUmdTLU5vVmxNbWxqOWdVUmRTUXdySzFRWEFVcWE3VzFFS2tHNGM5WWpPY2J3VDJNeTJSWGlKNjU5UC0tVDZxREc5YXJsWGppd2MwUGxSUHdCakI5RFFYNjBDb2xLb2NFWG9rb2g?oc=5)
 - …and 7 more
@@ -62,11 +62,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
+_6 corroborating headline(s):_
 - [Russia and Ukraine’s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5)
 - [U.S. wheat futures jump as Russian exports slowed by Black Sea port damage (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzdXUldQdUdLQ2VrM2N2YzNib0pfa0VjaER2N0hXYXBYY21yNVNkRndfblJSdmt2UkJ2Vk1GVTNlZXhFN2piam9lVUg3R2xLd0k0U3FPcTRBY1FzdG8xQmE0LW9oNlh4UVhqMEVfOHRiZTgwc1ZnYXlpVWhhd2xEa2JOQnRGU2lpcjZfWEc3SFZtdUp0bDBOenhla1UwbjlERFVQQl9ocFEyMXRSTjhNZA?oc=5)
 - [Ukrainian Strikes Halt Most Russian Grain Exports in the Black Sea - The Moscow Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWFJYUZySVdOaTZSdlY0c1VXVlFGTGE2UkVXRm9hbUEtTThNa0RJcDdZRmxlSmY4dDRFTjRFUEdpc2Q4R0c4MGhRZUJWVndVRFVNWWZKVW81SlBkQUp2aTk5eHllMnp6dG1SWk1kMm4wRGFzQlRDekt4RnVvazh2dUJkajd3c0h6YVZrMTFLa0R6eHlGZDBWMGhEVTA5V0tVTVNaTTlMWE9yRVl6U0ttd2JkM2gzZw?oc=5)
-- …and 5 more
+- …and 3 more
 
 ---
 
