@@ -1,8 +1,8 @@
 [
  {
-  "headline": "Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5",
-  "published": "Fri, 14 Aug 2026 22:36:54 GMT",
+  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - Atlantic Council",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5",
+  "published": "Wed, 12 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - Atlantic Council",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5",
-  "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+  "headline": "Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5",
+  "published": "Fri, 14 Aug 2026 22:36:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -91,17 +91,6 @@
   "headline": "DRC may reduce cobalt quota if market needs rebalancing, ARECOMS says: exclusive - Fastmarkets",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM3M0R1d3lSakdvb2t5VVhITVlJOHpyREo4eUt0bWZZV3BmZllTM0hZcEhUNkhsWFBQdHUzZ0NtaFpsYkludFVHVWE2R2ZRbDl5ZG1uWXhaV1NpN1d6d1ZKNXRZdTg3Q2hWdUluTzhyclRYcm5mWUxBcm91QjZxbW4tZE1UMVdHLUQzd2J3UXZzMWhSTm8tQklUQzBlWmlMQlpTZ0E4SnVyMTVNcWQ0SUVRWU1GQUk?oc=5",
   "published": "Wed, 12 Aug 2026 13:38:19 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC imposes immediate ban on copper and cobalt concentrates exports - Mining.com.au",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlXZUEyeFlIc3k5aFFtbzdhQURkWFQ2SDlyWW03Q0lGM3kzRXlWUG5rSUZ3MzBIYUcyX2l2T01Tb2hnLWM0MktGSU1pTE5UWEJieC1qdUJ1akNEaGUwT2JmTldXczFGVG5mSHBBMFR0NHBpb1FJVEoxNUxESE5QeWwwR2JkSlh0RDdSZU1oTlV4WW9Z?oc=5",
-  "published": "Fri, 07 Aug 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -223,17 +212,6 @@
   "headline": "Black Sea Grain Corridor Nears Paralysis as Russia-Ukraine Wheat Exports Plunge, Threatening to Ignite Global Food Prices - finance.biggo.com",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00SkNjd1RvX1ZMd2VOamFjV3QyT0FvTmhCMFVGRUY1cHktX2Y5Q2lqZ3FzMndyVXAxNEVPMWFMTTB0cXFiYUZnZGJBVmFoU1dwQy1hamNIakFnZ1UyR3Rndnduc2VRbjM1bmI2OXJKeldrR1ZVUlE?oc=5",
   "published": "Thu, 20 Aug 2026 13:05:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Wheat prices surge as Ukraine war disrupts Black Sea grain exports - Firstpost",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkR4c0NmcFdEZm81QWJ2dm11bGRrVThkLVNXRE9xajdRTHJ4cGJWdHM5Nlk0bXRjdDMwTkx3LThub3pmQmYyZHlJNndxOGNoQU03ZnUzTkFWUExOTFVrX05Pb2lEYWViUTFBRlNaZDFmVEVOakhkY2hoMGt2NWlpWnZ0X0p5X2ZsQTFVbUU3QXFFbFEtMXMzdUl5X01IUdIBowFBVV95cUxOcmJ6V0NuRFRZR2l1aUpxaDJyelE5enNQUEk0ZDY4ODJPeW5MalhWWk9zSy10Tl9Ba053UTlmRXlseDFxdlh4U3MxeVgtZjhfa3JvN2dNQ1J6eG9jc1ZCUllmZkwwUHFycklOTkk0cnFMTllNMEJIWkVkNmJhQXkydDZnSGJsT1YwVUlRTkFiNWFpdzlHMUNUdlMzRGFxMzJrZHFJ?oc=5",
-  "published": "Thu, 20 Aug 2026 07:23:19 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
