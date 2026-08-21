@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Shafaq News..Iraq secures alternative oil export routes amid Hormuz disruptions - شفق نيوز
-*Fri, 21 Aug 2026 10:24:09 GMT* — [source](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW5XU3I0ZVRMMVcwd2VGN2ZodnZMYkt2QnZWREVYS3FrNDQ5U1BuSTNQbzduRjEzUmdTLU5vVmxNbWxqOWdVUmRTUXdySzFRWEFVcWE3VzFFS2tHNGM5WWpPY2J3VDJNeTJSWGlKNjU5UC0tVDZxREc5YXJsWGppd2MwUGxSUHdCakI5RFFYNjBDb2xLb2NFWG9rb2g?oc=5)
+## Iraq seeks to expand oil exports through Türkiye’s Ceyhan amid Hormuz disruption - Türkiye Today
+*Fri, 21 Aug 2026 11:39:27 GMT* — [source](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR1FoOU1ZQWMtSmRvdDVzQndGWGljdWFmdlNoQUVnbnVJTTFzaG5xclluUENEOFR5blhnOUVaZVJXWTBkOHdvZFU0X2lLR25Ec19iaHpUQzRIMnpxM2g3Y1lDREZ2MmtoNWIzQk1vMUw3a2xMVENfcVI1LWdKZGxtUDBnakt1UTBzVUota1NERUY1Tmk5TDd0SWFfUkFkQXdpRVg1T2cxajdkeUJzVHZWdTQzREdqa0taend1MGpiVU9uczA?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_7 corroborating headline(s):_
 - [OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5)
+- [Shafaq News..Iraq secures alternative oil export routes amid Hormuz disruptions - شفق نيوز](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW5XU3I0ZVRMMVcwd2VGN2ZodnZMYkt2QnZWREVYS3FrNDQ5U1BuSTNQbzduRjEzUmdTLU5vVmxNbWxqOWdVUmRTUXdySzFRWEFVcWE3VzFFS2tHNGM5WWpPY2J3VDJNeTJSWGlKNjU5UC0tVDZxREc5YXJsWGppd2MwUGxSUHdCakI5RFFYNjBDb2xLb2NFWG9rb2g?oc=5)
 - [Iran is draining its leverage in the Strait of Hormuz. Trump’s best move is to let it happen. - Atlantic Council](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5)
-- [Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5)
-- …and 2 more
+- …and 4 more
 
 ## EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters
 *Mon, 10 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)
