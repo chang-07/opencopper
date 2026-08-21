@@ -11,6 +11,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5",
+  "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Iran is draining its leverage in the Strait of Hormuz. Trump\u2019s best move is to let it happen. - Atlantic Council",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5",
   "published": "Wed, 12 Aug 2026 07:00:00 GMT",
@@ -44,31 +55,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran hits back after Trump says he may declare Hormuz US territory - Iran International",
-  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ySWlQZDV2VEFEOWtycXU2Wl85MUFqc2QwVTE3bFpRQk9hLVI5N0ZYZS12RW50QXRVVjdJblQ2aXp4NndTM2xxOXFUbFJmQkpYbXc?oc=5",
-  "published": "Fri, 14 Aug 2026 21:28:17 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Oil Prices Advance on Middle East Tensions and Strait of Hormuz Closure | Investing.com - News and Statistics - IndexBox",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXVuVVFMZHBNS3VnMzNETmJ5OGJmYW92SHFtblp0RHJDTlYzZjJ4bXJsT05Ydm12b0lmRDdCY0RWMmdMTUFzOE9uNHRxM1ZRcHdiZ2Y0VG1QT2JGVS1ZZ2Exb2NiNi1ZXzFMckNWZW53QXltU2JIbURyUXBOQXRJYlYyMXpNVzJuY2VUb25NaXptX2k4cGFUVS1GRWhFSzhUdmd2S0pfbHNEdFdMQXZV?oc=5",
   "published": "Tue, 18 Aug 2026 04:31:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil Prices Surge as Iran Tensions Threaten Strait of Hormuz Shipping - Intellectia AI",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uTW4wdldKUS1IbW5JVEZSbjhEdVJCMHhaTFJRbWxfcElpZWRJUmpKaThNREJpVVJ5akszMXFldDJrdzFjMldFUzRhQjQ2YTJ1a3VBVHpyMzIyNFhteFk2Ukt2TDNqYVdIR09tZThGQjBsQU1ETlZvaQ?oc=5",
-  "published": "Tue, 18 Aug 2026 00:13:01 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -143,17 +132,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
-  "published": "Thu, 13 Aug 2026 03:28:56 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets - CNBC",
   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSWtXLXFuV3JTdHVRRG42UU5Iclp5dVpFOFh2RmNxXzQ4NWxXSlo0THo4X2VPSy1TalhwRk1SYjNva2lXQmsxN24tRVFnczhBT0ZjR1pybUVrbWVGUmtWd3c5bXhwSktVQVJtTHNSRWZNWENtZXhYLXB30gF_QVVfeXFMT2tUYml0RlZKY1R0U01td0Y0NUVPQ3loTU9FSTIyVVdZY3NNRWU4dGpEbzBfVVRXMEg2ZzYwTFVDRGVEODJRNXRUckxlajZ6LTZUZnBZQXh0eHJ5X1hUbWpXejJjV3Vuc3A5NEl2M3hrdmZPanBzT0IzbWt6Y2hwVQ?oc=5",
   "published": "Thu, 13 Aug 2026 07:20:28 GMT",
@@ -168,17 +146,6 @@
   "headline": "Russian Black Sea attacks choke Ukraine grain exports at peak harvest - DatamarNews",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmlmcEFkSWUyN25JeHRoOVNDRzc3RzY0SUpLWlFraVFzS2F2TWo2emVkTzR0ZTZFRTkzeG1DckVyTnJSaDJxaTRPNzk0RHhiVmxobzgtRDlnRHZWd2hyNFFRRlg5UExYUXhqekhUZ0cxT1BFLTRpX1lPd3JNamJqRmdpNTZXUENmOWxUbFB3QlhGYkxvVUtsZm1FRHZlaHB4V0txanR3?oc=5",
   "published": "Thu, 20 Aug 2026 22:15:24 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russia Is Cutting Off Ukraine\u2019s Grain Exports Again - tol.org",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdnp6ZFNyZEN6RFVMQWt3RmFkeXUtczJ5SnVPTUI3cGFRZ3RZUEZiNXJIekkycml3Uy1DT2dsMWRMWW1wZERCU1A5TGNRSlV4RVhoM2M5czd4VTdZMHdfSTBDUEJzdkp4NU12cWtQMzVHYVUwQVhWWF8yTjdDcWlORE9NM3lmTHhCQ0MxQXJQYw?oc=5",
-  "published": "Thu, 20 Aug 2026 13:47:44 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -209,20 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea attacks squeeze Ukraine\u2019s grain exports, lifting wheat prices - TVP World",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa2F0endicU84a3dzZ2tYZm5md1hMYVhVRlk0ZEdxcThGOTNYVUNYWkVFc0xxcXlBX3U1LWJiS3c0VGI4M213Z0JrMzVnQnhKUjdLUGZwMlVNZ09PTGtEUFlidUJEa2pzcHRUZFYtOWtJWmY3ZU5lNThsRjhjeHFKR0pGUEpVLVNqRC1LalpNQUQ4QmxYMzlVUnZiT1pueXZE?oc=5",
-  "published": "Thu, 20 Aug 2026 13:05:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Black Sea Grain Corridor Nears Paralysis as Russia-Ukraine Wheat Exports Plunge, Threatening to Ignite Global Food Prices - finance.biggo.com",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00SkNjd1RvX1ZMd2VOamFjV3QyT0FvTmhCMFVGRUY1cHktX2Y5Q2lqZ3FzMndyVXAxNEVPMWFMTTB0cXFiYUZnZGJBVmFoU1dwQy1hamNIakFnZ1UyR3Rndnduc2VRbjM1bmI2OXJKeldrR1ZVUlE?oc=5",
-  "published": "Thu, 20 Aug 2026 13:05:00 GMT",
+  "headline": "Russia Is Cutting Off Ukraine\u2019s Grain Exports Again - tol.org",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdnp6ZFNyZEN6RFVMQWt3RmFkeXUtczJ5SnVPTUI3cGFRZ3RZUEZiNXJIekkycml3Uy1DT2dsMWRMWW1wZERCU1A5TGNRSlV4RVhoM2M5czd4VTdZMHdfSTBDUEJzdkp4NU12cWtQMzVHYVUwQVhWWF8yTjdDcWlORE9NM3lmTHhCQ0MxQXJQYw?oc=5",
+  "published": "Thu, 20 Aug 2026 13:47:44 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
