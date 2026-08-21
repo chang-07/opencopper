@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5",
-  "published": "Fri, 14 Aug 2026 22:36:54 GMT",
+  "headline": "How Gulf Oil Is Escaping the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzV3NmE2dGFVTUdBSElrSVQ3SEhOdC14ekJjaUZ6cVV0Zk50MzRGY1VaRWJmN3lFRjE3OURLQWpueEVLendKOTZ0SHRDS1R0c2NTQUltblFCdXdpbUp5MGtyUGJLc0FCclcyQlhhaHZtY2g2RUtwQUtHUTkyejdXcW1OY2lXb1FwOURFazBnTjY4Z9IBlwFBVV95cUxOLWFpT3U2Q0RxQ1llZW5zMHVPSktxWVg3d1ZiUEJla3lpQ1B5OWV5dmlUTVdQWGJnT24tLU5RbTZkd1ZhMUVfaVpMdm1uc1paU09QaktOdzdVc3dNc09jcV9HMXZEekRrSmotMWNwTi1jRGVFRkxPLTJ0RFFBT0VFeGhjUE9xenhDb0xSMEtjajhiWDN0czJJ?oc=5",
+  "published": "Tue, 18 Aug 2026 15:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -22,9 +22,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "How Gulf Oil Is Escaping the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzV3NmE2dGFVTUdBSElrSVQ3SEhOdC14ekJjaUZ6cVV0Zk50MzRGY1VaRWJmN3lFRjE3OURLQWpueEVLendKOTZ0SHRDS1R0c2NTQUltblFCdXdpbUp5MGtyUGJLc0FCclcyQlhhaHZtY2g2RUtwQUtHUTkyejdXcW1OY2lXb1FwOURFazBnTjY4Z9IBlwFBVV95cUxOLWFpT3U2Q0RxQ1llZW5zMHVPSktxWVg3d1ZiUEJla3lpQ1B5OWV5dmlUTVdQWGJnT24tLU5RbTZkd1ZhMUVfaVpMdm1uc1paU09QaktOdzdVc3dNc09jcV9HMXZEekRrSmotMWNwTi1jRGVFRkxPLTJ0RFFBT0VFeGhjUE9xenhDb0xSMEtjajhiWDN0czJJ?oc=5",
-  "published": "Tue, 18 Aug 2026 15:00:00 GMT",
+  "headline": "Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5",
+  "published": "Fri, 14 Aug 2026 22:36:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -176,6 +176,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Russia Is Cutting Off Ukraine\u2019s Grain Exports Again - tol.org",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdnp6ZFNyZEN6RFVMQWt3RmFkeXUtczJ5SnVPTUI3cGFRZ3RZUEZiNXJIekkycml3Uy1DT2dsMWRMWW1wZERCU1A5TGNRSlV4RVhoM2M5czd4VTdZMHdfSTBDUEJzdkp4NU12cWtQMzVHYVUwQVhWWF8yTjdDcWlORE9NM3lmTHhCQ0MxQXJQYw?oc=5",
+  "published": "Thu, 20 Aug 2026 13:47:44 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Russia-Ukraine clashes disrupt Black Sea grain exports; global wheat buyers brace for tighter supplies - Moomoo",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2xoX0NvSUN6bUFybEI0QnY0dmlFcXpCNGxBLTlkczFYWElyb3YzdjNMN1FEX29OZFY2bFM4c1djQWxUWFRHUEtZRVdtTC1WZG95eUVyWmFpUmc2aXBTWjNaZGxYYzVwZVZnWmQ5ZjdYblF5QmNWcFprZXVjTXItdlZvUDQ0UjdMMlVPNTBtVlY3aGJNakZaUUdZbU1NeVozMVpBcUhEM3ZVUlhFVEE?oc=5",
   "published": "Thu, 20 Aug 2026 10:03:16 GMT",
@@ -198,9 +209,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Is Cutting Off Ukraine\u2019s Grain Exports Again - tol.org",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdnp6ZFNyZEN6RFVMQWt3RmFkeXUtczJ5SnVPTUI3cGFRZ3RZUEZiNXJIekkycml3Uy1DT2dsMWRMWW1wZERCU1A5TGNRSlV4RVhoM2M5czd4VTdZMHdfSTBDUEJzdkp4NU12cWtQMzVHYVUwQVhWWF8yTjdDcWlORE9NM3lmTHhCQ0MxQXJQYw?oc=5",
-  "published": "Thu, 20 Aug 2026 13:47:44 GMT",
+  "headline": "Black Sea Grain Corridor Nears Paralysis as Russia-Ukraine Wheat Exports Plunge, Threatening to Ignite Global Food Prices - finance.biggo.com",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00SkNjd1RvX1ZMd2VOamFjV3QyT0FvTmhCMFVGRUY1cHktX2Y5Q2lqZ3FzMndyVXAxNEVPMWFMTTB0cXFiYUZnZGJBVmFoU1dwQy1hamNIakFnZ1UyR3Rndnduc2VRbjM1bmI2OXJKeldrR1ZVUlE?oc=5",
+  "published": "Thu, 20 Aug 2026 13:05:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -209,9 +220,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea Grain Corridor Nears Paralysis as Russia-Ukraine Wheat Exports Plunge, Threatening to Ignite Global Food Prices - finance.biggo.com",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00SkNjd1RvX1ZMd2VOamFjV3QyT0FvTmhCMFVGRUY1cHktX2Y5Q2lqZ3FzMndyVXAxNEVPMWFMTTB0cXFiYUZnZGJBVmFoU1dwQy1hamNIakFnZ1UyR3Rndnduc2VRbjM1bmI2OXJKeldrR1ZVUlE?oc=5",
-  "published": "Thu, 20 Aug 2026 13:05:00 GMT",
+  "headline": "Ukraine\u2019s black sea grain exports drop by 75% - Milling Middle East & Africa",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OTzVNY04zWmt1ZEVkamZSMThLbkpBSW5SRWV5V19reW9Yb2FTQUhjQTFHeDRsUUFmcmNCdDdXTGpIT0h5SnlpeDlCcjZpY2lsZHRaWlJHU28yNDVaOHZGNWhQY0JmU3Z5ZVdMbk5aRFJHNHA2TEE?oc=5",
+  "published": "Fri, 21 Aug 2026 07:51:03 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",

@@ -22,8 +22,8 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _6 corroborating headline(s):_
-- [Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5)
 - [How Gulf Oil Is Escaping the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzV3NmE2dGFVTUdBSElrSVQ3SEhOdC14ekJjaUZ6cVV0Zk50MzRGY1VaRWJmN3lFRjE3OURLQWpueEVLendKOTZ0SHRDS1R0c2NTQUltblFCdXdpbUp5MGtyUGJLc0FCclcyQlhhaHZtY2g2RUtwQUtHUTkyejdXcW1OY2lXb1FwOURFazBnTjY4Z9IBlwFBVV95cUxOLWFpT3U2Q0RxQ1llZW5zMHVPSktxWVg3d1ZiUEJla3lpQ1B5OWV5dmlUTVdQWGJnT24tLU5RbTZkd1ZhMUVfaVpMdm1uc1paU09QaktOdzdVc3dNc09jcV9HMXZEekRrSmotMWNwTi1jRGVFRkxPLTJ0RFFBT0VFeGhjUE9xenhDb0xSMEtjajhiWDN0czJJ?oc=5)
+- [Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5)
 - [Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5)
 - …and 3 more
 
@@ -62,11 +62,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
+_11 corroborating headline(s):_
 - [U.S. wheat futures jump as Russian exports slowed by Black Sea port damage (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzdXUldQdUdLQ2VrM2N2YzNib0pfa0VjaER2N0hXYXBYY21yNVNkRndfblJSdmt2UkJ2Vk1GVTNlZXhFN2piam9lVUg3R2xLd0k0U3FPcTRBY1FzdG8xQmE0LW9oNlh4UVhqMEVfOHRiZTgwc1ZnYXlpVWhhd2xEa2JOQnRGU2lpcjZfWEc3SFZtdUp0bDBOenhla1UwbjlERFVQQl9ocFEyMXRSTjhNZA?oc=5)
 - [Russia and Ukraine’s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5)
 - [Ukrainian Strikes Halt Most Russian Grain Exports in the Black Sea - The Moscow Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWFJYUZySVdOaTZSdlY0c1VXVlFGTGE2UkVXRm9hbUEtTThNa0RJcDdZRmxlSmY4dDRFTjRFUEdpc2Q4R0c4MGhRZUJWVndVRFVNWWZKVW81SlBkQUp2aTk5eHllMnp6dG1SWk1kMm4wRGFzQlRDekt4RnVvazh2dUJkajd3c0h6YVZrMTFLa0R6eHlGZDBWMGhEVTA5V0tVTVNaTTlMWE9yRVl6U0ttd2JkM2gzZw?oc=5)
-- …and 7 more
+- …and 8 more
 
 ---
 
