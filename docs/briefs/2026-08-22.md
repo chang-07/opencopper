@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ
-*Wed, 12 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5)
+## Iran allows some Iraqi tankers to cross Hormuz Strait after Qalibaf’s visit - The Arab Weekly
+*Sat, 22 Aug 2026 09:27:20 GMT* — [source](https://news.google.com/rss/articles/CBMingFBVV95cUxOd21hTG95NVdvRm40UkF1c2czYWVMRWZ6YzloUTdsUEZoQmtvNmJOcEpSWWNSUm9xRm41VHl2eUFRdlNvZTN4VlotcUVjQUNlLWl1czFzN1plN0pvSUFXU0U4bmVHaVBsajYtSVViX3JsUU9WVHQySktrQWdGbWs0QnE4V3Zjb0ZRMjZ0V21PV0llYnl3TGlEdm8yQ29yUQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _11 corroborating headline(s):_
+- [OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5)
 - [Iran is draining its leverage in the Strait of Hormuz. Trump’s best move is to let it happen. - Atlantic Council](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5)
 - [Crude Oil Prices Jump as Hopes Dim of Reopening the Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxORVI4Zk12RlFRNUtEbDV4VEJ1ay1hR2hqNGtVekV6b1AyTFhaaERScmdweWo3QXlWcUVVV25fMVA5dHA1TktFeHJTWWtzeDJDTjN5N1YxRUF0RzdzUGxBUGpuY0dPdTY2QkxTRTZLa2xrNW5aR3FSa2Z6T0otVkJKZzRhQzJsS1ZoS0FZSjdVTGk1clM3Ui1DN205NlZEemxmSUdtLURpS0VpT0tuTXd3aXln?oc=5)
-- [Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5)
 - …and 8 more
 
 ## EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters

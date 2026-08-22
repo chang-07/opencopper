@@ -1,5 +1,16 @@
 [
  {
+  "headline": "Iran allows some Iraqi tankers to cross Hormuz Strait after Qalibaf\u2019s visit - The Arab Weekly",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd21hTG95NVdvRm40UkF1c2czYWVMRWZ6YzloUTdsUEZoQmtvNmJOcEpSWWNSUm9xRm41VHl2eUFRdlNvZTN4VlotcUVjQUNlLWl1czFzN1plN0pvSUFXU0U4bmVHaVBsajYtSVViX3JsUU9WVHQySktrQWdGbWs0QnE4V3Zjb0ZRMjZ0V21PV0llYnl3TGlEdm8yQ29yUQ?oc=5",
+  "published": "Sat, 22 Aug 2026 09:27:20 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "OPEC Cuts Oil-Demand Forecast Again as Hormuz Talks Stall - WSJ",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkh3TzN0N1N1M3VRMFRWbkNxX01DZW1mcnJPUUVfYXBhLUdaS3dnMS1mV183VFVDNHlQenV4NVBTR2ZPMlFnS3VEZjhqdWdHRWw0LTg3aGtkY1JFMnhjbmRfVUl5STh0VEZhNGZKTXkzZnctWmZXcnNMYlFQbks2YmhPQ3BtQTh3WUVnemdBWDVyM0FTcDJQUVRtTHY5QjhWalk1REJKNkswQQ?oc=5",
   "published": "Wed, 12 Aug 2026 07:00:00 GMT",
@@ -66,17 +77,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Shafaq News..Iraq secures alternative oil export routes amid Hormuz disruptions - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW5XU3I0ZVRMMVcwd2VGN2ZodnZMYkt2QnZWREVYS3FrNDQ5U1BuSTNQbzduRjEzUmdTLU5vVmxNbWxqOWdVUmRTUXdySzFRWEFVcWE3VzFFS2tHNGM5WWpPY2J3VDJNeTJSWGlKNjU5UC0tVDZxREc5YXJsWGppd2MwUGxSUHdCakI5RFFYNjBDb2xLb2NFWG9rb2g?oc=5",
-  "published": "Fri, 21 Aug 2026 10:24:09 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Oil Prices Advance on Middle East Tensions and Strait of Hormuz Closure | Investing.com - News and Statistics - IndexBox",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXVuVVFMZHBNS3VnMzNETmJ5OGJmYW92SHFtblp0RHJDTlYzZjJ4bXJsT05Ydm12b0lmRDdCY0RWMmdMTUFzOE9uNHRxM1ZRcHdiZ2Y0VG1QT2JGVS1ZZ2Exb2NiNi1ZXzFMckNWZW53QXltU2JIbURyUXBOQXRJYlYyMXpNVzJuY2VUb25NaXptX2k4cGFUVS1GRWhFSzhUdmd2S0pfbHNEdFdMQXZV?oc=5",
   "published": "Tue, 18 Aug 2026 04:31:00 GMT",
@@ -99,6 +99,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Shafaq News..Iraq secures alternative oil export routes amid Hormuz disruptions - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW5XU3I0ZVRMMVcwd2VGN2ZodnZMYkt2QnZWREVYS3FrNDQ5U1BuSTNQbzduRjEzUmdTLU5vVmxNbWxqOWdVUmRTUXdySzFRWEFVcWE3VzFFS2tHNGM5WWpPY2J3VDJNeTJSWGlKNjU5UC0tVDZxREc5YXJsWGppd2MwUGxSUHdCakI5RFFYNjBDb2xLb2NFWG9rb2g?oc=5",
+  "published": "Fri, 21 Aug 2026 10:24:09 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Oil Prices Surge as Iran Tensions Threaten Strait of Hormuz Shipping - Intellectia AI",
   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uTW4wdldKUS1IbW5JVEZSbjhEdVJCMHhaTFJRbWxfcElpZWRJUmpKaThNREJpVVJ5akszMXFldDJrdzFjMldFUzRhQjQ2YTJ1a3VBVHpyMzIyNFhteFk2Ukt2TDNqYVdIR09tZThGQjBsQU1ETlZvaQ?oc=5",
   "published": "Tue, 18 Aug 2026 00:13:01 GMT",
@@ -113,17 +124,6 @@
   "headline": "EIA raises oil price forecast as disruptions in Strait of Hormuz persist - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTG0yd09pdk5jWGNrNEt0dXdHUzBuaVIwLW9XNEUtc1J6czBrM1Z0VGlBbl9ZWlhfR3JyQVRfRnZFMEsxUjF3SkVOM3NIWjRKTFBDQWdSX3plc1gzMDFmVU9RbFIyRjdMVEJhNU9Kd0Q2QWNIMXdrbEpWSTROLW5oMEpCWjVwalFqYjl2Ty02RnVkQWxZUE5GR2pXcWNpQTd6RUljY09FdWJHWkl4OG1XNDBESkzSAbwBQVVfeXFMT2dFVEJjQ3FkZjZTSksycDZNUXdHQ3EwckY0ZllHTTkySlFURThuOW85cHczeThidXgtR055Z0VOZzBHWHhwWkxGeGFwSWI3NmZVamV5TkcxZEZ3TUROaWpISHdyQ2Yxa0lZZ3lmN1dlVlFzTVp0Q3RHQWd0WTFSXzNiR0N3MFh2MHktaEJxaE0wLWJsM1hwMjVFRm42NUZCZU9sb1gydXJsM1EtM1lscm9zSmhNRXdCWkNMaWI?oc=5",
   "published": "Wed, 12 Aug 2026 07:15:38 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Saudi Arabia resumes oil shipments via the Strait of Hormuz - idnfinancials.com",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOODBnWFdJZndjajF3NlFYdzZQRXp5UGFpaG1ZaDUzTjdGQTlUbm02aUlVS1V1SVZ5UDE5a0dxQnE2SHFhT1BPQWtSQWxpVFJrdWZ2VmpMdWI3ZHBrdmpWTHFhZjVWbHJGMzJDbE94bHRpbzgwdkxCLXVxMUgwRjVNU3BGVUlrcjFqUHhQckVkZlRqVzFlMlV2eFRLcUpzcmFpUGc?oc=5",
-  "published": "Tue, 18 Aug 2026 18:20:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
