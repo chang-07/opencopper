@@ -62,11 +62,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
-- [Russia and Ukraine’s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5)
+_5 corroborating headline(s):_
 - [U.S. wheat futures jump as Russian exports slowed by Black Sea port damage (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzdXUldQdUdLQ2VrM2N2YzNib0pfa0VjaER2N0hXYXBYY21yNVNkRndfblJSdmt2UkJ2Vk1GVTNlZXhFN2piam9lVUg3R2xLd0k0U3FPcTRBY1FzdG8xQmE0LW9oNlh4UVhqMEVfOHRiZTgwc1ZnYXlpVWhhd2xEa2JOQnRGU2lpcjZfWEc3SFZtdUp0bDBOenhla1UwbjlERFVQQl9ocFEyMXRSTjhNZA?oc=5)
-- [Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets - CNBC](https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSWtXLXFuV3JTdHVRRG42UU5Iclp5dVpFOFh2RmNxXzQ4NWxXSlo0THo4X2VPSy1TalhwRk1SYjNva2lXQmsxN24tRVFnczhBT0ZjR1pybUVrbWVGUmtWd3c5bXhwSktVQVJtTHNSRWZNWENtZXhYLXB30gF_QVVfeXFMT2tUYml0RlZKY1R0U01td0Y0NUVPQ3loTU9FSTIyVVdZY3NNRWU4dGpEbzBfVVRXMEg2ZzYwTFVDRGVEODJRNXRUckxlajZ6LTZUZnBZQXh0eHJ5X1hUbWpXejJjV3Vuc3A5NEl2M3hrdmZPanBzT0IzbWt6Y2hwVQ?oc=5)
-- …and 3 more
+- [Russia and Ukraine’s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5)
+- [Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5)
+- …and 2 more
 
 ---
 
