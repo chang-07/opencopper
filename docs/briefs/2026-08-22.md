@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_11 corroborating headline(s):_
-- [Crude Oil Prices Jump as Hopes Dim of Reopening the Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxORVI4Zk12RlFRNUtEbDV4VEJ1ay1hR2hqNGtVekV6b1AyTFhaaERScmdweWo3QXlWcUVVV25fMVA5dHA1TktFeHJTWWtzeDJDTjN5N1YxRUF0RzdzUGxBUGpuY0dPdTY2QkxTRTZLa2xrNW5aR3FSa2Z6T0otVkJKZzRhQzJsS1ZoS0FZSjdVTGk1clM3Ui1DN205NlZEemxmSUdtLURpS0VpT0tuTXd3aXln?oc=5)
+_10 corroborating headline(s):_
 - [Iran is draining its leverage in the Strait of Hormuz. Trump’s best move is to let it happen. - Atlantic Council](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW9nUDdNdHRyUTJHTzEybUtiUTVpQjNST3g0eVBPM0lmOXdtRWFvcHhiVWotZm1leFVxZ0tUdnRtQ1BrR2J3XzBwTDFEczU2ZHlrdTBYbEw2dGl4T1VYNURBY0ZTbmRsOVZlcXFQN3BndGRFeGJVQ1lOX05HR011N2FMNkgwZEl5ZDNHUU84ZGRxdThZWmZNRTFvREJMTUJOekVTaFJtcHZ1WGJzR243N0FoOHRHMDJITW5HeURYRGZ3Z2laZG04S1JpMmg0cFk?oc=5)
+- [Crude Oil Prices Jump as Hopes Dim of Reopening the Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxORVI4Zk12RlFRNUtEbDV4VEJ1ay1hR2hqNGtVekV6b1AyTFhaaERScmdweWo3QXlWcUVVV25fMVA5dHA1TktFeHJTWWtzeDJDTjN5N1YxRUF0RzdzUGxBUGpuY0dPdTY2QkxTRTZLa2xrNW5aR3FSa2Z6T0otVkJKZzRhQzJsS1ZoS0FZSjdVTGk1clM3Ui1DN205NlZEemxmSUdtLURpS0VpT0tuTXd3aXln?oc=5)
 - [Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5)
-- …and 8 more
+- …and 7 more
 
 ## EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters
 *Mon, 10 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5)
@@ -62,11 +62,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_7 corroborating headline(s):_
 - [U.S. wheat futures jump as Russian exports slowed by Black Sea port damage (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzdXUldQdUdLQ2VrM2N2YzNib0pfa0VjaER2N0hXYXBYY21yNVNkRndfblJSdmt2UkJ2Vk1GVTNlZXhFN2piam9lVUg3R2xLd0k0U3FPcTRBY1FzdG8xQmE0LW9oNlh4UVhqMEVfOHRiZTgwc1ZnYXlpVWhhd2xEa2JOQnRGU2lpcjZfWEc3SFZtdUp0bDBOenhla1UwbjlERFVQQl9ocFEyMXRSTjhNZA?oc=5)
 - [Russia and Ukraine’s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5)
 - [Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5)
-- …and 2 more
+- …and 4 more
 
 ---
 
