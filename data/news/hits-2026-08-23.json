@@ -121,9 +121,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Prices Advance on Middle East Tensions and Strait of Hormuz Closure | Investing.com - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXVuVVFMZHBNS3VnMzNETmJ5OGJmYW92SHFtblp0RHJDTlYzZjJ4bXJsT05Ydm12b0lmRDdCY0RWMmdMTUFzOE9uNHRxM1ZRcHdiZ2Y0VG1QT2JGVS1ZZ2Exb2NiNi1ZXzFMckNWZW53QXltU2JIbURyUXBOQXRJYlYyMXpNVzJuY2VUb25NaXptX2k4cGFUVS1GRWhFSzhUdmd2S0pfbHNEdFdMQXZV?oc=5",
-  "published": "Tue, 18 Aug 2026 04:31:00 GMT",
+  "headline": "EIA raises third-quarter Brent forecast to $85/bbl on Strait of Hormuz disruptions - Oil & Gas Journal",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXlSby1Xci0weFVhR0s0TlNQR0RtczU2ajRjdkZhQUREZUlLWTVXTHY2WDdIREE2Tmk4eEsyWEZPSjZ6VDBJbURCZXc4ZndaUjBEMHR0VnlJNTlzT3k4dHU4SVpLVi0tRS10dEZ3LWU3eDJGV1lMWlZOSXRYRTJzUS1WMlFpY2U0Vk00NnlWeDFGTXRBMk1DR1FCWURsT01KeXZ4RFRyRjBWcDFmVER1aGNBQWJmb3ppLU1RTExZVklhSkotNmczTG5lR1RFRkgzaUZlLWhVQ1B5UVAzVlNTN2ctQTU?oc=5",
+  "published": "Wed, 12 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -135,6 +135,17 @@
   "headline": "EIA raises oil price forecast as disruptions in Strait of Hormuz persist - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTG0yd09pdk5jWGNrNEt0dXdHUzBuaVIwLW9XNEUtc1J6czBrM1Z0VGlBbl9ZWlhfR3JyQVRfRnZFMEsxUjF3SkVOM3NIWjRKTFBDQWdSX3plc1gzMDFmVU9RbFIyRjdMVEJhNU9Kd0Q2QWNIMXdrbEpWSTROLW5oMEpCWjVwalFqYjl2Ty02RnVkQWxZUE5GR2pXcWNpQTd6RUljY09FdWJHWkl4OG1XNDBESkzSAbwBQVVfeXFMT2dFVEJjQ3FkZjZTSksycDZNUXdHQ3EwckY0ZllHTTkySlFURThuOW85cHczeThidXgtR055Z0VOZzBHWHhwWkxGeGFwSWI3NmZVamV5TkcxZEZ3TUROaWpISHdyQ2Yxa0lZZ3lmN1dlVlFzTVp0Q3RHQWd0WTFSXzNiR0N3MFh2MHktaEJxaE0wLWJsM1hwMjVFRm42NUZCZU9sb1gydXJsM1EtM1lscm9zSmhNRXdCWkNMaWI?oc=5",
   "published": "Wed, 12 Aug 2026 07:15:38 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil Prices Advance on Middle East Tensions and Strait of Hormuz Closure | Investing.com - News and Statistics - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXVuVVFMZHBNS3VnMzNETmJ5OGJmYW92SHFtblp0RHJDTlYzZjJ4bXJsT05Ydm12b0lmRDdCY0RWMmdMTUFzOE9uNHRxM1ZRcHdiZ2Y0VG1QT2JGVS1ZZ2Exb2NiNi1ZXzFMckNWZW53QXltU2JIbURyUXBOQXRJYlYyMXpNVzJuY2VUb25NaXptX2k4cGFUVS1GRWhFSzhUdmd2S0pfbHNEdFdMQXZV?oc=5",
+  "published": "Tue, 18 Aug 2026 04:31:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -232,7 +243,7 @@
  },
  {
   "headline": "Grain prices rise as Black Sea attacks cripple exports from Ukraine and Russia - The New Voice of Ukraine",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFlRdXdMX1I2WEE0WF80NVU3WlhYdFhORnZuMXhQR2RhQU1xWm81Y3FRTHJWU1MzOHdQZHI1UUdmSUxLNVVVMTN2Z1VJLVNnUEVGNzRUOUJvR3NIaXR0eFZQQmpyV3VfaG5ReThIVERDcWJzanRPYUtIdnRSZ3dKZWVHenktWjFmSHNjcGlfZVQ1U1cxaXBkTjk3NWRJNzhWSnZqNmU2S0RnV240b2YtcTJJVVTSAbQBQVVfeXFMTURZUXV3TF9SNlhBNFhfNDVVN1pYWHRYTkZ2bjF4UEdkYUFNcVpvNWNxUUxyVlNTMzh3UGRyNVFHZklMSzVVVTEzdmdVSS1TZ1BFRjc0VDlCb0dzSGl0dHhWUEJqcld1X2huUXk4SFREQ3Fic2p0T2FLSHZ0Umd3SmVlR3p5LVoxZkhzY3BpX2VUNVNXMWlwZE45NzVkSTc4Vkp2ajZlNktEZ1duNG9mLXEySVVU?oc=5",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnBIZm93clRFVlEyUHhIZGwtYkdFT0xZSjF3NGZtMVJFVkU3cFE3NzEyaDJLZ3FNZ3gwUjYwdndJSmdlMUFtRk13SWhrZ1JlbE9VQWVNNXpyQmYxckZHU0phN19wQWVLTURBRHlkTUljdklta1R0Q3dHMXAxaFJnb2V6YXZ0c2tiYzVtdVZadHd2VzdKX1BWNnRyZXJnMHRHWUpuOU5VZEhkR3dXeV9LVG1LeEpIakEwRHVj0gG0AUFVX3lxTE1EWVF1d0xfUjZYQTRYXzQ1VTdaWFh0WE5Gdm4xeFBHZGFBTXFabzVjcVFMclZTUzM4d1BkcjVRR2ZJTEs1VVUxM3ZnVUktU2dQRUY3NFQ5Qm9Hc0hpdHR4VlBCanJXdV9oblF5OEhURENxYnNqdE9hS0h2dFJnd0plZUd6eS1aMWZIc2NwaV9lVDVTVzFpcGROOTc1ZEk3OFZKdmo2ZTZLRGdXbjRvZi1xMklVVA?oc=5",
   "published": "Sun, 23 Aug 2026 15:39:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
