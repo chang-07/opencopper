@@ -64,8 +64,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _6 corroborating headline(s):_
 - [Grain prices surge after Ukraine war chokes off seaborne exports - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVuY3F4UFJQWWR2dDliZ2JLOGx5bXBQOElFYWNlNWFsX3hYc3lYNHg1NjczY0lJWjBSaWVRY3ltMkxPRGdmX2duYk1lRjhZMlJGX2lUb1VyTV9zcHJUVWtPdVJlUzlrdDdCX2pReVFCWHRFMEkxZXJZZExvWDdJTV9nb2U?oc=5)
+- [Grain prices rise as Black Sea attacks cripple exports from Ukraine and Russia - The New Voice of Ukraine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnBIZm93clRFVlEyUHhIZGwtYkdFT0xZSjF3NGZtMVJFVkU3cFE3NzEyaDJLZ3FNZ3gwUjYwdndJSmdlMUFtRk13SWhrZ1JlbE9VQWVNNXpyQmYxckZHU0phN19wQWVLTURBRHlkTUljdklta1R0Q3dHMXAxaFJnb2V6YXZ0c2tiYzVtdVZadHd2VzdKX1BWNnRyZXJnMHRHWUpuOU5VZEhkR3dXeV9LVG1LeEpIakEwRHVj0gG0AUFVX3lxTE1EWVF1d0xfUjZYQTRYXzQ1VTdaWFh0WE5Gdm4xeFBHZGFBTXFabzVjcVFMclZTUzM4d1BkcjVRR2ZJTEs1VVUxM3ZnVUktU2dQRUY3NFQ5Qm9Hc0hpdHR4VlBCanJXdV9oblF5OEhURENxYnNqdE9hS0h2dFJnd0plZUd6eS1aMWZIc2NwaV9lVDVTVzFpcGROOTc1ZEk3OFZKdmo2ZTZLRGdXbjRvZi1xMklVVA?oc=5)
 - [U.S. wheat futures jump as Russian exports slowed by Black Sea port damage (WEAT:NYSEARCA) - Seeking Alpha](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzdXUldQdUdLQ2VrM2N2YzNib0pfa0VjaER2N0hXYXBYY21yNVNkRndfblJSdmt2UkJ2Vk1GVTNlZXhFN2piam9lVUg3R2xLd0k0U3FPcTRBY1FzdG8xQmE0LW9oNlh4UVhqMEVfOHRiZTgwc1ZnYXlpVWhhd2xEa2JOQnRGU2lpcjZfWEc3SFZtdUp0bDBOenhla1UwbjlERFVQQl9ocFEyMXRSTjhNZA?oc=5)
-- [Ukrainian Strikes Halt Most Russian Grain Exports in the Black Sea - The Moscow Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWFJYUZySVdOaTZSdlY0c1VXVlFGTGE2UkVXRm9hbUEtTThNa0RJcDdZRmxlSmY4dDRFTjRFUEdpc2Q4R0c4MGhRZUJWVndVRFVNWWZKVW81SlBkQUp2aTk5eHllMnp6dG1SWk1kMm4wRGFzQlRDekt4RnVvazh2dUJkajd3c0h6YVZrMTFLa0R6eHlGZDBWMGhEVTA5V0tVTVNaTTlMWE9yRVl6U0ttd2JkM2gzZw?oc=5)
 - …and 3 more
 
 ---
