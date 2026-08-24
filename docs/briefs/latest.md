@@ -59,11 +59,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [Grain prices surge after Ukraine war chokes off seaborne exports - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVuY3F4UFJQWWR2dDliZ2JLOGx5bXBQOElFYWNlNWFsX3hYc3lYNHg1NjczY0lJWjBSaWVRY3ltMkxPRGdmX2duYk1lRjhZMlJGX2lUb1VyTV9zcHJUVWtPdVJlUzlrdDdCX2pReVFCWHRFMEkxZXJZZExvWDdJTV9nb2U?oc=5)
 - [Russia and Ukraine’s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5)
 - [Russia Considers Grain Purchases To Offset Export Disruptions - gCaptain](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQlFHMTZqTHJkYjhERDlqZHQ5WVZlQ0xOZDNqQkYzbXNzY1Fqd1VIVkhDdWJuTFp2c215aEtnWVF4UHVENlB1b0I4NkQ2X2hOQUlwMjZ4QkdSLXFZUmxPNjNQR2M4MFpxZFk4anZPQWoycTdySkk0Y1NrZXZaQ2F5S1VZTmNkSC1DaXRV?oc=5)
-- …and 3 more
+- …and 2 more
 
 ---
 
