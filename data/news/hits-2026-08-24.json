@@ -44,17 +44,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Vast reserves, Hormuz, infrastructure define Iran's geopolitical oil weight: expert - Tehran Times",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVNYZkdyd1I2WW56MlFJZ2JQaHJRZFpKOW9VTzhvVmlUUWctTFltUTFvQmFHZXdHRGx5MEo0bXJLaWFLQ1hTUkU0QVNWM3pJdDRDd2NHbE9obDJrV01CaDZlZHNRSUx5OGFwQ3R5cDRDYVFGd3JoN0hoLWFLY3NoSXo3NHlzT0twM2ZXbDBpT3dJdUVURW5fNkpIUFRiRjBQQTd1cA?oc=5",
-  "published": "Sun, 23 Aug 2026 12:44:16 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Crude Oil Prices Jump as Hopes Dim of Reopening the Strait of Hormuz - Barchart.com",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVI4Zk12RlFRNUtEbDV4VEJ1ay1hR2hqNGtVekV6b1AyTFhaaERScmdweWo3QXlWcUVVV25fMVA5dHA1TktFeHJTWWtzeDJDTjN5N1YxRUF0RzdzUGxBUGpuY0dPdTY2QkxTRTZLa2xrNW5aR3FSa2Z6T0otVkJKZzRhQzJsS1ZoS0FZSjdVTGk1clM3Ui1DN205NlZEemxmSUdtLURpS0VpT0tuTXd3aXln?oc=5",
   "published": "Thu, 20 Aug 2026 15:33:56 GMT",
@@ -69,6 +58,17 @@
   "headline": "Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5",
   "published": "Fri, 14 Aug 2026 22:36:54 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Vast reserves, Hormuz, infrastructure define Iran's geopolitical oil weight: expert - Tehran Times",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVNYZkdyd1I2WW56MlFJZ2JQaHJRZFpKOW9VTzhvVmlUUWctTFltUTFvQmFHZXdHRGx5MEo0bXJLaWFLQ1hTUkU0QVNWM3pJdDRDd2NHbE9obDJrV01CaDZlZHNRSUx5OGFwQ3R5cDRDYVFGd3JoN0hoLWFLY3NoSXo3NHlzT0twM2ZXbDBpT3dJdUVURW5fNkpIUFRiRjBQQTd1cA?oc=5",
+  "published": "Sun, 23 Aug 2026 12:44:16 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -220,6 +220,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Foodgrains new target for missile strikes in Russia-Ukraine war as Kyiv, Moscow trade charges - Firstpost",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQU1vUnVOalVnd2V6RWt2c01DdmRESC0wdXhZODBqOXNIbEdzaXJQdWlVMm1lOXVWQVJ1N08yczRPczkyUjZ6dDdBSklBY0tHdk1ITGtnaW1HZVNQYk5VRTN2TFRlN3g4UEhRWi15dW1KRUtnYl9xel83MzhYMm5EV3RMeEtEY25hbXAxZ0xDbVBQb091WVHSAZsBQVVfeXFMUDZ2ZnFCQWxjRVAwenpVcXdLaGwzUi14UWJKV2hxMkwzbTltT3ZENWFlSmJBaXJKdE1zMDRjQnNfb1l3em43c05uZ202NWhSZ0dqa2w1X2tKWkl6WW5xMmpsc3NjM011a0hHT3lUNVVObEZWdmYwVkZoMDBBamxkSUQxakFESlZMMUthNVlTT09IVEd5dUc2ckZyOHc?oc=5",
+  "published": "Mon, 24 Aug 2026 11:39:14 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "U.S. wheat futures jump as Russian exports slowed by Black Sea port damage (WEAT:NYSEARCA) - Seeking Alpha",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzdXUldQdUdLQ2VrM2N2YzNib0pfa0VjaER2N0hXYXBYY21yNVNkRndfblJSdmt2UkJ2Vk1GVTNlZXhFN2piam9lVUg3R2xLd0k0U3FPcTRBY1FzdG8xQmE0LW9oNlh4UVhqMEVfOHRiZTgwc1ZnYXlpVWhhd2xEa2JOQnRGU2lpcjZfWEc3SFZtdUp0bDBOenhla1UwbjlERFVQQl9ocFEyMXRSTjhNZA?oc=5",
   "published": "Wed, 19 Aug 2026 22:27:42 GMT",
@@ -234,17 +245,6 @@
   "headline": "Russia-Ukraine clashes disrupt Black Sea grain exports; global wheat buyers brace for tighter supplies - Moomoo",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2xoX0NvSUN6bUFybEI0QnY0dmlFcXpCNGxBLTlkczFYWElyb3YzdjNMN1FEX29OZFY2bFM4c1djQWxUWFRHUEtZRVdtTC1WZG95eUVyWmFpUmc2aXBTWjNaZGxYYzVwZVZnWmQ5ZjdYblF5QmNWcFprZXVjTXItdlZvUDQ0UjdMMlVPNTBtVlY3aGJNakZaUUdZbU1NeVozMVpBcUhEM3ZVUlhFVEE?oc=5",
   "published": "Thu, 20 Aug 2026 10:03:16 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks - The Moscow Times",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzNMdFZCNGxrUHQ1LS1Qdkk0ZXJHbW9SSlA4eWxPclNEN1Utc0pveHZuQk9nZzJuenhNMUNtYWxwS3lBZEV3WlQ0WXFpR01rRnp1XzF1Z0dMMzhxTFVXSEo4ck9yY0FCNlVyS3FzMGRoMjlqLU1iNjFvY1BjdFh3SkZabjV4dDFnRmk3aVp6SF8xZjRNOWVJZTRJbjJqamVBQ1NMMFZiOVdXVHBVamJvb2paTUhaYWdLcEhqazhxczJzQQ?oc=5",
-  "published": "Tue, 11 Aug 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
