@@ -220,17 +220,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea, drought and Hormuz crises squeeze global food security - euractiv.com",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUHFqQTJtSWE1bXJRZTdwS1ZDcWNrYk4zZEFlSmFNd2d0UEtlQU52VHVkTFVYbFBBbEV6bnhneGpFSW13UVMzdTF5ODJEYzBhbkN3Z294TV9yMFRnLUlrcXdaVjc3RF9HRnhqMlVoN3pSNlRrdzF4dVltbUJST1U0VmcxeHRGa092NXh4WU9HOUNmbmdGUDZOS0lIbw?oc=5",
-  "published": "Mon, 24 Aug 2026 02:05:25 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russia Considers Grain Purchases To Offset Export Disruptions - gCaptain",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQlFHMTZqTHJkYjhERDlqZHQ5WVZlQ0xOZDNqQkYzbXNzY1Fqd1VIVkhDdWJuTFp2c215aEtnWVF4UHVENlB1b0I4NkQ2X2hOQUlwMjZ4QkdSLXFZUmxPNjNQR2M4MFpxZFk4anZPQWoycTdySkk0Y1NrZXZaQ2F5S1VZTmNkSC1DaXRV?oc=5",
   "published": "Sun, 23 Aug 2026 03:37:46 GMT",
@@ -239,6 +228,17 @@
   "country": "Russia",
   "severity": 0.15,
   "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Black Sea, drought and Hormuz crises squeeze global food security - euractiv.com",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUHFqQTJtSWE1bXJRZTdwS1ZDcWNrYk4zZEFlSmFNd2d0UEtlQU52VHVkTFVYbFBBbEV6bnhneGpFSW13UVMzdTF5ODJEYzBhbkN3Z294TV9yMFRnLUlrcXdaVjc3RF9HRnhqMlVoN3pSNlRrdzF4dVltbUJST1U0VmcxeHRGa092NXh4WU9HOUNmbmdGUDZOS0lIbw?oc=5",
+  "published": "Mon, 24 Aug 2026 02:05:25 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
   "source": "keyword-rule"
  },
  {
