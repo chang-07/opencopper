@@ -143,6 +143,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "EIA raises oil price forecast as disruptions in Strait of Hormuz persist - Anadolu Ajans\u0131",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTG0yd09pdk5jWGNrNEt0dXdHUzBuaVIwLW9XNEUtc1J6czBrM1Z0VGlBbl9ZWlhfR3JyQVRfRnZFMEsxUjF3SkVOM3NIWjRKTFBDQWdSX3plc1gzMDFmVU9RbFIyRjdMVEJhNU9Kd0Q2QWNIMXdrbEpWSTROLW5oMEpCWjVwalFqYjl2Ty02RnVkQWxZUE5GR2pXcWNpQTd6RUljY09FdWJHWkl4OG1XNDBESkzSAbwBQVVfeXFMT2dFVEJjQ3FkZjZTSksycDZNUXdHQ3EwckY0ZllHTTkySlFURThuOW85cHczeThidXgtR055Z0VOZzBHWHhwWkxGeGFwSWI3NmZVamV5TkcxZEZ3TUROaWpISHdyQ2Yxa0lZZ3lmN1dlVlFzTVp0Q3RHQWd0WTFSXzNiR0N3MFh2MHktaEJxaE0wLWJsM1hwMjVFRm42NUZCZU9sb1gydXJsM1EtM1lscm9zSmhNRXdCWkNMaWI?oc=5",
+  "published": "Wed, 12 Aug 2026 07:15:38 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Shafaq News..Iraq secures alternative oil export routes amid Hormuz disruptions - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW5XU3I0ZVRMMVcwd2VGN2ZodnZMYkt2QnZWREVYS3FrNDQ5U1BuSTNQbzduRjEzUmdTLU5vVmxNbWxqOWdVUmRTUXdySzFRWEFVcWE3VzFFS2tHNGM5WWpPY2J3VDJNeTJSWGlKNjU5UC0tVDZxREc5YXJsWGppd2MwUGxSUHdCakI5RFFYNjBDb2xLb2NFWG9rb2g?oc=5",
   "published": "Fri, 21 Aug 2026 10:24:09 GMT",
@@ -154,14 +165,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EIA raises oil price forecast as disruptions in Strait of Hormuz persist - Anadolu Ajans\u0131",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTG0yd09pdk5jWGNrNEt0dXdHUzBuaVIwLW9XNEUtc1J6czBrM1Z0VGlBbl9ZWlhfR3JyQVRfRnZFMEsxUjF3SkVOM3NIWjRKTFBDQWdSX3plc1gzMDFmVU9RbFIyRjdMVEJhNU9Kd0Q2QWNIMXdrbEpWSTROLW5oMEpCWjVwalFqYjl2Ty02RnVkQWxZUE5GR2pXcWNpQTd6RUljY09FdWJHWkl4OG1XNDBESkzSAbwBQVVfeXFMT2dFVEJjQ3FkZjZTSksycDZNUXdHQ3EwckY0ZllHTTkySlFURThuOW85cHczeThidXgtR055Z0VOZzBHWHhwWkxGeGFwSWI3NmZVamV5TkcxZEZ3TUROaWpISHdyQ2Yxa0lZZ3lmN1dlVlFzTVp0Q3RHQWd0WTFSXzNiR0N3MFh2MHktaEJxaE0wLWJsM1hwMjVFRm42NUZCZU9sb1gydXJsM1EtM1lscm9zSmhNRXdCWkNMaWI?oc=5",
-  "published": "Wed, 12 Aug 2026 07:15:38 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
+  "headline": "Cobalt prices steady; DRC may cut quota amid su... - Pluang",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5",
+  "published": "Tue, 25 Aug 2026 03:34:03 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {
@@ -239,17 +250,6 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Kremlin trying to secure its Black Sea grain exports as Ukrainian strikes bite - The New Voice of Ukraine",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOV9aUTNjUjdxYkMwLWh1dXpEMHh0b1MzQjBzV016MXp2bTVNbHMtdjlJWWxXUVBhMXlBZ0NyQWk1WDlhM2ItcHIwWTRGbVN4RG00b3BtTEM0Qk40U3czYWRTSGIxLWdVemRzLUFiUGpRZkFoRGRpLTVZQTZSWkhjWmQyY2ZXdmFNYkI5UElWQTM1TEhPV1l5S0FQNThZMzBXVHfSAZcBQVVfeXFMUHRmLWtWMFYwUHc4VHd1cEFCVTdsbXo1ck9VYmFMYVBsUXRRcm1QeFBldzJreFBGalpobDBRUjlDTXZ1ZkoxR3IyNlFNWmlPNWpQOFF3M3BKMjRScGtqeXIxNkdWUHMxN2NMSHB0RGFLSzlEUVFrWXNXM2NuampPUFl4ZXloTU93VnNLay1rb254QmlQNjJ3VQ?oc=5",
-  "published": "Mon, 24 Aug 2026 22:34:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  }
 ]
