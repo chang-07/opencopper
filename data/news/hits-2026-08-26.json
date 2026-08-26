@@ -152,16 +152,5 @@
   "severity": 0.2,
   "rule_id": "hormuz",
   "source": "keyword-rule"
- },
- {
-  "headline": "Vedomosti reports that Russia may eliminate the grain export duty because of Black Sea shipping risks. - Marine News Magazine",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjdTVVZNUFVpT20wT1ozS2NlSGNLbjRJRWc2MTZDVjF2TVJuYkMzVEpLM0tKT010UTdwZ3F4R2hpZGM3NWVIWlRGc0w4Z2Y0ZkUyODVRZDdkZzN4d0RraGcwMEptWmlvOS1sRUpXYzY3a2dMT2hWN0JlOFBva0d5TmRFMlZYVTB2VWFnVHpObThVZGFUQlpkbVhLOVV1WnBvd2xiZFkwQUFnSERrOGln?oc=5",
-  "published": "Tue, 25 Aug 2026 11:27:08 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
  }
 ]

@@ -59,11 +59,10 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
+_3 corroborating headline(s):_
 - [Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5)
 - [Russia and Ukraine’s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5)
 - [Up to 70 ships queue off Danube as bottlenecks slow Ukraine grain exports - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFBlVTBrbXBrM2dqdkV2V0lXcExyN19nc2FLZmZiYnZfd1pXTE9MY2lac0VQb3JGQkpJbjd1b0loNzRQZlhFQ1pUTml4clhEcWRCdTRkN1lHR0tmdXJEeVJySjl1Q2VRanpURGh2RDVPVlVObTBBSzBQMDNVUmZPaXV3c3dtUGI0MnI3N2dDQ2VlYlVTXzl6NDFhSVkyNVFnRE40aFUwbzh3RnBmbERpVmxn?oc=5)
-- …and 1 more
 
 ---
 
