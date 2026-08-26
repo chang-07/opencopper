@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
-- [Hormuz crisis hides a deeper oil threat that could outlast the war - Fox News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGZlLVpxRnloUXpBZlZpTTdxTVdNTGo1ZnZkWWR0YlRCRVZaQnIzdW9mN1FRUU5ldUpjLVRRQlBBQUg3YWJxTUd6aTNMNnIwMVNERFFwcmRhWExpTFhYc2FTa25ISlFaUG9kaG5aeWxuWEVIT0J6NUpuZ2NKV0JoYW5feW1UQWgyNnJ5djNucE8yb2o1?oc=5)
+_10 corroborating headline(s):_
+- [Oil Prices Slide For Third Day As Strait Of Hormuz Optimism Grows - iHeart](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmpsbFlyZE03cUJGU2ZReFFBQXhKVWFzVlhBQzY4a0doaGhFc0NHSHdwQzdoc2ZZd1hKYkFSYnNGQXQyeEN5cGx4dXB1dXp4ZlF6MTF5ZzlXYl9rbF94c0tsN3hvMU5aTkdTajh0WFBvNG5KaFl6TENIMmh6UjZZaGFDTlRSS2ZaYmR4QUpqcThoSGVSVzlwS0Mya0F3NmFuOEVaWi1KWndHYWxIUjNQZDgzb1drWHM?oc=5)
+- [Hormuz crisis hides a deeper oil threat that could outlast the war - Fox News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGZlLVpxRnloUXpBZlZpTTdxTVdNTGo1ZnZkWWR0YlRCRVZaQnIzdW9mN1FRUU5ldUpjLVRRQlBBQUg3YWJxTUd6aTNMNnIwMVNERFFwcmRhWExpTFhYc2FTa25ISlFaUG9kaG5aeWxuWEVIT0J6NUpuZ2NKV0JoYW5feW1UQWgyNnJ5djNucE8yb2o10gGaAUFVX3lxTE1pVUVLdXFUaWZWMVhFZzFYYVh6MkNkNWU0TFpUQkRkYVZCZFdmOGZzR2F3VEhRby1uV2ExMkR0eEpJcWNsMWZDQTJuS2ZlTHNuQ01tWDdUdGs0SVJuQjg3YW1PV2J2b2VLLVRyM2E0VWdMMUc1dkVnNk9pbDRMRVR0NW1ndHVxeC1RenYtWlRGbExtMmFHT0NKUXc?oc=5)
 - [Crude Prices Sharply Lower as Oil Supplies Move Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnZBT0EtZDV5clo2NTFVWUpocHM4SDlWaE4yR0pXbldpaXJ4VU5VTWk0TUR0Z25UVV9BdWIyRExkMklfdUtpbUhTRW5LSjJVdFdJMnFrRXlKRGVCdmxZcjNjNERPbzZZVUcwaFBxLVh0Z2c3OTYxbzR0WDhhMnJENEJuS0Z6S3dBY1Q2aUdhbmlLWlRnSWVBZG5yY3V1UW9rMWVBaWo1WWJXTjctQUE5YUloSWQ1MlU?oc=5)
-- [Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5)
-- …and 5 more
+- …and 7 more
 
 ## Cobalt prices steady; DRC may cut quota amid su... - Pluang
 *Tue, 25 Aug 2026 03:34:03 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5)
@@ -59,9 +59,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_1 corroborating headline(s):_
 - [Up to 70 ships queue off Danube as bottlenecks slow Ukraine grain exports - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFBlVTBrbXBrM2dqdkV2V0lXcExyN19nc2FLZmZiYnZfd1pXTE9MY2lac0VQb3JGQkpJbjd1b0loNzRQZlhFQ1pUTml4clhEcWRCdTRkN1lHR0tmdXJEeVJySjl1Q2VRanpURGh2RDVPVlVObTBBSzBQMDNVUmZPaXV3c3dtUGI0MnI3N2dDQ2VlYlVTXzl6NDFhSVkyNVFnRE40aFUwbzh3RnBmbERpVmxn?oc=5)
-- [Vedomosti reports that Russia may eliminate the grain export duty because of Black Sea shipping risks. - Marine News Magazine](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjdTVVZNUFVpT20wT1ozS2NlSGNLbjRJRWc2MTZDVjF2TVJuYkMzVEpLM0tKT010UTdwZ3F4R2hpZGM3NWVIWlRGc0w4Z2Y0ZkUyODVRZDdkZzN4d0RraGcwMEptWmlvOS1sRUpXYzY3a2dMT2hWN0JlOFBva0d5TmRFMlZYVTB2VWFnVHpObThVZGFUQlpkbVhLOVV1WnBvd2xiZFkwQUFnSERrOGln?oc=5)
 
 ---
 
