@@ -33,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran allows some Iraqi tankers to cross Hormuz Strait after Qalibaf\u2019s visit - The Arab Weekly",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd21hTG95NVdvRm40UkF1c2czYWVMRWZ6YzloUTdsUEZoQmtvNmJOcEpSWWNSUm9xRm41VHl2eUFRdlNvZTN4VlotcUVjQUNlLWl1czFzN1plN0pvSUFXU0U4bmVHaVBsajYtSVViX3JsUU9WVHQySktrQWdGbWs0QnE4V3Zjb0ZRMjZ0V21PV0llYnl3TGlEdm8yQ29yUQ?oc=5",
-  "published": "Sat, 22 Aug 2026 09:27:20 GMT",
+  "headline": "Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5",
+  "published": "Fri, 14 Aug 2026 22:36:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -44,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5",
-  "published": "Fri, 14 Aug 2026 22:36:54 GMT",
+  "headline": "Iran allows some Iraqi tankers to cross Hormuz Strait after Qalibaf\u2019s visit - The Arab Weekly",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd21hTG95NVdvRm40UkF1c2czYWVMRWZ6YzloUTdsUEZoQmtvNmJOcEpSWWNSUm9xRm41VHl2eUFRdlNvZTN4VlotcUVjQUNlLWl1czFzN1plN0pvSUFXU0U4bmVHaVBsajYtSVViX3JsUU9WVHQySktrQWdGbWs0QnE4V3Zjb0ZRMjZ0V21PV0llYnl3TGlEdm8yQ29yUQ?oc=5",
+  "published": "Sat, 22 Aug 2026 09:27:20 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -90,29 +90,7 @@
  {
   "headline": "Grain exports stall as Ukraine steps up attacks on Russia - DW.com",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDdVeXR4OWZEZ0xVZGdGUzd1cXpwUnF6SWU1UnlyZzA0MmFsTm55ZXJqSUVYUjBWVklqcmhqVFZPTUJob2hUdVhYaDJSUFpzNmpIaU5rSzE1RlEzbUlKOWxwOThsVjBNd2JMSVM1NEZ0UXVHaW14dEU5ay1oWmtPZ2RQVE5Rb0VxeFBIYVFyRDdzdzZQZnN2dTBrTkpTS0Y3Q2VvMU5JTjhYSTTSAasBQVVfeXFMT0lXWWlJUmtrQ3M1dWpVczZPSFFSalJaMWpsX29WcC1sUTl5NlN1UUd3LUVKaWp2LTIxSGdWYl8tN2p1QzdOTS1yMFN3RVk4QWVpcWJEaEVvS21CbEtocjgtYUNPdjJhQ1k5UkNDak11cnlrYk9kQTVSR0NpdkJtM1o4ZXVaOEU3V0VRM2ZPcWxfVHYxWnlsWVFnbFVYTjhZUFBNNDR0Y1R4Vmcw?oc=5",
-  "published": "Wed, 26 Aug 2026 08:19:10 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
-  "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russia and Ukraine\u2019s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5",
-  "published": "Wed, 19 Aug 2026 17:00:41 GMT",
+  "published": "Wed, 26 Aug 2026 11:20:05 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -151,6 +129,17 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Vedomosti reports that Russia may eliminate the grain export duty because of Black Sea shipping risks. - Marine News Magazine",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjdTVVZNUFVpT20wT1ozS2NlSGNLbjRJRWc2MTZDVjF2TVJuYkMzVEpLM0tKT010UTdwZ3F4R2hpZGM3NWVIWlRGc0w4Z2Y0ZkUyODVRZDdkZzN4d0RraGcwMEptWmlvOS1sRUpXYzY3a2dMT2hWN0JlOFBva0d5TmRFMlZYVTB2VWFnVHpObThVZGFUQlpkbVhLOVV1WnBvd2xiZFkwQUFnSERrOGln?oc=5",
+  "published": "Tue, 25 Aug 2026 11:27:08 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  }
 ]

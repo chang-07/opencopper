@@ -24,7 +24,7 @@ band is wide, the elasticities are doing the work, not the event.
 _8 corroborating headline(s):_
 - [Hormuz crisis hides a deeper oil threat that could outlast the war - Fox News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGZlLVpxRnloUXpBZlZpTTdxTVdNTGo1ZnZkWWR0YlRCRVZaQnIzdW9mN1FRUU5ldUpjLVRRQlBBQUg3YWJxTUd6aTNMNnIwMVNERFFwcmRhWExpTFhYc2FTa25ISlFaUG9kaG5aeWxuWEVIT0J6NUpuZ2NKV0JoYW5feW1UQWgyNnJ5djNucE8yb2o1?oc=5)
 - [Crude Prices Sharply Lower as Oil Supplies Move Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnZBT0EtZDV5clo2NTFVWUpocHM4SDlWaE4yR0pXbldpaXJ4VU5VTWk0TUR0Z25UVV9BdWIyRExkMklfdUtpbUhTRW5LSjJVdFdJMnFrRXlKRGVCdmxZcjNjNERPbzZZVUcwaFBxLVh0Z2c3OTYxbzR0WDhhMnJENEJuS0Z6S3dBY1Q2aUdhbmlLWlRnSWVBZG5yY3V1UW9rMWVBaWo1WWJXTjctQUE5YUloSWQ1MlU?oc=5)
-- [Iran allows some Iraqi tankers to cross Hormuz Strait after Qalibaf’s visit - The Arab Weekly](https://news.google.com/rss/articles/CBMingFBVV95cUxOd21hTG95NVdvRm40UkF1c2czYWVMRWZ6YzloUTdsUEZoQmtvNmJOcEpSWWNSUm9xRm41VHl2eUFRdlNvZTN4VlotcUVjQUNlLWl1czFzN1plN0pvSUFXU0U4bmVHaVBsajYtSVViX3JsUU9WVHQySktrQWdGbWs0QnE4V3Zjb0ZRMjZ0V21PV0llYnl3TGlEdm8yQ29yUQ?oc=5)
+- [Status of the Strait of Hormuz still impacts oil prices - Oil & Gas Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1WeGxkUWk4dGFRNG9jd3pMelNCdkVNcjFMVU14SUMta01aUHZaQzl1ZXdTNDM5TDh2NV9BTWd1N2poQTdSLUstSC1rZG1HSkUtRVM0cWgxMzJ2UmF3M0pSajZjdkxkQlVGenlQd3FYbWNRUnJjU3lGckZKM3hYa3k1VFR2WXNQMU84Rnl1UDg2cEFYdW80N1FWOE1oMGNBZmQ1aURBSkFXUFNEemM4Z2J4bmlQaWJjQ1k4bWRweVJFQQ?oc=5)
 - …and 5 more
 
 ## Cobalt prices steady; DRC may cut quota amid su... - Pluang
@@ -44,7 +44,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 ## Grain exports stall as Ukraine steps up attacks on Russia - DW.com
-*Wed, 26 Aug 2026 08:19:10 GMT* — [source](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDdVeXR4OWZEZ0xVZGdGUzd1cXpwUnF6SWU1UnlyZzA0MmFsTm55ZXJqSUVYUjBWVklqcmhqVFZPTUJob2hUdVhYaDJSUFpzNmpIaU5rSzE1RlEzbUlKOWxwOThsVjBNd2JMSVM1NEZ0UXVHaW14dEU5ay1oWmtPZ2RQVE5Rb0VxeFBIYVFyRDdzdzZQZnN2dTBrTkpTS0Y3Q2VvMU5JTjhYSTTSAasBQVVfeXFMT0lXWWlJUmtrQ3M1dWpVczZPSFFSalJaMWpsX29WcC1sUTl5NlN1UUd3LUVKaWp2LTIxSGdWYl8tN2p1QzdOTS1yMFN3RVk4QWVpcWJEaEVvS21CbEtocjgtYUNPdjJhQ1k5UkNDak11cnlrYk9kQTVSR0NpdkJtM1o4ZXVaOEU3V0VRM2ZPcWxfVHYxWnlsWVFnbFVYTjhZUFBNNDR0Y1R4Vmcw?oc=5)
+*Wed, 26 Aug 2026 11:20:05 GMT* — [source](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDdVeXR4OWZEZ0xVZGdGUzd1cXpwUnF6SWU1UnlyZzA0MmFsTm55ZXJqSUVYUjBWVklqcmhqVFZPTUJob2hUdVhYaDJSUFpzNmpIaU5rSzE1RlEzbUlKOWxwOThsVjBNd2JMSVM1NEZ0UXVHaW14dEU5ay1oWmtPZ2RQVE5Rb0VxeFBIYVFyRDdzdzZQZnN2dTBrTkpTS0Y3Q2VvMU5JTjhYSTTSAasBQVVfeXFMT0lXWWlJUmtrQ3M1dWpVczZPSFFSalJaMWpsX29WcC1sUTl5NlN1UUd3LUVKaWp2LTIxSGdWYl8tN2p1QzdOTS1yMFN3RVk4QWVpcWJEaEVvS21CbEtocjgtYUNPdjJhQ1k5UkNDak11cnlrYk9kQTVSR0NpdkJtM1o4ZXVaOEU3V0VRM2ZPcWxfVHYxWnlsWVFnbFVYTjhZUFBNNDR0Y1R4Vmcw?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -59,10 +59,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
-- [Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5)
-- [Russia and Ukraine’s Black Sea Grain Exports Grind to a Virtual Halt - gCaptain](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9ZVDVJclJ4d1JZRGE2VkZvNFVaeENsZXhtZlZuRkY1UTlEYmxtSXJOekVGMk9NRE95WlB0ZGcwUEVTR2RMQjJ5SXRUTkR4MEtQQkJMT21MckJBUFJ2VnowbFdJSmc0eDBPd21QdWx4amhiaHpUOXF1dVAyeUhWc1oxX1Z5MUJoQkViWE9IVUQ0UXc?oc=5)
+_2 corroborating headline(s):_
 - [Up to 70 ships queue off Danube as bottlenecks slow Ukraine grain exports - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFBlVTBrbXBrM2dqdkV2V0lXcExyN19nc2FLZmZiYnZfd1pXTE9MY2lac0VQb3JGQkpJbjd1b0loNzRQZlhFQ1pUTml4clhEcWRCdTRkN1lHR0tmdXJEeVJySjl1Q2VRanpURGh2RDVPVlVObTBBSzBQMDNVUmZPaXV3c3dtUGI0MnI3N2dDQ2VlYlVTXzl6NDFhSVkyNVFnRE40aFUwbzh3RnBmbERpVmxn?oc=5)
+- [Vedomosti reports that Russia may eliminate the grain export duty because of Black Sea shipping risks. - Marine News Magazine](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjdTVVZNUFVpT20wT1ozS2NlSGNLbjRJRWc2MTZDVjF2TVJuYkMzVEpLM0tKT010UTdwZ3F4R2hpZGM3NWVIWlRGc0w4Z2Y0ZkUyODVRZDdkZzN4d0RraGcwMEptWmlvOS1sRUpXYzY3a2dMT2hWN0JlOFBva0d5TmRFMlZYVTB2VWFnVHpObThVZGFUQlpkbVhLOVV1WnBvd2xiZFkwQUFnSERrOGln?oc=5)
 
 ---
 
