@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_12 corroborating headline(s):_
-- [Gulf states scramble for Strait of Hormuz alternatives - dw.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTU2bFdTbGFPUHoyLUVLbHlMRFRlZHdXeEtIODg0dEVjMFduOGwwYjNKSlRVUjNWaFUwY1pxaWR3S3BjNHpIMk8wemF6OFhyTmd5Y0hBem1sWmFybkFzNG5WbmFWZXdIUExQa21UcjdWVl96YnYtV09zakgtekJ3djFPeDFaZUZVdUJIZjdIN1R5a2sxWG1Odjh1TjEyN1VDX0wyNFE2WllRUko3STc5TjFQOWZFQdIBtgFBVV95cUxNbGthRmN4a29fM3VjdXM2QUdwNjZFY2ZQbl8zYno4aXhndDRIR2t1TjIzQlY5OThOZ3JfLWZWN3ZuazYtOGE1VkhqeVhKRzVxYVhIZHZ1RUtMRW9LMHlTcHJpQTNzeUY3cEJaMlMtZm9mcDl5Y0ZXX1l3X2FSNlR4ZWpzeWc0VWJXdTBPalF1UnZNamxlc1pDR0hGRjdyTE9hU3duNnN3a1lJRHJTV2RxYTVlMURwZw?oc=5)
+_13 corroborating headline(s):_
+- [Gulf states scramble for Strait of Hormuz alternatives - DW.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTU2bFdTbGFPUHoyLUVLbHlMRFRlZHdXeEtIODg0dEVjMFduOGwwYjNKSlRVUjNWaFUwY1pxaWR3S3BjNHpIMk8wemF6OFhyTmd5Y0hBem1sWmFybkFzNG5WbmFWZXdIUExQa21UcjdWVl96YnYtV09zakgtekJ3djFPeDFaZUZVdUJIZjdIN1R5a2sxWG1Odjh1TjEyN1VDX0wyNFE2WllRUko3STc5TjFQOWZFQdIBtgFBVV95cUxNbGthRmN4a29fM3VjdXM2QUdwNjZFY2ZQbl8zYno4aXhndDRIR2t1TjIzQlY5OThOZ3JfLWZWN3ZuazYtOGE1VkhqeVhKRzVxYVhIZHZ1RUtMRW9LMHlTcHJpQTNzeUY3cEJaMlMtZm9mcDl5Y0ZXX1l3X2FSNlR4ZWpzeWc0VWJXdTBPalF1UnZNamxlc1pDR0hGRjdyTE9hU3duNnN3a1lJRHJTV2RxYTVlMURwZw?oc=5)
 - [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
-- [Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5)
-- …and 9 more
+- [Are We Misreading The Oil Demand Shock From Hormuz? - Forbes](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFBhNnRkNDE1RWtmY3BSemhKb21ZcHluZi1iOE5rMnZQM2pCWU9XRWpnMzlnNW1LcnpRMUkzei10a3JGbG82b3RQdml0MEhZdVoydXJoSGg0bDFVY3ozYmNrRERIdkx2UTllcWsycHNJbUh0ZnFTaS1lY1ZKSWd1Um90TmFfa2plNVd3aWNQNUtZaDN6MXFfOVhCZlg5ZnhwMkZJeXZR?oc=5)
+- …and 10 more
 
 ## Cobalt prices steady; DRC may cut quota amid su... - Pluang
 *Tue, 25 Aug 2026 03:34:03 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5)
@@ -43,7 +43,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Grain exports stall as Ukraine steps up attacks on Russia - dw.com
+## Grain exports stall as Ukraine steps up attacks on Russia - DW.com
 *Tue, 25 Aug 2026 18:07:08 GMT* — [source](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDdVeXR4OWZEZ0xVZGdGUzd1cXpwUnF6SWU1UnlyZzA0MmFsTm55ZXJqSUVYUjBWVklqcmhqVFZPTUJob2hUdVhYaDJSUFpzNmpIaU5rSzE1RlEzbUlKOWxwOThsVjBNd2JMSVM1NEZ0UXVHaW14dEU5ay1oWmtPZ2RQVE5Rb0VxeFBIYVFyRDdzdzZQZnN2dTBrTkpTS0Y3Q2VvMU5JTjhYSTTSAasBQVVfeXFMT0lXWWlJUmtrQ3M1dWpVczZPSFFSalJaMWpsX29WcC1sUTl5NlN1UUd3LUVKaWp2LTIxSGdWYl8tN2p1QzdOTS1yMFN3RVk4QWVpcWJEaEVvS21CbEtocjgtYUNPdjJhQ1k5UkNDak11cnlrYk9kQTVSR0NpdkJtM1o4ZXVaOEU3V0VRM2ZPcWxfVHYxWnlsWVFnbFVYTjhZUFBNNDR0Y1R4Vmcw?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
@@ -59,9 +59,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [Up to 70 ships queue off Danube as bottlenecks slow Ukraine grain exports - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFBlVTBrbXBrM2dqdkV2V0lXcExyN19nc2FLZmZiYnZfd1pXTE9MY2lac0VQb3JGQkpJbjd1b0loNzRQZlhFQ1pUTml4clhEcWRCdTRkN1lHR0tmdXJEeVJySjl1Q2VRanpURGh2RDVPVlVObTBBSzBQMDNVUmZPaXV3c3dtUGI0MnI3N2dDQ2VlYlVTXzl6NDFhSVkyNVFnRE40aFUwbzh3RnBmbERpVmxn?oc=5)
+- [Ukraine's Black Sea port blockade strangles grain exports - Le Monde.fr](https://news.google.com/rss/articles/CBMiywFBVV95cUxQekdRU0VrVmRMUm9OR0lrdXplcWZHWmxmTEhPLWZWbmtXT0tHbWdHUGZ4LXpyTXNyQTFKMDVkNnNJeF9BVWFXTzZxc2ltU1JralBuUkpIcFNoTUsxTWZraHRRSWxzM3RyajdrZEU5anV4ejhGSHpLdmNBS01qeU9xWHZocmRqaHNJR1BOamp1ekFfYWlXcXQzSFl1VWstMWlaMmxackdzN3BZM21Tdkh4Ti0xXzVCY1NCQUxURGluUXZyelc4MDh1eXhJWQ?oc=5)
 - [Russia's Rostov Oblast declares state of emergency over Black Sea grain export problems - Українська правда](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZTnFXVkhPdDR3NnlKSklqLWlvMVVwV3czck5DRFlSdmtOOEE3MzdFYmlkb3VZLWRjd1lIdm15dHV1MWoydVNuTTQ3R2thai1mSXR1eFlHM0M3YktYakFJbjdEbFPSAXBBVV95cUxQQUJZNlZQbDhmWC1Za2E5aW9BSE5mV0hZTWk1cEFmY0g1RGxHcjVudEVaNEJweHRkYjRQeFlCSnlxTXQ4eVFCclpNc3BXUmkzOGNaQkxEOWpHUDcxYUhkU3N6RjZDYVhHMkpHcVBPXzlo?oc=5)
+- …and 2 more
 
 ---
 
