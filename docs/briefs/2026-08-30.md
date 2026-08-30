@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_13 corroborating headline(s):_
+_12 corroborating headline(s):_
 - [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
 - [Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5)
 - [Are We Misreading The Oil Demand Shock From Hormuz? - Forbes](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFBhNnRkNDE1RWtmY3BSemhKb21ZcHluZi1iOE5rMnZQM2pCWU9XRWpnMzlnNW1LcnpRMUkzei10a3JGbG82b3RQdml0MEhZdVoydXJoSGg0bDFVY3ozYmNrRERIdkx2UTllcWsycHNJbUh0ZnFTaS1lY1ZKSWd1Um90TmFfa2plNVd3aWNQNUtZaDN6MXFfOVhCZlg5ZnhwMkZJeXZR?oc=5)
-- …and 10 more
+- …and 9 more
 
 ## Cobalt prices steady; DRC may cut quota amid su... - Pluang
 *Tue, 25 Aug 2026 03:34:03 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5)
@@ -61,7 +61,7 @@ band is wide, the elasticities are doing the work, not the event.
 
 _4 corroborating headline(s):_
 - [Up to 70 ships queue off Danube as bottlenecks slow Ukraine grain exports - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFBlVTBrbXBrM2dqdkV2V0lXcExyN19nc2FLZmZiYnZfd1pXTE9MY2lac0VQb3JGQkpJbjd1b0loNzRQZlhFQ1pUTml4clhEcWRCdTRkN1lHR0tmdXJEeVJySjl1Q2VRanpURGh2RDVPVlVObTBBSzBQMDNVUmZPaXV3c3dtUGI0MnI3N2dDQ2VlYlVTXzl6NDFhSVkyNVFnRE40aFUwbzh3RnBmbERpVmxn?oc=5)
-- [Ukraine's Black Sea port blockade strangles grain exports - Le Monde.fr](https://news.google.com/rss/articles/CBMiywFBVV95cUxQekdRU0VrVmRMUm9OR0lrdXplcWZHWmxmTEhPLWZWbmtXT0tHbWdHUGZ4LXpyTXNyQTFKMDVkNnNJeF9BVWFXTzZxc2ltU1JralBuUkpIcFNoTUsxTWZraHRRSWxzM3RyajdrZEU5anV4ejhGSHpLdmNBS01qeU9xWHZocmRqaHNJR1BOamp1ekFfYWlXcXQzSFl1VWstMWlaMmxackdzN3BZM21Tdkh4Ti0xXzVCY1NCQUxURGluUXZyelc4MDh1eXhJWQ?oc=5)
+- [Wheat futures add to three-year highs as Russia-Ukraine war threatens more Black Sea exports - Seeking Alpha](https://news.google.com/rss/articles/CBMiygFBVV95cUxQazNSNmFHcWlPb29oc3dLb0R1RnU2aWRrMVVvMFBwYjZtZHR6aVVtMUhmREhqMC05V1gtSDVYWXdwTVpqODJzdFVTdXZMRUlQUjdlZVI2cGZYMWNRVkdtT2lXQTNaeXFZZl9XekdzTFRoVmhrMXVtbVRINmt6dFJqYlBnMGVaYnVoSWpiamFnbUZQX3JGcmpacTVPQUtzaFpkVlM1OG4wY3BCV1UzNEx6TFM1SjNydUhQMENCQ19tZjB2RUtJMjJoUXZB?oc=5)
 - [Russian domestic grain prices plunge 36% after Black Sea exports halted - Marine Link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQWVktSUxqamgwQ3hudm1oVmhLZ1d3SUE2WU50Unl5dndxX0I3NHNXX3RtN18xZGI0bXdROEhYNWJPUWMyb3ZXWjZsbnJFc3FUcTZXYm1jaTVlb3hKZnhLUTlmQTg3WHpxT2ZsVTE0R253ZW81ajJpeVhjSTV4bVpLVkpsTU9kRzhtZmx4Z0JxbGQxYkhuZV9CRXhaRE5RUDJ2Qm1rbFFrVXpYYndi?oc=5)
 - …and 1 more
 
