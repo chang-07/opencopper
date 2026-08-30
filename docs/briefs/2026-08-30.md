@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_12 corroborating headline(s):_
+_14 corroborating headline(s):_
 - [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
-- [Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5)
 - [Are We Misreading The Oil Demand Shock From Hormuz? - Forbes](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFBhNnRkNDE1RWtmY3BSemhKb21ZcHluZi1iOE5rMnZQM2pCWU9XRWpnMzlnNW1LcnpRMUkzei10a3JGbG82b3RQdml0MEhZdVoydXJoSGg0bDFVY3ozYmNrRERIdkx2UTllcWsycHNJbUh0ZnFTaS1lY1ZKSWd1Um90TmFfa2plNVd3aWNQNUtZaDN6MXFfOVhCZlg5ZnhwMkZJeXZR?oc=5)
-- …and 9 more
+- [Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5)
+- …and 11 more
 
 ## Cobalt prices steady; DRC may cut quota amid su... - Pluang
 *Tue, 25 Aug 2026 03:34:03 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5)

@@ -22,9 +22,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
-  "published": "Fri, 28 Aug 2026 15:29:37 GMT",
+  "headline": "Are We Misreading The Oil Demand Shock From Hormuz? - Forbes",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFBhNnRkNDE1RWtmY3BSemhKb21ZcHluZi1iOE5rMnZQM2pCWU9XRWpnMzlnNW1LcnpRMUkzei10a3JGbG82b3RQdml0MEhZdVoydXJoSGg0bDFVY3ozYmNrRERIdkx2UTllcWsycHNJbUh0ZnFTaS1lY1ZKSWd1Um90TmFfa2plNVd3aWNQNUtZaDN6MXFfOVhCZlg5ZnhwMkZJeXZR?oc=5",
+  "published": "Thu, 27 Aug 2026 09:14:36 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -33,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Are We Misreading The Oil Demand Shock From Hormuz? - Forbes",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFBhNnRkNDE1RWtmY3BSemhKb21ZcHluZi1iOE5rMnZQM2pCWU9XRWpnMzlnNW1LcnpRMUkzei10a3JGbG82b3RQdml0MEhZdVoydXJoSGg0bDFVY3ozYmNrRERIdkx2UTllcWsycHNJbUh0ZnFTaS1lY1ZKSWd1Um90TmFfa2plNVd3aWNQNUtZaDN6MXFfOVhCZlg5ZnhwMkZJeXZR?oc=5",
-  "published": "Thu, 27 Aug 2026 09:14:36 GMT",
+  "headline": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
+  "published": "Fri, 28 Aug 2026 15:29:37 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -69,6 +69,17 @@
   "headline": "Oil prices fall after Trump says Strait of Hormuz remains open - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUdpWjM4b2lPNGhsYVpYMXF6bkJxUTVmRllZUUNkZ1JMbWJBbXpvcmNXSUVRdHJuNUtIdXdFaVRIY0lZMDhvRGIzTFR2akpOUU83cElnQlB4YmpFdndQdVZmWlV5QUc1ajctTURxYklHT2ZzS1ZIZzBkYXhUel9PVTVRd0pjRFlOWjJfNDhJektxNy1nWTZzY1pkMW1mYzg0NUVXeGJTSQ?oc=5",
   "published": "Fri, 28 Aug 2026 08:33:35 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Goldman Says Hormuz Oil Flows at Two-Thirds of Pre-War Levels - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ3VlJxeDlKVk9OUDVrTk5LeThFYkNFdVcwdzVSN3c0aTFnQVE2bDd6Vm9WTTBXeUpJaW9rTTUwb2ttMFdldUtsNkd0aEJIUjJoOGt5OThUMHpUV1JwZWVFYW94ZXdQdXRqNWs0SFhTYW1icDNCWGJzZG9kOXNiTXVKaTBMMlJQNHNkcG94UF9OUnJtTEJ0Qm5JQTBCTFNsWHhqYndYOFBSZnZyS0VPbUJR?oc=5",
+  "published": "Fri, 28 Aug 2026 02:26:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -135,6 +146,17 @@
   "headline": "Saudi Arabia resumes oil loadings, sales from inside Strait of Hormuz - Reuters",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWV0X21ESGRmUGFXQVQtSXNBRGhkdU5fM1hDNjhwaFhFTktWM3lVXzliRmdma093bTh5LWVmck9JNnYwWnNBUnRJcmxPS25KWGVsTHVGeGd1SE52SjF6LWNHcF9yTTJzX21qRzZvM1NMSk9lWjE0cW41c3hmbU9iT3NsMUF2SlpMWm9Xbnp0Q2pBNWJNUjQ2Y3NNSzZ4RjRsTURxS2NtMFFGOWdJaFlSUEJ3?oc=5",
   "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Hopes Rise for Strait of Hormuz Reopening; Oil Prices Fall for Third Straight Session - finance.biggo.com",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HUFAtVUpaci0tWHlCbVRsejI0eVVQekNnTEgxWHpqOU9JMUh3R1pmTFVMUFdQTEdmd01JVDdDSlFoUHZpWkh1NjVTWlpHMG1za1h4MEFBWVFfeFpjMlVLMjZIdTQ2dVdCajJab0QzWnhmd01YNGc?oc=5",
+  "published": "Wed, 26 Aug 2026 23:26:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
