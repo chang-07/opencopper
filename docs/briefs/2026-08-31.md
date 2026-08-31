@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_11 corroborating headline(s):_
-- [The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - fortune.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5)
+_10 corroborating headline(s):_
+- [The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - Fortune](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5)
 - [Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5)
-- [Gulf countries seek new routes for 'black gold' to free themselves from the Strait of Hormuz - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVjJYMXZ2M2U2NEQwdTlwbnNaVFN1VWhtX3gwVmNtRUZIU3BnaU9OclVnc29vQXNoUlJLdXNEMm92X3Y2bVJRUGxhU2ItRkdHNHIwZXpENFdRM3k5TTFIUVB6SDNpdklNNjFBXzE5NnFkRXJaRW55Y19tV182dDNFUlpya1BYWnRIYWg5T01YaFpTMk92VjNHRDhrUjJCb2l1eXozcUFfdzBLeGw3VThUSVJJUGpxSDdLR3o5dXZsS1FaT0s1bndUNjZ3d3FPM0dHYmszams1SDI2aGs2RVFWbGk2YTZJRHVvb3NmQ3NHNkI2QQ?oc=5)
-- …and 8 more
+- [US-Iran tensions over Strait of Hormuz lift oil prices - Anadolu Ajansı](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVktiMmc3Um05ZzVoc3EwRm55TmduNzUzNHhDQnl3dmRXZmtvd2kwNHh3em1Rek04UGk0ZWNEM21CX0NYZGU2aGVZQk92SnkwQVBRYnNrLVBnZVM2TWs2aV9oOWNqa2ZHZVE5eUY5WXdNSHdxZEhFTzBqbUQyZlV6LW5fZHNWWC05STJXaU85elV0QmJOX2Jvb3FMMTU?oc=5)
+- …and 7 more
 
 ## Cobalt prices steady; DRC may cut quota amid su... - Pluang
 *Tue, 25 Aug 2026 03:34:03 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5)
@@ -60,9 +60,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _7 corroborating headline(s):_
+- [Russian Wheat Exports Rise in Price as Black Sea Supplies Dwindle - maritimeprofessional.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3VkNEo0Yl9Vd2NiOER6aFNUcXcxcTFLUjQ2WndKNUJWNkViWmxPSTU2eTR0Q2lLUERmdjV3S09ZM2JXM0tBaGczSlBGVk9pOW5oSU5QVWlwOE8xblhHeDd2Y3V0QUdVUEpNT09OZjlYM01jSTJGVVBxcXZ2TE1yV21ndzlLYmct0gGOAUFVX3lxTE5hMlNfWnBzRjgyUmpOenZ3TTYwSGpVZVlSVkotNHp0RXMyZG1OVXpaWGZELVlhdUxGdEQtWk1nOEo2azh0c0toOXdBRXhheXZ1SkNfNVpCVGUwS2M4VVREYmlxZGVnU2J6ZUVDR3dwVHhIYnRnM3FaUVdidnNkUTJUM0VHMEZzZGFXSDFNcVE?oc=5)
 - [Russia rerouting grain exports to Baltic Sea - World Grain](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3loSUQ1cTZ6VE5pVGZWR1dUcC1UV3VySlp5UHZLUE8zREFmUmdoRThRVWFkTjRPYjA1VTh2SXBILTFLeHNhdE1KTXhCM2FNTnQwZDlQaGZpT1BONjNjSmVEN0M1RUprRTVUMHF1SlBQMDJxbGU2cFg2QVNpOWVDbGFOMUE4cHJmdXJwZE1leDg?oc=5)
-- [Russian Grain Exports via Baltic Ports Rise as Black Sea Shipping Faces Drone Attacks - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFdRWlAydVh6cWUwaDhxRmhyeURjdV90d2h0V2FVX21HTE9pUEdVMndKY1NPX1hCZXltMG1GTWtMcG5vQlREZVVpOURIQ2wtc1ZucTAxOUoyRWFsUGctMll3V2UtV1hwbHpLU0FlTWFubHMzbVVUQ1k1TnFUNGI1RlRSU1poZDY2Z3FSblVXY3ZRaDBwWlllYWFYc3I1TjdCSzhoSE96R241dw?oc=5)
-- [Russian wheat export prices rise as Black Sea supplies shrink - marketscreener.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGEtM2V0YmNoZGx5ZmFXbWV4RkRPQlg4dnBwN0VLMnJWUE1LU1dTVUNGLUFoUG1iOXRWbVF3UDNNWEI2WkdGUE9WZmZoYi1uRDRXdWdlb2tDMnhaRnpCY25jT0ZvdHN2dTNDX0hqQ0cyZGNGdFcwMF9CSWZuZHRJblk3cmpqVzdRNlJMUndLVWpZeXpLaEJCN0FodjFqOWN6bzAxS0c4a0c3RWVfdEFVNXFuNVo?oc=5)
+- [Russian wheat exports to plunge by up to 60% in September, hitting record low since 2010 - theins.press](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YSVZhSVMwTS00QkI0NnVOWVE2alhjNGdfMHVMalFVc0lDLS1hMW5QS3JadzVJa080SHVSUmZrWXlDX2JJSTcwZ1dMTQ?oc=5)
 - …and 4 more
 
 ---
