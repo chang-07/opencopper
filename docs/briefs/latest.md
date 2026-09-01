@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_11 corroborating headline(s):_
+_12 corroborating headline(s):_
 - [Gulf states scramble for Strait of Hormuz alternatives - dw.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTU2bFdTbGFPUHoyLUVLbHlMRFRlZHdXeEtIODg0dEVjMFduOGwwYjNKSlRVUjNWaFUwY1pxaWR3S3BjNHpIMk8wemF6OFhyTmd5Y0hBem1sWmFybkFzNG5WbmFWZXdIUExQa21UcjdWVl96YnYtV09zakgtekJ3djFPeDFaZUZVdUJIZjdIN1R5a2sxWG1Odjh1TjEyN1VDX0wyNFE2WllRUko3STc5TjFQOWZFQdIBtgFBVV95cUxNbGthRmN4a29fM3VjdXM2QUdwNjZFY2ZQbl8zYno4aXhndDRIR2t1TjIzQlY5OThOZ3JfLWZWN3ZuazYtOGE1VkhqeVhKRzVxYVhIZHZ1RUtMRW9LMHlTcHJpQTNzeUY3cEJaMlMtZm9mcDl5Y0ZXX1l3X2FSNlR4ZWpzeWc0VWJXdTBPalF1UnZNamxlc1pDR0hGRjdyTE9hU3duNnN3a1lJRHJTV2RxYTVlMURwZw?oc=5)
-- [The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - fortune.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5)
-- [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
-- …and 8 more
+- [Mideast oil-producing nations scramble for pipeline alternatives to Hormuz - Nikkei Asia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUlZMHNQZXRqZ3BZektUbEwtSGlVZWh0REJ1QXVwSU8yci1rcHhhOTFWUnRldDFiTC1CNmVmYUltYXRxVkpmRkowUlF5a2dZcGRic3hQR0I0ck84TkEya1VVdWdmbHpObUU0dUNGQUQ1dkt0dy1aUDY1LXpGemhUZXMwckNsVXVITUx6QTQ4Um1IV3AxZ2dGVU1kQ0E5aTRrN2JkTF9mTW5rMTNsd1NPakxYZmVGRE9hb2ZTd3RKTm9fS1NUQ01kalU3VQ?oc=5)
+- [The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - Fortune](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5)
+- …and 9 more
 
 ## Cobalt prices steady; DRC may cut quota amid su... - Pluang
 *Tue, 25 Aug 2026 03:34:03 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5)
@@ -43,8 +43,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters
-*Mon, 31 Aug 2026 11:56:00 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdE9oS2ItTTBjQnZJSzlDRGVVa3YtMmZUamptWi10NWZYWkowV3dZLUhLcVlFZlg0Z0w1eFVXOXVWbUJKMzh2OTB0eHJtZWlndjJhcXh1RzlTcWpKMTVrT2UzSlBZNk41ekRrOFczSU4zcVZ3UmJodG0xRmNkdUtQNG9aR3p4a3ZXNHE4OVNiY05ETjBxTzY4RXZONWRoSjhfWHZjN3hiVkw?oc=5)
+## Russian Wheat Exports Rise in Price as Black Sea Supplies Dwindle - maritimeprofessional.com
+*Mon, 31 Aug 2026 17:40:34 GMT* — [source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3VkNEo0Yl9Vd2NiOER6aFNUcXcxcTFLUjQ2WndKNUJWNkViWmxPSTU2eTR0Q2lLUERmdjV3S09ZM2JXM0tBaGczSlBGVk9pOW5oSU5QVWlwOE8xblhHeDd2Y3V0QUdVUEpNT09OZjlYM01jSTJGVVBxcXZ2TE1yV21ndzlLYmct0gGOAUFVX3lxTE5hMlNfWnBzRjgyUmpOenZ3TTYwSGpVZVlSVkotNHp0RXMyZG1OVXpaWGZELVlhdUxGdEQtWk1nOEo2azh0c0toOXdBRXhheXZ1SkNfNVpCVGUwS2M4VVREYmlxZGVnU2J6ZUVDR3dwVHhIYnRnM3FaUVdidnNkUTJUM0VHMEZzZGFXSDFNcVE?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -59,11 +59,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
-- [Russian Wheat Exports Rise in Price as Black Sea Supplies Dwindle - maritimeprofessional.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3VkNEo0Yl9Vd2NiOER6aFNUcXcxcTFLUjQ2WndKNUJWNkViWmxPSTU2eTR0Q2lLUERmdjV3S09ZM2JXM0tBaGczSlBGVk9pOW5oSU5QVWlwOE8xblhHeDd2Y3V0QUdVUEpNT09OZjlYM01jSTJGVVBxcXZ2TE1yV21ndzlLYmct0gGOAUFVX3lxTE5hMlNfWnBzRjgyUmpOenZ3TTYwSGpVZVlSVkotNHp0RXMyZG1OVXpaWGZELVlhdUxGdEQtWk1nOEo2azh0c0toOXdBRXhheXZ1SkNfNVpCVGUwS2M4VVREYmlxZGVnU2J6ZUVDR3dwVHhIYnRnM3FaUVdidnNkUTJUM0VHMEZzZGFXSDFNcVE?oc=5)
-- [Wheat Isn’t Scarce. Russia and Ukraine Account for 28% of Exports, and Black Sea Risk Can Reprice the Other 72% - EBC Financial Group](https://news.google.com/rss/articles/CBMid0FVX3lxTE5OREV6M2t6bGVyLU54Xy1fZjV1TWF6ZFF4cUlIZTltblRoS1NUa2tKS29QTGpMUHNpMko0OHNzT25IZEJ5QXJqWU5iZkVDRmFhbkU3amJWSjdQdVlvWkJIdnA4ZnBpS1VzMmxiTHdqZzVuLUViZmtj?oc=5)
+_5 corroborating headline(s):_
+- [Russian grain exports shift to Baltic as Black Sea trade disrupted - Yahoo Finance UK](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3VqTnlyd3huUU5NTUlxY2Rqb20tczNGYmdNM2wyN3M3akdxNTFFbU4tb1I2YV8xSm9rc2dzSTVXRGE5S3VvZzZ6NTdZdU90SG5GOEhoNjRjQXRVTGk1T1VHQ0FBUmRuZHgtbzhCUTZTUXB4SWhkNkVOUVpPSDdadjlBYjNkVDZzM1hN?oc=5)
 - [Russia rerouting grain exports to Baltic Sea - World Grain](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3loSUQ1cTZ6VE5pVGZWR1dUcC1UV3VySlp5UHZLUE8zREFmUmdoRThRVWFkTjRPYjA1VTh2SXBILTFLeHNhdE1KTXhCM2FNTnQwZDlQaGZpT1BONjNjSmVEN0M1RUprRTVUMHF1SlBQMDJxbGU2cFg2QVNpOWVDbGFOMUE4cHJmdXJwZE1leDg?oc=5)
-- …and 4 more
+- [Russian farmers, markets sceptical on state measures to rescue grain exports, call to sow less - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWZlN091alNvMHNhZHd4VXVDb1N4UGxMV3VFVFpLLUcxWHdCN0xjQnZ1Vm1KZTh5R3RzcDdSVDVyNnV2cDVDT2d1dWVSVW95Ul9CVWptTGNDaEJQc0JaRmJyTC1Td1lncmhHUm95UTRJOHpTY3pPaWdCNGdXN0VCaXpqeTNKRktkY1NJbXVtaTI3bDB2dFl1SF9OVHJZR3Z0dTlheVBHUXBWLXgybXZFUGNrZlIyd2dRNkxaczJQWk0?oc=5)
+- …and 2 more
 
 ---
 
