@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Gulf states scramble for Strait of Hormuz alternatives - dw.com
-*Tue, 01 Sep 2026 03:42:54 GMT* — [source](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTU2bFdTbGFPUHoyLUVLbHlMRFRlZHdXeEtIODg0dEVjMFduOGwwYjNKSlRVUjNWaFUwY1pxaWR3S3BjNHpIMk8wemF6OFhyTmd5Y0hBem1sWmFybkFzNG5WbmFWZXdIUExQa21UcjdWVl96YnYtV09zakgtekJ3djFPeDFaZUZVdUJIZjdIN1R5a2sxWG1Odjh1TjEyN1VDX0wyNFE2WllRUko3STc5TjFQOWZFQdIBtgFBVV95cUxNbGthRmN4a29fM3VjdXM2QUdwNjZFY2ZQbl8zYno4aXhndDRIR2t1TjIzQlY5OThOZ3JfLWZWN3ZuazYtOGE1VkhqeVhKRzVxYVhIZHZ1RUtMRW9LMHlTcHJpQTNzeUY3cEJaMlMtZm9mcDl5Y0ZXX1l3X2FSNlR4ZWpzeWc0VWJXdTBPalF1UnZNamxlc1pDR0hGRjdyTE9hU3duNnN3a1lJRHJTV2RxYTVlMURwZw?oc=5)
+## Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ
+*Tue, 01 Sep 2026 13:21:10 GMT* — [source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,13 +21,13 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
-- [Mideast oil-producing nations scramble for pipeline alternatives to Hormuz - Nikkei Asia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUlZMHNQZXRqZ3BZektUbEwtSGlVZWh0REJ1QXVwSU8yci1rcHhhOTFWUnRldDFiTC1CNmVmYUltYXRxVkpmRkowUlF5a2dZcGRic3hQR0I0ck84TkEya1VVdWdmbHpObUU0dUNGQUQ1dkt0dy1aUDY1LXpGemhUZXMwckNsVXVITUx6QTQ4Um1IV3AxZ2dGVU1kQ0E5aTRrN2JkTF9mTW5rMTNsd1NPakxYZmVGRE9hb2ZTd3RKTm9fS1NUQ01kalU3VQ?oc=5)
-- [The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - Fortune](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5)
-- [Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5)
-- …and 7 more
+_8 corroborating headline(s):_
+- [Gulf states scramble for Strait of Hormuz alternatives - dw.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTU2bFdTbGFPUHoyLUVLbHlMRFRlZHdXeEtIODg0dEVjMFduOGwwYjNKSlRVUjNWaFUwY1pxaWR3S3BjNHpIMk8wemF6OFhyTmd5Y0hBem1sWmFybkFzNG5WbmFWZXdIUExQa21UcjdWVl96YnYtV09zakgtekJ3djFPeDFaZUZVdUJIZjdIN1R5a2sxWG1Odjh1TjEyN1VDX0wyNFE2WllRUko3STc5TjFQOWZFQdIBtgFBVV95cUxNbGthRmN4a29fM3VjdXM2QUdwNjZFY2ZQbl8zYno4aXhndDRIR2t1TjIzQlY5OThOZ3JfLWZWN3ZuazYtOGE1VkhqeVhKRzVxYVhIZHZ1RUtMRW9LMHlTcHJpQTNzeUY3cEJaMlMtZm9mcDl5Y0ZXX1l3X2FSNlR4ZWpzeWc0VWJXdTBPalF1UnZNamxlc1pDR0hGRjdyTE9hU3duNnN3a1lJRHJTV2RxYTVlMURwZw?oc=5)
+- [The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - fortune.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5)
+- [UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5)
+- …and 5 more
 
-## Cobalt prices steady; DRC may cut quota amid su... - pluang.com
+## Cobalt prices steady; DRC may cut quota amid su... - Pluang
 *Tue, 25 Aug 2026 03:34:03 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
 
@@ -43,8 +43,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Wheat Isn’t Scarce. Russia and Ukraine Account for 28% of Exports, and Black Sea Risk Can Reprice the Other 72% - EBC Financial Group
-*Tue, 01 Sep 2026 08:23:00 GMT* — [source](https://news.google.com/rss/articles/CBMid0FVX3lxTE5OREV6M2t6bGVyLU54Xy1fZjV1TWF6ZFF4cUlIZTltblRoS1NUa2tKS29QTGpMUHNpMko0OHNzT25IZEJ5QXJqWU5iZkVDRmFhbkU3amJWSjdQdVlvWkJIdnA4ZnBpS1VzMmxiTHdqZzVuLUViZmtj?oc=5)
+## Russian Wheat Exports Rise in Price as Black Sea Supplies Dwindle - maritimeprofessional.com
+*Mon, 31 Aug 2026 17:40:34 GMT* — [source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3VkNEo0Yl9Vd2NiOER6aFNUcXcxcTFLUjQ2WndKNUJWNkViWmxPSTU2eTR0Q2lLUERmdjV3S09ZM2JXM0tBaGczSlBGVk9pOW5oSU5QVWlwOE8xblhHeDd2Y3V0QUdVUEpNT09OZjlYM01jSTJGVVBxcXZ2TE1yV21ndzlLYmct0gGOAUFVX3lxTE5hMlNfWnBzRjgyUmpOenZ3TTYwSGpVZVlSVkotNHp0RXMyZG1OVXpaWGZELVlhdUxGdEQtWk1nOEo2azh0c0toOXdBRXhheXZ1SkNfNVpCVGUwS2M4VVREYmlxZGVnU2J6ZUVDR3dwVHhIYnRnM3FaUVdidnNkUTJUM0VHMEZzZGFXSDFNcVE?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -59,11 +59,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
-- [Russian Wheat Exports Rise in Price as Black Sea Supplies Dwindle - maritimeprofessional.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3VkNEo0Yl9Vd2NiOER6aFNUcXcxcTFLUjQ2WndKNUJWNkViWmxPSTU2eTR0Q2lLUERmdjV3S09ZM2JXM0tBaGczSlBGVk9pOW5oSU5QVWlwOE8xblhHeDd2Y3V0QUdVUEpNT09OZjlYM01jSTJGVVBxcXZ2TE1yV21ndzlLYmct0gGOAUFVX3lxTE5hMlNfWnBzRjgyUmpOenZ3TTYwSGpVZVlSVkotNHp0RXMyZG1OVXpaWGZELVlhdUxGdEQtWk1nOEo2azh0c0toOXdBRXhheXZ1SkNfNVpCVGUwS2M4VVREYmlxZGVnU2J6ZUVDR3dwVHhIYnRnM3FaUVdidnNkUTJUM0VHMEZzZGFXSDFNcVE?oc=5)
-- [Grain exports stall as Ukraine steps up attacks on Russia - dw.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDdVeXR4OWZEZ0xVZGdGUzd1cXpwUnF6SWU1UnlyZzA0MmFsTm55ZXJqSUVYUjBWVklqcmhqVFZPTUJob2hUdVhYaDJSUFpzNmpIaU5rSzE1RlEzbUlKOWxwOThsVjBNd2JMSVM1NEZ0UXVHaW14dEU5ay1oWmtPZ2RQVE5Rb0VxeFBIYVFyRDdzdzZQZnN2dTBrTkpTS0Y3Q2VvMU5JTjhYSTTSAasBQVVfeXFMT0lXWWlJUmtrQ3M1dWpVczZPSFFSalJaMWpsX29WcC1sUTl5NlN1UUd3LUVKaWp2LTIxSGdWYl8tN2p1QzdOTS1yMFN3RVk4QWVpcWJEaEVvS21CbEtocjgtYUNPdjJhQ1k5UkNDak11cnlrYk9kQTVSR0NpdkJtM1o4ZXVaOEU3V0VRM2ZPcWxfVHYxWnlsWVFnbFVYTjhZUFBNNDR0Y1R4Vmcw?oc=5)
-- [Grain prices surge after Ukraine war chokes off seaborne exports - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVuY3F4UFJQWWR2dDliZ2JLOGx5bXBQOElFYWNlNWFsX3hYc3lYNHg1NjczY0lJWjBSaWVRY3ltMkxPRGdmX2duYk1lRjhZMlJGX2lUb1VyTV9zcHJUVWtPdVJlUzlrdDdCX2pReVFCWHRFMEkxZXJZZExvWDdJTV9nb2U?oc=5)
-- …and 3 more
+_5 corroborating headline(s):_
+- [Wheat Isn’t Scarce. Russia and Ukraine Account for 28% of Exports, and Black Sea Risk Can Reprice the Other 72% - EBC Financial Group](https://news.google.com/rss/articles/CBMid0FVX3lxTE5OREV6M2t6bGVyLU54Xy1fZjV1TWF6ZFF4cUlIZTltblRoS1NUa2tKS29QTGpMUHNpMko0OHNzT25IZEJ5QXJqWU5iZkVDRmFhbkU3amJWSjdQdVlvWkJIdnA4ZnBpS1VzMmxiTHdqZzVuLUViZmtj?oc=5)
+- [Russian farmers, markets sceptical on state measures to rescue grain exports, call to sow less - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWZlN091alNvMHNhZHd4VXVDb1N4UGxMV3VFVFpLLUcxWHdCN0xjQnZ1Vm1KZTh5R3RzcDdSVDVyNnV2cDVDT2d1dWVSVW95Ul9CVWptTGNDaEJQc0JaRmJyTC1Td1lncmhHUm95UTRJOHpTY3pPaWdCNGdXN0VCaXpqeTNKRktkY1NJbXVtaTI3bDB2dFl1SF9OVHJZR3Z0dTlheVBHUXBWLXgybXZFUGNrZlIyd2dRNkxaczJQWk0?oc=5)
+- [Wheat futures add to three-year highs as Russia-Ukraine war threatens more Black Sea exports - Seeking Alpha](https://news.google.com/rss/articles/CBMiygFBVV95cUxQazNSNmFHcWlPb29oc3dLb0R1RnU2aWRrMVVvMFBwYjZtZHR6aVVtMUhmREhqMC05V1gtSDVYWXdwTVpqODJzdFVTdXZMRUlQUjdlZVI2cGZYMWNRVkdtT2lXQTNaeXFZZl9XekdzTFRoVmhrMXVtbVRINmt6dFJqYlBnMGVaYnVoSWpiamFnbUZQX3JGcmpacTVPQUtzaFpkVlM1OG4wY3BCV1UzNEx6TFM1SjNydUhQMENCQ19tZjB2RUtJMjJoUXZB?oc=5)
+- …and 2 more
 
 ---
 
