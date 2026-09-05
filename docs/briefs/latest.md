@@ -4,7 +4,7 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - wsj.com
+## Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ
 *Tue, 01 Sep 2026 12:57:00 GMT* — [source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
+_10 corroborating headline(s):_
 - [US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance](https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5)
 - [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - energynow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
 - [Mideast oil-producing nations scramble for pipeline alternatives to Hormuz - Nikkei Asia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUlZMHNQZXRqZ3BZektUbEwtSGlVZWh0REJ1QXVwSU8yci1rcHhhOTFWUnRldDFiTC1CNmVmYUltYXRxVkpmRkowUlF5a2dZcGRic3hQR0I0ck84TkEya1VVdWdmbHpObUU0dUNGQUQ1dkt0dy1aUDY1LXpGemhUZXMwckNsVXVITUx6QTQ4Um1IV3AxZ2dGVU1kQ0E5aTRrN2JkTF9mTW5rMTNsd1NPakxYZmVGRE9hb2ZTd3RKTm9fS1NUQ01kalU3VQ?oc=5)
-- …and 5 more
+- …and 7 more
 
 ## Cobalt prices steady; DRC may cut quota amid su... - Pluang
 *Mon, 24 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5)
