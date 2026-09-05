@@ -44,7 +44,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - fortune.com",
+  "headline": "The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - Fortune",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5",
   "published": "Sat, 29 Aug 2026 00:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -55,7 +55,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Gulf countries seek new routes for 'black gold' to free themselves from the Strait of Hormuz - lemonde.fr",
+  "headline": "Gulf countries seek new routes for 'black gold' to free themselves from the Strait of Hormuz - Le Monde.fr",
   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVjJYMXZ2M2U2NEQwdTlwbnNaVFN1VWhtX3gwVmNtRUZIU3BnaU9OclVnc29vQXNoUlJLdXNEMm92X3Y2bVJRUGxhU2ItRkdHNHIwZXpENFdRM3k5TTFIUVB6SDNpdklNNjFBXzE5NnFkRXJaRW55Y19tV182dDNFUlpya1BYWnRIYWg5T01YaFpTMk92VjNHRDhrUjJCb2l1eXozcUFfdzBLeGw3VThUSVJJUGpxSDdLR3o5dXZsS1FaT0s1bndUNjZ3d3FPM0dHYmszams1SDI2aGs2RVFWbGk2YTZJRHVvb3NmQ3NHNkI2QQ?oc=5",
   "published": "Thu, 27 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -99,9 +99,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Hormuz disruption to keep oil prices firm; $100/bbl risk looms: Analysts - cyprusshippingnews.com",
+  "headline": "Hormuz disruption to keep oil prices firm; $100/bbl risk looms: Analysts - Cyprus Shipping News",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFpSMlpFVjhYMHdmbG90QlUwSHNZeGFhLWtiUHVlRFlpOG0xeEpKa0otZjVFU3V1VXNhTWV3SXNOd2FfNEY0el9ZRjJXZF91Q2t6RjJ1OE5XYXlDcndRT1NCVTI2bng5cWt0SFcyYS1zOHJIN2Z3OVMtTVB3MFZIR294WW1TQnFTTTVfLXNQdUo5c3pkV3FpSFFoM0lNb1lNbnFhOE45cmE1Snc1QkZWSElB?oc=5",
   "published": "Tue, 01 Sep 2026 02:52:37 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
+  "published": "Fri, 28 Aug 2026 15:29:37 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -121,9 +132,31 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Cobalt prices steady; DRC may cut quota amid su... - Pluang",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5",
+  "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdE9oS2ItTTBjQnZJSzlDRGVVa3YtMmZUamptWi10NWZYWkowV3dZLUhLcVlFZlg0Z0w1eFVXOXVWbUJKMzh2OTB0eHJtZWlndjJhcXh1RzlTcWpKMTVrT2UzSlBZNk41ekRrOFczSU4zcVZ3UmJodG0xRmNkdUtQNG9aR3p4a3ZXNHE4OVNiY05ETjBxTzY4RXZONWRoSjhfWHZjN3hiVkw?oc=5",
   "published": "Mon, 31 Aug 2026 11:56:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia Pauses Grain Export Duty as Black Sea Exports Stall - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXY4bndQNHJ2R0hiRFg1U1dKMkpLQjRnTzMxT3hxOGxEV25UcHIxVHJ2VHppeC1oLV9LSlhPRTVZQTlueVJnZHI2YnVxQVRVSVNBdTVNMlo2SVZwMExPamtmTTlQRGw0UnloZEFScW84UU84eXh6eE5IOXdaX2sySVdHSm1fZS1jSDZFQUstNHctWHd4VHlLYkt5RVhDeEQ3Rk9JOGZHOUhUUQ?oc=5",
+  "published": "Wed, 02 Sep 2026 10:51:29 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -143,31 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Latvia and Lithuania weigh closing ports to Russian grain exports - Baird Maritime",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWXN1dXFwWU1zanBzTE1PMVFNTUJXNGVxRzNDS2Vuel9JUktnY2FVWWtGSjE0RUd0SXNtZmsxUUd2V0JFMEF1TzhSQ2JaOU9FTXlQSEU2eGs5aVF6ZnlVMkVpTUVzdlIwYzFNN3VtcWxzY3liSWlvSlJUTVcyYkY3ODA3M3hQU1JuQjNEZ3VxUzJyQW5CWlBtLXZ3Y1RHLWJ6LUFPcmRFUjFBYUFlbjBUQ1ZCcG15YzgxSjBwb3FOTdIBzAFBVV95cUxOU2ttRjNhMDFQMi1ySGtXRXFuMmtCUE5uVTlwUFowMndHMXp5WW95bzZEd0o1amVUWnBtMlZaV1Q4Y2Q1Q2dEcHhxZkdTSDY1UzZTM3lMT004ZVVqLXdGQVFVVU8wNmlYdng0UzBYbGkzVjU5eXZmei00ZzhuU3RRRV9RNVBrTURYdkI2VkRELXQ3dEVpS2VBMnk1N2FXeUI1MGthRi1oTnVmZ3ZrbmRBNVlSdVdRSEVnMmlaYnBaeW1HckZUZzJDN2hqUlk?oc=5",
-  "published": "Fri, 04 Sep 2026 18:21:03 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russian Wheat Exports Rise in Price as Black Sea Supplies Dwindle - maritimeprofessional.com",
   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3VkNEo0Yl9Vd2NiOER6aFNUcXcxcTFLUjQ2WndKNUJWNkViWmxPSTU2eTR0Q2lLUERmdjV3S09ZM2JXM0tBaGczSlBGVk9pOW5oSU5QVWlwOE8xblhHeDd2Y3V0QUdVUEpNT09OZjlYM01jSTJGVVBxcXZ2TE1yV21ndzlLYmct0gGOAUFVX3lxTE5hMlNfWnBzRjgyUmpOenZ3TTYwSGpVZVlSVkotNHp0RXMyZG1OVXpaWGZELVlhdUxGdEQtWk1nOEo2azh0c0toOXdBRXhheXZ1SkNfNVpCVGUwS2M4VVREYmlxZGVnU2J6ZUVDR3dwVHhIYnRnM3FaUVdidnNkUTJUM0VHMEZzZGFXSDFNcVE?oc=5",
   "published": "Mon, 31 Aug 2026 17:40:34 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "What Russia's Renewed Black Sea Blockade Means for Ukrainian Farmers and Global Grain Supplies - RANE Worldview",
-  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYVJHYXpmb18yOVd1OURfY3YzNmp2VFhHUzEtTmdDOWVaZnRxRjNkZXIxTEM2anZndWRHcm1qcmE5UFFraDQ3ZVV5VXpaaGNMUHE1N0t5d00wSEdiQXM4djItd2ZFbVI5Y3dzQkpsTEIxckllN1VWNkp4MEZHb0F4REI0N0VYUkd6aFFzV3hpcjFpekpIajZrMWVJd0RZbGVKT2JrRWdtZWdlSDlUZ3RYZ2E2N3oxOHcxSFplbVAwRkE4aFp3Wkk0UGFfV3lWeEJVS0wzYTE2NGZKZ1FlVElyWnZsUlBubWF3OGJraw?oc=5",
-  "published": "Wed, 02 Sep 2026 19:35:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
