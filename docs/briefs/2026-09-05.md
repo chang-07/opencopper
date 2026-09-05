@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 - EnergyNow.com
-*Fri, 04 Sep 2026 15:04:25 GMT* — [source](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5)
+## Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ
+*Tue, 01 Sep 2026 12:57:00 GMT* — [source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,13 +21,13 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_9 corroborating headline(s):_
-- [Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5)
+_8 corroborating headline(s):_
 - [US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance](https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5)
+- [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
 - [Mideast oil-producing nations scramble for pipeline alternatives to Hormuz - Nikkei Asia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUlZMHNQZXRqZ3BZektUbEwtSGlVZWh0REJ1QXVwSU8yci1rcHhhOTFWUnRldDFiTC1CNmVmYUltYXRxVkpmRkowUlF5a2dZcGRic3hQR0I0ck84TkEya1VVdWdmbHpObUU0dUNGQUQ1dkt0dy1aUDY1LXpGemhUZXMwckNsVXVITUx6QTQ4Um1IV3AxZ2dGVU1kQ0E5aTRrN2JkTF9mTW5rMTNsd1NPakxYZmVGRE9hb2ZTd3RKTm9fS1NUQ01kalU3VQ?oc=5)
-- …and 6 more
+- …and 5 more
 
-## Russian grain exports shift to Baltic as Black Sea trade disrupted - reuters.com
+## Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters
 *Mon, 31 Aug 2026 11:56:00 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdE9oS2ItTTBjQnZJSzlDRGVVa3YtMmZUamptWi10NWZYWkowV3dZLUhLcVlFZlg0Z0w1eFVXOXVWbUJKMzh2OTB0eHJtZWlndjJhcXh1RzlTcWpKMTVrT2UzSlBZNk41ekRrOFczSU4zcVZ3UmJodG0xRmNkdUtQNG9aR3p4a3ZXNHE4OVNiY05ETjBxTzY4RXZONWRoSjhfWHZjN3hiVkw?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
@@ -44,9 +44,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _5 corroborating headline(s):_
+- [Global food prices hit their highest level since 2022 as Russia-Ukraine war disrupts wheat exports - Anadolu Ajansı](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZVlnNzM4Q0xPQ3hOUlZXbXVkczJaX29VbVczZVM3N0xlOE9aeEcyUDE4QUNIYXJJVzRmUTJPdnFJRF9NMC13aWY4eTF4WkZ4Q3A0dHJhN2tZekZfamtraGpqSEdtb1FhUWRKZ1ZEMThVaHNlNDJLZ09hVklkMGl0SGgwLUJqYTdCcU9BMktYNlFCdG5XUHU3by1JOGJFbGpSck5NRXp0a2NldWY3V3JUbi1ES0tKc245MzdtT2llR0FVR1B6OEdxUmREaUJFZVpDM0FFUExn?oc=5)
 - [Russia Pauses Grain Export Duty as Black Sea Exports Stall - Bloomberg.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXY4bndQNHJ2R0hiRFg1U1dKMkpLQjRnTzMxT3hxOGxEV25UcHIxVHJ2VHppeC1oLV9LSlhPRTVZQTlueVJnZHI2YnVxQVRVSVNBdTVNMlo2SVZwMExPamtmTTlQRGw0UnloZEFScW84UU84eXh6eE5IOXdaX2sySVdHSm1fZS1jSDZFQUstNHctWHd4VHlLYkt5RVhDeEQ3Rk9JOGZHOUhUUQ?oc=5)
 - [Russian Black Sea attacks, low Danube waters push EU to seek alternative routes for Ukrainian grain exports - Euromaidan Press](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xN0pLbGNvSDBicW5PcVFDUFVyNEVXbWktRWJ2MmlVeXB6anhtYWxOQjBUb2dKV1hsM3NhSzNUUW9Uc3UxVkxXd0ZNaUYyUHBnS3IzQVNDdjlZZzR4dkF3QlluQ0dKcnZtdzBqeC1CNWZ2YnNFUGRpX3VXQQ?oc=5)
-- [Russian Wheat Exports Rise in Price as Black Sea Supplies Dwindle - maritimeprofessional.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3VkNEo0Yl9Vd2NiOER6aFNUcXcxcTFLUjQ2WndKNUJWNkViWmxPSTU2eTR0Q2lLUERmdjV3S09ZM2JXM0tBaGczSlBGVk9pOW5oSU5QVWlwOE8xblhHeDd2Y3V0QUdVUEpNT09OZjlYM01jSTJGVVBxcXZ2TE1yV21ndzlLYmct0gGOAUFVX3lxTE5hMlNfWnBzRjgyUmpOenZ3TTYwSGpVZVlSVkotNHp0RXMyZG1OVXpaWGZELVlhdUxGdEQtWk1nOEo2azh0c0toOXdBRXhheXZ1SkNfNVpCVGUwS2M4VVREYmlxZGVnU2J6ZUVDR3dwVHhIYnRnM3FaUVdidnNkUTJUM0VHMEZzZGFXSDFNcVE?oc=5)
 - …and 2 more
 
 ---
