@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance
-*Wed, 02 Sep 2026 14:01:07 GMT* — [source](https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5)
+## Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com
+*Sat, 05 Sep 2026 08:12:33 GMT* — [source](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,13 +21,13 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
+_9 corroborating headline(s):_
+- [US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance](https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5)
 - [Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5)
-- [Mideast oil-producing nations scramble for pipeline alternatives to Hormuz - Nikkei Asia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUlZMHNQZXRqZ3BZektUbEwtSGlVZWh0REJ1QXVwSU8yci1rcHhhOTFWUnRldDFiTC1CNmVmYUltYXRxVkpmRkowUlF5a2dZcGRic3hQR0I0ck84TkEya1VVdWdmbHpObUU0dUNGQUQ1dkt0dy1aUDY1LXpGemhUZXMwckNsVXVITUx6QTQ4Um1IV3AxZ2dGVU1kQ0E5aTRrN2JkTF9mTW5rMTNsd1NPakxYZmVGRE9hb2ZTd3RKTm9fS1NUQ01kalU3VQ?oc=5)
-- [The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - Fortune](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5)
-- …and 5 more
+- [Reduce Dependence on the Strait of Hormuz, Iraq Aims to Increase Oil Export Capacity to 5 Million Barrels - VOI.ID](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpNDFELXY0anZKeGFGM0lqOXR3UmEtdXlBRy1qZnFVUnhsZUxkQlcwN3lxVm13UEdSZzNZdEx1VHhTSkw0WC1R0gFCQVVfeXFMTjUxR0dvaUpSaExNeHRmNU5RS3JsZVVvdlpqREhWLURrMW1PSUhjQ2NWRW1DRUp2am1mTnpyOTFnU1V3?oc=5)
+- …and 6 more
 
-## Cobalt prices steady; DRC may cut quota amid su... - pluang.com
+## Cobalt prices steady; DRC may cut quota amid su... - Pluang
 *Mon, 24 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
 
@@ -59,11 +59,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [Global food prices hit their highest level since 2022 as Russia-Ukraine war disrupts wheat exports - Anadolu Ajansı](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZVlnNzM4Q0xPQ3hOUlZXbXVkczJaX29VbVczZVM3N0xlOE9aeEcyUDE4QUNIYXJJVzRmUTJPdnFJRF9NMC13aWY4eTF4WkZ4Q3A0dHJhN2tZekZfamtraGpqSEdtb1FhUWRKZ1ZEMThVaHNlNDJLZ09hVklkMGl0SGgwLUJqYTdCcU9BMktYNlFCdG5XUHU3by1JOGJFbGpSck5NRXp0a2NldWY3V3JUbi1ES0tKc245MzdtT2llR0FVR1B6OEdxUmREaUJFZVpDM0FFUExn?oc=5)
 - [Russia Pauses Grain Export Duty as Black Sea Exports Stall - Bloomberg.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXY4bndQNHJ2R0hiRFg1U1dKMkpLQjRnTzMxT3hxOGxEV25UcHIxVHJ2VHppeC1oLV9LSlhPRTVZQTlueVJnZHI2YnVxQVRVSVNBdTVNMlo2SVZwMExPamtmTTlQRGw0UnloZEFScW84UU84eXh6eE5IOXdaX2sySVdHSm1fZS1jSDZFQUstNHctWHd4VHlLYkt5RVhDeEQ3Rk9JOGZHOUhUUQ?oc=5)
-- [Latvia and Lithuania seek to block grain export route used by Russia as alternative to Black Sea - Українська правда](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aNUR0UF9ZR1E1YjlvOXJQYVVfdVJJVEJacGZqTE9ra0xScVlMd1NRbWNpSUhlNWhxbDJKNlZMQXI2amlyZW5nVGJnR2ZIMHJpOGtDUmp4bVdleHBKTzk5THd5M2nSAXBBVV95cUxPaExLY24zaTBfLUd1dEhQcjdjb3o5WHhWTEtsbV94eEtEd1NKWDlPaXFqUnlXaF9fVmY1ZlROXzJnWGFXbkJJczl0VWtZQ0RsV1RyQTI3NWtSckV3YzdXY0VJbmoyRjVNQzRPRmhyWGN5?oc=5)
-- …and 3 more
+- [Russian Black Sea attacks, low Danube waters push EU to seek alternative routes for Ukrainian grain exports - Euromaidan Press](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xN0pLbGNvSDBicW5PcVFDUFVyNEVXbWktRWJ2MmlVeXB6anhtYWxOQjBUb2dKV1hsM3NhSzNUUW9Uc3UxVkxXd0ZNaUYyUHBnS3IzQVNDdjlZZzR4dkF3QlluQ0dKcnZtdzBqeC1CNWZ2YnNFUGRpX3VXQQ?oc=5)
+- …and 2 more
 
 ---
 
