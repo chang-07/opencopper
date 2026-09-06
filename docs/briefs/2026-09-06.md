@@ -24,8 +24,24 @@ band is wide, the elasticities are doing the work, not the event.
 _11 corroborating headline(s):_
 - [Iraq Raises Oil Output Capacity, Exports 3 Million bpd in September Amid Strait of Hormuz Crisis - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWlZUjBqbzIzaDU2YW1udFcyMk82LXdVaEFUbTBrUmxDbnFQT25xSVJDSjVuMGpMemdISXZWdGhjYXo4RlRScjNFdFQ5VnI0VXU2ZnB3MUlPNkwxanUzQ2R3SktJanhrRVVENnB4WHlXOWdOUkItVVVXYmZlYTFRRm1KSWhFOEZ5LWlBOXZFcEdxVkNtT3pncEZwNExfdUlJNWVLQ1pWVE1nM1V5V1E?oc=5)
 - [Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5)
-- [OPEC+ Holds October Oil Output Targets Steady as Hormuz Disruption Limits Its Sway - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kaWs3VENDZXB0ZDBKTTFTWUtub1pzZ0tCbnpWTXhMdTNiZ3czN2VhajZfVlhLR2pjbDh6bTdxeXJvVUc4TWFXWWZXaVR1TGkzLVhHZWQtY3d6Z05CMGlaa25EQkEwSkpuQXZiVTB0UDlXbjEtTEE?oc=5)
+- [US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance](https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5)
 - …and 8 more
+
+## Cobalt prices steady; DRC may cut quota amid su... - Pluang
+*Mon, 24 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbmJzbWxrT1d4MVpaNWppXzJWajdaa2ZGYXlfYURaU3ZjMXQxQXJxUTJ1bjhHbXc3VTJyWDR3NWd3RzFscUFjeTZqLVBqWFRybkhrZU1OLWpfcmhPY0ctQmRVQ2lfQUlOcF8tdE5nek1MYm5JSnRTejFndw?oc=5)
+Rule: cobalt / Congo (Kinshasa) / severity prior +40%
+
+```
+CROSS-COMMODITY RIPPLE — Congo (Kinshasa) cobalt -40% (prior)
+commodity    channel       via                          price Δ
+----------------------------------------------------------------
+cobalt       direct        Congo (Kinshasa)          ≥     +300%  [+90..+300%]
+
+One first-order round through data/seed/linkages.yaml (byproduct /
+substitution / input-cost); couplings are disputable seed-estimates.
+[..] = the same shock across the seeded elasticity RANGES — when the
+band is wide, the elasticities are doing the work, not the event.
+```
 
 ## Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters
 *Mon, 31 Aug 2026 11:56:00 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdE9oS2ItTTBjQnZJSzlDRGVVa3YtMmZUamptWi10NWZYWkowV3dZLUhLcVlFZlg0Z0w1eFVXOXVWbUJKMzh2OTB0eHJtZWlndjJhcXh1RzlTcWpKMTVrT2UzSlBZNk41ekRrOFczSU4zcVZ3UmJodG0xRmNkdUtQNG9aR3p4a3ZXNHE4OVNiY05ETjBxTzY4RXZONWRoSjhfWHZjN3hiVkw?oc=5)
