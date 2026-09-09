@@ -88,9 +88,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5",
-  "published": "Wed, 02 Sep 2026 14:01:07 GMT",
+  "headline": "OPEC+ set to hold output steady amid Hormuz disruption - middle-east-online.com",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkQ4bmdOT19kVHF6ZVpjOVZEbUczcktLcTdZcGpUMHQ5em9sdGZDOTBrMVpYWnRMVXJHNl9YSWtyMmZiS3JsN0hnd0o5R3hMakV3elNFSkJFVkZ1UXFWaDJ6Q1IxV1ZRc2pYUmNQQVo5bndjRk81U1lvQkI3MFAxVUNxZ1RmV3E3aUpXdQ?oc=5",
+  "published": "Sun, 06 Sep 2026 10:38:42 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -113,6 +113,17 @@
   "headline": "Oil prices fall after Trump says Strait of Hormuz remains open - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUdpWjM4b2lPNGhsYVpYMXF6bkJxUTVmRllZUUNkZ1JMbWJBbXpvcmNXSUVRdHJuNUtIdXdFaVRIY0lZMDhvRGIzTFR2akpOUU83cElnQlB4YmpFdndQdVZmWlV5QUc1ajctTURxYklHT2ZzS1ZIZzBkYXhUel9PVTVRd0pjRFlOWjJfNDhJektxNy1nWTZzY1pkMW1mYzg0NUVXeGJTSQ?oc=5",
   "published": "Fri, 28 Aug 2026 08:33:35 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5",
+  "published": "Wed, 02 Sep 2026 14:01:07 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -187,20 +198,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Are We Misreading The Oil Demand Shock From Hormuz? - Forbes",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFBhNnRkNDE1RWtmY3BSemhKb21ZcHluZi1iOE5rMnZQM2pCWU9XRWpnMzlnNW1LcnpRMUkzei10a3JGbG82b3RQdml0MEhZdVoydXJoSGg0bDFVY3ozYmNrRERIdkx2UTllcWsycHNJbUh0ZnFTaS1lY1ZKSWd1Um90TmFfa2plNVd3aWNQNUtZaDN6MXFfOVhCZlg5ZnhwMkZJeXZR?oc=5",
-  "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdE9oS2ItTTBjQnZJSzlDRGVVa3YtMmZUamptWi10NWZYWkowV3dZLUhLcVlFZlg0Z0w1eFVXOXVWbUJKMzh2OTB0eHJtZWlndjJhcXh1RzlTcWpKMTVrT2UzSlBZNk41ekRrOFczSU4zcVZ3UmJodG0xRmNkdUtQNG9aR3p4a3ZXNHE4OVNiY05ETjBxTzY4RXZONWRoSjhfWHZjN3hiVkw?oc=5",
   "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Sovecon cuts Russia 2026/27 grain export forecast on Black Sea disruption - marketscreener.com",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnlUdFJaZ2VCMFlXZWRlZFZuV1BrYm4wTFQ1WE9OT01CRHZKVzZtbzNLQm16ckNxYjZSTmhmaVVrTlhrRXE4U3Mxek4tNjNFU2g1Qnlsc2xCRjZrR3FaVUlIVXZlV2d3OVNLZEI1SXpXN2ZpMkRKYWdZOXNDWmVOMHJOM0NTQVRfYU1GTFVncTRORlZwWnFlVS0zWjFWSWNLSjNhdXpRN1R3U0tGV1dTVHY4Y3hIbXF4bVhPLWtoZUVOMmct?oc=5",
+  "published": "Wed, 09 Sep 2026 13:02:45 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",

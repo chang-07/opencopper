@@ -43,6 +43,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
+_1 corroborating headline(s):_
+- [Sovecon cuts Russia 2026/27 grain export forecast on Black Sea disruption - marketscreener.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnlUdFJaZ2VCMFlXZWRlZFZuV1BrYm4wTFQ1WE9OT01CRHZKVzZtbzNLQm16ckNxYjZSTmhmaVVrTlhrRXE4U3Mxek4tNjNFU2g1Qnlsc2xCRjZrR3FaVUlIVXZlV2d3OVNLZEI1SXpXN2ZpMkRKYWdZOXNDWmVOMHJOM0NTQVRfYU1GTFVncTRORlZwWnFlVS0zWjFWSWNLSjNhdXpRN1R3U0tGV1dTVHY4Y3hIbXF4bVhPLWtoZUVOMmct?oc=5)
+
 ---
 
 ## Scorecard
