@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Global Energy Security at Risk if Strait of Hormuz Does Not Open in Weeks, IEA Chief Says - EnergyNow.com
-*Wed, 09 Sep 2026 13:24:06 GMT* — [source](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDBFZVBWX0NZcWtPdmRsdmxyT3p4ZUJ2T1RYMTl1c1VwaDVVQ2NaMFp5ZFJnQmc4U21ZUXhXNXpPQzZ0eFB4UDBYaVFCU1k0MFRwVG14U0w1TGViMGJINmpYZi12QXUweU5yZmVIaFZZcGRvVnBlWlp2cXRYNlI2dy1feWltQW1Vd1l5bE1ob3g3YkwxbnR5RUN6MF9JNXd4eFgtV2dwS3JKM0x0T0w2SkJBMXBwWC0tcjNr?oc=5)
+## Iraq boosts oil production capacity to three million bpd amid Strait of Hormuz attacks - thenationalnews.com
+*Sun, 06 Sep 2026 11:00:21 GMT* — [source](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVFBRHdSZXlGOFlJZnliWlhBTjE2SFZJdXl0RmwxOUFDdWstaVpBS29XTFJsRC1pODRFb2NmT0U0WXFSZzVOU3VhcVJOWGdzTjJDcjlCd1dYMlFIVkJrQUhKMlB0V3VnVXByZ202ajk3UVZjUjNtRW9sNWVMbnUwcTd6UXJ3bTRxbE4xMUR6dEx3ckhSMjYwVHVQRE8xS0hsTjk0cEtJTXZqM3h5TVFJNHctSGJQdjFBVjNkb19yZVNHSjJHd0tkN09aRjlzMEtaTk1oZm5aeGtlQVNYeDBn?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _11 corroborating headline(s):_
-- [Iraq boosts oil production capacity to three million bpd amid Strait of Hormuz attacks - thenationalnews.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVFBRHdSZXlGOFlJZnliWlhBTjE2SFZJdXl0RmwxOUFDdWstaVpBS29XTFJsRC1pODRFb2NmT0U0WXFSZzVOU3VhcVJOWGdzTjJDcjlCd1dYMlFIVkJrQUhKMlB0V3VnVXByZ202ajk3UVZjUjNtRW9sNWVMbnUwcTd6UXJ3bTRxbE4xMUR6dEx3ckhSMjYwVHVQRE8xS0hsTjk0cEtJTXZqM3h5TVFJNHctSGJQdjFBVjNkb19yZVNHSjJHd0tkN09aRjlzMEtaTk1oZm5aeGtlQVNYeDBn?oc=5)
+- [UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5)
 - [Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz - PBS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnRWSTAzR3R1bWNOYUlFbC12M3pENWFESjZQaGtFbThpdVZGV0dHRzVrRGthN3BDandiaVFKWGR1RndvbzBCb3puLVFlc2IyX1hpVWRFQmlRQURQejVNTFMyX2lOMElxQ1RmN2h4XzA1UUFCbHl1WF9SNWJkSTdJZVMxVjV4MDVaRGUxam9MSC1Ga2ZVUmx4ZE1YZWF2Nk5TREJjd3hyRGd4amNpamFRNE1vYzlTQdIBuwFBVV95cUxOZW5HQzlaUDRkN2syOGlqa3JGYXZjUlgxYW9OS2VTdHVJYkVxNktCME1fUFRRMEhUVV9qSWg2b3pWaXA1N0V1UnZ0NWhiUzdyRFpsanZqNVpfSlFESU55cDA5a0Q0RFlpejFnV2N0QWFERFB4dnQ1U3lqbHRZdVpFeV91Z284Vkc3QkxVbDRIaHdEVWxveE0xT3dGSVU3WG1XRmdzdGRtbFpGbEwwWGc3SDNfUTh5QjNxeks4?oc=5)
-- [OPEC+ holds October oil quotas amid Hormuz disruption - Nation Thailand](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNYjZJQkVXUTlOYVI3Q1MydE5NckRPMVZTQ3B1ZFVqTmxTR1ZPbUx1SW1qZUYwMUxLOVNEOGlzbFNjUFdudURqWVh5aHc5bjZxaWhJU1VwN19TZXc2T0xZ?oc=5)
+- [The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - Fortune](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5)
 - …and 8 more
 
 ## Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters
