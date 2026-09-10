@@ -99,31 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ Holds October Oil Production at September Levels Amid Strait of Hormuz Disruptions - BBN Times",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUpLX2oyOVFSQU0waFpzX1ZQc0dVVkJIVXVXLXdfeHpwN1BfLUthZXc0QTZSUzBuQ0JEeTdpV0VvRklNbUVwX2dpcVJYbVBwZllDLWRiSGZ5UUNWU01NU3pZTmE5c0k3Z3NFSjBKNHJWaGhZa2poSHpoaUFua29XVHVCbmhReTNsU3R4dExvQVlTNGJHMDZjTVF1MzdZUDJ6ODJjX3pONGxTRTdGelJlNHd4UjlReWFkUnhRMzAzUQ?oc=5",
-  "published": "Sun, 06 Sep 2026 22:22:16 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 - EnergyNow.com",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
   "published": "Tue, 08 Sep 2026 18:04:43 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
-  "published": "Fri, 28 Aug 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -143,9 +121,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5",
-  "published": "Mon, 07 Sep 2026 16:26:07 GMT",
+  "headline": "Oil ticks higher after fresh U.S.-Iran attacks in Strait of Hormuz - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlZsOEFYNjlWZlVBSXN0c2NCVkRPMGN3V0NvYW1mWEhDT1JiNmVwaTdBdUJwTnhNWlRGZ19ndjUybU1zWVZjazRTS2ZOSzhBQVZwaWVsNnFBcEZKdFpIVjdHeFoySnEtNmhLM1FCMzB4MWVpQWhyZWcwcHZobUpNdFBCUVJlSmV0b1lnc0FPc3NoeldpX2lzbkJicUZfZFhOVWtQTExfZ1Q5ZlpxVW5vWjlTUjdCbko5UzhEYXpRSm45UQ?oc=5",
+  "published": "Mon, 07 Sep 2026 01:33:23 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
