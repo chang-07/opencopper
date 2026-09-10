@@ -44,17 +44,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq Raises Oil Output Capacity, Exports 3 Million bpd in September Amid Strait of Hormuz Crisis - News and Statistics - IndexBox",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWlZUjBqbzIzaDU2YW1udFcyMk82LXdVaEFUbTBrUmxDbnFQT25xSVJDSjVuMGpMemdISXZWdGhjYXo4RlRScjNFdFQ5VnI0VXU2ZnB3MUlPNkwxanUzQ2R3SktJanhrRVVENnB4WHlXOWdOUkItVVVXYmZlYTFRRm1KSWhFOEZ5LWlBOXZFcEdxVkNtT3pncEZwNExfdUlJNWVLQ1pWVE1nM1V5V1E?oc=5",
-  "published": "Sun, 06 Sep 2026 13:20:32 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - Fortune",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5",
   "published": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -88,18 +77,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ set to hold output steady amid Hormuz disruption - middle-east-online.com",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkQ4bmdOT19kVHF6ZVpjOVZEbUczcktLcTdZcGpUMHQ5em9sdGZDOTBrMVpYWnRMVXJHNl9YSWtyMmZiS3JsN0hnd0o5R3hMakV3elNFSkJFVkZ1UXFWaDJ6Q1IxV1ZRc2pYUmNQQVo5bndjRk81U1lvQkI3MFAxVUNxZ1RmV3E3aUpXdQ?oc=5",
-  "published": "Sun, 06 Sep 2026 10:38:42 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil prices fall after Trump says Strait of Hormuz remains open - aa.com.tr",
+  "headline": "Oil prices fall after Trump says Strait of Hormuz remains open - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUdpWjM4b2lPNGhsYVpYMXF6bkJxUTVmRllZUUNkZ1JMbWJBbXpvcmNXSUVRdHJuNUtIdXdFaVRIY0lZMDhvRGIzTFR2akpOUU83cElnQlB4YmpFdndQdVZmWlV5QUc1ajctTURxYklHT2ZzS1ZIZzBkYXhUel9PVTVRd0pjRFlOWjJfNDhJektxNy1nWTZzY1pkMW1mYzg0NUVXeGJTSQ?oc=5",
   "published": "Fri, 28 Aug 2026 08:33:35 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -121,17 +99,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Gulf countries seek new routes for 'black gold' to free themselves from the Strait of Hormuz - Le Monde.fr",
-  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVjJYMXZ2M2U2NEQwdTlwbnNaVFN1VWhtX3gwVmNtRUZIU3BnaU9OclVnc29vQXNoUlJLdXNEMm92X3Y2bVJRUGxhU2ItRkdHNHIwZXpENFdRM3k5TTFIUVB6SDNpdklNNjFBXzE5NnFkRXJaRW55Y19tV182dDNFUlpya1BYWnRIYWg5T01YaFpTMk92VjNHRDhrUjJCb2l1eXozcUFfdzBLeGw3VThUSVJJUGpxSDdLR3o5dXZsS1FaT0s1bndUNjZ3d3FPM0dHYmszams1SDI2aGs2RVFWbGk2YTZJRHVvb3NmQ3NHNkI2QQ?oc=5",
-  "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC+ Holds October Oil Production at September Levels Amid Strait of Hormuz Disruptions - BBN Times",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUpLX2oyOVFSQU0waFpzX1ZQc0dVVkJIVXVXLXdfeHpwN1BfLUthZXc0QTZSUzBuQ0JEeTdpV0VvRklNbUVwX2dpcVJYbVBwZllDLWRiSGZ5UUNWU01NU3pZTmE5c0k3Z3NFSjBKNHJWaGhZa2poSHpoaUFua29XVHVCbmhReTNsU3R4dExvQVlTNGJHMDZjTVF1MzdZUDJ6ODJjX3pONGxTRTdGelJlNHd4UjlReWFkUnhRMzAzUQ?oc=5",
   "published": "Sun, 06 Sep 2026 22:22:16 GMT",
@@ -143,20 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
-  "published": "Sat, 05 Sep 2026 08:12:33 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "OPEC+ Keeps October Oil Output Targets Unchanged Amid Hormuz Disruption - finance.biggo.com",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kaWs3VENDZXB0ZDBKTTFTWUtub1pzZ0tCbnpWTXhMdTNiZ3czN2VhajZfVlhLR2pjbDh6bTdxeXJvVUc4TWFXWWZXaVR1TGkzLVhHZWQtY3d6Z05CMGlaa25EQkEwSkpuQXZiVTB0UDlXbjEtTEE?oc=5",
-  "published": "Sun, 06 Sep 2026 12:55:00 GMT",
+  "headline": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
+  "published": "Tue, 08 Sep 2026 18:04:43 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -168,6 +124,17 @@
   "headline": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
   "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
+  "published": "Sat, 05 Sep 2026 08:12:33 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
