@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_11 corroborating headline(s):_
-- [UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5)
+_7 corroborating headline(s):_
 - [Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz - PBS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnRWSTAzR3R1bWNOYUlFbC12M3pENWFESjZQaGtFbThpdVZGV0dHRzVrRGthN3BDandiaVFKWGR1RndvbzBCb3puLVFlc2IyX1hpVWRFQmlRQURQejVNTFMyX2lOMElxQ1RmN2h4XzA1UUFCbHl1WF9SNWJkSTdJZVMxVjV4MDVaRGUxam9MSC1Ga2ZVUmx4ZE1YZWF2Nk5TREJjd3hyRGd4amNpamFRNE1vYzlTQdIBuwFBVV95cUxOZW5HQzlaUDRkN2syOGlqa3JGYXZjUlgxYW9OS2VTdHVJYkVxNktCME1fUFRRMEhUVV9qSWg2b3pWaXA1N0V1UnZ0NWhiUzdyRFpsanZqNVpfSlFESU55cDA5a0Q0RFlpejFnV2N0QWFERFB4dnQ1U3lqbHRZdVpFeV91Z284Vkc3QkxVbDRIaHdEVWxveE0xT3dGSVU3WG1XRmdzdGRtbFpGbEwwWGc3SDNfUTh5QjNxeks4?oc=5)
-- [The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - Fortune](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5)
-- …and 8 more
+- [Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5)
+- [The Strait of Hormuz crisis threatened Asia's oil and gas lifeline. Here's how the region is rewriting its energy playbook - fortune.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhCVlVlUTU5N29RSU9Qb2puLVZJR19kSlhUNC0xMkFGTDBvaWhoZG8yVTJ5NWQybXlXZllsS3Roa2tlSmNkR1ppUXBiT08wamhkYXpPLVkxdU5VdE41Zmo3WWJ5ZGl5eVJ2SlZDTnl2TjJKWm53Z013dE41ZUZ3LUZqSjlVQzhReUE?oc=5)
+- …and 4 more
 
 ## Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters
 *Mon, 31 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdE9oS2ItTTBjQnZJSzlDRGVVa3YtMmZUamptWi10NWZYWkowV3dZLUhLcVlFZlg0Z0w1eFVXOXVWbUJKMzh2OTB0eHJtZWlndjJhcXh1RzlTcWpKMTVrT2UzSlBZNk41ekRrOFczSU4zcVZ3UmJodG0xRmNkdUtQNG9aR3p4a3ZXNHE4OVNiY05ETjBxTzY4RXZONWRoSjhfWHZjN3hiVkw?oc=5)
