@@ -1,8 +1,8 @@
 [
  {
-  "headline": "Iraq boosts oil production capacity to three million bpd amid Strait of Hormuz attacks - thenationalnews.com",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVFBRHdSZXlGOFlJZnliWlhBTjE2SFZJdXl0RmwxOUFDdWstaVpBS29XTFJsRC1pODRFb2NmT0U0WXFSZzVOU3VhcVJOWGdzTjJDcjlCd1dYMlFIVkJrQUhKMlB0V3VnVXByZ202ajk3UVZjUjNtRW9sNWVMbnUwcTd6UXJ3bTRxbE4xMUR6dEx3ckhSMjYwVHVQRE8xS0hsTjk0cEtJTXZqM3h5TVFJNHctSGJQdjFBVjNkb19yZVNHSjJHd0tkN09aRjlzMEtaTk1oZm5aeGtlQVNYeDBn?oc=5",
-  "published": "Sun, 06 Sep 2026 11:00:21 GMT",
+  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
+  "published": "Fri, 11 Sep 2026 17:19:32 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
-  "published": "Sat, 05 Sep 2026 08:12:33 GMT",
+  "headline": "Iraq boosts oil production capacity to three million bpd amid Strait of Hormuz attacks - thenationalnews.com",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVFBRHdSZXlGOFlJZnliWlhBTjE2SFZJdXl0RmwxOUFDdWstaVpBS29XTFJsRC1pODRFb2NmT0U0WXFSZzVOU3VhcVJOWGdzTjJDcjlCd1dYMlFIVkJrQUhKMlB0V3VnVXByZ202ajk3UVZjUjNtRW9sNWVMbnUwcTd6UXJ3bTRxbE4xMUR6dEx3ckhSMjYwVHVQRE8xS0hsTjk0cEtJTXZqM3h5TVFJNHctSGJQdjFBVjNkb19yZVNHSjJHd0tkN09aRjlzMEtaTk1oZm5aeGtlQVNYeDBn?oc=5",
+  "published": "Sun, 06 Sep 2026 11:00:21 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -66,9 +66,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters",
+  "headline": "Russian grain exports shift to Baltic as Black Sea trade disrupted - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdE9oS2ItTTBjQnZJSzlDRGVVa3YtMmZUamptWi10NWZYWkowV3dZLUhLcVlFZlg0Z0w1eFVXOXVWbUJKMzh2OTB0eHJtZWlndjJhcXh1RzlTcWpKMTVrT2UzSlBZNk41ekRrOFczSU4zcVZ3UmJodG0xRmNkdUtQNG9aR3p4a3ZXNHE4OVNiY05ETjBxTzY4RXZONWRoSjhfWHZjN3hiVkw?oc=5",
   "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia's seaborne grain exports see steep August decline, port disruptions to blame - Baird Maritime",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMk5qSi1YTjdCZDFBMnh0MExRMmNoOXE3RjJkd1A2MnpwSDhMLVpRMVlYRHFKc09kSVhUdkFIbjdFWThsdlR0MlV3cGc5RW02OHo3T3RHdi1fV00yYXZlMHpaQTBveTR3dkNKb0lkaE5vblVPNjg3b2FRX204SVNWWHJhdTRSS3Zqc2dPNnVsTDRYVUpxeF9SVEYtdkpiMUNEajRwaF83QjNsR2ZHRjVhWGxNeVVPR0Vwd29LVHROcEFmOXh0NDVmYkFQRnRGbU5PcGJratIB4gFBVV95cUxNZ1ZlU0dJWFowWnpmY1pnMXFGY0NBZTgxYVpSc3B4c2hPQVJBZEZETUEwdm9RSGFfSXhENlJrSFFDc2xhWTZpbGdfU3RIRnVJc1Y4b1A0cUNYem5Mb3E5YWc1XzNucnF0NjBVSjdFaFJrR3VnbzlnenpQdzEzTWhKMkFDTURoNUNrSkhHdTNhSTBRbFlNMlBkS3NpYWxxVldoNGVrWDVCd0RuMlpiLWt2QkZIeVE4NUVvVTVVc2lpVFJKLVJ3dzhXU1FXUzNJUmVOS0dRcndXTTdBSmJSUVRidGhn?oc=5",
+  "published": "Fri, 11 Sep 2026 17:31:32 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
