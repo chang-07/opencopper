@@ -21,10 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5)
 - [Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5)
 - [US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance](https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5)
+- …and 2 more
 
 ## Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters
 *Mon, 31 Aug 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdE9oS2ItTTBjQnZJSzlDRGVVa3YtMmZUamptWi10NWZYWkowV3dZLUhLcVlFZlg0Z0w1eFVXOXVWbUJKMzh2OTB0eHJtZWlndjJhcXh1RzlTcWpKMTVrT2UzSlBZNk41ekRrOFczSU4zcVZ3UmJodG0xRmNkdUtQNG9aR3p4a3ZXNHE4OVNiY05ETjBxTzY4RXZONWRoSjhfWHZjN3hiVkw?oc=5)

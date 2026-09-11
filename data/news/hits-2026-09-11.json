@@ -35,7 +35,29 @@
  {
   "headline": "US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5",
-  "published": "Wed, 02 Sep 2026 14:01:07 GMT",
+  "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "OPEC+ Holds October Oil Production at September Levels Amid Strait of Hormuz Disruptions - BBN Times",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUpLX2oyOVFSQU0waFpzX1ZQc0dVVkJIVXVXLXdfeHpwN1BfLUthZXc0QTZSUzBuQ0JEeTdpV0VvRklNbUVwX2dpcVJYbVBwZllDLWRiSGZ5UUNWU01NU3pZTmE5c0k3Z3NFSjBKNHJWaGhZa2poSHpoaUFua29XVHVCbmhReTNsU3R4dExvQVlTNGJHMDZjTVF1MzdZUDJ6ODJjX3pONGxTRTdGelJlNHd4UjlReWFkUnhRMzAzUQ?oc=5",
+  "published": "Sun, 06 Sep 2026 22:22:16 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5",
+  "published": "Mon, 07 Sep 2026 16:26:07 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
