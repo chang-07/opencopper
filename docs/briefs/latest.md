@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Gulf states scramble for Strait of Hormuz alternatives - DW.com
-*Fri, 11 Sep 2026 05:14:12 GMT* — [source](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTU2bFdTbGFPUHoyLUVLbHlMRFRlZHdXeEtIODg0dEVjMFduOGwwYjNKSlRVUjNWaFUwY1pxaWR3S3BjNHpIMk8wemF6OFhyTmd5Y0hBem1sWmFybkFzNG5WbmFWZXdIUExQa21UcjdWVl96YnYtV09zakgtekJ3djFPeDFaZUZVdUJIZjdIN1R5a2sxWG1Odjh1TjEyN1VDX0wyNFE2WllRUko3STc5TjFQOWZFQdIBtgFBVV95cUxNbGthRmN4a29fM3VjdXM2QUdwNjZFY2ZQbl8zYno4aXhndDRIR2t1TjIzQlY5OThOZ3JfLWZWN3ZuazYtOGE1VkhqeVhKRzVxYVhIZHZ1RUtMRW9LMHlTcHJpQTNzeUY3cEJaMlMtZm9mcDl5Y0ZXX1l3X2FSNlR4ZWpzeWc0VWJXdTBPalF1UnZNamxlc1pDR0hGRjdyTE9hU3duNnN3a1lJRHJTV2RxYTVlMURwZw?oc=5)
+## Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com
+*Fri, 11 Sep 2026 17:19:32 GMT* — [source](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
-- [Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5)
+_7 corroborating headline(s):_
+- [Gulf states scramble for Strait of Hormuz alternatives - DW.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTU2bFdTbGFPUHoyLUVLbHlMRFRlZHdXeEtIODg0dEVjMFduOGwwYjNKSlRVUjNWaFUwY1pxaWR3S3BjNHpIMk8wemF6OFhyTmd5Y0hBem1sWmFybkFzNG5WbmFWZXdIUExQa21UcjdWVl96YnYtV09zakgtekJ3djFPeDFaZUZVdUJIZjdIN1R5a2sxWG1Odjh1TjEyN1VDX0wyNFE2WllRUko3STc5TjFQOWZFQdIBtgFBVV95cUxNbGthRmN4a29fM3VjdXM2QUdwNjZFY2ZQbl8zYno4aXhndDRIR2t1TjIzQlY5OThOZ3JfLWZWN3ZuazYtOGE1VkhqeVhKRzVxYVhIZHZ1RUtMRW9LMHlTcHJpQTNzeUY3cEJaMlMtZm9mcDl5Y0ZXX1l3X2FSNlR4ZWpzeWc0VWJXdTBPalF1UnZNamxlc1pDR0hGRjdyTE9hU3duNnN3a1lJRHJTV2RxYTVlMURwZw?oc=5)
+- [Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz - PBS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnRWSTAzR3R1bWNOYUlFbC12M3pENWFESjZQaGtFbThpdVZGV0dHRzVrRGthN3BDandiaVFKWGR1RndvbzBCb3puLVFlc2IyX1hpVWRFQmlRQURQejVNTFMyX2lOMElxQ1RmN2h4XzA1UUFCbHl1WF9SNWJkSTdJZVMxVjV4MDVaRGUxam9MSC1Ga2ZVUmx4ZE1YZWF2Nk5TREJjd3hyRGd4amNpamFRNE1vYzlTQdIBuwFBVV95cUxOZW5HQzlaUDRkN2syOGlqa3JGYXZjUlgxYW9OS2VTdHVJYkVxNktCME1fUFRRMEhUVV9qSWg2b3pWaXA1N0V1UnZ0NWhiUzdyRFpsanZqNVpfSlFESU55cDA5a0Q0RFlpejFnV2N0QWFERFB4dnQ1U3lqbHRZdVpFeV91Z284Vkc3QkxVbDRIaHdEVWxveE0xT3dGSVU3WG1XRmdzdGRtbFpGbEwwWGc3SDNfUTh5QjNxeks4?oc=5)
 - [Iraq boosts oil production capacity to three million bpd amid Strait of Hormuz attacks - thenationalnews.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVFBRHdSZXlGOFlJZnliWlhBTjE2SFZJdXl0RmwxOUFDdWstaVpBS29XTFJsRC1pODRFb2NmT0U0WXFSZzVOU3VhcVJOWGdzTjJDcjlCd1dYMlFIVkJrQUhKMlB0V3VnVXByZ202ajk3UVZjUjNtRW9sNWVMbnUwcTd6UXJ3bTRxbE4xMUR6dEx3ckhSMjYwVHVQRE8xS0hsTjk0cEtJTXZqM3h5TVFJNHctSGJQdjFBVjNkb19yZVNHSjJHd0tkN09aRjlzMEtaTk1oZm5aeGtlQVNYeDBn?oc=5)
-- [Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5)
-- …and 3 more
+- …and 4 more
 
 ## OPEC Output Slumps as Conflict Curbs Saudi Flows, Survey Shows - Bloomberg.com
 *Tue, 08 Sep 2026 13:55:49 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUd6M0t3V2hzYWtTMzhyTXVoVXpfZnZTWTdhNERFcXhaWU1XeFR1eUxXbXZBUExPaWh1eXhBQUJ4Y0FtREtDWlk5TUZWekt0V0Z5MXNXcXBTdERLRzNBMFFGMlpqcnJlUzBDeUJJeVAtUEhWQ0k0bTFObmdvM0FoVV9EUWhNZGs4a1RtRmg2S3lsR3NwT2otejg5STdmclg5RExvVldCRFE5clZJUDY0aXR3?oc=5)
