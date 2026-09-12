@@ -22,17 +22,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz - PBS",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnRWSTAzR3R1bWNOYUlFbC12M3pENWFESjZQaGtFbThpdVZGV0dHRzVrRGthN3BDandiaVFKWGR1RndvbzBCb3puLVFlc2IyX1hpVWRFQmlRQURQejVNTFMyX2lOMElxQ1RmN2h4XzA1UUFCbHl1WF9SNWJkSTdJZVMxVjV4MDVaRGUxam9MSC1Ga2ZVUmx4ZE1YZWF2Nk5TREJjd3hyRGd4amNpamFRNE1vYzlTQdIBuwFBVV95cUxOZW5HQzlaUDRkN2syOGlqa3JGYXZjUlgxYW9OS2VTdHVJYkVxNktCME1fUFRRMEhUVV9qSWg2b3pWaXA1N0V1UnZ0NWhiUzdyRFpsanZqNVpfSlFESU55cDA5a0Q0RFlpejFnV2N0QWFERFB4dnQ1U3lqbHRZdVpFeV91Z284Vkc3QkxVbDRIaHdEVWxveE0xT3dGSVU3WG1XRmdzdGRtbFpGbEwwWGc3SDNfUTh5QjNxeks4?oc=5",
-  "published": "Sun, 06 Sep 2026 17:48:51 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Iraq boosts oil production capacity to three million bpd amid Strait of Hormuz attacks - thenationalnews.com",
   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVFBRHdSZXlGOFlJZnliWlhBTjE2SFZJdXl0RmwxOUFDdWstaVpBS29XTFJsRC1pODRFb2NmT0U0WXFSZzVOU3VhcVJOWGdzTjJDcjlCd1dYMlFIVkJrQUhKMlB0V3VnVXByZ202ajk3UVZjUjNtRW9sNWVMbnUwcTd6UXJ3bTRxbE4xMUR6dEx3ckhSMjYwVHVQRE8xS0hsTjk0cEtJTXZqM3h5TVFJNHctSGJQdjFBVjNkb19yZVNHSjJHd0tkN09aRjlzMEtaTk1oZm5aeGtlQVNYeDBn?oc=5",
   "published": "Sun, 06 Sep 2026 11:00:21 GMT",
@@ -88,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Hormuz tensions flare, Brent and WTI oil prices surge more than 6% - IDNFinancials",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUFyRjk4MUZodlZSSFgtdE9ncEFkU0tKRDdXU215bUg5eHNCWFMyZWF2NDlnd0NWUzBORG84eWpJTVp2Nkg0elNXR0lXYW5OcFBOU0MtRW1nYmsxY0E1TjRnazNPTWpJaHNZQTlleDNreS1tZGwyamRHMjFmVjA2cEprdUdxSFBXOXYwcVM5aVZ4X0RhamRRX1FiRjB2dHFkcDJBanJEWHo?oc=5",
-  "published": "Fri, 11 Sep 2026 04:00:00 GMT",
+  "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5",
+  "published": "Mon, 07 Sep 2026 16:26:07 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
