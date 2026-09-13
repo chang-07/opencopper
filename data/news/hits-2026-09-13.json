@@ -108,5 +108,16 @@
   "severity": 0.15,
   "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian Wheat Exports Rise in Price as Black Sea Supplies Dwindle - maritimeprofessional.com",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3VkNEo0Yl9Vd2NiOER6aFNUcXcxcTFLUjQ2WndKNUJWNkViWmxPSTU2eTR0Q2lLUERmdjV3S09ZM2JXM0tBaGczSlBGVk9pOW5oSU5QVWlwOE8xblhHeDd2Y3V0QUdVUEpNT09OZjlYM01jSTJGVVBxcXZ2TE1yV21ndzlLYmct0gGOAUFVX3lxTE5hMlNfWnBzRjgyUmpOenZ3TTYwSGpVZVlSVkotNHp0RXMyZG1OVXpaWGZELVlhdUxGdEQtWk1nOEo2azh0c0toOXdBRXhheXZ1SkNfNVpCVGUwS2M4VVREYmlxZGVnU2J6ZUVDR3dwVHhIYnRnM3FaUVdidnNkUTJUM0VHMEZzZGFXSDFNcVE?oc=5",
+  "published": "Mon, 31 Aug 2026 17:40:34 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
  }
 ]

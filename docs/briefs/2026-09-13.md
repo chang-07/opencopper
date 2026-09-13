@@ -60,8 +60,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [Russian grain exports shift to Baltic as Black Sea trade disrupted - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdE9oS2ItTTBjQnZJSzlDRGVVa3YtMmZUamptWi10NWZYWkowV3dZLUhLcVlFZlg0Z0w1eFVXOXVWbUJKMzh2OTB0eHJtZWlndjJhcXh1RzlTcWpKMTVrT2UzSlBZNk41ekRrOFczSU4zcVZ3UmJodG0xRmNkdUtQNG9aR3p4a3ZXNHE4OVNiY05ETjBxTzY4RXZONWRoSjhfWHZjN3hiVkw?oc=5)
+- [Russian Wheat Exports Rise in Price as Black Sea Supplies Dwindle - maritimeprofessional.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3VkNEo0Yl9Vd2NiOER6aFNUcXcxcTFLUjQ2WndKNUJWNkViWmxPSTU2eTR0Q2lLUERmdjV3S09ZM2JXM0tBaGczSlBGVk9pOW5oSU5QVWlwOE8xblhHeDd2Y3V0QUdVUEpNT09OZjlYM01jSTJGVVBxcXZ2TE1yV21ndzlLYmct0gGOAUFVX3lxTE5hMlNfWnBzRjgyUmpOenZ3TTYwSGpVZVlSVkotNHp0RXMyZG1OVXpaWGZELVlhdUxGdEQtWk1nOEo2azh0c0toOXdBRXhheXZ1SkNfNVpCVGUwS2M4VVREYmlxZGVnU2J6ZUVDR3dwVHhIYnRnM3FaUVdidnNkUTJUM0VHMEZzZGFXSDFNcVE?oc=5)
 
 ---
 
