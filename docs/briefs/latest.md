@@ -21,13 +21,13 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
-- [Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - wsj.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5)
-- [US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - finance.yahoo.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5)
+_6 corroborating headline(s):_
+- [Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5)
+- [US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance](https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5)
 - [Iraq boosts oil production capacity to three million bpd amid Strait of Hormuz attacks - thenationalnews.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVFBRHdSZXlGOFlJZnliWlhBTjE2SFZJdXl0RmwxOUFDdWstaVpBS29XTFJsRC1pODRFb2NmT0U0WXFSZzVOU3VhcVJOWGdzTjJDcjlCd1dYMlFIVkJrQUhKMlB0V3VnVXByZ202ajk3UVZjUjNtRW9sNWVMbnUwcTd6UXJ3bTRxbE4xMUR6dEx3ckhSMjYwVHVQRE8xS0hsTjk0cEtJTXZqM3h5TVFJNHctSGJQdjFBVjNkb19yZVNHSjJHd0tkN09aRjlzMEtaTk1oZm5aeGtlQVNYeDBn?oc=5)
-- …and 1 more
+- …and 3 more
 
-## OPEC Output Slumps as Conflict Curbs Saudi Flows, Survey Shows - bloomberg.com
+## OPEC Output Slumps as Conflict Curbs Saudi Flows, Survey Shows - Bloomberg.com
 *Tue, 08 Sep 2026 13:55:49 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUd6M0t3V2hzYWtTMzhyTXVoVXpfZnZTWTdhNERFcXhaWU1XeFR1eUxXbXZBUExPaWh1eXhBQUJ4Y0FtREtDWlk5TUZWekt0V0Z5MXNXcXBTdERLRzNBMFFGMlpqcnJlUzBDeUJJeVAtUEhWQ0k0bTFObmdvM0FoVV9EUWhNZGs4a1RtRmg2S3lsR3NwT2otejg5STdmclg5RExvVldCRFE5clZJUDY0aXR3?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +8%
 
@@ -44,7 +44,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Russia Turns to Far East to Export Grain Amid Black Sea Strikes - bloomberg.com
+## Russia Turns to Far East to Export Grain Amid Black Sea Strikes - Bloomberg.com
 *Sat, 12 Sep 2026 08:10:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2JWMk9kTzl6X1NUakYxbGFNazYzcXE1WXpkOVBkbVpFTG5EYzV1YTVWTHZqdHIyRGR3UEtscUxrakVUejY1MXp1alpnbnlVNU96RHBOT0ZfZTJVVThrR0VtTUxxLW9XUXB0M1lFNnZ4RHdKRzZLT0VBV2xOd3NJLTZ5cTd3dTJmNFNRaEhyQ1NIcnhUbWRLVG1Id0hZOGI1RXppaUtzQlhkMUtTb25TMEctQW4?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
