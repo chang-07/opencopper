@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com
-*Sat, 12 Sep 2026 07:21:33 GMT* — [source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
+## Saudi Arabia Shuts Down Pipeline That Was a Crucial Hormuz Bypass - WSJ
+*Fri, 11 Sep 2026 20:46:00 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxPN1NjdWJTUm9QQ1h1RGVVWEY5ZTQ2ODJIMHJ1bENvcVpURFZCVHU0dUphTlUtM19OdW1ManZxaUlHLTBNTWlERDZ3cXNTM0Y5Nk1GcnFXazQyenc3dm0zT0lvcjFwY2FEdHNqOHB2YU11RjlfdUdyeUs4dDJXbUlmN2Y4d3RaV0s1YnZDRklhRXV4OVp0SnlTdnpKOTN0X0ROcEh1UFB2eVF1aEd1TDFuQWFR?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_7 corroborating headline(s):_
+- [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
 - [DW News. . Danger and uncertainty in the Strait of Hormuz have changed oil shipping. Ship-to-ship transfers are helping move millions of barrels despite the disruption. #dwbusiness - facebook.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2VCV0E0S0VXV2pPLWlOSWduN1czcGpsUE1vdEpuMGQzMXFkTm1YMGxWb3Z4S2VIdDROWm5qQ0Uwc3NBNHZpelBJaTlFcTdicVlnVEplcWdVT0cxTVJXaldNa1A5V05YMThucEtDazBXZGFrNFpld2lrd0RwZHUwSmU1R2ZFckk4MVhVT0t0SDM3dHZzcWpBMU9GYU9ER05MXzUwTkZzVVl2YUFrR2cySGJ5dzgyUW0wLTljbXBCcWV2R00tM1A5WHhjM0t6c19aYWtjNTV4a3YwdmpxYmVfeA?oc=5)
-- [Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5)
 - [US's Wright on Venezuela Oil Production, SPR, Strait of Hormuz - Yahoo Finance](https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFoWDF4NEUyaXF1OUUzSGdhUkJwRmtGUk5jZnh2UUE0MWtSMEJQcS16LVA2djg5Z2dRNGNrUXQwaE9vcmNlR0dLU0xZdW5uVzBvc2RSRGJmcGV1ZUEzM3Z4OUljUjZCdnRlb3RtX29uLUhpVGkwR1h4ZXFmQXdOenVfeVo3MXVKTXc?oc=5)
-- …and 3 more
+- …and 4 more
 
 ## OPEC Output Slumps as Conflict Curbs Saudi Flows, Survey Shows - Bloomberg.com
 *Tue, 08 Sep 2026 13:55:49 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUd6M0t3V2hzYWtTMzhyTXVoVXpfZnZTWTdhNERFcXhaWU1XeFR1eUxXbXZBUExPaWh1eXhBQUJ4Y0FtREtDWlk5TUZWekt0V0Z5MXNXcXBTdERLRzNBMFFGMlpqcnJlUzBDeUJJeVAtUEhWQ0k0bTFObmdvM0FoVV9EUWhNZGs4a1RtRmg2S3lsR3NwT2otejg5STdmclg5RExvVldCRFE5clZJUDY0aXR3?oc=5)
