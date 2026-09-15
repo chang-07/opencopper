@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
+_7 corroborating headline(s):_
 - [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
-- [Crude Oil Tugs at the $100 Threshold — Strait of Hormuz Talks Emerge as This Week's Pivotal Variable - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9BX1lGNUs1bHBHeXNLelhtbDk5UkprRmdISG9yZkhJVmcwX0NKcUoyVjNJWWR6a0ZzMC1SM0hwOHFRZTlZQVdmZV9MS211Q0RabnMxLUpkd2FLSU1UWmR2RE1yTjdDRGJNMGZ0YkN6alVVallYRXc?oc=5)
 - [DW News. . Danger and uncertainty in the Strait of Hormuz have changed oil shipping. Ship-to-ship transfers are helping move millions of barrels despite the disruption. #dwbusiness - facebook.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2VCV0E0S0VXV2pPLWlOSWduN1czcGpsUE1vdEpuMGQzMXFkTm1YMGxWb3Z4S2VIdDROWm5qQ0Uwc3NBNHZpelBJaTlFcTdicVlnVEplcWdVT0cxTVJXaldNa1A5V05YMThucEtDazBXZGFrNFpld2lrd0RwZHUwSmU1R2ZFckk4MVhVT0t0SDM3dHZzcWpBMU9GYU9ER05MXzUwTkZzVVl2YUFrR2cySGJ5dzgyUW0wLTljbXBCcWV2R00tM1A5WHhjM0t6c19aYWtjNTV4a3YwdmpxYmVfeA?oc=5)
-- …and 5 more
+- [Crude Oil Tugs at the $100 Threshold — Strait of Hormuz Talks Emerge as This Week's Pivotal Variable - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9BX1lGNUs1bHBHeXNLelhtbDk5UkprRmdISG9yZkhJVmcwX0NKcUoyVjNJWWR6a0ZzMC1SM0hwOHFRZTlZQVdmZV9MS211Q0RabnMxLUpkd2FLSU1UWmR2RE1yTjdDRGJNMGZ0YkN6alVVallYRXc?oc=5)
+- …and 4 more
 
 ## OPEC Output Slumps as Conflict Curbs Saudi Flows, Survey Shows - Bloomberg.com
 *Tue, 08 Sep 2026 13:55:49 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUd6M0t3V2hzYWtTMzhyTXVoVXpfZnZTWTdhNERFcXhaWU1XeFR1eUxXbXZBUExPaWh1eXhBQUJ4Y0FtREtDWlk5TUZWekt0V0Z5MXNXcXBTdERLRzNBMFFGMlpqcnJlUzBDeUJJeVAtUEhWQ0k0bTFObmdvM0FoVV9EUWhNZGs4a1RtRmg2S3lsR3NwT2otejg5STdmclg5RExvVldCRFE5clZJUDY0aXR3?oc=5)
@@ -59,9 +59,6 @@ substitution / input-cost); couplings are disputable seed-estimates.
 [..] = the same shock across the seeded elasticity RANGES — when the
 band is wide, the elasticities are doing the work, not the event.
 ```
-
-_1 corroborating headline(s):_
-- [Russia says grain exports keep moving via newly launched Baltic corridor - Türkiye Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3BvbnB5R1B5bDRRbnBjclMwZF8tcXRpRkZKaGlvV3lNbGFMRUZUNjRBR3RqS3ZoR0JfMHU1aGloak1raDRRNDlraGVRc3h4M0pZY3p1alZjQnJFdkc4N1BzVmF6NEc1V0NwSGNJOXE5cGpoY1NBVUZQbzkyenVWbmhPSVVRanlnRmhURFlBN3FLYkRhWG1KWUMyWEhXNEhiLUFSaHozNzdWaDQ4bFJoMHdhbTUwZkJiTFE?oc=5)
 
 ---
 
