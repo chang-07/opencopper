@@ -22,7 +22,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
+  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - energynow.com",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
   "published": "Fri, 11 Sep 2026 17:19:32 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -33,7 +33,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia is pushing more crude onto the water just as Saudi Arabia\u2019s last reliable bypass around the Strait of Hormuz goes dark. - Energy News Beat",
+  "headline": "Russia is pushing more crude onto the water just as Saudi Arabia\u2019s last reliable bypass around the Strait of Hormuz goes dark. - energynewsbeat.co",
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaDlFMjd1TFE1Mmo3TFoyb2Y5eTdfQU1iOTRaRkhRYllmeU1zdUE5TGR6TjdBcXZpVVA1TWZVcS1pSTRXOFNES00xWUs2M0x6dldLS2s3ZXFoTzVwcEFVcUlhTkNqV2cwUnZqNlRwQzZWR0Qwc3Yycjd6T21acUo5azAtVW9QYXE4bW1RSjY0Y3Nwc2pvMjlxYWFLZFZLaG54SWU1VVgyalV5WHJvVWRiS3dhRUg2bGxhenE2cXFYUzN6R0dZRU5hUzhTSmlUYi1ubklYdlAxdFRWYjBJcDVlVkszQzV1LXBYdFpMMXFzenpsS00?oc=5",
   "published": "Tue, 15 Sep 2026 16:43:39 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -88,7 +88,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Turns to Far East to Export Grain Amid Black Sea Strikes - Bloomberg.com",
+  "headline": "Russia Turns to Far East to Export Grain Amid Black Sea Strikes - Bloomberg",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2JWMk9kTzl6X1NUakYxbGFNazYzcXE1WXpkOVBkbVpFTG5EYzV1YTVWTHZqdHIyRGR3UEtscUxrakVUejY1MXp1alpnbnlVNU96RHBOT0ZfZTJVVThrR0VtTUxxLW9XUXB0M1lFNnZ4RHdKRzZLT0VBV2xOd3NJLTZ5cTd3dTJmNFNRaEhyQ1NIcnhUbWRLVG1Id0hZOGI1RXppaUtzQlhkMUtTb25TMEctQW4?oc=5",
   "published": "Sat, 12 Sep 2026 08:10:00 GMT",
   "rule_note": "",
@@ -102,6 +102,17 @@
   "headline": "Russia\u2019s Black Sea grain exports nearly grind to a halt - UkrAgroConsult",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWjEzTDE5em5BRFZDdFMxNWd5TlBmTVRmYWVucmZMLWowQ0F4T3JBUktCNzBWM2tKdDBGUEQ0bVltRDVYWFRoMWxwZW9XdERaSlF5S3FDMDJodE5YVHNGZmVnTmVSVjFWckY5T1Y4b0t0VE5aN0tQTmVPNkd2MjFiMXVtcllveHBucElGa1pVQlBaV2Mx?oc=5",
   "published": "Wed, 16 Sep 2026 05:42:09 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia Reroutes Grain Exports as Black Sea Strikes Halve Shipments - Global Agriculture",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWHVJeWpJZGlQMVA3Sk1iUGk0dDVJZksweXJqeVY0Q3NhQnRvY3VqcS1scTEzWUdvcU1ubWM5ZFkteG9lM1JLUHZQUkl1ZFR4YVNZZHRneUtEa3dIV0ppeWdyMTNMcXc4Nk1kQnQ3YnhSMFY5a1RCbkxYOVlyNXJhZlB1LVFLRVBncUFoczdhaXkzSlk1Qk5FUTNxbGpFMllhMG1nOFBLY1NJeHp6cGJiNk5lUGE0c1Q2TGJkSUFn?oc=5",
+  "published": "Wed, 16 Sep 2026 09:57:25 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
