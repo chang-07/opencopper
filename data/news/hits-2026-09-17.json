@@ -11,17 +11,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Oil Market\u2019s Escape Route Around Hormuz Is Now Under Attack - forbes.com",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb3ZOYlkzNDlvZktOX3VmUWwwaENqRXBnRTRuYzlaTW4xaEtURFFRR0hMOXNXejV4bGRReTA0ZURsTVp0Um9LSjJWZEQxM2ZBN0I2ejlxSnJJUVBKZFROWE50VVdxN2RhcWJGb3VWWml6ZmZlMUMxWnpFVnJoVzFHazVZaDJYc1RQTHptZUZjWE5hZFQtSUI2aTYxeE82d1VjVkZweWtjUk56YlUwNXpYaA?oc=5",
-  "published": "Sun, 13 Sep 2026 17:23:56 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "DW News. . Danger and uncertainty in the Strait of Hormuz have changed oil shipping. Ship-to-ship transfers are helping move millions of barrels despite the disruption. #dwbusiness - facebook.com",
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2VCV0E0S0VXV2pPLWlOSWduN1czcGpsUE1vdEpuMGQzMXFkTm1YMGxWb3Z4S2VIdDROWm5qQ0Uwc3NBNHZpelBJaTlFcTdicVlnVEplcWdVT0cxTVJXaldNa1A5V05YMThucEtDazBXZGFrNFpld2lrd0RwZHUwSmU1R2ZFckk4MVhVT0t0SDM3dHZzcWpBMU9GYU9ER05MXzUwTkZzVVl2YUFrR2cySGJ5dzgyUW0wLTljbXBCcWV2R00tM1A5WHhjM0t6c19aYWtjNTV4a3YwdmpxYmVfeA?oc=5",
   "published": "Sun, 13 Sep 2026 22:09:03 GMT",
@@ -55,31 +44,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Tugs at the $100 Threshold \u2014 Strait of Hormuz Talks Emerge as This Week's Pivotal Variable - finance.biggo.com",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BX1lGNUs1bHBHeXNLelhtbDk5UkprRmdISG9yZkhJVmcwX0NKcUoyVjNJWWR6a0ZzMC1SM0hwOHFRZTlZQVdmZV9MS211Q0RabnMxLUpkd2FLSU1UWmR2RE1yTjdDRGJNMGZ0YkN6alVVallYRXc?oc=5",
-  "published": "Mon, 14 Sep 2026 20:05:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz - PBS",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnRWSTAzR3R1bWNOYUlFbC12M3pENWFESjZQaGtFbThpdVZGV0dHRzVrRGthN3BDandiaVFKWGR1RndvbzBCb3puLVFlc2IyX1hpVWRFQmlRQURQejVNTFMyX2lOMElxQ1RmN2h4XzA1UUFCbHl1WF9SNWJkSTdJZVMxVjV4MDVaRGUxam9MSC1Ga2ZVUmx4ZE1YZWF2Nk5TREJjd3hyRGd4amNpamFRNE1vYzlTQdIBuwFBVV95cUxOZW5HQzlaUDRkN2syOGlqa3JGYXZjUlgxYW9OS2VTdHVJYkVxNktCME1fUFRRMEhUVV9qSWg2b3pWaXA1N0V1UnZ0NWhiUzdyRFpsanZqNVpfSlFESU55cDA5a0Q0RFlpejFnV2N0QWFERFB4dnQ1U3lqbHRZdVpFeV91Z284Vkc3QkxVbDRIaHdEVWxveE0xT3dGSVU3WG1XRmdzdGRtbFpGbEwwWGc3SDNfUTh5QjNxeks4?oc=5",
-  "published": "Sun, 06 Sep 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russia is pushing more crude onto the water just as Saudi Arabia\u2019s last reliable bypass around the Strait of Hormuz goes dark. - Energy News Beat",
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaDlFMjd1TFE1Mmo3TFoyb2Y5eTdfQU1iOTRaRkhRYllmeU1zdUE5TGR6TjdBcXZpVVA1TWZVcS1pSTRXOFNES00xWUs2M0x6dldLS2s3ZXFoTzVwcEFVcUlhTkNqV2cwUnZqNlRwQzZWR0Qwc3Yycjd6T21acUo5azAtVW9QYXE4bW1RSjY0Y3Nwc2pvMjlxYWFLZFZLaG54SWU1VVgyalV5WHJvVWRiS3dhRUg2bGxhenE2cXFYUzN6R0dZRU5hUzhTSmlUYi1ubklYdlAxdFRWYjBJcDVlVkszQzV1LXBYdFpMMXFzenpsS00?oc=5",
   "published": "Tue, 15 Sep 2026 16:43:39 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Crude Oil Tugs at the $100 Threshold \u2014 Strait of Hormuz Talks Emerge as This Week's Pivotal Variable - finance.biggo.com",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BX1lGNUs1bHBHeXNLelhtbDk5UkprRmdISG9yZkhJVmcwX0NKcUoyVjNJWWR6a0ZzMC1SM0hwOHFRZTlZQVdmZV9MS211Q0RabnMxLUpkd2FLSU1UWmR2RE1yTjdDRGJNMGZ0YkN6alVVallYRXc?oc=5",
+  "published": "Mon, 14 Sep 2026 20:05:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -135,17 +113,6 @@
   "headline": "Kremlin Pushes to Keep Russia\u2019s Edge as Biggest Wheat Exporter - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVEwZHhqNk1YMldGazhyUkY2VkJrR09jelRkXzItc1B5Vl9YMTJsVEdTZHFSZ3prUGV2TkRJR1M2WGV5YVNaU1lsU2czSWMyYUE3UmkzTTBkcTBDcUpHTGp6cXlNenBCZTZ6aktBNXNjVmhaeWJLSEhkbFZFYVVQOXFfS1FaVFh1WDlESVBueTAtYksyay1LeHJjb3NDLTRTVTJLN1ZSdU54eGVLUmk5NnFpWQ?oc=5",
   "published": "Wed, 16 Sep 2026 16:01:37 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Black Sea wheat exports from Ukraine and Russia have halved - logos-pres.md",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmRaMDRRMGt4LUM3MnZyazVoSG4zVVk3bVdtMWRPeTNjTzJLalRYWEw3RThIallyOUVtaFNXTmdiOVgxRE9aSzVQNGw1c0VXb1liRng4NlFLRGN4bUlEd014Mk9aU3pOc1E3VlVFT3NkU0lUT2ZpYXcwdnVfb1U4LThHaDZvb1hDZTMyZDFJTDlBNmpR?oc=5",
-  "published": "Wed, 16 Sep 2026 15:52:51 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",

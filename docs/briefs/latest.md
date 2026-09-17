@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
-- [The Oil Market’s Escape Route Around Hormuz Is Now Under Attack - forbes.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPb3ZOYlkzNDlvZktOX3VmUWwwaENqRXBnRTRuYzlaTW4xaEtURFFRR0hMOXNXejV4bGRReTA0ZURsTVp0Um9LSjJWZEQxM2ZBN0I2ejlxSnJJUVBKZFROWE50VVdxN2RhcWJGb3VWWml6ZmZlMUMxWnpFVnJoVzFHazVZaDJYc1RQTHptZUZjWE5hZFQtSUI2aTYxeE82d1VjVkZweWtjUk56YlUwNXpYaA?oc=5)
+_6 corroborating headline(s):_
 - [DW News. . Danger and uncertainty in the Strait of Hormuz have changed oil shipping. Ship-to-ship transfers are helping move millions of barrels despite the disruption. #dwbusiness - facebook.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2VCV0E0S0VXV2pPLWlOSWduN1czcGpsUE1vdEpuMGQzMXFkTm1YMGxWb3Z4S2VIdDROWm5qQ0Uwc3NBNHZpelBJaTlFcTdicVlnVEplcWdVT0cxTVJXaldNa1A5V05YMThucEtDazBXZGFrNFpld2lrd0RwZHUwSmU1R2ZFckk4MVhVT0t0SDM3dHZzcWpBMU9GYU9ER05MXzUwTkZzVVl2YUFrR2cySGJ5dzgyUW0wLTljbXBCcWV2R00tM1A5WHhjM0t6c19aYWtjNTV4a3YwdmpxYmVfeA?oc=5)
 - [Iraq seeks to diversify oil export routes away from Hormuz - IraqiNews](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVTJMS2daOXNZX2JvdndSQ2hYY29EOFYxaDhQOTFYd2hROXhlWXk2WHR0cGI3eUdCLTgtRDFMS3hyeHhwbWNrVGEycDMwR0l6ekF2SXRLdzl1a3FIbEZvUlI0REJnMkNWR3ZzWDlDRTQ5RW5OcnhmVTVfSkZWckZBNHJzMkpZbFJRRFFvVERMZjlSSXJo?oc=5)
-- …and 5 more
+- [Russia is pushing more crude onto the water just as Saudi Arabia’s last reliable bypass around the Strait of Hormuz goes dark. - Energy News Beat](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaDlFMjd1TFE1Mmo3TFoyb2Y5eTdfQU1iOTRaRkhRYllmeU1zdUE5TGR6TjdBcXZpVVA1TWZVcS1pSTRXOFNES00xWUs2M0x6dldLS2s3ZXFoTzVwcEFVcUlhTkNqV2cwUnZqNlRwQzZWR0Qwc3Yycjd6T21acUo5azAtVW9QYXE4bW1RSjY0Y3Nwc2pvMjlxYWFLZFZLaG54SWU1VVgyalV5WHJvVWRiS3dhRUg2bGxhenE2cXFYUzN6R0dZRU5hUzhTSmlUYi1ubklYdlAxdFRWYjBJcDVlVkszQzV1LXBYdFpMMXFzenpsS00?oc=5)
+- …and 3 more
 
 ## OPEC Output Slumps as Conflict Curbs Saudi Flows, Survey Shows - Bloomberg.com
 *Tue, 08 Sep 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUd6M0t3V2hzYWtTMzhyTXVoVXpfZnZTWTdhNERFcXhaWU1XeFR1eUxXbXZBUExPaWh1eXhBQUJ4Y0FtREtDWlk5TUZWekt0V0Z5MXNXcXBTdERLRzNBMFFGMlpqcnJlUzBDeUJJeVAtUEhWQ0k0bTFObmdvM0FoVV9EUWhNZGs4a1RtRmg2S3lsR3NwT2otejg5STdmclg5RExvVldCRFE5clZJUDY0aXR3?oc=5)
@@ -76,9 +76,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_1 corroborating headline(s):_
 - [Kremlin Pushes to Keep Russia’s Edge as Biggest Wheat Exporter - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVEwZHhqNk1YMldGazhyUkY2VkJrR09jelRkXzItc1B5Vl9YMTJsVEdTZHFSZ3prUGV2TkRJR1M2WGV5YVNaU1lsU2czSWMyYUE3UmkzTTBkcTBDcUpHTGp6cXlNenBCZTZ6aktBNXNjVmhaeWJLSEhkbFZFYVVQOXFfS1FaVFh1WDlESVBueTAtYksyay1LeHJjb3NDLTRTVTJLN1ZSdU54eGVLUmk5NnFpWQ?oc=5)
-- [Black Sea wheat exports from Ukraine and Russia have halved - logos-pres.md](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmRaMDRRMGt4LUM3MnZyazVoSG4zVVk3bVdtMWRPeTNjTzJLalRYWEw3RThIallyOUVtaFNXTmdiOVgxRE9aSzVQNGw1c0VXb1liRng4NlFLRGN4bUlEd014Mk9aU3pOc1E3VlVFT3NkU0lUT2ZpYXcwdnVfb1U4LThHaDZvb1hDZTMyZDFJTDlBNmpR?oc=5)
 
 ---
 
