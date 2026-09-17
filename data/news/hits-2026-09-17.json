@@ -22,17 +22,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq seeks to diversify oil export routes away from Hormuz - IraqiNews",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVTJMS2daOXNZX2JvdndSQ2hYY29EOFYxaDhQOTFYd2hROXhlWXk2WHR0cGI3eUdCLTgtRDFMS3hyeHhwbWNrVGEycDMwR0l6ekF2SXRLdzl1a3FIbEZvUlI0REJnMkNWR3ZzWDlDRTQ5RW5OcnhmVTVfSkZWckZBNHJzMkpZbFJRRFFvVERMZjlSSXJo?oc=5",
-  "published": "Wed, 16 Sep 2026 14:57:54 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC Output Slumps as Conflict Curbs Saudi Flows, Survey Shows - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUd6M0t3V2hzYWtTMzhyTXVoVXpfZnZTWTdhNERFcXhaWU1XeFR1eUxXbXZBUExPaWh1eXhBQUJ4Y0FtREtDWlk5TUZWekt0V0Z5MXNXcXBTdERLRzNBMFFGMlpqcnJlUzBDeUJJeVAtUEhWQ0k0bTFObmdvM0FoVV9EUWhNZGs4a1RtRmg2S3lsR3NwT2otejg5STdmclg5RExvVldCRFE5clZJUDY0aXR3?oc=5",
   "published": "Tue, 08 Sep 2026 07:00:00 GMT",
@@ -41,6 +30,17 @@
   "country": "Saudi Arabia",
   "severity": 0.08,
   "rule_id": "opec-cut",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Iraq seeks to diversify oil export routes away from Hormuz - IraqiNews",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVTJMS2daOXNZX2JvdndSQ2hYY29EOFYxaDhQOTFYd2hROXhlWXk2WHR0cGI3eUdCLTgtRDFMS3hyeHhwbWNrVGEycDMwR0l6ekF2SXRLdzl1a3FIbEZvUlI0REJnMkNWR3ZzWDlDRTQ5RW5OcnhmVTVfSkZWckZBNHJzMkpZbFJRRFFvVERMZjlSSXJo?oc=5",
+  "published": "Wed, 16 Sep 2026 14:57:54 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
   "source": "keyword-rule"
  },
  {
