@@ -4,7 +4,7 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Saudi Oil Exports Rebound at Hormuz While East-West Pipeline Remains Offline - oilprice.com
+## Saudi Oil Exports Rebound at Hormuz While East-West Pipeline Remains Offline - Crude Oil Prices Today | OilPrice.com
 *Fri, 18 Sep 2026 12:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbkczb1h0em43VjdFcGNOUU9pdDFrT080R2M1SnZEd3pncjdKdnE0NUZQZkNOR3JxWFA5djc2Y2ZOcVJfREVWdkxCNHJUOHl1amVLQUpPODN1NG4zYW96c180SXQ4dUdmLXNuQUZ2NUpZeDd5UFpaRVdVbzVSM1NRRXpwcWRqaEpjWF9WN1lIQmVfaFhZSXpRdk5VRzM3eHpVTEpXM0REUjJFTmlTRTIyRFpkdzBTMzVQX0VtMzRzVXB2T0pQeFRHeEhqYjXSAdIBQVVfeXFMUGxTQW5hWlpma0I2djVVcEIxMGFfTnEyU1hlbmxCVFVrb3g3c0dVRTZyczVIaFFWLXU1TWtIRm9NZEdEVnJoUUxSbHRUM1o0dFRaRnhqclc2UVRsbmlTVDNXZUEwSE9xZ2hfbUJzWXFwaXFJejhsbDN6MkQzVU1zV1BkVmY2VXRiRC1Bb1hUQjFHd196VDY0QXJyT0hSZlQ5MlJLUGRRYmlRMmduYkM2RlJKVjJGTXpLSmUyVl9WNUk5RExPZUtzSkR4N1ViUUlKVkhn?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
