@@ -59,9 +59,6 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
-- [Kremlin Pushes to Keep Russia’s Edge as Biggest Wheat Exporter - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVEwZHhqNk1YMldGazhyUkY2VkJrR09jelRkXzItc1B5Vl9YMTJsVEdTZHFSZ3prUGV2TkRJR1M2WGV5YVNaU1lsU2czSWMyYUE3UmkzTTBkcTBDcUpHTGp6cXlNenBCZTZ6aktBNXNjVmhaeWJLSEhkbFZFYVVQOXFfS1FaVFh1WDlESVBueTAtYksyay1LeHJjb3NDLTRTVTJLN1ZSdU54eGVLUmk5NnFpWQ?oc=5)
-
 ---
 
 ## Scorecard

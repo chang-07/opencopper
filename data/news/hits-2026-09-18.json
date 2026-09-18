@@ -97,16 +97,5 @@
   "severity": 0.15,
   "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
- },
- {
-  "headline": "Kremlin Pushes to Keep Russia\u2019s Edge as Biggest Wheat Exporter - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVEwZHhqNk1YMldGazhyUkY2VkJrR09jelRkXzItc1B5Vl9YMTJsVEdTZHFSZ3prUGV2TkRJR1M2WGV5YVNaU1lsU2czSWMyYUE3UmkzTTBkcTBDcUpHTGp6cXlNenBCZTZ6aktBNXNjVmhaeWJLSEhkbFZFYVVQOXFfS1FaVFh1WDlESVBueTAtYksyay1LeHJjb3NDLTRTVTJLN1ZSdU54eGVLUmk5NnFpWQ?oc=5",
-  "published": "Wed, 16 Sep 2026 16:01:37 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
  }
 ]
