@@ -1,5 +1,27 @@
 [
  {
+  "headline": "Saudi Oil Exports Rebound at Hormuz While East-West Pipeline Remains Offline - oilprice.com",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbkczb1h0em43VjdFcGNOUU9pdDFrT080R2M1SnZEd3pncjdKdnE0NUZQZkNOR3JxWFA5djc2Y2ZOcVJfREVWdkxCNHJUOHl1amVLQUpPODN1NG4zYW96c180SXQ4dUdmLXNuQUZ2NUpZeDd5UFpaRVdVbzVSM1NRRXpwcWRqaEpjWF9WN1lIQmVfaFhZSXpRdk5VRzM3eHpVTEpXM0REUjJFTmlTRTIyRFpkdzBTMzVQX0VtMzRzVXB2T0pQeFRHeEhqYjXSAdIBQVVfeXFMUGxTQW5hWlpma0I2djVVcEIxMGFfTnEyU1hlbmxCVFVrb3g3c0dVRTZyczVIaFFWLXU1TWtIRm9NZEdEVnJoUUxSbHRUM1o0dFRaRnhqclc2UVRsbmlTVDNXZUEwSE9xZ2hfbUJzWXFwaXFJejhsbDN6MkQzVU1zV1BkVmY2VXRiRC1Bb1hUQjFHd196VDY0QXJyT0hSZlQ5MlJLUGRRYmlRMmduYkM2RlJKVjJGTXpLSmUyVl9WNUk5RExPZUtzSkR4N1ViUUlKVkhn?oc=5",
+  "published": "Fri, 18 Sep 2026 12:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Aftershocks: Energy security beyond the Strait of Hormuz crisis - McKinsey & Company",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTBmOXB1aVh6ZlBZbF9zU2R4LUNydy1WYkhFMnZhaklmQXpzRzBGT0FyZnU2YXlaSldGU1VINVFQLUNCOGNZTmNiS2gzNE9rZm5GSUhZMFp3WlFiSUxIOEFQRzIzZmRLLUFWRHJLWnNaME5UZG5jQUpZV3VxQ1dGRTZFWDduUFgwbk5oZExrdzhiT3lCWlIzVTBLMVh6NG1pNzZDTFR3NA?oc=5",
+  "published": "Thu, 17 Sep 2026 00:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
   "published": "Tue, 15 Sep 2026 16:22:15 GMT",
@@ -22,7 +44,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq seeks to diversify oil export routes away from Hormuz - iraqinews.com",
+  "headline": "Iraq seeks to diversify oil export routes away from Hormuz - IraqiNews",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVTJMS2daOXNZX2JvdndSQ2hYY29EOFYxaDhQOTFYd2hROXhlWXk2WHR0cGI3eUdCLTgtRDFMS3hyeHhwbWNrVGEycDMwR0l6ekF2SXRLdzl1a3FIbEZvUlI0REJnMkNWR3ZzWDlDRTQ5RW5OcnhmVTVfSkZWckZBNHJzMkpZbFJRRFFvVERMZjlSSXJo?oc=5",
   "published": "Wed, 16 Sep 2026 14:57:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
