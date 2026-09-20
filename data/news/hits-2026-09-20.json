@@ -33,7 +33,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "US military says over 1B barrels of oil shipped through Strait of Hormuz under US blockade - Anadolu Ajans\u0131",
+  "headline": "US military says over 1B barrels of oil shipped through Strait of Hormuz under US blockade - aa.com.tr",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkpzRUdNQ1JpQWlLSzU4cUhKT0U0Z1RUdVJVTUpVN0xaOVhmNzg4em44TlNUdU9MTW5CeU9zSFVPeThvZy1TSS1FVk42MnVFcldoQXBUZHItREhlYzdFUHdWOUd1dERQYkNMYk0wY0pRRTVMWHBBOG5Tc2pIQXJkUjhxbklKcjZPUm5JLWNUd0h4TmlrYnRmTXR5ejJfaFZLUUlqc18yM1A4bWQxbmlyTTg4U3lGRms4UC1MWDlrcDhWbnI0SjBibl9aNGrSAdQBQVVfeXFMUDRGd3dHM3BQX1JLemRialZMWHJIcVdEZjlIMEFHazA3bU92VWNiNmNmSzhCRVBhWnZOeG9VZHNqdlFjZ0hLUlVYT2pLSGtac2doR25TdHVQMlc0VFJnVWx0MWR2V2lLMmZ6c1lQeFVxYUZYM3dfSHNsQmFFdjZpSmdySVpBdGFHRDAxNmhzRGt2Zy1raDVCdnp2V1NoN2pjeklzOWhMR0NFVk5WVUdkX05uenFqTV9GdXJTZy1YS1dnTXduVklSekIwWWJjVkRsWnpNRDk?oc=5",
   "published": "Sat, 19 Sep 2026 13:43:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -55,18 +55,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DW News. . Danger and uncertainty in the Strait of Hormuz have changed oil shipping. Ship-to-ship transfers are helping move millions of barrels despite the disruption. #dwbusiness - facebook.com",
-  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2VCV0E0S0VXV2pPLWlOSWduN1czcGpsUE1vdEpuMGQzMXFkTm1YMGxWb3Z4S2VIdDROWm5qQ0Uwc3NBNHZpelBJaTlFcTdicVlnVEplcWdVT0cxTVJXaldNa1A5V05YMThucEtDazBXZGFrNFpld2lrd0RwZHUwSmU1R2ZFckk4MVhVT0t0SDM3dHZzcWpBMU9GYU9ER05MXzUwTkZzVVl2YUFrR2cySGJ5dzgyUW0wLTljbXBCcWV2R00tM1A5WHhjM0t6c19aYWtjNTV4a3YwdmpxYmVfeA?oc=5",
-  "published": "Sun, 13 Sep 2026 22:09:03 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Iraq seeks to diversify oil export routes away from Hormuz - iraqinews.com",
+  "headline": "Iraq seeks to diversify oil export routes away from Hormuz - IraqiNews",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVTJMS2daOXNZX2JvdndSQ2hYY29EOFYxaDhQOTFYd2hROXhlWXk2WHR0cGI3eUdCLTgtRDFMS3hyeHhwbWNrVGEycDMwR0l6ekF2SXRLdzl1a3FIbEZvUlI0REJnMkNWR3ZzWDlDRTQ5RW5OcnhmVTVfSkZWckZBNHJzMkpZbFJRRFFvVERMZjlSSXJo?oc=5",
   "published": "Wed, 16 Sep 2026 14:57:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -96,17 +85,6 @@
   "country": "Congo (Kinshasa)",
   "severity": 0.4,
   "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russia Turns to Far East to Export Grain Amid Black Sea Strikes - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2JWMk9kTzl6X1NUakYxbGFNazYzcXE1WXpkOVBkbVpFTG5EYzV1YTVWTHZqdHIyRGR3UEtscUxrakVUejY1MXp1alpnbnlVNU96RHBOT0ZfZTJVVThrR0VtTUxxLW9XUXB0M1lFNnZ4RHdKRzZLT0VBV2xOd3NJLTZ5cTd3dTJmNFNRaEhyQ1NIcnhUbWRLVG1Id0hZOGI1RXppaUtzQlhkMUtTb25TMEctQW4?oc=5",
-  "published": "Sat, 12 Sep 2026 08:10:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  }
 ]
