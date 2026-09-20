@@ -33,7 +33,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "US military says over 1B barrels of oil shipped through Strait of Hormuz under US blockade - aa.com.tr",
+  "headline": "US military says over 1B barrels of oil shipped through Strait of Hormuz under US blockade - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkpzRUdNQ1JpQWlLSzU4cUhKT0U0Z1RUdVJVTUpVN0xaOVhmNzg4em44TlNUdU9MTW5CeU9zSFVPeThvZy1TSS1FVk42MnVFcldoQXBUZHItREhlYzdFUHdWOUd1dERQYkNMYk0wY0pRRTVMWHBBOG5Tc2pIQXJkUjhxbklKcjZPUm5JLWNUd0h4TmlrYnRmTXR5ejJfaFZLUUlqc18yM1A4bWQxbmlyTTg4U3lGRms4UC1MWDlrcDhWbnI0SjBibl9aNGrSAdQBQVVfeXFMUDRGd3dHM3BQX1JLemRialZMWHJIcVdEZjlIMEFHazA3bU92VWNiNmNmSzhCRVBhWnZOeG9VZHNqdlFjZ0hLUlVYT2pLSGtac2doR25TdHVQMlc0VFJnVWx0MWR2V2lLMmZ6c1lQeFVxYUZYM3dfSHNsQmFFdjZpSmdySVpBdGFHRDAxNmhzRGt2Zy1raDVCdnp2V1NoN2pjeklzOWhMR0NFVk5WVUdkX05uenFqTV9GdXJTZy1YS1dnTXduVklSekIwWWJjVkRsWnpNRDk?oc=5",
   "published": "Sat, 19 Sep 2026 13:43:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -44,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
-  "published": "Sat, 19 Sep 2026 07:48:15 GMT",
+  "headline": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
+  "published": "Sat, 19 Sep 2026 16:24:18 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -58,6 +58,17 @@
   "headline": "Iraq seeks to diversify oil export routes away from Hormuz - IraqiNews",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVTJMS2daOXNZX2JvdndSQ2hYY29EOFYxaDhQOTFYd2hROXhlWXk2WHR0cGI3eUdCLTgtRDFMS3hyeHhwbWNrVGEycDMwR0l6ekF2SXRLdzl1a3FIbEZvUlI0REJnMkNWR3ZzWDlDRTQ5RW5OcnhmVTVfSkZWckZBNHJzMkpZbFJRRFFvVERMZjlSSXJo?oc=5",
   "published": "Wed, 16 Sep 2026 14:57:54 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
+  "published": "Sat, 19 Sep 2026 16:25:14 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
