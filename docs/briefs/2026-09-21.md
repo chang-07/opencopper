@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com
-*Sun, 20 Sep 2026 09:57:23 GMT* — [source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
+## Strait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise - oilprice.com
+*Mon, 21 Sep 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDJQWWRucTdfbWRNZ3JBODhpRWJLTUtCWXFSUF9aWGl2UDhvdVpRdlduYUlvamZSQmdyeGh3dW9zTV85dkJtem9RVlgxaEpOTllHc2Zma0ZGVUZTa2kxVGZ6TUh5dFdCNUpfcHlPSUItbHBUSV9ZQmE3NzNCQWJLYVpnVGhyOG5wQTdPcTZiellLTTVUam1QU1pZMmVFVGZ2aWNaTi1pc19CT0FKRkljdUFWV1VsUzI5YURTSzZqTDR6UExJbFHSAcsBQVVfeXFMTzRpTGZBZk05N3lwQkI2RGJGYWdXWkpXQ2t5Yk1SZmtKcjNkUEdGTkhsbUc0eHhFODVoeXRyMkxhRGRwajJ2WUQxZmsxa0tTeXpIN2I0Y0JYVTRkeFExSG80R2djVy1HQzZmLUc0TG0tWDdfSUVxMjFGcUREeFJJdVNlbi0zem45MVdJZFd5UHVoU1I0TkpZQ2xIUjIxN0w2MHhLNTVMMFhqOTd6Mm9Oa0I1Z01LenpaaFpERkxrdmlacTBRc0kyOC0wR00?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _7 corroborating headline(s):_
-- [Aftershocks: Energy security beyond the Strait of Hormuz crisis - McKinsey & Company](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTBmOXB1aVh6ZlBZbF9zU2R4LUNydy1WYkhFMnZhaklmQXpzRzBGT0FyZnU2YXlaSldGU1VINVFQLUNCOGNZTmNiS2gzNE9rZm5GSUhZMFp3WlFiSUxIOEFQRzIzZmRLLUFWRHJLWnNaME5UZG5jQUpZV3VxQ1dGRTZFWDduUFgwbk5oZExrdzhiT3lCWlIzVTBLMVh6NG1pNzZDTFR3NA?oc=5)
-- [Saudi Oil Exports Rebound at Hormuz While East-West Pipeline Remains Offline - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbkczb1h0em43VjdFcGNOUU9pdDFrT080R2M1SnZEd3pncjdKdnE0NUZQZkNOR3JxWFA5djc2Y2ZOcVJfREVWdkxCNHJUOHl1amVLQUpPODN1NG4zYW96c180SXQ4dUdmLXNuQUZ2NUpZeDd5UFpaRVdVbzVSM1NRRXpwcWRqaEpjWF9WN1lIQmVfaFhZSXpRdk5VRzM3eHpVTEpXM0REUjJFTmlTRTIyRFpkdzBTMzVQX0VtMzRzVXB2T0pQeFRHeEhqYjXSAdIBQVVfeXFMUGxTQW5hWlpma0I2djVVcEIxMGFfTnEyU1hlbmxCVFVrb3g3c0dVRTZyczVIaFFWLXU1TWtIRm9NZEdEVnJoUUxSbHRUM1o0dFRaRnhqclc2UVRsbmlTVDNXZUEwSE9xZ2hfbUJzWXFwaXFJejhsbDN6MkQzVU1zV1BkVmY2VXRiRC1Bb1hUQjFHd196VDY0QXJyT0hSZlQ5MlJLUGRRYmlRMmduYkM2RlJKVjJGTXpLSmUyVl9WNUk5RExPZUtzSkR4N1ViUUlKVkhn?oc=5)
-- [US military says over 1B barrels of oil shipped through Strait of Hormuz under US blockade - Anadolu Ajansı](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkpzRUdNQ1JpQWlLSzU4cUhKT0U0Z1RUdVJVTUpVN0xaOVhmNzg4em44TlNUdU9MTW5CeU9zSFVPeThvZy1TSS1FVk42MnVFcldoQXBUZHItREhlYzdFUHdWOUd1dERQYkNMYk0wY0pRRTVMWHBBOG5Tc2pIQXJkUjhxbklKcjZPUm5JLWNUd0h4TmlrYnRmTXR5ejJfaFZLUUlqc18yM1A4bWQxbmlyTTg4U3lGRms4UC1MWDlrcDhWbnI0SjBibl9aNGrSAdQBQVVfeXFMUDRGd3dHM3BQX1JLemRialZMWHJIcVdEZjlIMEFHazA3bU92VWNiNmNmSzhCRVBhWnZOeG9VZHNqdlFjZ0hLUlVYT2pLSGtac2doR25TdHVQMlc0VFJnVWx0MWR2V2lLMmZ6c1lQeFVxYUZYM3dfSHNsQmFFdjZpSmdySVpBdGFHRDAxNmhzRGt2Zy1raDVCdnp2V1NoN2pjeklzOWhMR0NFVk5WVUdkX05uenFqTV9GdXJTZy1YS1dnTXduVklSekIwWWJjVkRsWnpNRDk?oc=5)
+- [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
+- [Aftershocks: Energy security beyond the Strait of Hormuz crisis - mckinsey.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTBmOXB1aVh6ZlBZbF9zU2R4LUNydy1WYkhFMnZhaklmQXpzRzBGT0FyZnU2YXlaSldGU1VINVFQLUNCOGNZTmNiS2gzNE9rZm5GSUhZMFp3WlFiSUxIOEFQRzIzZmRLLUFWRHJLWnNaME5UZG5jQUpZV3VxQ1dGRTZFWDduUFgwbk5oZExrdzhiT3lCWlIzVTBLMVh6NG1pNzZDTFR3NA?oc=5)
+- [UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5)
 - …and 4 more
 
 ## Congo’s New Export Ban Puts a Price on Cobalt's Human Cost - Carolina Political Review
