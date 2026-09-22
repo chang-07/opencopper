@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - Barchart.com
-*Mon, 21 Sep 2026 15:35:18 GMT* — [source](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5)
+## Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz - EnergyNow.com
+*Tue, 22 Sep 2026 02:34:34 GMT* — [source](https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjhVM2FKUElUMkRPM2ZESFZ6ZTFrMnYxSy1Qc3VyU2Y2VmcydXF2NDM4Vk11RjNJVnpqVGNDYzdJWVR0VjM0REQ2eWF3ZkJSZXpwMTcyOHN4VDdLMlJuUVdJbElRZXlFRmlWSEZDMjdmdmp1andOMFl2ekE3U2ZuUVFOM0JBbjhDRlB2b2dtMkhFMUVSVVNFdzFGSWY5c1YwdHc?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_11 corroborating headline(s):_
-- [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
-- [Strait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDJQWWRucTdfbWRNZ3JBODhpRWJLTUtCWXFSUF9aWGl2UDhvdVpRdlduYUlvamZSQmdyeGh3dW9zTV85dkJtem9RVlgxaEpOTllHc2Zma0ZGVUZTa2kxVGZ6TUh5dFdCNUpfcHlPSUItbHBUSV9ZQmE3NzNCQWJLYVpnVGhyOG5wQTdPcTZiellLTTVUam1QU1pZMmVFVGZ2aWNaTi1pc19CT0FKRkljdUFWV1VsUzI5YURTSzZqTDR6UExJbFHSAcsBQVVfeXFMTzRpTGZBZk05N3lwQkI2RGJGYWdXWkpXQ2t5Yk1SZmtKcjNkUEdGTkhsbUc0eHhFODVoeXRyMkxhRGRwajJ2WUQxZmsxa0tTeXpIN2I0Y0JYVTRkeFExSG80R2djVy1HQzZmLUc0TG0tWDdfSUVxMjFGcUREeFJJdVNlbi0zem45MVdJZFd5UHVoU1I0TkpZQ2xIUjIxN0w2MHhLNTVMMFhqOTd6Mm9Oa0I1Z01LenpaaFpERkxrdmlacTBRc0kyOC0wR00?oc=5)
-- [Aftershocks: Energy security beyond the Strait of Hormuz crisis - McKinsey & Company](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTBmOXB1aVh6ZlBZbF9zU2R4LUNydy1WYkhFMnZhaklmQXpzRzBGT0FyZnU2YXlaSldGU1VINVFQLUNCOGNZTmNiS2gzNE9rZm5GSUhZMFp3WlFiSUxIOEFQRzIzZmRLLUFWRHJLWnNaME5UZG5jQUpZV3VxQ1dGRTZFWDduUFgwbk5oZExrdzhiT3lCWlIzVTBLMVh6NG1pNzZDTFR3NA?oc=5)
-- …and 8 more
+_15 corroborating headline(s):_
+- [Basra cuts oil production due to Hormuz blockade — Dawn - UA.NEWS](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWI3SG1neXp3ak5zSDRDLUdwOVlaUVZuRDhvZUZKa1RoUEhMTlc0cUVtNWJYazZ6bFhLTGpaNUx5WDVaZEhta293Tl91WG45VXhKazZyVGpyQTFkejZSczk2YlE2X0xXR2tySWxaOXlUZVNRUFhjYW1BOFhDczNMVU01ZS0wUlFlYzNST3VOZUx5TFNs?oc=5)
+- [Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5)
+- [Aftershocks: Energy security beyond the Strait of Hormuz crisis - mckinsey.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTBmOXB1aVh6ZlBZbF9zU2R4LUNydy1WYkhFMnZhaklmQXpzRzBGT0FyZnU2YXlaSldGU1VINVFQLUNCOGNZTmNiS2gzNE9rZm5GSUhZMFp3WlFiSUxIOEFQRzIzZmRLLUFWRHJLWnNaME5UZG5jQUpZV3VxQ1dGRTZFWDduUFgwbk5oZExrdzhiT3lCWlIzVTBLMVh6NG1pNzZDTFR3NA?oc=5)
+- …and 12 more
 
 ## Congo’s New Export Ban Puts a Price on Cobalt's Human Cost - Carolina Political Review
 *Wed, 16 Sep 2026 19:22:38 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3pKbm9BUWFhQWRlWE9pZ3RuTXRVMmVWR2NnaVRXaW1KTUh5dU93b3EybWlxTWVCMVNxYnlmUFM4czV0RUM1Q2tiNDYyMFowX0ROMU9VQUkzOFBCTkhmTkdveGg2MTVJR0k0c0dwZDdHZDZDTEZBa1dVRzEtbTdqM2syWHN6NXVpWVUwLVdkcmJnTnItTmN3Wnl0SVFmVFZUT2gxNlBHb2dQVmdUNzAyaldMYnZjczZLUnc?oc=5)
@@ -59,10 +59,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
-- [Russia's Grain Export Pivot Could Change the Wheat Price Equation for U.S. Farmers - AgroLatam](https://news.google.com/rss/articles/CBMifEFVX3lxTE15UkxNSTJ5aHJQYzV0R1BDejU5MlZ0dl8tQzdTb3pMWi1abHh4NmZMR05rUjlqdUpqYWk5X0VvaVY5cS1mcHJNLUI4U1Qwbll4cTNvemN3VlhlUE15czBDN1VYazM5ME9Jc2pjN3B5U05rUEtsUFhONi1wNjU?oc=5)
-- [Export Prices for Russian Wheat Fall - maritimeprofessional.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORC1WN0pqX1FaaU9KUXQtSHRlV0dVYUhKRGZaVVJVNWU1MnNWRnR6MjBWMFo1bDdOTDUzZnpZcGJySmJWVVBwUVJLOFdZVFlHdENjQ3FRWFFCTl8wekZXWU1fclcyZnduREc2TnNqY0w1cm1yU0R2TTY5TWtwYkpsbEJTaVhxS0Fx0gGOAUFVX3lxTE1SQ1hRamc1V3JQMkJtcEJwZUx1dkxjRjdPY09KZjZnSUtXeEpjVkYxdFJvUUFubVVzMkhWVVBaRmNNMUhKMlpkVnlSdXJJeThWOUxGeXpNZVBwOFZ5ejBfUjVxUjl2MU9CMTdwbmN5UVVfWmMtTWpPb0hrZE9lNE5uX3A1VHFMZWhwSmJNNVE?oc=5)
-- [Russia Turns to Far East to Export Grain Amid Black Sea Strikes - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2JWMk9kTzl6X1NUakYxbGFNazYzcXE1WXpkOVBkbVpFTG5EYzV1YTVWTHZqdHIyRGR3UEtscUxrakVUejY1MXp1alpnbnlVNU96RHBOT0ZfZTJVVThrR0VtTUxxLW9XUXB0M1lFNnZ4RHdKRzZLT0VBV2xOd3NJLTZ5cTd3dTJmNFNRaEhyQ1NIcnhUbWRLVG1Id0hZOGI1RXppaUtzQlhkMUtTb25TMEctQW4?oc=5)
+_1 corroborating headline(s):_
+- [Export Prices for Russian Wheat Fall - maritimeprofessional.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORC1WN0pqX1FaaU9KUXQtSHRlV0dVYUhKRGZaVVJVNWU1MnNWRnR6MjBWMFo1bDdOTDUzZnpZcGJySmJWVVBwUVJLOFdZVFlHdENjQ3FRWFFCTl8wekZXWU1fclcyZnduREc2TnNqY0w1cm1yU0R2TTY5TWtwYkpsbEJTaVhxS0Fx?oc=5)
 
 ---
 
