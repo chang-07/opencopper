@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _13 corroborating headline(s):_
-- [Opec-Plus: August Output Drops, But Hormuz Shuttle Props - Energy Intelligence](https://news.google.com/rss/articles/CBMickFVX3lxTE5YOEtsMVd4RWlpREtBNGs3WTdiN0NNZzdkS2h1ZTlpREk4VmNUOXJVbThqSWtja3NDamFNN09MeThKTFd2bGtfRGJlTm5DNGNTRER3OE5CYUJKXzNIRklSRnlpc2EzbWVlU0tOb0NRWTJIUQ?oc=5)
+- [Cathie Wood-led ARK Invest Says Oil Could Crash to $30-$35 Once Strait of Hormuz Reopens As Trump Touts P - Benzinga](https://news.google.com/rss/articles/CBMijgJBVV95cUxPNkdiUTNBNFlzQW9ob1VLSVprak5SdkdvX2FOSlR5Y2UwREUzem15Nm4wa0Y4NUo5WXB4XzN0T1BIRXg2V3NDZVJlVGdzeHdVSnZreFdhRTNqeTJxOG4zX0FXbTQzUU5MVHVLTjE1eVNRMXpFajZ4VFF4UFFfWlZPTEIxVmNxNjNMd3EwazBoU0xlc1FxeFExdzRjdGZfSkZvRXY5VWlUb0VZTW1NTUpqckd0TEdTREJEbDVldHhvU0xKTFFRRTQ5Wjc4VDBCc25IeDNzU2FYMmluNndhc1pWcjZ1RUZ4YnBhSU5MSTBiWnJuMnE5cFFfWVMtR2JjS2tlQnlRSVQ1enFnb0FfU1E?oc=5)
 - [Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5)
-- [Aftershocks: Energy security beyond the Strait of Hormuz crisis - McKinsey & Company](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTBmOXB1aVh6ZlBZbF9zU2R4LUNydy1WYkhFMnZhaklmQXpzRzBGT0FyZnU2YXlaSldGU1VINVFQLUNCOGNZTmNiS2gzNE9rZm5GSUhZMFp3WlFiSUxIOEFQRzIzZmRLLUFWRHJLWnNaME5UZG5jQUpZV3VxQ1dGRTZFWDduUFgwbk5oZExrdzhiT3lCWlIzVTBLMVh6NG1pNzZDTFR3NA?oc=5)
+- [Opec-Plus: August Output Drops, But Hormuz Shuttle Props - Energy Intelligence](https://news.google.com/rss/articles/CBMickFVX3lxTE5YOEtsMVd4RWlpREtBNGs3WTdiN0NNZzdkS2h1ZTlpREk4VmNUOXJVbThqSWtja3NDamFNN09MeThKTFd2bGtfRGJlTm5DNGNTRER3OE5CYUJKXzNIRklSRnlpc2EzbWVlU0tOb0NRWTJIUQ?oc=5)
 - …and 10 more
 
 ## Congo’s New Export Ban Puts a Price on Cobalt's Human Cost - Carolina Political Review
@@ -43,8 +43,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Will U.S. wheat exports see boost from Russia-Ukraine conflict? - Farm Progress
-*Wed, 23 Sep 2026 07:02:13 GMT* — [source](https://news.google.com/rss/articles/CBMingFBVV95cUxNdlMwV21ib1pWZE1ocllnendVRXFkbzVkRlR2aEFfU1M2TmE3eUFHQ3lUdDZWdzFoa2M5Q0xZTkM5VDg1STFkRVFsUlNwcVdiUXhRZHd4Ry1ZUGN3STRWUGNoMjJMSml4U0R5dDIzWUNmZmJzbFk0eGVlWWlQeWpGV2RPbjVEZXoxNVVKZHNmLUR0Qzd5VkVTRlFFOEtWUQ?oc=5)
+## EXCLUSIVE: Russia adapts fertilizer, coal terminals in Baltic, Arctic ports to export Black Sea grain - Reuters
+*Mon, 21 Sep 2026 17:54:35 GMT* — [source](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNE5HNmRLSkhKLVZHSUdKNGNsOWh6RmUwb3VkRXdmLXN6c0FfSUV5ZTY3T2dpcVFTQWVLMjAzeHZnemlPWnprVC1SOFJxdHNhWXVXcHJTSDFsUFFDQWd5MFduSk43Ul9YaWtpeDZCeC1PeWFvTTIyQjFFWXd6ajNkeldBMy1ZWmJSU3ZwQjZqZVVicXNrOEd5WWFhX2xOWWF5djFsbEhIU01uNFBaR0ZkZTFfVmxabDk4VmpYOVFB?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -59,11 +59,10 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
-- [EXCLUSIVE: Russia adapts fertilizer, coal terminals in Baltic, Arctic ports to export Black Sea grain - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNE5HNmRLSkhKLVZHSUdKNGNsOWh6RmUwb3VkRXdmLXN6c0FfSUV5ZTY3T2dpcVFTQWVLMjAzeHZnemlPWnprVC1SOFJxdHNhWXVXcHJTSDFsUFFDQWd5MFduSk43Ul9YaWtpeDZCeC1PeWFvTTIyQjFFWXd6ajNkeldBMy1ZWmJSU3ZwQjZqZVVicXNrOEd5WWFhX2xOWWF5djFsbEhIU01uNFBaR0ZkZTFfVmxabDk4VmpYOVFB?oc=5)
+_3 corroborating headline(s):_
+- [Will U.S. wheat exports see boost from Russia-Ukraine conflict? - Farm Progress](https://news.google.com/rss/articles/CBMingFBVV95cUxNdlMwV21ib1pWZE1ocllnendVRXFkbzVkRlR2aEFfU1M2TmE3eUFHQ3lUdDZWdzFoa2M5Q0xZTkM5VDg1STFkRVFsUlNwcVdiUXhRZHd4Ry1ZUGN3STRWUGNoMjJMSml4U0R5dDIzWUNmZmJzbFk0eGVlWWlQeWpGV2RPbjVEZXoxNVVKZHNmLUR0Qzd5VkVTRlFFOEtWUQ?oc=5)
 - [Russia has nearly quadrupled its reduction in wheat exports amid Ukrainian attacks on Black Sea port infrastructure - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORUQxaVREZWEyZnliLW5mQ3F1dE1rQmNRRTBKSGthWVpKU1NlZ2c2VjVzZVc2Y0MtWkVlQXQ0QkQ5dXhELXFGMHhzcXpIQWtxNmQyWHo2dTlQeTZUMDVsVzBUMUR6MGktUlJRdzdpeHphQ3haZmY1NDBmQUtVcC1maVl1Y2RYVFFac2gwM2FOUFFTQnZPLTZUWHN4VWR0UWprU0JDYVFwY0ZvRnNxRjNjY2VITHZ0akVKZ2UwUVY4amxuNlBZbTRKcFJqczBNWGZmTnlpcNIB0wFBVV95cUxQUzc1WXBIWi1rUHV2cVNvUU12U0t6b08zcFgyV3hXSUhtNXYxTjJVRnUwYm1uSk4zMnJrNFdBSGhsSFNFODFsNkpkSEFHUkI0SVlpbFdIaEktNWZPM2VEVW5sanZJUExHZ1ByVHN4QXNrVVExZUZyMWxRbHpRZmNhTWE1WENqdWZTdHlIMlNSb1BJUkNQM2hwRUZLTFpwVHRLSERndkhMUnNlMGdPY0VjVnlNUmdWeTVpdVlGdzlBYko3MzJiWXlCN1hKTlYyOU83MER3?oc=5)
 - [Global Wheat Prices Surge as Russia-Ukraine War Hits Exports - Global Banking & Finance Review](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEpRQUNNMUxMMGNLM3VxdEdkaVowdndPRGt0R1pwV25YbVNtNjJrRUZPMmpyTDJXNnlHWFlpWjdtOGpmS3pVLXN0akRuQTNieUd1VjRlaEdyR2tZRVpSTEhBakp5STRZS1BIOE9td05uSTZKZGZIdHZWZ3k3a2JyZGh1LUJ0TVFFdzRrWFV2OU1ydlVKUnlBOXJGcFFZNFlPbHc?oc=5)
-- …and 3 more
 
 ---
 
