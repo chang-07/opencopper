@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com
-*Tue, 22 Sep 2026 22:19:07 GMT* — [source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
+## Oil prices rise as US-Iran talks stalled over Hormuz demands - Anadolu Ajansı
+*Thu, 24 Sep 2026 08:04:54 GMT* — [source](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRENqS2RGU0o1cjF4QklxR3RuVTl5a21wMnRBRlAtUnNIVnBHNmtGVEdJNHZIRDNtMmVvYWpaelJrRlMtaGNrd2l4aWJjYWNFenF4NWRwRWxTd0FPZmlMeHBFS05fcHdSdkRWYkpKQVNLUXlBQ2VVVm5laWtvWWt5MHpRTzIyekZaaFF3LTJtVnZqY1dNaTRFTXN5cnJ2cHh0X3BjSQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _13 corroborating headline(s):_
-- [Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5)
-- [Cathie Wood-led ARK Invest Says Oil Could Crash to $30-$35 Once Strait of Hormuz Reopens As Trump Touts Positive Iran Talks - TradingView](https://news.google.com/rss/articles/CBMijAJBVV95cUxNdmRXOWlJMFlRd0tsQURzVEoxZnhWdDNXdEJJeFlCVGVkazNjRndQUHdmY0ZMUklYZmhObG11SDZPTTdVNlA3NVh1SlFVVl9rYk9pZThfUU10ZzZvak1RZVpuTHpKeHU0YmRyYTRtMDFGQW9sMkl5T1RCc2loRnBaeUNFX3Rfa0swVllSV3NnZXVmRFdHRGtXV2lJekJoelhlLVQ0VG0tek9xTDQyVmk1MDdzOFpJWEtMemI4VFBrZld0ZnBWSUtpTWhXajB6djBVcWRSVXU0MG1pU3dLRUFsVjg0UUo2bVl5MTZWMk13TE5tRUFqblh3cTRzbHZfMmJ6MHZmVzJmdkhIenha?oc=5)
-- [Basra cuts oil production due to Hormuz blockade — Dawn - UA.NEWS](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWI3SG1neXp3ak5zSDRDLUdwOVlaUVZuRDhvZUZKa1RoUEhMTlc0cUVtNWJYazZ6bFhLTGpaNUx5WDVaZEhta293Tl91WG45VXhKazZyVGpyQTFkejZSczk2YlE2X0xXR2tySWxaOXlUZVNRUFhjYW1BOFhDczNMVU01ZS0wUlFlYzNST3VOZUx5TFNs?oc=5)
+- [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
+- [Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - barchart.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5)
+- [Opec-Plus: August Output Drops, But Hormuz Shuttle Props - Energy Intelligence](https://news.google.com/rss/articles/CBMickFVX3lxTE5YOEtsMVd4RWlpREtBNGs3WTdiN0NNZzdkS2h1ZTlpREk4VmNUOXJVbThqSWtja3NDamFNN09MeThKTFd2bGtfRGJlTm5DNGNTRER3OE5CYUJKXzNIRklSRnlpc2EzbWVlU0tOb0NRWTJIUQ?oc=5)
 - …and 10 more
 
 ## Congo’s New Export Ban Puts a Price on Cobalt's Human Cost - Carolina Political Review
@@ -59,10 +59,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
+_1 corroborating headline(s):_
 - [Will U.S. wheat exports see boost from Russia-Ukraine conflict? - Farm Progress](https://news.google.com/rss/articles/CBMingFBVV95cUxNdlMwV21ib1pWZE1ocllnendVRXFkbzVkRlR2aEFfU1M2TmE3eUFHQ3lUdDZWdzFoa2M5Q0xZTkM5VDg1STFkRVFsUlNwcVdiUXhRZHd4Ry1ZUGN3STRWUGNoMjJMSml4U0R5dDIzWUNmZmJzbFk0eGVlWWlQeWpGV2RPbjVEZXoxNVVKZHNmLUR0Qzd5VkVTRlFFOEtWUQ?oc=5)
-- [Ukrainian Black Sea strikes disrupt Russian grain exports as shipments plunge - The New Voice of Ukraine](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkJVSXBTQ1lNSzd0NllsZjA1OVZ4SE95amFEdFc5cm43V0h2ZmhyZ3gwcVRyZFRRcXFXUjVfTHlnSl9HVzh5UmFLekFfbUY5eDg3NWE0Y0ZaNHZGT3g2dUhrZEwyREZtS1YyYmt0WmpYa3F1TkdVVDR5Ry0wVTMzalc0dGlxTElRQXNHM05tcmdobWR0VnZ1eFE0WEJZclhfVXdLWnZBSllORHhaaGt2WmNDWS1YcjVpdVNHYtIBtgFBVV95cUxOZFBHXzdvSE1aM1YwWUdFd1RZRnhkcmh5c191YWRTXzB1MmE2NFFsQUhzaTk4LW84STBXS2FJWWREMGhRdjFzZHJOa2tmV05tMzBZR2xTdHd2aGJKTkNBMFRvVTlLMWc5NVlLSWpoN0xmWVJENThlQ2tjUVNsY2FWN2hqYVF5NUdKR21EZWhMMTBKY1k2c3YwYXZUT2xXNm55S0hhckpxTXpURXM2UVd5MVdPbTBwdw?oc=5)
-- [Ukraine and Russia eye use of Baltic ports to export grain - TVP World](https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHpHS2t6REFRTFowOWltbG1RSUVRdmotbHlYclR1QXoxRVBkWE9laEQ1SXJyTVNhNzN5YWFQY19EQXc4UXFGQVozQVJ1V0dkcWpWNnVFTGVGTmFuRU9ENTEzM3ZRVFk4RWFYU0V4X1JZWTZYRFJCd1ZuUXJHOGxXWmM4ZzMzclgzd1YtTlE1VnM0QUJ0cVpPcmo0QXd4aTBqaGJzRjd3?oc=5)
 
 ---
 
