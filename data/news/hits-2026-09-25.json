@@ -11,17 +11,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices rise as US-Iran talks stalled over Hormuz demands - Anadolu Ajans\u0131",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRENqS2RGU0o1cjF4QklxR3RuVTl5a21wMnRBRlAtUnNIVnBHNmtGVEdJNHZIRDNtMmVvYWpaelJrRlMtaGNrd2l4aWJjYWNFenF4NWRwRWxTd0FPZmlMeHBFS05fcHdSdkRWYkpKQVNLUXlBQ2VVVm5laWtvWWt5MHpRTzIyekZaaFF3LTJtVnZqY1dNaTRFTXN5cnJ2cHh0X3BjSdIBrAFBVV95cUxPeUU5aVpvdmZuTlZ6UXpXWFRkcG1iZkNnZG5ob1AyY3NjWm05RXpRanJDckNnZ1FGeFk3QU9aMlpaRVkxck1ZelpnWTgxcHRDVjFhQnZoWHVpVWoyTzQ5R0phaktoQzdCUjU0VVhERVYwOXBTbWp6X0ttNnBtRVN1NlNGRk1ENDVQTlJVeHZ2cHo1UEtveEFybDJsS1lpWFY4LTRyMlFKUTRDQTBS?oc=5",
-  "published": "Thu, 24 Sep 2026 08:04:54 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 - EnergyNow.com",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
   "published": "Thu, 24 Sep 2026 16:05:07 GMT",
@@ -33,9 +22,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - Barchart.com",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5",
-  "published": "Mon, 21 Sep 2026 15:35:18 GMT",
+  "headline": "Oil prices rise as US-Iran talks stalled over Hormuz demands - Anadolu Ajans\u0131",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRENqS2RGU0o1cjF4QklxR3RuVTl5a21wMnRBRlAtUnNIVnBHNmtGVEdJNHZIRDNtMmVvYWpaelJrRlMtaGNrd2l4aWJjYWNFenF4NWRwRWxTd0FPZmlMeHBFS05fcHdSdkRWYkpKQVNLUXlBQ2VVVm5laWtvWWt5MHpRTzIyekZaaFF3LTJtVnZqY1dNaTRFTXN5cnJ2cHh0X3BjSQ?oc=5",
+  "published": "Thu, 24 Sep 2026 08:04:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -44,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Opec-Plus: August Output Drops, But Hormuz Shuttle Props - Energy Intelligence",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YOEtsMVd4RWlpREtBNGs3WTdiN0NNZzdkS2h1ZTlpREk4VmNUOXJVbThqSWtja3NDamFNN09MeThKTFd2bGtfRGJlTm5DNGNTRER3OE5CYUJKXzNIRklSRnlpc2EzbWVlU0tOb0NRWTJIUQ?oc=5",
-  "published": "Tue, 22 Sep 2026 17:14:41 GMT",
+  "headline": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5",
+  "published": "Mon, 21 Sep 2026 15:35:18 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -80,6 +69,17 @@
   "headline": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRBSENoNE50ZGdvZFpqT0pjS3FRZGRJMzRPU0tNSjJEdFpkQjRoOXR2ZlhVWVcxd2V6MC1RUERscnh3bHNVWnlfTVNzUWtSUlZrZWhVOUU2RUxfR1ZaYU50cUJDLVRMQzJpT1NOT0VWclhxXzYya09oMUVJYUJJMUJIcWV6dWlUUHRhOWRhcDRWSVc5RlpRdG1pdTFPVFRFNFRUT2pyWQ?oc=5",
   "published": "Sun, 20 Sep 2026 20:26:02 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
+  "published": "Thu, 24 Sep 2026 22:13:04 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -132,14 +132,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Will U.S. wheat exports see boost from Russia-Ukraine conflict? - Farm Progress",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlMwV21ib1pWZE1ocllnendVRXFkbzVkRlR2aEFfU1M2TmE3eUFHQ3lUdDZWdzFoa2M5Q0xZTkM5VDg1STFkRVFsUlNwcVdiUXhRZHd4Ry1ZUGN3STRWUGNoMjJMSml4U0R5dDIzWUNmZmJzbFk0eGVlWWlQeWpGV2RPbjVEZXoxNVVKZHNmLUR0Qzd5VkVTRlFFOEtWUQ?oc=5",
-  "published": "Wed, 23 Sep 2026 07:02:13 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
+  "headline": "The Other Hormuz: Black Sea Blockade Threatens a Food Supply Shock - gCaptain",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWUdNOTVWdE5HaW45dDVyNXE1T0VIR3dtUFRQU2JaMDhQOHlxVDVzb3NSLVlDbzdUaFZVeUdCMC1ZUk5RTTF0bEwtZFcxSURIVnJCT1BKZXAwUmN6bGZNRF9Mbl84ZHF5aXlJdmZraTIxX2d0ZVRMb0xwVWJaX19BLW5ta0daUF84OER5Zk9sLWY?oc=5",
+  "published": "Tue, 22 Sep 2026 16:55:14 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
   "source": "keyword-rule"
  },
  {
@@ -151,6 +151,17 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Will U.S. wheat exports see boost from Russia-Ukraine conflict? - Farm Progress",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlMwV21ib1pWZE1ocllnendVRXFkbzVkRlR2aEFfU1M2TmE3eUFHQ3lUdDZWdzFoa2M5Q0xZTkM5VDg1STFkRVFsUlNwcVdiUXhRZHd4Ry1ZUGN3STRWUGNoMjJMSml4U0R5dDIzWUNmZmJzbFk0eGVlWWlQeWpGV2RPbjVEZXoxNVVKZHNmLUR0Qzd5VkVTRlFFOEtWUQ?oc=5",
+  "published": "Wed, 23 Sep 2026 07:02:13 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  }
 ]

@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
-- [Oil prices rise as US-Iran talks stalled over Hormuz demands - Anadolu Ajansı](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRENqS2RGU0o1cjF4QklxR3RuVTl5a21wMnRBRlAtUnNIVnBHNmtGVEdJNHZIRDNtMmVvYWpaelJrRlMtaGNrd2l4aWJjYWNFenF4NWRwRWxTd0FPZmlMeHBFS05fcHdSdkRWYkpKQVNLUXlBQ2VVVm5laWtvWWt5MHpRTzIyekZaaFF3LTJtVnZqY1dNaTRFTXN5cnJ2cHh0X3BjSdIBrAFBVV95cUxPeUU5aVpvdmZuTlZ6UXpXWFRkcG1iZkNnZG5ob1AyY3NjWm05RXpRanJDckNnZ1FGeFk3QU9aMlpaRVkxck1ZelpnWTgxcHRDVjFhQnZoWHVpVWoyTzQ5R0phaktoQzdCUjU0VVhERVYwOXBTbWp6X0ttNnBtRVN1NlNGRk1ENDVQTlJVeHZ2cHo1UEtveEFybDJsS1lpWFY4LTRyMlFKUTRDQTBS?oc=5)
+_11 corroborating headline(s):_
 - [UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5)
+- [Oil prices rise as US-Iran talks stalled over Hormuz demands - Anadolu Ajansı](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRENqS2RGU0o1cjF4QklxR3RuVTl5a21wMnRBRlAtUnNIVnBHNmtGVEdJNHZIRDNtMmVvYWpaelJrRlMtaGNrd2l4aWJjYWNFenF4NWRwRWxTd0FPZmlMeHBFS05fcHdSdkRWYkpKQVNLUXlBQ2VVVm5laWtvWWt5MHpRTzIyekZaaFF3LTJtVnZqY1dNaTRFTXN5cnJ2cHh0X3BjSQ?oc=5)
 - [Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5)
-- …and 7 more
+- …and 8 more
 
 ## Congo’s New Export Ban Puts a Price on Cobalt's Human Cost - Carolina Political Review
 *Wed, 16 Sep 2026 19:22:38 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3pKbm9BUWFhQWRlWE9pZ3RuTXRVMmVWR2NnaVRXaW1KTUh5dU93b3EybWlxTWVCMVNxYnlmUFM4czV0RUM1Q2tiNDYyMFowX0ROMU9VQUkzOFBCTkhmTkdveGg2MTVJR0k0c0dwZDdHZDZDTEZBa1dVRzEtbTdqM2syWHN6NXVpWVUwLVdkcmJnTnItTmN3Wnl0SVFmVFZUT2gxNlBHb2dQVmdUNzAyaldMYnZjczZLUnc?oc=5)
