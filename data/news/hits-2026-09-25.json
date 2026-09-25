@@ -11,17 +11,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
-  "published": "Thu, 24 Sep 2026 22:22:05 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Oil prices rise as US-Iran talks stalled over Hormuz demands - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRENqS2RGU0o1cjF4QklxR3RuVTl5a21wMnRBRlAtUnNIVnBHNmtGVEdJNHZIRDNtMmVvYWpaelJrRlMtaGNrd2l4aWJjYWNFenF4NWRwRWxTd0FPZmlMeHBFS05fcHdSdkRWYkpKQVNLUXlBQ2VVVm5laWtvWWt5MHpRTzIyekZaaFF3LTJtVnZqY1dNaTRFTXN5cnJ2cHh0X3BjSdIBrAFBVV95cUxPeUU5aVpvdmZuTlZ6UXpXWFRkcG1iZkNnZG5ob1AyY3NjWm05RXpRanJDckNnZ1FGeFk3QU9aMlpaRVkxck1ZelpnWTgxcHRDVjFhQnZoWHVpVWoyTzQ5R0phaktoQzdCUjU0VVhERVYwOXBTbWp6X0ttNnBtRVN1NlNGRk1ENDVQTlJVeHZ2cHo1UEtveEFybDJsS1lpWFY4LTRyMlFKUTRDQTBS?oc=5",
   "published": "Thu, 24 Sep 2026 08:04:54 GMT",
@@ -36,6 +25,17 @@
   "headline": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - Barchart.com",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5",
   "published": "Mon, 21 Sep 2026 15:35:18 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
+  "published": "Thu, 24 Sep 2026 22:22:05 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -99,7 +99,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo\u2019s New Export Ban Puts a Price on Cobalt's Human Cost - carolinapoliticalreview.org",
+  "headline": "Congo\u2019s New Export Ban Puts a Price on Cobalt's Human Cost - Carolina Political Review",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3pKbm9BUWFhQWRlWE9pZ3RuTXRVMmVWR2NnaVRXaW1KTUh5dU93b3EybWlxTWVCMVNxYnlmUFM4czV0RUM1Q2tiNDYyMFowX0ROMU9VQUkzOFBCTkhmTkdveGg2MTVJR0k0c0dwZDdHZDZDTEZBa1dVRzEtbTdqM2syWHN6NXVpWVUwLVdkcmJnTnItTmN3Wnl0SVFmVFZUT2gxNlBHb2dQVmdUNzAyaldMYnZjczZLUnc?oc=5",
   "published": "Wed, 16 Sep 2026 19:22:38 GMT",
   "rule_note": "",
@@ -121,7 +121,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The Other Hormuz: War Chokes Black Sea Grain Trade - kyivpost.com",
+  "headline": "Russia Can Restart 80% of Black Sea Grain Export Terminals if Attacks Stop \u2013 Analysis - The Moscow Times",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGRhWmxua1hCdVVISExVWk5wSmxYYVF2dFdxaEtsMTJKVDJSNDRWOWJ4bGM1WXdJMHdQRDY5aERvZnlORDA2Ujk1RGNnNDRzNXp4MG9hZ3JhemxGRlU3RmFEOFpnUUVqQWVzOWtQTTExT0lhMGkzeDJGWWtYVDJXaEhJY3RSemF3QWdscXlLRElCeHZ5SElZZ3RHVUhMel9Qd09lRzZDeHVhSXVKbFlfVDhWRWZwTElfYzRMQmVVdElWWUFXcDFyVWtXTQ?oc=5",
+  "published": "Fri, 25 Sep 2026 15:36:14 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "The Other Hormuz: War Chokes Black Sea Grain Trade - Kyiv Post",
   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4UkJ5U2FwYXNyNE1VVWFGYjJOZ3hBT0RhN3JKNkt0WlE3V3lkZmFIeDJiLWZHdHRnVlk1eUpkWDBfRGZaaFhQRXNuVQ?oc=5",
   "published": "Tue, 22 Sep 2026 09:43:45 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -129,6 +140,28 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia can restart 80% of Black Sea grain export terminals if attacks stop - The Economic Times",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSG40TkltNllVWDk1dmtaYmlvYUZqUUNHZ2E0X05RNFhFODA3TVNqSXlGTkRXa1lYTjJWN0w4V2FEVUM3T3ZCWW5XNFptSFoyd3F6Vmx0S0dKODJlajNuOVczdENpUjFpcFBvNWdOMHcxS1VlZE0xU0FSX2RwYVNiV2pMaURiN201akFhQV9zUlZ6RDgtQzNjZFk3bWdEeVQ5WlVtTUliczZQNnJzUWFHMVYyYlRWRmxyMXJZVnowek51U1Y2NjNGdWljTnZvRmdOb2hCVmZ6dXI0cktqSndTMXVjMHhzNHRSVmhrQWFnc3h0LWp2WVYzd3Z30gHzAUFVX3lxTE05dHB1NDg5TGNVWXdxOWhYSC02bDEweFU4MFRidFdPNGlwT3ZpYVZvcHR1WDEzWlJ1SHZVbUtJM0hUeEw2LUVUZnVFam0zX0prb1RIWVVaN3ZYbWxmektaQjg2TnFFQ0stOVVuQy05d045QzZ2WnN1WE9KdlBTNGprODV1VDl3ZXVBeTZ4LWdESFV5V0R0ZFppdGtaLTdkVktneHhFOWhzYWgzbzU2cG5oVjhJZFJoeEVEc2pFZGs5MXRxSjIxSkZNMC0xNFR3T3hNV2dVQkp4eFEtSDZRUnZsNGpvb3lBenpOWFprdDR0cWZLTQ?oc=5",
+  "published": "Fri, 25 Sep 2026 14:56:55 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia can restart 80% of Black Sea grain export terminals if attacks stop - Internazionale",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2thWnRlMFJQVFZRbWR4NEo1Z0tIb3JQb2xydnVITFJMak9tZkFuMjV4QVZqU1dJX1VXLVdzY2RHTndhWEh6NVl3U2psM240UUpmM3hMU1FjVVpSZ2VPaWttTGVoaG5LdW8xQnNPakczZ1J0SDlUQVdlUzNCdjdhNExkWkJtYnlsd05NQUhuVmlJRkxGVGhzWXY4VGp0Q1FaOS13Mjl2Q0JTWlI2ZTFhMDVmb1hlQ1FuQldPVXRubTZpUHRjRm4taWZKeXI1M21CRW53?oc=5",
+  "published": "Fri, 25 Sep 2026 14:45:15 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  },
  {
@@ -140,17 +173,6 @@
   "country": "Russia",
   "severity": 0.15,
   "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Disruptions across Strait of Hormuz, Black Sea and alternative routes raise global food and fuel security risks - Down To Earth",
-  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQzlIQmItZUZWY2xFbUxQX1R5dlNVeklxUFQ0WGE1Y1BfNmNCejUzZmVXRS1OT3lScVNTeXhEQ1FXeTRSMjRIeFlfaElUQnVvVnozN2hfb2JvOVhtUXR6ZHUwOVBjanBINEg3ZElKNGlZbXdxY0ptSGdvdkk3cGZxYkwzeWxHSVpWMk9vaGVwemlFR3ZyTGJZd1QwbW1rSEc4LUd6ZjBLcFZReG9KaWVJenJ4N2EycjNFOUNleTZyLWhITlFHbGxJZ1QyZFVkSEZfOUVhUTN2R3BweGlLb2RPOVVR0gHvAUFVX3lxTE5TbS1nSkxETjBibmtBNjFfNjRhQmFrSkJ2akktYXk2V3NPVDl1bTdKYmxCby1JR21NdGNWZl8wSjhzd2lwd0lhVzRBUFJtTERsN3QwdFFmbkp1a01HaVhOSFhJZ0hKV214dTFDQXBZM1Z1eUwxZXdmR0JfS0Z6MmtIcVBNRktkMlQyNXdrQ19XTml1cC1qOVJXYVNWMUFFV1dmYXc2bDN0UFVnTU1TMzcySUpGZllGY0dUN1kxSEpNc0dfTlZjWTlBTlh0bVNSeGtreTVMajJJYUVVbWRkeXJwNlQzckVza3ZlZ0M3WW9V?oc=5",
-  "published": "Fri, 25 Sep 2026 06:10:59 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
   "source": "keyword-rule"
  },
  {
