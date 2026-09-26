@@ -11,7 +11,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices rise as US-Iran talks stalled over Hormuz demands - Anadolu Ajans\u0131",
+  "headline": "Oil prices rise as US-Iran talks stalled over Hormuz demands - aa.com.tr",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRENqS2RGU0o1cjF4QklxR3RuVTl5a21wMnRBRlAtUnNIVnBHNmtGVEdJNHZIRDNtMmVvYWpaelJrRlMtaGNrd2l4aWJjYWNFenF4NWRwRWxTd0FPZmlMeHBFS05fcHdSdkRWYkpKQVNLUXlBQ2VVVm5laWtvWWt5MHpRTzIyekZaaFF3LTJtVnZqY1dNaTRFTXN5cnJ2cHh0X3BjSdIBrAFBVV95cUxPeUU5aVpvdmZuTlZ6UXpXWFRkcG1iZkNnZG5ob1AyY3NjWm05RXpRanJDckNnZ1FGeFk3QU9aMlpaRVkxck1ZelpnWTgxcHRDVjFhQnZoWHVpVWoyTzQ5R0phaktoQzdCUjU0VVhERVYwOXBTbWp6X0ttNnBtRVN1NlNGRk1ENDVQTlJVeHZ2cHo1UEtveEFybDJsS1lpWFY4LTRyMlFKUTRDQTBS?oc=5",
   "published": "Thu, 24 Sep 2026 08:04:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -22,7 +22,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - barchart.com",
+  "headline": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz - Barchart.com",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDQwSVVmaElfR0NwNEFYd21EUXhmWVQ1WVEwSXFodmZtRVc5M1h3c0ZCMEMxZ2s3MlkxMEJ0T2pFRmdaVVhhQUR1cW9hdmVXdUQ5Uk1Va3U0TjU2UnhaOUtKdTB6N2dVNEdJT3ltc0RBZFFuSUZVdUxmbXFqQjQtQlhvMFI5djF0a2tHSHlqMEQ4azNQLXRhM0tsQjlfODJFRkE3OW9xM1RSVk1Xbk8tckN6cw?oc=5",
   "published": "Mon, 21 Sep 2026 15:35:18 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -99,7 +99,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo\u2019s New Export Ban Puts a Price on Cobalt's Human Cost - carolinapoliticalreview.org",
+  "headline": "Congo\u2019s New Export Ban Puts a Price on Cobalt's Human Cost - Carolina Political Review",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3pKbm9BUWFhQWRlWE9pZ3RuTXRVMmVWR2NnaVRXaW1KTUh5dU93b3EybWlxTWVCMVNxYnlmUFM4czV0RUM1Q2tiNDYyMFowX0ROMU9VQUkzOFBCTkhmTkdveGg2MTVJR0k0c0dwZDdHZDZDTEZBa1dVRzEtbTdqM2syWHN6NXVpWVUwLVdkcmJnTnItTmN3Wnl0SVFmVFZUT2gxNlBHb2dQVmdUNzAyaldMYnZjczZLUnc?oc=5",
   "published": "Wed, 16 Sep 2026 19:22:38 GMT",
   "rule_note": "",
@@ -165,9 +165,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Will U.S. wheat exports see boost from Russia-Ukraine conflict? - farmprogress.com",
+  "headline": "Will U.S. wheat exports see boost from Russia-Ukraine conflict? - Farm Progress",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlMwV21ib1pWZE1ocllnendVRXFkbzVkRlR2aEFfU1M2TmE3eUFHQ3lUdDZWdzFoa2M5Q0xZTkM5VDg1STFkRVFsUlNwcVdiUXhRZHd4Ry1ZUGN3STRWUGNoMjJMSml4U0R5dDIzWUNmZmJzbFk0eGVlWWlQeWpGV2RPbjVEZXoxNVVKZHNmLUR0Qzd5VkVTRlFFOEtWUQ?oc=5",
   "published": "Wed, 23 Sep 2026 07:02:13 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia's Grain Export Pivot Could Change the Wheat Price Equation for U.S. Farmers - agrolatam.com",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15UkxNSTJ5aHJQYzV0R1BDejU5MlZ0dl8tQzdTb3pMWi1abHh4NmZMR05rUjlqdUpqYWk5X0VvaVY5cS1mcHJNLUI4U1Qwbll4cTNvemN3VlhlUE15czBDN1VYazM5ME9Jc2pjN3B5U05rUEtsUFhONi1wNjU?oc=5",
+  "published": "Mon, 21 Sep 2026 21:42:52 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
