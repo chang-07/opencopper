@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_12 corroborating headline(s):_
+_11 corroborating headline(s):_
+- [Crude Prices Slip in Hopes of Diplomacy Reopening the Strait of Hormuz - es.tradingview.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPRXRNeVltQVp0VmMwSnE3OXZ1eXZMWDlUejZ1UGowRDdScjJRaC1mYk5wTTdtcFQyODNLRUhBX0tlMWdBaWg5V3hPMjFoOG9BTVEwbnY5QkR2NkJIOS12aVN2VlV3OHYzdXg3TUlwWk45dm9vcWc0eVNHVlcxLXVJQUF6M1NGNk9vb3NwLXRVT2Zma05tYWQ4ZmItMEVCM1pnd1lhREwwVFJMWjhpUGV2YVNQSm5wUlM1cTdRSC1fN3pfSk5xTE5J?oc=5)
 - [Hormuz Workarounds Keep Gulf Oil Flowingat a Steep Cost - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdXZsc0dMYjJfM3RKbFRlcjFEaTJtd0NweXZBekN2cV9FUDVvdlhCOFI2NW9jWVBkdl9nRTNLMFRpZ0VEc0ZoQzJCaF9ldVAtMkxKSVoycXlmU3ZhSVkzSjhtZWE0aXlMU2tHOXIzajJZOUlvQlZJRkJ3TW9xRE1rYUJ4ZTU2OENFY1hqeUt6R0pCNlh6UlYxNGItMVVHZ3PSAaQBQVVfeXFMTkVIZzVhRDJkNEdxd1RjREVOR2NheF90QmNFLVNGUFowdF9BaDJFalJYXy0yc1NyaUEyd00takhRaHZoM1ZpTk96MkJXRlQyT19ZNEhuTEcxNFl1Mml0QVVyN0lfTHd0ZVJHMWZ2REptMTA5Slh4SU8yeGZLM0ZDbFBkRkp5cF9melYwLTkzcDlmQTA4OHlIZlI0MUlBVXhkRHBKYWE?oc=5)
-- [Crude Prices Slip in Hopes of Diplomacy Reopening the Strait of Hormuz - TradingView](https://news.google.com/rss/articles/CBMixwFBVV95cUxPRXRNeVltQVp0VmMwSnE3OXZ1eXZMWDlUejZ1UGowRDdScjJRaC1mYk5wTTdtcFQyODNLRUhBX0tlMWdBaWg5V3hPMjFoOG9BTVEwbnY5QkR2NkJIOS12aVN2VlV3OHYzdXg3TUlwWk45dm9vcWc0eVNHVlcxLXVJQUF6M1NGNk9vb3NwLXRVT2Zma05tYWQ4ZmItMEVCM1pnd1lhREwwVFJMWjhpUGV2YVNQSm5wUlM1cTdRSC1fN3pfSk5xTE5J?oc=5)
 - [Why Oil Prices Remain High: Iran, Strait of Hormuz and US Gas Prices - Межа. Новини України.](https://news.google.com/rss/articles/CBMiWkFVX3lxTE95QXJjSUpXQTU3UFc3YUlieTdXei16YXRGYjdndUE0RlQ1MXY2UmNlTmdrczBhRnc4bW5ieFhkME04b3MzMjdvMUVLLVJ1UGotcF9HTnhqaU1yUQ?oc=5)
-- …and 9 more
+- …and 8 more
 
 ## Congo’s New Export Ban Puts a Price on Cobalt's Human Cost - Carolina Political Review
 *Wed, 16 Sep 2026 19:22:38 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3pKbm9BUWFhQWRlWE9pZ3RuTXRVMmVWR2NnaVRXaW1KTUh5dU93b3EybWlxTWVCMVNxYnlmUFM4czV0RUM1Q2tiNDYyMFowX0ROMU9VQUkzOFBCTkhmTkdveGg2MTVJR0k0c0dwZDdHZDZDTEZBa1dVRzEtbTdqM2syWHN6NXVpWVUwLVdkcmJnTnItTmN3Wnl0SVFmVFZUT2gxNlBHb2dQVmdUNzAyaldMYnZjczZLUnc?oc=5)
