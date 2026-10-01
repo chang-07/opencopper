@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _10 corroborating headline(s):_
 - [Iraq looks for oil export alternatives to the troubled Strait of Hormuz - Al Jazeera](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWFkRk5ZMkJFUmtITDVCbEx3STJmeDVNWnJpbFgtRWlYQVhlb0JxcUpTR0hCUVY1Rlc3NURTdUdycnJCdnVtckNxLXFzSFVENEN2MTMzeGluMTJ5MEtPOUI1bWR0YmZEdW9FUXNqdXBCT0pOQzJKSldNbTdZQTAtNHFVSEtPczBmLWpPUGZPb0FDRGRKV2hGUEpPSzJVNXl5dGVZUFdkTHhJNHRwa3ZxcHJIMUFiUdIBuwFBVV95cUxPcnNvT0owZU5BZUk2Q21rTlNrMlRGQWpPQ0tCSG5DLXJkX2NsVUVzeGtUVy1VQmtPUWxUMTI5TWQ5UVlxc01tc3h0QU9IX1Nndmh1bEFQQXlPazRxZGp3bDVSV2U4d0NLMDk1dWVtN1FkOVVORmNpbG9rSGdlbUR6WWNXUklueHFVaFBIRlBvMFl3ZnY3Z1ZyQl8xaXpET1prdmJlZmtjR1REYXkwYlVldEF1eVgxc0pFQkdR?oc=5)
+- [India Looks to Boost Exploration as Hormuz Crisis Threatens Supply - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGtBS1FOMk96b0Rqbzl0NndCMm1vNWNwRm1pQmVaS0FKNW8yLTFXZW5NaUFqLUQyd2VKa3Juay1Vd3NMNVh5WENmV0ZjcjNHSVVQNWRydjJNVEhidkppNG51cmFvMWp1UkYtczNoM2ZGZnRoRkNjS29udlhzekZ5cFFsOEFObUVRRFBhY0JUclFITlVIMGt5TWNQWkQzNXRlbU1iVlBaU0l4V3BuQU1ndjljR285bHRxTWZsbmpVb9IBxAFBVV95cUxQNXVzMWxtRkg1RUExdHhpSnJDTE5xOWt2M2VXdVVZa1JKbzhiYU8zVDg1R1JLYUp5aXdRcUhhcmNrSHJsdGJpNFpzVzFCRTAxQkJZcDFUSUZEb1NldUgwbVBUZ09tbDVWMzFMekpwcEl4V2ZYb0ZuOTY3am1IRUhUSVowTDJBS2FmclBzOUJBTEM0dFJzUTdQd3FOQTIwX0g4ZEstM3ExQUJqczBGa0VxLU1nbHM3dVJvd2tvdmtzSVFJaTZt?oc=5)
 - [UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5)
-- [India Looks to Boost Exploration as Hormuz Crisis Threatens Supply - oilprice.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGtBS1FOMk96b0Rqbzl0NndCMm1vNWNwRm1pQmVaS0FKNW8yLTFXZW5NaUFqLUQyd2VKa3Juay1Vd3NMNVh5WENmV0ZjcjNHSVVQNWRydjJNVEhidkppNG51cmFvMWp1UkYtczNoM2ZGZnRoRkNjS29udlhzekZ5cFFsOEFObUVRRFBhY0JUclFITlVIMGt5TWNQWkQzNXRlbU1iVlBaU0l4V3BuQU1ndjljR285bHRxTWZsbmpVb9IBxAFBVV95cUxQNXVzMWxtRkg1RUExdHhpSnJDTE5xOWt2M2VXdVVZa1JKbzhiYU8zVDg1R1JLYUp5aXdRcUhhcmNrSHJsdGJpNFpzVzFCRTAxQkJZcDFUSUZEb1NldUgwbVBUZ09tbDVWMzFMekpwcEl4V2ZYb0ZuOTY3am1IRUhUSVowTDJBS2FmclBzOUJBTEM0dFJzUTdQd3FOQTIwX0g4ZEstM3ExQUJqczBGa0VxLU1nbHM3dVJvd2tvdmtzSVFJaTZt?oc=5)
 - …and 7 more
 
 ## Indonesian imports of Philippine nickel ore up 82% to cover quota restrictions - Benchmark Mineral Intelligence
@@ -60,19 +60,15 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_3 corroborating headline(s):_
 - [Russia Can Restart 80% of Black Sea Grain Export Terminals if Attacks Stop – Analysis - The Moscow Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGRhWmxua1hCdVVISExVWk5wSmxYYVF2dFdxaEtsMTJKVDJSNDRWOWJ4bGM1WXdJMHdQRDY5aERvZnlORDA2Ujk1RGNnNDRzNXp4MG9hZ3JhemxGRlU3RmFEOFpnUUVqQWVzOWtQTTExT0lhMGkzeDJGWWtYVDJXaEhJY3RSemF3QWdscXlLRElCeHZ5SElZZ3RHVUhMel9Qd09lRzZDeHVhSXVKbFlfVDhWRWZwTElfYzRMQmVVdElWWUFXcDFyVWtXTQ?oc=5)
 - [EXCLUSIVE: Russia adapts fertilizer, coal terminals in Baltic, Arctic ports to export Black Sea grain - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNE5HNmRLSkhKLVZHSUdKNGNsOWh6RmUwb3VkRXdmLXN6c0FfSUV5ZTY3T2dpcVFTQWVLMjAzeHZnemlPWnprVC1SOFJxdHNhWXVXcHJTSDFsUFFDQWd5MFduSk43Ul9YaWtpeDZCeC1PeWFvTTIyQjFFWXd6ajNkeldBMy1ZWmJSU3ZwQjZqZVVicXNrOEd5WWFhX2xOWWF5djFsbEhIU01uNFBaR0ZkZTFfVmxabDk4VmpYOVFB?oc=5)
-- [Sovecon sharply cuts Russia 2026/27 grain export forecast on Black Sea disruptions - marketscreener.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGs1dVZfWXNzd1lUNGRaeGFhak1nemdraDJlYUQxdTFvZ1RUQzFXVGVLWENsRGZxT2lmd0FlWkdXcVlTMmxpdzZrbzk4TEpvbjFzYmcyTWxnbTVHNk5DcG04TjBXSlR2cHliRmFHaWlPV0ZFRUN2ZHh1WjJnX2tVb3ZWX0VwbDQ0U1JCeTA4RVFSSVRqU2xteWtieW5iejRHSVRuemkwM2pLazFEYW1SazBfZXBnTktwbG1Ga0k3V0hydGpKeVE?oc=5)
-- …and 2 more
+- [A Ceasefire Would Allow Russia to Restart 80% of Black Sea Grain Export Terminals - maritimeprofessional.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHgtZVhubmZDZG1wSm80c2lrQjhkMmZwdmZzWlJ0b2lRanNsbGxHUDU3dTA0ZTZlNnM2eVZwYlpZOHdCSUNCTTZOVm5fSGxQWkU2RWFOemI0NFBNMXpVWUhYaTY1cG1NSDg2dGdhMFdZcmVSOGJ1dExPX2FhRUdsQUd6ZU4yUHctM1lsT0l30gGTAUFVX3lxTE0xRm42ckJLdG1oZnlaOEF1d3loZkk5ZjRTOUFyV3o5Zmk4NXY2bDhTN3ZBT3NBYWJhUk9UTmQwUlhld2lFZHhzWVVCR2N5NzZBQjliT1ZWcUhPVUtYWjN6ajktOE5kSVRlcVh6RFBlaGh6alExemtUVW9jQXpZcEQ0LXZaQWNjTDBQT1BKSnJJV2N6Yw?oc=5)
 
 ---
 
 ## Scorecard
 19 theses: 2 hit / 0 miss / 16 open / 1 need resolution · hit rate 100% · open auto avg move -1.7%
 
-- new thesis: **auto-2026-10-crude-oil-saudi-arabia** — news-implied supply event (Saudi Arabia crude-oil -20% prior): price prints ≥+5% vs entry within 6m
-- new thesis: **auto-2026-10-nickel-indonesia** — news-implied supply event (Indonesia nickel -25% prior): price prints ≥+5% vs entry within 6m
-- new thesis: **auto-2026-10-wheat-russia** — news-implied supply event (Russia wheat -15% prior): price prints ≥+5% vs entry within 6m
 
 Full ledger: `opencopper theses` / the demo's Scorecard tab.
