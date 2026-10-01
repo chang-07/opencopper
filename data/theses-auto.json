@@ -174,5 +174,53 @@
   "basis": "Indonesian imports of Philippine nickel ore up 82% to cover quota restrictions - Benchmark Mineral Intelligence",
   "rule_id": "indonesia-nickel",
   "source": "keyword-rule"
+ },
+ {
+  "id": "auto-2026-10-crude-oil-saudi-arabia",
+  "created": "2026-10-01",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "claim": "news-implied supply event (Saudi Arabia crude-oil -20% prior): price prints \u2265+5% vs entry within 6m",
+  "metric": "price_change",
+  "min_move_pct": 5.0,
+  "horizon_months": 6,
+  "entry_date": "2026-07-01",
+  "entry_price": 83.73409090909091,
+  "basis": "Bypass the Strait of Hormuz? Why That\u2019s Not So Easy - EnergyNow.com",
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "id": "auto-2026-10-nickel-indonesia",
+  "created": "2026-10-01",
+  "commodity": "nickel",
+  "country": "Indonesia",
+  "severity": 0.25,
+  "claim": "news-implied supply event (Indonesia nickel -25% prior): price prints \u2265+5% vs entry within 6m",
+  "metric": "price_change",
+  "min_move_pct": 5.0,
+  "horizon_months": 6,
+  "entry_date": "2026-07-01",
+  "entry_price": 16632.36136363636,
+  "basis": "Indonesian imports of Philippine nickel ore up 82% to cover quota restrictions - Benchmark Mineral Intelligence",
+  "rule_id": "indonesia-nickel",
+  "source": "keyword-rule"
+ },
+ {
+  "id": "auto-2026-10-wheat-russia",
+  "created": "2026-10-01",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "claim": "news-implied supply event (Russia wheat -15% prior): price prints \u2265+5% vs entry within 6m",
+  "metric": "price_change",
+  "min_move_pct": 5.0,
+  "horizon_months": 6,
+  "entry_date": "2026-07-01",
+  "entry_price": 228.73884495,
+  "basis": "Russia Rejects Black Sea Grain Truce as Ukraine Warns Exports Could Stay Critical for Months - Kyiv Post",
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
  }
 ]
