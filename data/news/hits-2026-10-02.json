@@ -33,17 +33,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
-  "published": "Thu, 01 Oct 2026 22:54:21 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Crude Prices Pressured as More Oil Flows Through the Strait of Hormuz - Barchart.com",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjdJY2ZvaUh6dlpGS3VzRVZIT0duLTBBWlFVRVpuSUU0TERFclRHSG9wSlhuQzYyV3RCOHp5dEc3WnY5UEdKa1hnUms0THNSNFp4RndRcnBBejhLRHdSM3c4ZHYxYmt4R1dJVGhKSFpUcEpZNUtVeTVuc19aXzcyTzJVTzhJYzF2TTdKa2tnb1lveGNFZGY3VTdWOFJlOG9LQkd1eVF5RlhFNFZ3S0owc1ltQQ?oc=5",
   "published": "Tue, 29 Sep 2026 15:34:12 GMT",
@@ -55,7 +44,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Prices Slip in Hopes of Diplomacy Reopening the Strait of Hormuz - es.tradingview.com",
+  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
+  "published": "Thu, 01 Oct 2026 22:54:21 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Crude Prices Slip in Hopes of Diplomacy Reopening the Strait of Hormuz - TradingView",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRXRNeVltQVp0VmMwSnE3OXZ1eXZMWDlUejZ1UGowRDdScjJRaC1mYk5wTTdtcFQyODNLRUhBX0tlMWdBaWg5V3hPMjFoOG9BTVEwbnY5QkR2NkJIOS12aVN2VlV3OHYzdXg3TUlwWk45dm9vcWc0eVNHVlcxLXVJQUF6M1NGNk9vb3NwLXRVT2Zma05tYWQ4ZmItMEVCM1pnd1lhREwwVFJMWjhpUGV2YVNQSm5wUlM1cTdRSC1fN3pfSk5xTE5J?oc=5",
   "published": "Fri, 25 Sep 2026 15:31:48 GMT",
   "rule_note": "transit proxy on Gulf supply",
@@ -154,17 +154,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Rejects Black Sea Grain Truce as Ukraine Warns Exports Could Stay Critical for Months - Kyiv Post",
-  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oaEhTZUFBSzhYMlFiZW1UZUlXQ2QwOVhDSk03SHhHQ1dwNnRLNjRpcEF1bEVadVFaZ19aU1JBR2pxOUJjVXctcGJhZw?oc=5",
-  "published": "Tue, 29 Sep 2026 09:47:52 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russia Can Restart 80% of Black Sea Grain Export Terminals if Attacks Stop \u2013 Analysis - The Moscow Times",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGRhWmxua1hCdVVISExVWk5wSmxYYVF2dFdxaEtsMTJKVDJSNDRWOWJ4bGM1WXdJMHdQRDY5aERvZnlORDA2Ujk1RGNnNDRzNXp4MG9hZ3JhemxGRlU3RmFEOFpnUUVqQWVzOWtQTTExT0lhMGkzeDJGWWtYVDJXaEhJY3RSemF3QWdscXlLRElCeHZ5SElZZ3RHVUhMel9Qd09lRzZDeHVhSXVKbFlfVDhWRWZwTElfYzRMQmVVdElWWUFXcDFyVWtXTQ?oc=5",
   "published": "Fri, 25 Sep 2026 15:36:14 GMT",
@@ -201,6 +190,17 @@
   "headline": "Russia can restart 80% of Black Sea grain export terminals if attacks stop - Reuters",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa19qYzVycXJZdEpvR3lKZTB5MzdOMnA3akt6OVViZEp2aTluMWFoaGVBWkljTkdHYy12LVludzlUZVd1cVdEdzJ1SnNrNVg2MU9WMXRaQTNZeTRZNDg0ck5NR2p2U3NsMmJvelMyQTVxTTg5YTFpM0hKb1JvY2RpaE1KQmJZd1RnUzVJeDV6WF9mMTJKODQ1N0JDZXpXdTFIenZoSVJoamFhSWQxN19fX0ZR?oc=5",
   "published": "Fri, 25 Sep 2026 14:45:48 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia Rejects Black Sea Grain Truce as Ukraine Warns Exports Could Stay Critical for Months - Kyiv Post",
+  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oaEhTZUFBSzhYMlFiZW1UZUlXQ2QwOVhDSk03SHhHQ1dwNnRLNjRpcEF1bEVadVFaZ19aU1JBR2pxOUJjVXctcGJhZw?oc=5",
+  "published": "Tue, 29 Sep 2026 09:47:52 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
