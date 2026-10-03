@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
-- [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
+_7 corroborating headline(s):_
+- [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - energynow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
 - [India Looks to Boost Exploration as Hormuz Crisis Threatens Supply - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGtBS1FOMk96b0Rqbzl0NndCMm1vNWNwRm1pQmVaS0FKNW8yLTFXZW5NaUFqLUQyd2VKa3Juay1Vd3NMNVh5WENmV0ZjcjNHSVVQNWRydjJNVEhidkppNG51cmFvMWp1UkYtczNoM2ZGZnRoRkNjS29udlhzekZ5cFFsOEFObUVRRFBhY0JUclFITlVIMGt5TWNQWkQzNXRlbU1iVlBaU0l4V3BuQU1ndjljR285bHRxTWZsbmpVb9IBxAFBVV95cUxQNXVzMWxtRkg1RUExdHhpSnJDTE5xOWt2M2VXdVVZa1JKbzhiYU8zVDg1R1JLYUp5aXdRcUhhcmNrSHJsdGJpNFpzVzFCRTAxQkJZcDFUSUZEb1NldUgwbVBUZ09tbDVWMzFMekpwcEl4V2ZYb0ZuOTY3am1IRUhUSVowTDJBS2FmclBzOUJBTEM0dFJzUTdQd3FOQTIwX0g4ZEstM3ExQUJqczBGa0VxLU1nbHM3dVJvd2tvdmtzSVFJaTZt?oc=5)
 - [Crude Prices Pressured as More Oil Flows Through the Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjdJY2ZvaUh6dlpGS3VzRVZIT0duLTBBWlFVRVpuSUU0TERFclRHSG9wSlhuQzYyV3RCOHp5dEc3WnY5UEdKa1hnUms0THNSNFp4RndRcnBBejhLRHdSM3c4ZHYxYmt4R1dJVGhKSFpUcEpZNUtVeTVuc19aXzcyTzJVTzhJYzF2TTdKa2tnb1lveGNFZGY3VTdWOFJlOG9LQkd1eVF5RlhFNFZ3S0owc1ltQQ?oc=5)
-- …and 2 more
+- …and 4 more
 
 ## Cobalt’s Silent Cartel: China, Kinshasa and the DRC Export Quota - Geopolitical Monitor
 *Thu, 01 Oct 2026 14:05:48 GMT* — [source](https://news.google.com/rss/articles/CBMifkFVX3lxTE1aZFVLaUo4UjM0VVJ3c1FkTjZOWWlLUlNqUnFnSmRJeDRRV28wY2Jma2JkQ1NRWWc4M21VeFF0MFZEbk84VGlDZ3psQlRhTmExbWhUbjZGcnR3ZlJOWW8xU3JmYVdYUThBZmpKRk5QekpNd3RHUzlsdkR6VmRRUQ?oc=5)
@@ -64,7 +64,7 @@ _1 corroborating headline(s):_
 - [Indonesian imports of Philippine nickel ore up 82% to cover quota restrictions - Benchmark Mineral Intelligence](https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3VuNG9aemJpRDQ5TUxwNnB0MGxxMFhaamFmZXNMRlFPZGJsRWFJRnNUYUxGcDY0U2JQcVJCVVQ2VU9XUm1hWV9TXy1Gc1ktUHlnVWpsdTVmbHg3QmFMWUdFNEoyZFc4WEhSaFdwZUlJZ1dWT0g3QjRnckh4Uy1IM3RKSWhpSGZpSUFIc0hyZl80WVVaQ0liTTFKTU9vNHgxbG50THBpWk9HTFpfNlNaUjJrWkRUcm1YaTIwTkNURQ?oc=5)
 
 ## Russia Can Restart 80% of Black Sea Grain Export Terminals if Attacks Stop – Analysis - The Moscow Times
-*Fri, 25 Sep 2026 15:36:14 GMT* — [source](https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGRhWmxua1hCdVVISExVWk5wSmxYYVF2dFdxaEtsMTJKVDJSNDRWOWJ4bGM1WXdJMHdQRDY5aERvZnlORDA2Ujk1RGNnNDRzNXp4MG9hZ3JhemxGRlU3RmFEOFpnUUVqQWVzOWtQTTExT0lhMGkzeDJGWWtYVDJXaEhJY3RSemF3QWdscXlLRElCeHZ5SElZZ3RHVUhMel9Qd09lRzZDeHVhSXVKbFlfVDhWRWZwTElfYzRMQmVVdElWWUFXcDFyVWtXTQ?oc=5)
+*Fri, 25 Sep 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGRhWmxua1hCdVVISExVWk5wSmxYYVF2dFdxaEtsMTJKVDJSNDRWOWJ4bGM1WXdJMHdQRDY5aERvZnlORDA2Ujk1RGNnNDRzNXp4MG9hZ3JhemxGRlU3RmFEOFpnUUVqQWVzOWtQTTExT0lhMGkzeDJGWWtYVDJXaEhJY3RSemF3QWdscXlLRElCeHZ5SElZZ3RHVUhMel9Qd09lRzZDeHVhSXVKbFlfVDhWRWZwTElfYzRMQmVVdElWWUFXcDFyVWtXTQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
