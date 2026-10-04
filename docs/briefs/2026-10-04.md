@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Iran Is Losing Some of Its Leverage Over the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com
-*Sat, 03 Oct 2026 19:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTll6ZWh1TnZ4ZzhUUlNvb1NJSWU2amFMbWtpemNBbEQ5ZHV5STBURTFtZWRxa3I4SmVaRWo5LU1FLU5COGVXbThyVWJtelN5MDVIQzdPa3dXdnZhNnEyeHhCM29tdGFxUl9PLTdPYUJibk5DRlFaSk1QUXFNSEFsMmNfTDZXbTR1Y0tDX2JldnYzRWFWTDBCbUVrT0xLcGtPT2xBUHFEYWxVM2FSNFHSAbMBQVVfeXFMTWxmOTNTNzdDdS1xSVpoQ0U3MHRGZzM0d1JVUi14NDc4UHdiaUxYMy1adENiUlFfV1FKN2N4RXpyUU45bWFxWHZ0ZzBmQVpXUU93YmlKcExEZXFGUlQtLWhKRlBDdlJ1bjIyQ21DVWdnRUdQQzUtRFFVc2h0WmpQdUMxb0VuRlRMM3ZKb3dBeWZPSUttcE9zMUx5VWw2QzdLNGU4cXhEVWxBWWdFeDFnTDR5MzA?oc=5)
+## Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com
+*Sat, 03 Oct 2026 07:44:27 GMT* — [source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
+_6 corroborating headline(s):_
 - [Iraq looks for oil export alternatives to the troubled Strait of Hormuz - Al Jazeera](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWFkRk5ZMkJFUmtITDVCbEx3STJmeDVNWnJpbFgtRWlYQVhlb0JxcUpTR0hCUVY1Rlc3NURTdUdycnJCdnVtckNxLXFzSFVENEN2MTMzeGluMTJ5MEtPOUI1bWR0YmZEdW9FUXNqdXBCT0pOQzJKSldNbTdZQTAtNHFVSEtPczBmLWpPUGZPb0FDRGRKV2hGUEpPSzJVNXl5dGVZUFdkTHhJNHRwa3ZxcHJIMUFiUdIBuwFBVV95cUxPcnNvT0owZU5BZUk2Q21rTlNrMlRGQWpPQ0tCSG5DLXJkX2NsVUVzeGtUVy1VQmtPUWxUMTI5TWQ5UVlxc01tc3h0QU9IX1Nndmh1bEFQQXlPazRxZGp3bDVSV2U4d0NLMDk1dWVtN1FkOVVORmNpbG9rSGdlbUR6WWNXUklueHFVaFBIRlBvMFl3ZnY3Z1ZyQl8xaXpET1prdmJlZmtjR1REYXkwYlVldEF1eVgxc0pFQkdR?oc=5)
-- [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
 - [Crude Prices Pressured as More Oil Flows Through the Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjdJY2ZvaUh6dlpGS3VzRVZIT0duLTBBWlFVRVpuSUU0TERFclRHSG9wSlhuQzYyV3RCOHp5dEc3WnY5UEdKa1hnUms0THNSNFp4RndRcnBBejhLRHdSM3c4ZHYxYmt4R1dJVGhKSFpUcEpZNUtVeTVuc19aXzcyTzJVTzhJYzF2TTdKa2tnb1lveGNFZGY3VTdWOFJlOG9LQkd1eVF5RlhFNFZ3S0owc1ltQQ?oc=5)
-- …and 5 more
+- [Crude Prices Slip in Hopes of Diplomacy Reopening the Strait of Hormuz - TradingView](https://news.google.com/rss/articles/CBMixwFBVV95cUxPRXRNeVltQVp0VmMwSnE3OXZ1eXZMWDlUejZ1UGowRDdScjJRaC1mYk5wTTdtcFQyODNLRUhBX0tlMWdBaWg5V3hPMjFoOG9BTVEwbnY5QkR2NkJIOS12aVN2VlV3OHYzdXg3TUlwWk45dm9vcWc0eVNHVlcxLXVJQUF6M1NGNk9vb3NwLXRVT2Zma05tYWQ4ZmItMEVCM1pnd1lhREwwVFJMWjhpUGV2YVNQSm5wUlM1cTdRSC1fN3pfSk5xTE5J?oc=5)
+- …and 3 more
 
 ## Cobalt’s Silent Cartel: China, Kinshasa and the DRC Export Quota - Geopolitical Monitor
 *Thu, 01 Oct 2026 14:05:48 GMT* — [source](https://news.google.com/rss/articles/CBMifkFVX3lxTE1aZFVLaUo4UjM0VVJ3c1FkTjZOWWlLUlNqUnFnSmRJeDRRV28wY2Jma2JkQ1NRWWc4M21VeFF0MFZEbk84VGlDZ3psQlRhTmExbWhUbjZGcnR3ZlJOWW8xU3JmYVdYUThBZmpKRk5QekpNd3RHUzlsdkR6VmRRUQ?oc=5)
@@ -43,7 +43,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Philippine nickel exports to Indonesia soar after output quotas cut - Nikkei Asia
+## Philippine nickel exports to Indonesia soar after output quotas cut - asia.nikkei.com
 *Tue, 29 Sep 2026 03:46:00 GMT* — [source](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGV2WnBSTy1NSUctSW5zRVNxSjBBNG92V1QzR3o0U2ZxUmx4QWM2bWJka05VRWRTQTVZelZieFlONDNyb2M4LXJWeDFyMU5XNm1mX1FZVjBPdUNPalN2aHNHSTBScmxpaFVNSDhUbHF5d3EtREYtZjVtaGx6ZnBqaDVQUUpMQjg3a0lXX3lZWlAyMERYSlNMUER3N082NkVQMFpPTkVqMXU4ZzhkendVVjEtbjBkekVxM1FySg?oc=5)
 Rule: nickel / Indonesia / severity prior +25%
 
