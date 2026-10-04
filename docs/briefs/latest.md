@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_4 corroborating headline(s):_
 - [Iraq looks for oil export alternatives to the troubled Strait of Hormuz - Al Jazeera](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWFkRk5ZMkJFUmtITDVCbEx3STJmeDVNWnJpbFgtRWlYQVhlb0JxcUpTR0hCUVY1Rlc3NURTdUdycnJCdnVtckNxLXFzSFVENEN2MTMzeGluMTJ5MEtPOUI1bWR0YmZEdW9FUXNqdXBCT0pOQzJKSldNbTdZQTAtNHFVSEtPczBmLWpPUGZPb0FDRGRKV2hGUEpPSzJVNXl5dGVZUFdkTHhJNHRwa3ZxcHJIMUFiUdIBuwFBVV95cUxPcnNvT0owZU5BZUk2Q21rTlNrMlRGQWpPQ0tCSG5DLXJkX2NsVUVzeGtUVy1VQmtPUWxUMTI5TWQ5UVlxc01tc3h0QU9IX1Nndmh1bEFQQXlPazRxZGp3bDVSV2U4d0NLMDk1dWVtN1FkOVVORmNpbG9rSGdlbUR6WWNXUklueHFVaFBIRlBvMFl3ZnY3Z1ZyQl8xaXpET1prdmJlZmtjR1REYXkwYlVldEF1eVgxc0pFQkdR?oc=5)
 - [Crude Prices Pressured as More Oil Flows Through the Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjdJY2ZvaUh6dlpGS3VzRVZIT0duLTBBWlFVRVpuSUU0TERFclRHSG9wSlhuQzYyV3RCOHp5dEc3WnY5UEdKa1hnUms0THNSNFp4RndRcnBBejhLRHdSM3c4ZHYxYmt4R1dJVGhKSFpUcEpZNUtVeTVuc19aXzcyTzJVTzhJYzF2TTdKa2tnb1lveGNFZGY3VTdWOFJlOG9LQkd1eVF5RlhFNFZ3S0owc1ltQQ?oc=5)
 - [Crude Prices Slip in Hopes of Diplomacy Reopening the Strait of Hormuz - TradingView](https://news.google.com/rss/articles/CBMixwFBVV95cUxPRXRNeVltQVp0VmMwSnE3OXZ1eXZMWDlUejZ1UGowRDdScjJRaC1mYk5wTTdtcFQyODNLRUhBX0tlMWdBaWg5V3hPMjFoOG9BTVEwbnY5QkR2NkJIOS12aVN2VlV3OHYzdXg3TUlwWk45dm9vcWc0eVNHVlcxLXVJQUF6M1NGNk9vb3NwLXRVT2Zma05tYWQ4ZmItMEVCM1pnd1lhREwwVFJMWjhpUGV2YVNQSm5wUlM1cTdRSC1fN3pfSk5xTE5J?oc=5)
-- …and 3 more
+- …and 1 more
 
 ## Cobalt’s Silent Cartel: China, Kinshasa and the DRC Export Quota - Geopolitical Monitor
 *Thu, 01 Oct 2026 14:05:48 GMT* — [source](https://news.google.com/rss/articles/CBMifkFVX3lxTE1aZFVLaUo4UjM0VVJ3c1FkTjZOWWlLUlNqUnFnSmRJeDRRV28wY2Jma2JkQ1NRWWc4M21VeFF0MFZEbk84VGlDZ3psQlRhTmExbWhUbjZGcnR3ZlJOWW8xU3JmYVdYUThBZmpKRk5QekpNd3RHUzlsdkR6VmRRUQ?oc=5)
@@ -43,7 +43,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Philippine nickel exports to Indonesia soar after output quotas cut - asia.nikkei.com
+## Philippine nickel exports to Indonesia soar after output quotas cut - Nikkei Asia
 *Tue, 29 Sep 2026 03:46:00 GMT* — [source](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGV2WnBSTy1NSUctSW5zRVNxSjBBNG92V1QzR3o0U2ZxUmx4QWM2bWJka05VRWRTQTVZelZieFlONDNyb2M4LXJWeDFyMU5XNm1mX1FZVjBPdUNPalN2aHNHSTBScmxpaFVNSDhUbHF5d3EtREYtZjVtaGx6ZnBqaDVQUUpMQjg3a0lXX3lZWlAyMERYSlNMUER3N082NkVQMFpPTkVqMXU4ZzhkendVVjEtbjBkekVxM1FySg?oc=5)
 Rule: nickel / Indonesia / severity prior +25%
 
@@ -79,10 +79,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
+_4 corroborating headline(s):_
+- [EA on Pakistan TV: Ukraine — The Black Sea Blockades Are Choking Grain Exports - EA WorldView](https://news.google.com/rss/articles/CBMibEFVX3lxTE42WmlWTUF4TkVqN21Cdy1fck1zYWNoWGI0eEt3VXN4VmhoTEVBc042Ui1KazByalBtelZCV1VyTWRuRUYtaDZVOFM2TmczbklCblJWUjQ2RjVoWlNUUU16NzhPUE9WMEtrN094SQ?oc=5)
 - [Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5)
 - [Russia Rejects Black Sea Grain Truce as Ukraine Warns Exports Could Stay Critical for Months - Kyiv Post](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oaEhTZUFBSzhYMlFiZW1UZUlXQ2QwOVhDSk03SHhHQ1dwNnRLNjRpcEF1bEVadVFaZ19aU1JBR2pxOUJjVXctcGJhZw?oc=5)
-- [EXCLUSIVE: Russia adapts fertilizer, coal terminals in Baltic, Arctic ports to export Black Sea grain - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNE5HNmRLSkhKLVZHSUdKNGNsOWh6RmUwb3VkRXdmLXN6c0FfSUV5ZTY3T2dpcVFTQWVLMjAzeHZnemlPWnprVC1SOFJxdHNhWXVXcHJTSDFsUFFDQWd5MFduSk43Ul9YaWtpeDZCeC1PeWFvTTIyQjFFWXd6ajNkeldBMy1ZWmJSU3ZwQjZqZVVicXNrOEd5WWFhX2xOWWF5djFsbEhIU01uNFBaR0ZkZTFfVmxabDk4VmpYOVFB?oc=5)
+- …and 1 more
 
 ---
 

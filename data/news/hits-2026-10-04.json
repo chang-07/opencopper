@@ -44,31 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
-  "published": "Wed, 30 Sep 2026 02:22:09 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Hormuz crisis pushes Gulf states toward new oil export routes - en.yenisafak.com",
+  "headline": "Hormuz crisis pushes Gulf states toward new oil export routes - Yeni \u015eafak English",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXkzSE13R0p3QlVLN05lUDNxOVBhOXBKZTdCZHFnRENEM1MxU01mZkNENG5Yc3FZeEY1QU95N3Y4dVJyaEhleUVWSGtIaUJWbnpFbWtEelhDRVZ4WENEM0tQU192dU5xMXlJSWVKWVp1VTZ1eU11NjVVQi1jalZLXzdjZ201LXlxYWswX0VsQ19mZkRXQlNHaHMwY05KZ29QOVE?oc=5",
   "published": "Tue, 29 Sep 2026 12:56:03 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "India Looks to Boost Exploration as Hormuz Crisis Threatens Supply - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGtBS1FOMk96b0Rqbzl0NndCMm1vNWNwRm1pQmVaS0FKNW8yLTFXZW5NaUFqLUQyd2VKa3Juay1Vd3NMNVh5WENmV0ZjcjNHSVVQNWRydjJNVEhidkppNG51cmFvMWp1UkYtczNoM2ZGZnRoRkNjS29udlhzekZ5cFFsOEFObUVRRFBhY0JUclFITlVIMGt5TWNQWkQzNXRlbU1iVlBaU0l4V3BuQU1ndjljR285bHRxTWZsbmpVb9IBxAFBVV95cUxQNXVzMWxtRkg1RUExdHhpSnJDTE5xOWt2M2VXdVVZa1JKbzhiYU8zVDg1R1JLYUp5aXdRcUhhcmNrSHJsdGJpNFpzVzFCRTAxQkJZcDFUSUZEb1NldUgwbVBUZ09tbDVWMzFMekpwcEl4V2ZYb0ZuOTY3am1IRUhUSVowTDJBS2FmclBzOUJBTEM0dFJzUTdQd3FOQTIwX0g4ZEstM3ExQUJqczBGa0VxLU1nbHM3dVJvd2tvdmtzSVFJaTZt?oc=5",
-  "published": "Tue, 29 Sep 2026 11:30:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -88,7 +66,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Philippine nickel exports to Indonesia soar after output quotas cut - asia.nikkei.com",
+  "headline": "Philippine nickel exports to Indonesia soar after output quotas cut - Nikkei Asia",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGV2WnBSTy1NSUctSW5zRVNxSjBBNG92V1QzR3o0U2ZxUmx4QWM2bWJka05VRWRTQTVZelZieFlONDNyb2M4LXJWeDFyMU5XNm1mX1FZVjBPdUNPalN2aHNHSTBScmxpaFVNSDhUbHF5d3EtREYtZjVtaGx6ZnBqaDVQUUpMQjg3a0lXX3lZWlAyMERYSlNMUER3N082NkVQMFpPTkVqMXU4ZzhkendVVjEtbjBkekVxM1FySg?oc=5",
   "published": "Tue, 29 Sep 2026 03:46:00 GMT",
   "rule_note": "",
@@ -113,6 +91,17 @@
   "headline": "Russia can restart 80% of Black Sea grain export terminals if attacks stop - Reuters",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa19qYzVycXJZdEpvR3lKZTB5MzdOMnA3akt6OVViZEp2aTluMWFoaGVBWkljTkdHYy12LVludzlUZVd1cVdEdzJ1SnNrNVg2MU9WMXRaQTNZeTRZNDg0ck5NR2p2U3NsMmJvelMyQTVxTTg5YTFpM0hKb1JvY2RpaE1KQmJZd1RnUzVJeDV6WF9mMTJKODQ1N0JDZXpXdTFIenZoSVJoamFhSWQxN19fX0ZR?oc=5",
   "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "EA on Pakistan TV: Ukraine \u2014 The Black Sea Blockades Are Choking Grain Exports - EA WorldView",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42WmlWTUF4TkVqN21Cdy1fck1zYWNoWGI0eEt3VXN4VmhoTEVBc042Ui1KazByalBtelZCV1VyTWRuRUYtaDZVOFM2TmczbklCblJWUjQ2RjVoWlNUUU16NzhPUE9WMEtrN094SQ?oc=5",
+  "published": "Sun, 04 Oct 2026 13:34:21 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
