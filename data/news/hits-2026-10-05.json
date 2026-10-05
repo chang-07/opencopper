@@ -1,8 +1,30 @@
 [
  {
-  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
-  "published": "Sat, 03 Oct 2026 07:44:27 GMT",
+  "headline": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5",
+  "published": "Mon, 05 Oct 2026 13:53:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5",
+  "published": "Mon, 05 Oct 2026 17:15:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTll6ZWh1TnZ4ZzhUUlNvb1NJSWU2amFMbWtpemNBbEQ5ZHV5STBURTFtZWRxa3I4SmVaRWo5LU1FLU5COGVXbThyVWJtelN5MDVIQzdPa3dXdnZhNnEyeHhCM29tdGFxUl9PLTdPYUJibk5DRlFaSk1QUXFNSEFsMmNfTDZXbTR1Y0tDX2JldnYzRWFWTDBCbUVrT0xLcGtPT2xBUHFEYWxVM2FSNFHSAbMBQVVfeXFMTWxmOTNTNzdDdS1xSVpoQ0U3MHRGZzM0d1JVUi14NDc4UHdiaUxYMy1adENiUlFfV1FKN2N4RXpyUU45bWFxWHZ0ZzBmQVpXUU93YmlKcExEZXFGUlQtLWhKRlBDdlJ1bjIyQ21DVWdnRUdQQzUtRFFVc2h0WmpQdUMxb0VuRlRMM3ZKb3dBeWZPSUttcE9zMUx5VWw2QzdLNGU4cXhEVWxBWWdFeDFnTDR5MzA?oc=5",
+  "published": "Sat, 03 Oct 2026 19:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -22,7 +44,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Cobalt\u2019s Silent Cartel: China, Kinshasa and the DRC Export Quota - Geopolitical Monitor",
+  "headline": "Iraq ships 2 million barrels of crude oil through Strait of Hormuz - Awani International",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZLaDUzQk5KM3Q4eWZYNzRTNGRWa0Z5VkNpMV9ra2ZuQkFJNjdnQXZ3Z3Z2MmJ2SDRtTUZpU0RjVnp2NGgzdHlGVzk4RlZGYmFwUGYxcnBmVVczN2JlN0pXZlo1Y2UtN2xWeWRXcHR6a1V5T2JiQTFWQUY4NDVjR1RHNTU1WEJUWm5ZbU0yM3hjUjBZUkdHb29CSXNaYXRvN1BVOHhCT1JSa01lTHc?oc=5",
+  "published": "Mon, 05 Oct 2026 09:49:13 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Cobalt\u2019s Silent Cartel: China, Kinshasa and the DRC Export Quota - geopoliticalmonitor.com",
   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aZFVLaUo4UjM0VVJ3c1FkTjZOWWlLUlNqUnFnSmRJeDRRV28wY2Jma2JkQ1NRWWc4M21VeFF0MFZEbk84VGlDZ3psQlRhTmExbWhUbjZGcnR3ZlJOWW8xU3JmYVdYUThBZmpKRk5QekpNd3RHUzlsdkR6VmRRUQ?oc=5",
   "published": "Thu, 01 Oct 2026 14:05:48 GMT",
   "rule_note": "",
@@ -33,7 +66,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Philippine nickel exports to Indonesia soar after output quotas cut - asia.nikkei.com",
+  "headline": "Philippine nickel exports to Indonesia soar after output quotas cut - Nikkei Asia",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGV2WnBSTy1NSUctSW5zRVNxSjBBNG92V1QzR3o0U2ZxUmx4QWM2bWJka05VRWRTQTVZelZieFlONDNyb2M4LXJWeDFyMU5XNm1mX1FZVjBPdUNPalN2aHNHSTBScmxpaFVNSDhUbHF5d3EtREYtZjVtaGx6ZnBqaDVQUUpMQjg3a0lXX3lZWlAyMERYSlNMUER3N082NkVQMFpPTkVqMXU4ZzhkendVVjEtbjBkekVxM1FySg?oc=5",
   "published": "Tue, 29 Sep 2026 03:46:00 GMT",
   "rule_note": "",
@@ -44,7 +77,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia can restart 80% of Black Sea grain export terminals if attacks stop - reuters.com",
+  "headline": "Russia can restart 80% of Black Sea grain export terminals if attacks stop - Reuters",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa19qYzVycXJZdEpvR3lKZTB5MzdOMnA3akt6OVViZEp2aTluMWFoaGVBWkljTkdHYy12LVludzlUZVd1cVdEdzJ1SnNrNVg2MU9WMXRaQTNZeTRZNDg0ck5NR2p2U3NsMmJvelMyQTVxTTg5YTFpM0hKb1JvY2RpaE1KQmJZd1RnUzVJeDV6WF9mMTJKODQ1N0JDZXpXdTFIenZoSVJoamFhSWQxN19fX0ZR?oc=5",
   "published": "Fri, 25 Sep 2026 07:00:00 GMT",
   "rule_note": "",
@@ -69,6 +102,28 @@
   "headline": "Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5",
   "published": "Fri, 02 Oct 2026 12:44:05 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia is seeking new routes for grain exports after a sharp collapse via the Black Sea \u2014 intelligence - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3ZndUdUTnRQeGRqWXBIWnBBX2swQkhhem54TFhBeFlHd013Q0drWW1kREFoNWZiaXoxRUt4RXNjS3dCSVBabWF1TGx0bmlFZzBNVzlvdFBybVVIMlZDUlBTNV9teFVhQVc1WGRJWUl1bW44NGFUNWJNbEh3WXRXX1ZJeEY0M2JJcUtGdEpaaWd4SEpkUmZpNUk1Sk1KanV4eE01Z1NxclZ3d1dzY3ROZ1U3dWpCWTdObVllOVptRVPSAb8BQVVfeXFMUGVLTEFGa0piRTZnVFVOYXdQUkdIZFo1SG1UWXdMc1NRbjhjc1ZoTlNzck5ubFNsTVRfQ1JYV0UyeWhqZHJRbWt2WHpyajR1SzVWR2IzVkNGWHM3UXFheGx0cjBXdllwUk5mT29UWEtEa0RtZFVBQmtIZ1pSbGV6dGM1M2JXMzR4YmgwR1lpYTVFMFNhZ1ozUzRYQkEtUks3UWlvMVJ3VG5mbDBQS1phVFNmVkpGYW9qU19wVjZEc0E?oc=5",
+  "published": "Mon, 05 Oct 2026 12:10:34 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Grain under blockade: What is preventing Ukraine from expanding exports via the Danube - The New Voice of Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUM1X3B4WlhxckJCUC1YQTBvb0daWGMxb0MzX3I2QUp3dmNFNm9LTjVwZG5uSGpSb0VHYlEtMU1Tekg0UlY3ZnRCZE1TYzJnUXJhTmlpcEVGcVNhajJzZXM5Qmp4NF80TGJScy1DdURKOFh3b0hQMWFNV2themh0WXVjMzZ4OEc4eW44RmhlRjRlbEtycE1zTmVhWm16MTk0akdXdndnekMyZ1pHWnhrSjNZcDBob1BPMHBiNEVSSy11LVdSMnFv0gHAAUFVX3lxTE1ZYnFOTUlQYmN6aUZLczdtOXliWTdtNDhGWVJTRF9QZHZpbUk2YzJSWUV5LWVfSHJWX1dBeHNWSGZyV2RyaFkzTV90LXRVUzVfMjMtOTlhSU9RaTAxX1M4NFAxcDlvUDMteU9WYXpzendQUlpsNTR0Nzk1ZmtNWTQ2QWpoRnJWZDZnLUVqRWdXN2NvVmVpWmk3XzZ1OTUxR1YtcjgtQ1NsWm1fZEN6Mkw3SnpYeS1aR3pocTA2LUFtZw?oc=5",
+  "published": "Mon, 05 Oct 2026 09:55:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
