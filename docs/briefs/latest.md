@@ -74,11 +74,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5)
 - [Russia can restart 80% of Black Sea grain export terminals if attacks stop - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxPa19qYzVycXJZdEpvR3lKZTB5MzdOMnA3akt6OVViZEp2aTluMWFoaGVBWkljTkdHYy12LVludzlUZVd1cVdEdzJ1SnNrNVg2MU9WMXRaQTNZeTRZNDg0ck5NR2p2U3NsMmJvelMyQTVxTTg5YTFpM0hKb1JvY2RpaE1KQmJZd1RnUzVJeDV6WF9mMTJKODQ1N0JDZXpXdTFIenZoSVJoamFhSWQxN19fX0ZR?oc=5)
 - [EA on Pakistan TV: Ukraine — The Black Sea Blockades Are Choking Grain Exports - EA WorldView](https://news.google.com/rss/articles/CBMibEFVX3lxTE42WmlWTUF4TkVqN21Cdy1fck1zYWNoWGI0eEt3VXN4VmhoTEVBc042Ui1KazByalBtelZCV1VyTWRuRUYtaDZVOFM2TmczbklCblJWUjQ2RjVoWlNUUU16NzhPUE9WMEtrN094SQ?oc=5)
-- …and 1 more
+- …and 2 more
 
 ---
 
