@@ -33,20 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz - Al Jazeera",
+  "headline": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz - aljazeera.com",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWFkRk5ZMkJFUmtITDVCbEx3STJmeDVNWnJpbFgtRWlYQVhlb0JxcUpTR0hCUVY1Rlc3NURTdUdycnJCdnVtckNxLXFzSFVENEN2MTMzeGluMTJ5MEtPOUI1bWR0YmZEdW9FUXNqdXBCT0pOQzJKSldNbTdZQTAtNHFVSEtPczBmLWpPUGZPb0FDRGRKV2hGUEpPSzJVNXl5dGVZUFdkTHhJNHRwa3ZxcHJIMUFiUdIBuwFBVV95cUxPcnNvT0owZU5BZUk2Q21rTlNrMlRGQWpPQ0tCSG5DLXJkX2NsVUVzeGtUVy1VQmtPUWxUMTI5TWQ5UVlxc01tc3h0QU9IX1Nndmh1bEFQQXlPazRxZGp3bDVSV2U4d0NLMDk1dWVtN1FkOVVORmNpbG9rSGdlbUR6WWNXUklueHFVaFBIRlBvMFl3ZnY3Z1ZyQl8xaXpET1prdmJlZmtjR1REYXkwYlVldEF1eVgxc0pFQkdR?oc=5",
   "published": "Mon, 28 Sep 2026 14:08:52 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Iraq ships 2 million barrels of crude oil through Strait of Hormuz - Awani International",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZLaDUzQk5KM3Q4eWZYNzRTNGRWa0Z5VkNpMV9ra2ZuQkFJNjdnQXZ3Z3Z2MmJ2SDRtTUZpU0RjVnp2NGgzdHlGVzk4RlZGYmFwUGYxcnBmVVczN2JlN0pXZlo1Y2UtN2xWeWRXcHR6a1V5T2JiQTFWQUY4NDVjR1RHNTU1WEJUWm5ZbU0yM3hjUjBZUkdHb29CSXNaYXRvN1BVOHhCT1JSa01lTHc?oc=5",
-  "published": "Mon, 05 Oct 2026 09:49:13 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,7 +66,18 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia can restart 80% of Black Sea grain export terminals if attacks stop - Reuters",
+  "headline": "Russia has sharply reduced its wheat exports via the Black Sea - UA.NEWS",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSG1pYXJWRjRUWGlCSjU3T18yQUl4QXVOazRHc1ZqRFFVVG1MYnFxaVp4QUk4ZWhCeGh4M3NIWmpQVWxibGV2cWttWk9VcTloVjFKdWExaTJRbk9KUWplYkJ3cmoxNnZDMEVweUZuMVBhNTc4LXo2OHk5M2JRYXMzbzdfUV90MXE5dGU5R2dIMFIzdw?oc=5",
+  "published": "Tue, 06 Oct 2026 04:36:23 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia can restart 80% of Black Sea grain export terminals if attacks stop - reuters.com",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa19qYzVycXJZdEpvR3lKZTB5MzdOMnA3akt6OVViZEp2aTluMWFoaGVBWkljTkdHYy12LVludzlUZVd1cVdEdzJ1SnNrNVg2MU9WMXRaQTNZeTRZNDg0ck5NR2p2U3NsMmJvelMyQTVxTTg5YTFpM0hKb1JvY2RpaE1KQmJZd1RnUzVJeDV6WF9mMTJKODQ1N0JDZXpXdTFIenZoSVJoamFhSWQxN19fX0ZR?oc=5",
   "published": "Fri, 25 Sep 2026 07:00:00 GMT",
   "rule_note": "",
