@@ -1,5 +1,16 @@
 [
  {
+  "headline": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5",
+  "published": "Wed, 07 Oct 2026 14:12:12 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5",
   "published": "Mon, 05 Oct 2026 16:39:48 GMT",
@@ -11,20 +22,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5",
-  "published": "Mon, 05 Oct 2026 20:10:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz - Al Jazeera",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWFkRk5ZMkJFUmtITDVCbEx3STJmeDVNWnJpbFgtRWlYQVhlb0JxcUpTR0hCUVY1Rlc3NURTdUdycnJCdnVtckNxLXFzSFVENEN2MTMzeGluMTJ5MEtPOUI1bWR0YmZEdW9FUXNqdXBCT0pOQzJKSldNbTdZQTAtNHFVSEtPczBmLWpPUGZPb0FDRGRKV2hGUEpPSzJVNXl5dGVZUFdkTHhJNHRwa3ZxcHJIMUFiUdIBuwFBVV95cUxPcnNvT0owZU5BZUk2Q21rTlNrMlRGQWpPQ0tCSG5DLXJkX2NsVUVzeGtUVy1VQmtPUWxUMTI5TWQ5UVlxc01tc3h0QU9IX1Nndmh1bEFQQXlPazRxZGp3bDVSV2U4d0NLMDk1dWVtN1FkOVVORmNpbG9rSGdlbUR6WWNXUklueHFVaFBIRlBvMFl3ZnY3Z1ZyQl8xaXpET1prdmJlZmtjR1REYXkwYlVldEF1eVgxc0pFQkdR?oc=5",
-  "published": "Mon, 28 Sep 2026 14:08:52 GMT",
+  "published": "Mon, 28 Sep 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -90,7 +90,7 @@
  {
   "headline": "Russia Rejects Black Sea Grain Truce as Ukraine Warns Exports Could Stay Critical for Months - Kyiv Post",
   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oaEhTZUFBSzhYMlFiZW1UZUlXQ2QwOVhDSk03SHhHQ1dwNnRLNjRpcEF1bEVadVFaZ19aU1JBR2pxOUJjVXctcGJhZw?oc=5",
-  "published": "Tue, 29 Sep 2026 09:47:52 GMT",
+  "published": "Tue, 29 Sep 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -102,6 +102,17 @@
   "headline": "Russia has sharply reduced its wheat exports via the Black Sea - UA.NEWS",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSG1pYXJWRjRUWGlCSjU3T18yQUl4QXVOazRHc1ZqRFFVVG1MYnFxaVp4QUk4ZWhCeGh4M3NIWmpQVWxibGV2cWttWk9VcTloVjFKdWExaTJRbk9KUWplYkJ3cmoxNnZDMEVweUZuMVBhNTc4LXo2OHk5M2JRYXMzbzdfUV90MXE5dGU5R2dIMFIzdw?oc=5",
   "published": "Tue, 06 Oct 2026 04:36:23 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian wheat exports constrained following Ukrainian attacks - Kpler",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeWU5TWloQjI2YjY3WGxMb2d0ay1TcXhuTjd4bHVURl8wZld3cl9QY0pFYXFfYndWbUNDUzIzdEU0bjJOTTd0bFdySWFmV0NrX1dwSUhmbFA1b1pfWTI4RlFJNDZZZnViVTJNQ1F0OW9ZMUpMQzdLZkE1Zm1kSk9SQmtldVRUcVZNdXdyU1dES0dyWFAyTFE?oc=5",
+  "published": "Sun, 04 Oct 2026 12:26:43 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
