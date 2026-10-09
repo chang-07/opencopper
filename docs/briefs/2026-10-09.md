@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal
-*Thu, 08 Oct 2026 17:38:25 GMT* — [source](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5)
+## Global Energy Security at Risk if Strait of Hormuz Does Not Open in Weeks, IEA Chief Says - EnergyNow.com
+*Thu, 08 Oct 2026 21:37:35 GMT* — [source](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDBFZVBWX0NZcWtPdmRsdmxyT3p4ZUJ2T1RYMTl1c1VwaDVVQ2NaMFp5ZFJnQmc4U21ZUXhXNXpPQzZ0eFB4UDBYaVFCU1k0MFRwVG14U0w1TGViMGJINmpYZi12QXUweU5yZmVIaFZZcGRvVnBlWlp2cXRYNlI2dy1feWltQW1Vd1l5bE1ob3g3YkwxbnR5RUN6MF9JNXd4eFgtV2dwS3JKM0x0T0w2SkJBMXBwWC0tcjNr?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
+_9 corroborating headline(s):_
+- [Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5)
+- [Crude Oil Trading Alert: Risks in the Strait of Hormuz and production cuts in the Gulf of Mexico continue to support oil prices, while U.S. crude remains volatile at lower levels. - Moomoo](https://news.google.com/rss/articles/CBMingFBVV95cUxPdnVpa0dTU2NtX2lKTDk5QXIxb1RqMEpKT0FvZnRqRTlFaXl6d3dJczVpNlhiUmQwV2tMcjRKNU1KYTBHc1lWaW9abWxrTldpUzNmcTU2VV9UTVY1WUFZSzFZSkg2dkhHemtGRkNISGhVS1M3RW5hYjAzTnFpa1p4S0ZxNTg4WWN3X1M2elpuQURrYm9hRlhlcGNHQ1p5QQ?oc=5)
 - [Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5)
-- [Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ](https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5)
-- [Oil prices find support from Gulf storm outages and Strait of Hormuz tensions - FXStreet](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDk2SVhvQVBsT19IYUJBQ2twNXNmWGtxaWg4TXNmN1BuRUduU0tUWDZPRnZ3NjdyN2hVMGJFd2FBeVp4QUdLM0xhUFI1dm5xNDlmVDl4bzQ1M25yVG94SUNUWWpmYk0tTmxaTGI0dU0yOGEtOUt6bVNFblBjX3E5c1pDMUFOU3pjLUtkNndPU2Zya1JfRXJTbVZuQlZxb0Qxc0tHVUd2bHlrR0FvT3ZrRld2d0dnTlpUQUZ1ZlBLLTFXUQ?oc=5)
-- …and 5 more
+- …and 6 more
 
 ## Cobalt’s Silent Cartel: China, Kinshasa and the DRC Export Quota - Geopolitical Monitor
 *Thu, 01 Oct 2026 14:05:48 GMT* — [source](https://news.google.com/rss/articles/CBMifkFVX3lxTE1aZFVLaUo4UjM0VVJ3c1FkTjZOWWlLUlNqUnFnSmRJeDRRV28wY2Jma2JkQ1NRWWc4M21VeFF0MFZEbk84VGlDZ3psQlRhTmExbWhUbjZGcnR3ZlJOWW8xU3JmYVdYUThBZmpKRk5QekpNd3RHUzlsdkR6VmRRUQ?oc=5)
@@ -76,11 +76,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
-- [Russia can restart 80% of Black Sea grain export terminals if attacks stop - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxPa19qYzVycXJZdEpvR3lKZTB5MzdOMnA3akt6OVViZEp2aTluMWFoaGVBWkljTkdHYy12LVludzlUZVd1cVdEdzJ1SnNrNVg2MU9WMXRaQTNZeTRZNDg0ck5NR2p2U3NsMmJvelMyQTVxTTg5YTFpM0hKb1JvY2RpaE1KQmJZd1RnUzVJeDV6WF9mMTJKODQ1N0JDZXpXdTFIenZoSVJoamFhSWQxN19fX0ZR?oc=5)
+_5 corroborating headline(s):_
 - [Russia boosts wheat exports via the Baltic to record levels amid Black Sea disruptions - UkrAgroConsult](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmpEbzlIUGZ2LWhuOEZ2MkF4Tmp0dFQzRnhqX0Q3ZUpubWw4STk0TFlXX0JyY0Y1Z2dfWFBjLWVYQkVRNDBZZzNUV21VYWFWYi1POS11YjE2TDdkaURUbVNYLUJNbDYybGtaenpjR0VvV083bThLNUpFRmdSck0wNEZYaEJwSzR3RXZmbEhWOWJjQ2J0MzZHZzd6TlNxSXluTFlhM1pPaU1ydHppeHRSSV9ZTHRMSk9lcmgzOGFrRQ?oc=5)
+- [EA on Pakistan TV: Ukraine — The Black Sea Blockades Are Choking Grain Exports - EA WorldView](https://news.google.com/rss/articles/CBMibEFVX3lxTE42WmlWTUF4TkVqN21Cdy1fck1zYWNoWGI0eEt3VXN4VmhoTEVBc042Ui1KazByalBtelZCV1VyTWRuRUYtaDZVOFM2TmczbklCblJWUjQ2RjVoWlNUUU16NzhPUE9WMEtrN094SQ?oc=5)
 - [Russian Baltic ports boost grain export capacity by 170% as Black Sea disrupted - marketscreener.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ0xacEljd2xzRFh0bGFFeHNwM1ZxZnVKTGRIaWxVUVRsME1oM3hXRDBVaTJ3NjBvN1JLbk9PUkdrY0tMeHFJc3c3NUlSb0YtdG5qVmpYYnlraUU2VHR0Q3RxMWZMNWNwMlZRMWU2eFRHOW1xMDcta1NVT0c4SEhMNHVQWkYyc2J3a3lEbnliVlgxaXFkMkMtRWNyYzlnVGJxcERYUlFBNkU5M3RiQTZFdUdOX3N0bU9oOWRHTkR0YTZzSkhFNWR2Mm1TUQ?oc=5)
-- …and 4 more
+- …and 2 more
 
 ---
 
