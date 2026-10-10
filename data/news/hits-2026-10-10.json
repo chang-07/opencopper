@@ -110,17 +110,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5",
-  "published": "Fri, 09 Oct 2026 10:58:29 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "EA on Pakistan TV: Ukraine \u2014 The Black Sea Blockades Are Choking Grain Exports - EA WorldView",
   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42WmlWTUF4TkVqN21Cdy1fck1zYWNoWGI0eEt3VXN4VmhoTEVBc042Ui1KazByalBtelZCV1VyTWRuRUYtaDZVOFM2TmczbklCblJWUjQ2RjVoWlNUUU16NzhPUE9WMEtrN094SQ?oc=5",
   "published": "Sun, 04 Oct 2026 22:49:57 GMT",
@@ -154,6 +143,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5",
+  "published": "Fri, 02 Oct 2026 12:45:21 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Russia has sharply reduced its wheat exports via the Black Sea - UA.NEWS",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSG1pYXJWRjRUWGlCSjU3T18yQUl4QXVOazRHc1ZqRFFVVG1MYnFxaVp4QUk4ZWhCeGh4M3NIWmpQVWxibGV2cWttWk9VcTloVjFKdWExaTJRbk9KUWplYkJ3cmoxNnZDMEVweUZuMVBhNTc4LXo2OHk5M2JRYXMzbzdfUV90MXE5dGU5R2dIMFIzdw?oc=5",
   "published": "Tue, 06 Oct 2026 04:36:23 GMT",
@@ -165,9 +165,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian Baltic ports boost grain export capacity by 170% as Black Sea disrupted - marketscreener.com",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ0xacEljd2xzRFh0bGFFeHNwM1ZxZnVKTGRIaWxVUVRsME1oM3hXRDBVaTJ3NjBvN1JLbk9PUkdrY0tMeHFJc3c3NUlSb0YtdG5qVmpYYnlraUU2VHR0Q3RxMWZMNWNwMlZRMWU2eFRHOW1xMDcta1NVT0c4SEhMNHVQWkYyc2J3a3lEbnliVlgxaXFkMkMtRWNyYzlnVGJxcERYUlFBNkU5M3RiQTZFdUdOX3N0bU9oOWRHTkR0YTZzSkhFNWR2Mm1TUQ?oc=5",
-  "published": "Thu, 08 Oct 2026 15:43:39 GMT",
+  "headline": "Black Sea Attacks Threaten Ukraine Grain Exports - Oz Arab Media",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VVzU1SjN4X0c0WlU2ZFFOTk5zZE9QdmVLYkdKcUFGbWN3UmtKWmVJeXJIOUpHbl9TXzV0M1h3Y2k5UG5JWmhTX2F4YXQ3ODFCSnJRejVRODc4VlhQUFFoRzFScG0zczRDZl96SkR3eHZvcXhoTzRJTF9R?oc=5",
+  "published": "Sat, 10 Oct 2026 07:00:34 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
