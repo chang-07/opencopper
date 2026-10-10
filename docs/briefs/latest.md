@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz - EnergyNow.com
-*Fri, 09 Oct 2026 19:42:17 GMT* — [source](https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjhVM2FKUElUMkRPM2ZESFZ6ZTFrMnYxSy1Qc3VyU2Y2VmcydXF2NDM4Vk11RjNJVnpqVGNDYzdJWVR0VjM0REQ2eWF3ZkJSZXpwMTcyOHN4VDdLMlJuUVdJbElRZXlFRmlWSEZDMjdmdmp1andOMFl2ekE3U2ZuUVFOM0JBbjhDRlB2b2dtMkhFMUVSVVNFdzFGSWY5c1YwdHc?oc=5)
+## Global Energy Security at Risk if Strait of Hormuz Does Not Open in Weeks, IEA Chief Says - EnergyNow.com
+*Thu, 08 Oct 2026 21:37:36 GMT* — [source](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDBFZVBWX0NZcWtPdmRsdmxyT3p4ZUJ2T1RYMTl1c1VwaDVVQ2NaMFp5ZFJnQmc4U21ZUXhXNXpPQzZ0eFB4UDBYaVFCU1k0MFRwVG14U0w1TGViMGJINmpYZi12QXUweU5yZmVIaFZZcGRvVnBlWlp2cXRYNlI2dy1feWltQW1Vd1l5bE1ob3g3YkwxbnR5RUN6MF9JNXd4eFgtV2dwS3JKM0x0T0w2SkJBMXBwWC0tcjNr?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_8 corroborating headline(s):_
 - [Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5)
 - [Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5)
-- [Iraq looks for oil export alternatives to the troubled Strait of Hormuz - Al Jazeera](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWFkRk5ZMkJFUmtITDVCbEx3STJmeDVNWnJpbFgtRWlYQVhlb0JxcUpTR0hCUVY1Rlc3NURTdUdycnJCdnVtckNxLXFzSFVENEN2MTMzeGluMTJ5MEtPOUI1bWR0YmZEdW9FUXNqdXBCT0pOQzJKSldNbTdZQTAtNHFVSEtPczBmLWpPUGZPb0FDRGRKV2hGUEpPSzJVNXl5dGVZUFdkTHhJNHRwa3ZxcHJIMUFiUdIBuwFBVV95cUxPcnNvT0owZU5BZUk2Q21rTlNrMlRGQWpPQ0tCSG5DLXJkX2NsVUVzeGtUVy1VQmtPUWxUMTI5TWQ5UVlxc01tc3h0QU9IX1Nndmh1bEFQQXlPazRxZGp3bDVSV2U4d0NLMDk1dWVtN1FkOVVORmNpbG9rSGdlbUR6WWNXUklueHFVaFBIRlBvMFl3ZnY3Z1ZyQl8xaXpET1prdmJlZmtjR1REYXkwYlVldEF1eVgxc0pFQkdR?oc=5)
-- …and 4 more
+- [Heavy explosions in Strait of Hormuz as tankers may have hit mines: Iran’s state broadcaster - Anadolu Ajansı](https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2tVWEk4RGRnbVU4blQtcVVvNl9hYTVicnVpRThFYU5nVFVGaENVSG1oU2JxUnIxWVpnZk5raHlINW1oUEpoMWxMb244X3k4TlBZYTY4NUNRZmVTVlJSMkZBcDE1Q3NRb0ZUUFVuTEhxVFRZdEtrT3VuZ2NqVDRoNnFUR3haLXRQUXk1ajFxX1RjdTFrVEwxV3BiR0YtSk9WOXR6QXZNa2xGQ2gyRkVabFdIeGJ6Q0tGVWtoQmZHeVJNanRENTBYY0g5V0FfZ9IB1gFBVV95cUxQSGlCUXBJbXd0NEZ4Tm9UT0pJaXBmLWVOcl9VRTRNRF9WZ2JFU0RTLWxPTWo5OFdwOE5iX0pzclFUQS1Bc2xETjZPNlR4eWxFenAzdXVQTHoxMHBUM2x3b0gtWVNrUmVSNDRpeFZ6VXZuOVRkT0FLTVZuRm05NHROZUJzbDJoUVEwLUd4RTNRMmVkVVk0Y1RTcnp1OTZjTVhxMEVWeXhjaVJnV3dGNWVkaHQtenBQY1R2QUhONjg4MWNTbi1ydTFTZnhRQ1lRVXlZRm9YY29R?oc=5)
+- …and 5 more
 
 ## Cobalt’s Silent Cartel: China, Kinshasa and the DRC Export Quota - Geopolitical Monitor
 *Thu, 01 Oct 2026 14:05:48 GMT* — [source](https://news.google.com/rss/articles/CBMifkFVX3lxTE1aZFVLaUo4UjM0VVJ3c1FkTjZOWWlLUlNqUnFnSmRJeDRRV28wY2Jma2JkQ1NRWWc4M21VeFF0MFZEbk84VGlDZ3psQlRhTmExbWhUbjZGcnR3ZlJOWW8xU3JmYVdYUThBZmpKRk5QekpNd3RHUzlsdkR6VmRRUQ?oc=5)

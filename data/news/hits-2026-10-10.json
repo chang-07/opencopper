@@ -1,8 +1,8 @@
 [
  {
-  "headline": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjhVM2FKUElUMkRPM2ZESFZ6ZTFrMnYxSy1Qc3VyU2Y2VmcydXF2NDM4Vk11RjNJVnpqVGNDYzdJWVR0VjM0REQ2eWF3ZkJSZXpwMTcyOHN4VDdLMlJuUVdJbElRZXlFRmlWSEZDMjdmdmp1andOMFl2ekE3U2ZuUVFOM0JBbjhDRlB2b2dtMkhFMUVSVVNFdzFGSWY5c1YwdHc?oc=5",
-  "published": "Fri, 09 Oct 2026 19:42:17 GMT",
+  "headline": "Global Energy Security at Risk if Strait of Hormuz Does Not Open in Weeks, IEA Chief Says - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDBFZVBWX0NZcWtPdmRsdmxyT3p4ZUJ2T1RYMTl1c1VwaDVVQ2NaMFp5ZFJnQmc4U21ZUXhXNXpPQzZ0eFB4UDBYaVFCU1k0MFRwVG14U0w1TGViMGJINmpYZi12QXUweU5yZmVIaFZZcGRvVnBlWlp2cXRYNlI2dy1feWltQW1Vd1l5bE1ob3g3YkwxbnR5RUN6MF9JNXd4eFgtV2dwS3JKM0x0T0w2SkJBMXBwWC0tcjNr?oc=5",
+  "published": "Thu, 08 Oct 2026 21:37:36 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -33,6 +33,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Heavy explosions in Strait of Hormuz as tankers may have hit mines: Iran\u2019s state broadcaster - Anadolu Ajans\u0131",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2tVWEk4RGRnbVU4blQtcVVvNl9hYTVicnVpRThFYU5nVFVGaENVSG1oU2JxUnIxWVpnZk5raHlINW1oUEpoMWxMb244X3k4TlBZYTY4NUNRZmVTVlJSMkZBcDE1Q3NRb0ZUUFVuTEhxVFRZdEtrT3VuZ2NqVDRoNnFUR3haLXRQUXk1ajFxX1RjdTFrVEwxV3BiR0YtSk9WOXR6QXZNa2xGQ2gyRkVabFdIeGJ6Q0tGVWtoQmZHeVJNanRENTBYY0g5V0FfZ9IB1gFBVV95cUxQSGlCUXBJbXd0NEZ4Tm9UT0pJaXBmLWVOcl9VRTRNRF9WZ2JFU0RTLWxPTWo5OFdwOE5iX0pzclFUQS1Bc2xETjZPNlR4eWxFenAzdXVQTHoxMHBUM2x3b0gtWVNrUmVSNDRpeFZ6VXZuOVRkT0FLTVZuRm05NHROZUJzbDJoUVEwLUd4RTNRMmVkVVk0Y1RTcnp1OTZjTVhxMEVWeXhjaVJnV3dGNWVkaHQtenBQY1R2QUhONjg4MWNTbi1ydTFTZnhRQ1lRVXlZRm9YY29R?oc=5",
+  "published": "Fri, 09 Oct 2026 12:25:29 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz - Al Jazeera",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWFkRk5ZMkJFUmtITDVCbEx3STJmeDVNWnJpbFgtRWlYQVhlb0JxcUpTR0hCUVY1Rlc3NURTdUdycnJCdnVtckNxLXFzSFVENEN2MTMzeGluMTJ5MEtPOUI1bWR0YmZEdW9FUXNqdXBCT0pOQzJKSldNbTdZQTAtNHFVSEtPczBmLWpPUGZPb0FDRGRKV2hGUEpPSzJVNXl5dGVZUFdkTHhJNHRwa3ZxcHJIMUFiUdIBuwFBVV95cUxPcnNvT0owZU5BZUk2Q21rTlNrMlRGQWpPQ0tCSG5DLXJkX2NsVUVzeGtUVy1VQmtPUWxUMTI5TWQ5UVlxc01tc3h0QU9IX1Nndmh1bEFQQXlPazRxZGp3bDVSV2U4d0NLMDk1dWVtN1FkOVVORmNpbG9rSGdlbUR6WWNXUklueHFVaFBIRlBvMFl3ZnY3Z1ZyQl8xaXpET1prdmJlZmtjR1REYXkwYlVldEF1eVgxc0pFQkdR?oc=5",
   "published": "Mon, 28 Sep 2026 07:00:00 GMT",
@@ -55,9 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Global Energy Security at Risk if Strait of Hormuz Does Not Open in Weeks, IEA Chief Says - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDBFZVBWX0NZcWtPdmRsdmxyT3p4ZUJ2T1RYMTl1c1VwaDVVQ2NaMFp5ZFJnQmc4U21ZUXhXNXpPQzZ0eFB4UDBYaVFCU1k0MFRwVG14U0w1TGViMGJINmpYZi12QXUweU5yZmVIaFZZcGRvVnBlWlp2cXRYNlI2dy1feWltQW1Vd1l5bE1ob3g3YkwxbnR5RUN6MF9JNXd4eFgtV2dwS3JKM0x0T0w2SkJBMXBwWC0tcjNr?oc=5",
-  "published": "Thu, 08 Oct 2026 21:37:36 GMT",
+  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
+  "published": "Thu, 08 Oct 2026 21:58:06 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -66,9 +77,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
-  "published": "Thu, 08 Oct 2026 21:58:06 GMT",
+  "headline": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjhVM2FKUElUMkRPM2ZESFZ6ZTFrMnYxSy1Qc3VyU2Y2VmcydXF2NDM4Vk11RjNJVnpqVGNDYzdJWVR0VjM0REQ2eWF3ZkJSZXpwMTcyOHN4VDdLMlJuUVdJbElRZXlFRmlWSEZDMjdmdmp1andOMFl2ekE3U2ZuUVFOM0JBbjhDRlB2b2dtMkhFMUVSVVNFdzFGSWY5c1YwdHc?oc=5",
+  "published": "Fri, 09 Oct 2026 19:18:17 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -165,9 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea Attacks Threaten Ukraine Grain Exports - Oz Arab Media",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VVzU1SjN4X0c0WlU2ZFFOTk5zZE9QdmVLYkdKcUFGbWN3UmtKWmVJeXJIOUpHbl9TXzV0M1h3Y2k5UG5JWmhTX2F4YXQ3ODFCSnJRejVRODc4VlhQUFFoRzFScG0zczRDZl96SkR3eHZvcXhoTzRJTF9R?oc=5",
-  "published": "Sat, 10 Oct 2026 07:00:34 GMT",
+  "headline": "Russian Baltic ports boost grain export capacity by 170% as Black Sea disrupted - marketscreener.com",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ0xacEljd2xzRFh0bGFFeHNwM1ZxZnVKTGRIaWxVUVRsME1oM3hXRDBVaTJ3NjBvN1JLbk9PUkdrY0tMeHFJc3c3NUlSb0YtdG5qVmpYYnlraUU2VHR0Q3RxMWZMNWNwMlZRMWU2eFRHOW1xMDcta1NVT0c4SEhMNHVQWkYyc2J3a3lEbnliVlgxaXFkMkMtRWNyYzlnVGJxcERYUlFBNkU5M3RiQTZFdUdOX3N0bU9oOWRHTkR0YTZzSkhFNWR2Mm1TUQ?oc=5",
+  "published": "Thu, 08 Oct 2026 15:43:39 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
