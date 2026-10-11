@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5",
-  "published": "Mon, 05 Oct 2026 16:39:48 GMT",
+  "headline": "Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5",
+  "published": "Thu, 08 Oct 2026 17:38:25 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -22,9 +22,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal",
-  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5",
-  "published": "Thu, 08 Oct 2026 17:38:25 GMT",
+  "headline": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5",
+  "published": "Mon, 05 Oct 2026 16:39:48 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -146,17 +146,6 @@
   "headline": "Russia boosts wheat exports via the Baltic to record levels amid Black Sea disruptions - UkrAgroConsult",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmpEbzlIUGZ2LWhuOEZ2MkF4Tmp0dFQzRnhqX0Q3ZUpubWw4STk0TFlXX0JyY0Y1Z2dfWFBjLWVYQkVRNDBZZzNUV21VYWFWYi1POS11YjE2TDdkaURUbVNYLUJNbDYybGtaenpjR0VvV083bThLNUpFRmdSck0wNEZYaEJwSzR3RXZmbEhWOWJjQ2J0MzZHZzd6TlNxSXluTFlhM1pPaU1ydHppeHRSSV9ZTHRMSk9lcmgzOGFrRQ?oc=5",
   "published": "Thu, 08 Oct 2026 17:21:06 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russia has sharply reduced its wheat exports via the Black Sea - UA.NEWS",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSG1pYXJWRjRUWGlCSjU3T18yQUl4QXVOazRHc1ZqRFFVVG1MYnFxaVp4QUk4ZWhCeGh4M3NIWmpQVWxibGV2cWttWk9VcTloVjFKdWExaTJRbk9KUWplYkJ3cmoxNnZDMEVweUZuMVBhNTc4LXo2OHk5M2JRYXMzbzdfUV90MXE5dGU5R2dIMFIzdw?oc=5",
-  "published": "Tue, 06 Oct 2026 04:36:23 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
