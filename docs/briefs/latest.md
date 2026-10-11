@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Global Energy Security at Risk if Strait of Hormuz Does Not Open in Weeks, IEA Chief Says - EnergyNow.com
-*Thu, 08 Oct 2026 21:37:36 GMT* — [source](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDBFZVBWX0NZcWtPdmRsdmxyT3p4ZUJ2T1RYMTl1c1VwaDVVQ2NaMFp5ZFJnQmc4U21ZUXhXNXpPQzZ0eFB4UDBYaVFCU1k0MFRwVG14U0w1TGViMGJINmpYZi12QXUweU5yZmVIaFZZcGRvVnBlWlp2cXRYNlI2dy1feWltQW1Vd1l5bE1ob3g3YkwxbnR5RUN6MF9JNXd4eFgtV2dwS3JKM0x0T0w2SkJBMXBwWC0tcjNr?oc=5)
+## Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover - Egypt Oil & Gas
+*Sun, 11 Oct 2026 17:33:14 GMT* — [source](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjNlMWZxdUxhRWdwSWs3X1RFcGJ4Q3hjVmVtaEU3ZkJhZUozSDZkSll4QkJ6RU50SmRidklRS0Jndk9hRVRKX0dxMmpHV19DRVJZUjRDUEdrOVl5WVBuSU80c1JVVTJFQ2NXYnExM3laQXpPUkhDLTNISGVxSnRpNXlnOXVHTTFFeExrd0xfbGxvMjNqVy1DMDRMOWQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_8 corroborating headline(s):_
+- [Global Energy Security at Risk if Strait of Hormuz Does Not Open in Weeks, IEA Chief Says - EnergyNow.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDBFZVBWX0NZcWtPdmRsdmxyT3p4ZUJ2T1RYMTl1c1VwaDVVQ2NaMFp5ZFJnQmc4U21ZUXhXNXpPQzZ0eFB4UDBYaVFCU1k0MFRwVG14U0w1TGViMGJINmpYZi12QXUweU5yZmVIaFZZcGRvVnBlWlp2cXRYNlI2dy1feWltQW1Vd1l5bE1ob3g3YkwxbnR5RUN6MF9JNXd4eFgtV2dwS3JKM0x0T0w2SkJBMXBwWC0tcjNr?oc=5)
 - [Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5)
 - [Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5)
-- [Heavy explosions in Strait of Hormuz as tankers may have hit mines: Iran’s state broadcaster - Anadolu Ajansı](https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2tVWEk4RGRnbVU4blQtcVVvNl9hYTVicnVpRThFYU5nVFVGaENVSG1oU2JxUnIxWVpnZk5raHlINW1oUEpoMWxMb244X3k4TlBZYTY4NUNRZmVTVlJSMkZBcDE1Q3NRb0ZUUFVuTEhxVFRZdEtrT3VuZ2NqVDRoNnFUR3haLXRQUXk1ajFxX1RjdTFrVEwxV3BiR0YtSk9WOXR6QXZNa2xGQ2gyRkVabFdIeGJ6Q0tGVWtoQmZHeVJNanRENTBYY0g5V0FfZ9IB1gFBVV95cUxQSGlCUXBJbXd0NEZ4Tm9UT0pJaXBmLWVOcl9VRTRNRF9WZ2JFU0RTLWxPTWo5OFdwOE5iX0pzclFUQS1Bc2xETjZPNlR4eWxFenAzdXVQTHoxMHBUM2x3b0gtWVNrUmVSNDRpeFZ6VXZuOVRkT0FLTVZuRm05NHROZUJzbDJoUVEwLUd4RTNRMmVkVVk0Y1RTcnp1OTZjTVhxMEVWeXhjaVJnV3dGNWVkaHQtenBQY1R2QUhONjg4MWNTbi1ydTFTZnhRQ1lRVXlZRm9YY29R?oc=5)
-- …and 4 more
+- …and 5 more
 
 ## Cobalt’s Silent Cartel: China, Kinshasa and the DRC Export Quota - Geopolitical Monitor
 *Thu, 01 Oct 2026 14:05:48 GMT* — [source](https://news.google.com/rss/articles/CBMifkFVX3lxTE1aZFVLaUo4UjM0VVJ3c1FkTjZOWWlLUlNqUnFnSmRJeDRRV28wY2Jma2JkQ1NRWWc4M21VeFF0MFZEbk84VGlDZ3psQlRhTmExbWhUbjZGcnR3ZlJOWW8xU3JmYVdYUThBZmpKRk5QekpNd3RHUzlsdkR6VmRRUQ?oc=5)
@@ -60,8 +60,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Russia Rejects Black Sea Grain Truce as Ukraine Warns Exports Could Stay Critical for Months - Kyiv Post
-*Tue, 29 Sep 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oaEhTZUFBSzhYMlFiZW1UZUlXQ2QwOVhDSk03SHhHQ1dwNnRLNjRpcEF1bEVadVFaZ19aU1JBR2pxOUJjVXctcGJhZw?oc=5)
+## Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress
+*Sat, 10 Oct 2026 19:22:00 GMT* — [source](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -77,9 +77,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _3 corroborating headline(s):_
-- [EA on Pakistan TV: Ukraine — The Black Sea Blockades Are Choking Grain Exports - EA WorldView](https://news.google.com/rss/articles/CBMibEFVX3lxTE42WmlWTUF4TkVqN21Cdy1fck1zYWNoWGI0eEt3VXN4VmhoTEVBc042Ui1KazByalBtelZCV1VyTWRuRUYtaDZVOFM2TmczbklCblJWUjQ2RjVoWlNUUU16NzhPUE9WMEtrN094SQ?oc=5)
-- [Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5)
+- [Russia Rejects Black Sea Grain Truce as Ukraine Warns Exports Could Stay Critical for Months - Kyiv Post](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oaEhTZUFBSzhYMlFiZW1UZUlXQ2QwOVhDSk03SHhHQ1dwNnRLNjRpcEF1bEVadVFaZ19aU1JBR2pxOUJjVXctcGJhZw?oc=5)
 - [Russia boosts wheat exports via the Baltic to record levels amid Black Sea disruptions - UkrAgroConsult](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmpEbzlIUGZ2LWhuOEZ2MkF4Tmp0dFQzRnhqX0Q3ZUpubWw4STk0TFlXX0JyY0Y1Z2dfWFBjLWVYQkVRNDBZZzNUV21VYWFWYi1POS11YjE2TDdkaURUbVNYLUJNbDYybGtaenpjR0VvV083bThLNUpFRmdSck0wNEZYaEJwSzR3RXZmbEhWOWJjQ2J0MzZHZzd6TlNxSXluTFlhM1pPaU1ydHppeHRSSV9ZTHRMSk9lcmgzOGFrRQ?oc=5)
+- [Black Sea Attacks Threaten Ukraine Grain Exports - Oz Arab Media](https://news.google.com/rss/articles/CBMiekFVX3lxTE5VVzU1SjN4X0c0WlU2ZFFOTk5zZE9QdmVLYkdKcUFGbWN3UmtKWmVJeXJIOUpHbl9TXzV0M1h3Y2k5UG5JWmhTX2F4YXQ3ODFCSnJRejVRODc4VlhQUFFoRzFScG0zczRDZl96SkR3eHZvcXhoTzRJTF9R?oc=5)
 
 ---
 

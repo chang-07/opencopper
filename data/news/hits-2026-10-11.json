@@ -1,5 +1,16 @@
 [
  {
+  "headline": "Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover - Egypt Oil & Gas",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjNlMWZxdUxhRWdwSWs3X1RFcGJ4Q3hjVmVtaEU3ZkJhZUozSDZkSll4QkJ6RU50SmRidklRS0Jndk9hRVRKX0dxMmpHV19DRVJZUjRDUEdrOVl5WVBuSU80c1JVVTJFQ2NXYnExM3laQXpPUkhDLTNISGVxSnRpNXlnOXVHTTFFeExrd0xfbGxvMjNqVy1DMDRMOWQ?oc=5",
+  "published": "Sun, 11 Oct 2026 17:33:14 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Global Energy Security at Risk if Strait of Hormuz Does Not Open in Weeks, IEA Chief Says - EnergyNow.com",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDBFZVBWX0NZcWtPdmRsdmxyT3p4ZUJ2T1RYMTl1c1VwaDVVQ2NaMFp5ZFJnQmc4U21ZUXhXNXpPQzZ0eFB4UDBYaVFCU1k0MFRwVG14U0w1TGViMGJINmpYZi12QXUweU5yZmVIaFZZcGRvVnBlWlp2cXRYNlI2dy1feWltQW1Vd1l5bE1ob3g3YkwxbnR5RUN6MF9JNXd4eFgtV2dwS3JKM0x0T0w2SkJBMXBwWC0tcjNr?oc=5",
   "published": "Thu, 08 Oct 2026 21:37:36 GMT",
@@ -110,6 +121,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5",
+  "published": "Sat, 10 Oct 2026 19:22:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Russia Rejects Black Sea Grain Truce as Ukraine Warns Exports Could Stay Critical for Months - Kyiv Post",
   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oaEhTZUFBSzhYMlFiZW1UZUlXQ2QwOVhDSk03SHhHQ1dwNnRLNjRpcEF1bEVadVFaZ19aU1JBR2pxOUJjVXctcGJhZw?oc=5",
   "published": "Tue, 29 Sep 2026 07:00:00 GMT",
@@ -121,31 +143,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "EA on Pakistan TV: Ukraine \u2014 The Black Sea Blockades Are Choking Grain Exports - EA WorldView",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42WmlWTUF4TkVqN21Cdy1fck1zYWNoWGI0eEt3VXN4VmhoTEVBc042Ui1KazByalBtelZCV1VyTWRuRUYtaDZVOFM2TmczbklCblJWUjQ2RjVoWlNUUU16NzhPUE9WMEtrN094SQ?oc=5",
-  "published": "Sun, 04 Oct 2026 22:49:57 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5",
-  "published": "Fri, 02 Oct 2026 12:45:21 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Russia boosts wheat exports via the Baltic to record levels amid Black Sea disruptions - UkrAgroConsult",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmpEbzlIUGZ2LWhuOEZ2MkF4Tmp0dFQzRnhqX0Q3ZUpubWw4STk0TFlXX0JyY0Y1Z2dfWFBjLWVYQkVRNDBZZzNUV21VYWFWYi1POS11YjE2TDdkaURUbVNYLUJNbDYybGtaenpjR0VvV083bThLNUpFRmdSck0wNEZYaEJwSzR3RXZmbEhWOWJjQ2J0MzZHZzd6TlNxSXluTFlhM1pPaU1ydHppeHRSSV9ZTHRMSk9lcmgzOGFrRQ?oc=5",
   "published": "Thu, 08 Oct 2026 17:21:06 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Black Sea Attacks Threaten Ukraine Grain Exports - Oz Arab Media",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VVzU1SjN4X0c0WlU2ZFFOTk5zZE9QdmVLYkdKcUFGbWN3UmtKWmVJeXJIOUpHbl9TXzV0M1h3Y2k5UG5JWmhTX2F4YXQ3ODFCSnJRejVRODc4VlhQUFFoRzFScG0zczRDZl96SkR3eHZvcXhoTzRJTF9R?oc=5",
+  "published": "Sat, 10 Oct 2026 07:00:34 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
