@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
+_8 corroborating headline(s):_
 - [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
 - [OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions – Monthly Report Says - Egypt Oil & Gas](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA?oc=5)
-- [Brent rises to $106 after attacks on vessels in the Strait of Hormuz — Cyprus Mail - UA.NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOT09pakRNMXVfcHdTczd1cmJKcTRQMmp6Zm05Q0RxS1BGa3R2Q2JvUWgyUDZ6NGJ0UUowMHlQVjRUN1pFcVQ4NXFLMmt5QkxiVWdWOVBFQzJad2RyckIyZUVyalRqVkhmT0RvUF9GU21BOUEyUzk4ZVlfUmtzUy1kdzFNSmhXMlo1eGFCMzV3TkZuc3JFTHF4Wml4MFVZeWJfQ3c?oc=5)
-- …and 7 more
+- [Oil prices climb on Hormuz attacks, Iran's new maritime tactics - Latest news from Azerbaijan](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGJnd3lZS1BxaUdCbkl2cW4xN3BMMHVlakt6UXVBU196YUtucXh3UjR1V05FVUQ0Qk5BZzZFU2hocHNmUFRMVGYwYXFPTzB0OXR3dTI2VEgwYkh3SjRxcFJ3U2RJVGdpSHNyR2dKOG81Y052ZXFlVnJTWTlUd0t3YWJjZXZiaXFqWHlj?oc=5)
+- …and 5 more
 
 ## OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ
 *Tue, 13 Oct 2026 12:32:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5)
@@ -94,8 +94,8 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _2 corroborating headline(s):_
-- [Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift - CMB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlJsdm9jNWx5VldSS09IZkljc2dIcjhhZEYtQTZPeXFsMmNtQ3REX2d6Skx2WGZvUUx2emx3SWFaS1llWEVnNFhDSzczbWt4ZS1sbVlZX3JCUUVDR0diQU03c2tvZkR3cGV1WmczRWJTS18zSTFWZjRGajRudlFwQURCSFgtekhPR1B2MGZBUkV0VTBpYkE?oc=5)
 - [Russian Wheat Export Costs Rise, Increased Shipments Buffer Domestic Price Drop - Maritime Logistics News](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDY5MWY1bkN5VnhqTkhTQXN1UXMzdE9xNHNaUGt3RmpDUkdodWlaR3lTRjV2N3lReVNucUNMWGhTWS0xWk5OYkwyaXVVaTJpWU84RHdkaGlSWEk0Njhlb181RkRwTEZmaHJ3bmZuQnM4RVY2Y3JJb25qM1JJcUsyQWtGdzh5Y3fSAYwBQVVfeXFMTUg0WVlWb1E0ZVBhdGMySERIdVRlNkNzalF2OHpfUjZVNGlOejFqMDB4TDRMTFRDaVNMNHk1cUR6Uy02SS04NDRKcUlldFhVbjAzR0FuS1JvbUpZd1JXdjBtV2JneDliUS1wanExUlhLV0ZyeHpqRTBOQnRRSENrMkd6QlNfOHFhUUU2ci0?oc=5)
+- [Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift - CMB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlJsdm9jNWx5VldSS09IZkljc2dIcjhhZEYtQTZPeXFsMmNtQ3REX2d6Skx2WGZvUUx2emx3SWFaS1llWEVnNFhDSzczbWt4ZS1sbVlZX3JCUUVDR0diQU03c2tvZkR3cGV1WmczRWJTS18zSTFWZjRGajRudlFwQURCSFgtekhPR1B2MGZBUkV0VTBpYkE?oc=5)
 
 ---
 
