@@ -1,8 +1,31 @@
-# News-driven model brief — 2026-10-13
+# News-driven model brief — 2026-10-14
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
+
+## Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com
+*Tue, 13 Oct 2026 16:10:16 GMT* — [source](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
+Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
+
+```
+CROSS-COMMODITY RIPPLE — Saudi Arabia crude-oil -20% (prior)
+commodity    channel       via                          price Δ
+----------------------------------------------------------------
+crude-oil    direct        Saudi Arabia                    +11%  [+4..+191%]
+wheat        input_cost    crude-oil price +11%             +1%
+
+One first-order round through data/seed/linkages.yaml (byproduct /
+substitution / input-cost); couplings are disputable seed-estimates.
+[..] = the same shock across the seeded elasticity RANGES — when the
+band is wide, the elasticities are doing the work, not the event.
+```
+
+_7 corroborating headline(s):_
+- [OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions – Monthly Report Says - Egypt Oil & Gas](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA?oc=5)
+- [Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5)
+- [Heavy explosions in Strait of Hormuz as tankers may have hit mines: Iran’s state broadcaster - Anadolu Ajansı](https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2tVWEk4RGRnbVU4blQtcVVvNl9hYTVicnVpRThFYU5nVFVGaENVSG1oU2JxUnIxWVpnZk5raHlINW1oUEpoMWxMb244X3k4TlBZYTY4NUNRZmVTVlJSMkZBcDE1Q3NRb0ZUUFVuTEhxVFRZdEtrT3VuZ2NqVDRoNnFUR3haLXRQUXk1ajFxX1RjdTFrVEwxV3BiR0YtSk9WOXR6QXZNa2xGQ2gyRkVabFdIeGJ6Q0tGVWtoQmZHeVJNanRENTBYY0g5V0FfZw?oc=5)
+- …and 4 more
 
 ## OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ
 *Tue, 13 Oct 2026 12:32:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5)
@@ -20,29 +43,6 @@ substitution / input-cost); couplings are disputable seed-estimates.
 [..] = the same shock across the seeded elasticity RANGES — when the
 band is wide, the elasticities are doing the work, not the event.
 ```
-
-## OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions – Monthly Report Says - Egypt Oil & Gas
-*Tue, 13 Oct 2026 15:21:00 GMT* — [source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA?oc=5)
-Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
-
-```
-CROSS-COMMODITY RIPPLE — Saudi Arabia crude-oil -20% (prior)
-commodity    channel       via                          price Δ
-----------------------------------------------------------------
-crude-oil    direct        Saudi Arabia                    +11%  [+4..+191%]
-wheat        input_cost    crude-oil price +11%             +1%
-
-One first-order round through data/seed/linkages.yaml (byproduct /
-substitution / input-cost); couplings are disputable seed-estimates.
-[..] = the same shock across the seeded elasticity RANGES — when the
-band is wide, the elasticities are doing the work, not the event.
-```
-
-_7 corroborating headline(s):_
-- [Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5)
-- [Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5)
-- [Heavy explosions in Strait of Hormuz as tankers may have hit mines: Iran’s state broadcaster - Anadolu Ajansı](https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2tVWEk4RGRnbVU4blQtcVVvNl9hYTVicnVpRThFYU5nVFVGaENVSG1oU2JxUnIxWVpnZk5raHlINW1oUEpoMWxMb244X3k4TlBZYTY4NUNRZmVTVlJSMkZBcDE1Q3NRb0ZUUFVuTEhxVFRZdEtrT3VuZ2NqVDRoNnFUR3haLXRQUXk1ajFxX1RjdTFrVEwxV3BiR0YtSk9WOXR6QXZNa2xGQ2gyRkVabFdIeGJ6Q0tGVWtoQmZHeVJNanRENTBYY0g5V0FfZw?oc=5)
-- …and 4 more
 
 ## Cobalt’s Silent Cartel: China, Kinshasa and the DRC Export Quota - Geopolitical Monitor
 *Thu, 01 Oct 2026 14:05:48 GMT* — [source](https://news.google.com/rss/articles/CBMifkFVX3lxTE1aZFVLaUo4UjM0VVJ3c1FkTjZOWWlLUlNqUnFnSmRJeDRRV28wY2Jma2JkQ1NRWWc4M21VeFF0MFZEbk84VGlDZ3psQlRhTmExbWhUbjZGcnR3ZlJOWW8xU3JmYVdYUThBZmpKRk5QekpNd3RHUzlsdkR6VmRRUQ?oc=5)
