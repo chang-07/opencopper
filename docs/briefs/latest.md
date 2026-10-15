@@ -1,11 +1,11 @@
-# News-driven model brief — 2026-10-14
+# News-driven model brief — 2026-10-15
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## OPEC oil output rebounds in September even amid Strait of Hormuz tensions - Down To Earth
-*Wed, 14 Oct 2026 10:31:54 GMT* — [source](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3JVcGNrcDhaUjdTX082RDVKdjdGS3oyTWc2TnRWMXlXX1pvTFE4WktGRkRzTGg5THBYVHJQNmF1cE5pYjB5bjhnZ2tXSm0taUpBOEU1U0lHZWhSQ2w3U2FhcmlVaDBEZkduVmhtOWx5Y0ZwR2MtYTlROG90MmUzRUxZaUhVNFdxQjVab2xlcm9OaWJJdHJXNUNaenAyOF9pUHVyd2EwLTVYQ3FHOTF6atIBvgFBVV95cUxNWDNUU3NxN3R1YmpLZzd2OFBpQWhxamRLeFFpeTJzRG5OVlNhWXJaV1QyUXdfSXU2bWpMSzhlMFdocUNOZXFHZVYwaklIUVBvVmxBbWRxZEtxM0RBYTRGTFpfQzZPV2I4TkZMaklxcVlkU1Q1Wks5bUo1WWNLSVlzR0ZIN3hraUU2eFplNTZHaHg4V0RpVFIwaFE0Ui1Nd1dmLTRIYk5TZlMzQkc1bGJGZWJjb1k3cUlJNHFZZkln?oc=5)
+## Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com
+*Tue, 13 Oct 2026 16:10:16 GMT* — [source](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -22,9 +22,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _9 corroborating headline(s):_
-- [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
+- [OPEC oil output rebounds in September even amid Strait of Hormuz tensions - Down To Earth](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3JVcGNrcDhaUjdTX082RDVKdjdGS3oyTWc2TnRWMXlXX1pvTFE4WktGRkRzTGg5THBYVHJQNmF1cE5pYjB5bjhnZ2tXSm0taUpBOEU1U0lHZWhSQ2w3U2FhcmlVaDBEZkduVmhtOWx5Y0ZwR2MtYTlROG90MmUzRUxZaUhVNFdxQjVab2xlcm9OaWJJdHJXNUNaenAyOF9pUHVyd2EwLTVYQ3FHOTF6atIBvgFBVV95cUxNWDNUU3NxN3R1YmpLZzd2OFBpQWhxamRLeFFpeTJzRG5OVlNhWXJaV1QyUXdfSXU2bWpMSzhlMFdocUNOZXFHZVYwaklIUVBvVmxBbWRxZEtxM0RBYTRGTFpfQzZPV2I4TkZMaklxcVlkU1Q1Wks5bUo1WWNLSVlzR0ZIN3hraUU2eFplNTZHaHg4V0RpVFIwaFE0Ui1Nd1dmLTRIYk5TZlMzQkc1bGJGZWJjb1k3cUlJNHFZZkln?oc=5)
 - [OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions – Monthly Report Says - Egypt Oil & Gas](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA?oc=5)
-- [Brent rises to $106 after attacks on vessels in the Strait of Hormuz — Cyprus Mail - UA.NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOT09pakRNMXVfcHdTczd1cmJKcTRQMmp6Zm05Q0RxS1BGa3R2Q2JvUWgyUDZ6NGJ0UUowMHlQVjRUN1pFcVQ4NXFLMmt5QkxiVWdWOVBFQzJad2RyckIyZUVyalRqVkhmT0RvUF9GU21BOUEyUzk4ZVlfUmtzUy1kdzFNSmhXMlo1eGFCMzV3TkZuc3JFTHF4Wml4MFVZeWJfQ3c?oc=5)
+- [Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5)
 - …and 6 more
 
 ## OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ
@@ -93,8 +93,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [Russian Wheat Export Costs Rise, Increased Shipments Buffer Domestic Price Drop - Maritime Logistics News](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDY5MWY1bkN5VnhqTkhTQXN1UXMzdE9xNHNaUGt3RmpDUkdodWlaR3lTRjV2N3lReVNucUNMWGhTWS0xWk5OYkwyaXVVaTJpWU84RHdkaGlSWEk0Njhlb181RkRwTEZmaHJ3bmZuQnM4RVY2Y3JJb25qM1JJcUsyQWtGdzh5Y3fSAYwBQVVfeXFMTUg0WVlWb1E0ZVBhdGMySERIdVRlNkNzalF2OHpfUjZVNGlOejFqMDB4TDRMTFRDaVNMNHk1cUR6Uy02SS04NDRKcUlldFhVbjAzR0FuS1JvbUpZd1JXdjBtV2JneDliUS1wanExUlhLV0ZyeHpqRTBOQnRRSENrMkd6QlNfOHFhUUU2ci0?oc=5)
+- [Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift - CMB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlJsdm9jNWx5VldSS09IZkljc2dIcjhhZEYtQTZPeXFsMmNtQ3REX2d6Skx2WGZvUUx2emx3SWFaS1llWEVnNFhDSzczbWt4ZS1sbVlZX3JCUUVDR0diQU03c2tvZkR3cGV1WmczRWJTS18zSTFWZjRGajRudlFwQURCSFgtekhPR1B2MGZBUkV0VTBpYkE?oc=5)
 
 ---
 
