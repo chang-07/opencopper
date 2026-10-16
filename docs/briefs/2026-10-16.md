@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com
-*Thu, 15 Oct 2026 12:08:01 GMT* — [source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
+## Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com
+*Thu, 15 Oct 2026 20:32:25 GMT* — [source](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_9 corroborating headline(s):_
+_8 corroborating headline(s):_
 - [OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions – Monthly Report Says - Egypt Oil & Gas](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA?oc=5)
 - [OPEC oil output rebounds in September even amid Strait of Hormuz tensions - Down To Earth](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3JVcGNrcDhaUjdTX082RDVKdjdGS3oyTWc2TnRWMXlXX1pvTFE4WktGRkRzTGg5THBYVHJQNmF1cE5pYjB5bjhnZ2tXSm0taUpBOEU1U0lHZWhSQ2w3U2FhcmlVaDBEZkduVmhtOWx5Y0ZwR2MtYTlROG90MmUzRUxZaUhVNFdxQjVab2xlcm9OaWJJdHJXNUNaenAyOF9pUHVyd2EwLTVYQ3FHOTF6atIBvgFBVV95cUxNWDNUU3NxN3R1YmpLZzd2OFBpQWhxamRLeFFpeTJzRG5OVlNhWXJaV1QyUXdfSXU2bWpMSzhlMFdocUNOZXFHZVYwaklIUVBvVmxBbWRxZEtxM0RBYTRGTFpfQzZPV2I4TkZMaklxcVlkU1Q1Wks5bUo1WWNLSVlzR0ZIN3hraUU2eFplNTZHaHg4V0RpVFIwaFE0Ui1Nd1dmLTRIYk5TZlMzQkc1bGJGZWJjb1k3cUlJNHFZZkln?oc=5)
-- [Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5)
-- …and 6 more
+- [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
+- …and 5 more
 
 ## OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ
 *Tue, 13 Oct 2026 12:32:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5)
@@ -61,8 +61,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## FAS sees further decline in Russia wheat exports - World Grain
-*Tue, 13 Oct 2026 12:16:05 GMT* — [source](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDZ3SVNZMXMyZDhQdnpUZlByMWlaNXk4TzdQNzd2WTZMOW9tUnpzSC1OaGFqX1N0bDRQVkViMjFPbHZ0NGFJc3k4ZVpWOWR3OTRmeTZOQU1qRjBBcUJpQS1BbGNxTXJWcW1KOWYtVHYyZ2VXQ04zWnpYQ01OemgzakNRZ1llX3h2NmhNaUIxY0dqcnE0Q2c?oc=5)
+## Black Sea grain war escalates: Ukraine knocked out most of Russia’s grain exports, and Russia is now sinking ships off Romania and Bulgaria - Euromaidan Press
+*Thu, 15 Oct 2026 22:26:01 GMT* — [source](https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbWI3eVlXcnpwMEFZZmZsQWcwOGlyN245d2J4SkM3LUE2VlZKMHVZSFFNZS1fTmE5elR4bXRDaWdDOGVvdHVYS3NlOW9NcWg1Z0pVQmI4STdTVGNQd3FYeVlXTUJZV3NhSGhoSjN2TWhhWHBx?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -77,7 +77,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_3 corroborating headline(s):_
+- [FAS sees further decline in Russia wheat exports - World Grain](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDZ3SVNZMXMyZDhQdnpUZlByMWlaNXk4TzdQNzd2WTZMOW9tUnpzSC1OaGFqX1N0bDRQVkViMjFPbHZ0NGFJc3k4ZVpWOWR3OTRmeTZOQU1qRjBBcUJpQS1BbGNxTXJWcW1KOWYtVHYyZ2VXQ04zWnpYQ01OemgzakNRZ1llX3h2NmhNaUIxY0dqcnE0Q2c?oc=5)
 - [Russian Wheat Export Costs Rise, Increased Shipments Buffer Domestic Price Drop - Maritime Logistics News](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDY5MWY1bkN5VnhqTkhTQXN1UXMzdE9xNHNaUGt3RmpDUkdodWlaR3lTRjV2N3lReVNucUNMWGhTWS0xWk5OYkwyaXVVaTJpWU84RHdkaGlSWEk0Njhlb181RkRwTEZmaHJ3bmZuQnM4RVY2Y3JJb25qM1JJcUsyQWtGdzh5Y3fSAYwBQVVfeXFMTUg0WVlWb1E0ZVBhdGMySERIdVRlNkNzalF2OHpfUjZVNGlOejFqMDB4TDRMTFRDaVNMNHk1cUR6Uy02SS04NDRKcUlldFhVbjAzR0FuS1JvbUpZd1JXdjBtV2JneDliUS1wanExUlhLV0ZyeHpqRTBOQnRRSENrMkd6QlNfOHFhUUU2ci0?oc=5)
 - [Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift - CMB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlJsdm9jNWx5VldSS09IZkljc2dIcjhhZEYtQTZPeXFsMmNtQ3REX2d6Skx2WGZvUUx2emx3SWFaS1llWEVnNFhDSzczbWt4ZS1sbVlZX3JCUUVDR0diQU03c2tvZkR3cGV1WmczRWJTS18zSTFWZjRGajRudlFwQURCSFgtekhPR1B2MGZBUkV0VTBpYkE?oc=5)
 
