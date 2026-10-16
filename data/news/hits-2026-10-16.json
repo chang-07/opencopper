@@ -11,6 +11,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "\"Despite increased production by oil-producing countries, inventories are depleted\"\u2014Amid transport instability in the Strait of Hormuz and the Red Sea, the global energy supply chain is 'fragile', with rising inflationary pressures in the West. - https://economy.ac/",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zbXJyX01qdzFYQTQ2bG9Ha2N3WlF4V2JaUnAtai0xdkFTbkhhVURLVDJPM0R0RUdIUmJGYURaM2E4MFo4SFcwTFVBckZRbWQ1VTFockRscw?oc=5",
+  "published": "Fri, 16 Oct 2026 03:43:12 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions \u2013 Monthly Report Says - Egypt Oil & Gas",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA?oc=5",
   "published": "Tue, 13 Oct 2026 15:21:00 GMT",
@@ -44,9 +55,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
-  "published": "Thu, 15 Oct 2026 12:08:01 GMT",
+  "headline": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5",
+  "published": "Mon, 05 Oct 2026 16:39:48 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -55,9 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases - World Oil",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXRYRnNxY0dYNUw0Sm9rZEFTcThEQlRXeklidjdZMVhQYTh5ZllIdHNDV0hOY0Z2OUwzUzVqWXd3MWtpNWo0Tk9tSldLUGJxcFZ0XzE0bzdSaU1yNGdXTGtQajluWUpxd3pGcUtFNkhOR0xlSk02OU1aWUlocHJvNUpHUnhQODdhcURDWDhrQjlCYzY1VVRVc3dHZGw4UmFnRzBLWnhzRkJ1NGx5ZV9F?oc=5",
-  "published": "Mon, 05 Oct 2026 16:39:48 GMT",
+  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
+  "published": "Thu, 15 Oct 2026 12:08:01 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -90,7 +101,7 @@
  {
   "headline": "Crude Oil Trading Alert: Risks in the Strait of Hormuz and production cuts in the Gulf of Mexico continue to support oil prices, while U.S. crude remains volatile at lower levels. - Moomoo",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnVpa0dTU2NtX2lKTDk5QXIxb1RqMEpKT0FvZnRqRTlFaXl6d3dJczVpNlhiUmQwV2tMcjRKNU1KYTBHc1lWaW9abWxrTldpUzNmcTU2VV9UTVY1WUFZSzFZSkg2dkhHemtGRkNISGhVS1M3RW5hYjAzTnFpa1p4S0ZxNTg4WWN3X1M2elpuQURrYm9hRlhlcGNHQ1p5QQ?oc=5",
-  "published": "Fri, 09 Oct 2026 01:35:07 GMT",
+  "published": "Thu, 08 Oct 2026 07:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -121,20 +132,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea grain war escalates: Ukraine knocked out most of Russia\u2019s grain exports, and Russia is now sinking ships off Romania and Bulgaria - Euromaidan Press",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbWI3eVlXcnpwMEFZZmZsQWcwOGlyN245d2J4SkM3LUE2VlZKMHVZSFFNZS1fTmE5elR4bXRDaWdDOGVvdHVYS3NlOW9NcWg1Z0pVQmI4STdTVGNQd3FYeVlXTUJZV3NhSGhoSjN2TWhhWHBx?oc=5",
-  "published": "Thu, 15 Oct 2026 22:26:01 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "FAS sees further decline in Russia wheat exports - World Grain",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDZ3SVNZMXMyZDhQdnpUZlByMWlaNXk4TzdQNzd2WTZMOW9tUnpzSC1OaGFqX1N0bDRQVkViMjFPbHZ0NGFJc3k4ZVpWOWR3OTRmeTZOQU1qRjBBcUJpQS1BbGNxTXJWcW1KOWYtVHYyZ2VXQ04zWnpYQ01OemgzakNRZ1llX3h2NmhNaUIxY0dqcnE0Q2c?oc=5",
-  "published": "Tue, 13 Oct 2026 12:16:05 GMT",
+  "headline": "Russia is intensifying attacks on Ukraine\u2019s grain export corridors in the Black Sea \u2014 Romanian President Dan - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcjhtZXVINFZta05iN1p0X3RYbUFwMGdZbldNQnFqVU5DTjRLYXFLSzZ5akV6UmxseW15Z1JzTGNTaXdaczkwdHp5NFMwZzdIX0YtRWl5NzhhZjJlLThtQ3JnYV9LbWFocVlob21WcTQwVzRkeGZvbHlrUmZ3RVNRcmNnaWpXZGRZQndiTnNJV1ZHV0RMVnRQS1gzZ1czQ1otbl9reGo5TXJUbzR5cXBPVjE4QVBFQlBWS3J5SF9GeGlZSU5MbG1n0gHGAUFVX3lxTE5xd1NWcnNidGVpd1N2TmlvVUMzTlNYWHowdFlNS0wySVp4OWwtQjcxeVZDemZIOHlocm5aRXg0YU5Dcy1qZUQwWDVPSXlSVVZMTVlXblU1VS16N1Q4ck93TzNuWm1PVndCUEtEUzVHOWR5NHVJNWU1eW5vUTJST21sZU9kRjhTMGdHZl9Sb2hBdDd0eVpwNnoyandXS0ptckF3dWQzMWxrQ1YtbzFBLXpFa2FadzdEcGU0aExvTUhndWVrb1kwdw?oc=5",
+  "published": "Fri, 16 Oct 2026 12:48:04 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
