@@ -22,6 +22,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Iraq loses $60B as Iran war chokes off oil exports through Hormuz - T\u00fcrkiye Today",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEtSOVItWVAwRVJLV3RJS1JFQTRxTENvenF2SXZOVkpkZ2VzVDJLLXROaWtxT1dYSnhXbTdKN2dPRnh5NWFXYlVQdUpBcTROcWh3TS1iSUFPZmhLMzVhdF9YRFhCSnZsLXN4cFVtdFhsajdSOUNRMjE4Yl9oUnMydThXLUFtd2s2Y3liV2dvcDhvLTc2N2Z3cU81WUpLeXRKcGdTaEpXaXZZYkdyMnRF?oc=5",
+  "published": "Fri, 16 Oct 2026 18:55:21 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions \u2013 Monthly Report Says - Egypt Oil & Gas",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA?oc=5",
   "published": "Tue, 13 Oct 2026 15:21:00 GMT",
@@ -129,6 +140,17 @@
   "country": "Indonesia",
   "severity": 0.25,
   "rule_id": "indonesia-nickel",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Cobalt's 30% Slide Puts D.R. Congo's Quota Gamble to the Test - Wansom AI",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnRFdmxIQ3N4dE0zQWVSOGZfQmJSdTIyTS04QnI2bGVPRjR2cXdYd3VtaHQ3ZlFiZlJZeTNZYUJEdWswSjFMbW1fZk1BVHAwLVVnaTU2MDB1WEtOUmJnTjZ5TGRGaFczTGJuc3lSeEdYT2llNHpBVF9EdDJoS0Z4NjVuSzJUSURRZ1NLSlNxNFh3Nm9LM0loSDRmam1QWE02ckpSYTRpQTU?oc=5",
+  "published": "Wed, 07 Oct 2026 10:19:38 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {
