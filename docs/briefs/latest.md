@@ -62,7 +62,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 ## Russia is intensifying attacks on Ukraine’s grain export corridors in the Black Sea — Romanian President Dan - Українські Національні Новини (УНН)
-*Fri, 16 Oct 2026 12:48:04 GMT* — [source](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcjhtZXVINFZta05iN1p0X3RYbUFwMGdZbldNQnFqVU5DTjRLYXFLSzZ5akV6UmxseW15Z1JzTGNTaXdaczkwdHp5NFMwZzdIX0YtRWl5NzhhZjJlLThtQ3JnYV9LbWFocVlob21WcTQwVzRkeGZvbHlrUmZ3RVNRcmNnaWpXZGRZQndiTnNJV1ZHV0RMVnRQS1gzZ1czQ1otbl9reGo5TXJUbzR5cXBPVjE4QVBFQlBWS3J5SF9GeGlZSU5MbG1n0gHGAUFVX3lxTE5xd1NWcnNidGVpd1N2TmlvVUMzTlNYWHowdFlNS0wySVp4OWwtQjcxeVZDemZIOHlocm5aRXg0YU5Dcy1qZUQwWDVPSXlSVVZMTVlXblU1VS16N1Q4ck93TzNuWm1PVndCUEtEUzVHOWR5NHVJNWU1eW5vUTJST21sZU9kRjhTMGdHZl9Sb2hBdDd0eVpwNnoyandXS0ptckF3dWQzMWxrQ1YtbzFBLXpFa2FadzdEcGU0aExvTUhndWVrb1kwdw?oc=5)
+*Fri, 16 Oct 2026 12:48:04 GMT* — [source](https://news.google.com/rss/articles/CBMixgFBVV95cUxOcXdTVnJzYnRlaXdTdk5pb1VDM05TWFh6MHRZTUtMMklaeDlsLUI3MXlWQ3pmSDh5aHJuWkV4NGFOQ3MtamVEMFg1T0l5UlVWTE1ZV25VNVUtejdUOHJPd08zblptT1Z3QlBLRFM1RzlkeTR1STVlNXlub1EyUk9tbGVPZEY4UzBnR2ZfUm9oQXQ3dHlacDZ6Mmp3V0tKbXJBd3VkMzFsa0NWLW8xQS16RWthWnc3RHBlNGhMb01IZ3Vla29ZMHfSAcYBQVVfeXFMTnF3U1Zyc2J0ZWl3U3ZOaW9VQzNOU1hYejB0WU1LTDJJWng5bC1CNzF5VkN6Zkg4eWhyblpFeDRhTkNzLWplRDBYNU9JeVJVVkxNWVduVTVVLXo3VDhyT3dPM25abU9Wd0JQS0RTNUc5ZHk0dUk1ZTV5bm9RMlJPbWxlT2RGOFMwZ0dmX1JvaEF0N3R5WnA2ejJqd1dLSm1yQXd1ZDMxbGtDVi1vMUEtekVrYVp3N0RwZTRoTG9NSGd1ZWtvWTB3?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -77,9 +77,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
-- [Russian Wheat Export Costs Rise, Increased Shipments Buffer Domestic Price Drop - Maritime Logistics News](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDY5MWY1bkN5VnhqTkhTQXN1UXMzdE9xNHNaUGt3RmpDUkdodWlaR3lTRjV2N3lReVNucUNMWGhTWS0xWk5OYkwyaXVVaTJpWU84RHdkaGlSWEk0Njhlb181RkRwTEZmaHJ3bmZuQnM4RVY2Y3JJb25qM1JJcUsyQWtGdzh5Y3fSAYwBQVVfeXFMTUg0WVlWb1E0ZVBhdGMySERIdVRlNkNzalF2OHpfUjZVNGlOejFqMDB4TDRMTFRDaVNMNHk1cUR6Uy02SS04NDRKcUlldFhVbjAzR0FuS1JvbUpZd1JXdjBtV2JneDliUS1wanExUlhLV0ZyeHpqRTBOQnRRSENrMkd6QlNfOHFhUUU2ci0?oc=5)
-- [Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift - CMB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlJsdm9jNWx5VldSS09IZkljc2dIcjhhZEYtQTZPeXFsMmNtQ3REX2d6Skx2WGZvUUx2emx3SWFaS1llWEVnNFhDSzczbWt4ZS1sbVlZX3JCUUVDR0diQU03c2tvZkR3cGV1WmczRWJTS18zSTFWZjRGajRudlFwQURCSFgtekhPR1B2MGZBUkV0VTBpYkE?oc=5)
+_1 corroborating headline(s):_
+- [FAS sees further decline in Russia wheat exports - World Grain](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDZ3SVNZMXMyZDhQdnpUZlByMWlaNXk4TzdQNzd2WTZMOW9tUnpzSC1OaGFqX1N0bDRQVkViMjFPbHZ0NGFJc3k4ZVpWOWR3OTRmeTZOQU1qRjBBcUJpQS1BbGNxTXJWcW1KOWYtVHYyZ2VXQ04zWnpYQ01OemgzakNRZ1llX3h2NmhNaUIxY0dqcnE0Q2c?oc=5)
 
 ---
 
