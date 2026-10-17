@@ -22,17 +22,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq loses $60B as Iran war chokes off oil exports through Hormuz - T\u00fcrkiye Today",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEtSOVItWVAwRVJLV3RJS1JFQTRxTENvenF2SXZOVkpkZ2VzVDJLLXROaWtxT1dYSnhXbTdKN2dPRnh5NWFXYlVQdUpBcTROcWh3TS1iSUFPZmhLMzVhdF9YRFhCSnZsLXN4cFVtdFhsajdSOUNRMjE4Yl9oUnMydThXLUFtd2s2Y3liV2dvcDhvLTc2N2Z3cU81WUpLeXRKcGdTaEpXaXZZYkdyMnRF?oc=5",
-  "published": "Fri, 16 Oct 2026 18:55:21 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC oil output rebounds in September even amid Strait of Hormuz tensions - Down To Earth",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3JVcGNrcDhaUjdTX082RDVKdjdGS3oyTWc2TnRWMXlXX1pvTFE4WktGRkRzTGg5THBYVHJQNmF1cE5pYjB5bjhnZ2tXSm0taUpBOEU1U0lHZWhSQ2w3U2FhcmlVaDBEZkduVmhtOWx5Y0ZwR2MtYTlROG90MmUzRUxZaUhVNFdxQjVab2xlcm9OaWJJdHJXNUNaenAyOF9pUHVyd2EwLTVYQ3FHOTF6atIBvgFBVV95cUxNWDNUU3NxN3R1YmpLZzd2OFBpQWhxamRLeFFpeTJzRG5OVlNhWXJaV1QyUXdfSXU2bWpMSzhlMFdocUNOZXFHZVYwaklIUVBvVmxBbWRxZEtxM0RBYTRGTFpfQzZPV2I4TkZMaklxcVlkU1Q1Wks5bUo1WWNLSVlzR0ZIN3hraUU2eFplNTZHaHg4V0RpVFIwaFE0Ui1Nd1dmLTRIYk5TZlMzQkc1bGJGZWJjb1k3cUlJNHFZZkln?oc=5",
   "published": "Wed, 14 Oct 2026 10:31:54 GMT",
@@ -58,6 +47,17 @@
   "headline": "\"Despite increased production by oil-producing countries, inventories are depleted\"\u2014Amid transport instability in the Strait of Hormuz and the Red Sea, the global energy supply chain is 'fragile', with rising inflationary pressures in the West. - https://economy.ac/",
   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zbXJyX01qdzFYQTQ2bG9Ha2N3WlF4V2JaUnAtai0xdkFTbkhhVURLVDJPM0R0RUdIUmJGYURaM2E4MFo4SFcwTFVBckZRbWQ1VTFockRscw?oc=5",
   "published": "Fri, 16 Oct 2026 03:43:12 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Iraq loses $60B as Iran war chokes off oil exports through Hormuz - T\u00fcrkiye Today",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEtSOVItWVAwRVJLV3RJS1JFQTRxTENvenF2SXZOVkpkZ2VzVDJLLXROaWtxT1dYSnhXbTdKN2dPRnh5NWFXYlVQdUpBcTROcWh3TS1iSUFPZmhLMzVhdF9YRFhCSnZsLXN4cFVtdFhsajdSOUNRMjE4Yl9oUnMydThXLUFtd2s2Y3liV2dvcDhvLTc2N2Z3cU81WUpLeXRKcGdTaEpXaXZZYkdyMnRF?oc=5",
+  "published": "Fri, 16 Oct 2026 18:55:21 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -132,17 +132,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Trading Alert: Risks in the Strait of Hormuz and production cuts in the Gulf of Mexico continue to support oil prices, while U.S. crude remains volatile at lower levels. - Moomoo",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnVpa0dTU2NtX2lKTDk5QXIxb1RqMEpKT0FvZnRqRTlFaXl6d3dJczVpNlhiUmQwV2tMcjRKNU1KYTBHc1lWaW9abWxrTldpUzNmcTU2VV9UTVY1WUFZSzFZSkg2dkhHemtGRkNISGhVS1M3RW5hYjAzTnFpa1p4S0ZxNTg4WWN3X1M2elpuQURrYm9hRlhlcGNHQ1p5QQ?oc=5",
-  "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Philippine Nickel Exports May Turn Indonesia\u2019s Quota Cut Into a Surplus - Crux Investor",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnJMS1ZMX0NJdmhkcHhlX3hIZThYVW9jMHFta0VoNlR3TFBCaXNoR19hV05WSlF3Y3pnZFV2NDA4cVlaY21wazVTaTVWRVRrSHAyak40dUtWNXFKcl9TamlwT0lzTUdnbWdNUExZY2xSY0tOeEFQQ3N4WXV3bnZnNFNZZkFFekpKYW1VbGltN0Yya3ZkVzZlZUxkNERhNTVQcVBsQnpjQzE?oc=5",
   "published": "Wed, 14 Oct 2026 08:33:16 GMT",
@@ -165,9 +154,31 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "FAS sees further decline in Russia wheat exports - World Grain",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDZ3SVNZMXMyZDhQdnpUZlByMWlaNXk4TzdQNzd2WTZMOW9tUnpzSC1OaGFqX1N0bDRQVkViMjFPbHZ0NGFJc3k4ZVpWOWR3OTRmeTZOQU1qRjBBcUJpQS1BbGNxTXJWcW1KOWYtVHYyZ2VXQ04zWnpYQ01OemgzakNRZ1llX3h2NmhNaUIxY0dqcnE0Q2c?oc=5",
-  "published": "Tue, 13 Oct 2026 12:16:05 GMT",
+  "headline": "Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5",
+  "published": "Sat, 10 Oct 2026 19:22:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian Wheat Export Costs Rise, Increased Shipments Buffer Domestic Price Drop - Maritime Logistics News",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDY5MWY1bkN5VnhqTkhTQXN1UXMzdE9xNHNaUGt3RmpDUkdodWlaR3lTRjV2N3lReVNucUNMWGhTWS0xWk5OYkwyaXVVaTJpWU84RHdkaGlSWEk0Njhlb181RkRwTEZmaHJ3bmZuQnM4RVY2Y3JJb25qM1JJcUsyQWtGdzh5Y3fSAYwBQVVfeXFMTUg0WVlWb1E0ZVBhdGMySERIdVRlNkNzalF2OHpfUjZVNGlOejFqMDB4TDRMTFRDaVNMNHk1cUR6Uy02SS04NDRKcUlldFhVbjAzR0FuS1JvbUpZd1JXdjBtV2JneDliUS1wanExUlhLV0ZyeHpqRTBOQnRRSENrMkd6QlNfOHFhUUU2ci0?oc=5",
+  "published": "Mon, 12 Oct 2026 17:14:03 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlJsdm9jNWx5VldSS09IZkljc2dIcjhhZEYtQTZPeXFsMmNtQ3REX2d6Skx2WGZvUUx2emx3SWFaS1llWEVnNFhDSzczbWt4ZS1sbVlZX3JCUUVDR0diQU03c2tvZkR3cGV1WmczRWJTS18zSTFWZjRGajRudlFwQURCSFgtekhPR1B2MGZBUkV0VTBpYkE?oc=5",
+  "published": "Tue, 13 Oct 2026 07:16:13 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
