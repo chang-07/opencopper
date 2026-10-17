@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _11 corroborating headline(s):_
 - [Iraq loses $60B as Iran war chokes off oil exports through Hormuz - Türkiye Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEtSOVItWVAwRVJLV3RJS1JFQTRxTENvenF2SXZOVkpkZ2VzVDJLLXROaWtxT1dYSnhXbTdKN2dPRnh5NWFXYlVQdUpBcTROcWh3TS1iSUFPZmhLMzVhdF9YRFhCSnZsLXN4cFVtdFhsajdSOUNRMjE4Yl9oUnMydThXLUFtd2s2Y3liV2dvcDhvLTc2N2Z3cU81WUpLeXRKcGdTaEpXaXZZYkdyMnRF?oc=5)
-- ["Despite increased production by oil-producing countries, inventories are depleted"—Amid transport instability in the Strait of Hormuz and the Red Sea, the global energy supply chain is 'fragile', with rising inflationary pressures in the West. - https://economy.ac/](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zbXJyX01qdzFYQTQ2bG9Ha2N3WlF4V2JaUnAtai0xdkFTbkhhVURLVDJPM0R0RUdIUmJGYURaM2E4MFo4SFcwTFVBckZRbWQ1VTFockRscw?oc=5)
 - [OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions – Monthly Report Says - Egypt Oil & Gas](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA?oc=5)
+- [OPEC oil output rebounds in September even amid Strait of Hormuz tensions - Down To Earth](https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3JVcGNrcDhaUjdTX082RDVKdjdGS3oyTWc2TnRWMXlXX1pvTFE4WktGRkRzTGg5THBYVHJQNmF1cE5pYjB5bjhnZ2tXSm0taUpBOEU1U0lHZWhSQ2w3U2FhcmlVaDBEZkduVmhtOWx5Y0ZwR2MtYTlROG90MmUzRUxZaUhVNFdxQjVab2xlcm9OaWJJdHJXNUNaenAyOF9pUHVyd2EwLTVYQ3FHOTF6atIBvgFBVV95cUxNWDNUU3NxN3R1YmpLZzd2OFBpQWhxamRLeFFpeTJzRG5OVlNhWXJaV1QyUXdfSXU2bWpMSzhlMFdocUNOZXFHZVYwaklIUVBvVmxBbWRxZEtxM0RBYTRGTFpfQzZPV2I4TkZMaklxcVlkU1Q1Wks5bUo1WWNLSVlzR0ZIN3hraUU2eFplNTZHaHg4V0RpVFIwaFE0Ui1Nd1dmLTRIYk5TZlMzQkc1bGJGZWJjb1k3cUlJNHFZZkln?oc=5)
 - …and 8 more
 
 ## OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ
@@ -77,8 +77,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Russia is intensifying attacks on Ukraine’s grain export corridors in the Black Sea — Romanian President Dan - Українські Національні Новини (УНН)
-*Fri, 16 Oct 2026 12:48:04 GMT* — [source](https://news.google.com/rss/articles/CBMixgFBVV95cUxOcXdTVnJzYnRlaXdTdk5pb1VDM05TWFh6MHRZTUtMMklaeDlsLUI3MXlWQ3pmSDh5aHJuWkV4NGFOQ3MtamVEMFg1T0l5UlVWTE1ZV25VNVUtejdUOHJPd08zblptT1Z3QlBLRFM1RzlkeTR1STVlNXlub1EyUk9tbGVPZEY4UzBnR2ZfUm9oQXQ3dHlacDZ6Mmp3V0tKbXJBd3VkMzFsa0NWLW8xQS16RWthWnc3RHBlNGhMb01IZ3Vla29ZMHfSAcYBQVVfeXFMTnF3U1Zyc2J0ZWl3U3ZOaW9VQzNOU1hYejB0WU1LTDJJWng5bC1CNzF5VkN6Zkg4eWhyblpFeDRhTkNzLWplRDBYNU9JeVJVVkxNWVduVTVVLXo3VDhyT3dPM25abU9Wd0JQS0RTNUc5ZHk0dUk1ZTV5bm9RMlJPbWxlT2RGOFMwZ0dmX1JvaEF0N3R5WnA2ejJqd1dLSm1yQXd1ZDMxbGtDVi1vMUEtekVrYVp3N0RwZTRoTG9NSGd1ZWtvWTB3?oc=5)
+## Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress
+*Sat, 10 Oct 2026 19:22:00 GMT* — [source](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -93,8 +93,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [FAS sees further decline in Russia wheat exports - World Grain](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDZ3SVNZMXMyZDhQdnpUZlByMWlaNXk4TzdQNzd2WTZMOW9tUnpzSC1OaGFqX1N0bDRQVkViMjFPbHZ0NGFJc3k4ZVpWOWR3OTRmeTZOQU1qRjBBcUJpQS1BbGNxTXJWcW1KOWYtVHYyZ2VXQ04zWnpYQ01OemgzakNRZ1llX3h2NmhNaUIxY0dqcnE0Q2c?oc=5)
+- [Russia is intensifying attacks on Ukraine’s grain export corridors in the Black Sea — Romanian President Dan - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMixgFBVV95cUxOcXdTVnJzYnRlaXdTdk5pb1VDM05TWFh6MHRZTUtMMklaeDlsLUI3MXlWQ3pmSDh5aHJuWkV4NGFOQ3MtamVEMFg1T0l5UlVWTE1ZV25VNVUtejdUOHJPd08zblptT1Z3QlBLRFM1RzlkeTR1STVlNXlub1EyUk9tbGVPZEY4UzBnR2ZfUm9oQXQ3dHlacDZ6Mmp3V0tKbXJBd3VkMzFsa0NWLW8xQS16RWthWnc3RHBlNGhMb01IZ3Vla29ZMHfSAcYBQVVfeXFMTnF3U1Zyc2J0ZWl3U3ZOaW9VQzNOU1hYejB0WU1LTDJJWng5bC1CNzF5VkN6Zkg4eWhyblpFeDRhTkNzLWplRDBYNU9JeVJVVkxNWVduVTVVLXo3VDhyT3dPM25abU9Wd0JQS0RTNUc5ZHk0dUk1ZTV5bm9RMlJPbWxlT2RGOFMwZ0dmX1JvaEF0N3R5WnA2ejJqd1dLSm1yQXd1ZDMxbGtDVi1vMUEtekVrYVp3N0RwZTRoTG9NSGd1ZWtvWTB3?oc=5)
 
 ---
 
