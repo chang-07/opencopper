@@ -61,22 +61,6 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Cobalt's 30% Slide Puts D.R. Congo's Quota Gamble to the Test - Wansom AI
-*Wed, 07 Oct 2026 10:19:38 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnRFdmxIQ3N4dE0zQWVSOGZfQmJSdTIyTS04QnI2bGVPRjR2cXdYd3VtaHQ3ZlFiZlJZeTNZYUJEdWswSjFMbW1fZk1BVHAwLVVnaTU2MDB1WEtOUmJnTjZ5TGRGaFczTGJuc3lSeEdYT2llNHpBVF9EdDJoS0Z4NjVuSzJUSURRZ1NLSlNxNFh3Nm9LM0loSDRmam1QWE02ckpSYTRpQTU?oc=5)
-Rule: cobalt / Congo (Kinshasa) / severity prior +40%
-
-```
-CROSS-COMMODITY RIPPLE — Congo (Kinshasa) cobalt -40% (prior)
-commodity    channel       via                          price Δ
-----------------------------------------------------------------
-cobalt       direct        Congo (Kinshasa)          ≥     +300%  [+90..+300%]
-
-One first-order round through data/seed/linkages.yaml (byproduct /
-substitution / input-cost); couplings are disputable seed-estimates.
-[..] = the same shock across the seeded elasticity RANGES — when the
-band is wide, the elasticities are doing the work, not the event.
-```
-
 ## Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress
 *Sat, 10 Oct 2026 19:22:00 GMT* — [source](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
@@ -93,9 +77,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_1 corroborating headline(s):_
 - [Russian Wheat Export Costs Rise, Increased Shipments Buffer Domestic Price Drop - Maritime Logistics News](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDY5MWY1bkN5VnhqTkhTQXN1UXMzdE9xNHNaUGt3RmpDUkdodWlaR3lTRjV2N3lReVNucUNMWGhTWS0xWk5OYkwyaXVVaTJpWU84RHdkaGlSWEk0Njhlb181RkRwTEZmaHJ3bmZuQnM4RVY2Y3JJb25qM1JJcUsyQWtGdzh5Y3fSAYwBQVVfeXFMTUg0WVlWb1E0ZVBhdGMySERIdVRlNkNzalF2OHpfUjZVNGlOejFqMDB4TDRMTFRDaVNMNHk1cUR6Uy02SS04NDRKcUlldFhVbjAzR0FuS1JvbUpZd1JXdjBtV2JneDliUS1wanExUlhLV0ZyeHpqRTBOQnRRSENrMkd6QlNfOHFhUUU2ci0?oc=5)
-- [Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift - CMB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlJsdm9jNWx5VldSS09IZkljc2dIcjhhZEYtQTZPeXFsMmNtQ3REX2d6Skx2WGZvUUx2emx3SWFaS1llWEVnNFhDSzczbWt4ZS1sbVlZX3JCUUVDR0diQU03c2tvZkR3cGV1WmczRWJTS18zSTFWZjRGajRudlFwQURCSFgtekhPR1B2MGZBUkV0VTBpYkE?oc=5)
 
 ---
 

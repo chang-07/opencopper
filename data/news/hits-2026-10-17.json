@@ -143,17 +143,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Cobalt's 30% Slide Puts D.R. Congo's Quota Gamble to the Test - Wansom AI",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnRFdmxIQ3N4dE0zQWVSOGZfQmJSdTIyTS04QnI2bGVPRjR2cXdYd3VtaHQ3ZlFiZlJZeTNZYUJEdWswSjFMbW1fZk1BVHAwLVVnaTU2MDB1WEtOUmJnTjZ5TGRGaFczTGJuc3lSeEdYT2llNHpBVF9EdDJoS0Z4NjVuSzJUSURRZ1NLSlNxNFh3Nm9LM0loSDRmam1QWE02ckpSYTRpQTU?oc=5",
-  "published": "Wed, 07 Oct 2026 10:19:38 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
   "headline": "Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5",
   "published": "Sat, 10 Oct 2026 19:22:00 GMT",
@@ -168,17 +157,6 @@
   "headline": "Russian Wheat Export Costs Rise, Increased Shipments Buffer Domestic Price Drop - Maritime Logistics News",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDY5MWY1bkN5VnhqTkhTQXN1UXMzdE9xNHNaUGt3RmpDUkdodWlaR3lTRjV2N3lReVNucUNMWGhTWS0xWk5OYkwyaXVVaTJpWU84RHdkaGlSWEk0Njhlb181RkRwTEZmaHJ3bmZuQnM4RVY2Y3JJb25qM1JJcUsyQWtGdzh5Y3fSAYwBQVVfeXFMTUg0WVlWb1E0ZVBhdGMySERIdVRlNkNzalF2OHpfUjZVNGlOejFqMDB4TDRMTFRDaVNMNHk1cUR6Uy02SS04NDRKcUlldFhVbjAzR0FuS1JvbUpZd1JXdjBtV2JneDliUS1wanExUlhLV0ZyeHpqRTBOQnRRSENrMkd6QlNfOHFhUUU2ci0?oc=5",
   "published": "Mon, 12 Oct 2026 17:14:03 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift - CMB News",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlJsdm9jNWx5VldSS09IZkljc2dIcjhhZEYtQTZPeXFsMmNtQ3REX2d6Skx2WGZvUUx2emx3SWFaS1llWEVnNFhDSzczbWt4ZS1sbVlZX3JCUUVDR0diQU03c2tvZkR3cGV1WmczRWJTS18zSTFWZjRGajRudlFwQURCSFgtekhPR1B2MGZBUkV0VTBpYkE?oc=5",
-  "published": "Tue, 13 Oct 2026 07:16:13 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
