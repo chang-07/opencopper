@@ -11,6 +11,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5",
+  "published": "Tue, 13 Oct 2026 12:32:00 GMT",
+  "rule_note": "",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.08,
+  "rule_id": "opec-cut",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions \u2013 Monthly Report Says - Egypt Oil & Gas",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA?oc=5",
   "published": "Tue, 13 Oct 2026 15:21:00 GMT",
@@ -33,14 +44,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5",
-  "published": "Tue, 13 Oct 2026 12:32:00 GMT",
-  "rule_note": "",
+  "headline": "\"Despite increased production by oil-producing countries, inventories are depleted\"\u2014Amid transport instability in the Strait of Hormuz and the Red Sea, the global energy supply chain is 'fragile', with rising inflationary pressures in the West. - https://economy.ac/",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zbXJyX01qdzFYQTQ2bG9Ha2N3WlF4V2JaUnAtai0xdkFTbkhhVURLVDJPM0R0RUdIUmJGYURaM2E4MFo4SFcwTFVBckZRbWQ1VTFockRscw?oc=5",
+  "published": "Fri, 16 Oct 2026 03:20:39 GMT",
+  "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
-  "severity": 0.08,
-  "rule_id": "opec-cut",
+  "severity": 0.2,
+  "rule_id": "hormuz",
   "source": "keyword-rule"
  },
  {
@@ -110,9 +121,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Prices Slide on US Sanctions Relief, Strait of Hormuz Tensions | - Business Post Nigeria",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ3Jrb3lsNkRuenFxNVNxZGstam05X0lwME5lMTB6WnR5UVNMc01EdkJxX2NWRkhlczJGM3Q2VFgwelpUNVFRVGxJQ0Q0aUhCME8wTTY1MGZsOHc3cXd3Ym1PODhWZGNGcXlTREpaWFNsNVcxcnNydGlGM2gzV2lPS2lweWZfa1RZb3ZNM1JFTG5udk5qc0VkdTNBRnE2d2s?oc=5",
-  "published": "Thu, 15 Oct 2026 07:36:56 GMT",
+  "headline": "Crude Oil Trading Alert: Risks in the Strait of Hormuz and production cuts in the Gulf of Mexico continue to support oil prices, while U.S. crude remains volatile at lower levels. - Moomoo",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnVpa0dTU2NtX2lKTDk5QXIxb1RqMEpKT0FvZnRqRTlFaXl6d3dJczVpNlhiUmQwV2tMcjRKNU1KYTBHc1lWaW9abWxrTldpUzNmcTU2VV9UTVY1WUFZSzFZSkg2dkhHemtGRkNISGhVS1M3RW5hYjAzTnFpa1p4S0ZxNTg4WWN3X1M2elpuQURrYm9hRlhlcGNHQ1p5QQ?oc=5",
+  "published": "Thu, 08 Oct 2026 07:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil Prices Set For Weekly Gains As Hormuz Disruptions Hit Shipments - LEADERSHIP Newspapers",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFM3cFlhTmhsQy15bVUyODBJTTRjb1B6ekFtelhZR0Z5Y1dmZFhBMnZhcmVFanM0OFg5MzVlbENBY18zN1hES3AwV0hHZ0p0SjIzTmdXVGMxY1pBMF9lOGVyVGRlNGo4cFNEa2VEeEM1dEJhYW1qTmZpM1Bua3lEUHBPQTNZWnAySEdfTFgtVVZUZW5J?oc=5",
+  "published": "Sun, 18 Oct 2026 08:05:21 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -129,28 +151,6 @@
   "country": "Indonesia",
   "severity": 0.25,
   "rule_id": "indonesia-nickel",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Cobalt's 30% Slide Puts D.R. Congo's Quota Gamble to the Test - Wansom AI",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnRFdmxIQ3N4dE0zQWVSOGZfQmJSdTIyTS04QnI2bGVPRjR2cXdYd3VtaHQ3ZlFiZlJZeTNZYUJEdWswSjFMbW1fZk1BVHAwLVVnaTU2MDB1WEtOUmJnTjZ5TGRGaFczTGJuc3lSeEdYT2llNHpBVF9EdDJoS0Z4NjVuSzJUSURRZ1NLSlNxNFh3Nm9LM0loSDRmam1QWE02ckpSYTRpQTU?oc=5",
-  "published": "Wed, 07 Oct 2026 10:19:38 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Wheat prices climb as Russia, Ukraine seek export workarounds - Farm Progress",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5",
-  "published": "Sat, 10 Oct 2026 19:22:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  }
 ]
