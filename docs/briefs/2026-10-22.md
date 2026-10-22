@@ -28,7 +28,7 @@ _7 corroborating headline(s):_
 - …and 4 more
 
 ## OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ
-*Wed, 21 Oct 2026 17:49:44 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5)
+*Tue, 13 Oct 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +8%
 
 ```
@@ -45,7 +45,7 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 ## Philippine Nickel Exports May Turn Indonesia’s Quota Cut Into a Surplus - Crux Investor
-*Wed, 14 Oct 2026 08:33:16 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnJMS1ZMX0NJdmhkcHhlX3hIZThYVW9jMHFta0VoNlR3TFBCaXNoR19hV05WSlF3Y3pnZFV2NDA4cVlaY21wazVTaTVWRVRrSHAyak40dUtWNXFKcl9TamlwT0lzTUdnbWdNUExZY2xSY0tOeEFQQ3N4WXV3bnZnNFNZZkFFekpKYW1VbGltN0Yya3ZkVzZlZUxkNERhNTVQcVBsQnpjQzE?oc=5)
+*Wed, 14 Oct 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnJMS1ZMX0NJdmhkcHhlX3hIZThYVW9jMHFta0VoNlR3TFBCaXNoR19hV05WSlF3Y3pnZFV2NDA4cVlaY21wazVTaTVWRVRrSHAyak40dUtWNXFKcl9TamlwT0lzTUdnbWdNUExZY2xSY0tOeEFQQ3N4WXV3bnZnNFNZZkFFekpKYW1VbGltN0Yya3ZkVzZlZUxkNERhNTVQcVBsQnpjQzE?oc=5)
 Rule: nickel / Indonesia / severity prior +25%
 
 ```
@@ -84,7 +84,7 @@ _2 corroborating headline(s):_
 ---
 
 ## Scorecard
-19 theses: 2 hit / 0 miss / 16 open / 1 need resolution · hit rate 100% · open auto avg move -1.7%
+19 theses: 9 hit / 0 miss / 9 open / 1 need resolution · hit rate 100% · open auto avg move -2.0%
 
 
 Full ledger: `opencopper theses` / the demo's Scorecard tab.

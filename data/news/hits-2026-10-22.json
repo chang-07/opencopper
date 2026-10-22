@@ -11,17 +11,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5",
-  "published": "Wed, 21 Oct 2026 17:49:44 GMT",
-  "rule_note": "",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.08,
-  "rule_id": "opec-cut",
-  "source": "keyword-rule"
- },
- {
   "headline": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJYMzVoV05ja2lpbDlvQk1LNjlfTzRuaERHdFB4TE94NkJXVDM1QmVaTFN5V1YyTVp6WmJaTkFpX3kwa293SXAtNFZHWldIMnU0SVhZOFJDU1prNkhMVTBCYV9vQjVBOTBYWkZFUVBObTV4dEI3Vm1Gd1B4U1NJSk5qRHRsUVpCLUswc3FOcl9KOVBDUUFLVEk3cndwb3dabU1TRHRHbFBhZmJuTnBnSWZwT2E0QQ?oc=5",
   "published": "Wed, 21 Oct 2026 16:02:04 GMT",
@@ -41,6 +30,17 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5",
+  "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+  "rule_note": "",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.08,
+  "rule_id": "opec-cut",
   "source": "keyword-rule"
  },
  {
@@ -77,17 +77,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia\u2019s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE42Y0FZdEtIYTdNNDM2NlFtbjZmdUllZHUta1dOZ21HYTFnY2FTZzdKUlM4V214Ui1GTk9QX1R1ZC02MXBERW9BUFA3UUZzanZpaVFtUTN4YXpvcjB3dWxmUWZHX19ZUUswS3FaendKdjhBb3ZwNVRYT252VEp6ZldyUzNTQ1gycEp6ZGZQSHJqOXQwck9EZlA3OWZSZTV2TDFhUEducHZsRXhCcUdFR0tHTQ?oc=5",
-  "published": "Tue, 20 Oct 2026 21:35:35 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "OPEC oil output rebounds in September even amid Strait of Hormuz tensions - Down To Earth",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3JVcGNrcDhaUjdTX082RDVKdjdGS3oyTWc2TnRWMXlXX1pvTFE4WktGRkRzTGg5THBYVHJQNmF1cE5pYjB5bjhnZ2tXSm0taUpBOEU1U0lHZWhSQ2w3U2FhcmlVaDBEZkduVmhtOWx5Y0ZwR2MtYTlROG90MmUzRUxZaUhVNFdxQjVab2xlcm9OaWJJdHJXNUNaenAyOF9pUHVyd2EwLTVYQ3FHOTF6atIBvgFBVV95cUxNWDNUU3NxN3R1YmpLZzd2OFBpQWhxamRLeFFpeTJzRG5OVlNhWXJaV1QyUXdfSXU2bWpMSzhlMFdocUNOZXFHZVYwaklIUVBvVmxBbWRxZEtxM0RBYTRGTFpfQzZPV2I4TkZMaklxcVlkU1Q1Wks5bUo1WWNLSVlzR0ZIN3hraUU2eFplNTZHaHg4V0RpVFIwaFE0Ui1Nd1dmLTRIYk5TZlMzQkc1bGJGZWJjb1k3cUlJNHFZZkln?oc=5",
   "published": "Wed, 14 Oct 2026 10:31:54 GMT",
@@ -99,9 +88,20 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Russia\u2019s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE42Y0FZdEtIYTdNNDM2NlFtbjZmdUllZHUta1dOZ21HYTFnY2FTZzdKUlM4V214Ui1GTk9QX1R1ZC02MXBERW9BUFA3UUZzanZpaVFtUTN4YXpvcjB3dWxmUWZHX19ZUUswS3FaendKdjhBb3ZwNVRYT252VEp6ZldyUzNTQ1gycEp6ZGZQSHJqOXQwck9EZlA3OWZSZTV2TDFhUEducHZsRXhCcUdFR0tHTQ?oc=5",
+  "published": "Tue, 20 Oct 2026 21:35:35 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Philippine Nickel Exports May Turn Indonesia\u2019s Quota Cut Into a Surplus - Crux Investor",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnJMS1ZMX0NJdmhkcHhlX3hIZThYVW9jMHFta0VoNlR3TFBCaXNoR19hV05WSlF3Y3pnZFV2NDA4cVlaY21wazVTaTVWRVRrSHAyak40dUtWNXFKcl9TamlwT0lzTUdnbWdNUExZY2xSY0tOeEFQQ3N4WXV3bnZnNFNZZkFFekpKYW1VbGltN0Yya3ZkVzZlZUxkNERhNTVQcVBsQnpjQzE?oc=5",
-  "published": "Wed, 14 Oct 2026 08:33:16 GMT",
+  "published": "Wed, 14 Oct 2026 07:00:00 GMT",
   "rule_note": "",
   "commodity": "nickel",
   "country": "Indonesia",

@@ -27,7 +27,7 @@
     "uranium": 0.125,
     "coal": 0.125
    },
-   "realized_ret": null
+   "realized_ret": 0.002349
   },
   {
    "month": "2026-08-01",
@@ -41,7 +41,7 @@
     "uranium": 0.125,
     "coal": 0.125
    },
-   "realized_ret": null
+   "realized_ret": 0.044754
   },
   {
    "month": "2026-09-01",
@@ -54,6 +54,21 @@
     "lead": 0.125,
     "uranium": 0.125,
     "coal": 0.125
+   },
+   "realized_ret": null
+  },
+  {
+   "month": "2026-10-01",
+   "weights": {
+    "natural-gas": 0.1111,
+    "wheat": 0.1111,
+    "corn": 0.1111,
+    "soybeans": 0.1111,
+    "nickel": 0.1111,
+    "iron-ore": 0.1111,
+    "lead": 0.1111,
+    "uranium": 0.1111,
+    "coal": 0.1111
    },
    "realized_ret": null
   }
