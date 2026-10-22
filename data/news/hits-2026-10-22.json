@@ -99,17 +99,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Trading Alert: Risks in the Strait of Hormuz and production cuts in the Gulf of Mexico continue to support oil prices, while U.S. crude remains volatile at lower levels. - Moomoo",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnVpa0dTU2NtX2lKTDk5QXIxb1RqMEpKT0FvZnRqRTlFaXl6d3dJczVpNlhiUmQwV2tMcjRKNU1KYTBHc1lWaW9abWxrTldpUzNmcTU2VV9UTVY1WUFZSzFZSkg2dkhHemtGRkNISGhVS1M3RW5hYjAzTnFpa1p4S0ZxNTg4WWN3X1M2elpuQURrYm9hRlhlcGNHQ1p5QQ?oc=5",
-  "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Philippine Nickel Exports May Turn Indonesia\u2019s Quota Cut Into a Surplus - Crux Investor",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnJMS1ZMX0NJdmhkcHhlX3hIZThYVW9jMHFta0VoNlR3TFBCaXNoR19hV05WSlF3Y3pnZFV2NDA4cVlaY21wazVTaTVWRVRrSHAyak40dUtWNXFKcl9TamlwT0lzTUdnbWdNUExZY2xSY0tOeEFQQ3N4WXV3bnZnNFNZZkFFekpKYW1VbGltN0Yya3ZkVzZlZUxkNERhNTVQcVBsQnpjQzE?oc=5",
   "published": "Wed, 14 Oct 2026 08:33:16 GMT",
@@ -121,9 +110,31 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Russian grain exports collapse fourfold as Black Sea ports stall - The New Voice of Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNWRuXzBiYThJcV8xOG9lc1RYSXNHMnBaVGNxLUJHaEoyT1dLemdUSGVuSXJPSWs2N2VsWGRLUFliSS16Qk5XN05pbXFYU2EyQ2lUeURWQUFxN0VlcmFsZmFMSzA0NTRmVEp6Wnk1X0tYYnpPVkFmeTRzTk5CeGJNR2lGUVdyTzBBOWxfQ1p5WnQ0a3NIdWcw0gGQAUFVX3lxTE82Mk9pVVFkTXM0Y2tYVm5lbDFCWnByb2lmTFd2V29XZmczazBsTWdHTEE0amc5bUROUGZNV2dlQ2szNTZUcmhRb3dRQUZZUXQ0OGIyeUtFNWIyYjh4MUM4Si1oY01uMGZHczJodWgyUVNPSWZnYjltanJDMDVYbGo3ZnZ2bjBNRHJDWlg2VDJrNg?oc=5",
+  "published": "Thu, 22 Oct 2026 10:13:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Latvia ranks among top five importers of Russian grain this season as Moscow\u2019s exports pivot toward Baltic ports - https://theins.press/en",
   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyU1d1NW1jcl94WFRqZjFabHdqZ3h6NUVqVG1EQUhyZWJ3SnFDYUxTbGpBeWk3NEw1ZGg4SXVLaWhnWFA5SDJSU2drVQ?oc=5",
   "published": "Wed, 21 Oct 2026 13:09:46 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian wheat exports shift to Baltic as prices ease \u2014 CMB News - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3NGWGFRR2UtOTVOUDlVeVh3dzgzS01OZFJaQmM0ME1kcThMbDQ4a0F4M2gtV0FyU0V5RVdUOUtLdU5oNVM1NzdkRElmcWVtU1puRHd0VjlvcFdVbWRIWlI0aktCdWh0bWN4SmFtMnNvazNaVS1uRXRmUzlNNGR2VURmeXRiR09ONlN1Ul85RmM?oc=5",
+  "published": "Thu, 22 Oct 2026 09:19:59 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
