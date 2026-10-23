@@ -24,7 +24,7 @@ band is wide, the elasticities are doing the work, not the event.
 _7 corroborating headline(s):_
 - [Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJYMzVoV05ja2lpbDlvQk1LNjlfTzRuaERHdFB4TE94NkJXVDM1QmVaTFN5V1YyTVp6WmJaTkFpX3kwa293SXAtNFZHWldIMnU0SVhZOFJDU1prNkhMVTBCYV9vQjVBOTBYWkZFUVBObTV4dEI3Vm1Gd1B4U1NJSk5qRHRsUVpCLUswc3FOcl9KOVBDUUFLVEk3cndwb3dabU1TRHRHbFBhZmJuTnBnSWZwT2E0QQ?oc=5)
 - [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
-- [Iran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz - Anadolu Ajansı](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSm94UldNeVE1SzdqbFdQWklGeTVpbHZ4eV80MmRPOVRRdFozQjR3eDlFdEEyMkw5VldzUkdNUm01RlB1QU1aVFIxRm5VVWJOYUYya2ZQTjBKOFZlUzgtZXZnZEtLYXkyemZHUUxRZGYwbjh4LU9lUTZnbmc2SnplMXFxTXZnbU1WQ29XLXNraXBMM0dDaEVLRkpwQlZDbkROdzhWUlRIcUc1Z1dWZDVLTWZ6b2NCYWhVWFo5dGVwcmN6MG9QRkhrSDJXVUfSAdQBQVVfeXFMTzgwUHdrNTYzQ2tyOWJ5ZXpEX29udTdxMDY5M3lBazNpNWFjWkpqS19kTC1VLUZOdjNLOWV1RzhkcXVXS2pYZ3B5QTh6dzVDLWJHN1NVdTBZR2JRRFpWbUhVS3dnRjJOVW16d09EN3VCUVVialp4V1JaX29jeUpUeGtsSm5fODZ5YlFwTFpyeWZjZkJIOUZGWHFlVVFmXzBKNjB6UGV5Skt6aDBfMXVJbUlpNHBQZjBrWDNVQjFSUTJnYWtfNHUxS0J4a0F3R0hQbEk3M0M?oc=5)
+- [How and why the world is making Hormuz moot - The Globe and Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxORHRfVENnWUxFanJaR243WlpyU05rRVQ0X1FHVEI1MjYtdXBwbzR0ZXZ4TDMtZTZvU2E5NDd4MDV0MV9rMVpfRmRHQXg4SnBxOVkySHBqc0VUUU8xeHBYUHMxZmlPc3BGTVFtQU1wdkR2SFphMU9KSlFiTy10aU03c3dCMVJIWF9CWEJheFdjN1otdEFIelY4R1IwZW4tdV9Ca2ZpNHg0bkhra1VtblE0aA?oc=5)
 - …and 4 more
 
 ## OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ
@@ -61,7 +61,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com
+## Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg
 *Fri, 23 Oct 2026 06:28:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
@@ -77,10 +77,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
-- [Russia is looking for new ways to export grain through Abkhazia — Bloomberg - UA.NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxORVpNbGpHREJfdk9QN1VQZnQwTldBT2VKVTZlLVZHaEVUbi00dkwtRHVLbEE2YW1PTUhwMG5QcVRLZFprUTZZVnI0aENqQU8tYjNCVkdxcXRVaVBlckIzQWRja3hmT1VKQ1J5aTVKLXZ6dDFYX0d3OUJzcHJGS0NySjJKREJsMXBTOWJ3UWZNMk0wSl9kMGtEMDFTZw?oc=5)
+_2 corroborating headline(s):_
 - [Latvia ranks among top five importers of Russian grain this season as Moscow’s exports pivot toward Baltic ports - https://theins.press/en](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyU1d1NW1jcl94WFRqZjFabHdqZ3h6NUVqVG1EQUhyZWJ3SnFDYUxTbGpBeWk3NEw1ZGg4SXVLaWhnWFA5SDJSU2drVQ?oc=5)
-- [Ukraine Proposes Turkey-India-Egypt Grain Corridor as Black Sea Exports Collapse - Global Agriculture](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcld5NGJZODBKX2d6enJJOVNTM3g1ckFuZzJhNFdUa2c5UjhSc0UwQ0NPN2tReTVHN2N3OHhkZ2pMRXVneExRSWxsOFBoUnN5ZlQ0czF2YXJ0cTRUUW1TcEFWZk9UV0FpTHVidTlPODRSZjBHNEU0WUxzMG9hSzE5dXZjRE9OOUpTTDY3b0hHQ0JhcVAxX1NaamxIdk1VVlZaNlJzYnlDRWpPbllNVFRpb3VSUzhmbTVPMUVsaWJwZ2tJTzZ2Y2pPNnFlcXZBSzhm?oc=5)
+- [Russia is looking for new ways to export grain through Abkhazia — Bloomberg - UA.NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxORVpNbGpHREJfdk9QN1VQZnQwTldBT2VKVTZlLVZHaEVUbi00dkwtRHVLbEE2YW1PTUhwMG5QcVRLZFprUTZZVnI0aENqQU8tYjNCVkdxcXRVaVBlckIzQWRja3hmT1VKQ1J5aTVKLXZ6dDFYX0d3OUJzcHJGS0NySjJKREJsMXBTOWJ3UWZNMk0wSl9kMGtEMDFTZw?oc=5)
 
 ---
 
