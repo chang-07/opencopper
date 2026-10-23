@@ -79,8 +79,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _3 corroborating headline(s):_
 - [Russia is looking for new ways to export grain through Abkhazia — Bloomberg - UA.NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxORVpNbGpHREJfdk9QN1VQZnQwTldBT2VKVTZlLVZHaEVUbi00dkwtRHVLbEE2YW1PTUhwMG5QcVRLZFprUTZZVnI0aENqQU8tYjNCVkdxcXRVaVBlckIzQWRja3hmT1VKQ1J5aTVKLXZ6dDFYX0d3OUJzcHJGS0NySjJKREJsMXBTOWJ3UWZNMk0wSl9kMGtEMDFTZw?oc=5)
-- [Ukraine Proposes Turkey-India-Egypt Grain Corridor as Black Sea Exports Collapse - Global Agriculture](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcld5NGJZODBKX2d6enJJOVNTM3g1ckFuZzJhNFdUa2c5UjhSc0UwQ0NPN2tReTVHN2N3OHhkZ2pMRXVneExRSWxsOFBoUnN5ZlQ0czF2YXJ0cTRUUW1TcEFWZk9UV0FpTHVidTlPODRSZjBHNEU0WUxzMG9hSzE5dXZjRE9OOUpTTDY3b0hHQ0JhcVAxX1NaamxIdk1VVlZaNlJzYnlDRWpPbllNVFRpb3VSUzhmbTVPMUVsaWJwZ2tJTzZ2Y2pPNnFlcXZBSzhm?oc=5)
 - [Latvia ranks among top five importers of Russian grain this season as Moscow’s exports pivot toward Baltic ports - https://theins.press/en](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyU1d1NW1jcl94WFRqZjFabHdqZ3h6NUVqVG1EQUhyZWJ3SnFDYUxTbGpBeWk3NEw1ZGg4SXVLaWhnWFA5SDJSU2drVQ?oc=5)
+- [Ukraine Proposes Turkey-India-Egypt Grain Corridor as Black Sea Exports Collapse - Global Agriculture](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcld5NGJZODBKX2d6enJJOVNTM3g1ckFuZzJhNFdUa2c5UjhSc0UwQ0NPN2tReTVHN2N3OHhkZ2pMRXVneExRSWxsOFBoUnN5ZlQ0czF2YXJ0cTRUUW1TcEFWZk9UV0FpTHVidTlPODRSZjBHNEU0WUxzMG9hSzE5dXZjRE9OOUpTTDY3b0hHQ0JhcVAxX1NaamxIdk1VVlZaNlJzYnlDRWpPbllNVFRpb3VSUzhmbTVPMUVsaWJwZ2tJTzZ2Y2pPNnFlcXZBSzhm?oc=5)
 
 ---
 
