@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _10 corroborating headline(s):_
 - [Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
-- [Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJYMzVoV05ja2lpbDlvQk1LNjlfTzRuaERHdFB4TE94NkJXVDM1QmVaTFN5V1YyTVp6WmJaTkFpX3kwa293SXAtNFZHWldIMnU0SVhZOFJDU1prNkhMVTBCYV9vQjVBOTBYWkZFUVBObTV4dEI3Vm1Gd1B4U1NJSk5qRHRsUVpCLUswc3FOcl9KOVBDUUFLVEk3cndwb3dabU1TRHRHbFBhZmJuTnBnSWZwT2E0QQ?oc=5)
 - [Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - TradingView](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUE1wOURjS3d1cS1mWkpoS3JvbWRmdlppaGhyeUlwMnBwZzRNdnZheFBtU21TcU9Fa0N3ZmwtY2UxQUsydE9YVnJzX1RWb2t4cHg3ek94RVNydTBFRko2Q2NpcFRWb1NHOHpDdWZFY0JkNUtUM2VJNXM5YU5uOVozT3JjR1c5NUlaZWdKNDVwV1dIOTZXN01HVVptdTY5SFZXaXNNem9DOHZkQnFKVDZJMHFIOFJ0dVZwTkl5cmNmVGN3c25fQnNucg?oc=5)
+- [Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJYMzVoV05ja2lpbDlvQk1LNjlfTzRuaERHdFB4TE94NkJXVDM1QmVaTFN5V1YyTVp6WmJaTkFpX3kwa293SXAtNFZHWldIMnU0SVhZOFJDU1prNkhMVTBCYV9vQjVBOTBYWkZFUVBObTV4dEI3Vm1Gd1B4U1NJSk5qRHRsUVpCLUswc3FOcl9KOVBDUUFLVEk3cndwb3dabU1TRHRHbFBhZmJuTnBnSWZwT2E0QQ?oc=5)
 - …and 7 more
 
 ## OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ
@@ -61,7 +61,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg
+## Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com
 *Fri, 23 Oct 2026 06:28:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
@@ -77,8 +77,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [Latvia ranks among top five importers of Russian grain this season as Moscow’s exports pivot toward Baltic ports - https://theins.press/en](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyU1d1NW1jcl94WFRqZjFabHdqZ3h6NUVqVG1EQUhyZWJ3SnFDYUxTbGpBeWk3NEw1ZGg4SXVLaWhnWFA5SDJSU2drVQ?oc=5)
+- [Russian wheat exports shift to Baltic as prices ease — CMB News - CMB News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3NGWGFRR2UtOTVOUDlVeVh3dzgzS01OZFJaQmM0ME1kcThMbDQ4a0F4M2gtV0FyU0V5RVdUOUtLdU5oNVM1NzdkRElmcWVtU1puRHd0VjlvcFdVbWRIWlI0aktCdWh0bWN4SmFtMnNvazNaVS1uRXRmUzlNNGR2VURmeXRiR09ONlN1Ul85RmM?oc=5)
 
 ---
 

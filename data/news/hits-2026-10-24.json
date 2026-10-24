@@ -22,6 +22,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUE1wOURjS3d1cS1mWkpoS3JvbWRmdlppaGhyeUlwMnBwZzRNdnZheFBtU21TcU9Fa0N3ZmwtY2UxQUsydE9YVnJzX1RWb2t4cHg3ek94RVNydTBFRko2Q2NpcFRWb1NHOHpDdWZFY0JkNUtUM2VJNXM5YU5uOVozT3JjR1c5NUlaZWdKNDVwV1dIOTZXN01HVVptdTY5SFZXaXNNem9DOHZkQnFKVDZJMHFIOFJ0dVZwTkl5cmNmVGN3c25fQnNucg?oc=5",
+  "published": "Wed, 21 Oct 2026 16:02:04 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJYMzVoV05ja2lpbDlvQk1LNjlfTzRuaERHdFB4TE94NkJXVDM1QmVaTFN5V1YyTVp6WmJaTkFpX3kwa293SXAtNFZHWldIMnU0SVhZOFJDU1prNkhMVTBCYV9vQjVBOTBYWkZFUVBObTV4dEI3Vm1Gd1B4U1NJSk5qRHRsUVpCLUswc3FOcl9KOVBDUUFLVEk3cndwb3dabU1TRHRHbFBhZmJuTnBnSWZwT2E0QQ?oc=5",
   "published": "Wed, 21 Oct 2026 16:02:04 GMT",
@@ -33,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUE1wOURjS3d1cS1mWkpoS3JvbWRmdlppaGhyeUlwMnBwZzRNdnZheFBtU21TcU9Fa0N3ZmwtY2UxQUsydE9YVnJzX1RWb2t4cHg3ek94RVNydTBFRko2Q2NpcFRWb1NHOHpDdWZFY0JkNUtUM2VJNXM5YU5uOVozT3JjR1c5NUlaZWdKNDVwV1dIOTZXN01HVVptdTY5SFZXaXNNem9DOHZkQnFKVDZJMHFIOFJ0dVZwTkl5cmNmVGN3c25fQnNucg?oc=5",
-  "published": "Wed, 21 Oct 2026 16:02:04 GMT",
+  "headline": "How and why the world is making Hormuz moot - The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHRfVENnWUxFanJaR243WlpyU05rRVQ0X1FHVEI1MjYtdXBwbzR0ZXZ4TDMtZTZvU2E5NDd4MDV0MV9rMVpfRmRHQXg4SnBxOVkySHBqc0VUUU8xeHBYUHMxZmlPc3BGTVFtQU1wdkR2SFphMU9KSlFiTy10aU03c3dCMVJIWF9CWEJheFdjN1otdEFIelY4R1IwZW4tdV9Ca2ZpNHg0bkhra1VtblE0aA?oc=5",
+  "published": "Wed, 21 Oct 2026 22:19:44 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -69,17 +80,6 @@
   "headline": "OPEC+ Oil Production Rises 900,000 bbl/d in September Despite Hormuz Disruptions - Egypt Oil & Gas",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA?oc=5",
   "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "How and why the world is making Hormuz moot - The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHRfVENnWUxFanJaR243WlpyU05rRVQ0X1FHVEI1MjYtdXBwbzR0ZXZ4TDMtZTZvU2E5NDd4MDV0MV9rMVpfRmRHQXg4SnBxOVkySHBqc0VUUU8xeHBYUHMxZmlPc3BGTVFtQU1wdkR2SFphMU9KSlFiTy10aU03c3dCMVJIWF9CWEJheFdjN1otdEFIelY4R1IwZW4tdV9Ca2ZpNHg0bkhra1VtblE0aA?oc=5",
-  "published": "Wed, 21 Oct 2026 22:19:44 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -143,7 +143,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg",
+  "headline": "Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5",
   "published": "Fri, 23 Oct 2026 06:28:00 GMT",
   "rule_note": "",
@@ -157,6 +157,17 @@
   "headline": "Latvia ranks among top five importers of Russian grain this season as Moscow\u2019s exports pivot toward Baltic ports - https://theins.press/en",
   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyU1d1NW1jcl94WFRqZjFabHdqZ3h6NUVqVG1EQUhyZWJ3SnFDYUxTbGpBeWk3NEw1ZGg4SXVLaWhnWFA5SDJSU2drVQ?oc=5",
   "published": "Wed, 21 Oct 2026 13:09:46 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian wheat exports shift to Baltic as prices ease \u2014 CMB News - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3NGWGFRR2UtOTVOUDlVeVh3dzgzS01OZFJaQmM0ME1kcThMbDQ4a0F4M2gtV0FyU0V5RVdUOUtLdU5oNVM1NzdkRElmcWVtU1puRHd0VjlvcFdVbWRIWlI0aktCdWh0bWN4SmFtMnNvazNaVS1uRXRmUzlNNGR2VURmeXRiR09ONlN1Ul85RmM?oc=5",
+  "published": "Thu, 22 Oct 2026 09:19:59 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
