@@ -77,9 +77,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_1 corroborating headline(s):_
 - [Latvia ranks among top five importers of Russian grain this season as Moscow’s exports pivot toward Baltic ports - https://theins.press/en](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyU1d1NW1jcl94WFRqZjFabHdqZ3h6NUVqVG1EQUhyZWJ3SnFDYUxTbGpBeWk3NEw1ZGg4SXVLaWhnWFA5SDJSU2drVQ?oc=5)
-- [Russian wheat exports shift to Baltic as prices ease — CMB News - CMB News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3NGWGFRR2UtOTVOUDlVeVh3dzgzS01OZFJaQmM0ME1kcThMbDQ4a0F4M2gtV0FyU0V5RVdUOUtLdU5oNVM1NzdkRElmcWVtU1puRHd0VjlvcFdVbWRIWlI0aktCdWh0bWN4SmFtMnNvazNaVS1uRXRmUzlNNGR2VURmeXRiR09ONlN1Ul85RmM?oc=5)
 
 ---
 

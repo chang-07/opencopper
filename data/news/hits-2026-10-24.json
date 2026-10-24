@@ -163,16 +163,5 @@
   "severity": 0.15,
   "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
- },
- {
-  "headline": "Russian wheat exports shift to Baltic as prices ease \u2014 CMB News - CMB News",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3NGWGFRR2UtOTVOUDlVeVh3dzgzS01OZFJaQmM0ME1kcThMbDQ4a0F4M2gtV0FyU0V5RVdUOUtLdU5oNVM1NzdkRElmcWVtU1puRHd0VjlvcFdVbWRIWlI0aktCdWh0bWN4SmFtMnNvazNaVS1uRXRmUzlNNGR2VURmeXRiR09ONlN1Ul85RmM?oc=5",
-  "published": "Thu, 22 Oct 2026 09:19:59 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
  }
 ]
