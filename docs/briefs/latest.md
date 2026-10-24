@@ -1,11 +1,11 @@
-# News-driven model brief — 2026-10-23
+# News-driven model brief — 2026-10-24
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Why Restoring Normal Traffic Through Hormuz Won’t Be Easy - EnergyNow.com
-*Fri, 23 Oct 2026 08:46:16 GMT* — [source](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3UyWnF3MTdUd2EzVmJSVUpsRjliMFlYNXhGaEt1dDRWeFdTZXJ5ZTBHSHBQZmJkdnVwWWpxQkd1VTgtSlluZ2NKRlZFZ01iSGgyWlcteERpdnZGRDlOVVlTUmpZUE9oZ2dKbFo1RWJvcnJ0NWMzMVFBWHk0ZE1CVVNTX21LU0J3NDUyTTRXVmQ?oc=5)
+## Saudi Arabia wants to send 10 million barrels of oil a day around Hormuz. A former Treasury official says it may barely move prices - Fortune
+*Fri, 23 Oct 2026 15:55:00 GMT* — [source](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXhjZXk2aEluR1dUZ1Yzc21ISlJmNGV0Y2pDZmZmYURDSHF1NnZJUFo5Sm80Zm0zYlNEbVlpcFFpcXE3M1hwOVhQU1VKdXJSdmxnNHljcFFkcjlfMHNnWVFoVGVaNG1FcC1aVW9CdnNwRGdhQ0NNbmxYemZUUGowcUhvSWdqWjhBTUVyVzJ0SHRIOC14bXo0ZlEzWXZRUTNwcG5CSDRkSQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_9 corroborating headline(s):_
+- [Why Restoring Normal Traffic Through Hormuz Won’t Be Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3UyWnF3MTdUd2EzVmJSVUpsRjliMFlYNXhGaEt1dDRWeFdTZXJ5ZTBHSHBQZmJkdnVwWWpxQkd1VTgtSlluZ2NKRlZFZ01iSGgyWlcteERpdnZGRDlOVVlTUmpZUE9oZ2dKbFo1RWJvcnJ0NWMzMVFBWHk0ZE1CVVNTX21LU0J3NDUyTTRXVmQ?oc=5)
 - [Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJYMzVoV05ja2lpbDlvQk1LNjlfTzRuaERHdFB4TE94NkJXVDM1QmVaTFN5V1YyTVp6WmJaTkFpX3kwa293SXAtNFZHWldIMnU0SVhZOFJDU1prNkhMVTBCYV9vQjVBOTBYWkZFUVBObTV4dEI3Vm1Gd1B4U1NJSk5qRHRsUVpCLUswc3FOcl9KOVBDUUFLVEk3cndwb3dabU1TRHRHbFBhZmJuTnBnSWZwT2E0QQ?oc=5)
 - [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
-- [How and why the world is making Hormuz moot - The Globe and Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxORHRfVENnWUxFanJaR243WlpyU05rRVQ0X1FHVEI1MjYtdXBwbzR0ZXZ4TDMtZTZvU2E5NDd4MDV0MV9rMVpfRmRHQXg4SnBxOVkySHBqc0VUUU8xeHBYUHMxZmlPc3BGTVFtQU1wdkR2SFphMU9KSlFiTy10aU03c3dCMVJIWF9CWEJheFdjN1otdEFIelY4R1IwZW4tdV9Ca2ZpNHg0bkhra1VtblE0aA?oc=5)
-- …and 4 more
+- …and 6 more
 
 ## OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ
 *Tue, 13 Oct 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5)
@@ -61,7 +61,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg
+## Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com
 *Fri, 23 Oct 2026 06:28:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
