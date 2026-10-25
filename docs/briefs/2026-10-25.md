@@ -61,8 +61,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Ukraine’s grain exports: why world needs Black Sea Corridor - AzerNews
-*Sun, 25 Oct 2026 15:37:00 GMT* — [source](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SEtDOWx1T1htNFdXRWFXR1BkN2lVTnVlaGNXNW9FY2ZNYjEycEFzdjNYLTg4bFR2Qmlya0cwVnNwUkRxOGtUblVSNS1mdlgzYWs2SVZBZw?oc=5)
+## Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com
+*Fri, 23 Oct 2026 06:28:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -77,8 +77,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
-- [Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
+_1 corroborating headline(s):_
 - [Latvia ranks among top five importers of Russian grain this season as Moscow’s exports pivot toward Baltic ports - https://theins.press/en](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyU1d1NW1jcl94WFRqZjFabHdqZ3h6NUVqVG1EQUhyZWJ3SnFDYUxTbGpBeWk3NEw1ZGg4SXVLaWhnWFA5SDJSU2drVQ?oc=5)
 
 ---
