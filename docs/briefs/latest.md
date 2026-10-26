@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-10-25
+# News-driven model brief — 2026-10-26
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
@@ -77,8 +77,10 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
+_3 corroborating headline(s):_
+- [Ukraine’s grain exports: why world needs Black Sea Corridor - AzerNews](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SEtDOWx1T1htNFdXRWFXR1BkN2lVTnVlaGNXNW9FY2ZNYjEycEFzdjNYLTg4bFR2Qmlya0cwVnNwUkRxOGtUblVSNS1mdlgzYWs2SVZBZw?oc=5)
 - [Latvia ranks among top five importers of Russian grain this season as Moscow’s exports pivot toward Baltic ports - https://theins.press/en](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyU1d1NW1jcl94WFRqZjFabHdqZ3h6NUVqVG1EQUhyZWJ3SnFDYUxTbGpBeWk3NEw1ZGg4SXVLaWhnWFA5SDJSU2drVQ?oc=5)
+- [FAS sees further decline in Russia wheat exports - World Grain](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDZ3SVNZMXMyZDhQdnpUZlByMWlaNXk4TzdQNzd2WTZMOW9tUnpzSC1OaGFqX1N0bDRQVkViMjFPbHZ0NGFJc3k4ZVpWOWR3OTRmeTZOQU1qRjBBcUJpQS1BbGNxTXJWcW1KOWYtVHYyZ2VXQ04zWnpYQ01OemgzakNRZ1llX3h2NmhNaUIxY0dqcnE0Q2c?oc=5)
 
 ---
 
