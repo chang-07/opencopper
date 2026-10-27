@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-10-26
+# News-driven model brief — 2026-10-27
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _9 corroborating headline(s):_
 - [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
+- [Oil prices rise as Hormuz tensions, Libya supply risks heighten concerns - Anadolu Ajansı](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnhDWVM4Q3hpVzYwa3VUelk5eUdkaHhBeVpjc3lVTHhOdUpydU9FaTF0RngwNDlndTdYUFpKczhoTnpOcExZUXNXTzdvd3RsNzhhdUp1UkZRNDJOUXEycjdjZ3gxTDYzTlB5WDc2Mno2UmlGcGJzRkxPcHdJT1pLdW95UHlBMTRNN0JQSjJia3pqcmlqY0xlaENsQVU3b005aG9yVFpUdTlhUUhpblY5V0g1NNIBuwFBVV95cUxPYWFfM19nRFpGaldFeW42X3FuOXRZTkh2WTZ2LUZEQ05JYVFVWmdzSWRaZXhuTl9YTGJnSDgtbUZ1S1hnMGVVUkRwQVNsamNnNWJTbDdpVGUzZGFabkdhY1YxamJpSFJ6TU42T2xkSm1Na2VNZXhlbm9EVXc2RUotLUdVTGJYRV9SUmx2VjRnZ3liRkQwMlJfcEVCb1FDXzFHQXZjMGl3akU5UDlTemR4djN6blEwV1pKWUhj?oc=5)
 - [Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - TradingView](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUE1wOURjS3d1cS1mWkpoS3JvbWRmdlppaGhyeUlwMnBwZzRNdnZheFBtU21TcU9Fa0N3ZmwtY2UxQUsydE9YVnJzX1RWb2t4cHg3ek94RVNydTBFRko2Q2NpcFRWb1NHOHpDdWZFY0JkNUtUM2VJNXM5YU5uOVozT3JjR1c5NUlaZWdKNDVwV1dIOTZXN01HVVptdTY5SFZXaXNNem9DOHZkQnFKVDZJMHFIOFJ0dVZwTkl5cmNmVGN3c25fQnNucg?oc=5)
-- [Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJYMzVoV05ja2lpbDlvQk1LNjlfTzRuaERHdFB4TE94NkJXVDM1QmVaTFN5V1YyTVp6WmJaTkFpX3kwa293SXAtNFZHWldIMnU0SVhZOFJDU1prNkhMVTBCYV9vQjVBOTBYWkZFUVBObTV4dEI3Vm1Gd1B4U1NJSk5qRHRsUVpCLUswc3FOcl9KOVBDUUFLVEk3cndwb3dabU1TRHRHbFBhZmJuTnBnSWZwT2E0QQ?oc=5)
 - …and 6 more
 
 ## OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ
@@ -79,8 +79,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _3 corroborating headline(s):_
 - [Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
-- [Russian wheat export prices drop on Black Sea peace hopes By Investing.com - Investing.com UK](https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGE2WVlZUGdaeUQ3Q2RXU1RwZk1ENlh6VkcyQjY1a21oTjBERkYwMHBfb2x1OU16dk9ibTBIZ3hDQldnWVJvM3VLdWlKLW9TLThQajl3ZVJBbXpDYUFVOFZ6UXZZbmNaQTFYWWJ1Z0s3WWJRZklJejlpXzVDUW5PY3dhU3JGcUttcG5BMklQQlBVU1dCVVNlTU1ESmI5NmNsYVNadVFvUU02MU9ZY3NQS241aWphNzNkbkE?oc=5)
 - [Ukraine’s grain exports: why world needs Black Sea Corridor - AzerNews](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SEtDOWx1T1htNFdXRWFXR1BkN2lVTnVlaGNXNW9FY2ZNYjEycEFzdjNYLTg4bFR2Qmlya0cwVnNwUkRxOGtUblVSNS1mdlgzYWs2SVZBZw?oc=5)
+- [Russian wheat export prices drop on Black Sea peace hopes By Investing.com - Investing.com UK](https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGE2WVlZUGdaeUQ3Q2RXU1RwZk1ENlh6VkcyQjY1a21oTjBERkYwMHBfb2x1OU16dk9ibTBIZ3hDQldnWVJvM3VLdWlKLW9TLThQajl3ZVJBbXpDYUFVOFZ6UXZZbmNaQTFYWWJ1Z0s3WWJRZklJejlpXzVDUW5PY3dhU3JGcUttcG5BMklQQlBVU1dCVVNlTU1ESmI5NmNsYVNadVFvUU02MU9ZY3NQS241aWphNzNkbkE?oc=5)
 
 ---
 
