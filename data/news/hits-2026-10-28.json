@@ -22,6 +22,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Why Restoring Normal Traffic Through Hormuz Won\u2019t Be Easy - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3UyWnF3MTdUd2EzVmJSVUpsRjliMFlYNXhGaEt1dDRWeFdTZXJ5ZTBHSHBQZmJkdnVwWWpxQkd1VTgtSlluZ2NKRlZFZ01iSGgyWlcteERpdnZGRDlOVVlTUmpZUE9oZ2dKbFo1RWJvcnJ0NWMzMVFBWHk0ZE1CVVNTX21LU0J3NDUyTTRXVmQ?oc=5",
+  "published": "Tue, 27 Oct 2026 21:23:34 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Oil prices rise as Hormuz tensions, Libya supply risks heighten concerns - Anadolu Ajans\u0131",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnhDWVM4Q3hpVzYwa3VUelk5eUdkaHhBeVpjc3lVTHhOdUpydU9FaTF0RngwNDlndTdYUFpKczhoTnpOcExZUXNXTzdvd3RsNzhhdUp1UkZRNDJOUXEycjdjZ3gxTDYzTlB5WDc2Mno2UmlGcGJzRkxPcHdJT1pLdW95UHlBMTRNN0JQSjJia3pqcmlqY0xlaENsQVU3b005aG9yVFpUdTlhUUhpblY5V0g1NNIBuwFBVV95cUxPYWFfM19nRFpGaldFeW42X3FuOXRZTkh2WTZ2LUZEQ05JYVFVWmdzSWRaZXhuTl9YTGJnSDgtbUZ1S1hnMGVVUkRwQVNsamNnNWJTbDdpVGUzZGFabkdhY1YxamJpSFJ6TU42T2xkSm1Na2VNZXhlbm9EVXc2RUotLUdVTGJYRV9SUmx2VjRnZ3liRkQwMlJfcEVCb1FDXzFHQXZjMGl3akU5UDlTemR4djN6blEwV1pKWUhj?oc=5",
   "published": "Fri, 23 Oct 2026 07:28:58 GMT",
@@ -55,17 +66,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Philippine Nickel Exports May Turn Indonesia\u2019s Quota Cut Into a Surplus - Crux Investor",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnJMS1ZMX0NJdmhkcHhlX3hIZThYVW9jMHFta0VoNlR3TFBCaXNoR19hV05WSlF3Y3pnZFV2NDA4cVlaY21wazVTaTVWRVRrSHAyak40dUtWNXFKcl9TamlwT0lzTUdnbWdNUExZY2xSY0tOeEFQQ3N4WXV3bnZnNFNZZkFFekpKYW1VbGltN0Yya3ZkVzZlZUxkNERhNTVQcVBsQnpjQzE?oc=5",
-  "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-  "rule_note": "",
-  "commodity": "nickel",
-  "country": "Indonesia",
-  "severity": 0.25,
-  "rule_id": "indonesia-nickel",
-  "source": "keyword-rule"
- },
- {
   "headline": "Black Sea attacks cut Ukraine wheat exports to Indonesia, Bangladesh - Nikkei Asia",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjRmX1VyWXgzYWtvR1FOcGlxdGR3RUdzX2RNbHA0VndLYzhKZ3RSMjFBUkprQmJCMDdIWmxwMHJENUtYenlDeFdnbVBsTFR0cm5DRXhweGxRTHBldHplczlaWTRuQVVJczh6cEhpT0NNM09DYXQ4MF9RR3VxSnotOW9yNnpCeG5ZMzUyNnYwN2xJcmVRNmt5cElKUWtFZkR2cWVTTW8yR2d0OU55cXpYdk1n?oc=5",
   "published": "Mon, 26 Oct 2026 07:24:00 GMT",
@@ -91,17 +91,6 @@
   "headline": "Ukraine\u2019s grain exports: why world needs Black Sea Corridor - AzerNews",
   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SEtDOWx1T1htNFdXRWFXR1BkN2lVTnVlaGNXNW9FY2ZNYjEycEFzdjNYLTg4bFR2Qmlya0cwVnNwUkRxOGtUblVSNS1mdlgzYWs2SVZBZw?oc=5",
   "published": "Sun, 25 Oct 2026 15:37:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Russian grain exports through ports have fallen by a factor of four - UA.NEWS",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3Y5eEZoYy1TZVBXR2c3MG9XMVBRWW5JRERDRUdTN1RzWkc1TElsU3k0RVc5QmIzUGdJRmJ4TVJiX0IyZlNFVnJPd3dIT21JZnNUQjRPWDBoVkR6M2t4Z1Z0MGpQVWdZV0pRdzB3TldqQlpYUm9WcG1xc2lBQUY1X3ptVTViOUJET3M4TkttMA?oc=5",
-  "published": "Tue, 27 Oct 2026 15:12:07 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
