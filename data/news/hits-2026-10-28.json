@@ -1,5 +1,16 @@
 [
  {
+  "headline": "IEA Slashes 2026 Supply Forecast as Hormuz Reopening Remains Elusive - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcG1iLTVtMXZRdklSMENMOHdXQkRwWk00elVVc0NCUEoxYUo5dU9EcmdWd1RMNWRvVHdHVFZUU1FjYTFjNS16c2swbklEZV9DZ3UxczY5bHZ1bTR0TjNYdkFuLWFtRE5qQTY1YUdtaGRLdmRVMlo5WjRUd2s1RzNDNFBXWkppRFo4bFJiNDBpRThjeXc5WlpHZng4dUhleUFx?oc=5",
+  "published": "Wed, 28 Oct 2026 07:40:57 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Saudi Arabia wants to send 10 million barrels of oil a day around Hormuz. A former Treasury official says it may barely move prices - Fortune",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXhjZXk2aEluR1dUZ1Yzc21ISlJmNGV0Y2pDZmZmYURDSHF1NnZJUFo5Sm80Zm0zYlNEbVlpcFFpcXE3M1hwOVhQU1VKdXJSdmxnNHljcFFkcjlfMHNnWVFoVGVaNG1FcC1aVW9CdnNwRGdhQ0NNbmxYemZUUGowcUhvSWdqWjhBTUVyVzJ0SHRIOC14bXo0ZlEzWXZRUTNwcG5CSDRkSQ?oc=5",
   "published": "Fri, 23 Oct 2026 15:55:00 GMT",
@@ -11,9 +22,86 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Exports Grain via Arctic WW2 Route Amid Black Sea Disruption - Global Banking & Finance Review",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXFVN0NMN2M3Tk5KdDA1NXZERUR4bWlGWGhHMHRhdUNPUTNTVzAxN0QwXzM2V3JoTDJjek1mbXd1blZhMlBELUxRTUNBTVlxTUc4RHVrZk94MFBSZGVZSEY4RnhlUHZsMDFHX0VwT2ptRGJzbTVDS0hFa002eUlwWlNjY3ZsdlVJTnVr?oc=5",
-  "published": "Wed, 28 Oct 2026 16:28:42 GMT",
+  "headline": "Bypass the Strait of Hormuz? Why That\u2019s Not So Easy - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5",
+  "published": "Tue, 27 Oct 2026 15:57:47 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil prices rise as Hormuz tensions, Libya supply risks heighten concerns - Anadolu Ajans\u0131",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnhDWVM4Q3hpVzYwa3VUelk5eUdkaHhBeVpjc3lVTHhOdUpydU9FaTF0RngwNDlndTdYUFpKczhoTnpOcExZUXNXTzdvd3RsNzhhdUp1UkZRNDJOUXEycjdjZ3gxTDYzTlB5WDc2Mno2UmlGcGJzRkxPcHdJT1pLdW95UHlBMTRNN0JQSjJia3pqcmlqY0xlaENsQVU3b005aG9yVFpUdTlhUUhpblY5V0g1NNIBuwFBVV95cUxPYWFfM19nRFpGaldFeW42X3FuOXRZTkh2WTZ2LUZEQ05JYVFVWmdzSWRaZXhuTl9YTGJnSDgtbUZ1S1hnMGVVUkRwQVNsamNnNWJTbDdpVGUzZGFabkdhY1YxamJpSFJ6TU42T2xkSm1Na2VNZXhlbm9EVXc2RUotLUdVTGJYRV9SUmx2VjRnZ3liRkQwMlJfcEVCb1FDXzFHQXZjMGl3akU5UDlTemR4djN6blEwV1pKWUhj?oc=5",
+  "published": "Fri, 23 Oct 2026 07:28:58 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJYMzVoV05ja2lpbDlvQk1LNjlfTzRuaERHdFB4TE94NkJXVDM1QmVaTFN5V1YyTVp6WmJaTkFpX3kwa293SXAtNFZHWldIMnU0SVhZOFJDU1prNkhMVTBCYV9vQjVBOTBYWkZFUVBObTV4dEI3Vm1Gd1B4U1NJSk5qRHRsUVpCLUswc3FOcl9KOVBDUUFLVEk3cndwb3dabU1TRHRHbFBhZmJuTnBnSWZwT2E0QQ?oc=5",
+  "published": "Wed, 21 Oct 2026 16:02:04 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjhVM2FKUElUMkRPM2ZESFZ6ZTFrMnYxSy1Qc3VyU2Y2VmcydXF2NDM4Vk11RjNJVnpqVGNDYzdJWVR0VjM0REQ2eWF3ZkJSZXpwMTcyOHN4VDdLMlJuUVdJbElRZXlFRmlWSEZDMjdmdmp1andOMFl2ekE3U2ZuUVFOM0JBbjhDRlB2b2dtMkhFMUVSVVNFdzFGSWY5c1YwdHc?oc=5",
+  "published": "Wed, 28 Oct 2026 07:45:33 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Why Restoring Normal Traffic Through Hormuz Won\u2019t Be Easy - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3UyWnF3MTdUd2EzVmJSVUpsRjliMFlYNXhGaEt1dDRWeFdTZXJ5ZTBHSHBQZmJkdnVwWWpxQkd1VTgtSlluZ2NKRlZFZ01iSGgyWlcteERpdnZGRDlOVVlTUmpZUE9oZ2dKbFo1RWJvcnJ0NWMzMVFBWHk0ZE1CVVNTX21LU0J3NDUyTTRXVmQ?oc=5",
+  "published": "Tue, 27 Oct 2026 21:23:34 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
+  "published": "Fri, 23 Oct 2026 23:57:42 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia turns to Arctic WW2 route to export grain - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFE0ZS1NU1h5NzQ2UHVialJIWjV2bHNYN2MyaGpXSXNDQ1FURF9lbHlidHV0VzVSc2tvNkdCS3JzOUFLZ2wtYW1jNVI4ZTVaUzRuRElFWEdQX2dPX1NHQjAyczVBRV8wcmx6R01rajdPVFhRN1VVVF9nalNRbHN6Tm9fb25rSEFuM3M3eWlJTEo?oc=5",
+  "published": "Wed, 28 Oct 2026 16:56:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia Issues First Grain Export Permits From Sea of Azov Since July - Maritime Logistics News",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ZTdTdrX0loWGo1ZWR6LVlqSEtvNUgzbm9HcDAyazJyUmxTeXdZdW4tV2VBeDQ3RzNwRXQ5RUE3QnlJVVk2MFBHVFFhNGZpZjIyV29KSGtUX3J6ekFqYTd1MzgwQWY0MXVFVWhIbm0tMVdFNFpVemZESkExWi1SSWx3ODktbTR1cjZiZmFB0gGOAUFVX3lxTFBPVlN1N2tfSWhYajVlZHotWWpIS281SDNub0dwMDJrMnJSbFN5d1l1bi1XZUF4NDdHM3BFdDlFQTdCeUlVWTYwUEdUUWE0ZmlmMjJXb0pIa1Rfcnp6QWphN3UzODBBZjQxdUVVaEhubS0xV0U0WlV6ZkRKQTFaLVJJbHc4OS1tNHVyNmJmYUE?oc=5",
+  "published": "Wed, 28 Oct 2026 17:13:33 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -33,9 +121,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia is redirecting grain exports to Arctic ports due to the closure of the Black Sea - UA.NEWS",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOazFqb0pZME0xWkpLSlYtQVNFQUM2Q3RpSC1vSm5fWXFWVTgxbVhhaUZkOXREeHk1S1pYa2VJUFZWVGNDck9aZXVmTHBnQ2p2bm1hYUt2ZG85Mi1NbnJEY1NzY1ZpZDV5X000QkVkRlJqNmUxZGxkM2YzVW9aUkFHUV92UGQxc0VpY0FzS3lIUGpRLUg0bEFRYzNxUWtIZmhiWW5ENy0zZHp5VXJLc2FONHFJQQ?oc=5",
-  "published": "Wed, 28 Oct 2026 14:21:03 GMT",
+  "headline": "Black Sea attacks cut Ukraine wheat exports to Indonesia, Bangladesh - Nikkei Asia",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjRmX1VyWXgzYWtvR1FOcGlxdGR3RUdzX2RNbHA0VndLYzhKZ3RSMjFBUkprQmJCMDdIWmxwMHJENUtYenlDeFdnbVBsTFR0cm5DRXhweGxRTHBldHplczlaWTRuQVVJczh6cEhpT0NNM09DYXQ4MF9RR3VxSnotOW9yNnpCeG5ZMzUyNnYwN2xJcmVRNmt5cElKUWtFZkR2cWVTTW8yR2d0OU55cXpYdk1n?oc=5",
+  "published": "Mon, 26 Oct 2026 07:24:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -44,9 +132,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Black Sea attacks cut Ukraine wheat exports to Indonesia, Bangladesh - Nikkei Asia",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjRmX1VyWXgzYWtvR1FOcGlxdGR3RUdzX2RNbHA0VndLYzhKZ3RSMjFBUkprQmJCMDdIWmxwMHJENUtYenlDeFdnbVBsTFR0cm5DRXhweGxRTHBldHplczlaWTRuQVVJczh6cEhpT0NNM09DYXQ4MF9RR3VxSnotOW9yNnpCeG5ZMzUyNnYwN2xJcmVRNmt5cElKUWtFZkR2cWVTTW8yR2d0OU55cXpYdk1n?oc=5",
-  "published": "Mon, 26 Oct 2026 07:24:00 GMT",
+  "headline": "Russia is redirecting grain exports to Arctic ports due to the closure of the Black Sea - UA.NEWS",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOazFqb0pZME0xWkpLSlYtQVNFQUM2Q3RpSC1vSm5fWXFWVTgxbVhhaUZkOXREeHk1S1pYa2VJUFZWVGNDck9aZXVmTHBnQ2p2bm1hYUt2ZG85Mi1NbnJEY1NzY1ZpZDV5X000QkVkRlJqNmUxZGxkM2YzVW9aUkFHUV92UGQxc0VpY0FzS3lIUGpRLUg0bEFRYzNxUWtIZmhiWW5ENy0zZHp5VXJLc2FONHFJQQ?oc=5",
+  "published": "Wed, 28 Oct 2026 14:21:03 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
