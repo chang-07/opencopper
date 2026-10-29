@@ -23,12 +23,12 @@ band is wide, the elasticities are doing the work, not the event.
 
 _7 corroborating headline(s):_
 - [Saudi Arabia wants to send 10 million barrels of oil a day around Hormuz. A former Treasury official says it may barely move prices - Fortune](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXhjZXk2aEluR1dUZ1Yzc21ISlJmNGV0Y2pDZmZmYURDSHF1NnZJUFo5Sm80Zm0zYlNEbVlpcFFpcXE3M1hwOVhQU1VKdXJSdmxnNHljcFFkcjlfMHNnWVFoVGVaNG1FcC1aVW9CdnNwRGdhQ0NNbmxYemZUUGowcUhvSWdqWjhBTUVyVzJ0SHRIOC14bXo0ZlEzWXZRUTNwcG5CSDRkSQ?oc=5)
-- [IEA Slashes 2026 Supply Forecast as Hormuz Reopening Remains Elusive - EnergyNow.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcG1iLTVtMXZRdklSMENMOHdXQkRwWk00elVVc0NCUEoxYUo5dU9EcmdWd1RMNWRvVHdHVFZUU1FjYTFjNS16c2swbklEZV9DZ3UxczY5bHZ1bTR0TjNYdkFuLWFtRE5qQTY1YUdtaGRLdmRVMlo5WjRUd2s1RzNDNFBXWkppRFo4bFJiNDBpRThjeXc5WlpHZng4dUhleUFx?oc=5)
 - [Oil prices rise as Hormuz tensions, Libya supply risks heighten concerns - Anadolu Ajansı](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnhDWVM4Q3hpVzYwa3VUelk5eUdkaHhBeVpjc3lVTHhOdUpydU9FaTF0RngwNDlndTdYUFpKczhoTnpOcExZUXNXTzdvd3RsNzhhdUp1UkZRNDJOUXEycjdjZ3gxTDYzTlB5WDc2Mno2UmlGcGJzRkxPcHdJT1pLdW95UHlBMTRNN0JQSjJia3pqcmlqY0xlaENsQVU3b005aG9yVFpUdTlhUUhpblY5V0g1NNIBuwFBVV95cUxPYWFfM19nRFpGaldFeW42X3FuOXRZTkh2WTZ2LUZEQ05JYVFVWmdzSWRaZXhuTl9YTGJnSDgtbUZ1S1hnMGVVUkRwQVNsamNnNWJTbDdpVGUzZGFabkdhY1YxamJpSFJ6TU42T2xkSm1Na2VNZXhlbm9EVXc2RUotLUdVTGJYRV9SUmx2VjRnZ3liRkQwMlJfcEVCb1FDXzFHQXZjMGl3akU5UDlTemR4djN6blEwV1pKWUhj?oc=5)
+- [IEA Slashes 2026 Supply Forecast as Hormuz Reopening Remains Elusive - EnergyNow.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcG1iLTVtMXZRdklSMENMOHdXQkRwWk00elVVc0NCUEoxYUo5dU9EcmdWd1RMNWRvVHdHVFZUU1FjYTFjNS16c2swbklEZV9DZ3UxczY5bHZ1bTR0TjNYdkFuLWFtRE5qQTY1YUdtaGRLdmRVMlo5WjRUd2s1RzNDNFBXWkppRFo4bFJiNDBpRThjeXc5WlpHZng4dUhleUFx?oc=5)
 - …and 4 more
 
-## Russia Turns to Arctic WW2 Route to Export Grain - gCaptain
-*Wed, 28 Oct 2026 16:32:21 GMT* — [source](https://news.google.com/rss/articles/CBMiekFVX3lxTE1kQzdxTmhKa191WG1pbXFFY3Blbm13QV9HTHI1dE51cWttYkthcUU2X25wZktUaWhaOC1YcGhJN2hNQ1lqUUNvbXF6endhbVZZSzlibWMteG1QUHVMQnJtcU1sc0NRR0VyalpzOTB4cU5rVENGMEJ3YW1B?oc=5)
+## Russia turns to Arctic WW2 route to export grain - Reuters
+*Wed, 28 Oct 2026 16:56:00 GMT* — [source](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFE0ZS1NU1h5NzQ2UHVialJIWjV2bHNYN2MyaGpXSXNDQ1FURF9lbHlidHV0VzVSc2tvNkdCS3JzOUFLZ2wtYW1jNVI4ZTVaUzRuRElFWEdQX2dPX1NHQjAyczVBRV8wcmx6R01rajdPVFhRN1VVVF9nalNRbHN6Tm9fb25rSEFuM3M3eWlJTEo?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -43,11 +43,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
-- [Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
+_5 corroborating headline(s):_
 - [Black Sea attacks cut Ukraine wheat exports to Indonesia, Bangladesh - Nikkei Asia](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjRmX1VyWXgzYWtvR1FOcGlxdGR3RUdzX2RNbHA0VndLYzhKZ3RSMjFBUkprQmJCMDdIWmxwMHJENUtYenlDeFdnbVBsTFR0cm5DRXhweGxRTHBldHplczlaWTRuQVVJczh6cEhpT0NNM09DYXQ4MF9RR3VxSnotOW9yNnpCeG5ZMzUyNnYwN2xJcmVRNmt5cElKUWtFZkR2cWVTTW8yR2d0OU55cXpYdk1n?oc=5)
-- [Russia is redirecting grain exports to Arctic ports due to the closure of the Black Sea - UA.NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOazFqb0pZME0xWkpLSlYtQVNFQUM2Q3RpSC1vSm5fWXFWVTgxbVhhaUZkOXREeHk1S1pYa2VJUFZWVGNDck9aZXVmTHBnQ2p2bm1hYUt2ZG85Mi1NbnJEY1NzY1ZpZDV5X000QkVkRlJqNmUxZGxkM2YzVW9aUkFHUV92UGQxc0VpY0FzS3lIUGpRLUg0bEFRYzNxUWtIZmhiWW5ENy0zZHp5VXJLc2FONHFJQQ?oc=5)
-- …and 1 more
+- [Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
+- [Ukraine’s grain exports: why world needs Black Sea Corridor - AzerNews](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SEtDOWx1T1htNFdXRWFXR1BkN2lVTnVlaGNXNW9FY2ZNYjEycEFzdjNYLTg4bFR2Qmlya0cwVnNwUkRxOGtUblVSNS1mdlgzYWs2SVZBZw?oc=5)
+- …and 2 more
 
 ---
 
