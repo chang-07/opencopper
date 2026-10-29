@@ -1,5 +1,16 @@
 [
  {
+  "headline": "Saudi Arabia wants to send 10 million barrels of oil a day around Hormuz. A former Treasury official says it may barely move prices - Fortune",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXhjZXk2aEluR1dUZ1Yzc21ISlJmNGV0Y2pDZmZmYURDSHF1NnZJUFo5Sm80Zm0zYlNEbVlpcFFpcXE3M1hwOVhQU1VKdXJSdmxnNHljcFFkcjlfMHNnWVFoVGVaNG1FcC1aVW9CdnNwRGdhQ0NNbmxYemZUUGowcUhvSWdqWjhBTUVyVzJ0SHRIOC14bXo0ZlEzWXZRUTNwcG5CSDRkSQ?oc=5",
+  "published": "Fri, 23 Oct 2026 15:55:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Russia turns to Arctic WW2 route to export grain - Reuters",
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFE0ZS1NU1h5NzQ2UHVialJIWjV2bHNYN2MyaGpXSXNDQ1FURF9lbHlidHV0VzVSc2tvNkdCS3JzOUFLZ2wtYW1jNVI4ZTVaUzRuRElFWEdQX2dPX1NHQjAyczVBRV8wcmx6R01rajdPVFhRN1VVVF9nalNRbHN6Tm9fb25rSEFuM3M3eWlJTEo?oc=5",
   "published": "Wed, 28 Oct 2026 16:56:00 GMT",
@@ -44,17 +55,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5",
-  "published": "Fri, 23 Oct 2026 06:28:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Ukraine\u2019s grain exports: why world needs Black Sea Corridor - AzerNews",
   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SEtDOWx1T1htNFdXRWFXR1BkN2lVTnVlaGNXNW9FY2ZNYjEycEFzdjNYLTg4bFR2Qmlya0cwVnNwUkRxOGtUblVSNS1mdlgzYWs2SVZBZw?oc=5",
   "published": "Sun, 25 Oct 2026 15:37:00 GMT",
@@ -66,9 +66,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia turns to Arctic port used by WWII convoys to export grain as Black Sea trade stalls - Reuters - Hromadske",
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObF9aVzRQcjdTRXVWQ2JsX3hEMmhLYThXMDBDcjBOTVZGNU16Vmc0cWNSeW12ZmVGcGwzd0RlOGhtbjJHbFQ2aGVqRnNUUmxZQmNuZkRiSlBUUldxaDREeTE2LWdoTWdyd3VfNzJIb2Zvd3RvY2wwcy1XMXU2TXBEM3VSQ3pUOFNzSHYzQjJfRDNPY2hxajhtV2hSVzhVaWhEeXEzMVBOcnB2RVJBMFJQMHI5eVloOXhpZk9WMWJIYjl2ODNLb1dQMTdab0MwVkY5Mkk3QUFtSHPSAd4BQVVfeXFMTmN1VktTdEZpbWZxNGwyZHFWNUJDVmwzUXJJZzYxT2ctZHRJZktudkNxTFZLaExXdXl1Tl9lSUJBZ2t5WldRVnowNHVudVVBS2twSWd6aHM1dVpjazBDcmIydTNkZmxDWWZ1TVhSSlhKcGM5TE1pMWd4cmFycGhwU01TYzNZY2xta25lMVZ0R1I1SElwWGw2eXZuTFFDOTd4QmdhSnVla015YUhEbUFNdnFSSDdDQVJ0WmdoTjV4aEtIX0JsTWN5QnNMMnRReklYOFhBWWMtbWhHcndRamlR?oc=5",
-  "published": "Thu, 29 Oct 2026 11:57:00 GMT",
+  "headline": "Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5",
+  "published": "Fri, 23 Oct 2026 06:28:00 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
