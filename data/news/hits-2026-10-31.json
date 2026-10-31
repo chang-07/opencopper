@@ -1,0 +1,79 @@
+[
+ {
+  "headline": "TRICK OR TREAT? Oil Prices Jump More Than 2% as Strait of Hormuz Tanker Attack Renews Middle East Supply Fears - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzVuT2NFZUlNeDhPU2I3UUk1dklleV9TNzNqQUJpYldXYUc4TTNGSzZYNzU5SVllMWtQT28xc0p1Q21GWC1Bdm1IZUVQNDl5bWczelJtRk80UExQVkNsSWdDUTBRUnJDWUtNeEhKSjhCNHUyN0tPLWt5bDBXQlBWVm9uRC1IY2hrTzh2ZUpVMVhIdk93OTRXM2xJR1hYSDF3NWczRlpqaEc5WFZ5dWw1VW5hd0J1UHUxQV85U0M2TjlZUQ?oc=5",
+  "published": "Fri, 30 Oct 2026 11:27:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia turns to Arctic WW2 route to export grain - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFE0ZS1NU1h5NzQ2UHVialJIWjV2bHNYN2MyaGpXSXNDQ1FURF9lbHlidHV0VzVSc2tvNkdCS3JzOUFLZ2wtYW1jNVI4ZTVaUzRuRElFWEdQX2dPX1NHQjAyczVBRV8wcmx6R01rajdPVFhRN1VVVF9nalNRbHN6Tm9fb25rSEFuM3M3eWlJTEo?oc=5",
+  "published": "Wed, 28 Oct 2026 16:56:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Black Sea attacks cut Ukraine wheat exports to Indonesia, Bangladesh - Nikkei Asia",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjRmX1VyWXgzYWtvR1FOcGlxdGR3RUdzX2RNbHA0VndLYzhKZ3RSMjFBUkprQmJCMDdIWmxwMHJENUtYenlDeFdnbVBsTFR0cm5DRXhweGxRTHBldHplczlaWTRuQVVJczh6cEhpT0NNM09DYXQ4MF9RR3VxSnotOW9yNnpCeG5ZMzUyNnYwN2xJcmVRNmt5cElKUWtFZkR2cWVTTW8yR2d0OU55cXpYdk1n?oc=5",
+  "published": "Mon, 26 Oct 2026 07:24:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5",
+  "published": "Fri, 23 Oct 2026 06:28:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russia Turns to Arctic Route to Export Grain Amid Black Sea Disruptions - Caspian Post",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGRWU256OFNVbzhuUWZqaTd1V0VILWdKeEdVcElkUW8yVXBzMkwxSlVhNjFReFNxRE1tQVMyaE92bHhfOXdNUF9DSm1NcldMUDRLQzRMV3BsRnN0UHhvcFFfaHNLb25wYzNnYldnM1c1bnl1U1RKLXR1cE96c2l5emY1Q1cySFR0OTlwVUR4WDNjWjdNTnh1RW44T0szZ0RiU0Fhc2tZd3I?oc=5",
+  "published": "Thu, 29 Oct 2026 18:12:03 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian wheat export prices drop on Black Sea peace hopes - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQV94WklDeENwM2RTcFdjR1c4dVp0Z0lIemJvanhkb3FWTFBuOG5qNHhmQWdhU0VMOVRmS2J0cTRFYUItUl84My1qSmVoaC01Nl9pNk1kdjVjemZHOEdaaXQ0aFJXTWRCcnF1YTMzZ20xR0lTOXJDcGtiYXpOMDNfXzBieDRfZnBoeEo5UHJ0ZXdObWJmd1pmLVVKWHNYRXdVeFBoQW5JWldiRUxodGUtWG43ZndXVzhqRkE?oc=5",
+  "published": "Mon, 26 Oct 2026 13:11:47 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Ukraine\u2019s grain exports: why world needs Black Sea Corridor - AzerNews",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SEtDOWx1T1htNFdXRWFXR1BkN2lVTnVlaGNXNW9FY2ZNYjEycEFzdjNYLTg4bFR2Qmlya0cwVnNwUkRxOGtUblVSNS1mdlgzYWs2SVZBZw?oc=5",
+  "published": "Sun, 25 Oct 2026 15:37:00 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ }
+]
