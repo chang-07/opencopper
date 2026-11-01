@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-10-31
+# News-driven model brief — 2026-11-01
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
@@ -37,16 +37,18 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
 - [Black Sea attacks cut Ukraine wheat exports to Indonesia, Bangladesh - Nikkei Asia](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjRmX1VyWXgzYWtvR1FOcGlxdGR3RUdzX2RNbHA0VndLYzhKZ3RSMjFBUkprQmJCMDdIWmxwMHJENUtYenlDeFdnbVBsTFR0cm5DRXhweGxRTHBldHplczlaWTRuQVVJczh6cEhpT0NNM09DYXQ4MF9RR3VxSnotOW9yNnpCeG5ZMzUyNnYwN2xJcmVRNmt5cElKUWtFZkR2cWVTTW8yR2d0OU55cXpYdk1n?oc=5)
 - [DW News. . Russian attacks on Ukrainian ports and shipping infrastructure in the Black Sea have disrupted a key route for global grain and energy exports. As one of the world's largest sources of maritime labor, India has become increasingly involved in the is - Facebook](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeG1GTEZSVnBfU2hveWJUT0tVdTFWcUV1cGtpMF9QcE9EQ2dxZ0t1UTA1eVpCYzNrazJNWk5qZjNqS01FQ3FJc2ZPeUYwMnI4aWQzeERuRTkwNVV0a1A0QWEyV1JpNHBtQjhnZmU5VEMzTXh0dTNnUVhlZS1JRFpHV2xuanJsdHpOelp2ZVBmMlVMdnRWSmpYUENsUDlTWmRwaGtkQU55SEZUNk1oUnRmcUlIV3R4bGRiQUd0UDgxSVo1UFNVRFB2eE5Zb2lLMHloUDV6Z0h6eFFvb0ZxaWRMY0tR?oc=5)
-- …and 3 more
+- …and 2 more
 
 ---
 
 ## Scorecard
-19 theses: 9 hit / 0 miss / 9 open / 1 need resolution · hit rate 100% · open auto avg move -2.0%
+21 theses: 9 hit / 0 miss / 11 open / 1 need resolution · hit rate 100% · open auto avg move -1.4%
 
+- new thesis: **auto-2026-11-crude-oil-saudi-arabia** — news-implied supply event (Saudi Arabia crude-oil -20% prior): price prints ≥+5% vs entry within 6m
+- new thesis: **auto-2026-11-wheat-russia** — news-implied supply event (Russia wheat -15% prior): price prints ≥+5% vs entry within 6m
 
 Full ledger: `opencopper theses` / the demo's Scorecard tab.

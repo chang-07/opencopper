@@ -222,5 +222,37 @@
   "basis": "Russia Rejects Black Sea Grain Truce as Ukraine Warns Exports Could Stay Critical for Months - Kyiv Post",
   "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
+ },
+ {
+  "id": "auto-2026-11-crude-oil-saudi-arabia",
+  "created": "2026-11-01",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "claim": "news-implied supply event (Saudi Arabia crude-oil -20% prior): price prints \u2265+5% vs entry within 6m",
+  "metric": "price_change",
+  "min_move_pct": 5.0,
+  "horizon_months": 6,
+  "entry_date": "2026-09-01",
+  "entry_price": 102.0180952380952,
+  "basis": "TRICK OR TREAT? Oil Prices Jump More Than 2% as Strait of Hormuz Tanker Attack Renews Middle East Supply Fears - EnergyNow",
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "id": "auto-2026-11-wheat-russia",
+  "created": "2026-11-01",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "claim": "news-implied supply event (Russia wheat -15% prior): price prints \u2265+5% vs entry within 6m",
+  "metric": "price_change",
+  "min_move_pct": 5.0,
+  "horizon_months": 6,
+  "entry_date": "2026-09-01",
+  "entry_price": 246.85180245,
+  "basis": "Russia turns to Arctic WW2 route to export grain - Reuters",
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
  }
 ]
