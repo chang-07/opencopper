@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## TRICK OR TREAT? Oil Prices Jump More Than 2% as Strait of Hormuz Tanker Attack Renews Middle East Supply Fears - EnergyNow
-*Fri, 30 Oct 2026 11:27:00 GMT* — [source](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2lOdWRIOGNoNFJ6cTZCS25NYzNDZnZLQnd0eWtCbVdpd1F3czZTZ3hPVkhZTFgzaHBmRnRRTF9qM1Nnb1F0STJTQ2ZNdEh4N1lXWHotQ1gweWFWdllaMmpzNm5rMGZQcUFDUDRNaVZBWG9ESnRpVWdqdDVvelNvLTVSa0thcnJWSzk5YWhDSk1ISHRQZlJBaURXUjVoMHRGQlM3QXYtQ1ljQXlWai14ZzA1LW1FbngxRVVsZzg0NDFIZ0tVNENsc3czNDltVUJK?oc=5)
+## Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com
+*Sat, 31 Oct 2026 08:19:03 GMT* — [source](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,8 +21,14 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Russia turns to Arctic WW2 route to export grain - Reuters
-*Wed, 28 Oct 2026 16:56:00 GMT* — [source](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFE0ZS1NU1h5NzQ2UHVialJIWjV2bHNYN2MyaGpXSXNDQ1FURF9lbHlidHV0VzVSc2tvNkdCS3JzOUFLZ2wtYW1jNVI4ZTVaUzRuRElFWEdQX2dPX1NHQjAyczVBRV8wcmx6R01rajdPVFhRN1VVVF9nalNRbHN6Tm9fb25rSEFuM3M3eWlJTEo?oc=5)
+_7 corroborating headline(s):_
+- [OPEC+ December Output Targets Unchanged Amid Hormuz Closure - https://houseofsaud.com/](https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cjVkR1hjWEdHbm00eXQxdFlBS0UzZ1BwRHpLSnZpaHVaRHVweGpTbVhkaEVnb3NpUnQ5bVk1d3VtVDNiYkhxVFNJMGRhT1dBaVYyM1JBeklROUhtQkRnVGFHS19NMG5QQ0xwRU1MbC1jLUh4LWc?oc=5)
+- [Saudi Arabia wants to send 10 million barrels of oil a day around Hormuz. A former Treasury official says it may barely move prices - Fortune](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXhjZXk2aEluR1dUZ1Yzc21ISlJmNGV0Y2pDZmZmYURDSHF1NnZJUFo5Sm80Zm0zYlNEbVlpcFFpcXE3M1hwOVhQU1VKdXJSdmxnNHljcFFkcjlfMHNnWVFoVGVaNG1FcC1aVW9CdnNwRGdhQ0NNbmxYemZUUGowcUhvSWdqWjhBTUVyVzJ0SHRIOC14bXo0ZlEzWXZRUTNwcG5CSDRkSQ?oc=5)
+- [Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz - EnergyNow.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjhVM2FKUElUMkRPM2ZESFZ6ZTFrMnYxSy1Qc3VyU2Y2VmcydXF2NDM4Vk11RjNJVnpqVGNDYzdJWVR0VjM0REQ2eWF3ZkJSZXpwMTcyOHN4VDdLMlJuUVdJbElRZXlFRmlWSEZDMjdmdmp1andOMFl2ekE3U2ZuUVFOM0JBbjhDRlB2b2dtMkhFMUVSVVNFdzFGSWY5c1YwdHc?oc=5)
+- …and 4 more
+
+## Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg
+*Thu, 22 Oct 2026 07:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -38,9 +44,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _5 corroborating headline(s):_
-- [Russia Turns to a Disputed Region to Keep Wheat Exports Flowing - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWFDQzBTSkpnUU1LNjZaSjdtX2QyX1JIQTJPY3lqY00zcWJfbnN3bFpXUEQ0RlpGVTE3ZS1KNEl1MkthQTB2UnhPXzJ1YnNaSkl3V1NZc1JnTXIxNWN0enlzQjQxZmJ0emZfY0NhLThhdU9ISXNFd2FqdkliN1VZdFc3b1VZT2I3dmNtdUQ4OUczTDFmXzc4TlZ5VmFXMGFTcmV2LXFpdWJuYURweXNnMkE2cUc?oc=5)
 - [Black Sea attacks cut Ukraine wheat exports to Indonesia, Bangladesh - Nikkei Asia](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjRmX1VyWXgzYWtvR1FOcGlxdGR3RUdzX2RNbHA0VndLYzhKZ3RSMjFBUkprQmJCMDdIWmxwMHJENUtYenlDeFdnbVBsTFR0cm5DRXhweGxRTHBldHplczlaWTRuQVVJczh6cEhpT0NNM09DYXQ4MF9RR3VxSnotOW9yNnpCeG5ZMzUyNnYwN2xJcmVRNmt5cElKUWtFZkR2cWVTTW8yR2d0OU55cXpYdk1n?oc=5)
-- [DW News. . Russian attacks on Ukrainian ports and shipping infrastructure in the Black Sea have disrupted a key route for global grain and energy exports. As one of the world's largest sources of maritime labor, India has become increasingly involved in the is - Facebook](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeG1GTEZSVnBfU2hveWJUT0tVdTFWcUV1cGtpMF9QcE9EQ2dxZ0t1UTA1eVpCYzNrazJNWk5qZjNqS01FQ3FJc2ZPeUYwMnI4aWQzeERuRTkwNVV0a1A0QWEyV1JpNHBtQjhnZmU5VEMzTXh0dTNnUVhlZS1JRFpHV2xuanJsdHpOelp2ZVBmMlVMdnRWSmpYUENsUDlTWmRwaGtkQU55SEZUNk1oUnRmcUlIV3R4bGRiQUd0UDgxSVo1UFNVRFB2eE5Zb2lLMHloUDV6Z0h6eFFvb0ZxaWRMY0tR?oc=5)
+- [Russia turns to Arctic WW2 route to export grain - Reuters](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFE0ZS1NU1h5NzQ2UHVialJIWjV2bHNYN2MyaGpXSXNDQ1FURF9lbHlidHV0VzVSc2tvNkdCS3JzOUFLZ2wtYW1jNVI4ZTVaUzRuRElFWEdQX2dPX1NHQjAyczVBRV8wcmx6R01rajdPVFhRN1VVVF9nalNRbHN6Tm9fb25rSEFuM3M3eWlJTEo?oc=5)
+- [Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFdsd1FaREVjbmEzNFJFa1lVTzNSN1dEOVZDWWlRdnZpMHh2T0o0RFFkWkZnNVZFemptUVZxS2l2Q3ZaZ0EwUWVwcVpqRk5MOHZ3bExtcGxYM1J6VC1jbEpOX2ZUV2N5UkpxeFBlR1dKd0xiN19wSjhMVWhCMjltcHloYnJFaUdXUTZGeFhHX0JPQkgwaWotd0hSU3dBRVcydG9LWdIBpAFBVV95cUxNOFdsd1FaREVjbmEzNFJFa1lVTzNSN1dEOVZDWWlRdnZpMHh2T0o0RFFkWkZnNVZFemptUVZxS2l2Q3ZaZ0EwUWVwcVpqRk5MOHZ3bExtcGxYM1J6VC1jbEpOX2ZUV2N5UkpxeFBlR1dKd0xiN19wSjhMVWhCMjltcHloYnJFaUdXUTZGeFhHX0JPQkgwaWotd0hSU3dBRVcydG9LWQ?oc=5)
 - …and 2 more
 
 ---
@@ -48,7 +54,5 @@ _5 corroborating headline(s):_
 ## Scorecard
 21 theses: 9 hit / 0 miss / 11 open / 1 need resolution · hit rate 100% · open auto avg move -1.4%
 
-- new thesis: **auto-2026-11-crude-oil-saudi-arabia** — news-implied supply event (Saudi Arabia crude-oil -20% prior): price prints ≥+5% vs entry within 6m
-- new thesis: **auto-2026-11-wheat-russia** — news-implied supply event (Russia wheat -15% prior): price prints ≥+5% vs entry within 6m
 
 Full ledger: `opencopper theses` / the demo's Scorecard tab.
