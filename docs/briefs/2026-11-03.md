@@ -21,14 +21,14 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_5 corroborating headline(s):_
 - [OPEC+ December Output Targets Unchanged Amid Hormuz Closure - https://houseofsaud.com/](https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cjVkR1hjWEdHbm00eXQxdFlBS0UzZ1BwRHpLSnZpaHVaRHVweGpTbVhkaEVnb3NpUnQ5bVk1d3VtVDNiYkhxVFNJMGRhT1dBaVYyM1JBeklROUhtQkRnVGFHS19NMG5QQ0xwRU1MbC1jLUh4LWc?oc=5)
-- [Oil plunges 8% as US-Iran peace hopes ease Hormuz fears - Gulf News](https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTFkaFRoT0hYaF81M1FnaTl6X3gxYjA1VDB1RzBTcUo2X18xYmliajVoSlo2RHhUdTZwVjRDVTU2MjRDZHR5QmxzbFQtSVdiWUg1RWJSZ1JoOG12LU1qcTNNUUVuQnNpLXMzOFFxU0JhRFgxekk1ZlUya0lRMTkxbjdRMWZJMlZCb2VyQmtfVTdOUHZwdFVEX1dlSHNOX05lbHZ2dXBB0gG4AUFVX3lxTFB2Qk5UOUVDVmZRTmg1MXZpQUZ4NmpXbVpKQTJ1THZDRERNRkhTcXVHV2tuQUdIRXRvbEtuZUtoSXVyU1ZIb09DN1pabE1VRnVTYW5NcEVNYWE0cFlZRnFhTlZuY1h4RUVMV3pqSlpVS21hbS0zbWJCek9mN2VjTi1nSEJ5WUZBUDdEOWFHWm5sTE9JQlkyMlV0RGZCS1BXM19yM1JzLVJBRDRKWUkzd0lHTWJSWjFXRk4?oc=5)
 - [OPEC+ holds December targets steady for third month as Hormuz disruption persists - investingLive](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHlpb2NXMER3VmlQdEhaZWdycFFlaGJvd3lYaWtZaGxIZDZaMWhzQ2V2ejFRM1VYTG45THZKLW9DcTh1eHZFTUN0emtMaTZnRlBMQjE0QklhY2ZuXzJ1UmtYUUhuQ0hQVmdObnZPcFdtQTZMTTllUlhicHVDelZJOXpmQXJrTE5fcXQwY1dqb3JsS2dTVElaNTZnYlpDc1k3SnVDVk9PQ0ZJRnZTSnZzMHdpbVVjRVVpd3Vv?oc=5)
-- …and 3 more
+- [Rystad Energy revises forecast for oil shipments via Strait of Hormuz - Trend News Agency](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zV1NhSE1nRGZUX1F3RFpYeXdqT3BtbzlVSF83VmFuYUJCNW9fSjB0aUVUdXVleFFleWh6eWl3VS14TldQY1JTM2NKTE1NQ3dV?oc=5)
+- …and 2 more
 
-## Russia turns to Arctic WW2 route to export grain - Reuters
-*Wed, 28 Oct 2026 16:56:00 GMT* — [source](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFE0ZS1NU1h5NzQ2UHVialJIWjV2bHNYN2MyaGpXSXNDQ1FURF9lbHlidHV0VzVSc2tvNkdCS3JzOUFLZ2wtYW1jNVI4ZTVaUzRuRElFWEdQX2dPX1NHQjAyczVBRV8wcmx6R01rajdPVFhRN1VVVF9nalNRbHN6Tm9fb25rSEFuM3M3eWlJTEo?oc=5)
+## Russian Wheat Market Shifts as Grain Exports Test Arctic Route - CMB News
+*Mon, 02 Nov 2026 07:55:59 GMT* — [source](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1piMHMxMkw4Q2psY292dWVmOVlET0xQLXExZGdid1gxNGgzNzZGR0RqRjRzenhuMkEwbDNwZFZrX2tuQVlJUHlGQ05ZcmZhdmdhUXBEWDcyLVNJS3Z6LU8xUUFDU1N3NTZoU0xhWURlYVBhUERfM3NUVDBkdE9mQUJWNGxnWFB0NFBLNWtnUllhNmpDbFVDYXp2UQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -43,11 +43,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [Wheat Market Update: Russian Export Prospects vs Strong US Export Demand - CMB News](https://news.google.com/rss/articles/CBMiogFBVV95cUxOajNITzRoeUdLcy0wWW5xOVVaalo3TFdoX2pWeENLZ201eFZ6UkxMYjFzVnJ4em5UX193bFU0M3BkTno3QXZmTEhqLVREbTFMNG9Ga0hLRk9oZDltUm1kRG1ic24xYWpOV0hMZTFkSGRiU2prVVJ4SVhsaTdtbFRRdkNpRm5Sb3dQS19VTWpBZHB2UTVxbHZ2UGVwVUpDYTJ4ZlE?oc=5)
-- [Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFdsd1FaREVjbmEzNFJFa1lVTzNSN1dEOVZDWWlRdnZpMHh2T0o0RFFkWkZnNVZFemptUVZxS2l2Q3ZaZ0EwUWVwcVpqRk5MOHZ3bExtcGxYM1J6VC1jbEpOX2ZUV2N5UkpxeFBlR1dKd0xiN19wSjhMVWhCMjltcHloYnJFaUdXUTZGeFhHX0JPQkgwaWotd0hSU3dBRVcydG9LWdIBpAFBVV95cUxNOFdsd1FaREVjbmEzNFJFa1lVTzNSN1dEOVZDWWlRdnZpMHh2T0o0RFFkWkZnNVZFemptUVZxS2l2Q3ZaZ0EwUWVwcVpqRk5MOHZ3bExtcGxYM1J6VC1jbEpOX2ZUV2N5UkpxeFBlR1dKd0xiN19wSjhMVWhCMjltcHloYnJFaUdXUTZGeFhHX0JPQkgwaWotd0hSU3dBRVcydG9LWQ?oc=5)
-- [Black Sea blockade: Russia avoids grain tariffs by routing exports through the Baltics - Table.Briefings](https://news.google.com/rss/articles/CBMivwFBVV95cUxORjRtYlJrd2o5d25abklsSVYwLXlmb3FyMnpuNTBRWkN3UWpueGVfdXpyeWsxVmIzdE92RGF2VTYteFRuUHdXTWxLd0RlOFV2b01lbWs3R1hWVmRqNTh3MDB2Y3ppbE1tdzdIbmQwc2hVWkVGU2p0MmcxamhYWG9ZRzQ2WTh3czRWdmdobHZIckZac1RtLVkwVnhDSXlYcVYwZE5VV3NiRzlWWEItZWRKSkFrczZqRFNDODR5eXY5WQ?oc=5)
-- …and 3 more
+- [Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1pCNHIwM1pqa09EV0VMN2tGOUdTSVhjUDdkU1NESTVsckJsaXFLREo5b196a3QzVXBFY2lUekhVdEI2b1cxanE4YVpsRnNwMW1kWTlTYlJ1TzIzT1dDY29Da2txX1NkYVpjOUZDbEdlVnNOeGI4QTZJbjVrWjdMd3dRT04zZHNsNDdodzNvM2gyTXRaM2tEekdfc25CMkpsczRZdDB30gGkAUFVX3lxTE04V2x3UVpERWNuYTM0UkVrWVVPM1I3V0Q5VkNZaVF2dmkweHZPSjREUWRaRmc1VkV6am1RVnFLaXZDdlpnQTBRZXBxWmpGTkw4dndsTG1wbFgzUnpULWNsSk5fZlRXY3lSSnF4UGVHV0p3TGI3X3BKOExVaEIyOW1weWhickVpR1dRNkZ4WEdfQk9CSDBpai13SFJTd0FFVzJ0b0tZ?oc=5)
 
 ---
 
