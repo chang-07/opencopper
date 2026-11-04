@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com
-*Mon, 02 Nov 2026 08:43:53 GMT* — [source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
+## Saudi Aramco begins expansion of East-West oil pipeline amid Hormuz disruptions - AzerNews
+*Wed, 04 Nov 2026 11:43:00 GMT* — [source](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fVXF3VjVPT0paNXE3UnI1dExqSlJaaDlXZGctNHZlOERERkNYQ0M5dzdEQWVER2Q3U2QtakhmM2M5eUpnOUh2WC1tSERVaGNJVGk2bkJJa001ZlU?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,14 +21,14 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_12 corroborating headline(s):_
-- [Saudi Arabia wants to send 10 million barrels of oil a day around Hormuz. A former Treasury official says it may barely move prices - Fortune](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXhjZXk2aEluR1dUZ1Yzc21ISlJmNGV0Y2pDZmZmYURDSHF1NnZJUFo5Sm80Zm0zYlNEbVlpcFFpcXE3M1hwOVhQU1VKdXJSdmxnNHljcFFkcjlfMHNnWVFoVGVaNG1FcC1aVW9CdnNwRGdhQ0NNbmxYemZUUGowcUhvSWdqWjhBTUVyVzJ0SHRIOC14bXo0ZlEzWXZRUTNwcG5CSDRkSQ?oc=5)
-- [Kuwait turns up the volume on oil production despite Hormuz threats - Baird Maritime](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXpFd0FPUmZhS01aTjFSM3pFN2RXekV5S0ktcU1fZnJpMktjbVNUME5xcGlFcU1CN1l6dkRsazBFVlVrbDBDVjNWSHpCWEo5S0FIX0NJRFQwWlBjUzhsU0xocmRzTzRYYkxNVEt2V1VBdDlSQzQtbjJVcFhJOTEtdEdtRmZfa3dXdjkyTjVfQU9VZ0dKM0VseVpfNWFGSlA1U0tUM0NxMTFnNkxXMEg2N3BFSUl2eERFaEgxS3BQcEQzUXph0gHSAUFVX3lxTFA2dUtkZm9iTF84QkJPUWxyenNBYXFOV0V0dndEaXpLc05OSDBSN1djNkhoNk5rX05BdUZobWZhZTZ3Y0FmZ2JsVE1tZUp2WWFDekItWFJDei1pWHg3Zno3WDlRUFA3TDNuaThDa2ZHbzlYX0xpaUdtNXJ2cUNYZkY2bksxNGFrYkpvdkx6Nm9rSVpTcll3OGh5eFl0amNtTGZ5dzg4T1VXYzdLS1pXQUpCZkhPbDJDNnpWdlYwV1NmQ3JtN2k3UXNPa0xoc0Ztb2t6dw?oc=5)
+_5 corroborating headline(s):_
 - [OPEC+ December Output Targets Unchanged Amid Hormuz Closure - https://houseofsaud.com/](https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cjVkR1hjWEdHbm00eXQxdFlBS0UzZ1BwRHpLSnZpaHVaRHVweGpTbVhkaEVnb3NpUnQ5bVk1d3VtVDNiYkhxVFNJMGRhT1dBaVYyM1JBeklROUhtQkRnVGFHS19NMG5QQ0xwRU1MbC1jLUh4LWc?oc=5)
-- …and 9 more
+- [OPEC+ holds December targets steady for third month as Hormuz disruption persists - investingLive](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHlpb2NXMER3VmlQdEhaZWdycFFlaGJvd3lYaWtZaGxIZDZaMWhzQ2V2ejFRM1VYTG45THZKLW9DcTh1eHZFTUN0emtMaTZnRlBMQjE0QklhY2ZuXzJ1UmtYUUhuQ0hQVmdObnZPcFdtQTZMTTllUlhicHVDelZJOXpmQXJrTE5fcXQwY1dqb3JsS2dTVElaNTZnYlpDc1k3SnVDVk9PQ0ZJRnZTSnZzMHdpbVVjRVVpd3Vv?oc=5)
+- [Oil Prices Jump More Than 2% as Strait of Hormuz Tanker Attack Renews Middle East Supply Fears - EnergyNow](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2lOdWRIOGNoNFJ6cTZCS25NYzNDZnZLQnd0eWtCbVdpd1F3czZTZ3hPVkhZTFgzaHBmRnRRTF9qM1Nnb1F0STJTQ2ZNdEh4N1lXWHotQ1gweWFWdllaMmpzNm5rMGZQcUFDUDRNaVZBWG9ESnRpVWdqdDVvelNvLTVSa0thcnJWSzk5YWhDSk1ISHRQZlJBaURXUjVoMHRGQlM3QXYtQ1ljQXlWai14ZzA1LW1FbngxRVVsZzg0NDFIZ0tVNENsc3czNDltVUJK?oc=5)
+- …and 2 more
 
-## Russian Wheat Market Shifts as Grain Exports Test Arctic Route - CMB News
-*Mon, 02 Nov 2026 07:55:59 GMT* — [source](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1piMHMxMkw4Q2psY292dWVmOVlET0xQLXExZGdid1gxNGgzNzZGR0RqRjRzenhuMkEwbDNwZFZrX2tuQVlJUHlGQ05ZcmZhdmdhUXBEWDcyLVNJS3Z6LU8xUUFDU1N3NTZoU0xhWURlYVBhUERfM3NUVDBkdE9mQUJWNGxnWFB0NFBLNWtnUllhNmpDbFVDYXp2UQ?oc=5)
+## Black Sea share of Russian grain exports plunges to 5.5% - UkrAgroConsult
+*Wed, 04 Nov 2026 07:23:08 GMT* — [source](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaUxLOUs3OWlmMnJWTzFaWGFpMFF6SVlpTl9tVUpTQ2taMzVQRVlBcE9SR25BZkVJdzJ2WW9SZ0NGMGNlMFQxVC1MWUNScWtaZWZtcWN0YnN2eFI1d2VXU1RqLVNVejlUWExrSV94SWdHZHhQMV9rTU1IazFKN3JLY0dIZ2ZEVnFyTHR0dUFYdDRTSmFrUVE?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -43,9 +43,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
-- [Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1pCNHIwM1pqa09EV0VMN2tGOUdTSVhjUDdkU1NESTVsckJsaXFLREo5b196a3QzVXBFY2lUekhVdEI2b1cxanE4YVpsRnNwMW1kWTlTYlJ1TzIzT1dDY29Da2txX1NkYVpjOUZDbEdlVnNOeGI4QTZJbjVrWjdMd3dRT04zZHNsNDdodzNvM2gyTXRaM2tEekdfc25CMkpsczRZdDB30gGkAUFVX3lxTE04V2x3UVpERWNuYTM0UkVrWVVPM1I3V0Q5VkNZaVF2dmkweHZPSjREUWRaRmc1VkV6am1RVnFLaXZDdlpnQTBRZXBxWmpGTkw4dndsTG1wbFgzUnpULWNsSk5fZlRXY3lSSnF4UGVHV0p3TGI3X3BKOExVaEIyOW1weWhickVpR1dRNkZ4WEdfQk9CSDBpai13SFJTd0FFVzJ0b0tZ?oc=5)
-- [Wheat Market Update: Russian Export Prospects vs Strong US Export Demand - CMB News](https://news.google.com/rss/articles/CBMiogFBVV95cUxOajNITzRoeUdLcy0wWW5xOVVaalo3TFdoX2pWeENLZ201eFZ6UkxMYjFzVnJ4em5UX193bFU0M3BkTno3QXZmTEhqLVREbTFMNG9Ga0hLRk9oZDltUm1kRG1ic24xYWpOV0hMZTFkSGRiU2prVVJ4SVhsaTdtbFRRdkNpRm5Sb3dQS19VTWpBZHB2UTVxbHZ2UGVwVUpDYTJ4ZlE?oc=5)
+_7 corroborating headline(s):_
+- [Russia exports up to 220 thousand tons of grain per day - АПК-Інформ](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kY2lKSFZOUUc4QmlLVWU5OHRaVFU1aEdsSUVyWGpsdF9HWnlDM3dzWE0xekJ5YVFKdUpabmRHZkdDN2YySEx4RDRNdEtGajVWZHp5NQ?oc=5)
+- [Russia’s seaborne grain exports plunge by more than half as shipments collapse - The New Voice of Ukraine](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXJacGViSUxEY2trTmw5WGxtcWZ6cVlncDNmdUo3dWxnWU1FaW8zcHFTSU0ycmdqY2NuU1BaaV8tM1lSMUlocVRaekFLZ0M0MXdLLWEyOC1mYWtPdHB0Nmhhcm5TQ0ItYzBCckFiWTNtWmpVUzdXMm9neFFUaTVUbHMxV0NxbkM1QmR6N2ZQNExCVWdZOGVFN3lIUGN1czc1RVVxZEd6Q0tweklNTWlpVXYyelBsZWMwdWNnQzFLS0VpWm5aUVpjRlBVNNIBxAFBVV95cUxOVDJ2Z19DMjRhRGVOeHlSUFRhRzhQU0tKVXpYcGRDcXRCN01sWGM2V3dNUGtsWjNqLS1wZ2w4ODFrdS1JTS0wRURmOWM2c1RYVno2YW53cTRLdjdsQUJKSW1sQnRjVDJFQ2pTejlRLU80aGNScERtaXhXNFRmVXlJMC1KNjN3YmhjeTNrdG9QSHlmREgwTnJXc18za2JMcHlsLUl3cXlyUG5idmNOM2kxS1p1MXhrMzRfMU9KbUxORU11aUhL?oc=5)
+- [Russian Wheat Market Shifts as Grain Exports Test Arctic Route - CMB News](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1piMHMxMkw4Q2psY292dWVmOVlET0xQLXExZGdid1gxNGgzNzZGR0RqRjRzenhuMkEwbDNwZFZrX2tuQVlJUHlGQ05ZcmZhdmdhUXBEWDcyLVNJS3Z6LU8xUUFDU1N3NTZoU0xhWURlYVBhUERfM3NUVDBkdE9mQUJWNGxnWFB0NFBLNWtnUllhNmpDbFVDYXp2UQ?oc=5)
+- …and 4 more
 
 ---
 
