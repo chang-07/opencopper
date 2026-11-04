@@ -33,42 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil Prices Jump More Than 2% as Strait of Hormuz Tanker Attack Renews Middle East Supply Fears - EnergyNow",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2lOdWRIOGNoNFJ6cTZCS25NYzNDZnZLQnd0eWtCbVdpd1F3czZTZ3hPVkhZTFgzaHBmRnRRTF9qM1Nnb1F0STJTQ2ZNdEh4N1lXWHotQ1gweWFWdllaMmpzNm5rMGZQcUFDUDRNaVZBWG9ESnRpVWdqdDVvelNvLTVSa0thcnJWSzk5YWhDSk1ISHRQZlJBaURXUjVoMHRGQlM3QXYtQ1ljQXlWai14ZzA1LW1FbngxRVVsZzg0NDFIZ0tVNENsc3czNDltVUJK?oc=5",
-  "published": "Fri, 30 Oct 2026 11:27:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil plunges 8% as US-Iran peace hopes ease Hormuz fears - Gulf News",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTFkaFRoT0hYaF81M1FnaTl6X3gxYjA1VDB1RzBTcUo2X18xYmliajVoSlo2RHhUdTZwVjRDVTU2MjRDZHR5QmxzbFQtSVdiWUg1RWJSZ1JoOG12LU1qcTNNUUVuQnNpLXMzOFFxU0JhRFgxekk1ZlUya0lRMTkxbjdRMWZJMlZCb2VyQmtfVTdOUHZwdFVEX1dlSHNOX05lbHZ2dXBB0gG4AUFVX3lxTFB2Qk5UOUVDVmZRTmg1MXZpQUZ4NmpXbVpKQTJ1THZDRERNRkhTcXVHV2tuQUdIRXRvbEtuZUtoSXVyU1ZIb09DN1pabE1VRnVTYW5NcEVNYWE0cFlZRnFhTlZuY1h4RUVMV3pqSlpVS21hbS0zbWJCek9mN2VjTi1nSEJ5WUZBUDdEOWFHWm5sTE9JQlkyMlV0RGZCS1BXM19yM1JzLVJBRDRKWUkzd0lHTWJSWjFXRk4?oc=5",
-  "published": "Mon, 02 Nov 2026 21:48:20 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Rystad Energy revises forecast for oil shipments via Strait of Hormuz - Trend News Agency",
-  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zV1NhSE1nRGZUX1F3RFpYeXdqT3BtbzlVSF83VmFuYUJCNW9fSjB0aUVUdXVleFFleWh6eWl3VS14TldQY1JTM2NKTE1NQ3dV?oc=5",
-  "published": "Tue, 03 Nov 2026 05:42:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Black Sea share of Russian grain exports plunges to 5.5% - UkrAgroConsult",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaUxLOUs3OWlmMnJWTzFaWGFpMFF6SVlpTl9tVUpTQ2taMzVQRVlBcE9SR25BZkVJdzJ2WW9SZ0NGMGNlMFQxVC1MWUNScWtaZWZtcWN0YnN2eFI1d2VXU1RqLVNVejlUWExrSV94SWdHZHhQMV9rTU1IazFKN3JLY0dIZ2ZEVnFyTHR0dUFYdDRTSmFrUVE?oc=5",
-  "published": "Wed, 04 Nov 2026 07:23:08 GMT",
+  "headline": "Russia cut grain exports from ports on Azov and Black Seas 16 times - Reuters - Ukrainian News Agency",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlE0WUNpTjI1RmNVMFd3bTBFbFN4aGVKX09XQmM4Sk95MFNZSFMtWEsxVV9TMjBnMWNYMHZ1UjhhRXEwSzhMUk1mTjJlRnpkQkx0VEV5VXR5WWFYM0s2RTFUdGJ5eUc2Q0NzWGJNbXpRZzRzT1ltWjMtUWxpOG1CaTRkRWJqdGk1dVQ1X0ZOU09EYV9jSDBGQlVodlBWOXJTOFlzNXhLdEpzZno4R0xudkltVy1MRFdPNnc4OXNhNUHSAcYBQVVfeXFMUFVGLXBHZjd6RzJLdjBBZ2VBZzV1ekhjNlBibVlFNU5rLTZrdTR6OFpYbXhCRzBjN2RvdkFXYk9yRC1YMFZZRzluQkxMVHljdTMxVXlhaTVSOVVSTjNpa29iajdmMk55a1MzV1hMS2d5Y21sNjAyYlZHN2ZjX2xtZ1hMR1QwczNQWUxDTjhyVnN0Y2VlX0dtOU5TNDhzWTdfajdzZWdqRVZGMEZBRlpyUlB5RW44dHc1REpnMjFWTHpXSThfWERB?oc=5",
+  "published": "Wed, 04 Nov 2026 18:24:05 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -77,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia exports up to 220 thousand tons of grain per day - \u0410\u041f\u041a-\u0406\u043d\u0444\u043e\u0440\u043c",
-  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kY2lKSFZOUUc4QmlLVWU5OHRaVFU1aEdsSUVyWGpsdF9HWnlDM3dzWE0xekJ5YVFKdUpabmRHZkdDN2YySEx4RDRNdEtGajVWZHp5NQ?oc=5",
-  "published": "Tue, 03 Nov 2026 13:21:50 GMT",
+  "headline": "Black Sea share of Russian grain exports plunges to 5.5% - UkrAgroConsult",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaUxLOUs3OWlmMnJWTzFaWGFpMFF6SVlpTl9tVUpTQ2taMzVQRVlBcE9SR25BZkVJdzJ2WW9SZ0NGMGNlMFQxVC1MWUNScWtaZWZtcWN0YnN2eFI1d2VXU1RqLVNVejlUWExrSV94SWdHZHhQMV9rTU1IazFKN3JLY0dIZ2ZEVnFyTHR0dUFYdDRTSmFrUVE?oc=5",
+  "published": "Wed, 04 Nov 2026 07:23:08 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -99,6 +66,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1pCNHIwM1pqa09EV0VMN2tGOUdTSVhjUDdkU1NESTVsckJsaXFLREo5b196a3QzVXBFY2lUekhVdEI2b1cxanE4YVpsRnNwMW1kWTlTYlJ1TzIzT1dDY29Da2txX1NkYVpjOUZDbEdlVnNOeGI4QTZJbjVrWjdMd3dRT04zZHNsNDdodzNvM2gyTXRaM2tEekdfc25CMkpsczRZdDB30gGkAUFVX3lxTE04V2x3UVpERWNuYTM0UkVrWVVPM1I3V0Q5VkNZaVF2dmkweHZPSjREUWRaRmc1VkV6am1RVnFLaXZDdlpnQTBRZXBxWmpGTkw4dndsTG1wbFgzUnpULWNsSk5fZlRXY3lSSnF4UGVHV0p3TGI3X3BKOExVaEIyOW1weWhickVpR1dRNkZ4WEdfQk9CSDBpai13SFJTd0FFVzJ0b0tZ?oc=5",
+  "published": "Sun, 01 Nov 2026 09:29:18 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Russian Wheat Market Shifts as Grain Exports Test Arctic Route - CMB News",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1piMHMxMkw4Q2psY292dWVmOVlET0xQLXExZGdid1gxNGgzNzZGR0RqRjRzenhuMkEwbDNwZFZrX2tuQVlJUHlGQ05ZcmZhdmdhUXBEWDcyLVNJS3Z6LU8xUUFDU1N3NTZoU0xhWURlYVBhUERfM3NUVDBkdE9mQUJWNGxnWFB0NFBLNWtnUllhNmpDbFVDYXp2UQ?oc=5",
   "published": "Mon, 02 Nov 2026 07:55:59 GMT",
@@ -110,42 +88,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFdsd1FaREVjbmEzNFJFa1lVTzNSN1dEOVZDWWlRdnZpMHh2T0o0RFFkWkZnNVZFemptUVZxS2l2Q3ZaZ0EwUWVwcVpqRk5MOHZ3bExtcGxYM1J6VC1jbEpOX2ZUV2N5UkpxeFBlR1dKd0xiN19wSjhMVWhCMjltcHloYnJFaUdXUTZGeFhHX0JPQkgwaWotd0hSU3dBRVcydG9LWdIBpAFBVV95cUxNOFdsd1FaREVjbmEzNFJFa1lVTzNSN1dEOVZDWWlRdnZpMHh2T0o0RFFkWkZnNVZFemptUVZxS2l2Q3ZaZ0EwUWVwcVpqRk5MOHZ3bExtcGxYM1J6VC1jbEpOX2ZUV2N5UkpxeFBlR1dKd0xiN19wSjhMVWhCMjltcHloYnJFaUdXUTZGeFhHX0JPQkgwaWotd0hSU3dBRVcydG9LWQ?oc=5",
-  "published": "Sun, 01 Nov 2026 09:29:18 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
   "headline": "Grain prices in southern Russia fall below other regions amid Black Sea export disruptions - UkrAgroConsult",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdzYwVkhEYWtXMFlfMGc0T0tWY25reE1XazluU0pCWFpDSGZyRm93Z2VYS3VvNzg4MzFEY2xuMHI2MDhEWnNrYi1VZURRbEZDMjhxWDVOY3BCLW5lbVJTSEx0Ml9Cc0NtWFdCY2lyOGNvbDV3QnFuQXpPcXdGQ0tHOU1hU1cxSjNQU1pwOUhVdjdmM2Z6MEdMM2pUUV9weHQ0dmQyVzRHOVd6SmVZdUVJQjAzbC15cUc0WExlZXBfNjFRem1o?oc=5",
   "published": "Wed, 04 Nov 2026 06:20:49 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Black Sea attacks cut Ukraine wheat exports to Indonesia, Bangladesh - Nikkei Asia",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjRmX1VyWXgzYWtvR1FOcGlxdGR3RUdzX2RNbHA0VndLYzhKZ3RSMjFBUkprQmJCMDdIWmxwMHJENUtYenlDeFdnbVBsTFR0cm5DRXhweGxRTHBldHplczlaWTRuQVVJczh6cEhpT0NNM09DYXQ4MF9RR3VxSnotOW9yNnpCeG5ZMzUyNnYwN2xJcmVRNmt5cElKUWtFZkR2cWVTTW8yR2d0OU55cXpYdk1n?oc=5",
-  "published": "Mon, 26 Oct 2026 07:24:00 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Wheat market under pressure as Russian export offers decline - CMB News",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEM1YzdoYmU4X20waUxmLVZHT0N4RS16ck1UbEd0YUNWRnBEaUV3cjhOcUNtMklnMUVuOWd4X09kWjNKbXJUdGxYQUg2RHZ6NEJrTEE2UDFfc1l5U3JOMGVuTnVTZ01uWUNaanlneGhMTmtNQ0VITEhER0EwLWxYeHhlWGNBTXNBTGN3Nm9Yb0xQdUxVQWw4VUtKUUxSMUM3?oc=5",
-  "published": "Wed, 04 Nov 2026 06:17:06 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
