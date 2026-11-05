@@ -21,14 +21,12 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [Saudi Aramco begins expansion of East-West oil pipeline amid Hormuz disruptions - AzerNews](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fVXF3VjVPT0paNXE3UnI1dExqSlJaaDlXZGctNHZlOERERkNYQ0M5dzdEQWVER2Q3U2QtakhmM2M5eUpnOUh2WC1tSERVaGNJVGk2bkJJa001ZlU?oc=5)
-- [OPEC+ December Output Targets Unchanged Amid Hormuz Closure - https://houseofsaud.com/](https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cjVkR1hjWEdHbm00eXQxdFlBS0UzZ1BwRHpLSnZpaHVaRHVweGpTbVhkaEVnb3NpUnQ5bVk1d3VtVDNiYkhxVFNJMGRhT1dBaVYyM1JBeklROUhtQkRnVGFHS19NMG5QQ0xwRU1MbC1jLUh4LWc?oc=5)
 - [OPEC+ holds December targets steady for third month as Hormuz disruption persists - investingLive](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHlpb2NXMER3VmlQdEhaZWdycFFlaGJvd3lYaWtZaGxIZDZaMWhzQ2V2ejFRM1VYTG45THZKLW9DcTh1eHZFTUN0emtMaTZnRlBMQjE0QklhY2ZuXzJ1UmtYUUhuQ0hQVmdObnZPcFdtQTZMTTllUlhicHVDelZJOXpmQXJrTE5fcXQwY1dqb3JsS2dTVElaNTZnYlpDc1k3SnVDVk9PQ0ZJRnZTSnZzMHdpbVVjRVVpd3Vv?oc=5)
-- …and 2 more
 
-## Wheat Climbs as Weak Russian Export Outlook Fans Supply Concerns - Bloomberg.com
-*Thu, 05 Nov 2026 04:46:00 GMT* — [source](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXZmaC03cGlvczhpZVJhYUxPREtzLURlUHlaZDIzRDJVd3dvUkxsRnJLTkxTd0ZucEJFejV0eFpVU1JiY2docXlKWU11M2JXbWI0dHhFaVN2aU1VcWRjeHEzVlZDVEFfTy1tT1NVN1M4ZVhyZF9XRjVyZXJUUnBoRWphUmdqZ0ZlNmwzaUdrLXRuVjRKcHZSY0RUdTBKRHRmYk1Ua001Qzl2MGdMcDRJYmpaOXRhQQ?oc=5)
+## Russian Wheat Export Slump and Black Sea Supply Outlook - CMB News
+*Thu, 05 Nov 2026 12:37:23 GMT* — [source](https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVYzak8tcVU4OXUza1Z5b19tMUF3dmlSWjZ4N29QWjdhZHdBTldKc282N0QwcGNmV0tKOVNyUlk2M25MV1Z6WFVsSWstRndmbFZvRzZoeWRWZUVDNWdCZ3BkTXJQYWJ2R0pOUzVfc08ya2ZCVElBSFdOOWxoLWxSa2xtV2YtZnN2QjFfd2wtOWxaQQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -43,9 +41,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_4 corroborating headline(s):_
+- [Wheat Climbs as Weak Russian Export Outlook Fans Supply Concerns - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXZmaC03cGlvczhpZVJhYUxPREtzLURlUHlaZDIzRDJVd3dvUkxsRnJLTkxTd0ZucEJFejV0eFpVU1JiY2docXlKWU11M2JXbWI0dHhFaVN2aU1VcWRjeHEzVlZDVEFfTy1tT1NVN1M4ZVhyZF9XRjVyZXJUUnBoRWphUmdqZ0ZlNmwzaUdrLXRuVjRKcHZSY0RUdTBKRHRmYk1Ua001Qzl2MGdMcDRJYmpaOXRhQQ?oc=5)
 - [Russian Wheat Market Shifts as Grain Exports Test Arctic Route - CMB News](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1piMHMxMkw4Q2psY292dWVmOVlET0xQLXExZGdid1gxNGgzNzZGR0RqRjRzenhuMkEwbDNwZFZrX2tuQVlJUHlGQ05ZcmZhdmdhUXBEWDcyLVNJS3Z6LU8xUUFDU1N3NTZoU0xhWURlYVBhUERfM3NUVDBkdE9mQUJWNGxnWFB0NFBLNWtnUllhNmpDbFVDYXp2UQ?oc=5)
-- [Russia cut grain exports from ports on Azov and Black Seas 16 times - Reuters - Ukrainian News Agency](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlE0WUNpTjI1RmNVMFd3bTBFbFN4aGVKX09XQmM4Sk95MFNZSFMtWEsxVV9TMjBnMWNYMHZ1UjhhRXEwSzhMUk1mTjJlRnpkQkx0VEV5VXR5WWFYM0s2RTFUdGJ5eUc2Q0NzWGJNbXpRZzRzT1ltWjMtUWxpOG1CaTRkRWJqdGk1dVQ1X0ZOU09EYV9jSDBGQlVodlBWOXJTOFlzNXhLdEpzZno4R0xudkltVy1MRFdPNnc4OXNhNUHSAcYBQVVfeXFMUFVGLXBHZjd6RzJLdjBBZ2VBZzV1ekhjNlBibVlFNU5rLTZrdTR6OFpYbXhCRzBjN2RvdkFXYk9yRC1YMFZZRzluQkxMVHljdTMxVXlhaTVSOVVSTjNpa29iajdmMk55a1MzV1hMS2d5Y21sNjAyYlZHN2ZjX2xtZ1hMR1QwczNQWUxDTjhyVnN0Y2VlX0dtOU5TNDhzWTdfajdzZWdqRVZGMEZBRlpyUlB5RW44dHc1REpnMjFWTHpXSThfWERB?oc=5)
+- [Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1pCNHIwM1pqa09EV0VMN2tGOUdTSVhjUDdkU1NESTVsckJsaXFLREo5b196a3QzVXBFY2lUekhVdEI2b1cxanE4YVpsRnNwMW1kWTlTYlJ1TzIzT1dDY29Da2txX1NkYVpjOUZDbEdlVnNOeGI4QTZJbjVrWjdMd3dRT04zZHNsNDdodzNvM2gyTXRaM2tEekdfc25CMkpsczRZdDB30gGkAUFVX3lxTE04V2x3UVpERWNuYTM0UkVrWVVPM1I3V0Q5VkNZaVF2dmkweHZPSjREUWRaRmc1VkV6am1RVnFLaXZDdlpnQTBRZXBxWmpGTkw4dndsTG1wbFgzUnpULWNsSk5fZlRXY3lSSnF4UGVHV0p3TGI3X3BKOExVaEIyOW1weWhickVpR1dRNkZ4WEdfQk9CSDBpai13SFJTd0FFVzJ0b0tZ?oc=5)
+- …and 1 more
 
 ---
 
