@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-11-04
+# News-driven model brief — 2026-11-05
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
@@ -41,11 +41,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_5 corroborating headline(s):_
+_4 corroborating headline(s):_
 - [Black Sea share of Russian grain exports plunges to 5.5% - UkrAgroConsult](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaUxLOUs3OWlmMnJWTzFaWGFpMFF6SVlpTl9tVUpTQ2taMzVQRVlBcE9SR25BZkVJdzJ2WW9SZ0NGMGNlMFQxVC1MWUNScWtaZWZtcWN0YnN2eFI1d2VXU1RqLVNVejlUWExrSV94SWdHZHhQMV9rTU1IazFKN3JLY0dIZ2ZEVnFyTHR0dUFYdDRTSmFrUVE?oc=5)
 - [Russia’s seaborne grain exports plunge by more than half as shipments collapse - The New Voice of Ukraine](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXJacGViSUxEY2trTmw5WGxtcWZ6cVlncDNmdUo3dWxnWU1FaW8zcHFTSU0ycmdqY2NuU1BaaV8tM1lSMUlocVRaekFLZ0M0MXdLLWEyOC1mYWtPdHB0Nmhhcm5TQ0ItYzBCckFiWTNtWmpVUzdXMm9neFFUaTVUbHMxV0NxbkM1QmR6N2ZQNExCVWdZOGVFN3lIUGN1czc1RVVxZEd6Q0tweklNTWlpVXYyelBsZWMwdWNnQzFLS0VpWm5aUVpjRlBVNNIBxAFBVV95cUxOVDJ2Z19DMjRhRGVOeHlSUFRhRzhQU0tKVXpYcGRDcXRCN01sWGM2V3dNUGtsWjNqLS1wZ2w4ODFrdS1JTS0wRURmOWM2c1RYVno2YW53cTRLdjdsQUJKSW1sQnRjVDJFQ2pTejlRLU80aGNScERtaXhXNFRmVXlJMC1KNjN3YmhjeTNrdG9QSHlmREgwTnJXc18za2JMcHlsLUl3cXlyUG5idmNOM2kxS1p1MXhrMzRfMU9KbUxORU11aUhL?oc=5)
 - [Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1pCNHIwM1pqa09EV0VMN2tGOUdTSVhjUDdkU1NESTVsckJsaXFLREo5b196a3QzVXBFY2lUekhVdEI2b1cxanE4YVpsRnNwMW1kWTlTYlJ1TzIzT1dDY29Da2txX1NkYVpjOUZDbEdlVnNOeGI4QTZJbjVrWjdMd3dRT04zZHNsNDdodzNvM2gyTXRaM2tEekdfc25CMkpsczRZdDB30gGkAUFVX3lxTE04V2x3UVpERWNuYTM0UkVrWVVPM1I3V0Q5VkNZaVF2dmkweHZPSjREUWRaRmc1VkV6am1RVnFLaXZDdlpnQTBRZXBxWmpGTkw4dndsTG1wbFgzUnpULWNsSk5fZlRXY3lSSnF4UGVHV0p3TGI3X3BKOExVaEIyOW1weWhickVpR1dRNkZ4WEdfQk9CSDBpai13SFJTd0FFVzJ0b0tZ?oc=5)
-- …and 2 more
+- …and 1 more
 
 ---
 
