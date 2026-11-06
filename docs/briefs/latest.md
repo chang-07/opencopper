@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-11-05
+# News-driven model brief — 2026-11-06
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
@@ -21,8 +21,7 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
-- [Kuwait turns up the volume on oil production despite Hormuz threats - Baird Maritime](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXpFd0FPUmZhS01aTjFSM3pFN2RXekV5S0ktcU1fZnJpMktjbVNUME5xcGlFcU1CN1l6dkRsazBFVlVrbDBDVjNWSHpCWEo5S0FIX0NJRFQwWlBjUzhsU0xocmRzTzRYYkxNVEt2V1VBdDlSQzQtbjJVcFhJOTEtdEdtRmZfa3dXdjkyTjVfQU9VZ0dKM0VseVpfNWFGSlA1U0tUM0NxMTFnNkxXMEg2N3BFSUl2eERFaEgxS3BQcEQzUXph0gHSAUFVX3lxTFA2dUtkZm9iTF84QkJPUWxyenNBYXFOV0V0dndEaXpLc05OSDBSN1djNkhoNk5rX05BdUZobWZhZTZ3Y0FmZ2JsVE1tZUp2WWFDekItWFJDei1pWHg3Zno3WDlRUFA3TDNuaThDa2ZHbzlYX0xpaUdtNXJ2cUNYZkY2bksxNGFrYkpvdkx6Nm9rSVpTcll3OGh5eFl0amNtTGZ5dzg4T1VXYzdLS1pXQUpCZkhPbDJDNnpWdlYwV1NmQ3JtN2k3UXNPa0xoc0Ztb2t6dw?oc=5)
+_1 corroborating headline(s):_
 - [Saudi Aramco begins expansion of East-West oil pipeline amid Hormuz disruptions - AzerNews](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fVXF3VjVPT0paNXE3UnI1dExqSlJaaDlXZGctNHZlOERERkNYQ0M5dzdEQWVER2Q3U2QtakhmM2M5eUpnOUh2WC1tSERVaGNJVGk2bkJJa001ZlU?oc=5)
 
 ## Russian Wheat Export Slump and Black Sea Supply Outlook - CMB News
