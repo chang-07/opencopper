@@ -56,8 +56,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [Wheat Climbs as Weak Russian Export Outlook Fans Supply Concerns - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXZmaC03cGlvczhpZVJhYUxPREtzLURlUHlaZDIzRDJVd3dvUkxsRnJLTkxTd0ZucEJFejV0eFpVU1JiY2docXlKWU11M2JXbWI0dHhFaVN2aU1VcWRjeHEzVlZDVEFfTy1tT1NVN1M4ZVhyZF9XRjVyZXJUUnBoRWphUmdqZ0ZlNmwzaUdrLXRuVjRKcHZSY0RUdTBKRHRmYk1Ua001Qzl2MGdMcDRJYmpaOXRhQQ?oc=5)
+- [Russian Wheat Market Shifts as Grain Exports Test Arctic Route - CMB News](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1piMHMxMkw4Q2psY292dWVmOVlET0xQLXExZGdid1gxNGgzNzZGR0RqRjRzenhuMkEwbDNwZFZrX2tuQVlJUHlGQ05ZcmZhdmdhUXBEWDcyLVNJS3Z6LU8xUUFDU1N3NTZoU0xhWURlYVBhUERfM3NUVDBkdE9mQUJWNGxnWFB0NFBLNWtnUllhNmpDbFVDYXp2UQ?oc=5)
 
 ---
 

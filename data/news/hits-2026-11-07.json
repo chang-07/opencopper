@@ -53,5 +53,16 @@
   "severity": 0.15,
   "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian Wheat Market Shifts as Grain Exports Test Arctic Route - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1piMHMxMkw4Q2psY292dWVmOVlET0xQLXExZGdid1gxNGgzNzZGR0RqRjRzenhuMkEwbDNwZFZrX2tuQVlJUHlGQ05ZcmZhdmdhUXBEWDcyLVNJS3Z6LU8xUUFDU1N3NTZoU0xhWURlYVBhUERfM3NUVDBkdE9mQUJWNGxnWFB0NFBLNWtnUllhNmpDbFVDYXp2UQ?oc=5",
+  "published": "Mon, 02 Nov 2026 07:55:59 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
  }
 ]
