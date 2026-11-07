@@ -1,8 +1,8 @@
 [
  {
-  "headline": "PERSPECTIVE: The Strait of Hormuz Constriction Impacts More Than Crude Oil \u2013 Yogi Schulz - EnergyNow",
+  "headline": "PERSPECTIVE: The Strait of Hormuz Constriction Impacts More Than Crude Oil - Yogi Schulz - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFrSUVrdC1kaWpSMEtES0s4YWoxNnlwbVVVQU5OblRVVWlUWUl5T2dELTRjeThTV2cwTFNmeDkyTllJNnU0WHBsSjJDRWtCQVE4aEozdy10a3Rac1lvcThrWkFfX3daZUdpSVNNVHJWWGhYcGZqVWdCSm80Nmx3cnVZel9sUWVrWDVPZ1FTaGZmeEx5WlhlUGsySHBEYl9OUFJIXzJhU2RWNEExcnFyT2lQTXJ6Zw?oc=5",
-  "published": "Thu, 05 Nov 2026 09:54:54 GMT",
+  "published": "Fri, 06 Nov 2026 12:12:29 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -14,28 +14,6 @@
   "headline": "Saudi Aramco begins expansion of East-West oil pipeline amid Hormuz disruptions - AzerNews",
   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fVXF3VjVPT0paNXE3UnI1dExqSlJaaDlXZGctNHZlOERERkNYQ0M5dzdEQWVER2Q3U2QtakhmM2M5eUpnOUh2WC1tSERVaGNJVGk2bkJJa001ZlU?oc=5",
   "published": "Wed, 04 Nov 2026 11:43:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Oil plunges 8% as US-Iran peace hopes ease Hormuz fears - Gulf News",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTFkaFRoT0hYaF81M1FnaTl6X3gxYjA1VDB1RzBTcUo2X18xYmliajVoSlo2RHhUdTZwVjRDVTU2MjRDZHR5QmxzbFQtSVdiWUg1RWJSZ1JoOG12LU1qcTNNUUVuQnNpLXMzOFFxU0JhRFgxekk1ZlUya0lRMTkxbjdRMWZJMlZCb2VyQmtfVTdOUHZwdFVEX1dlSHNOX05lbHZ2dXBB0gG4AUFVX3lxTFB2Qk5UOUVDVmZRTmg1MXZpQUZ4NmpXbVpKQTJ1THZDRERNRkhTcXVHV2tuQUdIRXRvbEtuZUtoSXVyU1ZIb09DN1pabE1VRnVTYW5NcEVNYWE0cFlZRnFhTlZuY1h4RUVMV3pqSlpVS21hbS0zbWJCek9mN2VjTi1nSEJ5WUZBUDdEOWFHWm5sTE9JQlkyMlV0RGZCS1BXM19yM1JzLVJBRDRKWUkzd0lHTWJSWjFXRk4?oc=5",
-  "published": "Mon, 02 Nov 2026 21:48:20 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Rystad Energy revises forecast for oil shipments via Strait of Hormuz - Trend News Agency",
-  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zV1NhSE1nRGZUX1F3RFpYeXdqT3BtbzlVSF83VmFuYUJCNW9fSjB0aUVUdXVleFFleWh6eWl3VS14TldQY1JTM2NKTE1NQ3dV?oc=5",
-  "published": "Tue, 03 Nov 2026 05:42:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
