@@ -24,7 +24,7 @@ band is wide, the elasticities are doing the work, not the event.
 _1 corroborating headline(s):_
 - [Saudi Aramco begins expansion of East-West oil pipeline amid Hormuz disruptions - AzerNews](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fVXF3VjVPT0paNXE3UnI1dExqSlJaaDlXZGctNHZlOERERkNYQ0M5dzdEQWVER2Q3U2QtakhmM2M5eUpnOUh2WC1tSERVaGNJVGk2bkJJa001ZlU?oc=5)
 
-## Indonesia Nickel, Congo Cobalt Quotas Reset Battery Supply - Environmental Leader
+## Indonesia Nickel, Congo Cobalt Quotas Reset Battery Supply - Environment+Energy Leader
 *Fri, 06 Nov 2026 13:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUZ5M05hYkVEV1JxdGxqYVVtMFNwX0hVV1RZQ3ozSk5iVk45dkN5ZDkxUVhnZmlnZzF3RktkNF9HOC1sdkZHRllLa21ZNlY3M29GalNXMWFEbGZKM0FJdHphMC1Gc1k1OU04dVg4UVc5OG9PQXFlYV8yeDVEQVR3SENiYjBRNEhpQlhhcDVWOFluTjVqcFk5Ykhob3c4WGEzSFBVWXNoNkJnRHk3OWwxTnFB?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
 
