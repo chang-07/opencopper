@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-11-06
+# News-driven model brief — 2026-11-07
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
@@ -21,8 +21,10 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
+_3 corroborating headline(s):_
 - [Saudi Aramco begins expansion of East-West oil pipeline amid Hormuz disruptions - AzerNews](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fVXF3VjVPT0paNXE3UnI1dExqSlJaaDlXZGctNHZlOERERkNYQ0M5dzdEQWVER2Q3U2QtakhmM2M5eUpnOUh2WC1tSERVaGNJVGk2bkJJa001ZlU?oc=5)
+- [Oil plunges 8% as US-Iran peace hopes ease Hormuz fears - Gulf News](https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTFkaFRoT0hYaF81M1FnaTl6X3gxYjA1VDB1RzBTcUo2X18xYmliajVoSlo2RHhUdTZwVjRDVTU2MjRDZHR5QmxzbFQtSVdiWUg1RWJSZ1JoOG12LU1qcTNNUUVuQnNpLXMzOFFxU0JhRFgxekk1ZlUya0lRMTkxbjdRMWZJMlZCb2VyQmtfVTdOUHZwdFVEX1dlSHNOX05lbHZ2dXBB0gG4AUFVX3lxTFB2Qk5UOUVDVmZRTmg1MXZpQUZ4NmpXbVpKQTJ1THZDRERNRkhTcXVHV2tuQUdIRXRvbEtuZUtoSXVyU1ZIb09DN1pabE1VRnVTYW5NcEVNYWE0cFlZRnFhTlZuY1h4RUVMV3pqSlpVS21hbS0zbWJCek9mN2VjTi1nSEJ5WUZBUDdEOWFHWm5sTE9JQlkyMlV0RGZCS1BXM19yM1JzLVJBRDRKWUkzd0lHTWJSWjFXRk4?oc=5)
+- [Rystad Energy revises forecast for oil shipments via Strait of Hormuz - Trend News Agency](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zV1NhSE1nRGZUX1F3RFpYeXdqT3BtbzlVSF83VmFuYUJCNW9fSjB0aUVUdXVleFFleWh6eWl3VS14TldQY1JTM2NKTE1NQ3dV?oc=5)
 
 ## Indonesia Nickel, Congo Cobalt Quotas Reset Battery Supply - Environmental Leader
 *Fri, 06 Nov 2026 13:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUZ5M05hYkVEV1JxdGxqYVVtMFNwX0hVV1RZQ3ozSk5iVk45dkN5ZDkxUVhnZmlnZzF3RktkNF9HOC1sdkZHRllLa21ZNlY3M29GalNXMWFEbGZKM0FJdHphMC1Gc1k1OU04dVg4UVc5OG9PQXFlYV8yeDVEQVR3SENiYjBRNEhpQlhhcDVWOFluTjVqcFk5Ykhob3c4WGEzSFBVWXNoNkJnRHk3OWwxTnFB?oc=5)
