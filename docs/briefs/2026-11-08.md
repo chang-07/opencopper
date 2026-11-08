@@ -21,10 +21,6 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
-- [Iran exempts Iraq from restrictions across the Strait of Hormuz as oil exports increase. - Vietnam.vn](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWc5amZwcTlWVmpiMXNMZzR3d3lLdFpPak03Umt1VmFqQmkwUE9IQzF2TFgyVmZ5YkpoZzZLT0tDM1JhOUozQjdnb3YtSGkxczJQTk5rY2hUeklNWWxDOXMtV3Z4aEhFbjdfajBxOWd5aDZwZzd5NHhBVHl1MEVrV3FVbkd3dmJ3VkdNZlBtV1hZa0owalE5aDBoWVI2Q0gteW93N1pRb1poUQ?oc=5)
-- [Saudi Aramco begins expansion of East-West oil pipeline amid Hormuz disruptions - AzerNews](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fVXF3VjVPT0paNXE3UnI1dExqSlJaaDlXZGctNHZlOERERkNYQ0M5dzdEQWVER2Q3U2QtakhmM2M5eUpnOUh2WC1tSERVaGNJVGk2bkJJa001ZlU?oc=5)
-
 ## Indonesia Nickel, Congo Cobalt Quotas Reset Battery Supply - Environment+Energy Leader
 *Fri, 06 Nov 2026 13:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUZ5M05hYkVEV1JxdGxqYVVtMFNwX0hVV1RZQ3ozSk5iVk45dkN5ZDkxUVhnZmlnZzF3RktkNF9HOC1sdkZHRllLa21ZNlY3M29GalNXMWFEbGZKM0FJdHphMC1Gc1k1OU04dVg4UVc5OG9PQXFlYV8yeDVEQVR3SENiYjBRNEhpQlhhcDVWOFluTjVqcFk5Ykhob3c4WGEzSFBVWXNoNkJnRHk3OWwxTnFB?oc=5)
 Rule: cobalt / Congo (Kinshasa) / severity prior +40%
