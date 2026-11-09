@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## PERSPECTIVE: The Strait of Hormuz Constriction Impacts More Than Crude Oil - Yogi Schulz - EnergyNow
-*Fri, 06 Nov 2026 12:12:29 GMT* — [source](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFrSUVrdC1kaWpSMEtES0s4YWoxNnlwbVVVQU5OblRVVWlUWUl5T2dELTRjeThTV2cwTFNmeDkyTllJNnU0WHBsSjJDRWtCQVE4aEozdy10a3Rac1lvcThrWkFfX3daZUdpSVNNVHJWWGhYcGZqVWdCSm80Nmx3cnVZel9sUWVrWDVPZ1FTaGZmeEx5WlhlUGsySHBEYl9OUFJIXzJhU2RWNEExcnFyT2lQTXJ6Zw?oc=5)
+## Oil prices today: Brent crude, WTI fall as Trump rules out fresh Iran strikes amid Strait of Hormuz concerns | Hindustan Times - Hindustan Times
+*Mon, 09 Nov 2026 12:21:21 GMT* — [source](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNG95cjJXTy1lNF9yUHJTMm1QdTg5Uk83Ym5oa05DbTEtMkZjYmlxdXJsdE1hbXFBZWV6S3ZoV0VudGdfdkxuWUZRWTUwWWdLalVjc0J2Vjh5MFFUNTV2VkN6c1pBVGJLNHUtdUpIVEhCZHREenVsSkJHeWZBMFRfUHVzaW9QS2pXbnQzTXE4ZkREamFmdzJhYzFaOXl2VzgxYVVvVERqbWdJQVQ2RTFGYUx1NWdTcnVpRG1Kc09GeEhFR3JJQWpQcmg1SDNEM21KbS1YX01STXFrU1cwN3M5VTU0RnJNWkhpYnZNaVVaSUtSYXpGbTk1WkFKSEpQaWJlSC1TT3NMTnbSAY4CQVVfeXFMTXlCZVI3OW9XT0tpOW9WUnFFTkFYVVdRT0FHUnhCbmd4bEdJS0tBWDROcV9La3BmSlpoTTh1cTRyUV9IYWtjN1dqUXBfTEdEcWpvR3pFWFJUTVlXQV9EM3AzeENpdDEtdW1fWmRxb2RYQjdCd25wdDFKTzVUc2VNa2ZZcnRHQ0ZRMFVXR2JuQmZwNGwyV3J5eFFOSThzZ3VDN3JPM09XMTRuYWFPU25DNFE4bUxrUnV1YWpCMmlMM1lxVmlrZms2UEttRmtNNDA1am83TnpwYUc1SVhOcGV2SXJuTkFjbThEWHRwWmdDY3hXeGxfMzB1dy1wU1J4SktwdVpKRmRPbV9GT19IcHl3?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,10 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_3 corroborating headline(s):_
+_4 corroborating headline(s):_
+- [Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDFLMnliZE9CVEhBemh3Nlk2WjBXYXhQbXh6SC1ZRDl0MnV1ZWg0R2lRTk1KWnBKQk9mYjZzcjRmNDlnRG9KV29DNjR5TTFveDdOWkoxenVESnJQVmU3Z0VsODNremhBU0JVZU8tXzZNckkxTlhBdVYyVzZCUHZSOG5nZDlWTXYtMmgyUzFHRHRhUjZQbGVpNDBTTml3Zmxud0UwMFZaWldmdVhQQk02a3JR0gG3AUFVX3lxTE5Pck94RDZHSTlGUThxMnlvdEViSGNLYncxRlVUM1FOb3ZDTHdXeWE0QWNUeVgtR2F6MWN4YTd3Vkp3WTlPUFpnQ293VzJfb3E1OGg5UC05VldXUE9PM1M3ZlladFAwcTRKeDV3d1dvQjVMVGtlcmdXUVZBUlQxOEJjbXl6QUg3UzU2QzlDdmRWZ0w3Tjd0Vk5pRzBRdXNKa1VhR0p3V0xGLUlXVlZYbEFFUzQxcFBLOA?oc=5)
+- [PERSPECTIVE: The Strait of Hormuz Constriction Impacts More Than Crude Oil - Yogi Schulz - EnergyNow](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFrSUVrdC1kaWpSMEtES0s4YWoxNnlwbVVVQU5OblRVVWlUWUl5T2dELTRjeThTV2cwTFNmeDkyTllJNnU0WHBsSjJDRWtCQVE4aEozdy10a3Rac1lvcThrWkFfX3daZUdpSVNNVHJWWGhYcGZqVWdCSm80Nmx3cnVZel9sUWVrWDVPZ1FTaGZmeEx5WlhlUGsySHBEYl9OUFJIXzJhU2RWNEExcnFyT2lQTXJ6Zw?oc=5)
 - [Iran exempts Iraq from restrictions across the Strait of Hormuz as oil exports increase. - Vietnam.vn](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWc5amZwcTlWVmpiMXNMZzR3d3lLdFpPak03Umt1VmFqQmkwUE9IQzF2TFgyVmZ5YkpoZzZLT0tDM1JhOUozQjdnb3YtSGkxczJQTk5rY2hUeklNWWxDOXMtV3Z4aEhFbjdfajBxOWd5aDZwZzd5NHhBVHl1MEVrV3FVbkd3dmJ3VkdNZlBtV1hZa0owalE5aDBoWVI2Q0gteW93N1pRb1poUQ?oc=5)
-- [Oil plunges 8% as US-Iran peace hopes ease Hormuz fears - Gulf News](https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTFkaFRoT0hYaF81M1FnaTl6X3gxYjA1VDB1RzBTcUo2X18xYmliajVoSlo2RHhUdTZwVjRDVTU2MjRDZHR5QmxzbFQtSVdiWUg1RWJSZ1JoOG12LU1qcTNNUUVuQnNpLXMzOFFxU0JhRFgxekk1ZlUya0lRMTkxbjdRMWZJMlZCb2VyQmtfVTdOUHZwdFVEX1dlSHNOX05lbHZ2dXBB0gG4AUFVX3lxTFB2Qk5UOUVDVmZRTmg1MXZpQUZ4NmpXbVpKQTJ1THZDRERNRkhTcXVHV2tuQUdIRXRvbEtuZUtoSXVyU1ZIb09DN1pabE1VRnVTYW5NcEVNYWE0cFlZRnFhTlZuY1h4RUVMV3pqSlpVS21hbS0zbWJCek9mN2VjTi1nSEJ5WUZBUDdEOWFHWm5sTE9JQlkyMlV0RGZCS1BXM19yM1JzLVJBRDRKWUkzd0lHTWJSWjFXRk4?oc=5)
-- [Rystad Energy revises forecast for oil shipments via Strait of Hormuz - Trend News Agency](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zV1NhSE1nRGZUX1F3RFpYeXdqT3BtbzlVSF83VmFuYUJCNW9fSjB0aUVUdXVleFFleWh6eWl3VS14TldQY1JTM2NKTE1NQ3dV?oc=5)
+- …and 1 more
 
 ## Indonesia Nickel, Congo Cobalt Quotas Reset Battery Supply - Environment+Energy Leader
 *Fri, 06 Nov 2026 13:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUZ5M05hYkVEV1JxdGxqYVVtMFNwX0hVV1RZQ3ozSk5iVk45dkN5ZDkxUVhnZmlnZzF3RktkNF9HOC1sdkZHRllLa21ZNlY3M29GalNXMWFEbGZKM0FJdHphMC1Gc1k1OU04dVg4UVc5OG9PQXFlYV8yeDVEQVR3SENiYjBRNEhpQlhhcDVWOFluTjVqcFk5Ykhob3c4WGEzSFBVWXNoNkJnRHk3OWwxTnFB?oc=5)
@@ -42,8 +43,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## Wheat Climbs as Weak Russian Export Outlook Fans Supply Concerns - Bloomberg.com
-*Thu, 05 Nov 2026 04:46:00 GMT* — [source](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXZmaC03cGlvczhpZVJhYUxPREtzLURlUHlaZDIzRDJVd3dvUkxsRnJLTkxTd0ZucEJFejV0eFpVU1JiY2docXlKWU11M2JXbWI0dHhFaVN2aU1VcWRjeHEzVlZDVEFfTy1tT1NVN1M4ZVhyZF9XRjVyZXJUUnBoRWphUmdqZ0ZlNmwzaUdrLXRuVjRKcHZSY0RUdTBKRHRmYk1Ua001Qzl2MGdMcDRJYmpaOXRhQQ?oc=5)
+## India Offers to Help Restore Black Sea Grain Exports as Modi, Zelensky Discuss Ukraine Peace Efforts - INDIA New England News
+*Mon, 09 Nov 2026 16:47:52 GMT* — [source](https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWZjSXRoOUhRRGhNdW85dEhDMC1hbHd4U190TnJ3NTZ0bGRlSEVEY29IZVo3cXk3NWJ6R0JJLUw1cG0yYnZHaXJLOWFDeWhucy1VdERSNGppVXBOdGxqUUdNV1ZpSnV2SGRoQ3hkOFI3T05EREs4eGtpXy1OaFQtQl9NenpOaXdidGhxZVo5Uy1BOUdQbTFCdEU5bkZCbk5KbHFlcV9yZUN5SkhkR3FNQW1MY1hkdmMtQmpPT2dDTDFNNVAxQjBF?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -58,8 +59,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_1 corroborating headline(s):_
+_4 corroborating headline(s):_
+- [India is ready to help unblock Ukraine’s grain exports via the Black Sea - UkrMedia News](https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNUZiZ1JiTGFfekJiZDNudkUwWENaVnp4bXl2TS0wYkstMEloNThqRFBDdkkzc2FGam15ek1pUlk1ZFZrbHN0c3ZHREhOTHdhOEoxamRjNm1hLS11WU0xQnRWTThUeUpBbDMtVU90VE1OZ2VuZjZ4Rw?oc=5)
 - [Russian Wheat Export Slump and Black Sea Supply Outlook - CMB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVYzak8tcVU4OXUza1Z5b19tMUF3dmlSWjZ4N29QWjdhZHdBTldKc282N0QwcGNmV0tKOVNyUlk2M25MV1Z6WFVsSWstRndmbFZvRzZoeWRWZUVDNWdCZ3BkTXJQYWJ2R0pOUzVfc08ya2ZCVElBSFdOOWxoLWxSa2xtV2YtZnN2QjFfd2wtOWxaQQ?oc=5)
+- [Russian Baltic Wheat Discounts Pressure Global Export Values - CMB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxNcmZydU1kSEk0Rkd1YXlVNlplNXI2WktaT2tSRVRrTDZEYnhQaE96N2Jkbjdxd3VYUmZaMnJNcFZXaVhzekxMOXo5eUl2QWJrX2pvNnZtRmYxUGRXNmF6NDFLNk5yYVVMWVNGQW5fYVd5bmdqUlVJeWs3S0VyaXh1Nl8wUEE1UFQwa3FZMnZ4TWdjZw?oc=5)
+- …and 1 more
 
 ---
 
