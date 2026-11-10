@@ -11,6 +11,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Oil prices today: Brent crude, WTI fall as Trump rules out fresh Iran strikes amid Strait of Hormuz concerns | Hindustan Times - Hindustan Times",
+  "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNG95cjJXTy1lNF9yUHJTMm1QdTg5Uk83Ym5oa05DbTEtMkZjYmlxdXJsdE1hbXFBZWV6S3ZoV0VudGdfdkxuWUZRWTUwWWdLalVjc0J2Vjh5MFFUNTV2VkN6c1pBVGJLNHUtdUpIVEhCZHREenVsSkJHeWZBMFRfUHVzaW9QS2pXbnQzTXE4ZkREamFmdzJhYzFaOXl2VzgxYVVvVERqbWdJQVQ2RTFGYUx1NWdTcnVpRG1Kc09GeEhFR3JJQWpQcmg1SDNEM21KbS1YX01STXFrU1cwN3M5VTU0RnJNWkhpYnZNaVVaSUtSYXpGbTk1WkFKSEpQaWJlSC1TT3NMTnbSAY4CQVVfeXFMTXlCZVI3OW9XT0tpOW9WUnFFTkFYVVdRT0FHUnhCbmd4bEdJS0tBWDROcV9La3BmSlpoTTh1cTRyUV9IYWtjN1dqUXBfTEdEcWpvR3pFWFJUTVlXQV9EM3AzeENpdDEtdW1fWmRxb2RYQjdCd25wdDFKTzVUc2VNa2ZZcnRHQ0ZRMFVXR2JuQmZwNGwyV3J5eFFOSThzZ3VDN3JPM09XMTRuYWFPU25DNFE4bUxrUnV1YWpCMmlMM1lxVmlrZms2UEttRmtNNDA1am83TnpwYUc1SVhOcGV2SXJuTkFjbThEWHRwWmdDY3hXeGxfMzB1dy1wU1J4SktwdVpKRmRPbV9GT19IcHl3?oc=5",
+  "published": "Mon, 09 Nov 2026 12:21:21 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "PERSPECTIVE: The Strait of Hormuz Constriction Impacts More Than Crude Oil - Yogi Schulz - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFrSUVrdC1kaWpSMEtES0s4YWoxNnlwbVVVQU5OblRVVWlUWUl5T2dELTRjeThTV2cwTFNmeDkyTllJNnU0WHBsSjJDRWtCQVE4aEozdy10a3Rac1lvcThrWkFfX3daZUdpSVNNVHJWWGhYcGZqVWdCSm80Nmx3cnVZel9sUWVrWDVPZ1FTaGZmeEx5WlhlUGsySHBEYl9OUFJIXzJhU2RWNEExcnFyT2lQTXJ6Zw?oc=5",
   "published": "Fri, 06 Nov 2026 12:12:29 GMT",
@@ -52,6 +63,28 @@
   "country": "Congo (Kinshasa)",
   "severity": 0.4,
   "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "SovEcon cuts Russian wheat export forecast to 36 million tonnes - Miller Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWJNdU5kUjg2QjRsSGNhb3hEaWJTMjluV3NkUjJRRnJzUkRPRENVMEZPWmU4WHVhUDh2bW5pa2s2RW1hU3d5MjU3VGdHa25jdEIyQjVIOGxmSG4tUE81SXhpYWVRVHBLVTNWWGVkamp5QnA3ZWtNUTIxbGNIZW1TTVROMVRXR2hBSGtEWUlLSm1BMWlNMnExcW13ZERaTHRvTmc?oc=5",
+  "published": "Tue, 10 Nov 2026 11:49:59 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Lithuanian origin checks threaten Russian wheat exports via Klaip\u0117da - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWpvRGhveTlNdFAtMXZfa3A1Q3Z5TlMzTkxPTFlIdzNsMDA0cl9YVlZMMGlHNl9TQnRuR21SN2dzNFQ5cmYyRS1sSXgxYmFsZkpHMG9TMEdZVTBDWEJIOGFDU3A1b0pZVVA0eXhsMlhFdmJnbXQtbjFiVUlJcTluUnlER3FzVFFKell1dHpVUm5KOUJaODhiNlBNMzNfUUVUSVQwTg?oc=5",
+  "published": "Tue, 10 Nov 2026 14:14:43 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  },
  {
