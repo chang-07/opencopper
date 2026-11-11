@@ -1,8 +1,19 @@
 [
  {
-  "headline": "Oil Slides as Iran Tensions Ease but Strait of Hormuz Risks Keep Traders Alert - kalkine.ca",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVU81M1BMVzlBV2VoalNySGprc3llcTcwMDFIR3RjbTFRaFBXRWZDcHhtaUJZVmtoYS0wRTNHOGlscWxXTWJybExWVkRKNGdzOXJwd01vT0VpdVU3WVZRa19GRE8zSVgyQjFTblQwdXR3eXNxZ0FSczh5UGFIMmR5eEtXVTR4bDQyY0pRSXhtSHdpR0JyZWsydGpGalhTV056X1pabU1EbFFmU052bFZOYnIwM1h1Zw?oc=5",
-  "published": "Tue, 10 Nov 2026 09:25:00 GMT",
+  "headline": "Oil News: Trump\u2019s Iran Comments Cut War Premium as OPEC Output Rises - FXEmpire",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1FJa1Z6WUYxcnhqZ1ZSWmZOZ3o1aWlxYjNjbGRQelFEQXdNTGxGWEpUUk5kOGo0d04zeU03QnlSRENwczVyNGEwNDlLeThmNkxRaGdlREVDMmI3VGpCbUVIcEF0Z2FycUlGM2lZOEJ4V1VHanllUmtKQ2dxRUNHR1NkTzN2ckY4d01QWERsNFZZUUJ0RW9sc1FGM2pRSl9UVXpWYl90TFVXWDd2UTFRWjdxb0RURFF0?oc=5",
+  "published": "Tue, 10 Nov 2026 15:08:45 GMT",
+  "rule_note": "",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.08,
+  "rule_id": "opec-cut",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil prices today: Brent crude, WTI fall as Trump rules out fresh Iran strikes amid Strait of Hormuz concerns | Hindustan Times - Hindustan Times",
+  "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNG95cjJXTy1lNF9yUHJTMm1QdTg5Uk83Ym5oa05DbTEtMkZjYmlxdXJsdE1hbXFBZWV6S3ZoV0VudGdfdkxuWUZRWTUwWWdLalVjc0J2Vjh5MFFUNTV2VkN6c1pBVGJLNHUtdUpIVEhCZHREenVsSkJHeWZBMFRfUHVzaW9QS2pXbnQzTXE4ZkREamFmdzJhYzFaOXl2VzgxYVVvVERqbWdJQVQ2RTFGYUx1NWdTcnVpRG1Kc09GeEhFR3JJQWpQcmg1SDNEM21KbS1YX01STXFrU1cwN3M5VTU0RnJNWkhpYnZNaVVaSUtSYXpGbTk1WkFKSEpQaWJlSC1TT3NMTnbSAY4CQVVfeXFMTXlCZVI3OW9XT0tpOW9WUnFFTkFYVVdRT0FHUnhCbmd4bEdJS0tBWDROcV9La3BmSlpoTTh1cTRyUV9IYWtjN1dqUXBfTEdEcWpvR3pFWFJUTVlXQV9EM3AzeENpdDEtdW1fWmRxb2RYQjdCd25wdDFKTzVUc2VNa2ZZcnRHQ0ZRMFVXR2JuQmZwNGwyV3J5eFFOSThzZ3VDN3JPM09XMTRuYWFPU25DNFE4bUxrUnV1YWpCMmlMM1lxVmlrZms2UEttRmtNNDA1am83TnpwYUc1SVhOcGV2SXJuTkFjbThEWHRwWmdDY3hXeGxfMzB1dy1wU1J4SktwdVpKRmRPbV9GT19IcHl3?oc=5",
+  "published": "Mon, 09 Nov 2026 12:21:21 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -11,9 +22,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices today: Brent crude, WTI fall as Trump rules out fresh Iran strikes amid Strait of Hormuz concerns | Hindustan Times - Hindustan Times",
-  "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNG95cjJXTy1lNF9yUHJTMm1QdTg5Uk83Ym5oa05DbTEtMkZjYmlxdXJsdE1hbXFBZWV6S3ZoV0VudGdfdkxuWUZRWTUwWWdLalVjc0J2Vjh5MFFUNTV2VkN6c1pBVGJLNHUtdUpIVEhCZHREenVsSkJHeWZBMFRfUHVzaW9QS2pXbnQzTXE4ZkREamFmdzJhYzFaOXl2VzgxYVVvVERqbWdJQVQ2RTFGYUx1NWdTcnVpRG1Kc09GeEhFR3JJQWpQcmg1SDNEM21KbS1YX01STXFrU1cwN3M5VTU0RnJNWkhpYnZNaVVaSUtSYXpGbTk1WkFKSEpQaWJlSC1TT3NMTnbSAY4CQVVfeXFMTXlCZVI3OW9XT0tpOW9WUnFFTkFYVVdRT0FHUnhCbmd4bEdJS0tBWDROcV9La3BmSlpoTTh1cTRyUV9IYWtjN1dqUXBfTEdEcWpvR3pFWFJUTVlXQV9EM3AzeENpdDEtdW1fWmRxb2RYQjdCd25wdDFKTzVUc2VNa2ZZcnRHQ0ZRMFVXR2JuQmZwNGwyV3J5eFFOSThzZ3VDN3JPM09XMTRuYWFPU25DNFE4bUxrUnV1YWpCMmlMM1lxVmlrZms2UEttRmtNNDA1am83TnpwYUc1SVhOcGV2SXJuTkFjbThEWHRwWmdDY3hXeGxfMzB1dy1wU1J4SktwdVpKRmRPbV9GT19IcHl3?oc=5",
-  "published": "Mon, 09 Nov 2026 12:21:21 GMT",
+  "headline": "Oil Slides as Iran Tensions Ease but Strait of Hormuz Risks Keep Traders Alert - kalkine.ca",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVU81M1BMVzlBV2VoalNySGprc3llcTcwMDFIR3RjbTFRaFBXRWZDcHhtaUJZVmtoYS0wRTNHOGlscWxXTWJybExWVkRKNGdzOXJwd01vT0VpdVU3WVZRa19GRE8zSVgyQjFTblQwdXR3eXNxZ0FSczh5UGFIMmR5eEtXVTR4bDQyY0pRSXhtSHdpR0JyZWsydGpGalhTV056X1pabU1EbFFmU052bFZOYnIwM1h1Zw?oc=5",
+  "published": "Tue, 10 Nov 2026 09:25:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -88,9 +99,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Lithuanian origin checks threaten Russian wheat exports via Klaip\u0117da - CMB News",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWpvRGhveTlNdFAtMXZfa3A1Q3Z5TlMzTkxPTFlIdzNsMDA0cl9YVlZMMGlHNl9TQnRuR21SN2dzNFQ5cmYyRS1sSXgxYmFsZkpHMG9TMEdZVTBDWEJIOGFDU3A1b0pZVVA0eXhsMlhFdmJnbXQtbjFiVUlJcTluUnlER3FzVFFKell1dHpVUm5KOUJaODhiNlBNMzNfUUVUSVQwTg?oc=5",
-  "published": "Tue, 10 Nov 2026 14:14:43 GMT",
+  "headline": "Russian Wheat Export Slump and Black Sea Supply Outlook - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVYzak8tcVU4OXUza1Z5b19tMUF3dmlSWjZ4N29QWjdhZHdBTldKc282N0QwcGNmV0tKOVNyUlk2M25MV1Z6WFVsSWstRndmbFZvRzZoeWRWZUVDNWdCZ3BkTXJQYWJ2R0pOUzVfc08ya2ZCVElBSFdOOWxoLWxSa2xtV2YtZnN2QjFfd2wtOWxaQQ?oc=5",
+  "published": "Thu, 05 Nov 2026 12:37:23 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -99,9 +110,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russian Wheat Export Slump and Black Sea Supply Outlook - CMB News",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVYzak8tcVU4OXUza1Z5b19tMUF3dmlSWjZ4N29QWjdhZHdBTldKc282N0QwcGNmV0tKOVNyUlk2M25MV1Z6WFVsSWstRndmbFZvRzZoeWRWZUVDNWdCZ3BkTXJQYWJ2R0pOUzVfc08ya2ZCVElBSFdOOWxoLWxSa2xtV2YtZnN2QjFfd2wtOWxaQQ?oc=5",
-  "published": "Thu, 05 Nov 2026 12:37:23 GMT",
+  "headline": "Lithuanian origin checks threaten Russian wheat exports via Klaip\u0117da - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWpvRGhveTlNdFAtMXZfa3A1Q3Z5TlMzTkxPTFlIdzNsMDA0cl9YVlZMMGlHNl9TQnRuR21SN2dzNFQ5cmYyRS1sSXgxYmFsZkpHMG9TMEdZVTBDWEJIOGFDU3A1b0pZVVA0eXhsMlhFdmJnbXQtbjFiVUlJcTluUnlER3FzVFFKell1dHpVUm5KOUJaODhiNlBNMzNfUUVUSVQwTg?oc=5",
+  "published": "Tue, 10 Nov 2026 14:14:43 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
