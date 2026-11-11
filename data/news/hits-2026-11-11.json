@@ -1,5 +1,16 @@
 [
  {
+  "headline": "Oil prices rise amid tanker attacks in Strait of Hormuz - Anadolu Ajans\u0131",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNal9fQlN3Vlp6QU5la3pxQ1kyYS12bHhsQTQxT2ZkRVgwR05oTDJrcnF1T1Y3bm1XQmZ5VmFwQmpfTVVIaWMwamNRWFlib21GTnlocXJKNDhwaF93b044dW9iR1RiSkhYSVdmRnNVREc0eURpb1NCUEtrNWFWZVZvaS10RVJKZEo5TUFpcERlSTVkeS02SWxYc1BJOXF1QdIBpgFBVV95cUxQOUZMaTFWZVB1NzgzUEY3M1NNejRIbnRURk03amRtRjNhb1JvS0NMTV9GSEVkSE1zbnpaVHpJYzYyanhLeWI5LVF2T2RGSktQWDZBdEZ1OV9HWmVBWGlVOHpzOHUxbVZ2WWI2ZE5IckhPaUwzWFM1WnFaWHZ6UHVNS1VJNUQxRnJkc0h3azRLZzBnNzRWVzlrMWFRbFBHcTdmMDFSYkdB?oc=5",
+  "published": "Wed, 11 Nov 2026 09:15:02 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Oil News: Trump\u2019s Iran Comments Cut War Premium as OPEC Output Rises - FXEmpire",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1FJa1Z6WUYxcnhqZ1ZSWmZOZ3o1aWlxYjNjbGRQelFEQXdNTGxGWEpUUk5kOGo0d04zeU03QnlSRENwczVyNGEwNDlLeThmNkxRaGdlREVDMmI3VGpCbUVIcEF0Z2FycUlGM2lZOEJ4V1VHanllUmtKQ2dxRUNHR1NkTzN2ckY4d01QWERsNFZZUUJ0RW9sc1FGM2pRSl9UVXpWYl90TFVXWDd2UTFRWjdxb0RURFF0?oc=5",
   "published": "Tue, 10 Nov 2026 15:08:45 GMT",
@@ -55,14 +66,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Indonesia Nickel, Congo Cobalt Quotas Reset Battery Supply - Environment+Energy Leader",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUZ5M05hYkVEV1JxdGxqYVVtMFNwX0hVV1RZQ3ozSk5iVk45dkN5ZDkxUVhnZmlnZzF3RktkNF9HOC1sdkZHRllLa21ZNlY3M29GalNXMWFEbGZKM0FJdHphMC1Gc1k1OU04dVg4UVc5OG9PQXFlYV8yeDVEQVR3SENiYjBRNEhpQlhhcDVWOFluTjVqcFk5Ykhob3c4WGEzSFBVWXNoNkJnRHk3OWwxTnFB?oc=5",
-  "published": "Fri, 06 Nov 2026 13:00:00 GMT",
+  "headline": "Russia turns to giant plastic bags to store unexported grain as Black Sea trade stalls - Yahoo Finance UK",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWR1dzJRSHpQRTNxb0QtU0I4SzBSeUREdmdFR2tXSkRBOUd2UjlZRlFTcmZTQ1NEc3VLVHg0MlpSeTVIX1Rxa2xPUF83UC00WFRHS1BCRFptNmFBTmJkN05uT3JVcXZSb182VnlsX3lxbzNBOEVhTjZIVUVfcXJ1M3RhTHpadjg?oc=5",
+  "published": "Wed, 11 Nov 2026 12:08:02 GMT",
   "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  },
  {
@@ -110,9 +121,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Lithuanian origin checks threaten Russian wheat exports via Klaip\u0117da - CMB News",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWpvRGhveTlNdFAtMXZfa3A1Q3Z5TlMzTkxPTFlIdzNsMDA0cl9YVlZMMGlHNl9TQnRuR21SN2dzNFQ5cmYyRS1sSXgxYmFsZkpHMG9TMEdZVTBDWEJIOGFDU3A1b0pZVVA0eXhsMlhFdmJnbXQtbjFiVUlJcTluUnlER3FzVFFKell1dHpVUm5KOUJaODhiNlBNMzNfUUVUSVQwTg?oc=5",
-  "published": "Tue, 10 Nov 2026 14:14:43 GMT",
+  "headline": "India is ready to help unblock Ukraine\u2019s grain exports via the Black Sea - UkrMedia News",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNUZiZ1JiTGFfekJiZDNudkUwWENaVnp4bXl2TS0wYkstMEloNThqRFBDdkkzc2FGam15ek1pUlk1ZFZrbHN0c3ZHREhOTHdhOEoxamRjNm1hLS11WU0xQnRWTThUeUpBbDMtVU90VE1OZ2VuZjZ4Rw?oc=5",
+  "published": "Mon, 09 Nov 2026 14:49:23 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -121,9 +132,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "India is ready to help unblock Ukraine\u2019s grain exports via the Black Sea - UkrMedia News",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNUZiZ1JiTGFfekJiZDNudkUwWENaVnp4bXl2TS0wYkstMEloNThqRFBDdkkzc2FGam15ek1pUlk1ZFZrbHN0c3ZHREhOTHdhOEoxamRjNm1hLS11WU0xQnRWTThUeUpBbDMtVU90VE1OZ2VuZjZ4Rw?oc=5",
-  "published": "Mon, 09 Nov 2026 14:49:23 GMT",
+  "headline": "Lithuanian origin checks threaten Russian wheat exports via Klaip\u0117da - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWpvRGhveTlNdFAtMXZfa3A1Q3Z5TlMzTkxPTFlIdzNsMDA0cl9YVlZMMGlHNl9TQnRuR21SN2dzNFQ5cmYyRS1sSXgxYmFsZkpHMG9TMEdZVTBDWEJIOGFDU3A1b0pZVVA0eXhsMlhFdmJnbXQtbjFiVUlJcTluUnlER3FzVFFKell1dHpVUm5KOUJaODhiNlBNMzNfUUVUSVQwTg?oc=5",
+  "published": "Tue, 10 Nov 2026 14:14:43 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
