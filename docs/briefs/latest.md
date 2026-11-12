@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## Oil prices rise amid tanker attacks in Strait of Hormuz - Anadolu Ajansı
-*Wed, 11 Nov 2026 09:15:02 GMT* — [source](https://news.google.com/rss/articles/CBMingFBVV95cUxNal9fQlN3Vlp6QU5la3pxQ1kyYS12bHhsQTQxT2ZkRVgwR05oTDJrcnF1T1Y3bm1XQmZ5VmFwQmpfTVVIaWMwamNRWFlib21GTnlocXJKNDhwaF93b044dW9iR1RiSkhYSVdmRnNVREc0eURpb1NCUEtrNWFWZVZvaS10RVJKZEo5TUFpcERlSTVkeS02SWxYc1BJOXF1QdIBpgFBVV95cUxQOUZMaTFWZVB1NzgzUEY3M1NNejRIbnRURk03amRtRjNhb1JvS0NMTV9GSEVkSE1zbnpaVHpJYzYyanhLeWI5LVF2T2RGSktQWDZBdEZ1OV9HWmVBWGlVOHpzOHUxbVZ2WWI2ZE5IckhPaUwzWFM1WnFaWHZ6UHVNS1VJNUQxRnJkc0h3azRLZzBnNzRWVzlrMWFRbFBHcTdmMDFSYkdB?oc=5)
+## Global OPEC+ oil exports close to prewar levels amid ongoing incidents in Strait of Hormuz - Rudaw
+*Thu, 12 Nov 2026 04:51:09 GMT* — [source](https://news.google.com/rss/articles/CBMiY0FVX3lxTE14d3d2Vnh5cTdCUjV4MEFUN1kwM1hjd1VUODlRQ25pbjh4VUVzb1dyem1pS1R1LVNuVUlHakR5OGZYVE9JMUdvaXlNdFZqTHR1MmIyQTBjMDB2XzV3ekc2MFhrcw?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,7 +21,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_2 corroborating headline(s):_
+_3 corroborating headline(s):_
+- [Oil prices rise amid tanker attacks in Strait of Hormuz - Anadolu Ajansı](https://news.google.com/rss/articles/CBMingFBVV95cUxNal9fQlN3Vlp6QU5la3pxQ1kyYS12bHhsQTQxT2ZkRVgwR05oTDJrcnF1T1Y3bm1XQmZ5VmFwQmpfTVVIaWMwamNRWFlib21GTnlocXJKNDhwaF93b044dW9iR1RiSkhYSVdmRnNVREc0eURpb1NCUEtrNWFWZVZvaS10RVJKZEo5TUFpcERlSTVkeS02SWxYc1BJOXF1QdIBpgFBVV95cUxQOUZMaTFWZVB1NzgzUEY3M1NNejRIbnRURk03amRtRjNhb1JvS0NMTV9GSEVkSE1zbnpaVHpJYzYyanhLeWI5LVF2T2RGSktQWDZBdEZ1OV9HWmVBWGlVOHpzOHUxbVZ2WWI2ZE5IckhPaUwzWFM1WnFaWHZ6UHVNS1VJNUQxRnJkc0h3azRLZzBnNzRWVzlrMWFRbFBHcTdmMDFSYkdB?oc=5)
 - [Oil Slides as Iran Tensions Ease but Strait of Hormuz Risks Keep Traders Alert - kalkine.ca](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVU81M1BMVzlBV2VoalNySGprc3llcTcwMDFIR3RjbTFRaFBXRWZDcHhtaUJZVmtoYS0wRTNHOGlscWxXTWJybExWVkRKNGdzOXJwd01vT0VpdVU3WVZRa19GRE8zSVgyQjFTblQwdXR3eXNxZ0FSczh5UGFIMmR5eEtXVTR4bDQyY0pRSXhtSHdpR0JyZWsydGpGalhTV056X1pabU1EbFFmU052bFZOYnIwM1h1Zw?oc=5)
 - [Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDFLMnliZE9CVEhBemh3Nlk2WjBXYXhQbXh6SC1ZRDl0MnV1ZWg0R2lRTk1KWnBKQk9mYjZzcjRmNDlnRG9KV29DNjR5TTFveDdOWkoxenVESnJQVmU3Z0VsODNremhBU0JVZU8tXzZNckkxTlhBdVYyVzZCUHZSOG5nZDlWTXYtMmgyUzFHRHRhUjZQbGVpNDBTTml3Zmxud0UwMFZaWldmdVhQQk02a3JR0gG3AUFVX3lxTE5Pck94RDZHSTlGUThxMnlvdEViSGNLYncxRlVUM1FOb3ZDTHdXeWE0QWNUeVgtR2F6MWN4YTd3Vkp3WTlPUFpnQ293VzJfb3E1OGg5UC05VldXUE9PM1M3ZlladFAwcTRKeDV3d1dvQjVMVGtlcmdXUVZBUlQxOEJjbXl6QUg3UzU2QzlDdmRWZ0w3Tjd0Vk5pRzBRdXNKa1VhR0p3V0xGLUlXVlZYbEFFUzQxcFBLOA?oc=5)
 
@@ -60,8 +61,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _3 corroborating headline(s):_
 - [USDA cuts Ukraine wheat export forecast – impact on Black Sea prices - CMB News](https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1JJTTVDR0ZFODQwM0RlNkZkWTYtVTQ2cWJVQzJ2bzdhMU5QV1RDbGhEckhJbUE2aXpmUm5rNWVFOURWamIwSGhQRWdCWDBKbHVpUjlVSkl4Z2FoS3NKSGZzanJiVnZCWTViY2lLOHMxWnlfNzZ0WmVlRlNzaHFOZ1ZjQktsMUpicExCMHdWU29oU081U3FLd3RmRQ?oc=5)
+- [Russia’s Flour Export Pivot Reshapes Global Wheat Market - CMB News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNelhFZy03RUMtcHhsNjctazJzbF9qRm5FQVY5UzB4dUhaWGtIaDZ4b2xCeHd4WHBBbWJWZWl0V3I1Y0lHN2VUSDBkYWhtVk9GZ00tdGpRc3lVcmJkd29fN0Ffd2doX0ZhRDB2NlNQUXR1dC1ET09QMmVXMFJYWS1XYnduWWxubzBjRVA5YVk1bndQTGhLVGp2RGtR?oc=5)
 - [India Offers to Help Restore Black Sea Grain Exports as Modi, Zelensky Discuss Ukraine Peace Efforts - INDIA New England News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWZjSXRoOUhRRGhNdW85dEhDMC1hbHd4U190TnJ3NTZ0bGRlSEVEY29IZVo3cXk3NWJ6R0JJLUw1cG0yYnZHaXJLOWFDeWhucy1VdERSNGppVXBOdGxqUUdNV1ZpSnV2SGRoQ3hkOFI3T05EREs4eGtpXy1OaFQtQl9NenpOaXdidGhxZVo5Uy1BOUdQbTFCdEU5bkZCbk5KbHFlcV9yZUN5SkhkR3FNQW1MY1hkdmMtQmpPT2dDTDFNNVAxQjBF?oc=5)
-- [Russian Wheat Export Slump and Black Sea Supply Outlook - CMB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVYzak8tcVU4OXUza1Z5b19tMUF3dmlSWjZ4N29QWjdhZHdBTldKc282N0QwcGNmV0tKOVNyUlk2M25MV1Z6WFVsSWstRndmbFZvRzZoeWRWZUVDNWdCZ3BkTXJQYWJ2R0pOUzVfc08ya2ZCVElBSFdOOWxoLWxSa2xtV2YtZnN2QjFfd2wtOWxaQQ?oc=5)
 
 ## China extends rare earth and battery export control pause to 2027 - Benchmark Mineral Intelligence
 *Tue, 10 Nov 2026 20:43:18 GMT* — [source](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZiRDBZOFJpUzJoZC1sdWZkT0xwVC0xb21LcVlIZzBEeXdNZ1FQdUtCWTYtNUk4ZHFQXzVMY3JTWXk0eGREZW4yQVVhcFlzV2tLamN4dG5fR1VSNGFRa19wMjBWYkpObjU2a1BMTmZCczgxaTB0SWpqbUdFaXVMNGtJQlRmdmZPTFY5NUdPOTdRX2xZZ1RaS0RWX2twRmJ4SzBfWldreWJraFZPQ3YwYnZtZ2RoQllU?oc=5)
