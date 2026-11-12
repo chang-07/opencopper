@@ -1,8 +1,8 @@
 [
  {
-  "headline": "Oil gains over $1 on Strait of Hormuz shipping disruptions, Russia tensions - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVNfOWE4dnhlMzA3cExiOE1nR0FNQXFJejNsQTExRExKTlVKNjNjcFRGMWQxMGNmYnNOWFdLaUp0OUo2SHFlNVoxMUo0Y21WazFhVmhZU1VxYlRuWVRfZEtiQ0NGWENEejFpMFRzaUtNbVV3TEhKUHp2aUc0SHJ2VkNzM1BHNU5VeGNNbnRldWZaZUFkTWdDNm9ibk5kQXlOQlRRWHRhdGk5ZEtPZjVjMjE1Q1BJaTZ1NmplRWJVSDlvRFBUQnc?oc=5",
-  "published": "Thu, 12 Nov 2026 01:52:00 GMT",
+  "headline": "Oil Prices Rise $1/Barrel As Disruptions Continue in Strait of Hormuz - MarineLink",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95RXFDc1JpeDBTa3BEcDJmWDNTdkRrRzJ6ZGxFUmhRakVGVTNFclIxWkZkVWs0eGR1aGM3RFJ6eXpiYTR4RlhXN1ZuRGpuMVBzLU5ldmVLRFV1RWM2MkQ3QkVSLWYzQWpWUWNkQnpScDVFT3l0ZTRvTnZ2MHBCZw?oc=5",
+  "published": "Thu, 12 Nov 2026 18:46:06 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -36,6 +36,17 @@
   "headline": "Global OPEC+ oil exports close to prewar levels amid ongoing incidents in Strait of Hormuz - Rudaw",
   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14d3d2Vnh5cTdCUjV4MEFUN1kwM1hjd1VUODlRQ25pbjh4VUVzb1dyem1pS1R1LVNuVUlHakR5OGZYVE9JMUdvaXlNdFZqTHR1MmIyQTBjMDB2XzV3ekc2MFhrcw?oc=5",
   "published": "Thu, 12 Nov 2026 05:51:09 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil Prices Slip as Strait of Hormuz Attacks Offset Higher OPEC+ Output, Treasury Yields Rise - Tekedia",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0dySU9mWEYxM2dnbW0xZ0RkWDY0UUtDdjFpdTlmM1IyMkNtRXZQaGVwa1YyWWI2eDFWN3ZVNFF5SzFCb2pzYmNpYllicXVvWGJIaWxEUGRZSUpCU3hQYm1Fay1CNndHU1ViNXBBaUZjRllxMmpyMkRiVGtFWUc1NDJPNjNiXzY1dnFjeTFIeFN4TmpxUjJjdDZWS25IUDZFZElLRFBraGVvaHB1dXcwS2xRYXc1Zw?oc=5",
+  "published": "Thu, 12 Nov 2026 14:19:20 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -132,9 +143,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Russia\u2019s Flour Export Pivot Reshapes Global Wheat Market - CMB News",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNelhFZy03RUMtcHhsNjctazJzbF9qRm5FQVY5UzB4dUhaWGtIaDZ4b2xCeHd4WHBBbWJWZWl0V3I1Y0lHN2VUSDBkYWhtVk9GZ00tdGpRc3lVcmJkd29fN0Ffd2doX0ZhRDB2NlNQUXR1dC1ET09QMmVXMFJYWS1XYnduWWxubzBjRVA5YVk1bndQTGhLVGp2RGtR?oc=5",
-  "published": "Thu, 12 Nov 2026 06:16:42 GMT",
+  "headline": "India is ready to help unblock Ukraine\u2019s grain exports via the Black Sea - UkrMedia News",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNUZiZ1JiTGFfekJiZDNudkUwWENaVnp4bXl2TS0wYkstMEloNThqRFBDdkkzc2FGam15ek1pUlk1ZFZrbHN0c3ZHREhOTHdhOEoxamRjNm1hLS11WU0xQnRWTThUeUpBbDMtVU90VE1OZ2VuZjZ4Rw?oc=5",
+  "published": "Mon, 09 Nov 2026 14:49:23 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
@@ -143,9 +154,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "India is ready to help unblock Ukraine\u2019s grain exports via the Black Sea - UkrMedia News",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNUZiZ1JiTGFfekJiZDNudkUwWENaVnp4bXl2TS0wYkstMEloNThqRFBDdkkzc2FGam15ek1pUlk1ZFZrbHN0c3ZHREhOTHdhOEoxamRjNm1hLS11WU0xQnRWTThUeUpBbDMtVU90VE1OZ2VuZjZ4Rw?oc=5",
-  "published": "Mon, 09 Nov 2026 14:49:23 GMT",
+  "headline": "Russia\u2019s Flour Export Pivot Reshapes Global Wheat Market - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNelhFZy03RUMtcHhsNjctazJzbF9qRm5FQVY5UzB4dUhaWGtIaDZ4b2xCeHd4WHBBbWJWZWl0V3I1Y0lHN2VUSDBkYWhtVk9GZ00tdGpRc3lVcmJkd29fN0Ffd2doX0ZhRDB2NlNQUXR1dC1ET09QMmVXMFJYWS1XYnduWWxubzBjRVA5YVk1bndQTGhLVGp2RGtR?oc=5",
+  "published": "Thu, 12 Nov 2026 06:16:42 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
