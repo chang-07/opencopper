@@ -43,8 +43,8 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-## USDA cuts Ukraine wheat export forecast – impact on Black Sea prices - CMB News
-*Tue, 10 Nov 2026 20:44:28 GMT* — [source](https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1JJTTVDR0ZFODQwM0RlNkZkWTYtVTQ2cWJVQzJ2bzdhMU5QV1RDbGhEckhJbUE2aXpmUm5rNWVFOURWamIwSGhQRWdCWDBKbHVpUjlVSkl4Z2FoS3NKSGZzanJiVnZCWTViY2lLOHMxWnlfNzZ0WmVlRlNzaHFOZ1ZjQktsMUpicExCMHdWU29oU081U3FLd3RmRQ?oc=5)
+## India Offers to Help Restore Black Sea Grain Exports as Modi, Zelensky Discuss Ukraine Peace Efforts - INDIA New England News
+*Mon, 09 Nov 2026 16:56:54 GMT* — [source](https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWZjSXRoOUhRRGhNdW85dEhDMC1hbHd4U190TnJ3NTZ0bGRlSEVEY29IZVo3cXk3NWJ6R0JJLUw1cG0yYnZHaXJLOWFDeWhucy1VdERSNGppVXBOdGxqUUdNV1ZpSnV2SGRoQ3hkOFI3T05EREs4eGtpXy1OaFQtQl9NenpOaXdidGhxZVo5Uy1BOUdQbTFCdEU5bkZCbk5KbHFlcV9yZUN5SkhkR3FNQW1MY1hkdmMtQmpPT2dDTDFNNVAxQjBF?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -59,11 +59,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
-- [India Offers to Help Restore Black Sea Grain Exports as Modi, Zelensky Discuss Ukraine Peace Efforts - INDIA New England News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWZjSXRoOUhRRGhNdW85dEhDMC1hbHd4U190TnJ3NTZ0bGRlSEVEY29IZVo3cXk3NWJ6R0JJLUw1cG0yYnZHaXJLOWFDeWhucy1VdERSNGppVXBOdGxqUUdNV1ZpSnV2SGRoQ3hkOFI3T05EREs4eGtpXy1OaFQtQl9NenpOaXdidGhxZVo5Uy1BOUdQbTFCdEU5bkZCbk5KbHFlcV9yZUN5SkhkR3FNQW1MY1hkdmMtQmpPT2dDTDFNNVAxQjBF?oc=5)
+_2 corroborating headline(s):_
 - [SovEcon cuts Russian wheat export forecast to 36 million tonnes - Miller Magazine](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWJNdU5kUjg2QjRsSGNhb3hEaWJTMjluV3NkUjJRRnJzUkRPRENVMEZPWmU4WHVhUDh2bW5pa2s2RW1hU3d5MjU3VGdHa25jdEIyQjVIOGxmSG4tUE81SXhpYWVRVHBLVTNWWGVkamp5QnA3ZWtNUTIxbGNIZW1TTVROMVRXR2hBSGtEWUlLSm1BMWlNMnExcW13ZERaTHRvTmc?oc=5)
 - [Russia’s Flour Export Pivot Reshapes Global Wheat Market - CMB News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNelhFZy03RUMtcHhsNjctazJzbF9qRm5FQVY5UzB4dUhaWGtIaDZ4b2xCeHd4WHBBbWJWZWl0V3I1Y0lHN2VUSDBkYWhtVk9GZ00tdGpRc3lVcmJkd29fN0Ffd2doX0ZhRDB2NlNQUXR1dC1ET09QMmVXMFJYWS1XYnduWWxubzBjRVA5YVk1bndQTGhLVGp2RGtR?oc=5)
-- …and 1 more
 
 ## China extends rare earth and battery export control pause to 2027 - Benchmark Mineral Intelligence
 *Tue, 10 Nov 2026 20:43:18 GMT* — [source](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZiRDBZOFJpUzJoZC1sdWZkT0xwVC0xb21LcVlIZzBEeXdNZ1FQdUtCWTYtNUk4ZHFQXzVMY3JTWXk0eGREZW4yQVVhcFlzV2tLamN4dG5fR1VSNGFRa19wMjBWYkpObjU2a1BMTmZCczgxaTB0SWpqbUdFaXVMNGtJQlRmdmZPTFY5NUdPOTdRX2xZZ1RaS0RWX2twRmJ4SzBfWldreWJraFZPQ3YwYnZtZ2RoQllU?oc=5)
