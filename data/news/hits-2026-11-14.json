@@ -11,17 +11,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ Production Gains Momentum, While Hormuz Shipping Risks Keep Oil Markets Cautious - ChemAnalyst",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFdxalJvZnpiM3VUUXZXd1RwSmlYU0dWMG5YOEpBams1dnhtRWg2X3NuWVlxREZSTEpyS1VyaGJlMjJva0RqSF93ejBrZXpDWXdGRGwwRkpBVDRsSDRyNG1Oa3N3RTgyeFlkV0Z2dHNuaW8xX2RrT0l1Zk1OLW1LRFg4SUhab0RTN0h3SnBJQW1sRlpDQmJWM0RyNWl4Z3NFQ0dENTlOSExSelZleEN1aFN5RXk1cnh2bTF5NTNmUWZiZEJ0STM1SHRSbU05ejQ?oc=5",
-  "published": "Fri, 13 Nov 2026 15:21:11 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Oil Prices Rise $1/Barrel As Disruptions Continue in Strait of Hormuz - Marine News Magazine",
   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95RXFDc1JpeDBTa3BEcDJmWDNTdkRrRzJ6ZGxFUmhRakVGVTNFclIxWkZkVWs0eGR1aGM3RFJ6eXpiYTR4RlhXN1ZuRGpuMVBzLU5ldmVLRFV1RWM2MkQ3QkVSLWYzQWpWUWNkQnpScDVFT3l0ZTRvTnZ2MHBCZw?oc=5",
   "published": "Thu, 12 Nov 2026 18:46:06 GMT",
@@ -44,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices fall due to increased production despite tensions in Hormuz - Inspenet",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZm8yc0ZUR3BuTEFvQTVWekFkeWxiUllGY1E1Y2R5R29zR3FkVzgzbmp1YzNMdERqZ2c3Y08tWkhVZlpjWVI4WkxxUkc0OXZzYVB0d28teERUTmxDMVZ5TjM2aU9UUUFsVVE?oc=5",
-  "published": "Thu, 12 Nov 2026 13:20:15 GMT",
+  "headline": "OPEC+ Production Gains Momentum, While Hormuz Shipping Risks Keep Oil Markets Cautious - ChemAnalyst",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFdxalJvZnpiM3VUUXZXd1RwSmlYU0dWMG5YOEpBams1dnhtRWg2X3NuWVlxREZSTEpyS1VyaGJlMjJva0RqSF93ejBrZXpDWXdGRGwwRkpBVDRsSDRyNG1Oa3N3RTgyeFlkV0Z2dHNuaW8xX2RrT0l1Zk1OLW1LRFg4SUhab0RTN0h3SnBJQW1sRlpDQmJWM0RyNWl4Z3NFQ0dENTlOSExSelZleEN1aFN5RXk1cnh2bTF5NTNmUWZiZEJ0STM1SHRSbU05ejQ?oc=5",
+  "published": "Fri, 13 Nov 2026 15:21:11 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -55,14 +44,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil News: Trump\u2019s Iran Comments Cut War Premium as OPEC Output Rises - FXEmpire",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1FJa1Z6WUYxcnhqZ1ZSWmZOZ3o1aWlxYjNjbGRQelFEQXdNTGxGWEpUUk5kOGo0d04zeU03QnlSRENwczVyNGEwNDlLeThmNkxRaGdlREVDMmI3VGpCbUVIcEF0Z2FycUlGM2lZOEJ4V1VHanllUmtKQ2dxRUNHR1NkTzN2ckY4d01QWERsNFZZUUJ0RW9sc1FGM2pRSl9UVXpWYl90TFVXWDd2UTFRWjdxb0RURFF0?oc=5",
-  "published": "Tue, 10 Nov 2026 15:08:45 GMT",
-  "rule_note": "",
+  "headline": "Oil prices fall due to increased production despite tensions in Hormuz - Inspenet",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZm8yc0ZUR3BuTEFvQTVWekFkeWxiUllGY1E1Y2R5R29zR3FkVzgzbmp1YzNMdERqZ2c3Y08tWkhVZlpjWVI4WkxxUkc0OXZzYVB0d28teERUTmxDMVZ5TjM2aU9UUUFsVVE?oc=5",
+  "published": "Thu, 12 Nov 2026 13:20:15 GMT",
+  "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
-  "severity": 0.08,
-  "rule_id": "opec-cut",
+  "severity": 0.2,
+  "rule_id": "hormuz",
   "source": "keyword-rule"
  },
  {
@@ -110,14 +99,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDFLMnliZE9CVEhBemh3Nlk2WjBXYXhQbXh6SC1ZRDl0MnV1ZWg0R2lRTk1KWnBKQk9mYjZzcjRmNDlnRG9KV29DNjR5TTFveDdOWkoxenVESnJQVmU3Z0VsODNremhBU0JVZU8tXzZNckkxTlhBdVYyVzZCUHZSOG5nZDlWTXYtMmgyUzFHRHRhUjZQbGVpNDBTTml3Zmxud0UwMFZaWldmdVhQQk02a3JR0gG3AUFVX3lxTE5Pck94RDZHSTlGUThxMnlvdEViSGNLYncxRlVUM1FOb3ZDTHdXeWE0QWNUeVgtR2F6MWN4YTd3Vkp3WTlPUFpnQ293VzJfb3E1OGg5UC05VldXUE9PM1M3ZlladFAwcTRKeDV3d1dvQjVMVGtlcmdXUVZBUlQxOEJjbXl6QUg3UzU2QzlDdmRWZ0w3Tjd0Vk5pRzBRdXNKa1VhR0p3V0xGLUlXVlZYbEFFUzQxcFBLOA?oc=5",
-  "published": "Mon, 09 Nov 2026 09:10:00 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
+  "headline": "Indonesia Nickel, Congo Cobalt Quotas Reset Battery Supply - Environment+Energy Leader",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUZ5M05hYkVEV1JxdGxqYVVtMFNwX0hVV1RZQ3ozSk5iVk45dkN5ZDkxUVhnZmlnZzF3RktkNF9HOC1sdkZHRllLa21ZNlY3M29GalNXMWFEbGZKM0FJdHphMC1Gc1k1OU04dVg4UVc5OG9PQXFlYV8yeDVEQVR3SENiYjBRNEhpQlhhcDVWOFluTjVqcFk5Ykhob3c4WGEzSFBVWXNoNkJnRHk3OWwxTnFB?oc=5",
+  "published": "Fri, 06 Nov 2026 13:00:00 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {
@@ -176,18 +165,7 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "India is ready to help unblock Ukraine\u2019s grain exports via the Black Sea - UkrMedia News",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNUZiZ1JiTGFfekJiZDNudkUwWENaVnp4bXl2TS0wYkstMEloNThqRFBDdkkzc2FGam15ek1pUlk1ZFZrbHN0c3ZHREhOTHdhOEoxamRjNm1hLS11WU0xQnRWTThUeUpBbDMtVU90VE1OZ2VuZjZ4Rw?oc=5",
-  "published": "Mon, 09 Nov 2026 14:49:23 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
-  "source": "keyword-rule"
- },
- {
-  "headline": "China extends pause on rare earth and battery export controls until 2027 - Benchmark Mineral Intelligence",
+  "headline": "China extends rare earth and battery export control pause to 2027 - Benchmark Mineral Intelligence",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZiRDBZOFJpUzJoZC1sdWZkT0xwVC0xb21LcVlIZzBEeXdNZ1FQdUtCWTYtNUk4ZHFQXzVMY3JTWXk0eGREZW4yQVVhcFlzV2tLamN4dG5fR1VSNGFRa19wMjBWYkpObjU2a1BMTmZCczgxaTB0SWpqbUdFaXVMNGtJQlRmdmZPTFY5NUdPOTdRX2xZZ1RaS0RWX2twRmJ4SzBfWldreWJraFZPQ3YwYnZtZ2RoQllU?oc=5",
   "published": "Tue, 10 Nov 2026 20:43:18 GMT",
   "rule_note": "",
