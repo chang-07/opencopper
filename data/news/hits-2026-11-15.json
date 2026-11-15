@@ -55,17 +55,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Iran war, Hormuz attacks fail to trigger oil shock as Gulf producers ramp up output, prices slide - Moneycontrol.com",
-  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQTVQcWMyQmpkVXNsNUdna3lVSW5Ob1REdU1RbWY3dVVCY3MzZ3RnSGVvdjNua1RVNl9seE50cDRfTXlUWVBpckRZcTMtSUYta0ljczZHODA5RHNEQWxsYjY0NVNrNEd3bXJVODBxckR2WEtWUEozMUZHUU9xTnc1d2liMExTbzVnV2R1YXF5dE9LeXFGWTdzeHpuU1FiMVFjaXYwVUlCNTN0Snk5dl9NX2lRQ2hBVWdVMjFCcmNETnltWFpQdm1aWVdxU0pQUFN5bXNBQjdsZXlTaUZBdFZmX2laY1BNbm_SAewBQVVfeXFMTnNtS2dUSVJJNkFPZjM5eWZlV1NCODJIRHNyTVNPU3p5TU5EdmdzN1pqRHhFV3k2ZHVIVUI3Slk3QXBJNnNWOERoQXRFU0NaLTVLaS02NkgwUFFYaVVvMmdJRjIzT3ZzMDVtYzNYUzZCOUpyXzdvcWJjQ29nRzQ5TS0yeEdrR1RMVWJELXpuNTd5SUtkZ2NwZzQ4TkxQU183ZGUybElYNnVSWWFycVpzcmZHOWxCMDFsd1RIczk0T1JpbW5EaGJtT2JMWHhra1ZaMF9ZMFlSREFrM1hfb3NEODBxbFVzNDVtQXdYbzQ?oc=5",
-  "published": "Sat, 14 Nov 2026 10:33:19 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
   "headline": "Crude Oil Soars $3 as Hormuz Disruptions Threaten Global Supply | - Business Post Nigeria",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVzI1bFk3enZRLWZsWE0wLXFIeC12LWFfX3JxaEE1YWt5ekVJV3Y5Z2tjR2dTQjFLck1FWHl3bzZDak5rQWJZMk5yMFhlSW5tYzF3MlhJT2NvMHRkbFBWWllNb0hSNGNrb3B5VEhSSndnSm1oVHNBeXpjZ2d2akZkNGRsT2c0WGxIWjFodzJjTXNlRTNxYllEMHB0SQ?oc=5",
   "published": "Fri, 13 Nov 2026 04:53:40 GMT",
@@ -107,17 +96,6 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Indonesia Nickel, Congo Cobalt Quotas Reset Battery Supply - Environment+Energy Leader",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUZ5M05hYkVEV1JxdGxqYVVtMFNwX0hVV1RZQ3ozSk5iVk45dkN5ZDkxUVhnZmlnZzF3RktkNF9HOC1sdkZHRllLa21ZNlY3M29GalNXMWFEbGZKM0FJdHphMC1Gc1k1OU04dVg4UVc5OG9PQXFlYV8yeDVEQVR3SENiYjBRNEhpQlhhcDVWOFluTjVqcFk5Ykhob3c4WGEzSFBVWXNoNkJnRHk3OWwxTnFB?oc=5",
-  "published": "Fri, 06 Nov 2026 13:00:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {
