@@ -21,14 +21,14 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_8 corroborating headline(s):_
-- [Oil Prices Rise $1/Barrel As Disruptions Continue in Strait of Hormuz - Marine News Magazine](https://news.google.com/rss/articles/CBMifkFVX3lxTE95RXFDc1JpeDBTa3BEcDJmWDNTdkRrRzJ6ZGxFUmhRakVGVTNFclIxWkZkVWs0eGR1aGM3RFJ6eXpiYTR4RlhXN1ZuRGpuMVBzLU5ldmVLRFV1RWM2MkQ3QkVSLWYzQWpWUWNkQnpScDVFT3l0ZTRvTnZ2MHBCZw?oc=5)
+_4 corroborating headline(s):_
+- [Brent Falls To US$92 Despite Continued Tanker Attacks In Strait Of Hormuz - BusinessToday Malaysia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd29ta3pZMVBuSk5mWTJ1TGl3UGh0ZlB2MGRRSE4wVFpMTnVfQmp5YTFjUDdqVjktMGtPVTlpbGNyenRfZmZzSFRIR0VMUExJQTlGTnNhNTB3a2ZDeE9TWl9RV3R6aXphN2xlVlh0X2NFeGIzZzJna3dJdHdTa1FWOEZtSHpVY01pQmhlYVNfNTlOakZKZ1poMXBhTFprbUpvNlhZWEdLOEpJbW5mU2RKZVBjeWt6WlNU?oc=5)
 - [OPEC+ Production Gains Momentum, While Hormuz Shipping Risks Keep Oil Markets Cautious - ChemAnalyst](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFdxalJvZnpiM3VUUXZXd1RwSmlYU0dWMG5YOEpBams1dnhtRWg2X3NuWVlxREZSTEpyS1VyaGJlMjJva0RqSF93ejBrZXpDWXdGRGwwRkpBVDRsSDRyNG1Oa3N3RTgyeFlkV0Z2dHNuaW8xX2RrT0l1Zk1OLW1LRFg4SUhab0RTN0h3SnBJQW1sRlpDQmJWM0RyNWl4Z3NFQ0dENTlOSExSelZleEN1aFN5RXk1cnh2bTF5NTNmUWZiZEJ0STM1SHRSbU05ejQ?oc=5)
-- [Oil prices rise amid tanker attacks in Strait of Hormuz - Anadolu Ajansı](https://news.google.com/rss/articles/CBMingFBVV95cUxNal9fQlN3Vlp6QU5la3pxQ1kyYS12bHhsQTQxT2ZkRVgwR05oTDJrcnF1T1Y3bm1XQmZ5VmFwQmpfTVVIaWMwamNRWFlib21GTnlocXJKNDhwaF93b044dW9iR1RiSkhYSVdmRnNVREc0eURpb1NCUEtrNWFWZVZvaS10RVJKZEo5TUFpcERlSTVkeS02SWxYc1BJOXF1QdIBpgFBVV95cUxQOUZMaTFWZVB1NzgzUEY3M1NNejRIbnRURk03amRtRjNhb1JvS0NMTV9GSEVkSE1zbnpaVHpJYzYyanhLeWI5LVF2T2RGSktQWDZBdEZ1OV9HWmVBWGlVOHpzOHUxbVZ2WWI2ZE5IckhPaUwzWFM1WnFaWHZ6UHVNS1VJNUQxRnJkc0h3azRLZzBnNzRWVzlrMWFRbFBHcTdmMDFSYkdB?oc=5)
-- …and 5 more
+- [Iran’s Revolutionary Guard says 2 oil tankers exploded in Strait of Hormuz - Anadolu Ajansı](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVgwWmJmMmVXVk9pdVQ3Ymp2SHdjcEM1RjkwQVBVMktna003X3g1Tkl1Uy1uSGd2b2VLcE9ZZ3Z6ZFBSM3NWVk5xZFNZWHAwMFFOaDVZVXJEdFVFOF8xWWZnczY0dUNFbDFNSTVBOUYzRS1BX0htamRoSFEwcERoRGNQa0JyVzUxSElEN3YwendUN3JsSDMzLWllZkI4bll3ZjdQc2hmY1RVYmd6VzBINVpTUlkyQ28?oc=5)
+- …and 1 more
 
-## SovEcon cuts Russian wheat export forecast to 36 million tonnes - Miller Magazine
-*Tue, 10 Nov 2026 11:49:59 GMT* — [source](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWJNdU5kUjg2QjRsSGNhb3hEaWJTMjluV3NkUjJRRnJzUkRPRENVMEZPWmU4WHVhUDh2bW5pa2s2RW1hU3d5MjU3VGdHa25jdEIyQjVIOGxmSG4tUE81SXhpYWVRVHBLVTNWWGVkamp5QnA3ZWtNUTIxbGNIZW1TTVROMVRXR2hBSGtEWUlLSm1BMWlNMnExcW13ZERaTHRvTmc?oc=5)
+## Russia turns to giant plastic bags to store unexported grain as Black Sea trade stalls - Reuters
+*Wed, 11 Nov 2026 12:27:43 GMT* — [source](https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTU3YzRMbmlsWjNDNXFhV1FXUW5YUFZRd1dfcERWVjB6NjNMZmxwak5QbjN0WUsyVGI1dVp5MzY4RVJoZWJCNFlVeF84NnFlcEZEUzRXSjUwZWJBN0R6X3Z6NzNOcFFoLTFDeGpQYUZlbW5yMThUeWdIeXVyT3g0b21fLWJ6ZWtTaUw5cW9rdzNFN2hjMmdIbk9uRDFwVkh0OHNQVk5jTW9vdjZUVDZRejZCSkxvSGpucEg3akJWWQ?oc=5)
 Rule: wheat / Russia / severity prior +15%
 
 ```
@@ -36,6 +36,26 @@ CROSS-COMMODITY RIPPLE — Russia wheat -15% (prior)
 commodity    channel       via                          price Δ
 ----------------------------------------------------------------
 wheat        direct        Russia                           +6%  [+3..+13%]
+
+One first-order round through data/seed/linkages.yaml (byproduct /
+substitution / input-cost); couplings are disputable seed-estimates.
+[..] = the same shock across the seeded elasticity RANGES — when the
+band is wide, the elasticities are doing the work, not the event.
+```
+
+_2 corroborating headline(s):_
+- [Wheat Market Update: Russian Export Weakness vs. Firm EU and Domestic Prices - CMB News](https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm53OWRaSDJZTzhZR256MEJMTy1ydUdjMS1mY0xaZGpId282UEkzazBwWlpORHZETS1WR09mcm1xN3U1UFdyVHk2LWV6ZlJINE1iby1jaFN4aHJsMUc5ZXZvd3o0MDFGd3FWUzFGWldOUkpEcW45akx0Z002ejVCZ3N4VDFPYkNXejV6S1lUOUJBNFAyOWdMRQ?oc=5)
+- [SovEcon cuts Russian wheat export forecast to 36 million tonnes - Miller Magazine](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWJNdU5kUjg2QjRsSGNhb3hEaWJTMjluV3NkUjJRRnJzUkRPRENVMEZPWmU4WHVhUDh2bW5pa2s2RW1hU3d5MjU3VGdHa25jdEIyQjVIOGxmSG4tUE81SXhpYWVRVHBLVTNWWGVkamp5QnA3ZWtNUTIxbGNIZW1TTVROMVRXR2hBSGtEWUlLSm1BMWlNMnExcW13ZERaTHRvTmc?oc=5)
+
+## China extends rare earth and battery export control pause to 2027 - Benchmark Mineral Intelligence
+*Tue, 10 Nov 2026 00:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZiRDBZOFJpUzJoZC1sdWZkT0xwVC0xb21LcVlIZzBEeXdNZ1FQdUtCWTYtNUk4ZHFQXzVMY3JTWXk0eGREZW4yQVVhcFlzV2tLamN4dG5fR1VSNGFRa19wMjBWYkpObjU2a1BMTmZCczgxaTB0SWpqbUdFaXVMNGtJQlRmdmZPTFY5NUdPOTdRX2xZZ1RaS0RWX2twRmJ4SzBfWldreWJraFZPQ3YwYnZtZ2RoQllU?oc=5)
+Rule: rare-earths / China / severity prior +25%
+
+```
+CROSS-COMMODITY RIPPLE — China rare-earths -25% (prior)
+commodity    channel       via                          price Δ
+----------------------------------------------------------------
+rare-earths  direct        China                          +114%
 
 One first-order round through data/seed/linkages.yaml (byproduct /
 substitution / input-cost); couplings are disputable seed-estimates.
