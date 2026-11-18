@@ -1,0 +1,57 @@
+[
+ {
+  "headline": "Iraq's Oil Production Soars to 2019 High as Hormuz Flows Surge - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQURwY3FzVFZNd1NiSW1RU2xLYUVVWTN1S2NiV1ZncjhTbzNzQ2FGc3VZd0FuSVZMeHNOeWdvODZsc0hfeXNTbFlJVWhQTTJoMkFYNnBrTzEzeEx2YWVSejBWTVR5STVWSjVYTTZpemVfVTVSQ1luZFY5dHdpVzA3aUFzOWtyOUJsRHhLbXBnTUFXdmh4czNneENBUnQzTXBla0VXSi1qVUJBT2tfWHhWeGhZRlBBSWs30gG-AUFVX3lxTFAtNHQybHU5cVRXYklSMi1waTU0N3VSTVhXZllnZ2Vtamdmd1g0UkZmQU9KWmdLRFp6MDUzTkpCUEFYSm5sUkx2bXYyY19YTVpON1o2RnhUdTNOWGVjVUhyQTEwRlZKcjdSZmFIeHhwZF9BRVRkbUJ0MVlvNDM3T1czWDJZZ2ZadTc3dVRMNkwwUjlWVmUwY05xb0t5WnExd3F2ZUVUSkpJNEszaWlMNnA3c1doazMzQlNOTHVxYVE?oc=5",
+  "published": "Fri, 13 Nov 2026 17:30:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "OPEC+ Production Gains Momentum, While Hormuz Shipping Risks Keep Oil Markets Cautious - ChemAnalyst",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFdxalJvZnpiM3VUUXZXd1RwSmlYU0dWMG5YOEpBams1dnhtRWg2X3NuWVlxREZSTEpyS1VyaGJlMjJva0RqSF93ejBrZXpDWXdGRGwwRkpBVDRsSDRyNG1Oa3N3RTgyeFlkV0Z2dHNuaW8xX2RrT0l1Zk1OLW1LRFg4SUhab0RTN0h3SnBJQW1sRlpDQmJWM0RyNWl4Z3NFQ0dENTlOSExSelZleEN1aFN5RXk1cnh2bTF5NTNmUWZiZEJ0STM1SHRSbU05ejQ?oc=5",
+  "published": "Fri, 13 Nov 2026 15:21:11 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "On Monday in Oil and Gas, Federal Hormuz Data Lands as Two Acquisitions Are Announced - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVzdHSFVQR2VQN1VMejhyVWl5UE8wNFFrMXBJdzQ0QkowZVlBLXhrdm1hQ0xTdlJJRjJiM0NEWTh5bnZQLTloaThva0hfaUdpZVQyUUJpRHBOeVAxWG1IQ3p1WE43VlpMdkw3ZnU4U1hwLXRiSmZ4QXh5VmFWZEpMZmtjNGpIUGg4dGRNQ2VXZzJTRWxOTDVUNFB4M1djVVhNYklBVmx1LUtwbS13RGR3V2J0ME5YNjVsUkExU1lyamVYbnFrZEpsTG9HSVo5TGxwTlEzTmR4NzZaR2t1Nnc?oc=5",
+  "published": "Mon, 16 Nov 2026 22:05:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Wheat Market Update: Russian Export Weakness vs. Firm EU and Domestic Prices - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm53OWRaSDJZTzhZR256MEJMTy1ydUdjMS1mY0xaZGpId282UEkzazBwWlpORHZETS1WR09mcm1xN3U1UFdyVHk2LWV6ZlJINE1iby1jaFN4aHJsMUc5ZXZvd3o0MDFGd3FWUzFGWldOUkpEcW45akx0Z002ejVCZ3N4VDFPYkNXejV6S1lUOUJBNFAyOWdMRQ?oc=5",
+  "published": "Tue, 17 Nov 2026 07:36:21 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "China extends rare earth and battery export control pause to 2027 - Benchmark Mineral Intelligence",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZiRDBZOFJpUzJoZC1sdWZkT0xwVC0xb21LcVlIZzBEeXdNZ1FQdUtCWTYtNUk4ZHFQXzVMY3JTWXk0eGREZW4yQVVhcFlzV2tLamN4dG5fR1VSNGFRa19wMjBWYkpObjU2a1BMTmZCczgxaTB0SWpqbUdFaXVMNGtJQlRmdmZPTFY5NUdPOTdRX2xZZ1RaS0RWX2twRmJ4SzBfWldreWJraFZPQ3YwYnZtZ2RoQllU?oc=5",
+  "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+  "rule_note": "",
+  "commodity": "rare-earths",
+  "country": "China",
+  "severity": 0.25,
+  "rule_id": "china-ree",
+  "source": "keyword-rule"
+ }
+]

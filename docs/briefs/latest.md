@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-11-17
+# News-driven model brief — 2026-11-18
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
@@ -21,11 +21,9 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_4 corroborating headline(s):_
+_2 corroborating headline(s):_
 - [OPEC+ Production Gains Momentum, While Hormuz Shipping Risks Keep Oil Markets Cautious - ChemAnalyst](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFdxalJvZnpiM3VUUXZXd1RwSmlYU0dWMG5YOEpBams1dnhtRWg2X3NuWVlxREZSTEpyS1VyaGJlMjJva0RqSF93ejBrZXpDWXdGRGwwRkpBVDRsSDRyNG1Oa3N3RTgyeFlkV0Z2dHNuaW8xX2RrT0l1Zk1OLW1LRFg4SUhab0RTN0h3SnBJQW1sRlpDQmJWM0RyNWl4Z3NFQ0dENTlOSExSelZleEN1aFN5RXk1cnh2bTF5NTNmUWZiZEJ0STM1SHRSbU05ejQ?oc=5)
 - [On Monday in Oil and Gas, Federal Hormuz Data Lands as Two Acquisitions Are Announced - TradingView](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVzdHSFVQR2VQN1VMejhyVWl5UE8wNFFrMXBJdzQ0QkowZVlBLXhrdm1hQ0xTdlJJRjJiM0NEWTh5bnZQLTloaThva0hfaUdpZVQyUUJpRHBOeVAxWG1IQ3p1WE43VlpMdkw3ZnU4U1hwLXRiSmZ4QXh5VmFWZEpMZmtjNGpIUGg4dGRNQ2VXZzJTRWxOTDVUNFB4M1djVVhNYklBVmx1LUtwbS13RGR3V2J0ME5YNjVsUkExU1lyamVYbnFrZEpsTG9HSVo5TGxwTlEzTmR4NzZaR2t1Nnc?oc=5)
-- [Iran’s Revolutionary Guard says 2 oil tankers exploded in Strait of Hormuz - Anadolu Ajansı](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVgwWmJmMmVXVk9pdVQ3Ymp2SHdjcEM1RjkwQVBVMktna003X3g1Tkl1Uy1uSGd2b2VLcE9ZZ3Z6ZFBSM3NWVk5xZFNZWHAwMFFOaDVZVXJEdFVFOF8xWWZnczY0dUNFbDFNSTVBOUYzRS1BX0htamRoSFEwcERoRGNQa0JyVzUxSElEN3YwendUN3JsSDMzLWllZkI4bll3ZjdQc2hmY1RVYmd6VzBINVpTUlkyQ28?oc=5)
-- …and 1 more
 
 ## Wheat Market Update: Russian Export Weakness vs. Firm EU and Domestic Prices - CMB News
 *Tue, 17 Nov 2026 07:36:21 GMT* — [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm53OWRaSDJZTzhZR256MEJMTy1ydUdjMS1mY0xaZGpId282UEkzazBwWlpORHZETS1WR09mcm1xN3U1UFdyVHk2LWV6ZlJINE1iby1jaFN4aHJsMUc5ZXZvd3o0MDFGd3FWUzFGWldOUkpEcW45akx0Z002ejVCZ3N4VDFPYkNXejV6S1lUOUJBNFAyOWdMRQ?oc=5)
