@@ -5,7 +5,7 @@ impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
 ## IEA says $40bn spent on pipelines will not end Gulf’s Strait of Hormuz dependence - The National
-*Thu, 19 Nov 2026 09:33:45 GMT* — [source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzNXZ2V6QUJpckdyaFJwcWJaQk9uVUh6TXBPaVp6NkdtSWpELXRRWTlQRlJ6d1hoRnBFTlZSekNMa0ttM1VZSDNHZzNuQjktSWNhc2pTN1hKZFhmN1BEbFphUVBCVmdxYVlDd2xqaU42dlE4RVh5QWNydlg2NER6QWxqdF90cWdqeFIwb1VycnEwMDQ4cldFaFZ4Zm9DY1VzanZ4TGNJTzVaN01RU2JvczRaSDktNG9PdnVweUJVVHY2bDlUX2Y3Rg?oc=5)
+*Thu, 19 Nov 2026 09:36:51 GMT* — [source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzNXZ2V6QUJpckdyaFJwcWJaQk9uVUh6TXBPaVp6NkdtSWpELXRRWTlQRlJ6d1hoRnBFTlZSekNMa0ttM1VZSDNHZzNuQjktSWNhc2pTN1hKZFhmN1BEbFphUVBCVmdxYVlDd2xqaU42dlE4RVh5QWNydlg2NER6QWxqdF90cWdqeFIwb1VycnEwMDQ4cldFaFZ4Zm9DY1VzanZ4TGNJTzVaN01RU2JvczRaSDktNG9PdnVweUJVVHY2bDlUX2Y3Rg?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
