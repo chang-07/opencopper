@@ -1,8 +1,19 @@
 [
  {
-  "headline": "IEA says $40bn spent on pipelines will not end Gulf\u2019s Strait of Hormuz dependence - The National",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzNXZ2V6QUJpckdyaFJwcWJaQk9uVUh6TXBPaVp6NkdtSWpELXRRWTlQRlJ6d1hoRnBFTlZSekNMa0ttM1VZSDNHZzNuQjktSWNhc2pTN1hKZFhmN1BEbFphUVBCVmdxYVlDd2xqaU42dlE4RVh5QWNydlg2NER6QWxqdF90cWdqeFIwb1VycnEwMDQ4cldFaFZ4Zm9DY1VzanZ4TGNJTzVaN01RU2JvczRaSDktNG9PdnVweUJVVHY2bDlUX2Y3Rg?oc=5",
-  "published": "Thu, 19 Nov 2026 09:36:51 GMT",
+  "headline": "OPEC+ Output Hike and Hormuz Reopening: Crude Oil Market Impact \u2014 CMB News - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnFJSm95NEVPclA5b3BGQ2RINFRIZk1sT0pkNVRZNU1XNkxvczVQcHR1UFRsbnUxbHJrRkpzckFUSE1GRTV0TWxhZFZvNGc4Y3pQNnVpdC1XenUtbmsyTzAwUHJQUEZhbDFrNk1CMFZHODNQSndfLW1Pa3hWNnAtZkduaUtzb1ZHcFlwWUhpN0tPcXFUSHVFUQ?oc=5",
+  "published": "Fri, 20 Nov 2026 07:45:08 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "IEA explores several energy scenarios after the Strait of Hormuz supply shock - energynews.pro",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWhXNkk3RHdfM1kwYlZfYnhRSmdSWHZOb3hOdktTSmxZN2o3Z3VKbldyeHlUaGhCaktaWHB0UEdkQ0d1NURPem1tVjd2aWVvN3M1bEs3V2wweUpZSHhSZnVKX2d2M1I0WjZ1MUZqaHNtTkJ6WXIyOGF3MVlERUNBWE1ST0xhbXVfNWhUUnZLeG5fS3VRN3BqUGFpX1otMlRIQUV4VFBB?oc=5",
+  "published": "Thu, 19 Nov 2026 18:39:38 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -14,6 +25,17 @@
   "headline": "Oil Prices with Hormuz Tensions and Rising Supply - Inspenet",
   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WOFdBdVotOWwxcHhXT1o1UmxHOUhBek1vUWVwRnZIbXR3c2l6bE9Kc3d1dmc5SkFGRXBFVE95bW9WYW8talpUUmlYV21OT0xRSVZzeDlXcUlNaXJSX3pIVFlnLUtOU1VCOWgxa21B?oc=5",
   "published": "Tue, 17 Nov 2026 19:28:22 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "IEA says $40bn spent on pipelines will not end Gulf\u2019s Strait of Hormuz dependence - The National",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzNXZ2V6QUJpckdyaFJwcWJaQk9uVUh6TXBPaVp6NkdtSWpELXRRWTlQRlJ6d1hoRnBFTlZSekNMa0ttM1VZSDNHZzNuQjktSWNhc2pTN1hKZFhmN1BEbFphUVBCVmdxYVlDd2xqaU42dlE4RVh5QWNydlg2NER6QWxqdF90cWdqeFIwb1VycnEwMDQ4cldFaFZ4Zm9DY1VzanZ4TGNJTzVaN01RU2JvczRaSDktNG9PdnVweUJVVHY2bDlUX2Y3Rg?oc=5",
+  "published": "Thu, 19 Nov 2026 09:36:51 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -52,17 +74,6 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Wheat Market Update: Russian Export Weakness vs. Firm EU and Domestic Prices - CMB News",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm53OWRaSDJZTzhZR256MEJMTy1ydUdjMS1mY0xaZGpId282UEkzazBwWlpORHZETS1WR09mcm1xN3U1UFdyVHk2LWV6ZlJINE1iby1jaFN4aHJsMUc5ZXZvd3o0MDFGd3FWUzFGWldOUkpEcW45akx0Z002ejVCZ3N4VDFPYkNXejV6S1lUOUJBNFAyOWdMRQ?oc=5",
-  "published": "Tue, 17 Nov 2026 07:36:21 GMT",
-  "rule_note": "",
-  "commodity": "wheat",
-  "country": "Russia",
-  "severity": 0.15,
-  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  },
  {
