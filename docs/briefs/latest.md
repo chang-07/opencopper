@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-11-19
+# News-driven model brief — 2026-11-20
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
@@ -22,8 +22,8 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _4 corroborating headline(s):_
-- [Shafaq News..IEA: Hormuz disruptions cut oil supply by 2.8bn barrels - شفق نيوز](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTJhUUZuLUVwSUVhQXA1NnJtdTBoZU5aallvMUdjN1hIMFQ5aXlIdk96VTh5bFpDWVFLMFU3cGxrZjh0Rm5zWjJmVFZlbkFUY1pQUDZwdlVlOWpyUC0zOTR5UVFrbW1SRmplNjVFZlk3R09vYk9rZ01IZzdrY0plY0FwVHhuRE9nVEZUaA?oc=5)
 - [Oil Prices with Hormuz Tensions and Rising Supply - Inspenet](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WOFdBdVotOWwxcHhXT1o1UmxHOUhBek1vUWVwRnZIbXR3c2l6bE9Kc3d1dmc5SkFGRXBFVE95bW9WYW8talpUUmlYV21OT0xRSVZzeDlXcUlNaXJSX3pIVFlnLUtOU1VCOWgxa21B?oc=5)
+- [Shafaq News..IEA: Hormuz disruptions cut oil supply by 2.8bn barrels - شفق نيوز](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTJhUUZuLUVwSUVhQXA1NnJtdTBoZU5aallvMUdjN1hIMFQ5aXlIdk96VTh5bFpDWVFLMFU3cGxrZjh0Rm5zWjJmVFZlbkFUY1pQUDZwdlVlOWpyUC0zOTR5UVFrbW1SRmplNjVFZlk3R09vYk9rZ01IZzdrY0plY0FwVHhuRE9nVEZUaA?oc=5)
 - [On Monday in Oil and Gas, Federal Hormuz Data Lands as Two Acquisitions Are Announced - TradingView](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVzdHSFVQR2VQN1VMejhyVWl5UE8wNFFrMXBJdzQ0QkowZVlBLXhrdm1hQ0xTdlJJRjJiM0NEWTh5bnZQLTloaThva0hfaUdpZVQyUUJpRHBOeVAxWG1IQ3p1WE43VlpMdkw3ZnU4U1hwLXRiSmZ4QXh5VmFWZEpMZmtjNGpIUGg4dGRNQ2VXZzJTRWxOTDVUNFB4M1djVVhNYklBVmx1LUtwbS13RGR3V2J0ME5YNjVsUkExU1lyamVYbnFrZEpsTG9HSVo5TGxwTlEzTmR4NzZaR2t1Nnc?oc=5)
 - …and 1 more
 
