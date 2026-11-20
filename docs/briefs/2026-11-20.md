@@ -4,8 +4,8 @@ Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
-## OPEC+ Output Hike and Hormuz Reopening: Crude Oil Market Impact — CMB News - CMB News
-*Fri, 20 Nov 2026 07:45:08 GMT* — [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnFJSm95NEVPclA5b3BGQ2RINFRIZk1sT0pkNVRZNU1XNkxvczVQcHR1UFRsbnUxbHJrRkpzckFUSE1GRTV0TWxhZFZvNGc4Y3pQNnVpdC1XenUtbmsyTzAwUHJQUEZhbDFrNk1CMFZHODNQSndfLW1Pa3hWNnAtZkduaUtzb1ZHcFlwWUhpN0tPcXFUSHVFUQ?oc=5)
+## Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com
+*Fri, 20 Nov 2026 11:54:11 GMT* — [source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_6 corroborating headline(s):_
-- [IEA explores several energy scenarios after the Strait of Hormuz supply shock - energynews.pro](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWhXNkk3RHdfM1kwYlZfYnhRSmdSWHZOb3hOdktTSmxZN2o3Z3VKbldyeHlUaGhCaktaWHB0UEdkQ0d1NURPem1tVjd2aWVvN3M1bEs3V2wweUpZSHhSZnVKX2d2M1I0WjZ1MUZqaHNtTkJ6WXIyOGF3MVlERUNBWE1ST0xhbXVfNWhUUnZLeG5fS3VRN3BqUGFpX1otMlRIQUV4VFBB?oc=5)
+_10 corroborating headline(s):_
+- [Iraq's Oil Production Soars to 2019 High as Hormuz Flows Surge - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQURwY3FzVFZNd1NiSW1RU2xLYUVVWTN1S2NiV1ZncjhTbzNzQ2FGc3VZd0FuSVZMeHNOeWdvODZsc0hfeXNTbFlJVWhQTTJoMkFYNnBrTzEzeEx2YWVSejBWTVR5STVWSjVYTTZpemVfVTVSQ1luZFY5dHdpVzA3aUFzOWtyOUJsRHhLbXBnTUFXdmh4czNneENBUnQzTXBla0VXSi1qVUJBT2tfWHhWeGhZRlBBSWs30gG-AUFVX3lxTFAtNHQybHU5cVRXYklSMi1waTU0N3VSTVhXZllnZ2Vtamdmd1g0UkZmQU9KWmdLRFp6MDUzTkpCUEFYSm5sUkx2bXYyY19YTVpON1o2RnhUdTNOWGVjVUhyQTEwRlZKcjdSZmFIeHhwZF9BRVRkbUJ0MVlvNDM3T1czWDJZZ2ZadTc3dVRMNkwwUjlWVmUwY05xb0t5WnExd3F2ZUVUSkpJNEszaWlMNnA3c1doazMzQlNOTHVxYVE?oc=5)
+- [OPEC+ Output Hike and Hormuz Reopening: Crude Oil Market Impact — CMB News - CMB News](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnFJSm95NEVPclA5b3BGQ2RINFRIZk1sT0pkNVRZNU1XNkxvczVQcHR1UFRsbnUxbHJrRkpzckFUSE1GRTV0TWxhZFZvNGc4Y3pQNnVpdC1XenUtbmsyTzAwUHJQUEZhbDFrNk1CMFZHODNQSndfLW1Pa3hWNnAtZkduaUtzb1ZHcFlwWUhpN0tPcXFUSHVFUQ?oc=5)
 - [Oil Prices with Hormuz Tensions and Rising Supply - Inspenet](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WOFdBdVotOWwxcHhXT1o1UmxHOUhBek1vUWVwRnZIbXR3c2l6bE9Kc3d1dmc5SkFGRXBFVE95bW9WYW8talpUUmlYV21OT0xRSVZzeDlXcUlNaXJSX3pIVFlnLUtOU1VCOWgxa21B?oc=5)
-- [IEA says $40bn spent on pipelines will not end Gulf’s Strait of Hormuz dependence - The National](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzNXZ2V6QUJpckdyaFJwcWJaQk9uVUh6TXBPaVp6NkdtSWpELXRRWTlQRlJ6d1hoRnBFTlZSekNMa0ttM1VZSDNHZzNuQjktSWNhc2pTN1hKZFhmN1BEbFphUVBCVmdxYVlDd2xqaU42dlE4RVh5QWNydlg2NER6QWxqdF90cWdqeFIwb1VycnEwMDQ4cldFaFZ4Zm9DY1VzanZ4TGNJTzVaN01RU2JvczRaSDktNG9PdnVweUJVVHY2bDlUX2Y3Rg?oc=5)
-- …and 3 more
+- …and 7 more
 
 ## China extends rare earth and battery export control pause to 2027 - Benchmark Mineral Intelligence
 *Tue, 10 Nov 2026 08:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZiRDBZOFJpUzJoZC1sdWZkT0xwVC0xb21LcVlIZzBEeXdNZ1FQdUtCWTYtNUk4ZHFQXzVMY3JTWXk0eGREZW4yQVVhcFlzV2tLamN4dG5fR1VSNGFRa19wMjBWYkpObjU2a1BMTmZCczgxaTB0SWpqbUdFaXVMNGtJQlRmdmZPTFY5NUdPOTdRX2xZZ1RaS0RWX2twRmJ4SzBfWldreWJraFZPQ3YwYnZtZ2RoQllU?oc=5)
