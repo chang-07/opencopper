@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "OPEC+ Output Hike and Hormuz Reopening: Crude Oil Market Impact \u2014 CMB News - CMB News",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnFJSm95NEVPclA5b3BGQ2RINFRIZk1sT0pkNVRZNU1XNkxvczVQcHR1UFRsbnUxbHJrRkpzckFUSE1GRTV0TWxhZFZvNGc4Y3pQNnVpdC1XenUtbmsyTzAwUHJQUEZhbDFrNk1CMFZHODNQSndfLW1Pa3hWNnAtZkduaUtzb1ZHcFlwWUhpN0tPcXFUSHVFUQ?oc=5",
-  "published": "Fri, 20 Nov 2026 07:45:08 GMT",
+  "headline": "IEA explores several energy scenarios after the Strait of Hormuz supply shock - energynews.pro",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWhXNkk3RHdfM1kwYlZfYnhRSmdSWHZOb3hOdktTSmxZN2o3Z3VKbldyeHlUaGhCaktaWHB0UEdkQ0d1NURPem1tVjd2aWVvN3M1bEs3V2wweUpZSHhSZnVKX2d2M1I0WjZ1MUZqaHNtTkJ6WXIyOGF3MVlERUNBWE1ST0xhbXVfNWhUUnZLeG5fS3VRN3BqUGFpX1otMlRIQUV4VFBB?oc=5",
+  "published": "Thu, 19 Nov 2026 18:39:38 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -33,9 +33,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "IEA explores several energy scenarios after the Strait of Hormuz supply shock - energynews.pro",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWhXNkk3RHdfM1kwYlZfYnhRSmdSWHZOb3hOdktTSmxZN2o3Z3VKbldyeHlUaGhCaktaWHB0UEdkQ0d1NURPem1tVjd2aWVvN3M1bEs3V2wweUpZSHhSZnVKX2d2M1I0WjZ1MUZqaHNtTkJ6WXIyOGF3MVlERUNBWE1ST0xhbXVfNWhUUnZLeG5fS3VRN3BqUGFpX1otMlRIQUV4VFBB?oc=5",
-  "published": "Thu, 19 Nov 2026 18:39:38 GMT",
+  "headline": "Shafaq News..IEA: Hormuz disruptions cut oil supply by 2.8bn barrels - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTJhUUZuLUVwSUVhQXA1NnJtdTBoZU5aallvMUdjN1hIMFQ5aXlIdk96VTh5bFpDWVFLMFU3cGxrZjh0Rm5zWjJmVFZlbkFUY1pQUDZwdlVlOWpyUC0zOTR5UVFrbW1SRmplNjVFZlk3R09vYk9rZ01IZzdrY0plY0FwVHhuRE9nVEZUaA?oc=5",
+  "published": "Thu, 19 Nov 2026 07:24:39 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -44,9 +44,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Shafaq News..IEA: Hormuz disruptions cut oil supply by 2.8bn barrels - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTJhUUZuLUVwSUVhQXA1NnJtdTBoZU5aallvMUdjN1hIMFQ5aXlIdk96VTh5bFpDWVFLMFU3cGxrZjh0Rm5zWjJmVFZlbkFUY1pQUDZwdlVlOWpyUC0zOTR5UVFrbW1SRmplNjVFZlk3R09vYk9rZ01IZzdrY0plY0FwVHhuRE9nVEZUaA?oc=5",
-  "published": "Thu, 19 Nov 2026 07:24:39 GMT",
+  "headline": "OPEC+ Output Hike and Hormuz Reopening: Crude Oil Market Impact \u2014 CMB News - CMB News",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnFJSm95NEVPclA5b3BGQ2RINFRIZk1sT0pkNVRZNU1XNkxvczVQcHR1UFRsbnUxbHJrRkpzckFUSE1GRTV0TWxhZFZvNGc4Y3pQNnVpdC1XenUtbmsyTzAwUHJQUEZhbDFrNk1CMFZHODNQSndfLW1Pa3hWNnAtZkduaUtzb1ZHcFlwWUhpN0tPcXFUSHVFUQ?oc=5",
+  "published": "Fri, 20 Nov 2026 07:45:08 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -63,6 +63,28 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Oil Prices Fall Over 2% as Hormuz Supply Flows Recover - Business Post Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFFsTEp4anducklFZlRhdlFtNmdUWEhxTmlEMmxGeURaM2Y2cElVcVNKc2Nob2h3ZFJLY1hKNmgxVlNmS1UzOFVFTkt6NFJ4RkktQmRzeUxtM19zNWZ6UDZUeXlIOU5fb25iYlNzcjRhcS0yZHd1MS05SkdnclNvQmdtbDBUQy1rak15Y3p4RQ?oc=5",
+  "published": "Tue, 17 Nov 2026 05:08:17 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian Grain Export Capacity From Baltic Sea, Arctic Ports Quadruples - Maritime Logistics News",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1JDbnNEamVzWmxmd0Ntb3E1SnhuQWNyUDlXc1pfNjN3WnBFWEtUM1g1X2xaRVQzQWYwNjNGTnN6ZUpMblRrdDhZZ3Jmd09DRVdXajRlOU95dHFVUUdZYWVTZUJtVlY2QjRpWEU5ZEl5OGM3OXhnZ0hIUlkzbVNKc25lRXhfaG83WVVF?oc=5",
+  "published": "Thu, 19 Nov 2026 18:52:09 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  },
  {
