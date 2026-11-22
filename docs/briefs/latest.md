@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_7 corroborating headline(s):_
+_8 corroborating headline(s):_
 - [How Much Oil Passes Through the Strait of Hormuz? | Daily, Percentage, Choke Point, & Map - Britannica](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMk00UFdrelNMT3hicHdxOUthX0J3T1dtTTFOMmk1ZW5XSEN3a1JuRWhpcUkyMWY4SDc2LW53MnFidjJqRjZuUzhRdmI4WE9IdFNvRFVCcFRFUHoyVW9ycXlfejdnR2c4aWxOdWZDU0pmb2RNS1BEc01oSWRVU1M2anhVc2FSOWpI?oc=5)
 - [Oil Prices with Hormuz Tensions and Rising Supply - Inspenet](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WOFdBdVotOWwxcHhXT1o1UmxHOUhBek1vUWVwRnZIbXR3c2l6bE9Kc3d1dmc5SkFGRXBFVE95bW9WYW8talpUUmlYV21OT0xRSVZzeDlXcUlNaXJSX3pIVFlnLUtOU1VCOWgxa21B?oc=5)
 - [IEA explores several energy scenarios after the Strait of Hormuz supply shock - energynews.pro](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWhXNkk3RHdfM1kwYlZfYnhRSmdSWHZOb3hOdktTSmxZN2o3Z3VKbldyeHlUaGhCaktaWHB0UEdkQ0d1NURPem1tVjd2aWVvN3M1bEs3V2wweUpZSHhSZnVKX2d2M1I0WjZ1MUZqaHNtTkJ6WXIyOGF3MVlERUNBWE1ST0xhbXVfNWhUUnZLeG5fS3VRN3BqUGFpX1otMlRIQUV4VFBB?oc=5)
-- …and 4 more
+- …and 5 more
 
 ## China extends rare earth and battery export control pause to 2027 - Benchmark Mineral Intelligence
 *Tue, 10 Nov 2026 08:00:00 GMT* — [source](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZiRDBZOFJpUzJoZC1sdWZkT0xwVC0xb21LcVlIZzBEeXdNZ1FQdUtCWTYtNUk4ZHFQXzVMY3JTWXk0eGREZW4yQVVhcFlzV2tLamN4dG5fR1VSNGFRa19wMjBWYkpObjU2a1BMTmZCczgxaTB0SWpqbUdFaXVMNGtJQlRmdmZPTFY5NUdPOTdRX2xZZ1RaS0RWX2twRmJ4SzBfWldreWJraFZPQ3YwYnZtZ2RoQllU?oc=5)
