@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-11-22
+# News-driven model brief — 2026-11-23
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
