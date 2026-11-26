@@ -1,11 +1,11 @@
-# News-driven model brief — 2026-11-25
+# News-driven model brief — 2026-11-26
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
 ## IEA Says Hormuz Shock Could Reshape Oil Trade for Years - The Astana Times
-*Wed, 25 Nov 2026 11:44:35 GMT* — [source](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVUwX1dheDZ2dWgyZThUSmdreTZOQUdpLUp0Qm5VRDZwRXVFTngtT2JQMS1aelRHME5iY2lvcjhTallYYXNnWm1SNkpXQWdzRlRFbU5VNG5ZMWMzRzJ0WDBLTFVFVWo4Xzd0OWhKX1Ria3I3RDRSbmRzWTFxQnBjcEFMTEo3YWk0UzZxcTVWLTd6UQ?oc=5)
+*Wed, 25 Nov 2026 11:44:54 GMT* — [source](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVUwX1dheDZ2dWgyZThUSmdreTZOQUdpLUp0Qm5VRDZwRXVFTngtT2JQMS1aelRHME5iY2lvcjhTallYYXNnWm1SNkpXQWdzRlRFbU5VNG5ZMWMzRzJ0WDBLTFVFVWo4Xzd0OWhKX1Ria3I3RDRSbmRzWTFxQnBjcEFMTEo3YWk0UzZxcTVWLTd6UQ?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -23,8 +23,8 @@ band is wide, the elasticities are doing the work, not the event.
 
 _4 corroborating headline(s):_
 - [WTI Oil returns above $81.00 as attacks in the Strait of Hormuz increase - FXStreet](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXpqWGhGYW13bTRTZEhZVXZXNndCY19RRk5vb2lfNEs2c1BFZ3FsU2tsU05wUkdGZXE5ZGNlVnF5LU5mQnpaQ0owb2JWaVllbVhWMHB2LW41ZEMwQXhhN01rNmd0NGlGaU9tMzhHZ1oxaVl2bEtKejZ6YUoxaV9CRjdYbHNUSjdaOHMxTnVEdHM5amFLbjd1SVo3M2pTa1ZDVlpDRmdPUTBpalBhbGp6Y3VZNA?oc=5)
-- [Why Are Oil Prices Falling Despite Renewed Strait of Hormuz Attacks? - Coinpaper](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTI0V195QUVSMnpoR1pUUjM2X2gxcWtyUVJzNzVCMElmRU1BcWdNeEJHS2FDN0lmWVgxUHB3NmRvYVp1SmM4N0ZqUmkzRWsxeUZtOGRsa25YOFdZX3MydzZfYlMzemlyUGdfTWxuZ1JKaTE0czViUkdxUkJ2dzV0SHpqZFg3SlV2a2kxRW44bFN6S1VFMmZCZWtYdw?oc=5)
 - [The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5)
+- [Why Are Oil Prices Falling Despite Renewed Strait of Hormuz Attacks? - Coinpaper](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTI0V195QUVSMnpoR1pUUjM2X2gxcWtyUVJzNzVCMElmRU1BcWdNeEJHS2FDN0lmWVgxUHB3NmRvYVp1SmM4N0ZqUmkzRWsxeUZtOGRsa25YOFdZX3MydzZfYlMzemlyUGdfTWxuZ1JKaTE0czViUkdxUkJ2dzV0SHpqZFg3SlV2a2kxRW44bFN6S1VFMmZCZWtYdw?oc=5)
 - …and 1 more
 
 ## DRC cobalt export ban may lift prices but tests long-term market stability - S&P Global
@@ -64,9 +64,6 @@ substitution / input-cost); couplings are disputable seed-estimates.
 [..] = the same shock across the seeded elasticity RANGES — when the
 band is wide, the elasticities are doing the work, not the event.
 ```
-
-_1 corroborating headline(s):_
-- [Russian Grain Export Capacity From Baltic Sea, Arctic Ports Quadruples - Maritime Logistics News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1JDbnNEamVzWmxmd0Ntb3E1SnhuQWNyUDlXc1pfNjN3WnBFWEtUM1g1X2xaRVQzQWYwNjNGTnN6ZUpMblRrdDhZZ3Jmd09DRVdXajRlOU95dHFVUUdZYWVTZUJtVlY2QjRpWEU5ZEl5OGM3OXhnZ0hIUlkzbVNKc25lRXhfaG83WVVF0gGQAUFVX3lxTE9LWVRJMEFoNGx3dC01UGFDbHFKRFQ4WGVjd1JiNVE2T1Nobk9sdWotSWw5Mjl1M21KLXIyTWNmcTZ6MUE4YU5QSnRQVW9FVmtja2MzWEc5N0JDdWVIQW5LRHB4cEhFYnctVzB1Rl9vaFVFWnZyYmx4Q3pZZWhybWxOaVFqRXVVSldjN2lXekJQeA?oc=5)
 
 ---
 
