@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "WTI Oil returns above $81.00 as attacks in the Strait of Hormuz increase - FXStreet",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXpqWGhGYW13bTRTZEhZVXZXNndCY19RRk5vb2lfNEs2c1BFZ3FsU2tsU05wUkdGZXE5ZGNlVnF5LU5mQnpaQ0owb2JWaVllbVhWMHB2LW41ZEMwQXhhN01rNmd0NGlGaU9tMzhHZ1oxaVl2bEtKejZ6YUoxaV9CRjdYbHNUSjdaOHMxTnVEdHM5amFLbjd1SVo3M2pTa1ZDVlpDRmdPUTBpalBhbGp6Y3VZNA?oc=5",
-  "published": "Wed, 25 Nov 2026 10:39:42 GMT",
+  "headline": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
+  "published": "Sat, 21 Nov 2026 17:00:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -22,9 +22,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
-  "published": "Sat, 21 Nov 2026 17:00:00 GMT",
+  "headline": "WTI Oil returns above $81.00 as attacks in the Strait of Hormuz increase - FXStreet",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXpqWGhGYW13bTRTZEhZVXZXNndCY19RRk5vb2lfNEs2c1BFZ3FsU2tsU05wUkdGZXE5ZGNlVnF5LU5mQnpaQ0owb2JWaVllbVhWMHB2LW41ZEMwQXhhN01rNmd0NGlGaU9tMzhHZ1oxaVl2bEtKejZ6YUoxaV9CRjdYbHNUSjdaOHMxTnVEdHM5amFLbjd1SVo3M2pTa1ZDVlpDRmdPUTBpalBhbGp6Y3VZNA?oc=5",
+  "published": "Wed, 25 Nov 2026 10:39:42 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -41,17 +41,6 @@
   "country": "Saudi Arabia",
   "severity": 0.2,
   "rule_id": "hormuz",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC cobalt export ban may lift prices but tests long-term market stability - S&P Global",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenNKUHVLS3U2UkxTcmU0MEc4SHhFamp6RHFKM09xNGVYdUN0WVJEdTdIUDZIRkdGUHNkMzkwOXpDTFdORzZ6a2tpMDBoazNRYVRRbUFkR1pqX19ZX3lhMTRJTVdxbjRfUUxkZWFFNTQ1a3l2N0hEcXc1bWVraUZ3Y3NBTjJOeEhvQ2E4X0l3U0lWUmZWQ1V1ZVAyMGV3aW1VX2czNVd6T185anNsczl1UHJhNTNRNWh5U2FWQUNYMFk2dndCMGpqUUVXclQ1SWhiX1ptY3RjT1lxdXJKSXl3N3NjYw?oc=5",
-  "published": "Wed, 25 Nov 2026 06:16:31 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
   "source": "keyword-rule"
  },
  {
@@ -99,6 +88,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "DRC temporarily suspends cobalt exports - S&P Global",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQnpHSV9ueXQtdVJnRkd3Qkt1ZzVEM0VnZ2dEMk1JNUxQTWVfZExZSUZEX09nSDVSMlNzVVhOV3JGZzJsX3pMZ1hWWnhHeFVSUzdfWU1KcjJDTlBmd3pPelB3dDdUNzNRLVZBbjl0OUo3RDlQV2RHaHFsU1VSdll5ZnlNeTN5NW1TWXotMFoteUMydWlyMWp2dFpEWVdTYTltOUdQQkNfdE9zNEVQcENJNGlhazg?oc=5",
+  "published": "Tue, 24 Nov 2026 06:11:24 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "DRC Reimposes Cobalt Export Ban to Counter Price Slump - Investing News Network",
   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50MmRsSUNXdk1fVkRoQ2NUa01jbzktWFFsRmdYb3cyMHdYdEl2Q1pURWx4SmtQNTlJZ0x5MnNZY1NHeVRRWUxOVHRCMjhJZk5Ob3ZfbklSQnBfWkRyUU0tYUU0bThMd3VrTFE?oc=5",
   "published": "Tue, 24 Nov 2026 15:16:00 GMT",
@@ -132,17 +132,6 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "DR Congo revives cobalt export ban from 30 November as prices slide - DNE Africa",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05RmRGRTQ0dEU5MTNFcHRybF9hVzdBelZVamtRZ3dtTldpN0c2S3dLdnJtLWZUaUJNZzFzZWY4QXpqNkZ1RlMwNTNYV0dwOEZmU3RyLUx6ZWoyc05FeGMzNl9SLXBjdU0?oc=5",
-  "published": "Wed, 25 Nov 2026 05:06:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
   "headline": "Congo resumes cobalt export ban as prices slide - The Northern Miner",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5zbExjOGdiM0VjbFNjSHYwZlNxUHhET0NJaURERlVVUVg5MEMtc01GSlV1dXkyNW4tMXVXZVRkcEgxWTFfdWFLM3QwelNHZUhiWGNrNjlzempnQVdXYnVwbDR4YUpEZndNRW8wdGEzVjJ5ZU1PazN6MWVyS2FwRFZmYVFBeGppeDBRb21RX0Uyc3JwVGsxOG1R?oc=5",
   "published": "Mon, 23 Nov 2026 18:48:09 GMT",
@@ -165,42 +154,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Watch DRC Reinstates Cobalt Export Ban - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGUwZDZudmZ4MTB6elVnb01MUG8yVUxzVFpxY1JZY1RMYmNNUUEzZ05jNmUzZ0RIcjNOdnEtQzUxVlJqbG1sQThFa21iRUFiRW05X3FlMkpSM3RvR1liZmtkRkljVVVzNTU4alVidzNoN0xZRDYzQnJqTnlMaXQ2X1BKWUFaV1I0akkxSi10d1o?oc=5",
-  "published": "Tue, 24 Nov 2026 00:00:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC temporarily suspends cobalt exports - S&P Global",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQnpHSV9ueXQtdVJnRkd3Qkt1ZzVEM0VnZ2dEMk1JNUxQTWVfZExZSUZEX09nSDVSMlNzVVhOV3JGZzJsX3pMZ1hWWnhHeFVSUzdfWU1KcjJDTlBmd3pPelB3dDdUNzNRLVZBbjl0OUo3RDlQV2RHaHFsU1VSdll5ZnlNeTN5NW1TWXotMFoteUMydWlyMWp2dFpEWVdTYTltOUdQQkNfdE9zNEVQcENJNGlhazg?oc=5",
-  "published": "Tue, 24 Nov 2026 06:11:24 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmdoOTViOUg5Tnl1Zk4zSmY0S3poT3JobHA4UmNEZmotbEhZb2E0Vjh4c1d5NW5NTEJyMjRLNHNLYkR6SGJuTjI5TWJEVklPeUhtMDNJMjlxeExmSjBrMnRxdWRrWndJWFVvdmY5YnVaMDkxWFpEQ3dVQm9CQUZuSXNieTNDV0hHUW1McUdvcGltcDZTaDhyZHV1VVJjQzV0YnJzOUFJazdDTU1FYjdHWldzZVlWQQ?oc=5",
-  "published": "Tue, 24 Nov 2026 07:21:00 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Congo is reimposing its full ban on cobalt exports - Newsquawk",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNDAyanNjVVlFU0dPcy00Q0QxMEExSXZFSThLN2dPd0tBTjVEZXE5WWpFWjN6eDA5ZjVaWDNVSVctQzFoV3BJamxHM3AxTDNiai11Q285SmFOVG1pQ2NCZGpCNWdJcVpkLUZyUDNsWmF5VUpGaFZ4bl9OWmRmYjVvaTlXQktoMEx2RFEwLUd2UQ?oc=5",
-  "published": "Mon, 23 Nov 2026 12:22:11 GMT",
+  "headline": "DR Congo revives cobalt export ban from 30 November as prices slide - DNE Africa",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05RmRGRTQ0dEU5MTNFcHRybF9hVzdBelZVamtRZ3dtTldpN0c2S3dLdnJtLWZUaUJNZzFzZWY4QXpqNkZ1RlMwNTNYV0dwOEZmU3RyLUx6ZWoyc05FeGMzNl9SLXBjdU0?oc=5",
+  "published": "Wed, 25 Nov 2026 05:06:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -220,9 +176,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "China cobalt prices surge to three-month high as Congo bans exports - Mining.com",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTR0NmFWMDhsSnRfVUVVSG43bzFNaUUzMER5bzVYY05tVHdtUEMtV3dsN0liU0RPMmtMTjYzcXBnVmN2d21tNHc5eG1YbHZLSjBjdlBzOGE5eHhqbUR5RXU2SXhSWml1RGdpLW12UzR4RHNOOEJia1gzdW13eWtGb0JDeXc1Vzhza1lUM0ZmenlZTkdBYm1SQ1Fsdw?oc=5",
-  "published": "Wed, 25 Nov 2026 01:31:28 GMT",
+  "headline": "Congo is reimposing its full ban on cobalt exports - Newsquawk",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNDAyanNjVVlFU0dPcy00Q0QxMEExSXZFSThLN2dPd0tBTjVEZXE5WWpFWjN6eDA5ZjVaWDNVSVctQzFoV3BJamxHM3AxTDNiai11Q285SmFOVG1pQ2NCZGpCNWdJcVpkLUZyUDNsWmF5VUpGaFZ4bl9OWmRmYjVvaTlXQktoMEx2RFEwLUd2UQ?oc=5",
+  "published": "Mon, 23 Nov 2026 12:22:11 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -231,9 +187,31 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "ARECOMS again suspends all cobalt exports from the DRC - energynews.pro",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXlYUUljdDNxRTF3UUhqNmZBdEYzVXA1TzJfdndRZlhocUtraktTcUVYNkU4ZHlNajE0bzFORUo4aDdJWmwxVUxFTVBSWGs1UWhOU1kzX0Y3VHcxNTZ3alpFa1V1UmpscjRSRVdiSm4yTXlQUTdDVzVJVnpTOXlDVnBaZ2g2MDQ?oc=5",
-  "published": "Wed, 25 Nov 2026 08:18:44 GMT",
+  "headline": "Watch DRC Reinstates Cobalt Export Ban - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGUwZDZudmZ4MTB6elVnb01MUG8yVUxzVFpxY1JZY1RMYmNNUUEzZ05jNmUzZ0RIcjNOdnEtQzUxVlJqbG1sQThFa21iRUFiRW05X3FlMkpSM3RvR1liZmtkRkljVVVzNTU4alVidzNoN0xZRDYzQnJqTnlMaXQ2X1BKWUFaV1I0akkxSi10d1o?oc=5",
+  "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmdoOTViOUg5Tnl1Zk4zSmY0S3poT3JobHA4UmNEZmotbEhZb2E0Vjh4c1d5NW5NTEJyMjRLNHNLYkR6SGJuTjI5TWJEVklPeUhtMDNJMjlxeExmSjBrMnRxdWRrWndJWFVvdmY5YnVaMDkxWFpEQ3dVQm9CQUZuSXNieTNDV0hHUW1McUdvcGltcDZTaDhyZHV1VVJjQzV0YnJzOUFJazdDTU1FYjdHWldzZVlWQQ?oc=5",
+  "published": "Tue, 24 Nov 2026 07:21:00 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "China cobalt prices surge to three-month high as Congo bans exports - Mining.com",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTR0NmFWMDhsSnRfVUVVSG43bzFNaUUzMER5bzVYY05tVHdtUEMtV3dsN0liU0RPMmtMTjYzcXBnVmN2d21tNHc5eG1YbHZLSjBjdlBzOGE5eHhqbUR5RXU2SXhSWml1RGdpLW12UzR4RHNOOEJia1gzdW13eWtGb0JDeXc1Vzhza1lUM0ZmenlZTkdBYm1SQ1Fsdw?oc=5",
+  "published": "Wed, 25 Nov 2026 01:31:28 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -253,6 +231,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "DRC to reinstate cobalt export ban to counter price collapse - MiningMX",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51ZVBYM2xrdF9Fck92LXhEVFJoVF85Z0wwX3JYQjBfWnY3WVJIbzR2SmdQN2xaMFNLZ2ItbEs3cjJhaUl3VElLbGVXSzcxV0Y0TUVBQ1A3SjluSzI2d3pRVkxMVV9CZ3J2Tk5PcmtSTjVXblVUdjVWcm9UMzA?oc=5",
+  "published": "Tue, 24 Nov 2026 08:58:05 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Black Sea Attacks Threaten Ukraine Grain Exports and 2027 Crops - DTN Progressive Farmer",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTROMm0ycmxRVllqWS1vZHpwSlNLV0VFMjN6SHEyVUs3NkNJMFJ5U0s0RjlIa2U4WGhvZlBSb2o4MFBKWklSLTNvdUp6VFd6NUNxS0VoeXFMWG5OUW9SQk5BNEZpUi1NWUp4WE54SGFqWk1rYmR5MWJOZ1ZFTUFMaVoydGpfWTFreklqRWxlYzZidEc5eEUzdFVQVC1XOGkwZ2l1OVBwTExLdC1JWVdYRFN6MDlYUQ?oc=5",
   "published": "Tue, 24 Nov 2026 10:15:00 GMT",
@@ -264,14 +253,14 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Attacks on grain ships, Hormuz crisis drive hunger in Yemen and Sudan, UN food agency boss warns - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMTJ5bXNTVmIyYkJLeGpRcTZ6WVh2cmJSSlB6d1JjTUk1OGlZb1B1QjN3REdxbGJTZk9zWXUwY1hvdVFvMmJOMDlaNlduQ29HTTBTMDR1M2lPcEoxTk5EMkNRbnl6MEx2QmR1V3VSZEpmZHNCbkFPUzBrZW5MN01UbmtsSVJVQ1NtX2JoVVgyWFFiQjhyTkpXTHgxdVJSYXlpX3JlT1FDQkVJX3FpUVA3QzBWWHhQMDBSZ0cyQ3lMWk1xQzBRSUd2VlcwckdLRGlLNHoyV2cxcU4?oc=5",
-  "published": "Tue, 24 Nov 2026 12:25:34 GMT",
-  "rule_note": "transit proxy on Gulf supply",
-  "commodity": "crude-oil",
-  "country": "Saudi Arabia",
-  "severity": 0.2,
-  "rule_id": "hormuz",
+  "headline": "Russian Grain Export Capacity From Baltic Sea, Arctic Ports Quadruples - Maritime Logistics News",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1JDbnNEamVzWmxmd0Ntb3E1SnhuQWNyUDlXc1pfNjN3WnBFWEtUM1g1X2xaRVQzQWYwNjNGTnN6ZUpMblRrdDhZZ3Jmd09DRVdXajRlOU95dHFVUUdZYWVTZUJtVlY2QjRpWEU5ZEl5OGM3OXhnZ0hIUlkzbVNKc25lRXhfaG83WVVF0gGQAUFVX3lxTE9LWVRJMEFoNGx3dC01UGFDbHFKRFQ4WGVjd1JiNVE2T1Nobk9sdWotSWw5Mjl1M21KLXIyTWNmcTZ6MUE4YU5QSnRQVW9FVmtja2MzWEc5N0JDdWVIQW5LRHB4cEhFYnctVzB1Rl9vaFVFWnZyYmx4Q3pZZWhybWxOaVFqRXVVSldjN2lXekJQeA?oc=5",
+  "published": "Thu, 19 Nov 2026 18:52:09 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
   "source": "keyword-rule"
  }
 ]
