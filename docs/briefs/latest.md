@@ -1,4 +1,4 @@
-# News-driven model brief — 2026-11-26
+# News-driven model brief — 2026-11-27
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_11 corroborating headline(s):_
+_12 corroborating headline(s):_
 - [Supply fears lift global oil prices after Strait of Hormuz incidents - Baird Maritime](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMF9yaHJYdHRRcWppOUxnUzQtUVZpT2dSSWF2V24wclFENEg1anBRMEc3eWRQRFZLSDR0YmdTcUMyUWRhd3JJZDBUVkdmdXBpR1RJclg1OHRUTmpjblhZMUczbENTemVLOUFpRjEtclVzZlNrQjB4VTFFdmRtY05RaTZtQmZrN3NiUkc3VEtZWV9YWkc5MUFFX09VLWF0R3pldnZ6OTF1ZHNWaEhCZlpBMnF3U1Bad9IBwwFBVV95cUxQaUwtM2RpS0FMLXBoNENDZ0gxSXcyWWY1al81Rld3c2ZkUUlxMTdkb0xKLWw4S1Q4SlpHaklWUXpyRnMtWDVsNGh6Z0J2SXdOVjFfRTFzc0VfaC1WZ0VoelZRQl9NZU9aaG1ZZFgxSTVsckdRUmhrXzFaWkNmcTdhVzh4M2tPbkRqUFJCbDZIYWhGYk9CT1hGY001a3RCNlluUFJyLU1PNjA5OU0wOE1SUnU4Skt4eTNWbUxhTXdFaHFaSGc?oc=5)
 - [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
-- [Crude Oil Extends Gains as Saudi Refinery Attack and Hormuz Strait Mines Revive Supply Fears - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE1HRVo3bDYwM24tT2c0RTdaWndPNkxWTXBnZ3d6dDFScnpDY0tkcVhEUEozbkdQUnRwUE56RmY1Q0ZKU1pIN3ZkQ3pVSnpESFM3SEkzWU54bTJTZWNaQ29tMUp6QWcxNllLU3djRC1rd3hRaXlodFE?oc=5)
-- …and 8 more
+- [IEA Says Hormuz Shock Could Reshape Oil Trade for Years - The Astana Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVUwX1dheDZ2dWgyZThUSmdreTZOQUdpLUp0Qm5VRDZwRXVFTngtT2JQMS1aelRHME5iY2lvcjhTallYYXNnWm1SNkpXQWdzRlRFbU5VNG5ZMWMzRzJ0WDBLTFVFVWo4Xzd0OWhKX1Ria3I3RDRSbmRzWTFxQnBjcEFMTEo3YWk0UzZxcTVWLTd6UQ?oc=5)
+- …and 9 more
 
 ## DR Congo reimposes cobalt export ban to shore up prices - Financial Times
 *Mon, 23 Nov 2026 16:13:19 GMT* — [source](https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDlUMkllU3dBRlJvSFNmSE1hSzZfRE9qYlM3Um0zZnE0cW4yUDlEa09MUjM4bHNhdUNWRVc4TnRvWnZSWDJkd1lTcU5KdmI1ek85MzdLcGNhampzNlhBdXFrVGJSSHpkSERiQTNPZnZLVXdFcmRic1ZIaHNLWVNfeDByNlI?oc=5)
@@ -44,9 +44,9 @@ band is wide, the elasticities are doing the work, not the event.
 ```
 
 _18 corroborating headline(s):_
+- [Top Cobalt Producer Congo Will Ban Exports Again as Prices Slide - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUhQSnRtSTVYN2lSZTd6MjJBeWZKSEp3U3YxTUhVVWJ2dExPeE92UGVWaVhSeEszT0NJQTlsVy1WRUV5Z2Eza3pGNEZGeDE0cWpScjRmNk5qSVRqOERjeGQxYXBSZmFJZ2NvQmlNNVNJTDlKaWVGYU16LVlRSkJKVXVXb0pGODRJRkdXNGE0LVlCLU4tNlc5OWpzLWsyZTFiak50bnVQTHRBUXZsM0VUc2hRWGw5dw?oc=5)
+- [Cobalt price jumps 33% ahead of Congo export ban - The Northern Miner](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDZoSUoyYmR6UVFhNjFqb2hFZkxXNUppWHU0MDhyRW5rVjNCdllXel9hUkNHekpSVXoxMVpoblB2bGZ6dENoYVlDTGtlNXo4TnFUN216OGc1WHlPcHFNb2VuYktuWnFJbGdNZHJPR2Z1RzJfWGIxalNXcjdUSlNMUWFCbHh6WHh5RlFja09qYkJ4Zw?oc=5)
 - [Congo's cobalt ban leads Africa's turn to China-style export controls on minerals - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVENJWkdMVnlXSG0tS3RfMmpURGkydWVvU1luamI0eVk3bTllcEFzUUlpTUl0NG1ESS04OGFZS3NjSmxKY3pOTmpuMkJmLUJHUGZkLUk5S2FVNEtXUk8tVFdRTzA4Q0Y2SlpCM0dEMUszQm1tSFNKYmozNlE3UFQ2dTN2UE5nQTJiUTdyQnhPZ0JjUQ?oc=5)
-- [Cobalt jumps 33% ahead of Congo export ban - Canadian Mining Journal](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0U0OFhrR19fLWxUSUNtQUdnSjJLYmJTYTdyZlBXcThFaE9QeFNxb0NlN0hMR013QXRuWDNia081R2ptckxJbTNwZVVGSWc3M1pVclRDWVk4a1ZZakYybjd1VjZCWGluRTllMHR2dXQwTlRhVkxNaGUwT28wMThqYUM5el9SYWppS3ZsOURR?oc=5)
-- [Top Cobalt Producer Congo Will Ban Exports Again as Prices Slide - Bloomberg](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUhQSnRtSTVYN2lSZTd6MjJBeWZKSEp3U3YxTUhVVWJ2dExPeE92UGVWaVhSeEszT0NJQTlsVy1WRUV5Z2Eza3pGNEZGeDE0cWpScjRmNk5qSVRqOERjeGQxYXBSZmFJZ2NvQmlNNVNJTDlKaWVGYU16LVlRSkJKVXVXb0pGODRJRkdXNGE0LVlCLU4tNlc5OWpzLWsyZTFiak50bnVQTHRBUXZsM0VUc2hRWGw5dw?oc=5)
 - …and 15 more
 
 ## Black Sea Attacks Threaten Ukraine Grain Exports and 2027 Crops - DTN Progressive Farmer
