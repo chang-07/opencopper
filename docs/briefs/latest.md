@@ -1,11 +1,11 @@
-# News-driven model brief — 2026-11-27
+# News-driven model brief — 2026-11-28
 
 Headlines matched by transparent keyword rules; severities are PRIORS,
 impacts are first-order model mechanics (incidence + linkages). The
 human judges relevance. NOT investment advice.
 
 ## OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist - WSJ
-*Thu, 26 Nov 2026 13:27:00 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ19ETWdNTkIydlFuaDNsSGNHR3R6VmtyT0J5T3VKa0w3Mm9LLVdsd3UtM3hJT3RkWGdiTWlJS29TQzRxLWxjcDdBb2hCS1B6MG4yMU42c2hNSnprdVkxZmY1cU9VLWFCRDFtUUdRZkhqTTc3Ujd1YlpsQXlCdS04TnA2X2xtTjBYR0xhaVVqR0JIUGdWM3I3clBqcXB1OWlCZE5KcnFXWXp3MFVDZGc1OXhoOTJTdVQxZXc?oc=5)
+*Thu, 26 Nov 2026 13:29:05 GMT* — [source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ19ETWdNTkIydlFuaDNsSGNHR3R6VmtyT0J5T3VKa0w3Mm9LLVdsd3UtM3hJT3RkWGdiTWlJS29TQzRxLWxjcDdBb2hCS1B6MG4yMU42c2hNSnprdVkxZmY1cU9VLWFCRDFtUUdRZkhqTTc3Ujd1YlpsQXlCdS04TnA2X2xtTjBYR0xhaVVqR0JIUGdWM3I3clBqcXB1OWlCZE5KcnFXWXp3MFVDZGc1OXhoOTJTdVQxZXc?oc=5)
 Rule: crude-oil / Saudi Arabia / severity prior +20% — transit proxy on Gulf supply
 
 ```
@@ -21,11 +21,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_10 corroborating headline(s):_
+_11 corroborating headline(s):_
 - [Bypass the Strait of Hormuz? Why That’s Not So Easy - EnergyNow.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5)
 - [IEA Says Hormuz Shock Could Reshape Oil Trade for Years - The Astana Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVUwX1dheDZ2dWgyZThUSmdreTZOQUdpLUp0Qm5VRDZwRXVFTngtT2JQMS1aelRHME5iY2lvcjhTallYYXNnWm1SNkpXQWdzRlRFbU5VNG5ZMWMzRzJ0WDBLTFVFVWo4Xzd0OWhKX1Ria3I3RDRSbmRzWTFxQnBjcEFMTEo3YWk0UzZxcTVWLTd6UQ?oc=5)
 - [Supply fears lift global oil prices after Strait of Hormuz incidents - Baird Maritime](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMF9yaHJYdHRRcWppOUxnUzQtUVZpT2dSSWF2V24wclFENEg1anBRMEc3eWRQRFZLSDR0YmdTcUMyUWRhd3JJZDBUVkdmdXBpR1RJclg1OHRUTmpjblhZMUczbENTemVLOUFpRjEtclVzZlNrQjB4VTFFdmRtY05RaTZtQmZrN3NiUkc3VEtZWV9YWkc5MUFFX09VLWF0R3pldnZ6OTF1ZHNWaEhCZlpBMnF3U1Bad9IBwwFBVV95cUxQaUwtM2RpS0FMLXBoNENDZ0gxSXcyWWY1al81Rld3c2ZkUUlxMTdkb0xKLWw4S1Q4SlpHaklWUXpyRnMtWDVsNGh6Z0J2SXdOVjFfRTFzc0VfaC1WZ0VoelZRQl9NZU9aaG1ZZFgxSTVsckdRUmhrXzFaWkNmcTdhVzh4M2tPbkRqUFJCbDZIYWhGYk9CT1hGY001a3RCNlluUFJyLU1PNjA5OU0wOE1SUnU4Skt4eTNWbUxhTXdFaHFaSGc?oc=5)
-- …and 7 more
+- …and 8 more
 
 ## DRC cobalt export ban may lift prices but tests long-term market stability - S&P Global
 *Wed, 25 Nov 2026 06:16:31 GMT* — [source](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenNKUHVLS3U2UkxTcmU0MEc4SHhFamp6RHFKM09xNGVYdUN0WVJEdTdIUDZIRkdGUHNkMzkwOXpDTFdORzZ6a2tpMDBoazNRYVRRbUFkR1pqX19ZX3lhMTRJTVdxbjRfUUxkZWFFNTQ1a3l2N0hEcXc1bWVraUZ3Y3NBTjJOeEhvQ2E4X0l3U0lWUmZWQ1V1ZVAyMGV3aW1VX2czNVd6T185anNsczl1UHJhNTNRNWh5U2FWQUNYMFk2dndCMGpqUUVXclQ1SWhiX1ptY3RjT1lxdXJKSXl3N3NjYw?oc=5)
@@ -43,11 +43,11 @@ substitution / input-cost); couplings are disputable seed-estimates.
 band is wide, the elasticities are doing the work, not the event.
 ```
 
-_17 corroborating headline(s):_
+_18 corroborating headline(s):_
 - [DR Congo reimposes cobalt export ban to shore up prices - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDlUMkllU3dBRlJvSFNmSE1hSzZfRE9qYlM3Um0zZnE0cW4yUDlEa09MUjM4bHNhdUNWRVc4TnRvWnZSWDJkd1lTcU5KdmI1ek85MzdLcGNhampzNlhBdXFrVGJSSHpkSERiQTNPZnZLVXdFcmRic1ZIaHNLWVNfeDByNlI?oc=5)
-- [Top Cobalt Producer Congo Will Ban Exports Again as Prices Slide - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUhQSnRtSTVYN2lSZTd6MjJBeWZKSEp3U3YxTUhVVWJ2dExPeE92UGVWaVhSeEszT0NJQTlsVy1WRUV5Z2Eza3pGNEZGeDE0cWpScjRmNk5qSVRqOERjeGQxYXBSZmFJZ2NvQmlNNVNJTDlKaWVGYU16LVlRSkJKVXVXb0pGODRJRkdXNGE0LVlCLU4tNlc5OWpzLWsyZTFiak50bnVQTHRBUXZsM0VUc2hRWGw5dw?oc=5)
 - [The DRC reimposes cobalt export ban as prices drop - Semafor](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdm56M2g5bVpuUzJSVXNYbjVwaTFzYWJiQUxLVE9aVExfWDd2Mk5JbVNwSUpIRFZqZ1djMTZUelVHVHhjNmpzcnM5WXVGa3dyU2dYZUxaaHZlRU5FX0o1cE1kcmhKbnNhN2s0WVo3QzNYSUc4SXR6dkJpRl8wbFZyeGp2MUNpNFZURXZkdmczMU15NjJjNlBaeUZfbWxmaWgy?oc=5)
-- …and 14 more
+- [Top Cobalt Producer Congo Will Ban Exports Again as Prices Slide - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUhQSnRtSTVYN2lSZTd6MjJBeWZKSEp3U3YxTUhVVWJ2dExPeE92UGVWaVhSeEszT0NJQTlsVy1WRUV5Z2Eza3pGNEZGeDE0cWpScjRmNk5qSVRqOERjeGQxYXBSZmFJZ2NvQmlNNVNJTDlKaWVGYU16LVlRSkJKVXVXb0pGODRJRkdXNGE0LVlCLU4tNlc5OWpzLWsyZTFiak50bnVQTHRBUXZsM0VUc2hRWGw5dw?oc=5)
+- …and 15 more
 
 ## Black Sea Attacks Threaten Ukraine Grain Exports and 2027 Crops - DTN Progressive Farmer
 *Tue, 24 Nov 2026 10:15:00 GMT* — [source](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTROMm0ycmxRVllqWS1vZHpwSlNLV0VFMjN6SHEyVUs3NkNJMFJ5U0s0RjlIa2U4WGhvZlBSb2o4MFBKWklSLTNvdUp6VFd6NUNxS0VoeXFMWG5OUW9SQk5BNEZpUi1NWUp4WE54SGFqWk1rYmR5MWJOZ1ZFTUFMaVoydGpfWTFreklqRWxlYzZidEc5eEUzdFVQVC1XOGkwZ2l1OVBwTExLdC1JWVdYRFN6MDlYUQ?oc=5)
