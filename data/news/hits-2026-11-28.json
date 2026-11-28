@@ -1,8 +1,8 @@
 [
  {
-  "headline": "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ19ETWdNTkIydlFuaDNsSGNHR3R6VmtyT0J5T3VKa0w3Mm9LLVdsd3UtM3hJT3RkWGdiTWlJS29TQzRxLWxjcDdBb2hCS1B6MG4yMU42c2hNSnprdVkxZmY1cU9VLWFCRDFtUUdRZkhqTTc3Ujd1YlpsQXlCdS04TnA2X2xtTjBYR0xhaVVqR0JIUGdWM3I3clBqcXB1OWlCZE5KcnFXWXp3MFVDZGc1OXhoOTJTdVQxZXc?oc=5",
-  "published": "Thu, 26 Nov 2026 13:29:05 GMT",
+  "headline": "Global Energy Security at Risk if Strait of Hormuz Does Not Open in Weeks, IEA Chief Says - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDBFZVBWX0NZcWtPdmRsdmxyT3p4ZUJ2T1RYMTl1c1VwaDVVQ2NaMFp5ZFJnQmc4U21ZUXhXNXpPQzZ0eFB4UDBYaVFCU1k0MFRwVG14U0w1TGViMGJINmpYZi12QXUweU5yZmVIaFZZcGRvVnBlWlp2cXRYNlI2dy1feWltQW1Vd1l5bE1ob3g3YkwxbnR5RUN6MF9JNXd4eFgtV2dwS3JKM0x0T0w2SkJBMXBwWC0tcjNr?oc=5",
+  "published": "Fri, 27 Nov 2026 17:19:54 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -11,9 +11,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Bypass the Strait of Hormuz? Why That\u2019s Not So Easy - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5",
-  "published": "Wed, 25 Nov 2026 22:11:42 GMT",
+  "headline": "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ19ETWdNTkIydlFuaDNsSGNHR3R6VmtyT0J5T3VKa0w3Mm9LLVdsd3UtM3hJT3RkWGdiTWlJS29TQzRxLWxjcDdBb2hCS1B6MG4yMU42c2hNSnprdVkxZmY1cU9VLWFCRDFtUUdRZkhqTTc3Ujd1YlpsQXlCdS04TnA2X2xtTjBYR0xhaVVqR0JIUGdWM3I3clBqcXB1OWlCZE5KcnFXWXp3MFVDZGc1OXhoOTJTdVQxZXc?oc=5",
+  "published": "Thu, 26 Nov 2026 13:27:00 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -77,6 +77,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Bypass the Strait of Hormuz? Why That\u2019s Not So Easy - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhsUHMtRFR6c2FKbExXT2dhTTdxbzlyeTF1dUVucjdtemlRdnk2V1JIbHpuallkdS1fa3pJUWxmWm95YVZ0ZGZaQmlvdndJMmJuWENOYTJPU3hmaTZpUHZON3FZNG80RlFwb1EzNVVXQzZZTWNKQzEyTHhZYTR1Sk13NGFUTFE?oc=5",
+  "published": "Wed, 25 Nov 2026 22:11:42 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Why Are Oil Prices Falling Despite Renewed Strait of Hormuz Attacks? - Coinpaper",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTI0V195QUVSMnpoR1pUUjM2X2gxcWtyUVJzNzVCMElmRU1BcWdNeEJHS2FDN0lmWVgxUHB3NmRvYVp1SmM4N0ZqUmkzRWsxeUZtOGRsa25YOFdZX3MydzZfYlMzemlyUGdfTWxuZ1JKaTE0czViUkdxUkJ2dzV0SHpqZFg3SlV2a2kxRW44bFN6S1VFMmZCZWtYdw?oc=5",
   "published": "Wed, 25 Nov 2026 11:39:53 GMT",
@@ -99,6 +110,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
+  "published": "Sat, 21 Nov 2026 17:00:00 GMT",
+  "rule_note": "transit proxy on Gulf supply",
+  "commodity": "crude-oil",
+  "country": "Saudi Arabia",
+  "severity": 0.2,
+  "rule_id": "hormuz",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect - EnergyNow.com",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
   "published": "Wed, 25 Nov 2026 22:25:36 GMT",
@@ -110,9 +132,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Oil prices amid tensions in the Strait of Hormuz and increased supply - Inspenet",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WOFdBdVotOWwxcHhXT1o1UmxHOUhBek1vUWVwRnZIbXR3c2l6bE9Kc3d1dmc5SkFGRXBFVE95bW9WYW8talpUUmlYV21OT0xRSVZzeDlXcUlNaXJSX3pIVFlnLUtOU1VCOWgxa21B?oc=5",
-  "published": "Tue, 17 Nov 2026 19:28:22 GMT",
+  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
+  "published": "Tue, 24 Nov 2026 15:54:08 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -121,9 +143,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
-  "published": "Tue, 24 Nov 2026 15:54:08 GMT",
+  "headline": "Oil prices amid tensions in the Strait of Hormuz and increased supply - Inspenet",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WOFdBdVotOWwxcHhXT1o1UmxHOUhBek1vUWVwRnZIbXR3c2l6bE9Kc3d1dmc5SkFGRXBFVE95bW9WYW8talpUUmlYV21OT0xRSVZzeDlXcUlNaXJSX3pIVFlnLUtOU1VCOWgxa21B?oc=5",
+  "published": "Tue, 17 Nov 2026 19:28:22 GMT",
   "rule_note": "transit proxy on Gulf supply",
   "commodity": "crude-oil",
   "country": "Saudi Arabia",
@@ -209,6 +231,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "Congo's cobalt ban leads Africa's turn to China-style export controls on minerals - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVENJWkdMVnlXSG0tS3RfMmpURGkydWVvU1luamI0eVk3bTllcEFzUUlpTUl0NG1ESS04OGFZS3NjSmxKY3pOTmpuMkJmLUJHUGZkLUk5S2FVNEtXUk8tVFdRTzA4Q0Y2SlpCM0dEMUszQm1tSFNKYmozNlE3UFQ2dTN2UE5nQTJiUTdyQnhPZ0JjUQ?oc=5",
+  "published": "Thu, 26 Nov 2026 14:51:21 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "DRC announces new four-month cobalt export ban - Benchmark Mineral Intelligence",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEVBUlhRN0dObFlmS0djZVNiRzJzT0JabmZDcFJxY2lSMnVabkY4bmpNWFJJR0taUVBPS3ZHb2NCaG1HNHIzQlhDVndhaWt0UU1yTHBsWEJqT2l3NS1FWjlXaWh2dkRsUmJRQlUwX2xHRnBRTFlVSlVpWlpkdUxfRHB5MXRvT21tSHpIOVpvNml2b3k2MWc?oc=5",
   "published": "Mon, 23 Nov 2026 00:00:00 GMT",
@@ -223,39 +256,6 @@
   "headline": "Cobalt price jumps 33% ahead of Congo export ban - The Northern Miner",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDZoSUoyYmR6UVFhNjFqb2hFZkxXNUppWHU0MDhyRW5rVjNCdllXel9hUkNHekpSVXoxMVpoblB2bGZ6dENoYVlDTGtlNXo4TnFUN216OGc1WHlPcHFNb2VuYktuWnFJbGdNZHJPR2Z1RzJfWGIxalNXcjdUSlNMUWFCbHh6WHh5RlFja09qYkJ4Zw?oc=5",
   "published": "Thu, 26 Nov 2026 17:11:31 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Who Benefits From Congo's Cobalt Export Ban? - Uchumi360",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nMDU5VDNQWkRRNzVaeDBtMFl1eUl2M1hRVzMwaTBPZEk2eElmQ09iQUg4ZmJid1liQ1Q4NG8yeEVpVzV0bm5Da1lITnc2RHkwUlQ1NFRuZW5KWU5PQnR0OWxQVlIyXzA2amRV?oc=5",
-  "published": "Fri, 27 Nov 2026 21:57:14 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "DRC Reinstates Cobalt Export Ban - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2FxV0VDMHRvUDBlMUcyRjFWTUluMDF4SHptUkktNWVVenE5d0RQeTh6RUNpUWJBSU52RnlvMDVsbUJrbWRNYzlFMlhHOXhTdFdhZW5YcG9iQUQ0RXRqMHFtd0JkanBMbXpaTTdEUWt1RnBrSkNXLVpNRks0SFY5SjNaVFNtUQ?oc=5",
-  "published": "Tue, 24 Nov 2026 13:03:36 GMT",
-  "rule_note": "",
-  "commodity": "cobalt",
-  "country": "Congo (Kinshasa)",
-  "severity": 0.4,
-  "rule_id": "drc-cobalt-ban",
-  "source": "keyword-rule"
- },
- {
-  "headline": "Congo cobalt ban lifts prices, Chinese miners jump - Briefs Finance",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkxzdVdzd08tRGh5bTZfeVZOU1h5MkUxOU8ya3IteUNaVUZ4VmtwS1BidEpjYVluTnhYWGotbjUzNi0wYjBCTlVaSFJPZnIwbEswWHMyWjdSVHFJa0w3M0VEMFo5QXo5VS1xWDVvSWI2UVNyeHAteDA3OTd0MlBiaEVZWi12clZLZktjOFpKSU8?oc=5",
-  "published": "Tue, 24 Nov 2026 09:30:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -297,6 +297,17 @@
   "source": "keyword-rule"
  },
  {
+  "headline": "DRC Reinstates Cobalt Export Ban - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2FxV0VDMHRvUDBlMUcyRjFWTUluMDF4SHptUkktNWVVenE5d0RQeTh6RUNpUWJBSU52RnlvMDVsbUJrbWRNYzlFMlhHOXhTdFdhZW5YcG9iQUQ0RXRqMHFtd0JkanBMbXpaTTdEUWt1RnBrSkNXLVpNRks0SFY5SjNaVFNtUQ?oc=5",
+  "published": "Tue, 24 Nov 2026 13:03:36 GMT",
+  "rule_note": "",
+  "commodity": "cobalt",
+  "country": "Congo (Kinshasa)",
+  "severity": 0.4,
+  "rule_id": "drc-cobalt-ban",
+  "source": "keyword-rule"
+ },
+ {
   "headline": "Congo resumes cobalt export ban as prices slide - The Northern Miner",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5zbExjOGdiM0VjbFNjSHYwZlNxUHhET0NJaURERlVVUVg5MEMtc01GSlV1dXkyNW4tMXVXZVRkcEgxWTFfdWFLM3QwelNHZUhiWGNrNjlzempnQVdXYnVwbDR4YUpEZndNRW8wdGEzVjJ5ZU1PazN6MWVyS2FwRFZmYVFBeGppeDBRb21RX0Uyc3JwVGsxOG1R?oc=5",
   "published": "Mon, 23 Nov 2026 18:48:09 GMT",
@@ -319,9 +330,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Congo's cobalt ban leads Africa's turn to China-style export controls on minerals - IntelliNews",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0lfR1VObDRxUzBIcW9VNXZHY3VQZ1hjNEdFSzVubXFWZnRGai1icklqS1JSWmdRV1RXbVdidVZIbUNkTU9ub1VOLVE1WkdDZ0xxeGJsWkpPbU9uYmg0V3lZeUowaGpPSHNENmtuRDBhLS13dHpDdTlFSUJzMVpxX1kwa1A2WUhpQzJjOXBIRkczMVBTUC1KVDdWZWR1ZFF2X05LRjlfOEpOMGFzWHVWcC01UTJ4UHFH?oc=5",
-  "published": "Thu, 26 Nov 2026 14:53:54 GMT",
+  "headline": "Congo cobalt ban lifts prices, Chinese miners jump - Briefs Finance",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkxzdVdzd08tRGh5bTZfeVZOU1h5MkUxOU8ya3IteUNaVUZ4VmtwS1BidEpjYVluTnhYWGotbjUzNi0wYjBCTlVaSFJPZnIwbEswWHMyWjdSVHFJa0w3M0VEMFo5QXo5VS1xWDVvSWI2UVNyeHAteDA3OTd0MlBiaEVZWi12clZLZktjOFpKSU8?oc=5",
+  "published": "Tue, 24 Nov 2026 09:30:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -330,9 +341,9 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Tracy Shuchart: Congo export ban lifts cobalt price by 33 percent - Traders Union",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOblpkU003NlM2WksxUjdhcHA0dFFLS2FSbFhIY3h2RkdralltQkJ6Wmw3TW82SlMwclpoSUd3UE50RGpUaXJZLWZ4LTdGSndHUWhTa1V5b1VxMWR0cXk1ODlhRlZJTDM3WUctWW1wLXFqWloxZFlVdk9RLWRfUkRtVkVpaTlJTVE?oc=5",
-  "published": "Fri, 27 Nov 2026 13:25:17 GMT",
+  "headline": "Cobalt Price Nearly Halved From Peak as DR Congo Imposes Another Export Ban at End of November - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CVjNSZDJZWHpqWmpnM3BqcFBPREwwN0JmQndxQ1BqUWxVdnlybFM3V2IwNVBTN3VxOGhnUVh6dDlwcnl6OUMtNlY1TFVoQjlyckJoMW4wdlJKNW5ZcjV1VWNKZmhrTUlZVWs3NDZNMHl6V2xpTGc?oc=5",
+  "published": "Mon, 23 Nov 2026 14:05:00 GMT",
   "rule_note": "",
   "commodity": "cobalt",
   "country": "Congo (Kinshasa)",
@@ -352,9 +363,20 @@
   "source": "keyword-rule"
  },
  {
-  "headline": "Ukraine has proposals for a grain truce in the Black Sea, while Russia wants oil exports \u2014 Sybiha - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUo3dU5mdklsUXlmSHNWdGJIelhzcmFVRnI3bFhweVZ4enhFUFhlSWhFOVhERlZjQVlnQk11akVpUmt0dWZmeW1NZG5XWkJpNU96N2RSQnV2SE5IVkRwTWxWZmd3RTZnU2RRbFc1b3NwWmJuUTZUbnhPckM0Q3g4dFZnMHpUM1g4aENMaVI4NWhBTlY3N0dRUXJoWk5nQkZWb1JxLUdoRnFMcWIxanJaUNIBrwFBVV95cUxNSGpkVzRLN1BWZEZDcFhYcDNPeHE3eDVSVkRnbmQ1a19NY2E1ZFBvNGM1VWljSnRCYnBNcERPYm9XVzZDVGFPZEk3MGtuU0VIS2tpM0p6aDVNandwZjZXYUlWMWxOSUk3TUQ0emg3dml1endKM1VDaTBIYzZfcXRubVZyV0NCSnNsX01kM3Vlck9PMC1UYi1kd1pja0VsYzZiRFlicUdNenY0RElfM3VR?oc=5",
-  "published": "Fri, 27 Nov 2026 15:37:14 GMT",
+  "headline": "Russia seeks to include oil exports in Black Sea grain ceasefire agreement - \u0423\u043a\u0440\u0410\u0433\u0440\u043e\u041a\u043e\u043d\u0441\u0430\u043b\u0442",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTFPbTVjbXVpYlN5cXJTOUhDX2M4aU1LcXRQUVlUUG9DWUIya1VNTmh3NXR0ay1EaUhPR1ZQX1JmVkVjQUg4N0MxNzhPa2hUVTJSeXlsZlRDWlRBQnVUYVdta1pudFZUSEgtMlNuRnZKZEYzRVUyM2dQRlQ3SW9uRzJoZVVjUWY4eFZ1MzE0WmRTV051Y0VXeVBOUGRHdVJDUVcxOTVLb3Z0Z3V5T1g0?oc=5",
+  "published": "Sat, 28 Nov 2026 12:54:18 GMT",
+  "rule_note": "",
+  "commodity": "wheat",
+  "country": "Russia",
+  "severity": 0.15,
+  "rule_id": "blacksea-wheat",
+  "source": "keyword-rule"
+ },
+ {
+  "headline": "Russian Strikes on Grain Ships Threaten Ukraine\u2019s Black Sea Exports - Global Agriculture",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW5mV2N3cHRLUnQ3Rm5UVDMtTkJuY1Q5TlR5TFlCdEtNdUNXYWtNR3NXeVNPTHZaMjhLOTRJQUpydko5RUxpX0s3cExsdUQ3dFpicGJ4M2R1LTQ5YzR3SlljNXlHbl9STkJ0S1c3cE9YYm92Y3JoamdhYkx2dVdkLU81NGNhOC04WTlsdFRQaTVfTnpsXzU4RXZzTkVLRFFQN2V6SE4wNzM2T0F4YzdPaFU3eGJnX3pxczUycFF3?oc=5",
+  "published": "Sat, 28 Nov 2026 09:33:38 GMT",
   "rule_note": "",
   "commodity": "wheat",
   "country": "Russia",
